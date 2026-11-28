@@ -1,0 +1,16 @@
+id: sight-pa-portobelo-reef-diving
+name: "Portobelo Reef Diving and Snorkeling"
+location:
+  country_code: PA
+  latitude: 9.559
+  longitude: -79.674
+scores:
+  impact: 8.7
+  uniqueness: 8.5
+  significance: 8.0
+  experience: 9.0
+  depth: 8.3
+  categories:
+    adventure: 9.2
+    nature: 9.0
+    wildlife: 8.9

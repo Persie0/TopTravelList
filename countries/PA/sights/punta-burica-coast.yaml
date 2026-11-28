@@ -1,0 +1,16 @@
+id: sight-pa-punta-burica-coast
+name: "Punta Burica Coastal Landscape (Panama sector)"
+location:
+  country_code: PA
+  latitude: 8.03072
+  longitude: -82.87157
+scores:
+  impact: 8.2
+  uniqueness: 8.3
+  significance: 7.7
+  experience: 8.1
+  depth: 7.8
+  categories:
+    nature: 8.7
+    beaches: 8.6
+    adventure: 8.5

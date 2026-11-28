@@ -1,0 +1,16 @@
+id: sight-pa-punta-galeta-marine-laboratory
+name: "Punta Galeta Marine Laboratory and Mangrove Interpretation"
+location:
+  country_code: PA
+  latitude: 9.403
+  longitude: -79.865
+scores:
+  impact: 8.2
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.3
+  depth: 8.1
+  categories:
+    nature: 9.0
+    wildlife: 8.9
+    family: 8.6

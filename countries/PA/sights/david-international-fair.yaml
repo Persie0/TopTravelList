@@ -1,0 +1,16 @@
+id: sight-pa-david-international-fair
+name: "David International Agricultural and Cultural Fair"
+location:
+  country_code: PA
+  latitude: 8.438056
+  longitude: -82.424167
+scores:
+  impact: 8.3
+  uniqueness: 8.2
+  significance: 8.8
+  experience: 8.5
+  depth: 8.4
+  categories:
+    culture: 8.9
+    food: 8.7
+    family: 8.7

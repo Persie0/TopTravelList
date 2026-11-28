@@ -1,0 +1,16 @@
+id: sight-pa-san-lorenzo-national-park-forest
+name: "San Lorenzo National Park Forest and Coastal Trails"
+location:
+  country_code: PA
+  latitude: 9.2966
+  longitude: -80.02223
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.6
+  depth: 8.5
+  categories:
+    nature: 9.2
+    wildlife: 9.1
+    adventure: 8.8

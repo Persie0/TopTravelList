@@ -1,0 +1,16 @@
+id: sight-pa-barro-colorado-island-guided-research-forest
+name: "Barro Colorado Island Guided Research Forest Visit"
+location:
+  country_code: PA
+  latitude: 9.15473
+  longitude: -79.84806
+scores:
+  impact: 8.8
+  uniqueness: 9.3
+  significance: 9.5
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.3
+    wildlife: 9.4
+    adventure: 8.7

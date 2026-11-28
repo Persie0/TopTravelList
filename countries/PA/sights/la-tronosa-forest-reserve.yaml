@@ -1,0 +1,16 @@
+id: sight-pa-la-tronosa-forest-reserve
+name: "La Tronosa Forest Reserve"
+location:
+  country_code: PA
+  latitude: 7.388381
+  longitude: -80.598855
+scores:
+  impact: 8.1
+  uniqueness: 8.3
+  significance: 8.4
+  experience: 7.8
+  depth: 8.1
+  categories:
+    nature: 8.9
+    wildlife: 8.8
+    adventure: 8.3

@@ -1,0 +1,16 @@
+# Panama post-merge screening — pass 342
+
+Continues pass 341 (aea9f9094bc8294defe83903a25a8237d9fe31d3); 141 ranked baseline, 8 additions. Pass 332 remains unavailable; reconcile before merge. All ratings provisional editorial estimates. Coordinates represent sites or hubs, not exact entrances. No current access guarantees.
+
+| Candidate | Overall | Evidence and scope |
+| --- | ---: | --- |
+| Dolphin Bay Bioluminescence Night Excursion | 86.05 | Nighttime plankton phenomenon; no guaranteed intensity or global superlative. Representative mapped bay-side hub, not precise observation point. https://bocasnaturetours.com/night-tour.html ; https://mapcarta.com/N9139112554 |
+| Dolphin Bay Responsible Dolphin Observation | 86.50 | Resident bottlenose dolphins; research documents disturbance to feeding and social behavior. Only compliant distant observation credited, not swimming, chasing or guaranteed encounters. Same representative bay-side hub as night excursion but distinct experience. https://pmc.ncbi.nlm.nih.gov/articles/PMC7115753/ ; https://wwhandbook.iwc.int/en/case-studies/panama-bocas-del-toro ; https://mapcarta.com/N9139112554 |
+| Cerro La Silla Viewpoint Hike | 80.25 | Distinct eastern ridge overlooking El Valle; mapped viewpoint. https://www.el-valle-panama.com/cerro-la-silla-tour/ ; https://mapcarta.com/N12455818627 |
+| Cerro Cara Iguana Peak Hike | 80.00 | Separate ridge from India Dormida and Cerro La Silla; mapped summit. https://out.pa/en/guides/el-valle-de-anton-things-to-do ; https://mapcarta.com/19771714 |
+| Panama History Museum | 81.95 | Three historical exhibition rooms, including national symbols; approximate Municipal Palace location. https://sicultura.gob.pa/espacios-culturales/museos-otros-espacios-exhibicion-interpretacion-patrimonial/museo-de-historia-de-panama |
+| Museum of Colonial Religious Art | 81.45 | Historic religious art collection; Ministry announced relocation in April 2025. Approximate Casco Antiguo district point, current exact venue and opening not confirmed. https://micultura.gob.pa/2025/04/01/museo-de-arte-religioso-colonial-en-nueva-sede/ |
+| El Palmar Beach Surfing | 78.10 | Separate Pacific surf break; mapped beach center. https://www.tourismpanama.com/places-to-visit/pacific-riviera/things-to-do/watersports-and-beaches/ ; https://mapcarta.com/W671408810 |
+| Santa Clara Beach (Coclé) | 77.70 | Broad Pacific beach with recreational paddling; mapped beach point. https://www.tourismpanama.com/places-to-visit/pacific-riviera/things-to-do/watersports-and-beaches/ ; https://mapcarta.com/W671408825 |
+
+Calibration: bioluminescence and dolphin observation separately scoped within the same bay; below Pearl Islands whale watching 90.75 and flagship natural phenomena. Ridge hikes comparable to India Dormida 80.40; museums distinct from Casco Antiguo district, no district-level score inherited. Finca Lérida coffee omitted as part of existing Boquete coffee circuit, Las Nubes trails within La Amistad already represented by whole-park record. No new 90+ scores. All 149 weighted rows and unique slugs checked in JS; full Python generator/schema validation and earlier reconciliation outstanding. Existing YAML unchanged; no Actions manually dispatched.

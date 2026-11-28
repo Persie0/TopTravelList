@@ -1,0 +1,16 @@
+id: sight-pa-boquete-geisha-coffee-circuit
+name: "Boquete Geisha Coffee Farm and Tasting Circuit"
+location:
+  country_code: PA
+  latitude: 8.78
+  longitude: -82.44
+scores:
+  impact: 8.8
+  uniqueness: 9.4
+  significance: 9.1
+  experience: 9.1
+  depth: 8.7
+  categories:
+    food: 9.6
+    culture: 9.0
+    nature: 8.7

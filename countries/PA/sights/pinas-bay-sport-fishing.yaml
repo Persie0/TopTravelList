@@ -1,0 +1,16 @@
+id: sight-pa-pinas-bay-sport-fishing
+name: "Piñas Bay Guided Sport Fishing"
+location:
+  country_code: PA
+  latitude: 7.5667
+  longitude: -78.2
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 9.0
+  experience: 9.0
+  depth: 8.5
+  categories:
+    adventure: 9.6
+    nature: 8.9
+    wildlife: 8.8

@@ -1,0 +1,16 @@
+id: sight-pa-colon-historic-centre
+name: "Colón Historic Centre"
+location:
+  country_code: PA
+  latitude: 9.35973
+  longitude: -79.90369
+scores:
+  impact: 8.1
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 7.7
+  depth: 8.6
+  categories:
+    architecture: 8.7
+    history: 9.4
+    culture: 8.8

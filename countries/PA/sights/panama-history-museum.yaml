@@ -1,0 +1,16 @@
+id: sight-pa-panama-history-museum
+name: "Panama History Museum"
+location:
+  country_code: PA
+  latitude: 8.9524
+  longitude: -79.535
+scores:
+  impact: 7.9
+  uniqueness: 8.3
+  significance: 8.9
+  experience: 7.8
+  depth: 8.0
+  categories:
+    history: 9.1
+    culture: 8.8
+    architecture: 8.1

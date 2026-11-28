@@ -1,0 +1,16 @@
+id: sight-pa-panama-natural-sciences-museum
+name: "Panama Natural Sciences Museum"
+location:
+  country_code: PA
+  latitude: 8.967
+  longitude: -79.536
+scores:
+  impact: 7.6
+  uniqueness: 8.0
+  significance: 8.5
+  experience: 7.6
+  depth: 8.0
+  categories:
+    nature: 8.9
+    wildlife: 8.8
+    family: 8.4

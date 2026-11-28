@@ -1,0 +1,16 @@
+id: sight-pa-el-pausilipo-house-museum
+name: "El Pausílipo House Museum"
+location:
+  country_code: PA
+  latitude: 7.77
+  longitude: -80.26
+scores:
+  impact: 7.4
+  uniqueness: 8.0
+  significance: 8.5
+  experience: 7.7
+  depth: 7.7
+  categories:
+    history: 8.9
+    culture: 8.6
+    architecture: 8.2

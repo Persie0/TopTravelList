@@ -1,0 +1,16 @@
+id: sight-pa-santa-librada-church
+name: "Santa Librada Church (Las Tablas)"
+location:
+  country_code: PA
+  latitude: 7.765
+  longitude: -80.275
+scores:
+  impact: 7.9
+  uniqueness: 8.3
+  significance: 8.8
+  experience: 7.7
+  depth: 7.6
+  categories:
+    architecture: 8.7
+    history: 9.0
+    culture: 8.8

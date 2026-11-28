@@ -1,0 +1,16 @@
+id: sight-pa-carenero-island-surfing
+name: "Carenero Island Surf Breaks"
+location:
+  country_code: PA
+  latitude: 9.35385
+  longitude: -82.22771
+scores:
+  impact: 8.6
+  uniqueness: 8.4
+  significance: 7.7
+  experience: 9.1
+  depth: 8.1
+  categories:
+    adventure: 9.3
+    beaches: 8.8
+    nature: 8.5

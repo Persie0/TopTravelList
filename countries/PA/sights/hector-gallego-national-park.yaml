@@ -1,0 +1,16 @@
+id: sight-pa-hector-gallego-national-park
+name: "Héctor Gallego National Park (Calovébora coastal sector)"
+location:
+  country_code: PA
+  latitude: 8.78717
+  longitude: -81.21123
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.0
+  depth: 8.3
+  categories:
+    nature: 9.1
+    wildlife: 8.9
+    beaches: 8.7

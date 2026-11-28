@@ -1,0 +1,16 @@
+id: sight-pa-fortuna-forest-reserve
+name: "Fortuna Forest Reserve"
+location:
+  country_code: PA
+  latitude: 8.73
+  longitude: -82.22
+scores:
+  impact: 8.4
+  uniqueness: 8.5
+  significance: 8.7
+  experience: 8.0
+  depth: 8.4
+  categories:
+    nature: 9.1
+    wildlife: 9.0
+    adventure: 8.4

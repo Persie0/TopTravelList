@@ -1,0 +1,16 @@
+id: sight-pa-teatro-nacional-panama
+name: "National Theatre of Panama"
+location:
+  country_code: PA
+  latitude: 8.953
+  longitude: -79.533
+scores:
+  impact: 8.2
+  uniqueness: 8.3
+  significance: 8.6
+  experience: 8.4
+  depth: 7.8
+  categories:
+    architecture: 9.1
+    culture: 8.9
+    history: 8.8

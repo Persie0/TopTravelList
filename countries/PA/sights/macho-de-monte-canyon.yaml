@@ -1,0 +1,16 @@
+id: sight-pa-macho-de-monte-canyon
+name: "Macho de Monte Canyon"
+location:
+  country_code: PA
+  latitude: 8.68572
+  longitude: -82.60703
+scores:
+  impact: 8.5
+  uniqueness: 8.4
+  significance: 7.4
+  experience: 8.5
+  depth: 7.7
+  categories:
+    nature: 8.8
+    adventure: 8.9
+    photography: 8.9

@@ -1,0 +1,16 @@
+id: sight-pa-cerro-punta-agritourism
+name: "Cerro Punta Highland Farm and Strawberry Harvest Circuit"
+location:
+  country_code: PA
+  latitude: 8.8526
+  longitude: -82.5736
+scores:
+  impact: 8.3
+  uniqueness: 8.6
+  significance: 8.1
+  experience: 8.7
+  depth: 8.1
+  categories:
+    food: 9.0
+    culture: 8.7
+    photography: 8.8

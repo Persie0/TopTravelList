@@ -1,0 +1,16 @@
+id: sight-pa-monument-martyrs-january-nine
+name: "Monument to the Martyrs of January 9"
+location:
+  country_code: PA
+  latitude: 8.959
+  longitude: -79.553
+scores:
+  impact: 7.5
+  uniqueness: 8.1
+  significance: 9.0
+  experience: 7.5
+  depth: 7.4
+  categories:
+    history: 9.3
+    culture: 8.8
+    architecture: 8.0

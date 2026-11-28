@@ -1,0 +1,16 @@
+id: sight-pa-chame-bay-mangrove-reserve
+name: "Chame Bay Mangrove Nature Reserve"
+location:
+  country_code: PA
+  latitude: 8.6487
+  longitude: -79.7944
+scores:
+  impact: 8.3
+  uniqueness: 8.4
+  significance: 8.7
+  experience: 8.0
+  depth: 8.2
+  categories:
+    nature: 9.0
+    wildlife: 9.0
+    photography: 8.6

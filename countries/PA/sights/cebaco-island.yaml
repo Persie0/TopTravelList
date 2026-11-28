@@ -1,0 +1,16 @@
+id: sight-pa-cebaco-island
+name: "Cébaco Island Coastal Exploration"
+location:
+  country_code: PA
+  latitude: 7.52
+  longitude: -81.16
+scores:
+  impact: 8.6
+  uniqueness: 8.5
+  significance: 7.8
+  experience: 8.7
+  depth: 8.1
+  categories:
+    beaches: 9.0
+    nature: 9.0
+    adventure: 8.8

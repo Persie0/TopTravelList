@@ -1,0 +1,16 @@
+id: sight-pa-victoriano-lorenzo-museum
+name: "Victoriano Lorenzo Museum (El Valle)"
+location:
+  country_code: PA
+  latitude: 8.601
+  longitude: -80.13
+scores:
+  impact: 7.4
+  uniqueness: 8.0
+  significance: 8.4
+  experience: 7.6
+  depth: 7.6
+  categories:
+    history: 8.9
+    culture: 8.6
+    architecture: 8.0

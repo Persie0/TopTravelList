@@ -1,0 +1,16 @@
+id: sight-pa-museum-contemporary-art-panama
+name: "Museum of Contemporary Art Panama (MAC)"
+location:
+  country_code: PA
+  latitude: 8.96
+  longitude: -79.54
+scores:
+  impact: 7.8
+  uniqueness: 8.1
+  significance: 8.3
+  experience: 8.2
+  depth: 7.8
+  categories:
+    culture: 8.8
+    history: 8.0
+    photography: 8.1

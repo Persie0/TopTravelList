@@ -1,0 +1,16 @@
+id: sight-pa-morillo-beach-surfing
+name: "Morillo Beach Surfing"
+location:
+  country_code: PA
+  latitude: 7.43
+  longitude: -81.03
+scores:
+  impact: 8.5
+  uniqueness: 8.3
+  significance: 7.4
+  experience: 9.0
+  depth: 7.8
+  categories:
+    adventure: 9.3
+    beaches: 8.9
+    photography: 8.6

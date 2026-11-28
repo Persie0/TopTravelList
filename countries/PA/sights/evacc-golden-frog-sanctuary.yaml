@@ -1,0 +1,16 @@
+id: sight-pa-evacc-golden-frog-sanctuary
+name: "EVACC Golden Frog Conservation Center"
+location:
+  country_code: PA
+  latitude: 8.614
+  longitude: -80.113
+scores:
+  impact: 8.3
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 8.5
+  depth: 8.2
+  categories:
+    wildlife: 9.4
+    nature: 9.0
+    family: 8.8
