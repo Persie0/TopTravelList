@@ -1894,3 +1894,232 @@ Seven additions and one rescore. Two researched high-score decisions; six provis
 - High-score challenge: Rare long occupation and documented monumental public temples support low 90s, below larger Maya capitals; no extra river wildlife credit. No approved 10 requested.
 - Earlier decision: Prior review retained.
 - Remaining verification: current public access and preservation, additional numerical peers and full diagnostics.
+
+# Pass 410 — 2026-11-28 — direct main continuation
+
+Nine additions, one researched fact-checked high-score decision and eight provisional source-linked ratings. JS inventory, weighted formula, coordinate range, uniqueness, ranking and README checks only; full Python validation/benchmark scripts and Actions not run. Río Bravo, Belize Maya Forest Trust and Gallon Jug are distinct management and experience scopes, not additive. Bladen permits educational/research activity only; no ordinary tourism credit. No assumed private access or wildlife encounter. Doyle's Delight expedition headline conflicts with documented 2021 ranger visit; no unsupported first-ascent chronology. Actun Chapat uses tour office point, not cave entrance. PDF search excerpts only, not full documents reviewed.
+
+## sight-bz-rio-bravo-conservation-area — Río Bravo Conservation and Management Area — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/rio-bravo-conservation-area.yaml)
+- Action: new
+- Precise subject: Named protected forest and wetlands, guided nature visits from La Milpa and Hill Bank; excludes separately rated La Milpa archaeology and adjacent Belize Maya Forest.
+- Location check: 17.64999, -88.90136; approximate representative point, not verified entrance or route.
+- Evidence status: fact-checked; indexed sources, not a field inspection.
+- Sources consulted 2026-11-28: https://www.massaudubon.org/our-work/global-conservation (262,000 acres and two visitor facilities); https://www.worldlandtrust.org/belize/ (254,000-acre estimate, largest private protected area); https://www.btia.org/tour-item/la-milpa-ecolodge-and-research-center/ (guided trails and birding); https://ecologynwbelize.org/environment-and-vegetation/ (habitat breadth); https://www.fodors.com/world/mexico-and-central-america/belize/northern-belize/places/rio-bravo-conservation-and-management-area/things-to-do/sights?keywords=national-park (about 400 bird and 70 mammal species); https://aroundus.com/p/174646308-rio-bravo-conservation-and-management-area (representative point).
+- Worldwide peers (qualitative; existing Cockscomb ranking checked, other peer YAML not refetched):
+  - Cockscomb Basin (BZ, 88.50): more focused sanctuary, less extensive habitat mosaic
+  - Sierra de las Minas (GT, 89.80): broader elevational gradient but different documented visitor program
+  - Corcovado (CR): more distinctive coastal rainforest and visible wildlife
+  - Manú (PE): far greater ecological breadth and global rarity.
+- Individual scores:
+  - impact: 8.9 — Extensive tropical forest, lagoons and wetlands create strong immersive appeal
+  - uniqueness: 9.0 — Unusually large continuous protected forest with several habitat types
+  - significance: 9.4 — Regional conservation scale and approximately 400 documented bird species support high significance
+  - experience: 9.0 — Established guided forest and water excursions provide specialist depth without sighting guarantees
+  - depth: 9.2 — Multiple habitats and two visitor bases support sustained exploration.
+- Categories: nature 9.4, wildlife 9.4, photography 9.0, adventure 8.8.
+- Overall: 90.70/100.
+- High-score challenge: Independent conservation and tourism sources document approximately a quarter-million acres, varied habitats, nearly 400 recorded birds and established guided visitor programs. Low 90s appropriate relative to larger and more distinctive global rainforest peers; no separate ruins merit or guaranteed wildlife sightings. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise public access and current ecology, numerical peers and full diagnostics.
+
+## sight-bz-belize-maya-forest — Belize Maya Forest Trust Protected Landscape — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/belize-maya-forest.yaml)
+- Action: new
+- Precise subject: 2021 conservation acquisition managed by Belize Maya Forest Trust only, excluding neighboring Río Bravo and privately managed Gallon Jug estate. Approximate area reference point, not public entrance. No organized visitor access established.
+- Location check: 17.55, -88.99; approximate representative point, not verified entrance or route.
+- Evidence status: source-linked-unverified; indexed sources, not a field inspection.
+- Sources consulted 2026-11-28: https://www.nature.org/en-us/get-involved/how-to-help/places-we-protect/rio-bravo-reserve/ (236,000-acre acquisition); https://www.rainforesttrust.org/urgent-projects/secure-critical-jaguar-habitat-in-the-maya-forest-of-belize/ (connectivity and protected habitat); https://www.worldlandtrust.org/belize/ (adjacent Río Bravo); coordinate approximated from indexed boundary description https://www.terraglobalcapital.com/wp-content/uploads/2024/09/TNC-Belize-Maya-Forest-REDD-MR1_v0-15.pdf (not full PDF inspected).
+- Worldwide peers (qualitative; existing Cockscomb ranking checked, other peer YAML not refetched):
+  - Maya Biosphere Reserve (GT): much larger protected landscape
+  - Corcovado (CR): more established wildlife visits
+  - Cockscomb Basin (BZ): stronger documented ordinary trail experience
+  - Río Bravo (BZ): comparable forest extent with confirmed visitor facilities.
+- Individual scores:
+  - impact: 8.8 — Extensive intact forest offers high intrinsic natural appeal
+  - uniqueness: 8.9 — Large contiguous jaguar habitat is regionally unusual
+  - significance: 9.4 — International conservation partnership and corridor importance warrant high significance
+  - experience: 7.8 — No established ordinary visitor route assumed
+  - depth: 9.0 — Multiple forest and wetland habitats provide ecological depth.
+- Categories: nature 9.4, wildlife 9.3, photography 8.8.
+- Overall: 88.15/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise public access and current ecology, numerical peers and full diagnostics.
+
+## sight-bz-las-cuevas-research-station — Las Cuevas Research Station Forest and Wildlife Experience — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/las-cuevas-research-station.yaml)
+- Action: new
+- Precise subject: Authorized station-based nature walks and observation, not general Chiquibul National Park, protected cave passages, or hotel amenities.
+- Location check: 16.732869, -88.985952; approximate representative point, not verified entrance or route.
+- Evidence status: source-linked-unverified; indexed sources, not a field inspection.
+- Sources consulted 2026-11-28: https://lascuevas.org/about-us/ and https://lascuevas.org/visiting-lcrs/ (station and visitor lodging); https://fcdbelize.org/chiquibul-forest-reserve/ (station location and research); https://mwfb.ucdavis.edu/sites/g/files/dgvnsk1266/files/inline-files/Engilis%20Cole%20Caro%20Belize%20OP308.pdf (indexed locality coordinate only).
+- Worldwide peers (qualitative; existing Cockscomb ranking checked, other peer YAML not refetched):
+  - Las Guacamayas (GT): similarly focused field station wildlife experience
+  - La Selva Biological Station (CR): broader documented research and education program
+  - Cockscomb Basin (BZ): established sanctuary trail network
+  - Río Bravo (BZ): larger protected landscape.
+- Individual scores:
+  - impact: 8.5 — Remote forest immersion provides strong appeal
+  - uniqueness: 8.7 — Research-station setting is distinctive but comparable worldwide
+  - significance: 8.8 — Biodiversity monitoring and protected forest support significance
+  - experience: 8.5 — Authorized visits provide focused exploration, guided activity details not fully verified
+  - depth: 8.6 — Station and surrounding habitats offer sustained observation.
+- Categories: nature 9.1, wildlife 9.2, adventure 8.7, photography 8.8.
+- Overall: 86.20/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise public access and current ecology, numerical peers and full diagnostics.
+
+## sight-bz-doyles-delight — Doyle’s Delight Mountain — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/doyles-delight.yaml)
+- Action: new
+- Precise subject: Highest national summit and its remote forest landscape, not a routine hike or an established public route.
+- Location check: 16.49417, -89.04583; approximate representative point, not verified entrance or route.
+- Evidence status: source-linked-unverified; indexed sources, not a field inspection.
+- Sources consulted 2026-11-28: https://www.greaterbelize.com/first-team-to-summit-doyles-delight-since-2008/ (1,124 m and 2024 expedition report); https://www.breakingbelizenews.com/2021/03/16/friends-for-conservation-and-development-complete-expedition-to-doyles-delight/ (2021 ranger expedition, contradicts headline claim of no summit since 2008); https://en.wikipedia.org/wiki/Doyle%27s_Delight (summit coordinate).
+- Worldwide peers (qualitative; existing Cockscomb ranking checked, other peer YAML not refetched):
+  - Cerro Chirripó (CR): much greater high-alpine scenery and established trek
+  - Tajumulco (GT): far higher mountain and stronger summit vistas
+  - Mount Roraima (VE): more dramatic geological summit
+  - Victoria Peak (BZ): more established specialist ascent.
+- Individual scores:
+  - impact: 8.2 — Remote forested summit is attractive but not monumental alpine terrain
+  - uniqueness: 8.6 — Isolated national high point and rainforest setting are distinctive regionally
+  - significance: 8.5 — National geographic and expedition importance
+  - experience: 7.9 — No ordinary visitor trail verified, specialist expedition only
+  - depth: 8.5 — Extended forest approach provides intrinsic breadth.
+- Categories: nature 8.9, adventure 9.0.
+- Overall: 83.45/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise public access and current ecology, numerical peers and full diagnostics.
+
+## sight-bz-black-hole-drop — Actun Loch Tunich Black Hole Drop — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/black-hole-drop.yaml)
+- Action: new
+- Precise subject: Named guided sinkhole adventure, excludes other Caves Branch cave tours; no independent descent or technical instructions.
+- Location check: 17.12887, -88.71056; approximate representative point, not verified entrance or route.
+- Evidence status: source-linked-unverified; indexed sources, not a field inspection.
+- Sources consulted 2026-11-28: https://www.cavesbranch.com/belize-black-hole-drop/ (operator: rim over 300 feet above basin); https://www.thebanksbelize.com/activities/black-hole-drop-tour/ (guided jungle excursion); https://mapcarta.com/26230090 (representative mapped sinkhole point).
+- Worldwide peers (qualitative; existing Cockscomb ranking checked, other peer YAML not refetched):
+  - Hoyo El Cimarrón (GT): comparable large forest sinkhole without equivalent guided adventure
+  - Sótano de las Golondrinas (MX): much greater vertical scale and bird spectacle
+  - Waitomo caves (NZ): different established underground adventure
+  - ATM (BZ): much greater archaeological importance.
+- Individual scores:
+  - impact: 8.9 — Large forested sinkhole offers striking visual drama
+  - uniqueness: 8.8 — Guided descent into rainforest-filled karst depression is relatively uncommon
+  - significance: 7.9 — Regional geological interest without global heritage claims
+  - experience: 9.2 — Documented specialist guided adventure provides strong engagement
+  - depth: 8.4 — Forest approach and sinkhole experience add moderate breadth.
+- Categories: adventure 9.4, nature 9.0, photography 8.9.
+- Overall: 86.70/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise public access and current ecology, numerical peers and full diagnostics.
+
+## sight-bz-actun-chapat-cave — Actun Chapat Guided Cave Experience — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/actun-chapat-cave.yaml)
+- Action: new
+- Precise subject: Named guided dry cave and archaeological interpretation only; public tour-office reference point intentionally used instead of cave entrance; no touching artifacts.
+- Location check: 17.08788, -89.12604; approximate representative point, not verified entrance or route.
+- Evidence status: source-linked-unverified; indexed sources, not a field inspection.
+- Sources consulted 2026-11-28: https://ninebelize.com/product/actun-chapat/ (guided dry cave); https://belizing.com/4/Actun-Chapat-Cave-Tour-Experience/ (Cave World tour context); https://www.bvarproject.org/_files/ugd/ad402d_13a888edc8c14e978e0e95334b3d834c.pdf (indexed archaeological project excerpt only); https://mapcarta.com/N2875509387 (mapped tour office).
+- Worldwide peers (qualitative; existing Cockscomb ranking checked, other peer YAML not refetched):
+  - ATM (BZ): more exceptional documented ritual remains
+  - Candelaria Caves (GT): much larger underground river landscape
+  - Barton Creek (BZ): distinctive canoe cave experience
+  - Che Chem Ha (BZ): comparable archaeological cave focus.
+- Individual scores:
+  - impact: 8.4 — Dry cave chambers and formations provide strong impact
+  - uniqueness: 8.7 — Archaeological cave setting distinguishes it from purely geological tours
+  - significance: 8.7 — Documented archaeological investigations support historical significance
+  - experience: 8.6 — Guided cave encounter provides good adventure and interpretation
+  - depth: 8.4 — Multiple cave features and cultural context add depth.
+- Categories: adventure 9.0, history 9.0, nature 8.8.
+- Overall: 85.65/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise public access and current ecology, numerical peers and full diagnostics.
+
+## sight-bz-paynes-creek-national-park — Payne’s Creek National Park — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/paynes-creek-national-park.yaml)
+- Action: new
+- Precise subject: Named coastal savanna, mangroves and lagoon park with authorized wildlife visits; excludes Port Honduras Marine Reserve, guaranteed sightings and fishing claims.
+- Location check: 16.33333, -88.58333; approximate representative point, not verified entrance or route.
+- Evidence status: source-linked-unverified; indexed sources, not a field inspection.
+- Sources consulted 2026-11-28: https://tidebelize.org/paynes-creek-national-park/ and https://tidetours.org/destinations/paynes-creek-national-park/ (park habitats and manatee breeding lagoon); https://tidebelize.org/wp-content/uploads/2018/02/Paynes-Creek-National-Park-Management-Plan.pdf (indexed approximate center 16°20′N 88°35′W only).
+- Worldwide peers (qualitative; existing Cockscomb ranking checked, other peer YAML not refetched):
+  - Tortuguero (CR): greater established wildlife canal tours
+  - Sian Ka’an (MX): much broader coastal ecology
+  - Bocas del Polochic (GT): different freshwater delta
+  - Port Honduras (BZ): marine rather than coastal savanna focus.
+- Individual scores:
+  - impact: 8.5 — Pine savanna and mangrove lagoons offer attractive landscape
+  - uniqueness: 8.7 — Distinct habitat mosaic is regionally notable
+  - significance: 9.0 — Protected breeding habitat and conservation value support significance
+  - experience: 8.5 — Documented nature visits offer meaningful encounter
+  - depth: 8.8 — Several habitats provide exploration depth.
+- Categories: nature 9.2, wildlife 9.2, photography 8.8, adventure 8.6.
+- Overall: 86.80/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise public access and current ecology, numerical peers and full diagnostics.
+
+## sight-bz-chan-chich-gallon-jug-wildlife — Chan Chich and Gallon Jug Forest Wildlife Experience — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/chan-chich-gallon-jug-wildlife.yaml)
+- Action: new
+- Precise subject: Private estate guided wildlife and birding experience, distinct from the Trust's surrounding conservation acquisition and Río Bravo. No lodging or unexcavated archaeological site merits.
+- Location check: 17.5379, -89.1113; approximate representative point, not verified entrance or route.
+- Evidence status: source-linked-unverified; indexed sources, not a field inspection.
+- Sources consulted 2026-11-28: https://chanchich.com/ (30,000-acre private reserve and >370 recorded bird species, operator report); https://chanchich.com/sustainability (distinct estate and adjacent Belize Maya Forest conservation); https://www.orniverse.com/site/7794/chan-chich-lodge (public birding locality).
+- Worldwide peers (qualitative; existing Cockscomb ranking checked, other peer YAML not refetched):
+  - Las Guacamayas (GT): comparable guided wildlife program
+  - Los Tarrales (GT): stronger documented endemic-bird elevational diversity
+  - Cockscomb Basin (BZ): dedicated wildlife sanctuary
+  - Monteverde (CR): greater iconic cloud forest.
+- Individual scores:
+  - impact: 8.8 — Extensive forest and diverse wildlife offer strong immersion
+  - uniqueness: 8.9 — Concentrated private wildlife habitat and established birding are distinctive
+  - significance: 9.0 — Forest stewardship and species habitat support high significance
+  - experience: 8.9 — Guided observation offers strong specialist appeal without jaguar guarantees
+  - depth: 8.8 — Multiple trails and habitats add substantial breadth.
+- Categories: nature 9.3, wildlife 9.4, photography 9.0.
+- Overall: 88.80/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise public access and current ecology, numerical peers and full diagnostics.
+
+## sight-bz-bladen-nature-reserve — Bladen Nature Reserve — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/bladen-nature-reserve.yaml)
+- Action: new
+- Precise subject: Strictly protected forest landscape, only authorized educational or research activities. No ordinary tourist access, cave access or inferred permission.
+- Location check: 16.491, -88.886; approximate representative point, not verified entrance or route.
+- Evidence status: source-linked-unverified; indexed sources, not a field inspection.
+- Sources consulted 2026-11-28: https://www.yaaxche.org/services/bladen-nature-reserve/ (manager: only educational and research activities; >4,000 plant species and habitat for >57% of Belize's known mammals); https://www.travelbelize.org/attraction/bladen-nature-reserve/ (about 100,000 acres); https://commons.wikimedia.org/wiki/Category%3ABladen_Nature_Reserve (approximate reserve point).
+- Worldwide peers (qualitative; existing Cockscomb ranking checked, other peer YAML not refetched):
+  - Manú (PE): much greater ecological extent and established visitor zones
+  - Corcovado (CR): stronger public wildlife experience
+  - Sierra de las Minas (GT): larger elevational landscape
+  - Chiquibul (BZ): more documented visitor contexts.
+- Individual scores:
+  - impact: 8.9 — Intact forest and karst landscape provide strong intrinsic appeal
+  - uniqueness: 9.1 — Large relatively undisturbed diverse rainforest is regionally rare
+  - significance: 9.4 — Exceptional documented national biodiversity and strict conservation significance
+  - experience: 7.5 — No ordinary public visitor route credited, authorized research/education only
+  - depth: 9.0 — Multiple ecosystems and landforms provide intrinsic breadth.
+- Categories: nature 9.4, wildlife 9.4.
+- Overall: 88.50/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise public access and current ecology, numerical peers and full diagnostics.

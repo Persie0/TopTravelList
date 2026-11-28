@@ -1,0 +1,15 @@
+id: sight-bz-bladen-nature-reserve
+name: "Bladen Nature Reserve"
+location:
+  country_code: BZ
+  latitude: 16.491
+  longitude: -88.886
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 9.4
+  experience: 7.5
+  depth: 9.0
+  categories:
+    nature: 9.4
+    wildlife: 9.4

@@ -1,0 +1,16 @@
+id: sight-bz-chan-chich-gallon-jug-wildlife
+name: "Chan Chich and Gallon Jug Forest Wildlife Experience"
+location:
+  country_code: BZ
+  latitude: 17.5379
+  longitude: -89.1113
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.9
+  depth: 8.8
+  categories:
+    nature: 9.3
+    wildlife: 9.4
+    photography: 9.0

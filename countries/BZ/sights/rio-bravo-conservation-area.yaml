@@ -1,0 +1,17 @@
+id: sight-bz-rio-bravo-conservation-area
+name: "Río Bravo Conservation and Management Area"
+location:
+  country_code: BZ
+  latitude: 17.64999
+  longitude: -88.90136
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.4
+  experience: 9.0
+  depth: 9.2
+  categories:
+    nature: 9.4
+    wildlife: 9.4
+    photography: 9.0
+    adventure: 8.8

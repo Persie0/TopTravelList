@@ -1,0 +1,17 @@
+id: sight-bz-las-cuevas-research-station
+name: "Las Cuevas Research Station Forest and Wildlife Experience"
+location:
+  country_code: BZ
+  latitude: 16.732869
+  longitude: -88.985952
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.5
+  depth: 8.6
+  categories:
+    nature: 9.1
+    wildlife: 9.2
+    adventure: 8.7
+    photography: 8.8

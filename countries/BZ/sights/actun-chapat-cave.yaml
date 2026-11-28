@@ -1,0 +1,16 @@
+id: sight-bz-actun-chapat-cave
+name: "Actun Chapat Guided Cave Experience"
+location:
+  country_code: BZ
+  latitude: 17.08788
+  longitude: -89.12604
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 8.6
+  depth: 8.4
+  categories:
+    adventure: 9.0
+    history: 9.0
+    nature: 8.8

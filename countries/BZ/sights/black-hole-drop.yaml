@@ -1,0 +1,16 @@
+id: sight-bz-black-hole-drop
+name: "Actun Loch Tunich Black Hole Drop"
+location:
+  country_code: BZ
+  latitude: 17.12887
+  longitude: -88.71056
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 7.9
+  experience: 9.2
+  depth: 8.4
+  categories:
+    adventure: 9.4
+    nature: 9.0
+    photography: 8.9
