@@ -1,0 +1,16 @@
+id: sight-mx-national-palace-mexico-city
+name: "National Palace and Diego Rivera Murals (Mexico City)"
+location:
+  country_code: MX
+  latitude: 19.4326
+  longitude: -99.1312
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 9.5
+  experience: 8.9
+  depth: 9.0
+  categories:
+    history: 9.5
+    culture: 9.5
+    architecture: 9.2

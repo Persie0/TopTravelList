@@ -6937,3 +6937,153 @@ Peer values from country ranking tables or same-batch assessments; complete sour
 - High-score challenge: No 90+ or 9.5+ field; provisional overview. No approved 10 requested.
 - Earlier decision: none.
 - Remaining verification: complete source triangulation, precise access and location where applicable, numerical peers and global Python checks.
+
+## sight-mx-biblioteca-palafoxiana — Biblioteca Palafoxiana (Puebla) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/biblioteca-palafoxiana.yaml)
+- Action: new
+- Precise subject: Historic library room, preserved shelving and documentary collection; no assumption of handling manuscripts or viewing all holdings.
+- Location check: 19.04215, -98.19889; opened mapped library point.
+- Evidence status: source-linked-unverified; indexed descriptions consulted, comprehensive independent verification incomplete; editorial scores.
+- Sources consulted 2026-11-28: https://www.unesco.org/en/memory-world/biblioteca-palafoxiana (indexed: founding in 1646, 41000+ volumes, rare manuscripts and preserved furniture); https://sic.cultura.gob.mx/ficha.php?table=otra_declaratoria&table_id=2 (indexed: preserved library and collection); https://mapcarta.com/es/N5344042522 (opened: mapped coordinates).
+- Worldwide peers (qualitative, numerical peer scores not refetched):
+  - Trinity College Old Library (IE): similarly outstanding historic library interior and manuscript heritage
+  - Strahov Library (CZ): broader ornate library rooms
+  - Admont Abbey Library (AT): greater Baroque interior scale
+  - Biblioteca Joanina (PT): comparable preserved historic library ensemble
+- Individual scores:
+  - impact: 9.2 — Historic shelving and books form a memorable interior.
+  - uniqueness: 9.5 — Early public library with preserved collection and setting is rare.
+  - significance: 9.6 — UNESCO documentary heritage and early public access tradition support exceptional significance.
+  - experience: 8.6 — Visual and interpretive visit is rewarding without handling rare books.
+  - depth: 8.0 — Single main room and restricted document access limit breadth.
+- Categories: architecture 9.4, history 9.6, culture 9.5, photography 9.2.
+- Overall: 91.45/100.
+- High-score challenge: 9.5 uniqueness and culture and 9.6 significance/history justified by documented early public library and unusually preserved bibliographic ensemble; no assumption all books are on display. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: source triangulation, precise coordinates and access where applicable, numerical peers and global Python checks.
+
+## sight-mx-national-palace-mexico-city — National Palace and Diego Rivera Murals (Mexico City) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/national-palace-mexico-city.yaml)
+- Action: new
+- Precise subject: National Palace architecture and original murals in historically visitable areas; excludes wider Zócalo and government offices. No current public admission assumed.
+- Location check: 19.4326, -99.1312; approximate editorial representative point; not independently checked against a full coordinate source.
+- Evidence status: source-linked-unverified; indexed descriptions consulted, comprehensive independent verification incomplete; editorial scores.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/en/pagina-de-elemento/3670 (indexed: historic governmental seat); https://www.gob.mx/palacionacional/prensa/realiza-la-shcp-acciones-constantes-de-conservacion-y-mantenimiento-especializado-del-conjunto-arquitectonico-de-palacio-nacional?idiom=es (indexed: original Rivera monumental fresco approximately 275 m²); https://smarthistory.org/mexico-diego-rivera-murals-national-palace/ (indexed: artistic and historical interpretation).
+- Worldwide peers (qualitative, numerical peer scores not refetched):
+  - Palace of Versailles (FR): far greater palace architecture and gardens
+  - Palacio de la Moneda (CL): comparable governmental heritage but less monumental mural program
+  - Palazzo Vecchio (IT): comparable civic history and original art
+  - Palacio de Bellas Artes (MX): separate mural ensemble
+- Individual scores:
+  - impact: 9.2 — Monumental civic architecture and large-scale original murals provide exceptional impact.
+  - uniqueness: 9.3 — Governmental history and original Rivera frescoes make distinctive combination.
+  - significance: 9.5 — Major historic governmental site and influential mural art support exceptional significance.
+  - experience: 8.9 — Architecture and mural interpretation provide meaningful experience when permitted.
+  - depth: 9.0 — Multiple courtyards and mural panels support breadth without crediting restricted offices.
+- Categories: history 9.5, culture 9.5, architecture 9.2.
+- Overall: 92.20/100.
+- High-score challenge: 9.5 history, significance and culture reflect documented original mural program and national governmental history; present access remains unverified. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: source triangulation, precise coordinates and access where applicable, numerical peers and global Python checks.
+
+## sight-mx-san-ildefonso-college — Antiguo Colegio de San Ildefonso — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/san-ildefonso-college.yaml)
+- Action: new
+- Precise subject: Former Jesuit college and original mural program; excludes unrelated Rivera and Orozco collections elsewhere.
+- Location check: 19.4359, -99.1308; approximate editorial representative point; not independently checked against a full coordinate source.
+- Evidence status: source-linked-unverified; indexed descriptions consulted, comprehensive independent verification incomplete; editorial scores.
+- Sources consulted 2026-11-28: https://sanildefonso.org.mx/acervo.php (indexed: original murals by Rivera, Orozco, Charlot, Siqueiros and others); https://sanildefonso.org.mx/espiritudel22/ (indexed: formative 1922 muralist movement); https://mapcarta.com/W1422168989 (indexed: building identity; coordinate approximate).
+- Worldwide peers (qualitative, numerical peer scores not refetched):
+  - Hospicio Cabañas (MX): broader Orozco mural and monumental architectural ensemble
+  - Scrovegni Chapel (IT): greater canonical early fresco significance in smaller setting
+  - Palazzo Vecchio (IT): larger civic decorative program
+  - Museo Mural Diego Rivera (MX): narrower single principal work
+- Individual scores:
+  - impact: 9.1 — Historic courtyards and original monumental art yield strong impact.
+  - uniqueness: 9.3 — Site of collective formative muralist experimentation is distinctive.
+  - significance: 9.5 — Documented role in influential Mexican muralism supports exceptional cultural significance.
+  - experience: 9.0 — Building and art interpretation offer rewarding exploration.
+  - depth: 9.1 — Multiple original works and historic spaces provide breadth.
+- Categories: history 9.5, culture 9.5, architecture 9.2.
+- Overall: 92.15/100.
+- High-score challenge: 9.5 history, culture and significance justified by institutionally documented formative role and multiple original muralists, not conflation with all works by those artists. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: source triangulation, precise coordinates and access where applicable, numerical peers and global Python checks.
+
+## sight-mx-historic-centre-san-miguel-allende — Historic Centre of San Miguel de Allende — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/historic-centre-san-miguel-allende.yaml)
+- Action: new
+- Precise subject: Historic urban ensemble, streets, plazas and exterior townscape; excludes separate Atotonilco sanctuary 14 km away and does not inherit interior ratings of individually ranked churches.
+- Location check: 20.9133, -100.7438; approximate editorial representative point; not independently checked against a full coordinate source.
+- Evidence status: source-linked-unverified; indexed descriptions consulted, comprehensive independent verification incomplete; editorial scores.
+- Sources consulted 2026-11-28: https://whc.unesco.org/en/list/1274/ (indexed: early planned urban development, cultural interchange and architecture); https://whc.unesco.org/en/decisions/1505 (indexed: historic civil and religious fabric); https://lugares.inah.gob.mx/es/node/4794 (indexed: heritage and independence history); https://www.arch.tamu.edu/impact/centers-institutes-outreach/chc/chc-research/san-miguel-de-allende/ (indexed: 64-block historic district).
+- Worldwide peers (qualitative, numerical peer scores not refetched):
+  - Antigua Guatemala (GT): comparable colonial streetscape with volcanic backdrop
+  - Cartagena walled city (CO): greater fortification context
+  - Paraty (BR): comparable historic colonial town and different coastal setting
+  - Guanajuato (MX): more dramatic topography and mining heritage
+- Individual scores:
+  - impact: 9.2 — Colorful streets and coherent historic fabric create outstanding visual impact.
+  - uniqueness: 9.0 — Colonial urban ensemble has global peers but local stylistic identity.
+  - significance: 9.2 — Recognized urban planning and independence history support significance.
+  - experience: 9.3 — Walkable streets and plazas offer rewarding coherent exploration.
+  - depth: 9.2 — Large district and varied civil and religious facades sustain depth.
+- Categories: architecture 9.4, history 9.3, culture 9.3, photography 9.4.
+- Overall: 91.65/100.
+- High-score challenge: 90+ justified by documented intact urban ensemble and varied architecture, not UNESCO status alone; no Atotonilco or interior double credit. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: source triangulation, precise coordinates and access where applicable, numerical peers and global Python checks.
+
+## sight-mx-palacio-postal — Postal Palace (Palacio Postal, Mexico City) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/palacio-postal.yaml)
+- Action: new
+- Precise subject: Historic post office architecture and postal museum; not neighboring Bellas Artes or all postal history.
+- Location check: 19.4358, -99.1405; approximate editorial representative point; not independently checked against a full coordinate source.
+- Evidence status: source-linked-unverified; indexed descriptions consulted, comprehensive independent verification incomplete; editorial scores.
+- Sources consulted 2026-11-28: https://www.mexicocity.cdmx.gob.mx/venues/postal-palace/?lang=en (indexed: architecture, museum and continuing postal function); https://www.gob.mx/correosdemexico/acciones-y-programas/palacio-postal-232165 (indexed: history and architectural richness); https://mapcarta.com/W157051114 (indexed: building identity; coordinate approximate).
+- Worldwide peers (qualitative, numerical peer scores not refetched):
+  - Central Post Office Ho Chi Minh City (VN): comparable historic working post office
+  - Palacio de Comunicaciones Madrid (ES): broader civic architecture
+  - Palazzo delle Poste Naples (IT): distinct modern postal architecture
+  - Palacio de Bellas Artes (MX): more extensive arts venue
+- Individual scores:
+  - impact: 9.0 — Ornate staircases and ironwork create memorable interior.
+  - uniqueness: 8.8 — Eclectic working post office is distinctive but comparable examples exist.
+  - significance: 8.6 — Porfirian architecture and communications history support significance.
+  - experience: 8.7 — Focused architectural and museum visit is rewarding.
+  - depth: 8.1 — Compact visitor scope constrains depth.
+- Categories: architecture 9.4, history 8.8, photography 9.3.
+- Overall: 87.35/100.
+- High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: source triangulation, precise coordinates and access where applicable, numerical peers and global Python checks.
+
+## sight-mx-biblioteca-vasconcelos — Biblioteca Vasconcelos (Mexico City) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/biblioteca-vasconcelos.yaml)
+- Action: new
+- Precise subject: Modern library architecture, suspended shelving and garden concept, not all book holdings or adjacent railway station.
+- Location check: 19.4469, -99.1517; approximate editorial representative point; not independently checked against a full coordinate source.
+- Evidence status: source-linked-unverified; indexed descriptions consulted, comprehensive independent verification incomplete; editorial scores.
+- Sources consulted 2026-11-28: https://mexicocity.pre.cdmx.gob.mx/venues/vasconcelos-library/?lang=en (indexed: 2006 library and distinctive interior); https://www.kalach.com/biblioteca-de-mexico (indexed: winning building and botanical garden concept); https://mapcarta.com/26259856 (indexed: library identity; coordinate approximate).
+- Worldwide peers (qualitative, numerical peer scores not refetched):
+  - Stuttgart City Library (DE): comparable striking modern library interior
+  - Seattle Central Library (US): broader distinctive contemporary design
+  - Oodi Helsinki (FI): wider contemporary civic services
+  - Biblioteca Palafoxiana (MX): greater historic documentary heritage
+- Individual scores:
+  - impact: 9.1 — Suspended book stacks and tall central space create striking architecture.
+  - uniqueness: 9.0 — Library and garden concept offers distinctive spatial design.
+  - significance: 8.6 — Contemporary Mexican civic architecture supports significance.
+  - experience: 8.9 — Interior and public reading spaces provide rewarding experience.
+  - depth: 8.7 — Several levels and garden offer substantial but focused scope.
+- Categories: architecture 9.4, photography 9.3, culture 8.9.
+- Overall: 89.05/100.
+- High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: source triangulation, precise coordinates and access where applicable, numerical peers and global Python checks.

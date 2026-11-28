@@ -1,0 +1,17 @@
+id: sight-mx-biblioteca-palafoxiana
+name: "Biblioteca Palafoxiana (Puebla)"
+location:
+  country_code: MX
+  latitude: 19.04215
+  longitude: -98.19889
+scores:
+  impact: 9.2
+  uniqueness: 9.5
+  significance: 9.6
+  experience: 8.6
+  depth: 8.0
+  categories:
+    architecture: 9.4
+    history: 9.6
+    culture: 9.5
+    photography: 9.2

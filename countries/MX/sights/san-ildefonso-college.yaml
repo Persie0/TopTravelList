@@ -1,0 +1,16 @@
+id: sight-mx-san-ildefonso-college
+name: "Antiguo Colegio de San Ildefonso"
+location:
+  country_code: MX
+  latitude: 19.4359
+  longitude: -99.1308
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 9.5
+  experience: 9.0
+  depth: 9.1
+  categories:
+    history: 9.5
+    culture: 9.5
+    architecture: 9.2

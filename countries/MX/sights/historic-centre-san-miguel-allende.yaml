@@ -1,0 +1,17 @@
+id: sight-mx-historic-centre-san-miguel-allende
+name: "Historic Centre of San Miguel de Allende"
+location:
+  country_code: MX
+  latitude: 20.9133
+  longitude: -100.7438
+scores:
+  impact: 9.2
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 9.3
+  depth: 9.2
+  categories:
+    architecture: 9.4
+    history: 9.3
+    culture: 9.3
+    photography: 9.4

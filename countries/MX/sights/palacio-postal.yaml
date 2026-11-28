@@ -1,0 +1,16 @@
+id: sight-mx-palacio-postal
+name: "Postal Palace (Palacio Postal, Mexico City)"
+location:
+  country_code: MX
+  latitude: 19.4358
+  longitude: -99.1405
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 8.7
+  depth: 8.1
+  categories:
+    architecture: 9.4
+    history: 8.8
+    photography: 9.3

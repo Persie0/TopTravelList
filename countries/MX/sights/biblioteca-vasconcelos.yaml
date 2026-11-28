@@ -1,0 +1,16 @@
+id: sight-mx-biblioteca-vasconcelos
+name: "Biblioteca Vasconcelos (Mexico City)"
+location:
+  country_code: MX
+  latitude: 19.4469
+  longitude: -99.1517
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 8.6
+  experience: 8.9
+  depth: 8.7
+  categories:
+    architecture: 9.4
+    photography: 9.3
+    culture: 8.9
