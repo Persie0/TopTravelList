@@ -9889,7 +9889,7 @@ Individual collections and urban ensembles assessed at their own scope. Higher s
 - Precise subject: Historic granary and its museum collections, not the full Guanajuato historic centre.
 - Location check: 21.0188, -101.2578; approximate editorial representative point, not independently verified.
 - Evidence status: source-linked-unverified; indexed institutional descriptions consulted; subjective scores.
-- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/es/node/4245?page=%2C%2C0%2C%2C%2C0; https://lugares.inah.gob.mx/es/node/5024; https://www.inah.gob.mx/museos/museo-regional-de-guanajuato-alhondiga-de-granaditas?highlight=WyJiYXRhbGxhIiwiZGUiLCJsYSIsImFsaG9uZGlnYSJd.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/es/node/4245?page=%2C%2C0%2C%2C%2C0; https://lugares.inah.gob.mx/es/node/5024; https://www.inah.gob.mx/museos/museo-regional-de-guanajuato-alhondiga-de-granaditas.
 - Worldwide peers (qualitative, numerical scores not refetched):
   - Independence Hall (US): comparable founding-era significance
   - Museo Casa de la Independencia (PY): smaller historic house
