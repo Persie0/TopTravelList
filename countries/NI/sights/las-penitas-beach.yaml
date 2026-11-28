@@ -1,0 +1,16 @@
+id: sight-ni-las-penitas-beach
+name: "Las Peñitas Beach"
+location:
+  country_code: NI
+  latitude: 12.367
+  longitude: -87.031
+scores:
+  impact: 8.0
+  uniqueness: 7.6
+  significance: 7.0
+  experience: 8.7
+  depth: 7.3
+  categories:
+    beaches: 8.8
+    relaxation: 8.8
+    adventure: 8.6
