@@ -1,0 +1,16 @@
+id: sight-gt-miraflores-museum
+name: "Miraflores Museum of Kaminaljuyú"
+location:
+  country_code: GT
+  latitude: 14.6204
+  longitude: -90.55424
+scores:
+  impact: 8.3
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.8
+  depth: 8.8
+  categories:
+    history: 9.2
+    culture: 9.0
+    family: 8.8

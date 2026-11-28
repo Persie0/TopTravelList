@@ -1,0 +1,15 @@
+id: sight-gt-national-marimba-day
+name: "Guatemala City National Marimba Day Concerts"
+location:
+  country_code: GT
+  latitude: 14.6430556
+  longitude: -90.5133333
+scores:
+  impact: 8.5
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.8
+  depth: 8.3
+  categories:
+    culture: 9.3
+    history: 8.9

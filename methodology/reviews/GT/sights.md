@@ -3535,3 +3535,232 @@ Nine museum and colonial heritage attractions added, all provisional source-link
 - High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
 - Earlier decision: none.
 - Remaining verification: gallery condition, precise venue points where approximate, more numerical peer checks and full diagnostics. No admission guarantee.
+
+# Pass 404 — 2026-11-28 — direct main continuation
+
+Eight additions and one reassessment, all numerically complete. Six fact-checked decisions and three provisional source-linked decisions. JS inventory, weighted formula, coordinate range, uniqueness, ranking and README checks only; full Python validation/benchmark scripts and Actions not run. Capital Holy Week scoped separately from Antigua and Santiago; no private Mam ritual participation assumed. Miraflores official visitor page contains contradictory hours and closure banner; no temporary closure deduction. National Theater reassessed on distinctive architecture, not tentative-list status. Civic Center excludes National Theater. September Marimba Fest first edition not separately rated as recurring event.
+
+## sight-gt-guatemala-city-holy-week — Guatemala City Holy Week Processions and Carpets — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/guatemala-city-holy-week.yaml)
+- Action: new
+- Precise subject: Capital's public processions only, independent of Antigua and Santiago Atitlán. Central plaza representative point; routes vary.
+- Location check: 14.6430556, -90.5133333; representative point, not surveyed entrance.
+- Evidence status: fact-checked; not a field inspection.
+- Sources consulted 2026-11-28: https://agn.gt/mas-de-30-procesiones-marcaran-la-semana-santa-2026-en-la-ciudad-de-guatemala/ (opened: more than 30 scheduled processions, thousands of participants, carpets); https://ich.unesco.org/en/RL/holy-week-in-guatemala-01854 (indexed national inscription); https://www.prensalibre.com/vida/escenario/semana-santa-2026-en-la-capital-guia-de-las-principales-procesiones/ (indexed city route details); https://es.wikipedia.org/wiki/Plaza_de_la_Constituci%C3%B3n_%28Ciudad_de_Guatemala%29 (coordinates).
+- Worldwide peers (qualitative; numeric YAML not checked):
+  - Seville Holy Week (ES): larger international profile and distinctive floats
+  - Puno Candelaria (PE): different major dance-based religious celebration
+  - Oaxaca Day of the Dead (MX): broader temporary art and remembrance focus
+  - Antigua Holy Week (GT): stronger colonial street setting and concentrated carpet spectacle.
+- Individual scores:
+  - impact: 9.3 — Monumental floats and crowds provide exceptional spectacle
+  - uniqueness: 9.1 — Capital-specific historic brotherhood processions and carpet tradition are distinctive but shared nationally
+  - significance: 9.2 — Documented centuries of religious transmission and international heritage recognition
+  - experience: 9.3 — Multiple public processions offer extensive viewing
+  - depth: 9.2 — Week-long range of ceremonies and art supports depth.
+- Categories: culture 9.4, history 9.3, photography 9.3.
+- Overall: 92.20/100.
+- High-score challenge: Documented scale of public processions, multiple historic brotherhoods, temporary art and extended public program justify low 90s relative to major religious festivals. No inheritance of Antigua's score or the entire national designation. No 9.5+ field or approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: current access, exact venue and numeric peer comparisons, full diagnostics. No access or future event guarantee.
+
+## sight-gt-san-pedro-nan-pach — San Pedro Sacatepéquez Nan Pa’ch Maize Ceremony — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/san-pedro-nan-pach.yaml)
+- Action: new
+- Precise subject: Only publicly presented dance, proclamation and cultural activities in San Marcos municipality, not private ceremonial participation. Town reference point.
+- Location check: 14.96612, -91.77785; representative point, not surveyed entrance.
+- Evidence status: fact-checked; not a field inspection.
+- Sources consulted 2026-11-28: https://prensa.gob.gt/comunicado/la-paach-un-ceremonial-ancestral-que-honra-al-maiz-y-celebra-la-conexion-con-la-madre (opened: July proclamation and dance, Mam maize veneration); https://guatemala.gob.gt/celebran-encuentro-para-preservar-la-danza-nan-pach-en-san-pedro-sacatepequez-san-marcos/ (opened: September 2026 preservation gathering); https://ich.unesco.org/en/USL/nan-pach-ceremony-00863 (indexed 2013 inscription, full page unavailable); https://mapcarta.com/19524930 (opened coordinates).
+- Worldwide peers (qualitative; numeric YAML not checked):
+  - Rabinal Achí (GT): more extensive rare narrative dramatic heritage
+  - Inti Raymi Cusco (PE): much larger public spectacle
+  - Guelaguetza (MX): larger multi-community dance presentation
+  - San Juan Nonualco Palancas (SV): comparable Indigenous-Christian public heritage.
+- Individual scores:
+  - impact: 8.4 — Dance and symbolic maize imagery create meaningful rather than monumental spectacle
+  - uniqueness: 9.3 — Rare documented Mam agricultural ritual provides distinctive identity
+  - significance: 9.3 — Internationally recognized community knowledge and cultural transmission
+  - experience: 8.0 — Public presentations only, ordinary visitor access not assumed
+  - depth: 8.7 — Rich ritual and agricultural context provides interpretive depth.
+- Categories: culture 9.4, history 9.3.
+- Overall: 87.75/100.
+- High-score challenge: No 90+ overall. No 9.5+ field or approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: current access, exact venue and numeric peer comparisons, full diagnostics. No access or future event guarantee.
+
+## sight-gt-huelga-de-dolores — Guatemala City Huelga de Dolores Satirical Parade — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/huelga-de-dolores.yaml)
+- Action: new
+- Precise subject: Public satirical student parade, not religious processions or political endorsement; historic center representative point.
+- Location check: 14.6430556, -90.5133333; representative point, not surveyed entrance.
+- Evidence status: source-linked-unverified; not a field inspection.
+- Sources consulted 2026-11-28: https://musac.usac.edu.gt/noticias/exposicion-centenaria-huelga-de-dolores/ (excerpt: national intangible heritage since 2010); https://lahora.gt/nacionales/ralvarado/2026/03/27/satira-y-critica-politica-marcan-los-128-anos-de-la-huelga-de-todos-los-dolores/ (excerpt: 1898 origin and 2026 event); https://www.prensalibre.com/fotogalerias/comunitario/128-anos-de-tradicion-y-denuncia-de-inconformidades-en-la-huelga-de-dolores/ (excerpt: public parade).
+- Worldwide peers (qualitative; numeric YAML not checked):
+  - Basel Fasnacht (CH): greater organized satirical carnival scale
+  - Cologne Carnival (DE): broader public spectacle
+  - El Güegüense (NI): much older theatrical satire
+  - Antigua Holy Week (GT): different religious heritage and longer program.
+- Individual scores:
+  - impact: 8.6 — Costumes and satirical procession make memorable public spectacle
+  - uniqueness: 9.1 — Long-lived university political satire is regionally distinctive
+  - significance: 8.8 — Historic student expression and national recognition carry importance
+  - experience: 8.6 — Public parade provides engaging observation without assuming safe participation
+  - depth: 8.4 — Multiple themes and traditions provide context but concentrated event.
+- Categories: culture 9.2, history 9.0, photography 8.9.
+- Overall: 87.45/100.
+- High-score challenge: No 90+ overall. No 9.5+ field or approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: current access, exact venue and numeric peer comparisons, full diagnostics. No access or future event guarantee.
+
+## sight-gt-national-marimba-day — Guatemala City National Marimba Day Concerts — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/national-marimba-day.yaml)
+- Action: new
+- Precise subject: National Marimba Day public performances and associated February concerts, excludes first-edition September Marimba Fest, standing palace and theater architecture.
+- Location check: 14.6430556, -90.5133333; representative point, not surveyed entrance.
+- Evidence status: fact-checked; not a field inspection.
+- Sources consulted 2026-11-28: https://noticias.mcd.gob.gt/2026/02/20/marimba-de-concierto-del-palacio-nacional-de-la-cultura-cierra-el-festival-latidos-de-hormigo/ (opened: four concerts and public February 20 plaza performances); https://noticias.mcd.gob.gt/2026/02/11/festival-de-la-marimba-2026-latidos-de-hormigo/ (excerpt: concert cycle); https://es.wikipedia.org/wiki/Plaza_de_la_Constituci%C3%B3n_%28Ciudad_de_Guatemala%29 (representative plaza coordinates).
+- Worldwide peers (qualitative; numeric YAML not checked):
+  - Gnaoua festival Essaouira (MA): greater international music festival breadth
+  - Gamelan concerts Ubud (ID): similarly distinctive living musical tradition
+  - Trinidad steelpan Panorama (TT): much larger specialist competition
+  - Livingston Garífuna Day (GT): broader ritual and musical festivities.
+- Individual scores:
+  - impact: 8.5 — Live ensemble performances give strong musical impact
+  - uniqueness: 8.9 — National instrument and characteristic repertoire are distinct regionally
+  - significance: 8.8 — Music expresses important national cultural identity
+  - experience: 8.8 — Public concerts provide engaging listening
+  - depth: 8.3 — Multiple ensembles and styles add breadth without crediting other festivals.
+- Categories: culture 9.3, history 8.9.
+- Overall: 86.85/100.
+- High-score challenge: No 90+ overall. No 9.5+ field or approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: current access, exact venue and numeric peer comparisons, full diagnostics. No access or future event guarantee.
+
+## sight-gt-miraflores-museum — Miraflores Museum of Kaminaljuyú — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/miraflores-museum.yaml)
+- Action: new
+- Precise subject: Museum's public displays and local garden mounds, excludes separate Kaminaljuyú park. Tomb reconstructions identified as replicas.
+- Location check: 14.6204, -90.55424; representative point, not surveyed entrance.
+- Evidence status: fact-checked; not a field inspection.
+- Sources consulted 2026-11-28: https://www.museomiraflores.org.gt/planea-tu-visita.php (opened: galleries, reconstructed tombs, visible storage and guided tour; conflicting closure banner, present opening not verified); https://ciudadgt.visitguatemala.gt/lugar/parque-arqueologico-museo-miraflores/ (excerpt); https://mapcarta.com/W52056817 (opened coordinates).
+- Worldwide peers (qualitative; numeric YAML not checked):
+  - MUNAE (GT): much broader national collection
+  - Popol Vuh Museum (GT): wider art collection
+  - Maya Sculpture Museum Copán (HN): greater monumental sculpture focus
+  - Museo Larco (PE): broader pre-Columbian art collection.
+- Individual scores:
+  - impact: 8.3 — Artifacts and reconstructed tombs offer strong interpretive impact
+  - uniqueness: 8.7 — Focus on Kaminaljuyú urban history differentiates collection
+  - significance: 8.9 — Important regional Maya archaeological evidence
+  - experience: 8.8 — Purpose-built galleries and guided interpretation provide strong ordinary experience
+  - depth: 8.8 — Multiple thematic displays and reconstructions add depth.
+- Categories: history 9.2, culture 9.0, family 8.8.
+- Overall: 86.45/100.
+- High-score challenge: No 90+ overall. No 9.5+ field or approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: current access, exact venue and numeric peer comparisons, full diagnostics. No access or future event guarantee.
+
+## sight-gt-mapa-en-relieve — Historic Relief Map of Guatemala — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/mapa-en-relieve.yaml)
+- Action: new
+- Precise subject: Historic outdoor national-scale relief model and viewing platforms, not surrounding park attractions.
+- Location check: 14.66045, -90.50861; representative point, not surveyed entrance.
+- Evidence status: fact-checked; not a field inspection.
+- Sources consulted 2026-11-28: https://cedulas.muniguate.com/index.php?a=ver&c=sitio&idSitio=58 (excerpt: Francisco Vela); https://centrohistorico.gt/mapa-en-relieve/ (excerpt: nationwide topography and historical context); https://mapcarta.com/W1098138942 (opened: coordinates, 1,800m² approximate area and scales).
+- Worldwide peers (qualitative; numeric YAML not checked):
+  - Great Polish Map of Scotland (GB): similar historic outdoor national relief map
+  - Swissminiatur (CH): larger collection of miniature structures rather than geographic relief
+  - Madurodam (NL): broader miniature entertainment park
+  - Panorama Racławicka (PL): distinct large-format historic representation.
+- Individual scores:
+  - impact: 8.4 — Large-scale sculpted geography is visually compelling
+  - uniqueness: 9.1 — Historic nationwide relief model is unusual
+  - significance: 8.5 — Cartographic and engineering heritage carry national importance
+  - experience: 8.3 — Elevated viewing provides rewarding geographic interpretation
+  - depth: 7.7 — Single model limits duration and breadth.
+- Categories: history 8.9, photography 8.7, culture 8.6.
+- Overall: 85.10/100.
+- High-score challenge: No 90+ overall. No 9.5+ field or approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: current access, exact venue and numeric peer comparisons, full diagnostics. No access or future event guarantee.
+
+## sight-gt-guatemala-city-civic-center — Guatemala City Civic Center Modernist Murals and Architecture — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/guatemala-city-civic-center.yaml)
+- Action: new
+- Precise subject: Public exteriors of modernist civic buildings and accessible murals only, excludes separately ranked National Theater. Interior government access not assumed.
+- Location check: 14.62689, -90.5153; representative point, not surveyed entrance.
+- Evidence status: fact-checked; not a field inspection.
+- Sources consulted 2026-11-28: https://cedulas.muniguate.com/index.php?a=ver&c=sitio&idSitio=668 (opened: 1958 municipal building, exterior murals and Mérida interior mosaic); https://www.banguat.gob.gt/page/banco-de-guatemala-proceso-de-construccion-de-su-edificio (excerpt: coordinated civic project); https://whc.unesco.org/en/tentativelists/6624 (opened: modernist context); https://mapcarta.com/W44811337 (municipal building coordinate excerpt).
+- Worldwide peers (qualitative; numeric YAML not checked):
+  - UNAM Central Campus (MX): more extensive internationally recognized architectural and mural ensemble
+  - Brasília civic architecture (BR): much larger innovative urban plan
+  - Central University of Venezuela (VE): greater integrated art and architecture breadth
+  - National Theater (GT): more distinctive individual sculptural monument.
+- Individual scores:
+  - impact: 8.5 — Large modernist facades and integrated art are visually striking
+  - uniqueness: 8.9 — Regionally distinctive mural-integrated civic ensemble
+  - significance: 8.8 — Important mid-century national design history
+  - experience: 8.1 — Exterior walking and public art viewing are rewarding but interior access uncertain
+  - depth: 8.3 — Several distinct buildings and artworks add breadth.
+- Categories: architecture 9.2, history 8.8, culture 8.9, photography 8.8.
+- Overall: 85.80/100.
+- High-score challenge: No 90+ overall. No 9.5+ field or approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: current access, exact venue and numeric peer comparisons, full diagnostics. No access or future event guarantee.
+
+## sight-gt-san-jeronimo-antigua — San Jerónimo College and Royal Customs House Ruins — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/san-jeronimo-antigua.yaml)
+- Action: new
+- Precise subject: Named colonial ruined complex, not La Recolección or the whole city.
+- Location check: 14.560422, -90.73796; representative point, not surveyed entrance.
+- Evidence status: source-linked-unverified; not a field inspection.
+- Sources consulted 2026-11-28: https://laantiguaguatemala.com/en/monumentos/st-jerome/ (excerpt: school and customs house history); https://visitguatemala.gt/en/blog/museums-antigua-guatemala/ (excerpt: visitor monument); https://es.maps.me/maps/country-guatemala/city-antigua-guatemala-602914594/ (coordinate excerpt).
+- Worldwide peers (qualitative; numeric YAML not checked):
+  - Carmo Convent (PT): greater dramatic ruins and museum scope
+  - Tintern Abbey (GB): greater monumental preservation
+  - Capuchinas (GT): more distinctive architectural layout
+  - Santa Clara (GT): more intact vaulted spaces.
+- Individual scores:
+  - impact: 8.0 — Ruined masonry and courtyard provide attractive historical atmosphere
+  - uniqueness: 8.1 — Colonial school and customs house reuse is distinctive locally
+  - significance: 8.3 — Historic religious and administrative roles matter
+  - experience: 8.0 — Public ruin exploration is rewarding but compact
+  - depth: 7.8 — Several surviving spaces provide moderate breadth.
+- Categories: architecture 8.5, history 8.7, photography 8.6.
+- Overall: 80.65/100.
+- High-score challenge: No 90+ overall. No 9.5+ field or approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: current access, exact venue and numeric peer comparisons, full diagnostics. No access or future event guarantee.
+
+## sight-gt-national-theater-guatemala — National Theater of Guatemala — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/national-theater-guatemala.yaml)
+- Action: rescore
+- Precise subject: Existing Miguel Ángel Asturias Cultural Center and ordinary public visitor spaces/performances, not the Civic Center buildings. Existing coordinates retained.
+- Location check: 14.629, -90.516; representative point, not surveyed entrance.
+- Evidence status: source-linked-unverified; not a field inspection.
+- Sources consulted 2026-11-28: https://whc.unesco.org/en/tentativelists/6624 (opened national nomination: Recinos design, landscape, sculpture, color, Maya-inspired forms, performing art spaces; nomination is not inscription); https://noticias.mcd.gob.gt/2026/09/07/inauguran-el-marimba-fest-2026-en-el-palacio-nacional-de-la-cultura/ (opened: documented gala at National Theater).
+- Worldwide peers (qualitative; numeric YAML not checked):
+  - Sydney Opera House (AU): far greater global engineering and architectural influence
+  - National Theatre Brasília (BR): comparable unconventional geometric modernism
+  - Central University of Venezuela Aula Magna (VE): comparable integrated art and architecture
+  - Palau de la Música Catalana (ES): greater historic interior and globally recognized heritage.
+- Individual scores:
+  - impact: 8.0 → 8.9 — Sculptural building and volcanic landscape references justify stronger visual impact
+  - uniqueness: 8.6 → 9.2 — Unconventional integration of sculpture, architecture and cultural imagery is unusual
+  - significance: 8.4 → 8.8 — Major national performing arts and modern architectural heritage, nomination not inscription
+  - experience: 8.0 → 8.6 — Public spaces and performances offer more rewarding experience than previously assessed
+  - depth: 7.5 → 8.4 — Multiple cultural spaces add breadth without assuming backstage access.
+- Categories: architecture 9.4, culture 9.1, photography 9.1.
+- Overall: 81.80 → 88.60/100.
+- High-score challenge: No 90+ overall. No 9.5+ field or approved 10 requested.
+- Earlier decision: Prior review retained.
+- Remaining verification: current access, exact venue and numeric peer comparisons, full diagnostics. No access or future event guarantee.

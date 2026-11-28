@@ -1,0 +1,16 @@
+id: sight-gt-huelga-de-dolores
+name: "Guatemala City Huelga de Dolores Satirical Parade"
+location:
+  country_code: GT
+  latitude: 14.6430556
+  longitude: -90.5133333
+scores:
+  impact: 8.6
+  uniqueness: 9.1
+  significance: 8.8
+  experience: 8.6
+  depth: 8.4
+  categories:
+    culture: 9.2
+    history: 9.0
+    photography: 8.9
