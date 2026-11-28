@@ -1,0 +1,16 @@
+id: sight-mx-sierra-huautla-biosphere-reserve
+name: "Sierra de Huautla Biosphere Reserve"
+location:
+  country_code: MX
+  latitude: 18.46
+  longitude: -99.05
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 9.2
+  experience: 8.6
+  depth: 9.0
+  categories:
+    nature: 9.2
+    wildlife: 9.2
+    photography: 8.7

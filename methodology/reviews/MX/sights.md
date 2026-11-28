@@ -11098,3 +11098,213 @@ All ten entries are source-linked editorial assessments using retrieved institut
 - Earlier decision: none.
 - Remaining verification: independent fact and coordinate checks, numerical peer comparison and full Python validation; current admissions not checked.
 
+
+## sight-mx-veracruz-river-of-raptors — Veracruz River of Raptors Migration (Cardel and Chichicaxtle) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/veracruz-river-of-raptors.yaml)
+- Action: new (pass 446)
+- Precise subject: Seasonal migration bottleneck at established observation stations; millions of soaring birds, with 27 monitored raptor species.
+- Location check: 19.35, -96.35; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; editorial scores.
+- Sources consulted 2026-11-28: https://pronaturaveracruz.org/index.php/nuestro-trabajo/programas/veracruz-rio-de-rapaces; https://www.audubon.org/news/millions-hawks-and-other-birds-migrate-through-veracruz-mexico.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Monarch Butterfly Biosphere Reserve (MX): similarly exceptional migration
+  - Strait of Gibraltar (ES): comparable flyway
+  - Hawk Mountain (US): established raptor observation
+  - Falsterbo (SE): seasonal bird migration.
+- Individual scores: impact 9.7, uniqueness 9.8, significance 9.7, experience 9.0, depth 8.7.
+- Categories: wildlife 9.8, nature 9.5, photography 9.2.
+- Overall: 95.20/100.
+- High-score challenge: Exceptional documented ecological significance and distinct experience; score limited by seasonality, viewing depth or specialist nature. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparison and full Python validation. Admission not guaranteed.
+
+
+## sight-mx-marismas-nacionales — Marismas Nacionales Coastal Wetlands and Shorebird Migration — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/marismas-nacionales.yaml)
+- Action: new (pass 446)
+- Precise subject: Regional wetland complex including San Blas and La Tovara; over 200,000 shorebirds annually and 38 shorebird species. Avoid separate duplicate wetland boat-trip record.
+- Location check: 22.15, -105.55; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; editorial scores.
+- Sources consulted 2026-11-28: https://whsrn.org/whsrn_sites/marismas-nacionales/; https://descubreanp.conanp.gob.mx/swb/conanp/ANP?suri=109.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Wadden Sea (NL/DE/DK): larger tidal migration system
+  - Great Salt Lake (US): major linked shorebird stop
+  - Pantanos de Centla (MX): comparable wetlands
+  - Ría Lagartos (MX): distinctive flamingos.
+- Individual scores: impact 9.0, uniqueness 9.2, significance 9.6, experience 8.8, depth 9.2.
+- Categories: wildlife 9.5, nature 9.4, photography 9.1.
+- Overall: 91.60/100.
+- High-score challenge: Exceptional documented ecological significance and distinct experience; score limited by seasonality, viewing depth or specialist nature. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparison and full Python validation. Admission not guaranteed.
+
+
+## sight-mx-el-cielo-biosphere-reserve — El Cielo Biosphere Reserve and Cloud Forest — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/el-cielo-biosphere-reserve.yaml)
+- Action: new (pass 446)
+- Precise subject: Cloud forest and multiple altitudinal ecosystems; more than 400 bird species; Gómez Farías gateway and interpretive center.
+- Location check: 23.05, -99.23; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; editorial scores.
+- Sources consulted 2026-11-28: https://www.biodiversidad.gob.mx/media/1/ciencia-ciudadana/documentos/guia_aves_cielo.pdf; https://www.tamaulipas.gob.mx/parquesybiodiversidad/parques/centro-interpretativo-ecologico/; https://www.keybiodiversityareas.org/en/site/factsheet/10085.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Monteverde (CR): more established cloud forest tourism
+  - El Triunfo (MX): comparable cloud forest
+  - Sierra Gorda (MX): diverse ecosystems
+  - Mindo (EC): comparable specialist birding.
+- Individual scores: impact 9.1, uniqueness 9.2, significance 9.4, experience 8.9, depth 9.3.
+- Categories: nature 9.5, wildlife 9.5, photography 9.2, adventure 8.9.
+- Overall: 91.75/100.
+- High-score challenge: Exceptional documented ecological significance and distinct experience; score limited by seasonality, viewing depth or specialist nature. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparison and full Python validation. Admission not guaranteed.
+
+
+## sight-mx-sierra-alamos-rio-cuchujaqui — Sierra de Álamos–Río Cuchujaqui Biosphere Reserve — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/sierra-alamos-rio-cuchujaqui.yaml)
+- Action: new (pass 446)
+- Precise subject: Biogeographic transition between temperate and tropical habitats, over 300 bird and 85 mammal species; hiking and wildlife observation.
+- Location check: 26.94, -108.86; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; editorial scores.
+- Sources consulted 2026-11-28: https://descubreanp.conanp.gob.mx/swb/conanp/ANP?suri=150.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Sierra de Manantlán (MX): comparable transition habitats
+  - Sierra de Huautla (MX): dry forest
+  - Janos (MX): contrasting grassland ecosystem
+  - El Cielo (MX): richer cloud forest visitor setting.
+- Individual scores: impact 8.9, uniqueness 9.1, significance 9.4, experience 8.8, depth 9.2.
+- Categories: nature 9.3, wildlife 9.4, photography 9.0.
+- Overall: 90.65/100.
+- High-score challenge: Exceptional documented ecological significance and distinct experience; score limited by seasonality, viewing depth or specialist nature. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparison and full Python validation. Admission not guaranteed.
+
+
+## sight-mx-isla-rasa-seabird-colonies — Isla Rasa Seasonal Seabird Colonies — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/isla-rasa-seabird-colonies.yaml)
+- Action: new (pass 446)
+- Precise subject: Specific breeding spectacle of Heermann’s gulls and elegant terns, not the whole Gulf of California. Historical ornithology records exceptional global breeding concentration. Access subject to conservation restrictions; no unrestricted landing implied.
+- Location check: 28.82, -112.98; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; editorial scores.
+- Sources consulted 2026-11-28: https://journal.westernfieldornithologists.org/index.php/westernbirds/article/view/247; https://conanp.gob.mx/conanp/dominios/ramsar/docs/sitios/FIR_RAMSAR/Baja_California/Isla_Rasa/Isla_Rasa.pdf.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Isla Isabel (MX): more developed seabird destination
+  - Bass Rock (GB): concentrated seabird colonies
+  - Farne Islands (GB): established seasonal wildlife trips
+  - St Kilda (GB): remote seabird colonies.
+- Individual scores: impact 9.1, uniqueness 9.5, significance 9.6, experience 8.2, depth 7.9.
+- Categories: wildlife 9.7, nature 9.4, photography 9.1.
+- Overall: 90.45/100.
+- High-score challenge: Exceptional documented ecological significance and distinct experience; score limited by seasonality, viewing depth or specialist nature. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparison and full Python validation. Admission not guaranteed.
+
+
+## sight-mx-el-palmito-tufted-jay — El Palmito Tufted Jay Bird Sanctuary — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/el-palmito-tufted-jay.yaml)
+- Action: new (pass 446)
+- Precise subject: Community-managed pine-oak birding preserve, established guides and trails, distinctive endemic tufted jay.
+- Location check: 23.56, -105.86; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; editorial scores.
+- Sources consulted 2026-11-28: https://www.ibiologia.unam.mx/cipamex/2011/observar_aves.html; https://www.allaboutbirds.org/news/a-canyon-of-their-own-a-preserve-for-tufted-jays-in-mexico/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - El Cielo (MX): greater habitat breadth
+  - Mindo (EC): more extensive birding circuit
+  - Monteverde (CR): broader visitor offer
+  - El Triunfo (MX): larger cloud forest.
+- Individual scores: impact 8.7, uniqueness 9.3, significance 9.1, experience 8.8, depth 8.6.
+- Categories: wildlife 9.4, nature 9.1, photography 8.9.
+- Overall: 89.35/100.
+- High-score challenge: Sub-90 score reflects focused or less globally exceptional visitor experience despite documented importance. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparison and full Python validation. Admission not guaranteed.
+
+
+## sight-mx-san-pedro-martir-observatory — San Pedro Mártir National Astronomical Observatory — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/san-pedro-martir-observatory.yaml)
+- Action: new (pass 446)
+- Precise subject: Research observatory distinct from surrounding national park; high-altitude telescopes. UNAM reports no visitor access until further notice. Score reflects normal-condition merit, not current closure.
+- Location check: 31.04417, -115.46361; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; editorial scores.
+- Sources consulted 2026-11-28: https://spm.astrosen.unam.mx/es/; https://spm.astrosen.unam.mx/en/visitors/welcome-to-oan-spm.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Mauna Kea (US): greater astronomical concentration
+  - Paranal (CL): major observatory
+  - Roque de los Muchachos (ES): comparable high-altitude site
+  - Tonantzintla (MX): historic astronomy heritage.
+- Individual scores: impact 8.8, uniqueness 9.1, significance 9.4, experience 8.2, depth 8.5.
+- Categories: nature 9.1, photography 9.2, history 8.8.
+- Overall: 88.75/100.
+- High-score challenge: Sub-90 score reflects focused or less globally exceptional visitor experience despite documented importance. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparison and full Python validation. Admission not guaranteed.
+
+
+## sight-mx-sierra-huautla-biosphere-reserve — Sierra de Huautla Biosphere Reserve — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/sierra-huautla-biosphere-reserve.yaml)
+- Action: new (pass 446)
+- Precise subject: Balsas basin dry tropical and oak forests with endemic wildlife, distinct from Sistema Huautla caves in Oaxaca.
+- Location check: 18.46, -99.05; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; editorial scores.
+- Sources consulted 2026-11-28: https://www.unesco.org/en/mab/sierra-de-huautla; https://descubreanp.conanp.gob.mx/en/conanp/ANP?suri=152.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Sierra de Álamos (MX): comparable dry forest transition
+  - Tehuacán-Cuicatlán (MX): more distinctive arid flora
+  - Guanacaste (CR): broader dry forest complex
+  - Sierra de Manantlán (MX): montane diversity.
+- Individual scores: impact 8.6, uniqueness 8.8, significance 9.2, experience 8.6, depth 9.0.
+- Categories: nature 9.2, wildlife 9.2, photography 8.7.
+- Overall: 88.10/100.
+- High-score challenge: Sub-90 score reflects focused or less globally exceptional visitor experience despite documented importance. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparison and full Python validation. Admission not guaranteed.
+
+
+## sight-mx-tonantzintla-observatory — Tonantzintla National Astronomical Observatory — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/tonantzintla-observatory.yaml)
+- Action: new (pass 446)
+- Precise subject: Historic astronomy facility with public outreach and visitor program; distinct from nearby church.
+- Location check: 19.032, -98.316; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; editorial scores.
+- Sources consulted 2026-11-28: https://astronomia.unam.mx/oan-tonantzintla/visitantes/; https://astronomia.unam.mx/comunicacion-uc3/visita-nuestras-sedes/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Greenwich Observatory (GB): greater historic international significance
+  - Griffith Observatory (US): richer public exhibition
+  - San Pedro Mártir (MX): major active research observatory
+  - Pulkovo (RU): comparable astronomy heritage.
+- Individual scores: impact 8.4, uniqueness 8.8, significance 9.2, experience 8.5, depth 8.4.
+- Categories: history 9.1, culture 8.8, photography 8.6.
+- Overall: 86.75/100.
+- High-score challenge: Sub-90 score reflects focused or less globally exceptional visitor experience despite documented importance. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparison and full Python validation. Admission not guaranteed.
+
+
+## sight-mx-estero-el-soldado — Estero El Soldado Coastal Wetland — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/estero-el-soldado.yaml)
+- Action: new (pass 446)
+- Precise subject: Coastal lagoon near Guaymas with guided visits and biological diversity; distinct compact wetland from regional Gulf umbrella.
+- Location check: 27.96, -110.98; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; editorial scores.
+- Sources consulted 2026-11-28: https://www.gob.mx/semarnat/articulos/11480; https://www.sonora.gob.mx/servicios-y-tramites/541.630-recorridos-guiados.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Marismas Nacionales (MX): much larger wetland complex
+  - Ría Lagartos (MX): exceptional bird concentrations
+  - La Tovara (MX): extensive mangrove habitat
+  - Bolsa Chica (US): comparable coastal wetland.
+- Individual scores: impact 8.5, uniqueness 8.6, significance 8.8, experience 8.9, depth 8.4.
+- Categories: nature 9.1, wildlife 9.1, photography 8.8, relaxation 8.6.
+- Overall: 86.35/100.
+- High-score challenge: Sub-90 score reflects focused or less globally exceptional visitor experience despite documented importance. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparison and full Python validation. Admission not guaranteed.
+

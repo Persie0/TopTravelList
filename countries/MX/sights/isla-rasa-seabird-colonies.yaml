@@ -1,0 +1,16 @@
+id: sight-mx-isla-rasa-seabird-colonies
+name: "Isla Rasa Seasonal Seabird Colonies"
+location:
+  country_code: MX
+  latitude: 28.82
+  longitude: -112.98
+scores:
+  impact: 9.1
+  uniqueness: 9.5
+  significance: 9.6
+  experience: 8.2
+  depth: 7.9
+  categories:
+    wildlife: 9.7
+    nature: 9.4
+    photography: 9.1
