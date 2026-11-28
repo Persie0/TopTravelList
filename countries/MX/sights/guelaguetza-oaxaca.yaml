@@ -1,0 +1,16 @@
+id: sight-mx-guelaguetza-oaxaca
+name: "Oaxaca Guelaguetza Festival"
+location:
+  country_code: MX
+  latitude: 17.06879
+  longitude: -96.73097
+scores:
+  impact: 9.4
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 9.4
+  depth: 9.2
+  categories:
+    culture: 9.6
+    photography: 9.3
+    food: 9.2

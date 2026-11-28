@@ -4704,3 +4704,128 @@ Peer values from country ranking tables or same-batch assessments; complete sour
 - Desk-based provisional judgment, no independent factual verification.
 - Qualitative comparison leads for the primary category (not individually recalibrated): Angkor (Cambodia), Philae (Egypt), Teotihuacan (Mexico), Matera (Italy).
 - Core overall 84.45/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+## sight-mx-patzcuaro-night-of-the-dead — Pátzcuaro and Janitzio Night of the Dead — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/patzcuaro-night-of-the-dead.yaml)
+- Action: new
+- Precise subject: Regional Purépecha commemorations around Lake Pátzcuaro, not a single staged performance or all Mexican Day of the Dead festivities. Respectful observation of community traditions; no unrestricted cemetery access assumed. Janitzio representative point.
+- Location check: 19.5741, -101.6517; approximate representative point.
+- Evidence status: fact-checked for material attraction identity and core supporting facts; ratings remain editorial.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/en/node/4803 (opened: lake communities, night vigils, offerings, UNESCO inscription of the wider tradition); https://ciencia.unam.mx/leer/1625/noche-de-muertos-en-janitzio-entre-la-tradicion-y-el-turismo-oscuro (opened: ritual context, local variation and tourism pressures); https://ich.unesco.org/en/RL/day-of-the-dead-heritage-00054 (indexed only: intangible heritage inscription; page challenged); https://mapcarta.com/Janitzio (opened: representative coordinates).
+- Worldwide peers (qualitative, not independently numerically refetched):
+  - Gion Matsuri (JP): similarly enduring community ritual but different religious setting
+  - Inti Raymi (PE): major ceremonial spectacle with more concentrated staging
+  - Obon celebrations (JP): comparable ancestral remembrance but different imagery
+  - Dangriga Yurumein (BZ): culturally significant but narrower local scale
+- Individual scores:
+  - impact: 9.6 — Candlelit vigils and offerings create exceptionally moving visual and human encounter.
+  - uniqueness: 9.6 — Distinctive Purépecha lakeside expressions of a globally recognized ancestral tradition.
+  - significance: 9.7 — Long-lived ritual and cultural transmission of internationally recognized heritage.
+  - experience: 9.1 — Varied respectful public observation and interpretation, without treating private mourning as spectacle.
+  - depth: 9.0 — Several communities and complementary customs provide breadth.
+- Categories: culture 9.8, history 9.5, photography 9.6.
+- Overall: 94.85/100.
+- High-score challenge: 9.6 impact and photography reflect the extraordinary candlelit lake-community setting, not staged imagery; 9.6 uniqueness and 9.8 culture reflect the specific living tradition versus Obon and Gion; 9.7 significance and 9.5 history reflect the internationally recognized enduring ritual, not a claim of separate UNESCO site designation. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise current access and geographic scope where applicable; numerical peer checks and worldwide Python validation.
+
+## sight-mx-guelaguetza-oaxaca — Oaxaca Guelaguetza Festival — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/guelaguetza-oaxaca.yaml)
+- Action: new
+- Precise subject: Annual festival performances and related public cultural events, not the auditorium alone or Oaxaca historic centre as a whole.
+- Location check: 17.06879, -96.73097; approximate representative point.
+- Evidence status: fact-checked for material attraction identity and core supporting facts; ratings remain editorial.
+- Sources consulted 2026-11-28: https://www.oaxaca.gob.mx/comunicacion/al-ritmo-de-los-sones-jarabes-y-demas-danzas-que-distinguen-al-corazon-cultural-de-mexico-culmina-con-exito-primer-lunes-del-cerro-de-la-guelaguetza-2026/ (opened: 27 delegations from eight regions at first 2026 Lunes del Cerro); https://visitmexico.com/en/actividad/833/- (opened: dance, street processions, culinary fairs); https://mapcarta.com/es/W71697237 (opened: auditorium coordinates).
+- Worldwide peers (qualitative, not independently numerically refetched):
+  - Gion Matsuri (JP): more ancient distinctive urban procession tradition
+  - Inti Raymi (PE): concentrated ceremonial reenactment
+  - Festival of the Pacific Arts (rotating Pacific locations): wider geographic scope
+  - Battle of the Drums (BZ): narrower specialist music competition
+- Individual scores:
+  - impact: 9.4 — Large-scale regional dances and costumes create outstanding spectacle.
+  - uniqueness: 9.3 — Distinct regional exchange and indigenous performing arts give international distinction.
+  - significance: 9.4 — Living cultural transmission across eight regions supports high importance.
+  - experience: 9.4 — Performances, processions and food events provide rewarding varied encounter.
+  - depth: 9.2 — Several complementary activities and delegations give depth.
+- Categories: culture 9.6, photography 9.3, food 9.2.
+- Overall: 93.55/100.
+- High-score challenge: Culture 9.6 is supported by breadth of eight distinct regional delegations and multiple living forms of expression; unlike broader Pacific Arts festival, this remains one state's heritage. Overall remains below globally defining festival experiences. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise current access and geographic scope where applicable; numerical peer checks and worldwide Python validation.
+
+## sight-mx-guadalupe-basilica-pilgrimage — Basilica of Our Lady of Guadalupe and December Pilgrimage — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/guadalupe-basilica-pilgrimage.yaml)
+- Action: new
+- Precise subject: Tepeyac sanctuary complex and annual December devotion, not a separate second listing for the feast; no theological assertion presented as historical fact.
+- Location check: 19.48473, -99.11725; approximate representative point.
+- Evidence status: fact-checked for material attraction identity and core supporting facts; ratings remain editorial.
+- Sources consulted 2026-11-28: https://mexicocity.pre.cdmx.gob.mx/venues/new-basilica-santa-maria-de-guadalupe/?lang=es (opened: basilica and annual celebration); https://mexicocity.cdmx.gob.mx/capital-nocturna/festivales-y-celebraciones/ (opened: pilgrims, midnight song and masses); https://www.jefaturadegobierno.cdmx.gob.mx/comunicacion/nota/reporta-gobierno-de-la-ciudad-de-mexico-saldo-blanco-en-festividad-guadalupana-con-aplicacion-de-operativo-basilica (indexed only: 12.3m pilgrims Dec 6–12 2024; page returned 502); https://mapcarta.com/39246576 (opened: representative coordinates).
+- Worldwide peers (qualitative, not independently numerically refetched):
+  - St Peter's Basilica (VA): more globally exceptional architecture and institutional history
+  - Lourdes sanctuary (FR): similarly major Marian pilgrimage
+  - Fátima sanctuary (PT): comparable devotional landscape
+  - Santo Niño de Atocha Plateros (MX): narrower pilgrimage scope
+- Individual scores:
+  - impact: 9.3 — Vast devotional gathering and sanctuary ensemble offer profound human impact.
+  - uniqueness: 9.4 — Mexican Marian tradition and scale of collective pilgrimage are unusually distinctive.
+  - significance: 9.7 — Major religious and national cultural importance supports exceptional significance.
+  - experience: 9.1 — Architecture and devotional observation offer substantial experience independently of personal faith.
+  - depth: 9.0 — Several buildings and traditions provide meaningful exploration.
+- Categories: culture 9.6, history 9.5, architecture 9.1, photography 9.0.
+- Overall: 93.45/100.
+- High-score challenge: 9.7 significance, 9.6 culture and 9.5 history reflect the enduring scale and national cultural role of devotion, comparable with Lourdes and Fátima; not a claim of architectural superiority to St Peter's or proof of religious beliefs. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise current access and geographic scope where applicable; numerical peer checks and worldwide Python validation.
+
+## sight-mx-sac-actun-underwater-cave-system — Sac Actun Underwater Cave System — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/sac-actun-underwater-cave-system.yaml)
+- Action: new
+- Precise subject: Extensive connected submerged cave system, including Dos Ojos as a nested attraction independently scored for its own visitor experience. Wider than an individual cenote; not the Chicxulub ring. Only lawful suitable qualified cave-diving routes credited; no access to protected archaeological deposits assumed.
+- Location check: 20.246389, -87.464167; approximate representative point.
+- Evidence status: source-linked-unverified; IUGS full page checked, INAH and survey indexed only.
+- Sources consulted 2026-11-28: https://iugs-geoheritage.org/geoheritage_sites/sac-actum-underwater-cave-system/ (opened: IUGS geoheritage site, 368 km reported surveyed length, submerged archaeological and paleontological archives, coordinates); https://www.gob.mx/cultura/prensa/dan-a-conocer-hallazgos-en-el-sitio-arqueologico-sumergido-sac-actun?idiom=es-MX (indexed only: INAH confirmed Dos Ojos connection; blocked full page); https://uwcaves.org/countries/mexico (indexed survey compilation: length changes with exploration).
+- Worldwide peers (qualitative, not independently numerically refetched):
+  - Mammoth Cave (US): greater surveyed dry cave length and easier visitor access
+  - Son Doong (VN): greater dry chamber spectacle
+  - Chiquibul Cave System (BZ): extensive but distinct karst and cave context
+  - Waitomo (NZ): narrower, more accessible visitor-scale cave experiences
+- Individual scores:
+  - impact: 9.4 — Extensive clear-water limestone galleries offer exceptional underwater spectacle.
+  - uniqueness: 9.7 — Unusually extensive connected flooded karst system is rare worldwide.
+  - significance: 9.7 — Scientific archives of early human occupation and paleoclimate support exceptional significance.
+  - experience: 8.7 — Rewarding specialist experience without assuming all passages available to tourists.
+  - depth: 9.3 — Extensive surveyed network and multiple distinct dive settings support depth.
+- Categories: nature 9.7, adventure 9.5, history 9.3, photography 9.4.
+- Overall: 94.20/100.
+- High-score challenge: 9.7 uniqueness, nature and significance are supported by IUGS documentation of extraordinary surveyed underwater extent and preserved scientific archives; adventure 9.5 reflects specialist cave exploration, not guaranteed access or encouragement of unqualified diving. No exact current world-record claim made. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise current access and geographic scope where applicable; numerical peer checks and worldwide Python validation.
+
+## sight-mx-yucatan-whale-shark-aggregation — Northeastern Yucatán Whale Shark Aggregation — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/yucatan-whale-shark-aggregation.yaml)
+- Action: new
+- Precise subject: Seasonal regional feeding aggregation north and east of the northeastern Yucatán coast, including protected reserve and offshore Afuera aggregation; one record across Holbox, Contoy and Isla Mujeres departure points. Approximate offshore representative point, not a fixed observation location.
+- Location check: 21.55, -86.9; approximate representative point.
+- Evidence status: fact-checked for material attraction identity and core supporting facts; ratings remain editorial.
+- Sources consulted 2026-11-28: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0018994 (opened: exceptionally large aggregation; two feeding areas and ecotourism context); https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0071883 (opened: seasonal aggregations and movement patterns); https://descubreanp.conanp.gob.mx/swb/conanp/ANP?suri=167 (opened: regulated swimming and whale shark watching in reserve).
+- Worldwide peers (qualitative, not independently numerically refetched):
+  - Ningaloo Reef (AU): broader reef experience with comparable whale shark encounters
+  - Donsol (PH): comparable seasonal wildlife encounter
+  - Gladden Spit (BZ): smaller reported whale shark aggregations in the cited study
+  - South Ari Atoll (MV): comparable whale shark observation, different seasonal pattern
+- Individual scores:
+  - impact: 9.4 — Encountering the largest living fish in open water can be extraordinary.
+  - uniqueness: 9.3 — Exceptionally large documented feeding gatherings distinguish this region.
+  - significance: 9.5 — Important recurrent feeding habitat and conservation significance supported by research.
+  - experience: 9.1 — Regulated observation and swimming offer strong experience without guaranteed sightings.
+  - depth: 8.4 — Single seasonal wildlife focus limits breadth relative to whole marine parks.
+- Categories: wildlife 9.7, nature 9.4, adventure 9.2, photography 9.3.
+- Overall: 92.50/100.
+- High-score challenge: 9.7 wildlife and 9.5 significance reflect scientifically documented large feeding gatherings and conservation relevance, compared with Ningaloo and Donsol. No historical peak count assumed for a normal tour and no guaranteed encounters. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise current access and geographic scope where applicable; numerical peer checks and worldwide Python validation.

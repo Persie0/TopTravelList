@@ -1,0 +1,17 @@
+id: sight-mx-yucatan-whale-shark-aggregation
+name: "Northeastern Yucatán Whale Shark Aggregation"
+location:
+  country_code: MX
+  latitude: 21.55
+  longitude: -86.9
+scores:
+  impact: 9.4
+  uniqueness: 9.3
+  significance: 9.5
+  experience: 9.1
+  depth: 8.4
+  categories:
+    wildlife: 9.7
+    nature: 9.4
+    adventure: 9.2
+    photography: 9.3
