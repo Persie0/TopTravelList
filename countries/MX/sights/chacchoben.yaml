@@ -1,0 +1,16 @@
+id: sight-mx-chacchoben
+name: "Chacchobén Archaeological Site"
+location:
+  country_code: MX
+  latitude: 19.0008
+  longitude: -88.2325
+scores:
+  impact: 8.7
+  uniqueness: 8.5
+  significance: 8.6
+  experience: 8.9
+  depth: 8.7
+  categories:
+    architecture: 8.9
+    history: 8.9
+    photography: 8.8

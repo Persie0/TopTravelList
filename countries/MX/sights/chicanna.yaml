@@ -1,0 +1,16 @@
+id: sight-mx-chicanna
+name: "Chicanná Archaeological Site"
+location:
+  country_code: MX
+  latitude: 18.5069
+  longitude: -89.4863
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 8.8
+  experience: 8.8
+  depth: 8.2
+  categories:
+    architecture: 9.3
+    photography: 9.2
+    history: 8.9

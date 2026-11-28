@@ -1,0 +1,16 @@
+id: sight-mx-dzibilchaltun
+name: "Dzibilchaltún Archaeological Site"
+location:
+  country_code: MX
+  latitude: 21.091
+  longitude: -89.5903
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 8.8
+  depth: 9.0
+  categories:
+    history: 9.4
+    architecture: 9.2
+    photography: 9.2

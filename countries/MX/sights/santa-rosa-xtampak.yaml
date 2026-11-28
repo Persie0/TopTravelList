@@ -1,0 +1,16 @@
+id: sight-mx-santa-rosa-xtampak
+name: "Santa Rosa Xtampak Archaeological Site"
+location:
+  country_code: MX
+  latitude: 19.77257
+  longitude: -89.59877
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 8.6
+  depth: 9.0
+  categories:
+    architecture: 9.3
+    history: 9.3
+    photography: 9.0

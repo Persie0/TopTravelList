@@ -8787,3 +8787,257 @@ Cumbres de Monterrey evaluated independently of the Matacanes canyon route. Puen
 - Earlier decision: none.
 - Remaining verification: independent factual and coordinate checks, numerical peer comparisons and global Python validation; current permissions not verified.
 
+## Pass 437 — Maya and central Mexican archaeological heritage
+
+Individual Puuc sites evaluated separately from the existing Uxmal record. Balamkú ruins and bat emergence are different attractions. Scores are editorial; source descriptions were consulted through indexed results. Coordinates are representative site points, not entrance surveys.
+
+## sight-mx-kabah — Kabah Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/kabah.yaml)
+- Action: new
+- Precise subject: Puuc city and its own monuments, notably Codz Pop, excluding Uxmal.
+- Location check: 20.24892, -89.64778; representative point from mapped site or indexed archaeological coordinate listings; independent survey outstanding.
+- Evidence status: source-linked-unverified; indexed INAH and/or UNESCO descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/es/node/4423; https://whc.unesco.org/en/list/791/; https://mapcarta.com/19990814.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Uxmal (MX): broader monumental complex
+  - Copán (HN): richer sculptural corpus
+  - Tikal (GT): greater urban scale
+  - Labná (MX): smaller ornate ensemble
+- Individual scores:
+  - impact: 9.2 — Ornate monumental façades.
+  - uniqueness: 9.3 — Hundreds of repeated Chaac masks.
+  - significance: 9.3 — Major Puuc ceremonial center.
+  - experience: 9.0 — Varied architectural exploration.
+  - depth: 8.8 — Several plazas and palace structures.
+- Categories: architecture 9.4, history 9.3, photography 9.3.
+- Overall: 91.75/100.
+- High-score challenge: High rating rests on Codz Pop's documented distinctive architecture and 26 rooms, not automatic inheritance from Uxmal. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate checks, numerical peer comparisons and global Python validation; current access not verified.
+
+## sight-mx-balamku-archaeological-site — Balamkú Archaeological Site and Stucco Frieze — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/balamku-archaeological-site.yaml)
+- Action: new
+- Precise subject: Maya city and original polychrome frieze; distinct from Balam Kú bat emergence.
+- Location check: 18.5602, -89.9444; representative point from mapped site or indexed archaeological coordinate listings; independent survey outstanding.
+- Evidence status: source-linked-unverified; indexed INAH and/or UNESCO descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/es/node/4373; https://lugares.inah.gob.mx/en/pagina-de-elemento/1711; https://archeoatlas.com/culture/native-american.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Bonampak (MX): exceptional painted murals
+  - Copán (HN): larger sculpture ensemble
+  - San Bartolo (GT): exceptional paintings but restricted visitor scope
+  - Becan (MX): larger fortified settlement
+- Individual scores:
+  - impact: 9.1 — Exceptional preserved sculptural decoration.
+  - uniqueness: 9.5 — Rare original Maya stucco composition.
+  - significance: 9.4 — Major evidence of Classic-period iconography.
+  - experience: 8.7 — Focused architectural interpretation.
+  - depth: 8.2 — Limited exposed monumental scope.
+- Categories: architecture 9.4, history 9.4, culture 9.3.
+- Overall: 91.10/100.
+- High-score challenge: Uniqueness 9.5 supported by INAH's description of the singular modelled polychrome frieze in the Maya area. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate checks, numerical peer comparisons and global Python validation; current access not verified.
+
+## sight-mx-chalcatzingo — Chalcatzingo Archaeological Site and Olmec Reliefs — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/chalcatzingo.yaml)
+- Action: new
+- Precise subject: Ancient settlement, rock reliefs and monuments in situ; excludes relocated works elsewhere.
+- Location check: 18.6767, -98.7717; representative point from mapped site or indexed archaeological coordinate listings; independent survey outstanding.
+- Evidence status: source-linked-unverified; indexed INAH and/or UNESCO descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/es/node/4334; https://mna.inah.gob.mx/detalle_huella.php?pl=Chalcatzingo_Morelos; https://mapcarta.com/Chalcatzingo.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - La Venta (MX): greater Olmec monumental scale
+  - Takalik Abaj (GT): broader transitional cultural record
+  - San Agustín (CO): more extensive sculpture landscape
+  - Cacaxtla (MX): exceptional later murals
+- Individual scores:
+  - impact: 9.0 — Monumental reliefs against mountain landscape.
+  - uniqueness: 9.4 — Distinctive Olmec-influenced rock carving.
+  - significance: 9.5 — Exceptional evidence of Middle Preclassic ritual and society.
+  - experience: 8.8 — Interpretive walks among reliefs.
+  - depth: 8.8 — Multiple monuments and settlement remains.
+- Categories: history 9.5, culture 9.4, photography 9.1.
+- Overall: 91.50/100.
+- High-score challenge: Significance and history 9.5 reflect documented Middle Preclassic iconography and the in-situ relief corpus, not the fame of Olmec civilization generally. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate checks, numerical peer comparisons and global Python validation; current access not verified.
+
+## sight-mx-sayil — Sayil Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/sayil.yaml)
+- Action: new
+- Precise subject: Individual Puuc city and its North Palace, excluding neighboring UNESCO components.
+- Location check: 20.1778, -89.6522; representative point from mapped site or indexed archaeological coordinate listings; independent survey outstanding.
+- Evidence status: source-linked-unverified; indexed INAH and/or UNESCO descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/en/node/5455; https://lugares.inah.gob.mx/es/node/4458; https://whc.unesco.org/en/list/791/; https://archeoatlas.com/culture/native-american.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Kabah (MX): stronger mask ornamentation
+  - Uxmal (MX): wider ceremonial ensemble
+  - Copán (HN): stronger carved monuments
+  - Labná (MX): smaller palace and arch
+- Individual scores:
+  - impact: 9.0 — Impressive multilevel palace façade.
+  - uniqueness: 9.1 — Distinctive symmetrical Puuc colonnades.
+  - significance: 9.2 — Important evidence of late Maya urban organization.
+  - experience: 8.9 — Rewarding architecture-focused visit.
+  - depth: 8.9 — Several separate structural groups.
+- Categories: architecture 9.4, history 9.2, photography 9.1.
+- Overall: 90.40/100.
+- High-score challenge: 90+ supported by the distinctive multi-level palace and site-scale breadth. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate checks, numerical peer comparisons and global Python validation; current access not verified.
+
+## sight-mx-santa-rosa-xtampak — Santa Rosa Xtampak Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/santa-rosa-xtampak.yaml)
+- Action: new
+- Precise subject: Chenes regional center, including surviving palace and documented monuments; no credit for unexcavated interiors.
+- Location check: 19.77257, -89.59877; representative point from mapped site or indexed archaeological coordinate listings; independent survey outstanding.
+- Evidence status: source-linked-unverified; indexed INAH and/or UNESCO descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/es/node/4457; https://lugares.inah.gob.mx/es/pagina-de-elemento/2843; https://www.inah.gob.mx/zonas/zona-arqueologica-de-santa-rosa-xtampak; https://archeoatlas.com/culture/native-american.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Edzná (MX): more prominent monumental core
+  - Sayil (MX): comparable palace
+  - Kohunlich (MX): stronger mask imagery
+  - Caracol (BZ): much larger urban system
+- Individual scores:
+  - impact: 9.0 — Monumental three-level palace.
+  - uniqueness: 9.1 — Distinctive Chenes palace complexity.
+  - significance: 9.2 — Important regional polity with inscriptions and monuments.
+  - experience: 8.6 — Focused remote archaeological exploration.
+  - depth: 9.0 — Multiple architectural groups and urban remains.
+- Categories: architecture 9.3, history 9.3, photography 9.0.
+- Overall: 90.05/100.
+- High-score challenge: 90+ supported by 42-room three-level palace and regional political history; access and extent of visible remains constrain experience. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate checks, numerical peer comparisons and global Python validation; current access not verified.
+
+## sight-mx-dzibilchaltun — Dzibilchaltún Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/dzibilchaltun.yaml)
+- Action: new
+- Precise subject: Ancient city and Temple of the Seven Dolls, including its documented astronomical alignment.
+- Location check: 21.091, -89.5903; representative point from mapped site or indexed archaeological coordinate listings; independent survey outstanding.
+- Evidence status: source-linked-unverified; indexed INAH and/or UNESCO descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/es/node/4400; https://lugares.inah.gob.mx/es/pagina-de-elemento/2102; https://archeoatlas.com/culture/native-american.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Chichen Itza (MX): greater monumental scale
+  - Uaxactun (GT): comparable astronomical architecture
+  - Mayapan (MX): stronger later capital context
+  - Tulum (MX): more dramatic coastal setting
+- Individual scores:
+  - impact: 9.0 — Distinctive temple and ancient urban remains.
+  - uniqueness: 9.2 — Unusual documented solar alignment.
+  - significance: 9.3 — Long occupation and important regional political role.
+  - experience: 8.8 — Varied monument exploration.
+  - depth: 9.0 — Temple, causeways and multiple architectural groups.
+- Categories: history 9.4, architecture 9.2, photography 9.2.
+- Overall: 90.80/100.
+- High-score challenge: 90+ grounded in the site's architectural orientation and broader settlement, not a guaranteed equinox viewing experience. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate checks, numerical peer comparisons and global Python validation; current access not verified.
+
+## sight-mx-labna — Labná Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/labna.yaml)
+- Action: new
+- Precise subject: Individual Puuc city including decorated arch and palace.
+- Location check: 20.1725, -89.579; representative point from mapped site or indexed archaeological coordinate listings; independent survey outstanding.
+- Evidence status: source-linked-unverified; overview sources consulted; editorial scores.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/es/node/4427; https://whc.unesco.org/en/list/791/; https://archeoatlas.com/culture/native-american.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Kabah (MX): larger palace
+  - Sayil (MX): more imposing multilevel façade
+  - Uxmal (MX): much wider ensemble
+  - Xunantunich (BZ): more monumental pyramid
+- Individual scores:
+  - impact: 8.9 — Elegant surviving stonework.
+  - uniqueness: 9.0 — Distinctive ornamental arch.
+  - significance: 9.1 — Important Puuc architectural heritage.
+  - experience: 8.8 — Compact enjoyable visit.
+  - depth: 8.4 — Several monuments but limited scale.
+- Categories: architecture 9.3, history 9.1, photography 9.2.
+- Overall: 89.00/100.
+- High-score challenge: Provisional sub-90 score based on site scope. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate checks, numerical peer comparisons and global Python validation; current access not verified.
+
+## sight-mx-cuicuilco — Cuicuilco Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/cuicuilco.yaml)
+- Action: new
+- Precise subject: Surviving Preclassic ceremonial remains, especially the circular main platform.
+- Location check: 19.301667, -99.181667; representative point from mapped site or indexed archaeological coordinate listings; independent survey outstanding.
+- Evidence status: source-linked-unverified; overview sources consulted; editorial scores.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/es/node/4395; https://www.wikidata.org/wiki/Q1143307.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Teotihuacan (MX): much larger later city
+  - La Venta (MX): broader early ceremonial landscape
+  - Cahokia (US): different large earthen mound complex
+  - Chalcatzingo (MX): richer original reliefs
+- Individual scores:
+  - impact: 8.6 — Large unusual circular platform.
+  - uniqueness: 9.0 — Distinctive early monumental form.
+  - significance: 9.3 — Major early central Mexican religious center.
+  - experience: 8.5 — Focused archaeological interpretation.
+  - depth: 8.3 — Limited surviving exposed structures.
+- Categories: history 9.4, architecture 9.0, culture 9.0.
+- Overall: 87.95/100.
+- High-score challenge: Provisional sub-90 score; historical importance is not equated with surviving visitor scope. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate checks, numerical peer comparisons and global Python validation; current access not verified.
+
+## sight-mx-chicanna — Chicanná Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/chicanna.yaml)
+- Action: new
+- Precise subject: Small Río Bec area settlement with its own elaborate façades.
+- Location check: 18.5069, -89.4863; representative point from mapped site or indexed archaeological coordinate listings; independent survey outstanding.
+- Evidence status: source-linked-unverified; overview sources consulted; editorial scores.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/es/node/4384; https://archeoatlas.com/culture/native-american.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Becan (MX): larger fortified site
+  - Kohunlich (MX): stronger mask ensemble
+  - Ek Balam (MX): larger stucco monument
+  - Xunantunich (BZ): greater pyramid scale
+- Individual scores:
+  - impact: 8.8 — Striking decorated buildings.
+  - uniqueness: 9.1 — Distinctive monster-mouth entrance.
+  - significance: 8.8 — Regional evidence of Maya elite architecture.
+  - experience: 8.8 — Compact architectural visit.
+  - depth: 8.2 — Limited exposed groups.
+- Categories: architecture 9.3, photography 9.2, history 8.9.
+- Overall: 88.15/100.
+- High-score challenge: Provisional sub-90 assessment. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate checks, numerical peer comparisons and global Python validation; current access not verified.
+
+## sight-mx-chacchoben — Chacchobén Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/chacchoben.yaml)
+- Action: new
+- Precise subject: Exposed temple groups and forest setting of Chacchobén only.
+- Location check: 19.0008, -88.2325; representative point from mapped site or indexed archaeological coordinate listings; independent survey outstanding.
+- Evidence status: source-linked-unverified; overview sources consulted; editorial scores.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/es/node/5626; https://archeoatlas.com/culture/native-american.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Kohunlich (MX): more distinctive masks
+  - Lamanai (BZ): broader riverside setting
+  - Tikal (GT): much larger scale
+  - Becan (MX): stronger fortification features
+- Individual scores:
+  - impact: 8.7 — Temples within forest setting.
+  - uniqueness: 8.5 — Comparable regional Maya monuments.
+  - significance: 8.6 — Regional settlement history.
+  - experience: 8.9 — Pleasant monument walks.
+  - depth: 8.7 — Several temple groups.
+- Categories: architecture 8.9, history 8.9, photography 8.8.
+- Overall: 86.60/100.
+- High-score challenge: Provisional sub-90 assessment. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate checks, numerical peer comparisons and global Python validation; current access not verified.
+

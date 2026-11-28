@@ -1,0 +1,16 @@
+id: sight-mx-balamku-archaeological-site
+name: "Balamkú Archaeological Site and Stucco Frieze"
+location:
+  country_code: MX
+  latitude: 18.5602
+  longitude: -89.9444
+scores:
+  impact: 9.1
+  uniqueness: 9.5
+  significance: 9.4
+  experience: 8.7
+  depth: 8.2
+  categories:
+    architecture: 9.4
+    history: 9.4
+    culture: 9.3

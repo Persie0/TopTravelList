@@ -1,0 +1,16 @@
+id: sight-mx-cuicuilco
+name: "Cuicuilco Archaeological Site"
+location:
+  country_code: MX
+  latitude: 19.301667
+  longitude: -99.181667
+scores:
+  impact: 8.6
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 8.5
+  depth: 8.3
+  categories:
+    history: 9.4
+    architecture: 9.0
+    culture: 9.0
