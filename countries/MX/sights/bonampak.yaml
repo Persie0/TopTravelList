@@ -1,0 +1,17 @@
+id: sight-mx-bonampak
+name: "Bonampak Archaeological Site and Maya Murals"
+location:
+  country_code: MX
+  latitude: 16.7036
+  longitude: -91.065
+scores:
+  impact: 9.3
+  uniqueness: 9.6
+  significance: 9.7
+  experience: 8.6
+  depth: 7.9
+  categories:
+    history: 9.7
+    culture: 9.6
+    architecture: 8.9
+    photography: 9.2

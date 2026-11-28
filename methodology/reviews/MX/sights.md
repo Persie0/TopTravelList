@@ -5154,3 +5154,228 @@ Peer values from country ranking tables or same-batch assessments; complete sour
 - High-score challenge: No 90+ total or 9.5+ field.
 - Earlier decision: none.
 - Remaining verification: current access, precise scope where applicable, numerical peers and worldwide Python validation.
+
+## sight-mx-yaxchilan — Yaxchilán Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/yaxchilan.yaml)
+- Action: new
+- Precise subject: Ancient city within the Mexican Usumacinta river bend, including its immediate jungle setting and approach, not the entire Lacantún–Usumacinta region. Displaced original lintels not credited as on-site displays.
+- Location check: 16.89617, -90.9675; approximate representative point, not verified entrance.
+- Evidence status: source-linked-unverified; core supporting evidence consulted as indicated, full independent fact-check incomplete; editorial scores.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/es/node/4367 (opened: acropoleis, plaza, surviving inscriptions and natural-cultural monument designation); https://smarthistory.org/yaxchilan-lintels/ (indexed: art historical context); https://peabody.harvard.edu/yaxchilan (indexed: documented lintel locations); https://www.academia.edu/87257515/Ritual_Landscapes_of_the_Caves_Branch_River_Valley (indexed research volume, Maya monument coordinate table).
+- Worldwide peers (qualitative, numerical peer scores not refetched):
+  - Tikal (GT): greater monumental scale and forest city breadth
+  - Copán (HN): comparable inscription and sculptural importance
+  - Palenque (MX): greater preserved architectural ensemble
+  - Caracol (BZ): comparable powerful Maya polity, less distinctive river setting
+- Individual scores:
+  - impact: 9.2 — Jungle acropoleis above a large river bend make an outstanding ensemble.
+  - uniqueness: 9.2 — River-adapted urban form and exceptional inscriptions distinguish the site.
+  - significance: 9.5 — Extensive dynastic records and monumental art support exceptional historical importance.
+  - experience: 9.1 — River approach and varied architectural groups make a rewarding encounter where permitted.
+  - depth: 9.1 — Several acropoleis and plazas provide substantial exploration.
+- Categories: history 9.5, architecture 9.3, photography 9.3, culture 9.2.
+- Overall: 92.35/100.
+- High-score challenge: 90+ total and 9.5 history/significance supported by INAH's documented monuments and dynastic records, compared with Copán and Palenque; no credit for viewing relocated originals on site. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent source triangulation, precise coordinates and access, worldwide Python validation.
+
+## sight-mx-bonampak — Bonampak Archaeological Site and Maya Murals — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/bonampak.yaml)
+- Action: new
+- Precise subject: Ancient city and original painted rooms; no guarantee of interior viewing or unrestricted photography. Not Yaxchilán or the Lacandon forest as a whole.
+- Location check: 16.7036, -91.065; approximate representative point, not verified entrance.
+- Evidence status: source-linked-unverified; core supporting evidence consulted as indicated, full independent fact-check incomplete; editorial scores.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/en/node/4331 (indexed, full page timed out: three painted rooms); https://lugares.inah.gob.mx/en/node/5416 (indexed: surviving building, mural program and lintels); https://academic.oup.com/reference/62285/reference-article-abstract/552014770 (indexed scholarly entry by Mary Miller: exceptional completeness of the ancient Maya murals); https://www.academia.edu/87257515/Ritual_Landscapes_of_the_Caves_Branch_River_Valley (indexed research volume, Maya monument coordinate table).
+- Worldwide peers (qualitative, numerical peer scores not refetched):
+  - Ajanta (IN): greater overall painted cave ensemble
+  - Pompeii (IT): much broader surviving urban paintings and archaeology
+  - San Bartolo (GT): exceptional earlier Maya painting context
+  - Palenque (MX): greater architectural breadth but less extensive surviving mural program
+- Individual scores:
+  - impact: 9.3 — Original vivid painted interiors provide outstanding visual and artistic impact.
+  - uniqueness: 9.6 — Unusually complete surviving Classic Maya mural cycle is exceptionally distinctive.
+  - significance: 9.7 — Rare painted historical and ceremonial evidence warrants high significance.
+  - experience: 8.6 — Specialist viewing and interpretation are rewarding but narrow in scope.
+  - depth: 7.9 — Small monumental core and three painted rooms constrain breadth.
+- Categories: history 9.7, culture 9.6, architecture 8.9, photography 9.2.
+- Overall: 92.10/100.
+- High-score challenge: 9.6 uniqueness/culture and 9.7 significance/history supported by INAH and scholarly indexed sources on the unusually complete mural program. Unlike Ajanta or Pompeii, depth is constrained. Full source pages not all accessible. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent source triangulation, precise coordinates and access, worldwide Python validation.
+
+## sight-mx-tonina — Toniná Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/tonina.yaml)
+- Action: new
+- Precise subject: Monumental acropolis and associated plaza in Ocosingo valley; artificial terraces built on modified natural hill, not a freestanding pyramid of equivalent height. No current opening or climbing promise.
+- Location check: 16.88618, -92.03831; approximate representative point, not verified entrance.
+- Evidence status: source-linked-unverified; core supporting evidence consulted as indicated, full independent fact-check incomplete; editorial scores.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/en/node/4359 (opened: seven platforms, about 75 m relief, palaces, friezes, temples and plaza); https://sidof.segob.gob.mx/notas/docFuente/5776923 (indexed official declaration: acropolis height above 74 m and architectural zoning); https://www.academia.edu/87257515/Ritual_Landscapes_of_the_Caves_Branch_River_Valley (indexed research volume, Maya monument coordinate table).
+- Worldwide peers (qualitative, numerical peer scores not refetched):
+  - Tikal (GT): much larger forest city ensemble
+  - Copán (HN): stronger concentration of exceptional carved monuments
+  - Palenque (MX): more renowned architectural refinement
+  - Caracol (BZ): comparable monumental acropolis and regional political significance
+- Individual scores:
+  - impact: 9.4 — Steep layered acropolis offers exceptional monumental impact.
+  - uniqueness: 9.3 — Seven-platform hillside arrangement differs from classic freestanding pyramids.
+  - significance: 9.4 — Powerful polity and preserved religious and political architecture support high significance.
+  - experience: 8.9 — Multiple architectural groups offer rewarding interpretation without assuming summit access.
+  - depth: 9.0 — Large terraced ensemble and plaza give substantial depth.
+- Categories: architecture 9.5, history 9.4, photography 9.3, culture 9.1.
+- Overall: 92.60/100.
+- High-score challenge: Architecture 9.5 reflects the extraordinary terraced acropolis, documented by INAH, not an unsupported freestanding-pyramid record. Compared with Tikal and Copán, the overall scope is narrower. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent source triangulation, precise coordinates and access, worldwide Python validation.
+
+## sight-mx-ek-balam — Ek Balam Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/ek-balam.yaml)
+- Action: new
+- Precise subject: Ancient Talol capital, plazas, acropolis and preserved stucco façade; no separate cenote or unrestricted tomb access credited.
+- Location check: 20.892, -88.13583; approximate representative point, not verified entrance.
+- Evidence status: source-linked-unverified; core supporting evidence consulted as indicated, full independent fact-check incomplete; editorial scores.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/en/node/4401 (opened: six-level 160 m acropolis, royal burial and monumental stucco); https://www.gob.mx/cultura/prensa/especialistas-del-inah-avanzan-en-el-analisis-de-los-recientes-hallazgos-en-la-zona-arqueologica-de-ek-balam (indexed: additional stucco decorated rooms); https://www.academia.edu/87257515/Ritual_Landscapes_of_the_Caves_Branch_River_Valley (indexed research volume, Maya monument coordinate table).
+- Worldwide peers (qualitative, numerical peer scores not refetched):
+  - Copán (HN): wider exceptional sculpture and inscription collection
+  - Tikal (GT): substantially larger ceremonial city
+  - Uxmal (MX): broader Puuc architectural ensemble
+  - Xunantunich (BZ): comparable major decorated acropolis
+- Individual scores:
+  - impact: 9.2 — Massive acropolis and elaborate stucco façade offer outstanding visual appeal.
+  - uniqueness: 9.3 — Preserved zoomorphic royal mausoleum façade is particularly distinctive.
+  - significance: 9.2 — Dynastic history and surviving sculptural evidence fill regional archaeological gaps.
+  - experience: 9.0 — Plazas and decorated structures provide engaging exploration.
+  - depth: 8.8 — Several complexes add breadth but not at Tikal scale.
+- Categories: architecture 9.4, history 9.3, culture 9.2, photography 9.3.
+- Overall: 91.55/100.
+- High-score challenge: 90+ supported by documented monumental architecture and unusually preserved stucco; no 9.5+ field or claim of superior overall scale to Uxmal. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent source triangulation, precise coordinates and access, worldwide Python validation.
+
+## sight-mx-edzna — Edzná Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/edzna.yaml)
+- Action: new
+- Precise subject: Regional Maya capital and Great Acropolis, including Five Floors building and historic hydraulic context, not all Campeche sites.
+- Location check: 19.59667, -90.22908; approximate representative point, not verified entrance.
+- Evidence status: source-linked-unverified; core supporting evidence consulted as indicated, full independent fact-check incomplete; editorial scores.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/en/node/4339 (indexed: major acropolis and hydraulic system); https://lugares.inah.gob.mx/en/node/5571 (indexed: architectural and water management context); https://www.academia.edu/87257515/Ritual_Landscapes_of_the_Caves_Branch_River_Valley (indexed research volume, Maya monument coordinate table).
+- Worldwide peers (qualitative, numerical peer scores not refetched):
+  - Tikal (GT): much greater urban breadth
+  - Copán (HN): stronger sculpture and inscription heritage
+  - Uxmal (MX): more distinctive surviving architectural decoration
+  - Lamanai (BZ): comparable regional capital with different river setting
+- Individual scores:
+  - impact: 9.1 — Five-tier monumental building and broad plaza yield strong visual impact.
+  - uniqueness: 8.9 — Hydraulic planning and multi-floor architecture distinguish the city.
+  - significance: 9.1 — Regional political importance and water engineering support significance.
+  - experience: 9.0 — Several monumental groups make an engaging visit.
+  - depth: 8.9 — Plazas, acropolis and related engineering supply depth.
+- Categories: architecture 9.3, history 9.2, photography 9.2, culture 8.9.
+- Overall: 90.15/100.
+- High-score challenge: Near-threshold: strong architecture and engineering, but fewer exceptional distinguishing qualities than Uxmal or Tikal. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent source triangulation, precise coordinates and access, worldwide Python validation.
+
+## sight-mx-dzibanche-kinichna — Dzibanché and Kinichná Archaeological Complex — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/dzibanche-kinichna.yaml)
+- Action: new
+- Precise subject: Combined ancient city with connected monumental groups, including Kinichná, not separate duplicate entries or all of the Kaan dynasty's territory. Representative main group coordinate.
+- Location check: 18.63841, -88.75866; approximate representative point, not verified entrance.
+- Evidence status: source-linked-unverified; core supporting evidence consulted as indicated, full independent fact-check incomplete; editorial scores.
+- Sources consulted 2026-11-28: https://www.cambridge.org/core/journals/ancient-mesoamerica/article/rise-of-the-kaanul-kingdom-and-the-city-of-dzibanche/60D62699ADBBCBB27AA07AD35131FC81 (opened: Kaan origins, lidar, royal burials and linked ceremonial center); https://lugares.inah.gob.mx/en/node/4398 (indexed: four connected groups); https://www.gob.mx/cultura/prensa/investigaciones-consolidan-a-dzibanche-como-eje-politico-de-la-dinastia-kaan-u-l?idiom=es-MX (indexed search: groups and causeways); https://www.academia.edu/87257515/Ritual_Landscapes_of_the_Caves_Branch_River_Valley (indexed research volume, Maya monument coordinate table).
+- Worldwide peers (qualitative, numerical peer scores not refetched):
+  - Tikal (GT): larger exposed monumental center
+  - Caracol (BZ): comparable dynastic and political importance
+  - Copán (HN): greater visible sculptural richness
+  - Calakmul (MX): later dynastic capital with much larger forest landscape
+- Individual scores:
+  - impact: 8.9 — Large structures in forest create strong monumental presence.
+  - uniqueness: 9.0 — Connected urban groups and early Kaan capital context distinguish the site.
+  - significance: 9.4 — Peer-reviewed research documents major political and dynastic relevance.
+  - experience: 8.7 — Monumental groups offer substantial exploration without assuming access to each group.
+  - depth: 9.0 — Urban complexes, inscriptions and burials provide interpretive breadth.
+- Categories: history 9.4, architecture 9.2, culture 9.1, photography 8.9.
+- Overall: 90.05/100.
+- High-score challenge: 90+ potential researched, significance distinguished from immediately visible architecture. No 9.5+ fields. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent source triangulation, precise coordinates and access, worldwide Python validation.
+
+## sight-mx-mayapan — Mayapán Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/mayapan.yaml)
+- Action: new
+- Precise subject: Walled Postclassic Maya capital near Telchaquillo, not Chichén Itzá or modern Mayapán municipality.
+- Location check: 20.62965, -89.46059; approximate representative point, not verified entrance.
+- Evidence status: source-linked-unverified; core supporting evidence consulted as indicated, full independent fact-check incomplete; editorial scores.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/en/node/4439 (indexed: walled capital and Postclassic political role); https://sic.cultura.gob.mx/ficha.php?estado_id=31&table=zona_arqueologica&table_id=131 (indexed: chronology); https://mapcarta.com/34489080 (indexed coordinates).
+- Worldwide peers (qualitative, numerical peer scores not refetched):
+  - Chichén Itzá (MX): more exceptional and globally known monument ensemble
+  - Tikal (GT): greater monumental architecture and urban expanse
+  - Iximché (GT): comparable late Maya political center with different setting
+  - Santa Rita (BZ): smaller Postclassic center
+- Individual scores:
+  - impact: 8.6 — Distinct walled city and temples create strong but modest relative visual impact.
+  - uniqueness: 8.8 — Postclassic political center provides distinctive period context.
+  - significance: 9.3 — Major regional capital shortly before Spanish contact warrants high significance.
+  - experience: 8.6 — Multiple buildings and urban walls support rewarding interpretation.
+  - depth: 8.8 — Residential and civic layout offer breadth.
+- Categories: history 9.4, architecture 8.9, culture 9.1, photography 8.7.
+- Overall: 88.10/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent source triangulation, precise coordinates and access, worldwide Python validation.
+
+## sight-mx-becan — Becán Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/becan.yaml)
+- Action: new
+- Precise subject: Moat-enclosed Río Bec regional center, distinct from neighboring Chicanná, Xpuhil and Calakmul.
+- Location check: 18.5167, -89.4667; approximate representative point, not verified entrance.
+- Evidence status: source-linked-unverified; core supporting evidence consulted as indicated, full independent fact-check incomplete; editorial scores.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/en/node/4329 (indexed: moat, bridge and regional capital); https://www.getty.edu/vow/TGNFullDisplay?english=N&find=midway&nation=&place=atoll&subjectid=6000711 (indexed coordinates).
+- Worldwide peers (qualitative, numerical peer scores not refetched):
+  - Caracol (BZ): larger and more significant regional center
+  - Tikal (GT): greater monumental scale
+  - Xochicalco (MX): more distinctive fortified hilltop setting
+  - Kohunlich (MX): similarly rich regional architecture
+- Individual scores:
+  - impact: 8.7 — Tall structures and sunken defensive boundary provide strong impact.
+  - uniqueness: 8.8 — Moat and Río Bec architecture distinguish the site.
+  - significance: 8.8 — Regional capital role and long occupation support significance.
+  - experience: 8.7 — Several plazas and monumental buildings offer rewarding exploration.
+  - depth: 8.7 — Defensive features and dense civic core provide breadth.
+- Categories: architecture 9.1, history 9.0, culture 8.8, photography 8.9.
+- Overall: 87.45/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent source triangulation, precise coordinates and access, worldwide Python validation.
+
+## sight-mx-kohunlich — Kohunlich Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/kohunlich.yaml)
+- Action: new
+- Precise subject: Ancient city with monumental stucco masks and surrounding architectural groups; approximate entrance-area coordinate.
+- Location check: 18.419, -88.791; approximate representative point, not verified entrance.
+- Evidence status: source-linked-unverified; core supporting evidence consulted as indicated, full independent fact-check incomplete; editorial scores.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/en/node/4346 (indexed: Temple of the Masks and elite complexes); https://sic.cultura.gob.mx/ficha.php?disciplina=&table=zona_arqueologica&table_id=92 (indexed site identity); https://www.voykit.com/parks/kohunlich (indexed approximate gate coordinate; weak locator).
+- Worldwide peers (qualitative, numerical peer scores not refetched):
+  - Copán (HN): substantially greater carved monument collection
+  - Lamanai (BZ): comparable large masks and forest ruins
+  - Ek Balam (MX): more elaborate surviving royal stucco façade
+  - Tikal (GT): much greater city scope
+- Individual scores:
+  - impact: 8.7 — Large masks amid forest architecture offer distinctive visual appeal.
+  - uniqueness: 8.8 — Monumental stucco decoration provides regional distinction.
+  - significance: 8.8 — Ancient elite architecture and occupation support historical importance.
+  - experience: 8.6 — Several complexes offer engaging discovery.
+  - depth: 8.4 — Compact core limits depth relative to larger Maya cities.
+- Categories: architecture 9.2, history 9.0, culture 8.9, photography 8.9.
+- Overall: 87.00/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent source triangulation, precise coordinates and access, worldwide Python validation.

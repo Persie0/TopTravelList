@@ -1,0 +1,17 @@
+id: sight-mx-mayapan
+name: "Mayapán Archaeological Site"
+location:
+  country_code: MX
+  latitude: 20.62965
+  longitude: -89.46059
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 9.3
+  experience: 8.6
+  depth: 8.8
+  categories:
+    history: 9.4
+    architecture: 8.9
+    culture: 9.1
+    photography: 8.7

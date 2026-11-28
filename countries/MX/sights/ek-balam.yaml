@@ -1,0 +1,17 @@
+id: sight-mx-ek-balam
+name: "Ek Balam Archaeological Site"
+location:
+  country_code: MX
+  latitude: 20.892
+  longitude: -88.13583
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 9.2
+  experience: 9.0
+  depth: 8.8
+  categories:
+    architecture: 9.4
+    history: 9.3
+    culture: 9.2
+    photography: 9.3

@@ -1,0 +1,17 @@
+id: sight-mx-yaxchilan
+name: "Yaxchilán Archaeological Site"
+location:
+  country_code: MX
+  latitude: 16.89617
+  longitude: -90.9675
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 9.5
+  experience: 9.1
+  depth: 9.1
+  categories:
+    history: 9.5
+    architecture: 9.3
+    photography: 9.3
+    culture: 9.2
