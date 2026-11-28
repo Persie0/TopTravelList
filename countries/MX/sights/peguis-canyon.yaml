@@ -1,0 +1,16 @@
+id: sight-mx-peguis-canyon
+name: "Pegüis Canyon and Río Conchos"
+location:
+  country_code: MX
+  latitude: 29.49
+  longitude: -104.76
+scores:
+  impact: 9.4
+  uniqueness: 9.0
+  significance: 8.6
+  experience: 9.0
+  depth: 8.8
+  categories:
+    nature: 9.3
+    photography: 9.4
+    adventure: 9.1

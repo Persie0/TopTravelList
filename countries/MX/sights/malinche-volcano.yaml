@@ -1,0 +1,16 @@
+id: sight-mx-malinche-volcano
+name: "La Malinche (Matlalcuéyetl) Volcano and National Park"
+location:
+  country_code: MX
+  latitude: 19.231
+  longitude: -98.032
+scores:
+  impact: 9.0
+  uniqueness: 8.6
+  significance: 8.9
+  experience: 9.1
+  depth: 8.9
+  categories:
+    nature: 9.2
+    adventure: 9.3
+    photography: 9.1

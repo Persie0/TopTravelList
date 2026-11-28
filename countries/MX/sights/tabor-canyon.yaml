@@ -1,0 +1,16 @@
+id: sight-mx-tabor-canyon
+name: "Tabor Canyon Hiking (Sierra de la Giganta)"
+location:
+  country_code: MX
+  latitude: 25.93
+  longitude: -111.4
+scores:
+  impact: 8.9
+  uniqueness: 8.6
+  significance: 8.4
+  experience: 9.0
+  depth: 8.4
+  categories:
+    nature: 9.1
+    adventure: 9.2
+    photography: 9.0

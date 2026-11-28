@@ -11308,3 +11308,297 @@ All ten entries are source-linked editorial assessments using retrieved institut
 - Earlier decision: none.
 - Remaining verification: independent coordinate checks, numerical peer comparison and full Python validation. Admission not guaranteed.
 
+
+## sight-mx-la-huasteca-climbing-canyon — La Huasteca Canyon and Limestone Climbing — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/la-huasteca-climbing-canyon.yaml)
+- Action: new (pass 447)
+- Precise subject: Distinct climbing and canyon experience within Cumbres de Monterrey, not the entire national park; documented 300m walls and extensive routes. Access conditions can change.
+- Location check: 25.647, -100.46; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.mountainproject.com/area/107972521/la-huasteca; https://sidof.segob.gob.mx/notas/docFuente/5676308; https://crag.guide/crags/la-huasteca.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - El Potrero Chico (MX): stronger international climbing identity
+  - Verdon Gorge (FR): established deep limestone canyon
+  - Yosemite (US): higher global stature
+  - Matacanes (MX): different aquatic adventure.
+- Individual scores: impact 9.3, uniqueness 9.1, significance 8.7, experience 9.3, depth 9.2.
+- Categories: nature 9.3, adventure 9.5, photography 9.3.
+- Overall: 91.20/100.
+- High-score challenge: Documented scenic scale or extensive specialist experience supports 90+; international comparators constrain scores below iconic global anchors. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparison and full Python validation. Admission and conditions not guaranteed.
+
+
+## sight-mx-mexiquillo-natural-park — Mexiquillo Rock Garden, Waterfalls and Railway Tunnels — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/mexiquillo-natural-park.yaml)
+- Action: new (pass 447)
+- Precise subject: Forest landscape with sculpted rock garden, waterfalls, ravines and former railway works; one combined visitor complex.
+- Location check: 23.73, -105.68; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://visitmexico.com/en/destino/17813/mexiquillo.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Sierra de Órganos (MX): comparable rock scenery
+  - Tsingy de Bemaraha (MG): greater geological singularity
+  - Saxon Switzerland (DE): broader sandstone landscape
+  - Piedras Encimadas (MX): more focused rock formations.
+- Individual scores: impact 9.1, uniqueness 9.1, significance 8.5, experience 9.3, depth 9.2.
+- Categories: nature 9.3, photography 9.3, adventure 9.2.
+- Overall: 90.20/100.
+- High-score challenge: Documented scenic scale or extensive specialist experience supports 90+; international comparators constrain scores below iconic global anchors. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparison and full Python validation. Admission and conditions not guaranteed.
+
+
+## sight-mx-peguis-canyon — Pegüis Canyon and Río Conchos — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/peguis-canyon.yaml)
+- Action: new (pass 447)
+- Precise subject: Approximately 16 km long, up to 350 m deep; scenic river canyon distinct from Santa Elena and Copper Canyon.
+- Location check: 29.49, -104.76; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.visitachihuahua.mx/en/post/peg%C3%BCis-canyon.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Santa Elena (MX): larger border-river setting
+  - Todra Gorge (MA): comparable dramatic gorge
+  - Copper Canyon (MX): broader scale
+  - Sumidero (MX): more established boat visits.
+- Individual scores: impact 9.4, uniqueness 9.0, significance 8.6, experience 9.0, depth 8.8.
+- Categories: nature 9.3, photography 9.4, adventure 9.1.
+- Overall: 90.20/100.
+- High-score challenge: Documented scenic scale or extensive specialist experience supports 90+; international comparators constrain scores below iconic global anchors. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparison and full Python validation. Admission and conditions not guaranteed.
+
+
+## sight-mx-grutas-de-garcia — Grutas de García Cave and Panoramic Cable Car — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/grutas-de-garcia.yaml)
+- Action: new (pass 447)
+- Precise subject: Show cave with marine fossils, stalactites and stalagmites, approached by scenic aerial lift.
+- Location check: 25.847, -100.626; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://garcia.gob.mx/rutas/; https://visitmexico.com/es/recomendacion/7/explore-the-grutas-de-garcia-caves.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Postojna (SI): larger visitor system
+  - Cacahuamilpa (MX): monumental cave halls
+  - Carlsbad Caverns (US): stronger global geological significance
+  - Bustamante (MX): comparable regional show cave.
+- Individual scores: impact 9.2, uniqueness 8.8, significance 8.8, experience 9.2, depth 8.7.
+- Categories: nature 9.3, photography 9.2, family 9.1.
+- Overall: 89.70/100.
+- High-score challenge: Sub-90 reflects less singular landscape, specialist appeal or narrower depth relative to global peers. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparison and full Python validation. Admission and conditions not guaranteed.
+
+
+## sight-mx-siete-luminarias — Siete Luminarias Volcanic Craters (Valle de Santiago) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/siete-luminarias.yaml)
+- Action: new (pass 447)
+- Precise subject: Protected volcanic crater cluster, including crater lakes where present; no paranormal claims treated as evidence.
+- Location check: 20.38, -101.22; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://visitmexico.com/es/destino/2685/valle-de-santiago; https://boletines.guanajuato.gob.mx/2025/01/01/un-recorrido-de-misterio-y-belleza-natural-volcanica-en-las-siete-luminarias-de-valle-de-santiago/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - El Pinacate (MX): greater desert volcanic scale
+  - Eifel maars (DE): comparable crater fields
+  - Sete Cidades (PT): stronger lake scenery
+  - Alchichica (MX): distinct microbialite lake.
+- Individual scores: impact 9.1, uniqueness 9.2, significance 8.8, experience 8.5, depth 8.8.
+- Categories: nature 9.3, photography 9.2, adventure 8.7.
+- Overall: 89.45/100.
+- High-score challenge: Sub-90 reflects less singular landscape, specialist appeal or narrower depth relative to global peers. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparison and full Python validation. Admission and conditions not guaranteed.
+
+
+## sight-mx-malinche-volcano — La Malinche (Matlalcuéyetl) Volcano and National Park — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/malinche-volcano.yaml)
+- Action: new (pass 447)
+- Precise subject: High volcanic summit and forest ascent; distinct from nearby major peaks.
+- Location check: 19.231, -98.032; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://descubreanp.conanp.gob.mx/es/conanp/anp?suri=86.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Iztaccíhuatl (MX): more dramatic high mountain
+  - Nevado de Toluca (MX): distinctive crater lakes
+  - Mount Toubkal (MA): comparable high-altitude hiking
+  - Cofre de Perote (MX): lower summit.
+- Individual scores: impact 9.0, uniqueness 8.6, significance 8.9, experience 9.1, depth 8.9.
+- Categories: nature 9.2, adventure 9.3, photography 9.1.
+- Overall: 88.85/100.
+- High-score challenge: Sub-90 reflects less singular landscape, specialist appeal or narrower depth relative to global peers. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparison and full Python validation. Admission and conditions not guaranteed.
+
+
+## sight-mx-el-chico-national-park — El Chico National Park Rock Formations and Forest Trails — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/el-chico-national-park.yaml)
+- Action: new (pass 447)
+- Precise subject: Distinct national park and climbing/hiking experience nested within wider Comarca Minera geopark, not a second whole-geopark entry.
+- Location check: 20.18, -98.73; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://descubreanp.conanp.gob.mx/swb/conanp/ANP?suri=53; https://www.gob.mx/conanp/articulos/parque-nacional-el-chico-belleza-ecologica-114969?idiom=es.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Saxon Switzerland (DE): extensive rock landscapes
+  - Sierra de Órganos (MX): unusual towers
+  - Cumbres de Monterrey (MX): larger mountain area
+  - Mexiquillo (MX): comparable forest geology.
+- Individual scores: impact 8.9, uniqueness 8.7, significance 8.9, experience 9.2, depth 9.1.
+- Categories: nature 9.2, adventure 9.2, photography 9.1.
+- Overall: 89.15/100.
+- High-score challenge: Sub-90 reflects less singular landscape, specialist appeal or narrower depth relative to global peers. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparison and full Python validation. Admission and conditions not guaranteed.
+
+
+## sight-mx-piedras-encimadas — Valle de Piedras Encimadas Balanced Rock Formations — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/piedras-encimadas.yaml)
+- Action: new (pass 447)
+- Precise subject: Eroded towering rock forms in wooded meadow landscape.
+- Location check: 20.03, -98.02; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://visitmexico.com/en/destino/18319/esvalle-de-piedras-encimadas-envalle-de-piedras-encimadas.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Brimham Rocks (GB): comparable erosion forms
+  - Ciudad Encantada (ES): comparable sculpted rocks
+  - Sierra de Órganos (MX): broader landscape
+  - Arches (US): higher global impact.
+- Individual scores: impact 9.0, uniqueness 9.1, significance 8.4, experience 8.9, depth 8.3.
+- Categories: nature 9.2, photography 9.3, family 8.8.
+- Overall: 88.20/100.
+- High-score challenge: Sub-90 reflects less singular landscape, specialist appeal or narrower depth relative to global peers. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparison and full Python validation. Admission and conditions not guaranteed.
+
+
+## sight-mx-canon-de-fernandez — Cañón de Fernández State Park and Nazas River — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/canon-de-fernandez.yaml)
+- Action: new (pass 447)
+- Precise subject: Ramsar wetland and canyon with riparian ahuehuete trees, kayaking and trails.
+- Location check: 25.37, -103.74; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://durango.travel/sitios/canon-de-fernandez.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Pegüis (MX): stronger sheer cliffs
+  - Pantanos de Centla (MX): greater wetland extent
+  - Río Dulce (GT): broader river travel
+  - Santa Elena (MX): more monumental canyon.
+- Individual scores: impact 8.7, uniqueness 8.8, significance 9.1, experience 8.8, depth 8.9.
+- Categories: nature 9.2, wildlife 9.1, photography 9.0, adventure 8.8.
+- Overall: 88.40/100.
+- High-score challenge: Sub-90 reflects less singular landscape, specialist appeal or narrower depth relative to global peers. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparison and full Python validation. Admission and conditions not guaranteed.
+
+
+## sight-mx-cofre-de-perote — Cofre de Perote (Nauhcampatépetl) Volcano — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/cofre-de-perote.yaml)
+- Action: new (pass 447)
+- Precise subject: Approximately 4,200m volcanic mountain with summit rock and forest watersheds.
+- Location check: 19.493, -97.151; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://descubreanp.conanp.gob.mx/es/conanp/ANP?suri=37.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - La Malinche (MX): comparable ascent
+  - Pico de Orizaba (MX): higher global significance
+  - Nevado de Toluca (MX): stronger crater scenery
+  - Mount Teide (ES): greater volcanic diversity.
+- Individual scores: impact 8.8, uniqueness 8.6, significance 8.9, experience 8.8, depth 8.7.
+- Categories: nature 9.1, adventure 9.0, photography 9.0.
+- Overall: 87.60/100.
+- High-score challenge: Sub-90 reflects less singular landscape, specialist appeal or narrower depth relative to global peers. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparison and full Python validation. Admission and conditions not guaranteed.
+
+
+## sight-mx-tabor-canyon — Tabor Canyon Hiking (Sierra de la Giganta) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/tabor-canyon.yaml)
+- Action: new (pass 447)
+- Precise subject: Specific rocky canyon hike near Loreto, distinct from Loreto marine national park.
+- Location check: 25.93, -111.4; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://visitloreto.info/hiking; https://www.keeploretomagical.org/guided-hikes.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Wadi Mujib (JO): more distinctive aquatic gorge
+  - Matacanes (MX): greater technical depth
+  - Pegüis (MX): larger canyon
+  - Todra (MA): stronger cliffs.
+- Individual scores: impact 8.9, uniqueness 8.6, significance 8.4, experience 9.0, depth 8.4.
+- Categories: nature 9.1, adventure 9.2, photography 9.0.
+- Overall: 86.90/100.
+- High-score challenge: Sub-90 reflects less singular landscape, specialist appeal or narrower depth relative to global peers. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparison and full Python validation. Admission and conditions not guaranteed.
+
+
+## sight-mx-grutas-de-bustamante — Grutas de Bustamante (Palmito Cave) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/grutas-de-bustamante.yaml)
+- Action: new (pass 447)
+- Precise subject: Established show cave with speleothems and embedded marine fossils.
+- Location check: 26.51, -100.57; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://visitmexico.com/en/destino/2904/grutas-de-bustamante; https://www.nuevoleon.travel/grutas-de-bustamante-nuevo-leon/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - García (MX): more dramatic approach
+  - Cacahuamilpa (MX): larger chambers
+  - Postojna (SI): greater depth
+  - Luray Caverns (US): comparable show cave.
+- Individual scores: impact 8.8, uniqueness 8.6, significance 8.7, experience 8.8, depth 8.5.
+- Categories: nature 9.1, photography 9.0, family 8.7.
+- Overall: 87.00/100.
+- High-score challenge: Sub-90 reflects less singular landscape, specialist appeal or narrower depth relative to global peers. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparison and full Python validation. Admission and conditions not guaranteed.
+
+
+## sight-mx-cerro-de-la-silla — Cerro de la Silla Natural Monument — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/cerro-de-la-silla.yaml)
+- Action: new (pass 447)
+- Precise subject: Iconic saddle-shaped mountain and protected natural monument above Monterrey.
+- Location check: 25.629, -100.245; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://descubreanp.conanp.gob.mx/es/conanp/ANP?suri=31; https://simec.conanp.gob.mx/informacion/ficha/137?reg=4.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Table Mountain (ZA): greater global iconic status
+  - Sugarloaf (BR): more distinctive urban approach
+  - Peña de Bernal (MX): singular monolith
+  - La Malinche (MX): higher ascent.
+- Individual scores: impact 8.9, uniqueness 8.6, significance 8.9, experience 8.6, depth 8.3.
+- Categories: nature 9.0, photography 9.1, adventure 8.9.
+- Overall: 87.20/100.
+- High-score challenge: Sub-90 reflects less singular landscape, specialist appeal or narrower depth relative to global peers. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparison and full Python validation. Admission and conditions not guaranteed.
+
+
+## sight-mx-los-azufres-thermal-springs — Los Azufres Geothermal Springs and Forest — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/los-azufres-thermal-springs.yaml)
+- Action: new (pass 447)
+- Precise subject: Geothermal field with public thermal bathing in designated facilities and surrounding forest, not industrial installations.
+- Location check: 19.79, -100.66; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://volcano.si.edu/volcano.cfm?vn=341824; https://visitmexico.com/es/destino/2361/loz-azufres-michoacan.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Tolantongo (MX): stronger canyon and pool scenery
+  - Beppu (JP): broader geothermal culture
+  - Rotorua (NZ): greater geological diversity
+  - Guadalupe Canyon (MX): desert thermal contrast.
+- Individual scores: impact 8.7, uniqueness 8.8, significance 8.7, experience 8.9, depth 8.6.
+- Categories: nature 9.0, relaxation 9.2, photography 8.8.
+- Overall: 87.45/100.
+- High-score challenge: Sub-90 reflects less singular landscape, specialist appeal or narrower depth relative to global peers. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparison and full Python validation. Admission and conditions not guaranteed.
+

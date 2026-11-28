@@ -1,0 +1,16 @@
+id: sight-mx-cerro-de-la-silla
+name: "Cerro de la Silla Natural Monument"
+location:
+  country_code: MX
+  latitude: 25.629
+  longitude: -100.245
+scores:
+  impact: 8.9
+  uniqueness: 8.6
+  significance: 8.9
+  experience: 8.6
+  depth: 8.3
+  categories:
+    nature: 9.0
+    photography: 9.1
+    adventure: 8.9
