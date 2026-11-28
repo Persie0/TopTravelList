@@ -528,3 +528,15 @@
 
 [UNESCO inventory](https://whc.unesco.org/en/statesparties/mz/) lists two inscribed and three tentative properties, all represented. Maputo National Park is the Mozambican 2025 extension of the transboundary iSimangaliso property; Manyikeni and Chibuene individually assessed. Other Quirimbas individual islands and Vumba rock-art components remain outstanding, as do Ponta do Ouro, additional Maputo museums and other regional sites. No exhaustive inventory claimed.
 
+## sight-mz-niassa-special-reserve — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/MZ/sights/niassa-special-reserve.yaml) · **source-linked-unverified** · wildlife null → 9.6/10. WCS documents important populations of lions, elephants and wild dogs, alongside severe historical elephant declines. Strong multi-species interest, below Etosha 9.8 and Serengeti 9.9; not a claim that old counts remain current.
+- Comparative context: Serengeti (9.9), Maasai Mara (9.9), Etosha (9.8), Zakouma (9.7): better documented concentrations and breadth. Indexed source reviewed 2026-11-28: https://mozambique.wcs.org/Wild-Places/Niassa-Special-Reserve.aspx
+- Core ratings and other fields unchanged; access restrictions not a penalty.
+
+
+## sight-mz-quirimbas-archipelago — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/MZ/sights/quirimbas-archipelago.yaml) · **source-linked-unverified** · wildlife null → 9.3/10. ANAC identifies reef fish, turtles, dolphins, dugongs and rays in the park's island subset. The archipelago rating excludes mainland wildlife from the broader biosphere reserve; no guaranteed encounters.
+- Comparative context: Aldabra (9.8), Galápagos (9.9), Belize Barrier Reef (9.5), Banc d’Arguin (9.7): compare concentrated wildlife with breadth of habitats. Indexed source reviewed 2026-11-28: https://www.anac.gov.mz/en/parques/quirimbas/
+- Core ratings and other fields unchanged; access restrictions not a penalty.

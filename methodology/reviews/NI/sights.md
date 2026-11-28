@@ -1068,3 +1068,16 @@ Initial inventory, not exhaustive. All scores are editorial; no fully independen
 - Assigned: nature 9.2, wildlife 9.1. Reef, seagrass, coastal and island habitats support nature 9.2; lower than Belize Barrier Reef (9.6) and New Caledonia lagoons (9.7) for globally exceptional reef diversity. Wildlife 9.1 recognizes threatened turtles, manatees and dolphins; below Belize (9.5) and Aldabra (9.8) without evidence of equivalent observable concentrations.
 - Sources consulted 2026-11-28 (indexed descriptions): https://www.mapanicaragua.com/en/miskitos-keys-marine-biological-reserve/ ; https://www.ramsar.org/es/node/8941. These are editorial scores, not ratings assigned by the source organizations. Qualitative peer comparisons are provisional.
 - Core scores, coordinates and other categories unchanged. No perfect score and no new null fields.
+
+## sight-ni-bosawas-natural-reserve — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/NI/sights/bosawas-natural-reserve.yaml) · **source-linked-unverified** · wildlife null → 9.2/10. Large tropical rainforest wildlife habitat, below more clearly documented observable fauna benchmarks; no population claims.
+- Comparative context: Bwindi (9.8), Volcanoes (9.9), Lopé (9.3), Loango (9.7): compare animal diversity and documented observation potential. Indexed source reviewed 2026-11-28: https://www.mapanicaragua.com/en/nature/
+- Core ratings and other fields unchanged; access restrictions not a penalty.
+
+
+## sight-ni-indio-maiz-biological-reserve — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/NI/sights/indio-maiz-biological-reserve.yaml) · **source-linked-unverified** · wildlife null → 9.2/10. Lowland rainforest and river-associated wildlife interest; distinct from the whole southeastern biosphere region, with no guarantee of charismatic sightings.
+- Comparative context: Bwindi (9.8), Volcanoes (9.9), Lopé (9.3), Loango (9.7): compare animal diversity and documented observation potential. Indexed source reviewed 2026-11-28: https://www.mapanicaragua.com/en/nature/
+- Core ratings and other fields unchanged; access restrictions not a penalty.
