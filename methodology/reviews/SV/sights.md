@@ -1748,3 +1748,182 @@ Seven additions: three fact-checked assessments and four provisional source-link
 - High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
 - Earlier decision: none.
 - Remaining verification: precise visitor route/venue, current peer YAML and full diagnostics; search-only evidence remains provisional. No access guarantees.
+
+# Pass 392 — 2026-11-28 — direct main continuation
+
+Six additions and one rescore: three fact-checked assessments and four provisional source-linked assessments, all numerically complete. Targeted JS inventory, formula, coordinate range, uniqueness, ranking and README checks only; full Python validation/benchmark scripts and Actions not run. Santa Ana volcano retained at 89.60: Smithsonian https://volcano.si.edu/volcano.cfm?vn=343020 (search excerpt confirms nested summit craters and active crater lake); official tourism https://elsalvador.travel/esp/en/volcan-de-santa-ana-ilamatepec/ (search excerpt: hike and summit views); earlier peer review of Ijen, Bromo, Fuji and Bromo Tengger Semeru preserved. No automatic 90+ promotion.
+
+## sight-sv-divina-providencia-romero-memorial — Divina Providencia Chapel and Óscar Romero Memorial House — 2026-11-28
+
+- YAML: [source](../../../countries/SV/sights/divina-providencia-romero-memorial.yaml)
+- Action: new
+- Precise subject: Chapel and immediately adjacent historic residence interpreted as one memorial ensemble; excludes cathedral tomb and wider pilgrimage route.
+- Location check: Approximate chapel point derived from GCatholic plus code 765GPQ6G+GH, https://gcatholic.org/churches/america-central/150913.htm.
+- Evidence status: fact-checked
+- Sources accessed 2026-11-28: Hospital https://www.hospitaldivinaprovidenciasv.org/centro-historico-monsenor-romero/ (opened: residence, personal objects, visiting pilgrimage groups and chapel relationship); https://www.hospitaldivinaprovidenciasv.org/capilla-de-la-divina-providencia/ (search excerpt: active chapel); https://arquidiocesisdepanama.org/ruta-turistica-del-beato-romero-salvador/ (search excerpt: chapel included on pilgrimage route).
+- Worldwide peers (qualitative; current peer YAML not inspected):
+  - Martin Luther King Jr. National Historical Park (US): broader interpretive ensemble and greater global visitor infrastructure.
+  - Luther House Wittenberg (DE): extensive Reformation collections and larger historical scope.
+  - Mother Teresa Memorial House (MK): comparable focused religious biography, reconstructed setting rather than original residence.
+  - Metropolitan Cathedral (SV): separate tomb and larger ecclesiastical architecture, different visitor scope.
+- Individual scores:
+  - impact: 8.7 — Original residence and place of remembrance provide strong emotional impact.
+  - uniqueness: 9.1 — Original personal setting and associated chapel are distinctive.
+  - significance: 9.3 — International religious and human rights legacy gives high significance.
+  - experience: 8.7 — Reflection and preserved objects provide rewarding solemn experience.
+  - depth: 8.8 — Two adjacent related spaces and biographical collections support substantial interpretation.
+- Categories: history 9.4, culture 9.3, architecture 8.0.
+- Overall: 89.30/100.
+- High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise visitor route/venue, current peer YAML and full diagnostics; search-only evidence remains provisional. No access guarantees.
+
+## sight-sv-mupi-museum — Museum of the Word and Image (MUPI) — 2026-11-28
+
+- YAML: [source](../../../countries/SV/sights/mupi-museum.yaml)
+- Action: new
+- Precise subject: Public museum and exhibitions; excludes unrestricted research archive access.
+- Location check: Mapcarta https://mapcarta.com/W630810329 (opened: building coordinates).
+- Evidence status: fact-checked
+- Sources accessed 2026-11-28: Museum https://museo.com.sv/nosotros/ (opened: archival collections, exhibitions and guided visits); University of Texas https://hrdi.lib.utexas.edu/hrdi/mupi-es/ (search excerpt: founding, educational memory and human rights focus).
+- Worldwide peers (qualitative; current peer YAML not inspected):
+  - Museum of Memory and Human Rights (CL): much larger national exhibition and interpretation.
+  - Museo de la Memoria (UY): comparable focused historical-memory museum.
+  - Tuol Sleng Genocide Museum (KH): original historical site with more direct physical testimony.
+  - Museum of the Revolution (SV): more geographically specific conflict interpretation.
+- Individual scores:
+  - impact: 8.0 — Documentary collections and testimony can have strong emotional impact.
+  - uniqueness: 8.6 — Citizen-led archival approach gives distinct identity.
+  - significance: 8.9 — Important national documentary and cultural memory.
+  - experience: 8.4 — Guided exhibitions offer meaningful interpretation.
+  - depth: 8.7 — Multiple media and topics support depth, without crediting inaccessible archives.
+- Categories: history 9.2, culture 9.0.
+- Overall: 84.60/100.
+- High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise visitor route/venue, current peer YAML and full diagnostics; search-only evidence remains provisional. No access guarantees.
+
+## sight-sv-binaes-national-library — National Library of El Salvador (BINAES) — 2026-11-28
+
+- YAML: [source](../../../countries/SV/sights/binaes-national-library.yaml)
+- Action: new
+- Precise subject: Modern library building and public cultural spaces; excludes the surrounding historic center.
+- Location check: GeoView https://sv.geoview.info/biblioteca_nacional_de_el_salvador%2C16698935r (search excerpt: coordinates).
+- Evidence status: source-linked-unverified
+- Sources accessed 2026-11-28: Historic Center Authority https://centrohistorico.gob.sv/en/tourist-destinations/binaes-national-library-of-el-salvador/ (search excerpt: new library inaugurated 2023); Ministry of Education visitor protocol https://www.mined.gob.sv/binaes/PROTOCOLO%20VISITAS%20BINAES%20%282%29%20%281%29%20%281%29.pdf (search excerpt: public educational resources; not full PDF reviewed).
+- Worldwide peers (qualitative; current peer YAML not inspected):
+  - Trinity College Old Library (IE): far greater historic architectural and manuscript significance.
+  - Helsinki Oodi Library (FI): comparable modern public library with strong international design profile.
+  - Stuttgart City Library (DE): stronger globally recognized minimalist interior.
+  - National Museum of Anthropology (SV): more historical heritage depth, different educational purpose.
+- Individual scores:
+  - impact: 8.2 — Modern interior and public architecture create strong urban interest.
+  - uniqueness: 7.8 — Contemporary library architecture is internationally reproducible.
+  - significance: 7.8 — National educational significance, limited historical building age.
+  - experience: 8.6 — Interactive public learning spaces support rewarding experience.
+  - depth: 8.5 — Multiple library areas and educational activities offer substantial breadth.
+- Categories: architecture 8.8, culture 8.7, family 8.7, photography 8.5.
+- Overall: 81.10/100.
+- High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise visitor route/venue, current peer YAML and full diagnostics; search-only evidence remains provisional. No access guarantees.
+
+## sight-sv-muhnes-natural-history-museum — Natural History Museum of El Salvador (MUHNES) — 2026-11-28
+
+- YAML: [source](../../../countries/SV/sights/muhnes-natural-history-museum.yaml)
+- Action: new
+- Precise subject: Museum exhibits in former estate house, not the surrounding Saburo Hirao park.
+- Location check: Mapcarta https://mapcarta.com/es/W379797634 (opened: coordinates).
+- Evidence status: source-linked-unverified
+- Sources accessed 2026-11-28: Ministry of Culture https://www.cultura.gob.sv/marco-institucional/direccion-nacional-de-museos-y-salas-de-exposicion/museo-de-historia-natural-de-el-salvador-muhnes/ (search excerpt: institutional history and site since 1976). Current exhibition completeness unverified.
+- Worldwide peers (qualitative; current peer YAML not inspected):
+  - Natural History Museum London (GB): vastly larger world-leading collections.
+  - Natural History Museum Vienna (AT): greater historic architecture and collection depth.
+  - Museo Nacional de Historia Natural (CL): broader national natural history collections.
+  - MUNA (SV): similar educational remit in archaeology rather than natural sciences.
+- Individual scores:
+  - impact: 7.2 — Modest museum setting limits spectacle.
+  - uniqueness: 7.5 — National ecology focus is distinctive regionally but not globally rare.
+  - significance: 8.0 — National natural science collections matter educationally.
+  - experience: 7.9 — Interpretation offers rewarding family learning.
+  - depth: 7.9 — Several exhibit themes support a moderate visit.
+- Categories: nature 8.4, history 8.0, family 8.3.
+- Overall: 76.10/100.
+- High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise visitor route/venue, current peer YAML and full diagnostics; search-only evidence remains provisional. No access guarantees.
+
+## sight-sv-divino-salvador-del-mundo-monument — Monument to the Divine Savior of the World — 2026-11-28
+
+- YAML: [source](../../../countries/SV/sights/divino-salvador-del-mundo-monument.yaml)
+- Action: new
+- Precise subject: Standalone monument and plaza, excludes capital-wide civic celebrations.
+- Location check: Mapcarta https://mapcarta.com/es/N4590039505 (opened: coordinates and monument identity).
+- Evidence status: source-linked-unverified
+- Sources accessed 2026-11-28: Mapcarta source above and https://divinosalvadordelmundo.com/binaes-desde-monumento/ (search excerpt distinguishing location from BINAES); detailed history not independently checked.
+- Worldwide peers (qualitative; current peer YAML not inspected):
+  - Christ the Redeemer (BR): vastly greater monumental scale and landscape setting.
+  - Angel of Independence (MX): stronger historic urban landmark context.
+  - Monumento a los Héroes de la Restauración (DO): comparable nationally symbolic monument.
+  - National Palace (SV): greater interior visitor depth.
+- Individual scores:
+  - impact: 7.5 — Recognizable civic sculpture creates memorable urban image.
+  - uniqueness: 7.4 — Freestanding monumental sculpture is common worldwide.
+  - significance: 8.2 — National symbolic significance is substantial.
+  - experience: 7.5 — Short plaza visit offers limited activities.
+  - depth: 6.7 — Single landmark provides limited exploration.
+- Categories: architecture 8.0, culture 8.6, photography 8.3, history 8.1.
+- Overall: 75.35/100.
+- High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise visitor route/venue, current peer YAML and full diagnostics; search-only evidence remains provisional. No access guarantees.
+
+## sight-sv-la-golondrinera-waterfall — La Golondrinera Waterfall — 2026-11-28
+
+- YAML: [source](../../../countries/SV/sights/la-golondrinera-waterfall.yaml)
+- Action: new
+- Precise subject: Named waterfall and approach only, not all Sensunapán river waterfalls.
+- Location check: Mapcarta https://mapcarta.com/N10635681132 (opened: mapped waterfall coordinates).
+- Evidence status: source-linked-unverified
+- Sources accessed 2026-11-28: El Salvador https://www.elsalvador.com/turismo/rutas-y-aventuras/cascadas-el-salvador-mejores-destinos-naturales/1272215/2026/ (search excerpt: waterfall); Nahuizalco municipal plan https://www.sacdel.org.sv/phocadownload/planificacion/mcp/PCM%20Nahuizalco%20octubre%202012%20final.pdf (search excerpt: route; conflicting height estimates, no exact height credited).
+- Worldwide peers (qualitative; current peer YAML not inspected):
+  - Iguazú Falls (AR/BR): vastly greater scale and global rarity.
+  - La Fortuna Waterfall (CR): comparable single forest waterfall with more developed visit.
+  - Tegenungan Waterfall (ID): comparable tropical single-drop excursion.
+  - Tamanique Waterfalls (SV): broader multi-fall adventure.
+- Individual scores:
+  - impact: 8.3 — Wooded waterfall setting creates scenic impact.
+  - uniqueness: 7.9 — Single tropical falls are internationally reproducible.
+  - significance: 7.0 — Local natural significance rather than world geological rarity.
+  - experience: 8.3 — Approach and viewing provide rewarding excursion.
+  - depth: 7.6 — Focused waterfall route has modest depth.
+- Categories: nature 8.6, adventure 8.5, photography 8.8.
+- Overall: 78.70/100.
+- High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise visitor route/venue, current peer YAML and full diagnostics; search-only evidence remains provisional. No access guarantees.
+
+## sight-sv-iglesia-el-rosario — Iglesia El Rosario — 2026-11-28
+
+- YAML: [source](../../../countries/SV/sights/iglesia-el-rosario.yaml)
+- Action: rescore
+- Precise subject: Existing single modern church, not predecessor cathedral or wider historic center.
+- Location check: Existing representative coordinates retained.
+- Evidence status: fact-checked
+- Sources accessed 2026-11-28: Academic study https://portal.amelica.org/ameli/journal/769/7695302009/html/ (opened: reinforced-concrete bridge arches and clear sightlines); Historic Center Authority https://centrohistorico.gob.sv/en/tourist-destinations/el-rosario-church/ (search excerpt: stained glass and sculptures); Ministry https://www.cultura.gob.sv/iglesia-el-rosario-de-san-salvador-cumplira-ocho-anos-como-bien-cultural/ (search excerpt: designation and predecessor site).
+- Worldwide peers (qualitative; current peer YAML not inspected):
+  - Notre-Dame du Haut Ronchamp (FR): greater global influence in modern sacred architecture.
+  - Church of the Light (JP): comparable distinctive use of light and concrete.
+  - Cathedral of Brasília (BR): greater scale and architectural influence.
+  - Santa Ana Cathedral (SV): stronger conventional neo-Gothic exterior, less experimental interior.
+- Individual scores:
+  - impact: 8.5 → 9.0 — Unexpected luminous interior creates stronger visitor impact than prior score.
+  - uniqueness: 9.0 → 9.2 — Combination of concrete arches and colored light is especially distinctive.
+  - significance: 8.1 → 8.5 — Nationally important modernist work, but not equivalent to globally canonical modern churches.
+  - experience: 8.5 → 8.7 — Unobstructed interior and sculptures offer a rewarding visit.
+  - depth: 7.1 → 7.6 — Single church limits exploration time despite architectural detail.
+- Categories: architecture 9.4, photography 9.4, history 8.5, culture 8.7.
+- Overall: 84.05 → 87.65/100.
+- High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
+- Earlier decision: Prior entries in this file retained.
+- Remaining verification: precise visitor route/venue, current peer YAML and full diagnostics; search-only evidence remains provisional. No access guarantees.

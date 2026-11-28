@@ -1,0 +1,15 @@
+id: sight-sv-mupi-museum
+name: "Museum of the Word and Image (MUPI)"
+location:
+  country_code: SV
+  latitude: 13.70911
+  longitude: -89.20485
+scores:
+  impact: 8.0
+  uniqueness: 8.6
+  significance: 8.9
+  experience: 8.4
+  depth: 8.7
+  categories:
+    history: 9.2
+    culture: 9.0

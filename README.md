@@ -155,7 +155,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [DR Congo](countries/CD/) (`CD`) | [8](countries/CD/cities.md) | [17](countries/CD/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=DR%20Congo) |
 | [Ecuador](countries/EC/) (`EC`) | [36](countries/EC/cities.md) | [132](countries/EC/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Ecuador) |
 | [Egypt](countries/EG/) (`EG`) | [10](countries/EG/cities.md) | [85](countries/EG/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Egypt) |
-| [El Salvador](countries/SV/) (`SV`) | [24](countries/SV/cities.md) | [104](countries/SV/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=El%20Salvador) |
+| [El Salvador](countries/SV/) (`SV`) | [24](countries/SV/cities.md) | [110](countries/SV/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=El%20Salvador) |
 | [Equatorial Guinea](countries/GQ/) (`GQ`) | [13](countries/GQ/cities.md) | [26](countries/GQ/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Equatorial%20Guinea) |
 | [Eritrea](countries/ER/) (`ER`) | [13](countries/ER/cities.md) | [30](countries/ER/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Eritrea) |
 | [Estonia](countries/EE/) (`EE`) | [15](countries/EE/cities.md) | [42](countries/EE/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Estonia) |
