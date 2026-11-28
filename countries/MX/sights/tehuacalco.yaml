@@ -1,0 +1,16 @@
+id: sight-mx-tehuacalco
+name: "Tehuacalco Archaeological Site"
+location:
+  country_code: MX
+  latitude: 17.18816
+  longitude: -99.50362
+scores:
+  impact: 8.9
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 8.8
+  depth: 8.8
+  categories:
+    history: 9.4
+    architecture: 9.2
+    culture: 9.2

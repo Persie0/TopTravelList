@@ -1,0 +1,16 @@
+id: sight-mx-alta-vista-chalchihuites
+name: "Alta Vista (Chalchihuites) Archaeological Site"
+location:
+  country_code: MX
+  latitude: 23.47838
+  longitude: -103.94515
+scores:
+  impact: 8.8
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 8.7
+  depth: 8.9
+  categories:
+    history: 9.4
+    architecture: 9.2
+    culture: 9.2

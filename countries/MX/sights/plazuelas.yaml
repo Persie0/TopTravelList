@@ -1,0 +1,16 @@
+id: sight-mx-plazuelas
+name: "Plazuelas Archaeological Site"
+location:
+  country_code: MX
+  latitude: 20.40444
+  longitude: -101.82481
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.7
+  depth: 8.8
+  categories:
+    history: 9.1
+    architecture: 9.1
+    photography: 8.9

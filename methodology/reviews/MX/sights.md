@@ -9295,3 +9295,282 @@ Individual sites assessed separately from nearby heritage properties. Temporary 
 - Earlier decision: none.
 - Remaining verification: independent factual and coordinate triangulation, numerical peer comparisons and global Python validation; current access not confirmed.
 
+## Pass 439 — Western and northern Mexican archaeological heritage
+
+Individual monuments and archaeological landscapes scored at their own scope. Potential 90+ candidates were researched using INAH, official cultural sources and (for Alta Vista) published archaeology; remaining scores are provisional editorial assessments based on overviews. All coordinates are source-linked representative points, not surveyed entrances. Current access not independently confirmed.
+
+## sight-mx-teopantecuanitlan — Teopantecuanitlán Archaeological Site and Olmec Sculptures — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/teopantecuanitlan.yaml)
+- Action: new
+- Precise subject: Exposed monumental precinct and Olmec-style sculptures, not relocated collections.
+- Location check: 17.90299, -99.11175; representative point from cited listing or study; not an entrance survey.
+- Evidence status: source-linked-unverified; indexed official and/or scholarly descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/es/node/4467; https://www.inah.gob.mx//zonas/zona-arqueologica-de-teopantecuanitlan; https://mapcarta.com/W466047391.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - La Venta (MX): greater monumental Olmec landscape
+  - Chalcatzingo (MX): stronger in-situ rock relief setting
+  - Takalik Abaj (GT): broader transitional cultural record
+  - San Agustín (CO): more extensive sculpture landscape
+- Individual scores:
+  - impact: 8.9 — Distinctive sunken ceremonial precinct.
+  - uniqueness: 9.4 — Rare monumental Olmec-style architecture in Guerrero.
+  - significance: 9.5 — Important early evidence of complex society and interregional connections.
+  - experience: 8.5 — Focused archaeological interpretation.
+  - depth: 8.5 — Limited exposed monumental area.
+- Categories: history 9.5, culture 9.4, architecture 9.2.
+- Overall: 90.45/100.
+- High-score challenge: Significance and history 9.5 reflect the sole known monumental Olmec-style architectural site in Guerrero according to INAH, including four sculptures in the sunken precinct. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate triangulation, numerical peer comparisons and global Python validation; current access not confirmed.
+
+## sight-mx-alta-vista-chalchihuites — Alta Vista (Chalchihuites) Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/alta-vista-chalchihuites.yaml)
+- Action: new
+- Precise subject: Exposed ceremonial complex, astronomical alignments and on-site interpretation.
+- Location check: 23.47838, -103.94515; representative point from cited listing or study; not an entrance survey.
+- Evidence status: source-linked-unverified; indexed official and/or scholarly descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.inah.gob.mx/zonas/zona-arqueologica-altavista-o-chalchihuites; https://lugares.inah.gob.mx/en/node/4371; https://www.cambridge.org/core/journals/american-antiquity/article/abs/alta-vista-chalchihuites-astronomical-implications-of-a-mesoamerican-ceremonial-outpost-at-the-tropic-of-cancer/CF43E59DE3C13FD950EA4E780D91627B; https://mapcarta.com/30869662.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Dzibilchaltún (MX): comparable solar alignment
+  - Chankillo (PE): stronger dedicated astronomical monument
+  - Stonehenge (GB): more globally prominent prehistoric alignment
+  - La Quemada (MX): greater landscape monumentality
+- Individual scores:
+  - impact: 8.8 — Columned spaces and desert mountain setting.
+  - uniqueness: 9.3 — Distinctive intentional astronomical orientation.
+  - significance: 9.4 — Important evidence of northern Mesoamerican ceremonial practices.
+  - experience: 8.7 — Rewarding architectural interpretation.
+  - depth: 8.9 — Several ritual structures and associated site museum.
+- Categories: history 9.4, architecture 9.2, culture 9.2.
+- Overall: 90.40/100.
+- High-score challenge: 90+ justified by scholarly empirical investigation of solar alignments and the surviving ceremonial complex, not a guaranteed solstice observation. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate triangulation, numerical peer comparisons and global Python validation; current access not confirmed.
+
+## sight-mx-tehuacalco — Tehuacalco Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/tehuacalco.yaml)
+- Action: new
+- Precise subject: Yope ceremonial centre and surviving architecture in its landscape; excludes surrounding unrelated sites.
+- Location check: 17.18816, -99.50362; representative point from cited listing or study; not an entrance survey.
+- Evidence status: source-linked-unverified; indexed official and/or scholarly descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/es/node/4499; https://sic.cultura.gob.mx/ficha.php?disciplina=&table=zona_arqueologica&table_id=191; https://mapcarta.com/N10231449717.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Tzintzuntzan (MX): stronger imperial capital context
+  - La Organera-Xochipala (MX): different Mezcala architecture
+  - Alta Vista (MX): more specific astronomical evidence
+  - Xochicalco (MX): greater monumental scale
+- Individual scores:
+  - impact: 8.9 — Large stone platforms set among mountains.
+  - uniqueness: 9.2 — Distinctive Yope ceremonial architecture and petroglyphs.
+  - significance: 9.3 — Important evidence of an autonomous pre-Hispanic polity.
+  - experience: 8.8 — Varied exposed monuments and interpretation.
+  - depth: 8.8 — Several structures and ritual landscape features.
+- Categories: history 9.4, architecture 9.2, culture 9.2.
+- Overall: 90.30/100.
+- High-score challenge: 90+ supported by the combination of distinctive Yope cultural evidence, monumental platforms and ritual landscape; no assumption of access to every cave. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate triangulation, numerical peer comparisons and global Python validation; current access not confirmed.
+
+## sight-mx-la-organera-xochipala — La Organera–Xochipala Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/la-organera-xochipala.yaml)
+- Action: new
+- Precise subject: Exposed Mezcala architectural groups; no credit for figurines lacking excavated provenance.
+- Location check: 17.78545, -99.62908; representative point from cited listing or study; not an entrance survey.
+- Evidence status: source-linked-unverified; overview descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/es/node/4348; https://mna.inah.gob.mx/detalle_huella.php?pl=La_Organera-Xochipala_Guerrero; https://aroundus.com/p/5433423-la-organera-xochipala.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Tehuacalco (MX): larger monumental platforms
+  - Mitla (MX): stronger decorative stonework
+  - Uxmal (MX): more extensive preserved architecture
+  - Cuicuilco (MX): earlier monumental tradition
+- Individual scores:
+  - impact: 8.7 — Terraced stone architecture.
+  - uniqueness: 9.1 — Distinctive corbelled passages and Mezcala style.
+  - significance: 9.1 — Key regional settlement and architectural evidence.
+  - experience: 8.5 — Focused walks through stone remains.
+  - depth: 8.6 — Several platforms and courts.
+- Categories: history 9.3, architecture 9.2, culture 9.1.
+- Overall: 88.40/100.
+- High-score challenge: Sub-90 editorial assessment; distinctive architecture but modest surviving scope. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate triangulation, numerical peer comparisons and global Python validation; current access not confirmed.
+
+## sight-mx-tingambato — Tingambato Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/tingambato.yaml)
+- Action: new
+- Precise subject: Exposed settlement and its documented tombs; no assumption of unrestricted tomb entry.
+- Location check: 19.49428, -101.85861; representative point from cited listing or study; not an entrance survey.
+- Evidence status: source-linked-unverified; overview descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.inah.gob.mx/zonas/zona-arqueologica-tingambato; https://link.springer.com/article/10.1007/s12520-023-01866-6.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Ihuatzio (MX): later political centre
+  - Teotihuacán (MX): much greater architectural scale
+  - Tzintzuntzan (MX): later imperial heritage
+  - Guachimontones (MX): more distinctive circular structures
+- Individual scores:
+  - impact: 8.7 — Distinctive platform groups.
+  - uniqueness: 9.0 — Combination of local and Teotihuacan-related features.
+  - significance: 9.2 — Important pre-Purépecha occupation history.
+  - experience: 8.6 — Focused archaeological interpretation.
+  - depth: 8.5 — Several monuments and excavated contexts.
+- Categories: history 9.3, architecture 9.0, culture 9.0.
+- Overall: 88.40/100.
+- High-score challenge: Sub-90 editorial assessment; published coordinates converted from DMS. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate triangulation, numerical peer comparisons and global Python validation; current access not confirmed.
+
+## sight-mx-ihuatzio — Ihuatzio Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/ihuatzio.yaml)
+- Action: new
+- Precise subject: Exposed ceremonial structures at this Purépecha centre, not Tzintzuntzan or the lake region.
+- Location check: 19.57802, -101.62119; representative point from cited listing or study; not an entrance survey.
+- Evidence status: source-linked-unverified; overview descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.inah.gob.mx/zonas/zona-arqueologica-ihuatzio; https://mapcarta.com/31969608.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Tzintzuntzan (MX): more prominent yácatas
+  - Tingambato (MX): earlier occupation
+  - La Quemada (MX): stronger landscape monumentality
+  - Tula (MX): more extensive sculptural remains
+- Individual scores:
+  - impact: 8.7 — Stone pyramidal platforms.
+  - uniqueness: 8.8 — Regional architectural tradition.
+  - significance: 9.2 — One of the three principal imperial centres documented by INAH.
+  - experience: 8.5 — Focused site exploration.
+  - depth: 8.6 — Multiple remains but limited exposed visitor scope.
+- Categories: history 9.3, architecture 9.0, culture 9.1.
+- Overall: 87.85/100.
+- High-score challenge: Sub-90 editorial assessment, independently of the importance of the wider empire. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate triangulation, numerical peer comparisons and global Python validation; current access not confirmed.
+
+## sight-mx-el-coporo — El Cóporo Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/el-coporo.yaml)
+- Action: new
+- Precise subject: Archaeological settlement around Cerro Cóporo, its earthen architecture and visitor route.
+- Location check: 21.47726, -101.45872; representative point from cited listing or study; not an entrance survey.
+- Evidence status: source-linked-unverified; overview descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/es/node/4489; https://sic.cultura.gob.mx/ficha.php?disciplina=&table=zona_arqueologica&table_id=196; https://mapcarta.com/es/N8320462917.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - La Quemada (MX): greater monumental landscape
+  - Peralta (MX): more prominent sunken plazas
+  - Plazuelas (MX): more extensive stonework
+  - Alta Vista (MX): more distinctive astronomical architecture
+- Individual scores:
+  - impact: 8.6 — Hilltop ruins and arid landscape.
+  - uniqueness: 8.8 — Distinctive earthen architectural remains.
+  - significance: 9.0 — Important northern Mesoamerican frontier evidence.
+  - experience: 8.6 — Scenic and historical exploration.
+  - depth: 8.8 — Several settlement sectors.
+- Categories: history 9.1, architecture 8.9, photography 8.9.
+- Overall: 87.50/100.
+- High-score challenge: Sub-90 provisional assessment; no claim all settlement sectors are accessible. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate triangulation, numerical peer comparisons and global Python validation; current access not confirmed.
+
+## sight-mx-plazuelas — Plazuelas Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/plazuelas.yaml)
+- Action: new
+- Precise subject: Exposed Plazuelas stone architecture and local archaeological landscape.
+- Location check: 20.40444, -101.82481; representative point from cited listing or study; not an entrance survey.
+- Evidence status: source-linked-unverified; overview descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.inah.gob.mx/zonas/zona-arqueologica-plazuelas?highlight=WyJpbmFoIiwiZ3RvIl0%3D; https://mapcarta.com/es/N8674763117.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Peralta (MX): comparable regional scale
+  - Cañada de la Virgen (MX): stronger astronomical interpretation
+  - La Quemada (MX): greater setting
+  - Guachimontones (MX): more unusual circular architecture
+- Individual scores:
+  - impact: 8.8 — Stone platforms in hillside setting.
+  - uniqueness: 8.9 — Distinctive regional architectural arrangement.
+  - significance: 9.0 — Important Bajío settlement heritage.
+  - experience: 8.7 — Rewarding focused exploration.
+  - depth: 8.8 — Several architectural areas.
+- Categories: history 9.1, architecture 9.1, photography 8.9.
+- Overall: 88.50/100.
+- High-score challenge: Sub-90 provisional assessment. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate triangulation, numerical peer comparisons and global Python validation; current access not confirmed.
+
+## sight-mx-peralta — Peralta Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/peralta.yaml)
+- Action: new
+- Precise subject: Individual Bajío settlement and surviving monumental platforms and plazas.
+- Location check: 20.47334, -101.4127; representative point from cited listing or study; not an entrance survey.
+- Evidence status: source-linked-unverified; overview descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/es/node/5627; https://cultura.guanajuato.gob.mx/index.php/peralta/; https://mapcarta.com/N8320418217.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Plazuelas (MX): comparable stone site
+  - El Cóporo (MX): distinct hilltop earthen architecture
+  - La Quemada (MX): stronger monumental landscape
+  - Tula (MX): more extensive sculpture
+- Individual scores:
+  - impact: 8.8 — Large plaza and platform remains.
+  - uniqueness: 8.9 — Regional architectural forms.
+  - significance: 9.1 — Important evidence of complex settlement in El Bajío.
+  - experience: 8.7 — Focused monument interpretation.
+  - depth: 8.9 — Several substantial architectural groups.
+- Categories: history 9.2, architecture 9.1, culture 9.0.
+- Overall: 88.80/100.
+- High-score challenge: Sub-90 provisional assessment; does not assume all reported settlement area is exposed. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate triangulation, numerical peer comparisons and global Python validation; current access not confirmed.
+
+## sight-mx-canada-de-la-virgen — Cañada de la Virgen Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/canada-de-la-virgen.yaml)
+- Action: new
+- Precise subject: Individual ceremonial site and its astronomical architecture; excludes San Miguel de Allende city.
+- Location check: 20.8333, -100.9424; representative point from cited listing or study; not an entrance survey.
+- Evidence status: source-linked-unverified; overview descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.inah.gob.mx/zonas/zona-arqueologica-canada-de-la-virgen?highlight=WyJ1YmljYWNpXHUwMGYzbiJd; https://lugares.inah.gob.mx/es/lugar-344; https://mapcarta.com/Ca%C3%B1ada_de_la_Virgen.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Alta Vista (MX): stronger scholarly solar-alignment evidence
+  - Dzibilchaltún (MX): more extensive ancient city
+  - Plazuelas (MX): similar regional site
+  - Chankillo (PE): more distinctive astronomical monument
+- Individual scores:
+  - impact: 8.9 — Prominent pyramidal platforms in rural setting.
+  - uniqueness: 9.0 — Distinctive astronomical planning.
+  - significance: 9.1 — Documented regional calendrical knowledge.
+  - experience: 9.0 — Coherent interpretive visit.
+  - depth: 8.8 — Several ceremonial architectural groups.
+- Categories: history 9.2, architecture 9.2, photography 9.1.
+- Overall: 89.70/100.
+- High-score challenge: Sub-90 provisional assessment; no guaranteed astronomical spectacle. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate triangulation, numerical peer comparisons and global Python validation; current access not confirmed.
+
+## sight-mx-cueva-de-la-olla — Cueva de la Olla Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/cueva-de-la-olla.yaml)
+- Action: new
+- Precise subject: Specific shelter dwelling and large surviving granary, not the wider Valley of Caves.
+- Location check: 30.15256, -108.32601; representative point from cited listing or study; not an entrance survey.
+- Evidence status: source-linked-unverified; overview descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.inah.gob.mx/zonas/zona-arqueologica-cueva-de-la-olla; https://www.inahchihuahua.gob.mx/sections.pl?id=45; https://mapcarta.com/N482889213.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Mesa Verde (US): much larger cliff dwelling ensemble
+  - Gila Cliff Dwellings (US): comparable smaller shelter structures
+  - Paquimé (MX): broader architectural settlement
+  - Bandelier (US): more extensive dwelling and trail network
+- Individual scores:
+  - impact: 8.8 — Remarkable preserved earthen granary and shelter.
+  - uniqueness: 9.2 — Distinctive rounded storage structure in a cave.
+  - significance: 9.1 — Important northern archaeological heritage.
+  - experience: 8.5 — Focused cave dwelling interpretation.
+  - depth: 8.3 — Compact surviving complex.
+- Categories: history 9.3, architecture 9.1, photography 9.0.
+- Overall: 88.65/100.
+- High-score challenge: Sub-90 provisional assessment; distinctive granary but compact site. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate triangulation, numerical peer comparisons and global Python validation; current access not confirmed.
+
