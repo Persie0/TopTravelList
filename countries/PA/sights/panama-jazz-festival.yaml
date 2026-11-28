@@ -1,0 +1,15 @@
+id: sight-pa-panama-jazz-festival
+name: "Panama City Panama Jazz Festival Public Concert Programme"
+location:
+  country_code: PA
+  latitude: 9.005
+  longitude: -79.59
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 9.2
+  depth: 9.2
+  categories:
+    culture: 9.4
+    nightlife: 9.2

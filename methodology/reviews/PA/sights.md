@@ -1072,3 +1072,247 @@
 - Evidence reviewed 2026-11-28: [UNESCO](https://whc.unesco.org/en/list/159/) confirms intercontinental ecological connection and diverse coast, mangrove and tropical forest habitats. Uniqueness 9.5, significance/nature/wildlife 9.6 reflect this mosaic; impact is landscape-based, experience/depth require bounded lawful visits. Do not conflate the park with the entire Darién Gap or assume community access and wildlife sightings.
 - Qualitative comparison leads (peer YAML ratings not independently checked): Los Katíos (Colombia): adjoining biogeographic peer; Corcovado (Costa Rica): smaller rainforest park; Manu (Peru): different Amazon/Andes gradient; Sian Ka'an (Mexico): coastal wetland comparator.
 - Current I/U/S/E/D: 9.3 / 9.5 / 9.6 / 9.0 / 9.2; overall 93.55/100. All ratings retained provisionally; no coordinate or category changes. This limited review is not full international calibration or verification of current access.
+
+## sight-pa-la-villa-corpus-christi — La Villa de Los Santos Corpus Christi Public Dances and Processions — 2026-11-28
+
+- YAML: [source](../../../countries/PA/sights/la-villa-corpus-christi.yaml)
+- Action: new
+- Scope: Public dance, masks, sawdust carpets and processions in La Villa; UNESCO 2021 inscription concerns dances and expressions in multiple communities, not exclusive to this town. Uniqueness, significance and culture high for distinctive documented living heritage; no private rites included.
+- Representative coordinates: 7.933, -80.413; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://ich.unesco.org/en/RL/dances-and-expressions-associated-with-the-corpus-christi-festivity-01612 ; https://sicultura.gob.pa/manifestaciones-culturales/fiesta-del-corpus-christi-de-la-villa-de-los-santos ; https://www.atp.gob.pa/panama-celebra-el-corpus-christi-2025-el-alma-de-un-pueblo-danzando-entre-mascaras-y-devocion/
+- Core I/U/S/E/D: 9.3 / 9.5 / 9.5 / 9.2 / 9.3.
+- Categories: culture:9.6 history:9.3 photography:9.3.
+- Overall: 93.75/100.
+- Decision: provisional worldwide score; temporary access excluded. High fields require independent global calibration; heritage justification above.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PA/casco-antiguo-historic-district-of-panama](../../../countries/PA/sights/casco-antiguo-historic-district-of-panama.yaml) | 8.9 / 8.9 / 9.3 / 9.1 / 8.8 | impact: 0.4; uniqueness: 0.6 vs peer |
+| [CR/boruca-juego-diablitos](../../../countries/CR/sights/boruca-juego-diablitos.yaml) | 9.1 / 9.4 / 9.4 / 9.1 / 9.0 | impact: 0.2; uniqueness: 0.1 vs peer |
+
+Ranking-row comparisons are preliminary; domestic comparisons are cross-type where no festival baseline exists. Independent peer YAML, coordinates and global calibration pending.
+
+## sight-pa-las-tablas-carnival — Las Tablas Carnival Public Parade and Musical Celebrations — 2026-11-28
+
+- YAML: [source](../../../countries/PA/sights/las-tablas-carnival.yaml)
+- Action: new
+- Scope: Recurring public carnival before Ash Wednesday with competing traditional delegations and music; 2026 edition documented by Ministry of Culture. Distinct from July Pollera festival.
+- Representative coordinates: 7.765, -80.277; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://micultura.gob.pa/en/2026/02/16/el-topon-tableno-el-encuentro-final-que-resume-la-esencia-del-carnaval-de-las-tablas/
+- Core I/U/S/E/D: 9.3 / 9.2 / 9.2 / 9.4 / 9.1.
+- Categories: culture:9.4 nightlife:9.4 photography:9.3.
+- Overall: 92.50/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PA/casco-antiguo-historic-district-of-panama](../../../countries/PA/sights/casco-antiguo-historic-district-of-panama.yaml) | 8.9 / 8.9 / 9.3 / 9.1 / 8.8 | impact: 0.4; uniqueness: 0.3 vs peer |
+| [CR/limon-carnival](../../../countries/CR/sights/limon-carnival.yaml) | 9.0 / 9.0 / 9.1 / 9.3 / 9.0 | impact: 0.3; uniqueness: 0.2 vs peer |
+
+Ranking-row comparisons are preliminary; domestic comparisons are cross-type where no festival baseline exists. Independent peer YAML, coordinates and global calibration pending.
+
+## sight-pa-portobelo-congo-festival — Portobelo Congo Cultural Festival Public Dance and Musical Programme — 2026-11-28
+
+- YAML: [source](../../../countries/PA/sights/portobelo-congo-festival.yaml)
+- Action: new
+- Scope: Public Congo performances in Portobelo, recognizing Afro-Panamanian resistance heritage. UNESCO 2018 inscription is ritual and festive expressions of Congo culture, not the event itself; significance and culture 9.5 reflect this specific living expression. No fortification or private rite credit.
+- Representative coordinates: 9.553, -79.656; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://sicultura.gob.pa/manifestaciones-culturales/expresiones-rituales-y-festivas-de-la-cultura-congo ; https://www.asamblea.gob.pa/Noticias/Noticias/PORTOBELO-REVIVE-TRADICIONES-Y-EXPRESIONES-CULTURALES-CON-SU-FESTIVAL-CONGO ; https://ich.unesco.org/en/state/panama-PA?cp=PA&topic=es-estado
+- Core I/U/S/E/D: 9.1 / 9.4 / 9.5 / 9.1 / 9.2.
+- Categories: culture:9.5 history:9.3 photography:9.2.
+- Overall: 92.65/100.
+- Decision: provisional worldwide score; temporary access excluded. High fields require independent global calibration; heritage justification above.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PA/portobelo-san-lorenzo-fortifications-serial-unesco-property](../../../countries/PA/sights/portobelo-san-lorenzo-fortifications-serial-unesco-property.yaml) | 8.7 / 8.9 / 9.4 / 8.6 / 8.9 | impact: 0.4; uniqueness: 0.5 vs peer |
+| [CR/limon-grand-gala-parade](../../../countries/CR/sights/limon-grand-gala-parade.yaml) | 9.1 / 9.2 / 9.4 / 9.2 / 9.0 | impact: 0.0; uniqueness: 0.2 vs peer |
+
+Ranking-row comparisons are preliminary; domestic comparisons are cross-type where no festival baseline exists. Independent peer YAML, coordinates and global calibration pending.
+
+## sight-pa-las-tablas-pollera-festival — Las Tablas National Pollera Festival Public Traditional Dress and Craft Programme — 2026-11-28
+
+- YAML: [source](../../../countries/PA/sights/las-tablas-pollera-festival.yaml)
+- Action: new
+- Scope: Annual July 22 festival within Santa Librada patronal celebrations, established 1957 and formalized 1961. Distinct from Carnival; January Thousand Polleras parade and November San José festival not added separately in this pass.
+- Representative coordinates: 7.766, -80.277; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://sicultura.gob.pa/manifestaciones-culturales/festival-nacional-de-la-pollera ; https://www.atp.gob.pa/calendario/festival-nacional-de-la-pollera/
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.3 / 9.1 / 9.0.
+- Categories: culture:9.4 photography:9.4 history:9.2.
+- Overall: 91.80/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PA/casco-antiguo-historic-district-of-panama](../../../countries/PA/sights/casco-antiguo-historic-district-of-panama.yaml) | 8.9 / 8.9 / 9.3 / 9.1 / 8.8 | impact: 0.2; uniqueness: 0.4 vs peer |
+| [CR/guaitil-chorotega-pottery](../../../countries/CR/sights/guaitil-chorotega-pottery.yaml) | 8.8 / 9.2 / 9.4 / 8.9 / 8.9 | impact: 0.3; uniqueness: 0.1 vs peer |
+
+Ranking-row comparisons are preliminary; domestic comparisons are cross-type where no festival baseline exists. Independent peer YAML, coordinates and global calibration pending.
+
+## sight-pa-guarare-mejorana-festival — Guararé National Mejorana Festival Public Folklore and Music Programme — 2026-11-28
+
+- YAML: [source](../../../countries/PA/sights/guarare-mejorana-festival.yaml)
+- Action: new
+- Scope: Traditional September festival including music, dance and artisan expressions; 74th edition confirmed in 2026. Public programme, excludes private gatherings.
+- Representative coordinates: 7.817, -80.28; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://micultura.gob.pa/en/2026/09/16/ministerio-de-cultura-respalda-el-festival-nacional-de-la-mejorana-de-guarare/ ; https://www.presidencia.gob.pa/index.php/publicacion/presidente-mulino-participa-en-el-festival-nacional-de-la-mejorana-en-guarare
+- Core I/U/S/E/D: 9.1 / 9.2 / 9.3 / 9.2 / 9.2.
+- Categories: culture:9.4 photography:9.2 history:9.1.
+- Overall: 91.90/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PA/casco-antiguo-historic-district-of-panama](../../../countries/PA/sights/casco-antiguo-historic-district-of-panama.yaml) | 8.9 / 8.9 / 9.3 / 9.1 / 8.8 | impact: 0.2; uniqueness: 0.3 vs peer |
+| [CR/nicoya-annexation-festival](../../../countries/CR/sights/nicoya-annexation-festival.yaml) | 9.0 / 9.1 / 9.3 / 9.1 / 9.0 | impact: 0.1; uniqueness: 0.1 vs peer |
+
+Ranking-row comparisons are preliminary; domestic comparisons are cross-type where no festival baseline exists. Independent peer YAML, coordinates and global calibration pending.
+
+## sight-pa-portobelo-cristo-negro — Portobelo Black Christ Public Pilgrimage and Procession — 2026-11-28
+
+- YAML: [source](../../../countries/PA/sights/portobelo-cristo-negro.yaml)
+- Action: new
+- Scope: Annual October 21 public pilgrimage and procession distinct from Congo festival and fortifications; 2026 outdoor procession occurred despite church restoration. No church interior access assumed, not Esquipulas UNESCO nomination.
+- Representative coordinates: 9.554, -79.655; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.tourismpanama.com/places-to-visit/portobelo/ ; https://www.tvn-2.com/nacionales/misa-campal-procesion-cristo-negro_1_2267374.html ; https://www.prensa.com/sociedad/cristo-negro-de-portobelo-fe-y-tradicion-en-medio-de-la-restauracion/
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.4 / 9.1 / 9.0.
+- Categories: culture:9.4 history:9.3 photography:9.0.
+- Overall: 91.45/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PA/portobelo-san-lorenzo-fortifications-serial-unesco-property](../../../countries/PA/sights/portobelo-san-lorenzo-fortifications-serial-unesco-property.yaml) | 8.7 / 8.9 / 9.4 / 8.6 / 8.9 | impact: 0.3; uniqueness: 0.3 vs peer |
+| [CR/cartago-romeria](../../../countries/CR/sights/cartago-romeria.yaml) | 9.0 / 9.1 / 9.4 / 9.2 / 9.0 | impact: 0.0; uniqueness: 0.1 vs peer |
+
+Ranking-row comparisons are preliminary; domestic comparisons are cross-type where no festival baseline exists. Independent peer YAML, coordinates and global calibration pending.
+
+## sight-pa-panama-jazz-festival — Panama City Panama Jazz Festival Public Concert Programme — 2026-11-28
+
+- YAML: [source](../../../countries/PA/sights/panama-jazz-festival.yaml)
+- Action: new
+- Scope: Recurring festival with concerts and educational programme; 23rd edition announced for January 2026 and organizer announces 24th. Representative city point, venues vary; no private industry sessions assumed.
+- Representative coordinates: 9.005, -79.59; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.panamajazzfestival.com/ ; https://micultura.gob.pa/2025/08/18/micultura-impulsa-el-panama-jazz-festival/ ; https://panamajazzfestival.com/prensa
+- Core I/U/S/E/D: 9.0 / 8.9 / 9.2 / 9.2 / 9.2.
+- Categories: culture:9.4 nightlife:9.2.
+- Overall: 90.65/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PA/biomuseo](../../../countries/PA/sights/biomuseo.yaml) | 8.5 / 8.9 / 8.6 / 8.7 / 8.4 | impact: 0.5; uniqueness: 0.0 vs peer |
+| [CR/san-jose-festival-internacional-artes](../../../countries/CR/sights/san-jose-festival-internacional-artes.yaml) | 9.1 / 9.0 / 9.3 / 9.2 / 9.2 | impact: -0.1; uniqueness: -0.1 vs peer |
+
+Ranking-row comparisons are preliminary; domestic comparisons are cross-type where no festival baseline exists. Independent peer YAML, coordinates and global calibration pending.
+
+## sight-pa-boquete-flowers-coffee-fair — Boquete Flower and Coffee Fair Public Garden and Cultural Programme — 2026-11-28
+
+- YAML: [source](../../../countries/PA/sights/boquete-flowers-coffee-fair.yaml)
+- Action: new
+- Scope: Annual public fair and temporary flower displays; 53rd edition inaugurated January 2026. Ordinary coffee estate visits separate.
+- Representative coordinates: 8.778, -82.43; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.atp.gob.pa/calendario/feria-de-las-flores-y-el-cafe-boquete/ ; https://mida.gob.pa/2026/01/08/ministro-linares-inauguro-la-feria-de-las-flores-y-del-cafe-en-boquete/
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.8 / 9.0 / 8.8.
+- Categories: culture:9.2 photography:9.3 food:9.1.
+- Overall: 88.05/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PA/el-valle-sunday-market](../../../countries/PA/sights/el-valle-sunday-market.yaml) | 7.0 / 7.6 / 6.6 / 8.1 / 6.7 | impact: 1.8; uniqueness: 1.1 vs peer |
+| [CR/san-jose-festival-de-la-luz](../../../countries/CR/sights/san-jose-festival-de-la-luz.yaml) | 9.0 / 8.9 / 9.0 / 9.3 / 8.8 | impact: -0.2; uniqueness: -0.2 vs peer |
+
+Ranking-row comparisons are preliminary; domestic comparisons are cross-type where no festival baseline exists. Independent peer YAML, coordinates and global calibration pending.
+
+## sight-pa-boquete-don-pepe-coffee — Boquete Don Pepe Estate Guided Specialty Coffee and Geisha Tasting — 2026-11-28
+
+- YAML: [source](../../../countries/PA/sights/boquete-don-pepe-coffee.yaml)
+- Action: new
+- Scope: Named estate coffee production and tasting, operator traces farm to 1898; no unverified global first or competition title. Approximate Volcancito location.
+- Representative coordinates: 8.774, -82.456; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://donpepestatecoffee.com/en/our-tour/ ; https://www.atp.gob.pa/industrias/agro-turismo/ ; https://circuitodelcafe.com/fincas-de-cafe/don-pepe-estate-coffee
+- Core I/U/S/E/D: 8.6 / 8.9 / 8.8 / 9.0 / 8.7.
+- Categories: food:9.4 culture:9.1 history:9.0.
+- Overall: 87.85/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PA/el-valle-sunday-market](../../../countries/PA/sights/el-valle-sunday-market.yaml) | 7.0 / 7.6 / 6.6 / 8.1 / 6.7 | impact: 1.6; uniqueness: 1.3 vs peer |
+| [CR/doka-coffee-estate](../../../countries/CR/sights/doka-coffee-estate.yaml) | 8.4 / 8.5 / 8.7 / 8.8 / 8.5 | impact: 0.2; uniqueness: 0.4 vs peer |
+
+Ranking-row comparisons are preliminary; domestic comparisons are cross-type where no festival baseline exists. Independent peer YAML, coordinates and global calibration pending.
+
+## sight-pa-santa-fe-national-park — Santa Fe National Park Guided Forest and Waterfall Trails — 2026-11-28
+
+- YAML: [source](../../../countries/PA/sights/santa-fe-national-park.yaml)
+- Action: new
+- Scope: Established guided visitor routes around park, no developed visitor infrastructure or off-trail authorization assumed.
+- Representative coordinates: 8.55, -81.12; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://santafepanama.org/
+- Core I/U/S/E/D: 8.7 / 8.6 / 8.6 / 8.5 / 8.8.
+- Categories: nature:9.3 wildlife:9.1 adventure:9.1.
+- Overall: 86.35/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PA/soberania-national-park](../../../countries/PA/sights/soberania-national-park.yaml) | 8.8 / 8.9 / 9.0 / 8.9 / 8.9 | impact: -0.1; uniqueness: -0.3 vs peer |
+| [CR/juan-castro-blanco-national-park](../../../countries/CR/sights/juan-castro-blanco-national-park.yaml) | 8.4 / 8.6 / 8.6 / 8.2 / 8.5 | impact: 0.3; uniqueness: 0.0 vs peer |
+
+Ranking-row comparisons are preliminary; domestic comparisons are cross-type where no festival baseline exists. Independent peer YAML, coordinates and global calibration pending.
+
+## sight-pa-sarigua-national-park — Sarigua National Park Dryland and Coastal Birdwatching Landscape — 2026-11-28
+
+- YAML: [source](../../../countries/PA/sights/sarigua-national-park.yaml)
+- Action: new
+- Scope: Distinct coastal saline dryland, not natural climatic desert; no wildlife guarantee.
+- Representative coordinates: 8.001, -80.467; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.tourismpanama.com/outdoors-and-nature/nature-parks/national-parks/sarigua-national-park/
+- Core I/U/S/E/D: 8.2 / 8.6 / 8.4 / 8.1 / 8.3.
+- Categories: nature:9.0 wildlife:9.0 photography:9.0.
+- Overall: 83.35/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PA/metropolitan-natural-park](../../../countries/PA/sights/metropolitan-natural-park.yaml) | 8.0 / 8.3 / 8.0 / 8.5 / 7.9 | impact: 0.2; uniqueness: 0.3 vs peer |
+| [CR/diria-national-park](../../../countries/CR/sights/diria-national-park.yaml) | 8.2 / 8.4 / 8.4 / 8.3 / 8.2 | impact: 0.0; uniqueness: 0.2 vs peer |
+
+Ranking-row comparisons are preliminary; domestic comparisons are cross-type where no festival baseline exists. Independent peer YAML, coordinates and global calibration pending.
+
+## sight-pa-gualaca-cangilones — Los Cangilones de Gualaca River Canyon and Rock Pools — 2026-11-28
+
+- YAML: [source](../../../countries/PA/sights/gualaca-cangilones.yaml)
+- Action: new
+- Scope: Named river-cut rock formation; no swimming, jumping or access safety guarantee.
+- Representative coordinates: 8.5333, -82.3167; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://gualaca.municipios.gob.pa/sitios/ ; https://circuitodelcafe.com/atractivos/los-cangilones-de-gualaca
+- Core I/U/S/E/D: 8.4 / 8.5 / 7.8 / 8.7 / 8.0.
+- Categories: nature:9.1 photography:9.1 adventure:8.9.
+- Overall: 83.10/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PA/the-lost-waterfalls-boquete](../../../countries/PA/sights/the-lost-waterfalls-boquete.yaml) | 8.4 / 8.1 / 6.7 / 8.5 / 7.4 | impact: 0.0; uniqueness: 0.4 vs peer |
+| [CR/nauyaca-waterfalls](../../../countries/CR/sights/nauyaca-waterfalls.yaml) | 8.9 / 8.6 / 7.2 / 8.8 / 7.6 | impact: -0.5; uniqueness: -0.1 vs peer |
+
+Ranking-row comparisons are preliminary; domestic comparisons are cross-type where no festival baseline exists. Independent peer YAML, coordinates and global calibration pending.
+
+### Pass 330 scope decisions
+
+12 provisional additions (12 source-linked), 7 90+, 24 ranking-row comparisons (12 international, 12 domestic). PA 65 ranked / 65 total, +12 since baseline 53. UNESCO country inventory (https://whc.unesco.org/en/statesparties/pa) lists 5 inscribed and 1 tentative property; all represented in baseline, including 2025 Colonial Transisthmian Route and separately retained Panama Viejo/Casco components. Exact component audit pending. Corpus Christi and Congo UNESCO intangible inscriptions apply to living expressions across communities, not individual festival as a World Heritage site. Portobelo Black Christ separate from Congo and fortifications; 2026 procession despite church restoration. Pollera July festival distinct from Carnival; other pollera events deferred for scope. Mejorana, Jazz, Boquete fair, Don Pepe and two parks and Gualaca sourced. Panama OPEN. Coordinates approximate, current access and future schedules unverified. Existing ratings preserved. Full Python validation, independent peer YAML and same-type global calibration pending.
