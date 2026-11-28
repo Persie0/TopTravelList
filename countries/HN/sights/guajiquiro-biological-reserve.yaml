@@ -1,0 +1,16 @@
+id: sight-hn-guajiquiro-biological-reserve
+name: "Guajiquiro Biological Reserve"
+location:
+  country_code: HN
+  latitude: 14.1
+  longitude: -87.85
+scores:
+  impact: 8.0
+  uniqueness: 8.3
+  significance: 8.4
+  experience: 7.9
+  depth: 8.1
+  categories:
+    nature: 8.8
+    wildlife: 8.7
+    adventure: 8.4

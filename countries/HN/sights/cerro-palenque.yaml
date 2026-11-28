@@ -1,0 +1,15 @@
+id: sight-hn-cerro-palenque
+name: "Cerro Palenque Archaeological Site"
+location:
+  country_code: HN
+  latitude: 15.26
+  longitude: -87.96
+scores:
+  impact: 7.7
+  uniqueness: 8.5
+  significance: 8.9
+  experience: 7.4
+  depth: 8.1
+  categories:
+    history: 9.1
+    culture: 8.7
