@@ -1,0 +1,17 @@
+id: sight-mx-gran-acuario-mazatlan
+name: "Gran Acuario Mazatlán Sea of Cortez Aquarium"
+location:
+  country_code: MX
+  latitude: 23.225
+  longitude: -106.427
+scores:
+  impact: 9.1
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 9.2
+  depth: 9.3
+  categories:
+    family: 9.5
+    wildlife: 9.2
+    architecture: 9.2
+    nature: 9.0

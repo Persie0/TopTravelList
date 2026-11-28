@@ -13072,3 +13072,297 @@ All ten entries are source-linked editorial assessments using retrieved institut
 - Earlier decision: none.
 - Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; current admission not independently verified.
 
+
+## sight-mx-estadio-azteca — Estadio Azteca (Estadio Banorte) Football Heritage — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/estadio-azteca.yaml)
+- Action: new (pass 453)
+- Precise subject: Historic stadium hosted men's World Cups in 1970, 1986 and 2026, including two finals and the 2026 opening match. Score concerns stadium heritage and match experience, not guaranteed tour admission.
+- Location check: 19.303, -99.151; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/estadio-azteca-city; https://inside.fifa.com/organisation/president/news/mexico-city-stadium-azteca-pele-diego-maradona-world-cup-2026; https://www.reuters.com/sports/soccer/mexico-city-stadium-races-against-clock-reopening-ahead-world-cup-2026-03-27/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Maracanã (BR): comparable World Cup legacy
+  - Wembley (GB): iconic football venue
+  - Camp Nou (ES): club heritage
+  - La Bombonera (AR): distinctive match atmosphere.
+- Individual scores: impact 9.3, uniqueness 9.6, significance 9.8, experience 9.2, depth 8.8.
+- Categories: culture 9.6, history 9.7, architecture 9.0.
+- Overall: 94.10/100.
+- High-score challenge: Documented distinctive sporting, cultural or landscape significance and visitor experience support 90+; global peers constrain score. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; admission and current travel safety not verified.
+
+
+## sight-mx-arena-mexico-lucha-libre — Arena México Lucha Libre Wrestling Experience — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/arena-mexico-lucha-libre.yaml)
+- Action: new (pass 453)
+- Precise subject: Principal CMLL venue and live performance tradition; city-level intangible heritage recognition in 2018, not UNESCO inscription.
+- Location check: 19.425, -99.15; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://cmll.com/arenas/arena-mexico/; https://www.gob.mx/impi/prensa/impi-presenta-mas-alla-del-ring?state=published; https://revistas.ucm.es/index.php/REAA/es/article/view/61975.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Ryogoku Kokugikan sumo (JP): comparable traditional sports spectacle
+  - Madison Square Garden (US): larger global entertainment profile
+  - Guadalajara charreada (MX): distinct traditional sport
+  - Arena Coliseo (MX): alternative lucha venue, not separately counted.
+- Individual scores: impact 9.2, uniqueness 9.5, significance 9.4, experience 9.4, depth 9.0.
+- Categories: culture 9.7, nightlife 9.2, history 9.2.
+- Overall: 93.25/100.
+- High-score challenge: Documented distinctive sporting, cultural or landscape significance and visitor experience support 90+; global peers constrain score. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; admission and current travel safety not verified.
+
+
+## sight-mx-sinforosa-canyon — Sinforosa Canyon Viewpoints and Hiking — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/sinforosa-canyon.yaml)
+- Action: new (pass 453)
+- Precise subject: Distinct southern canyon and Cumbres de Sinforosa viewpoint near Guachochi, not the Divisadero viewpoint or Chepe railway; approximate point.
+- Location check: 26.69, -107.08; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://chihuahua.gob.mx/info/que-visitar; https://turismo.chihuahua.gob.mx/pueblos/guachochi/; https://visitmexico.com/en/destino/1948/guachochi.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Copper Canyon Divisadero (MX): more established scenic infrastructure
+  - Colca Canyon (PE): comparable deep canyon and hiking
+  - Grand Canyon (US): stronger global anchor
+  - Pegüis (MX): narrower canyon.
+- Individual scores: impact 9.4, uniqueness 9.2, significance 8.8, experience 9.0, depth 9.1.
+- Categories: nature 9.4, photography 9.5, adventure 9.3.
+- Overall: 91.40/100.
+- High-score challenge: Documented distinctive sporting, cultural or landscape significance and visitor experience support 90+; global peers constrain score. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; admission and current travel safety not verified.
+
+
+## sight-mx-bahia-todos-santos-surf — Bahía de Todos Santos World Surfing Reserve — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/bahia-todos-santos-surf.yaml)
+- Action: new (pass 453)
+- Precise subject: Recognized World Surfing Reserve around Ensenada with varied breaks and offshore big-wave reefs. Advanced waves are not suitable for novices.
+- Location check: 31.85, -116.68; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.savethewaves.org/bahia-todos-santos/; https://www.savethewaves.org/world-surfing-reserves-in-action/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Puerto Escondido (MX): iconic beach break
+  - Nazaré (PT): more extreme big-wave spectacle
+  - Jeffreys Bay (ZA): celebrated point break
+  - Ericeira (PT): comparable surfing reserve.
+- Individual scores: impact 9.2, uniqueness 9.2, significance 9.2, experience 9.1, depth 8.9.
+- Categories: adventure 9.5, nature 9.2, photography 9.2.
+- Overall: 91.55/100.
+- High-score challenge: Documented distinctive sporting, cultural or landscape significance and visitor experience support 90+; global peers constrain score. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; admission and current travel safety not verified.
+
+
+## sight-mx-batopilas-scenic-road — Batopilas Scenic Mountain Road and Mining Settlement — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/batopilas-scenic-road.yaml)
+- Action: new (pass 453)
+- Precise subject: Scenic descent and historic mining settlement treated as one road-based experience, distinct from Chepe and Divisadero. Representative point at destination, not route entrance; travel safety and road conditions not assessed.
+- Location check: 27.029, -107.74; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.gob.mx/sectur/articulos/batopilas-chihuahua; https://turismo.chihuahua.gob.mx/pueblos/batopilas/; https://www.visitachihuahua.mx/en/batopilas.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Trollstigen (NO): distinctive mountain switchbacks
+  - Transfăgărășan (RO): comparable scenic mountain road
+  - La Rumorosa (MX): different desert route
+  - Chepe (MX): stronger rail heritage.
+- Individual scores: impact 9.3, uniqueness 9.0, significance 9.0, experience 8.9, depth 9.1.
+- Categories: nature 9.3, photography 9.4, history 9.2, adventure 9.1.
+- Overall: 90.85/100.
+- High-score challenge: Documented distinctive sporting, cultural or landscape significance and visitor experience support 90+; global peers constrain score. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; admission and current travel safety not verified.
+
+
+## sight-mx-jalcomulco-rafting — Jalcomulco Whitewater Rafting and River Adventures — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/jalcomulco-rafting.yaml)
+- Action: new (pass 453)
+- Precise subject: Class III–IV rafting and kayaking on local rivers, plus associated river adventure; conditions and suitability depend on water level and guide.
+- Location check: 19.33, -96.76; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://visitmexico.com/en/destino/17991/jalcomulco.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Futaleufú (CL): more internationally exceptional whitewater
+  - Zambezi (ZM/ZW): stronger global landscape context
+  - Pacuare (CR): comparable tropical river rafting
+  - Matacanes (MX): different canyoning experience.
+- Individual scores: impact 9.0, uniqueness 8.9, significance 8.7, experience 9.5, depth 9.2.
+- Categories: adventure 9.5, nature 9.2, photography 9.0.
+- Overall: 90.10/100.
+- High-score challenge: Documented distinctive sporting, cultural or landscape significance and visitor experience support 90+; global peers constrain score. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; admission and current travel safety not verified.
+
+
+## sight-mx-gran-acuario-mazatlan — Gran Acuario Mazatlán Sea of Cortez Aquarium — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/gran-acuario-mazatlan.yaml)
+- Action: new (pass 453)
+- Precise subject: Major aquarium dedicated to Sea of Cortez, reported over five million litres saltwater by municipal tourism; evaluate educational visitor experience rather than wild encounter.
+- Location check: 23.225, -106.427; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://granacuario.com/en; https://tics.mazatlan.gob.mx/tourist/en/lugar/2; https://sic.cultura.gob.mx/ficha.php?table=museo&table_id=2332.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Oceanogràfic (ES): broader marine exhibits
+  - Georgia Aquarium (US): greater scale
+  - Monterey Bay Aquarium (US): outstanding marine education
+  - Guadalajara Zoo (MX): broader zoological experience.
+- Individual scores: impact 9.1, uniqueness 8.8, significance 8.9, experience 9.2, depth 9.3.
+- Categories: family 9.5, wildlife 9.2, architecture 9.2, nature 9.0.
+- Overall: 90.20/100.
+- High-score challenge: Documented distinctive sporting, cultural or landscape significance and visitor experience support 90+; global peers constrain score. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; admission and current travel safety not verified.
+
+
+## sight-mx-la-ventana-windsports — La Ventana and El Sargento Kiteboarding and Wingfoiling — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/la-ventana-windsports.yaml)
+- Action: new (pass 453)
+- Precise subject: Distinct seasonal wind-sport experience with instruction and coastal scenery, not La Ventana mobula aggregation.
+- Location check: 24.05, -109.99; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.aquaventana.com/kiteboarding; https://vivalaventana.com/guide/kiting-in-la-ventana.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Tarifa (ES): internationally renowned windsports
+  - Dakhla (MA): similar desert coast
+  - Cabarete (DO): established kite destination
+  - Puerto Escondido (MX): contrasting surf.
+- Individual scores: impact 8.9, uniqueness 8.9, significance 8.5, experience 9.4, depth 9.1.
+- Categories: adventure 9.5, nature 9.1, photography 9.0.
+- Overall: 89.15/100.
+- High-score challenge: Sub-90 reflects narrower scope or less global distinction. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; admission and current travel safety not verified.
+
+
+## sight-mx-africam-safari-puebla — Africam Safari Wildlife Park (Puebla) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/africam-safari-puebla.yaml)
+- Action: new (pass 453)
+- Precise subject: Established drive-through zoological park; AZA listing and visitor programme, not equivalent to free-ranging African wildlife.
+- Location check: 18.94, -98.137; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://africamsafari.com/; https://www.aza.org/inst-status?locale=es.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - San Diego Zoo Safari Park (US): comparable managed safari
+  - Singapore Zoo (SG): strong zoological interpretation
+  - Guadalajara Zoo (MX): broader urban collection
+  - Kruger (ZA): fundamentally different wild ecosystem.
+- Individual scores: impact 8.9, uniqueness 8.7, significance 8.8, experience 9.2, depth 9.2.
+- Categories: family 9.5, wildlife 9.2, nature 8.9.
+- Overall: 89.05/100.
+- High-score challenge: Sub-90 reflects narrower scope or less global distinction. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; admission and current travel safety not verified.
+
+
+## sight-mx-sotano-de-las-huahuas — Sótano de las Huahuas Sinkhole and Bird Emergence — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/sotano-de-las-huahuas.yaml)
+- Action: new (pass 453)
+- Precise subject: Distinct protected sinkhole and bird emergence near Aquismón, separate from Sótano de las Golondrinas; approximate point, observation from lawful viewing areas.
+- Location check: 21.62, -99.08; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://sic.cultura.gob.mx/ficha.php?table=otra_declaratoria&table_id=149; https://sanluis.eluniversal.com.mx/mas-de-san-luis/sotano-de-las-golondrinas-y-sotano-de-las-huahuas-en-slp-podrian-ser-zonas-de-avistamiento-de-aves-profesional/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Sótano de las Golondrinas (MX): greater depth and iconic profile
+  - Balam Kú bat emergence (MX): different species spectacle
+  - Sima de las Cotorras (MX): similar birds and geology
+  - Deer Cave (MY): larger bat spectacle.
+- Individual scores: impact 9.1, uniqueness 9.0, significance 8.7, experience 8.7, depth 8.2.
+- Categories: wildlife 9.3, nature 9.3, photography 9.1.
+- Overall: 88.45/100.
+- High-score challenge: Sub-90 reflects narrower scope or less global distinction. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; admission and current travel safety not verified.
+
+
+## sight-mx-xenses-park — Xenses Sensory Adventure Park — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/xenses-park.yaml)
+- Action: new (pass 453)
+- Precise subject: Separate half-day attraction with optical illusions, balance challenges and 14 sensory scenarios; distinct ticket and programme from Xcaret and Xplor.
+- Location check: 20.58, -87.12; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.xensespark.com/en/faqs/; https://www.xensespark.com/en/about-xenses/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Xplor (MX): broader physical adventure
+  - teamLab Borderless (JP): more artistic immersive scope
+  - Phaeno (DE): different interactive science
+  - Xcaret (MX): much broader programme.
+- Individual scores: impact 8.9, uniqueness 9.0, significance 8.1, experience 9.3, depth 8.6.
+- Categories: family 9.4, adventure 9.0, photography 9.0.
+- Overall: 87.95/100.
+- High-score challenge: Sub-90 reflects narrower scope or less global distinction. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; admission and current travel safety not verified.
+
+
+## sight-mx-guadalajara-zoo — Guadalajara Zoo, Aquarium and SkyZoo — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/guadalajara-zoo.yaml)
+- Action: new (pass 453)
+- Precise subject: Combined zoo, aquarium, aerial lift and safari attractions within one complex.
+- Location check: 20.726, -103.311; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://zooguadalajara.com.mx/boletos/; https://www.aza.org/inst-status?locale=es.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Africam Safari (MX): stronger drive-through identity
+  - San Diego Zoo (US): greater global profile
+  - Singapore Zoo (SG): exceptional immersive habitats
+  - Gran Acuario (MX): focused marine institution.
+- Individual scores: impact 8.7, uniqueness 8.5, significance 8.7, experience 9.2, depth 9.3.
+- Categories: family 9.4, wildlife 9.1, nature 8.8.
+- Overall: 87.85/100.
+- High-score challenge: Sub-90 reflects narrower scope or less global distinction. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; admission and current travel safety not verified.
+
+
+## sight-mx-six-flags-mexico — Six Flags México Theme Park — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/six-flags-mexico.yaml)
+- Action: new (pass 453)
+- Precise subject: Major roller-coaster and family amusement park, without reliance on operator world-record marketing.
+- Location check: 19.295, -99.213; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.sixflags.com/mexico.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Cedar Point (US): exceptional coaster concentration
+  - Europa-Park (DE): broader themed experience
+  - Xplor (MX): distinctive natural adventure
+  - Xenses (MX): different sensory focus.
+- Individual scores: impact 8.9, uniqueness 8.3, significance 8.4, experience 9.4, depth 9.2.
+- Categories: family 9.4, adventure 9.3.
+- Overall: 87.55/100.
+- High-score challenge: Sub-90 reflects narrower scope or less global distinction. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; admission and current travel safety not verified.
+
+
+## sight-mx-santiago-apoala — Santiago Apoala Community Canyon and Waterfall Trails — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/santiago-apoala.yaml)
+- Action: new (pass 453)
+- Precise subject: Community-led canyon and waterfall hiking, with Mixtec cultural significance; distinct local experience within Mixteca Alta geopark, consent-based access.
+- Location check: 17.65, -97.14; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.oaxaca.travel/index.php/es/all-destinations-es/santiago-apoala; https://oaxaca.eluniversal.com.mx/sociedad/en-la-mixteca-de-oaxaca-apoala-encontro-en-el-turismo-comunitario-un-antidoto-contra-la/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Mixteca Alta geopark (MX): wider geological context
+  - Tabor Canyon (MX): different arid landscape
+  - Minas Viejas (MX): more focused waterfalls
+  - Sierra Gorda (MX): broader ecotourism.
+- Individual scores: impact 8.9, uniqueness 8.8, significance 8.9, experience 8.8, depth 8.9.
+- Categories: nature 9.3, photography 9.2, adventure 9.0, culture 9.0.
+- Overall: 88.60/100.
+- High-score challenge: Sub-90 reflects narrower scope or less global distinction. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; admission and current travel safety not verified.
+

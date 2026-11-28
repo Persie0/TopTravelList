@@ -1,0 +1,17 @@
+id: sight-mx-batopilas-scenic-road
+name: "Batopilas Scenic Mountain Road and Mining Settlement"
+location:
+  country_code: MX
+  latitude: 27.029
+  longitude: -107.74
+scores:
+  impact: 9.3
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.9
+  depth: 9.1
+  categories:
+    nature: 9.3
+    photography: 9.4
+    history: 9.2
+    adventure: 9.1

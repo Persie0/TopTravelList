@@ -1,0 +1,15 @@
+id: sight-mx-six-flags-mexico
+name: "Six Flags México Theme Park"
+location:
+  country_code: MX
+  latitude: 19.295
+  longitude: -99.213
+scores:
+  impact: 8.9
+  uniqueness: 8.3
+  significance: 8.4
+  experience: 9.4
+  depth: 9.2
+  categories:
+    family: 9.4
+    adventure: 9.3

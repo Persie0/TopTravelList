@@ -1,0 +1,16 @@
+id: sight-mx-jalcomulco-rafting
+name: "Jalcomulco Whitewater Rafting and River Adventures"
+location:
+  country_code: MX
+  latitude: 19.33
+  longitude: -96.76
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 9.5
+  depth: 9.2
+  categories:
+    adventure: 9.5
+    nature: 9.2
+    photography: 9.0

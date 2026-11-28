@@ -1,0 +1,16 @@
+id: sight-mx-estadio-azteca
+name: "Estadio Azteca (Estadio Banorte) Football Heritage"
+location:
+  country_code: MX
+  latitude: 19.303
+  longitude: -99.151
+scores:
+  impact: 9.3
+  uniqueness: 9.6
+  significance: 9.8
+  experience: 9.2
+  depth: 8.8
+  categories:
+    culture: 9.6
+    history: 9.7
+    architecture: 9.0
