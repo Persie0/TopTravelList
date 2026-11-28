@@ -1,0 +1,16 @@
+id: sight-cr-childrens-eternal-rainforest
+name: "Children’s Eternal Rainforest"
+location:
+  country_code: CR
+  latitude: 10.30564
+  longitude: -84.81445
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 8.8
+  depth: 9.0
+  categories:
+    nature: 9.5
+    wildlife: 9.4
+    adventure: 9.0
