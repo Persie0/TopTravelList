@@ -1,0 +1,16 @@
+id: sight-pa-cerro-chucanti-reserve
+name: "Cerro Chucantí Private Nature Reserve"
+location:
+  country_code: PA
+  latitude: 8.787917
+  longitude: -78.450389
+scores:
+  impact: 8.8
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 7.9
+  depth: 8.3
+  categories:
+    nature: 9.5
+    wildlife: 9.5
+    adventure: 8.5
