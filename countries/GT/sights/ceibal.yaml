@@ -1,0 +1,16 @@
+id: sight-gt-ceibal
+name: "Ceibal (Seibal) Archaeological Park"
+location:
+  country_code: GT
+  latitude: 16.5117
+  longitude: -90.0611
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.6
+  depth: 8.5
+  categories:
+    history: 9.2
+    architecture: 8.7
+    photography: 8.6

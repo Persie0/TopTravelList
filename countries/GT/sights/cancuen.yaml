@@ -1,0 +1,16 @@
+id: sight-gt-cancuen
+name: "Cancuén Archaeological Site and Royal Palace"
+location:
+  country_code: GT
+  latitude: 16.0147
+  longitude: -90.03841
+scores:
+  impact: 8.2
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 8.0
+  depth: 8.5
+  categories:
+    history: 9.3
+    architecture: 8.8
+    culture: 8.8

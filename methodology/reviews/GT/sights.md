@@ -1674,3 +1674,257 @@ Seven new geological and mountain attractions, four fact-checked and three provi
 - High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
 - Earlier decision: none.
 - Remaining verification: current safe and lawful viewing options, exact route/venue where applicable, current peer YAML and full diagnostics. No access or eruption guarantees.
+
+# Pass 395 — 2026-11-28 — direct main continuation
+
+Seven new archaeological sites and three reassessments. Two fact-checked decisions and eight source-linked-unverified decisions (all complete editorial scores). JS inventory, formula, coordinate range, uniqueness, ranking and README checks only; full Python validation/benchmark scripts and Actions not run. El Mirador excludes the wider basin; Piedras Negras excludes the entire protected forest; no credit for removed artifacts or inaccessible excavations. UNESCO representative coordinates corrected for Tak’alik Ab’aj.
+
+## sight-gt-uaxactun — Uaxactún Archaeological Park — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/uaxactun.yaml)
+- Action: new
+- Precise subject: Site's own ceremonial groups, not Tikal or community excursions.
+- Location check: ArcheoAtlas https://archeoatlas.com/country/guatemala (coordinate table excerpt; representative, not entrance)
+- Evidence status: source-linked-unverified
+- Sources inspected 2026-11-28: CONAP https://turismo-sigap.conap.gob.gt/parque-nacional-tikal-parque-arqueologico-uaxactun/ (excerpt: archaeological park and early studied astronomical complex); Harvard Peabody https://peabody.harvard.edu/uaxactun (excerpt: Group E research, stelae and restoration; lost murals not credited).
+- Worldwide peers (qualitative; current Caracol, Chavín and Joya de Cerén YAML inspected for reassessments; other peers not checked numerically):
+  - Caracol (BZ, 91.10): more imposing architecture.
+  - Chavín (PE, 88.65): stronger distinctive religious iconography; similar research depth.
+  - Joya de Cerén (SV, 91.05): much rarer preservation of daily life.
+  - Tikal (GT, 94.95): far greater monumental breadth.
+- Individual scores:
+  - impact: 8.6 — Forest temples and plazas offer substantial but not Tikal-level impact.
+  - uniqueness: 9.0 — Early studied astronomical ensemble and ceremonial groups give distinctive archaeological identity.
+  - significance: 9.2 — Important chronology and history of Maya archaeological research.
+  - experience: 8.6 — Several groups reward interpretation, with no guaranteed access to restricted remains.
+  - depth: 8.8 — Multiple architectural groups and inscriptions give good exploration breadth.
+- Categories: history 9.3, architecture 8.8, culture 8.8, photography 8.7.
+- Overall: 88.40/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: visitor access and precise representative location where approximate, current peer YAML for additional comparisons, full diagnostics. No admission guarantee.
+
+## sight-gt-aguateca — Aguateca Archaeological Park — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/aguateca.yaml)
+- Action: new
+- Precise subject: Fortified archaeological site and ravine setting; excludes separate lake recreation.
+- Location check: ArcheoAtlas https://archeoatlas.com/country/guatemala (coordinate table excerpt; representative, not entrance); published epigraphy table differs by about 2 km; precise entrance unresolved.
+- Evidence status: source-linked-unverified
+- Sources inspected 2026-11-28: Lonely Planet https://www.lonelyplanet.com/points-of-interest/aguateca/1331758 (excerpt: cliffs, ravine, carved monuments and guided visit); INGUAT https://visitguatemala.gt/en/blog/sayaxche-what-see-do/ (page inspected, regional visit context and named sites); CONAP https://conap.gob.gt/aniversario-de-la-declaratoria-de-las-areas-protegidas-del-sur-de-peten/ (excerpt: protected monument).
+- Worldwide peers (qualitative; current Caracol, Chavín and Joya de Cerén YAML inspected for reassessments; other peers not checked numerically):
+  - Caracol (BZ): larger exposed ceremonial architecture.
+  - Yaxchilán (MX): comparable forest river setting and stronger surviving carvings.
+  - Joya de Cerén (SV): exceptional domestic context; different preservation process.
+  - Dos Pilas (GT): related polity, less cliff-defined landscape.
+- Individual scores:
+  - impact: 8.8 — Cliff and ravine setting adds drama to archaeological remains.
+  - uniqueness: 9.0 — Defensive topography and documented ancient abandonment make it distinctive.
+  - significance: 9.0 — Important evidence for Classic Maya political and household history.
+  - experience: 8.7 — Forest and site exploration offer a rewarding excursion.
+  - depth: 8.6 — Multiple architectural features and landscape context give meaningful breadth.
+- Categories: history 9.2, architecture 8.7, nature 8.8, photography 8.9.
+- Overall: 88.55/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: visitor access and precise representative location where approximate, current peer YAML for additional comparisons, full diagnostics. No admission guarantee.
+
+## sight-gt-dos-pilas — Dos Pilas Archaeological Park — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/dos-pilas.yaml)
+- Action: new
+- Precise subject: Site core and surviving inscriptions, not whole Petexbatún region.
+- Location check: ArcheoAtlas https://archeoatlas.com/country/guatemala (coordinate table excerpt; representative, not entrance)
+- Evidence status: source-linked-unverified
+- Sources inspected 2026-11-28: FAMSI https://www.famsi.org/reports/01098/index.html (excerpt: hieroglyphic stairway discoveries); INGUAT https://visitguatemala.gt/en/blog/sayaxche-what-see-do/ (page inspected, regional visit context and named sites) (stairways and stelae); https://www.ancient-history-sites.com/sites/dos-pilas/ (excerpt: damaged stela and pyramid).
+- Worldwide peers (qualitative; current Caracol, Chavín and Joya de Cerén YAML inspected for reassessments; other peers not checked numerically):
+  - Copán (HN): much richer visible sculpture and interpretation.
+  - Caracol (BZ): greater architectural impact and route breadth.
+  - Yaxchilán (MX): more imposing sculptured architecture.
+  - Aguateca (GT): stronger cliff setting and household context.
+- Individual scores:
+  - impact: 8.2 — Forest ruins have strong historical atmosphere but incomplete preservation.
+  - uniqueness: 8.8 — Inscribed stairways distinguish the site from ordinary ruins.
+  - significance: 9.2 — Political inscriptions are highly valuable to Maya dynastic history.
+  - experience: 8.2 — Specialist visit is rewarding despite limited visible architecture.
+  - depth: 8.4 — Several monuments provide depth but no regional route credit.
+- Categories: history 9.3, architecture 8.5, culture 8.7.
+- Overall: 85.70/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: visitor access and precise representative location where approximate, current peer YAML for additional comparisons, full diagnostics. No admission guarantee.
+
+## sight-gt-ceibal — Ceibal (Seibal) Archaeological Park — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/ceibal.yaml)
+- Action: new
+- Precise subject: Archaeological groups and surviving carved stelae; excludes wider river trip and removed monuments.
+- Location check: ArcheoAtlas https://archeoatlas.com/country/guatemala (coordinate table excerpt; representative, not entrance)
+- Evidence status: source-linked-unverified
+- Sources inspected 2026-11-28: Municipality https://munisayaxche.gob.gt/turismo/ (excerpt: plazas and restored stelae); INGUAT https://visitguatemala.gt/en/blog/sayaxche-what-see-do/ (page inspected, regional visit context and named sites) (site in jungle and identified structures); https://www.ancient-history-sites.com/sites/seibal/ (excerpt: radial pyramid and relocated monument).
+- Worldwide peers (qualitative; current Caracol, Chavín and Joya de Cerén YAML inspected for reassessments; other peers not checked numerically):
+  - Copán (HN): greater sculptural richness.
+  - Caracol (BZ): broader monumental ensemble.
+  - Palenque (MX): stronger architecture and preservation.
+  - Dos Pilas (GT): comparable historical depth, distinct inscription and plaza scope.
+- Individual scores:
+  - impact: 8.5 — Carved stelae and jungle plazas provide strong visual appeal.
+  - uniqueness: 8.7 — Distinctive monument styles and circular structure add rarity without assuming astronomical function.
+  - significance: 9.0 — Long occupation and Maya political history justify high significance.
+  - experience: 8.6 — Visible groups reward interpretation and walking.
+  - depth: 8.5 — Multiple plazas and carved monuments support a substantial site visit.
+- Categories: history 9.2, architecture 8.7, photography 8.6.
+- Overall: 86.65/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: visitor access and precise representative location where approximate, current peer YAML for additional comparisons, full diagnostics. No admission guarantee.
+
+## sight-gt-cancuen — Cancuén Archaeological Site and Royal Palace — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/cancuen.yaml)
+- Action: new
+- Precise subject: Surviving royal palace and site remains; excludes relocated finds and hypothetical reconstruction.
+- Location check: Speech Carved in Stone https://www.academia.edu/84483636/Speech_Carved_in_Stone_Language_Variation_among_the_Ancient_Lowland_Maya_Volume_1_ (coordinate table excerpt; representative, not entrance)
+- Evidence status: source-linked-unverified
+- Sources inspected 2026-11-28: Vanderbilt https://news.vanderbilt.edu/2004/04/23/archaeologists-unearth-ancient-maya-masterpieces-while-excavating-a-sacred-ball-court-in-guatemala-59676/ (excerpt: extensive palace and artifacts); https://doi.org/10.1017%2FS0956536114000121 (abstract: strategic river port and trade); INGUAT https://visitguatemala.gt/en/blog/sayaxche-what-see-do/ (page inspected, regional visit context and named sites).
+- Worldwide peers (qualitative; current Caracol, Chavín and Joya de Cerén YAML inspected for reassessments; other peers not checked numerically):
+  - Palenque Palace (MX): more exposed and iconic architecture.
+  - Caracol (BZ): greater monumental visitor scope.
+  - Chan Chan (PE): much larger palace-city landscape.
+  - Dos Pilas (GT): related political history but different river-port role.
+- Individual scores:
+  - impact: 8.2 — Large palace plan is impressive, visible condition limits impact.
+  - uniqueness: 8.9 — Royal palace and trade-port role create distinct archaeological character.
+  - significance: 9.2 — Important evidence of Maya economic networks and elite organization.
+  - experience: 8.0 — Interpretive visit has value but public facilities not fully verified.
+  - depth: 8.5 — Complex palace and archaeological groups give substantial research context.
+- Categories: history 9.3, architecture 8.8, culture 8.8.
+- Overall: 85.75/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: visitor access and precise representative location where approximate, current peer YAML for additional comparisons, full diagnostics. No admission guarantee.
+
+## sight-gt-piedras-negras — Piedras Negras Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/piedras-negras.yaml)
+- Action: new
+- Precise subject: Archaeological remains on Guatemalan riverbank; excludes wider Sierra del Lacandón forest and removed museum sculptures.
+- Location check: Speech Carved in Stone https://www.academia.edu/84483636/Speech_Carved_in_Stone_Language_Variation_among_the_Ancient_Lowland_Maya_Volume_1_ (coordinate table excerpt; representative, not entrance)
+- Evidence status: source-linked-unverified
+- Sources inspected 2026-11-28: Harvard Peabody https://peabody.harvard.edu/piedras-negras (excerpt: Usumacinta setting, groups, rock sculpture and removed monuments); FAMSI https://www.famsi.org/research/piedras_negras/u_penn/index.htm (excerpt: role in development of Maya archaeology); CONAP https://turismo-sigap.conap.gob.gt/rutas-turisticas/ruta-del-mundo-maya-peten/ (search excerpt: named sites on protected-area route).
+- Worldwide peers (qualitative; current Caracol, Chavín and Joya de Cerén YAML inspected for reassessments; other peers not checked numerically):
+  - Yaxchilán (MX): similar river environment, more visible sculpture.
+  - Copán (HN): richer exposed carved monuments.
+  - Caracol (BZ): greater standing architecture and visitor infrastructure.
+  - Sierra del Lacandón (GT): wider natural area excluded from this score.
+- Individual scores:
+  - impact: 8.5 — Remote forest plazas and monumental remains offer strong impact.
+  - uniqueness: 8.9 — Rock-carved inscriptions and dynastic history distinguish the site.
+  - significance: 9.3 — Major center in Maya epigraphic and archaeological research.
+  - experience: 8.1 — Focused archaeological exploration, without assumed infrastructure or unrestricted access.
+  - depth: 8.8 — Multiple groups and historical context offer considerable depth.
+- Categories: history 9.4, architecture 8.8, photography 8.7.
+- Overall: 87.30/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: visitor access and precise representative location where approximate, current peer YAML for additional comparisons, full diagnostics. No admission guarantee.
+
+## sight-gt-el-zotz — El Zotz Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/el-zotz.yaml)
+- Action: new
+- Precise subject: Archaeological site groups, not the entire San Miguel La Palotada biotope or a guaranteed bat spectacle.
+- Location check: ArcheoAtlas https://archeoatlas.com/country/guatemala (coordinate table excerpt; representative, not entrance)
+- Evidence status: source-linked-unverified
+- Sources inspected 2026-11-28: Asociación Tikal https://www.asociaciontikal.com/simposio-26-ano-2012-2/048-entre-conchas-y-oceanos-analizando-los-artefactos-malacologicos-procedentes-del-entierro-9-de-el-zotz-peten-guatemala-yeny-myshell-gutierrez-castillo-stephen-houston-edwin-roman-thomas-garr/ (excerpt: named palace and temple groups); CONAP https://turismo-sigap.conap.gob.gt/rutas-turisticas/ruta-del-mundo-maya-peten/ (search excerpt: named sites on protected-area route); Mapcarta https://mapcarta.com/34906448 (excerpt: identity and position west of Tikal).
+- Worldwide peers (qualitative; current Caracol, Chavín and Joya de Cerén YAML inspected for reassessments; other peers not checked numerically):
+  - Caracol (BZ): much stronger exposed monument scale.
+  - Calakmul (MX): larger coherent jungle-city landscape.
+  - Joya de Cerén (SV): greater rarity of in situ preservation.
+  - Uaxactún (GT): stronger documented ceremonial visitor circuit.
+- Individual scores:
+  - impact: 8.3 — Forest ruins and architectural groups provide strong archaeological atmosphere.
+  - uniqueness: 8.8 — Distinct royal and temple complexes support unusual local heritage.
+  - significance: 9.0 — Research contributes to understanding Maya regional politics and ritual.
+  - experience: 8.2 — Focused forest site visit can reward specialists; excavated tomb access not assumed.
+  - depth: 8.4 — Multiple groups offer interpretive breadth without counting the entire reserve.
+- Categories: history 9.2, architecture 8.7, nature 8.6, photography 8.6.
+- Overall: 85.60/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: visitor access and precise representative location where approximate, current peer YAML for additional comparisons, full diagnostics. No admission guarantee.
+
+## sight-gt-el-mirador — El Mirador Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/el-mirador.yaml)
+- Action: rescore
+- Precise subject: Named archaeological city, not the full Cuenca Mirador or separate neighboring sites.
+- Location check: Existing coordinate retained; ArcheoAtlas excerpt independently corroborates approximate location.
+- Evidence status: fact-checked
+- Sources inspected 2026-11-28: Visit El Mirador https://visitelmirador.com.gt/en/highlights/el-mirador/ (opened: 35 triadic complexes, roads, waterworks and La Danta, El Tigre, Great Acropolis); Yale eHRAF https://ehrafarchaeology.yale.edu/traditions/ny52/documents/012 (excerpt: Late Preclassic monumental structures). No superlative pyramid volume claim used.
+- Worldwide peers (qualitative; current Caracol, Chavín and Joya de Cerén YAML inspected for reassessments; other peers not checked numerically):
+  - Caracol (BZ, 91.10): smaller monumental and early urban scope.
+  - Chavín (PE, 88.65): exceptional ritual and iconographic site but smaller city scale.
+  - Joya de Cerén (SV, 91.05): rarer domestic preservation, smaller architecture.
+  - Cuenca Mirador (GT, 93.75): broader regional ensemble; separate site must not inherit its full scope.
+- Individual scores:
+  - impact: 9.0 → 9.3 — La Danta and major ceremonial complexes justify stronger monument impact.
+  - uniqueness: 9.1 → 9.4 — Early large-scale urban planning and triadic complexes are unusually distinctive.
+  - significance: 9.2 → 9.5 — Major evidence for early Maya urbanism justifies 9.5 significance.
+  - experience: 8.5 → 8.6 — Jungle context and monuments offer rewarding exploration, but much remains covered and difficult to interpret.
+  - depth: 8.8 → 9.2 — Multiple major architectural groups and roads add depth, without including neighboring sites.
+- Categories: history 9.5, architecture 9.4, adventure 9.3.
+- Overall: 89.70 → 92.50/100.
+- High-score challenge: Significance and history 9.5+ reflect site-specific exceptional evidence described above, compared with Chavín and Joya de Cerén; not an automatic designation bonus. The named El Mirador city warrants 90+ for monument scale, early urban development and breadth but remains below the regional basin. No approved 10 requested.
+- Earlier decision: Prior entries in this file retained.
+- Remaining verification: visitor access and precise representative location where approximate, current peer YAML for additional comparisons, full diagnostics. No admission guarantee.
+
+## sight-gt-quirigua — Quiriguá Archaeological Park — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/quirigua.yaml)
+- Action: rescore
+- Precise subject: Surviving park and monuments, not nearby Copán or other Maya sites.
+- Location check: Existing coordinates retained; atlas excerpt corroborates.
+- Evidence status: source-linked-unverified
+- Sources inspected 2026-11-28: UNESCO https://whc.unesco.org/en/list/149 (excerpt: eighth-century monuments and artistic influence; full page 403); Smithsonian https://maya.nmai.si.edu/gallery/quirigua (excerpt: 10.6 m Stela E; full page error); INGUAT https://visitguatemala.gt/en/archaeological-sites/quirigua/ (excerpt: tallest freestanding Maya stela, approximate dimensions).
+- Worldwide peers (qualitative; current Caracol, Chavín and Joya de Cerén YAML inspected for reassessments; other peers not checked numerically):
+  - Copán (HN): broader ensemble with abundant outstanding sculpture.
+  - Caracol (BZ, 91.10): greater monumental scale, less concentrated stela focus.
+  - Chavín (PE, 88.65): comparable exceptional carved stone traditions.
+  - Joya de Cerén (SV, 91.05): more rare domestic archaeology, different visit.
+- Individual scores:
+  - impact: 8.4 → 8.6 — Exceptional standing carved monoliths justify modest impact increase.
+  - uniqueness: 9.0 → 9.4 — Unusually tall stelae and zoomorphic sculptures strengthen uniqueness.
+  - significance: 9.2 → 9.6 — Influential Classic Maya monumental sculpture and inscriptions justify exceptional significance.
+  - experience: 8.3 → 8.5 — Concentrated monument encounter rewards close inspection.
+  - depth: 8.0 → 8.3 — Several monuments and plazas give depth but less than extensive city ruins.
+- Categories: history 9.6, architecture 8.8, photography 9.0.
+- Overall: 86.55 → 89.55/100.
+- High-score challenge: Significance and history 9.5+ reflect site-specific exceptional evidence described above, compared with Chavín and Joya de Cerén; not an automatic designation bonus. Physical impact and visitor scope keep the site below 90. No approved 10 requested.
+- Earlier decision: Prior entries in this file retained.
+- Remaining verification: visitor access and precise representative location where approximate, current peer YAML for additional comparisons, full diagnostics. No admission guarantee.
+
+## sight-gt-takalik-abaj — Tak’alik Ab’aj Archaeological Park — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/takalik-abaj.yaml)
+- Action: rescore
+- Precise subject: National archaeological park central group and public interpretation; excludes private ritual access and unexcavated outer site.
+- Location check: UNESCO coordinates N14 38 19 W91 43 57 converted to decimal; existing representative point corrected.
+- Evidence status: fact-checked
+- Sources inspected 2026-11-28: UNESCO https://whc.unesco.org/en/list/1663/ (opened: 800 BCE–900 CE, Olmec–Maya transition, sculptural styles, water management, living sacred use and central-group property limits); INGUAT https://visitguatemala.gt/en/archaeological-sites/takalik-abaj/ (excerpt: ceremonial altars, channels and Stela 5).
+- Worldwide peers (qualitative; current Caracol, Chavín and Joya de Cerén YAML inspected for reassessments; other peers not checked numerically):
+  - Chavín (PE, 88.65): similarly crucial early cultural transition and ritual heritage.
+  - Caracol (BZ, 91.10): greater monumental visual impact.
+  - Joya de Cerén (SV, 91.05): extraordinary preservation and narrower historical period.
+  - Quiriguá (GT): stronger standing monolith spectacle, different chronological significance.
+- Individual scores:
+  - impact: 8.1 → 8.3 — Sculptures and terraces are meaningful but lower physical impact than monumental Maya cities.
+  - uniqueness: 8.9 → 9.4 — Unusually diverse sculptural styles documenting a major cultural transition justify increase.
+  - significance: 9.2 → 9.6 — Evidence of early writing, urbanism and cultural exchange supports exceptional significance.
+  - experience: 8.1 → 8.4 — Public archaeological interpretation is rewarding without crediting private ceremonies.
+  - depth: 8.0 → 8.6 — Long occupation, diverse sculpture and drainage systems support greater depth.
+- Categories: history 9.6, architecture 8.8, culture 9.2.
+- Overall: 85.10 → 88.80/100.
+- High-score challenge: Significance and history 9.5+ reflect site-specific exceptional evidence described above, compared with Chavín and Joya de Cerén; not an automatic designation bonus. Physical impact and visitor scope keep the site below 90. No approved 10 requested.
+- Earlier decision: Prior entries in this file retained.
+- Remaining verification: visitor access and precise representative location where approximate, current peer YAML for additional comparisons, full diagnostics. No admission guarantee.

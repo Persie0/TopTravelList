@@ -1,0 +1,17 @@
+id: sight-gt-el-zotz
+name: "El Zotz Archaeological Site"
+location:
+  country_code: GT
+  latitude: 17.2833
+  longitude: -89.8
+scores:
+  impact: 8.3
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.2
+  depth: 8.4
+  categories:
+    history: 9.2
+    architecture: 8.7
+    nature: 8.6
+    photography: 8.6

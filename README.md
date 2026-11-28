@@ -180,7 +180,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Grenada](countries/GD/) (`GD`) | [12](countries/GD/cities.md) | [33](countries/GD/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Grenada) |
 | [Guadeloupe](countries/GP/) (`GP`) | [5](countries/GP/cities.md) | [32](countries/GP/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Guadeloupe) |
 | [Guam](countries/GU/) (`GU`) | [5](countries/GU/cities.md) | [17](countries/GU/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Guam) |
-| [Guatemala](countries/GT/) (`GT`) | [12](countries/GT/cities.md) | [50](countries/GT/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Guatemala) |
+| [Guatemala](countries/GT/) (`GT`) | [12](countries/GT/cities.md) | [57](countries/GT/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Guatemala) |
 | [Guernsey](countries/GG/) (`GG`) | [4](countries/GG/cities.md) | [22](countries/GG/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Guernsey) |
 | [Guinea](countries/GN/) (`GN`) | [14](countries/GN/cities.md) | [30](countries/GN/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Guinea) |
 | [Guinea-Bissau](countries/GW/) (`GW`) | [13](countries/GW/cities.md) | [25](countries/GW/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Guinea-Bissau) |

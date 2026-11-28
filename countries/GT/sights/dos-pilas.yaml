@@ -1,0 +1,16 @@
+id: sight-gt-dos-pilas
+name: "Dos Pilas Archaeological Park"
+location:
+  country_code: GT
+  latitude: 16.4458
+  longitude: -90.2958
+scores:
+  impact: 8.2
+  uniqueness: 8.8
+  significance: 9.2
+  experience: 8.2
+  depth: 8.4
+  categories:
+    history: 9.3
+    architecture: 8.5
+    culture: 8.7
