@@ -1065,3 +1065,10 @@
 - [YAML](../../../countries/PA/sights/coiba-national-park-and-special-zone-of-marine-protection.yaml) · Action: fact-check-only · **source-linked-unverified**.
 - Sources inspected: [Tourism Panama park guide](https://www.tourismpanama.com/outdoors-and-nature/nature-parks/national-parks/coiba-national-park/) and [diving and snorkelling guide](https://www.tourismpanama.com/outdoors-and-nature/outdoor-adventure/diving-snorkeling/).
 - Retain 94.15 provisionally because multiple marine sites, shore hikes and mangrove activities are documented, not merely because the protected area is large. Permitted routes, encounters and high category scores remain provisional. Additional specialist peer comparisons and coordinate checking outstanding.
+
+## sight-pa-darien-national-park — Darien National Park — 2026-11-28 post-merge 93+ scope check
+
+- [YAML](../../../countries/PA/sights/darien-national-park.yaml) · Action: source/scope check only · **source-linked-unverified**.
+- Evidence reviewed 2026-11-28: [UNESCO](https://whc.unesco.org/en/list/159/) confirms intercontinental ecological connection and diverse coast, mangrove and tropical forest habitats. Uniqueness 9.5, significance/nature/wildlife 9.6 reflect this mosaic; impact is landscape-based, experience/depth require bounded lawful visits. Do not conflate the park with the entire Darién Gap or assume community access and wildlife sightings.
+- Qualitative comparison leads (peer YAML ratings not independently checked): Los Katíos (Colombia): adjoining biogeographic peer; Corcovado (Costa Rica): smaller rainforest park; Manu (Peru): different Amazon/Andes gradient; Sian Ka'an (Mexico): coastal wetland comparator.
+- Current I/U/S/E/D: 9.3 / 9.5 / 9.6 / 9.0 / 9.2; overall 93.55/100. All ratings retained provisionally; no coordinate or category changes. This limited review is not full international calibration or verification of current access.
