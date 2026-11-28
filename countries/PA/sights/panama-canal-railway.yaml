@@ -1,0 +1,16 @@
+id: sight-pa-panama-canal-railway
+name: "Panama Canal Railway Historic Interoceanic Passenger Journey"
+location:
+  country_code: PA
+  latitude: 8.972
+  longitude: -79.561
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.1
+  experience: 8.7
+  depth: 8.6
+  categories:
+    history: 9.3
+    photography: 9.2
+    nature: 9.0

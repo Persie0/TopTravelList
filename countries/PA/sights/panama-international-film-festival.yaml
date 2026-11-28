@@ -1,0 +1,15 @@
+id: sight-pa-panama-international-film-festival
+name: "Panama City International Film Festival IFF Public Screening Programme"
+location:
+  country_code: PA
+  latitude: 8.981
+  longitude: -79.519
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 9.1
+  depth: 9.1
+  categories:
+    culture: 9.4
+    nightlife: 9.1

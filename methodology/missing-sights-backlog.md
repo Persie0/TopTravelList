@@ -5858,3 +5858,20 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] PA — Summit Municipal Park Botanical Collections and Forest Paths: 82.45/100 (desk-based provisional).
 
 12 provisional additions (10 source-linked, 2 desk-based), 3 90+, 24 ranking-row comparisons (12 international, 12 domestic). PA 77 ranked / 77 total, +24 since baseline 53; 10 new 90+ across two passes. Parará Purú community-authorized cultural programme, La Pintada craft/museum and Santa Catalina surf researched. UNESCO hat inscription applies to artisanal techniques, not a building. Chagres forest and Coiba diving not credited again. San San Pond Sak observation excludes feeding and handling; Punta Patiño distinct from Darién park. Cerro Hoya desk-based, routes pending. Railway passenger programme and Pearl Islands whale watching deferred for distinct visitor scope and continuity checks. Prior UNESCO 5 inscribed and 1 tentative represented, component audit and prior Pollera deferrals retained. Panama OPEN. Coordinates approximate, access and future schedules unverified. Existing ratings preserved. Full Python validation, independent peer YAML and same-type global calibration pending.
+
+### Pass 332 — Panama regional festivals, wildlife and railway heritage
+
+- [x] PA — Las Tablas Desfile de las Mil Polleras Public Traditional Dress Parade: 92.50/100 (source-linked provisional).
+- [x] PA — Ocú National Manito Festival Public Folklore and Traditional Music Programme: 91.15/100 (source-linked provisional).
+- [x] PA — Isla Cañas Wildlife Refuge Guided Sea Turtle Nesting and Arribada Experience: 91.30/100 (source-linked provisional).
+- [x] PA — Pearl Islands Guided Seasonal Humpback Whale Watching: 90.75/100 (source-linked provisional).
+- [x] PA — Panama City International Film Festival IFF Public Screening Programme: 90.10/100 (source-linked provisional).
+- [x] PA — Panama Canal Railway Historic Interoceanic Passenger Journey: 89.60/100 (source-linked provisional).
+- [x] PA — Antón National Toro Guapo Festival Public Folklore Programme: 89.25/100 (source-linked provisional).
+- [x] PA — Antón Santo Cristo de Esquipulas Public Religious Procession: 87.70/100 (source-linked provisional).
+- [x] PA — La Yeguada Forest Reserve Mountain Lake and Forest Trails: 84.70/100 (source-linked provisional).
+- [x] PA — Gulf of Montijo Guided Mangrove and Coastal Wetland Excursion: 87.10/100 (source-linked provisional).
+- [x] PA — Natá Basilica Santiago Apóstol Colonial Religious Architecture: 85.75/100 (desk-based provisional).
+- [x] PA — El Valle de Antón Butterfly Haven Guided Butterfly Garden: 82.80/100 (desk-based provisional).
+
+12 provisional additions (10 source-linked, 2 desk-based), 5 90+, 24 ranking-row comparisons (12 international, 12 domestic). PA 89 ranked / 89 total, +36 since baseline 53; 15 new 90+ across three passes. January Mil Polleras distinct public parade from July craft competition; Manito, Isla Cañas, Pearl Islands whale watching and IFF sourced. Isla Cañas declining nesting frequency considered separately from access. Pearl Islands original scope ordinary island-hopping, whale excursion distinct. Railway passenger cruise excursions sourced, independent departure continuity unverified; canal scenery non-additive. Toro Guapo rescheduled for December 2026, no occurrence assumed. La Yeguada and Montijo listed in official protected-area portal. Prior UNESCO 5 inscribed and 1 tentative represented; component audit and November pollera deferral retained. Panama OPEN. Coordinates approximate, current access and future schedules unverified. Existing ratings preserved. Full Python validation, independent peer YAML and same-type global calibration pending.
