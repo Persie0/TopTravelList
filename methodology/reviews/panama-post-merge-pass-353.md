@@ -1,0 +1,12 @@
+# Panama post-merge screening — pass 353
+
+Continues pass 352 (229a187ce104435e174e9afbc5f533d534714f4a); 209 ranked baseline, four additions. Pass 332 remains unavailable; reconcile before merge. All new scores provisional editorial estimates, supported by sources for scope and existence. Locations representative and not exact entrances.
+
+| Candidate | Overall | Evidence and scope |
+| --- | ---: | --- |
+| Bocas del Toro Feria del Mar | 83.50 | Municipal cultural inventory identifies annual September fair on the Istmito coastal grounds. Representative beach point, not exact fair entrance; future schedule not confirmed. https://bocas.municipios.gob.pa/cultura/ ; https://mapcarta.com/W228757408 |
+| David International Agricultural and Cultural Fair | 84.15 | Agricultural exhibitions and regional culture; agriculture ministry confirms 2026 edition. Coordinates represent government-reported event locality, not gate. https://feriadedavid.com/ ; https://mida.gob.pa/2026/03/10/productores-se-preparan-para-participar-en-la-exposicion-agricola-de-la-feria-de-david-2/ |
+| Cerro Punta Highland Farm and Strawberry Harvest Circuit | 83.75 | Highland farm interpretation and strawberry harvesting, not coffee tasting or La Amistad trails. Representative village pin; harvest depends on season and farm consent. https://www.tourismpanama.com/blog/post/take-in-the-country-in-tierras-altas/ ; https://circuitodelcafe.com/fincas-agroturisticas/cerro-punta-sa ; https://mapcarta.com/Cerro_Punta |
+| Pedasí Historic Centre and Colonial Streets | 79.65 | Historic streets and central plaza rather than general city or beaches; central park mapped point. No UNESCO status claimed. https://www.lonelyplanet.com/articles/best-places-to-visit-in-panama ; https://libelulaspedasi.com/what-to-do-in-pedasi/ ; https://mapcarta.com/W606136546 |
+
+No new 90+ ratings. Feria del Mar and David fair distinct regional events; highland circuit distinct from coffee farms; Pedasí score limited to architecture and plaza, not general destination. Monkey Island boat tours not separately added because Gatún Lake already covers visitor boat outings; no wildlife feeding credited. All 213 weighted rows and unique slugs checked in JS. 0 type labels and 0 map links corrected against generator conventions. Full Python generator/schema validation and prior reconciliation outstanding. No existing YAML changed or Actions manually dispatched.
