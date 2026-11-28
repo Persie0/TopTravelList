@@ -1,0 +1,16 @@
+id: sight-mx-morro-ayuta-turtle-arribada
+name: "Playa Morro Ayuta Olive Ridley Turtle Arribadas"
+location:
+  country_code: MX
+  latitude: 15.86
+  longitude: -95.68
+scores:
+  impact: 9.6
+  uniqueness: 9.5
+  significance: 9.6
+  experience: 8.7
+  depth: 8.4
+  categories:
+    wildlife: 9.7
+    nature: 9.5
+    photography: 9.1

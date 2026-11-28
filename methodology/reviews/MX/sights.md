@@ -7796,3 +7796,232 @@ The already-ranked agave landscape and ancient tequila facilities are not duplic
 - Earlier decision: none.
 - Remaining verification: coordinate triangulation, independent fact checking, numerical peer comparison and global Python validation.
 
+## Pass 433 — Wildlife and marine biodiversity
+
+Existing Ría Lagartos and Los Petenes–Ría Celestún records already encompass flamingo habitat; no duplicate flamingo records added. Offshore sardine run is distinct from the gray whale lagoon experience.
+
+## sight-mx-escobilla-turtle-arribada — Playa Escobilla Olive Ridley Turtle Arribadas — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/escobilla-turtle-arribada.yaml)
+- Action: new
+- Precise subject: Mass nesting at the protected coastal sanctuary, not captive hatchling releases.
+- Location check: 15.72, -96.73; broad representative geographic point, not a navigation or wildlife observation location; not independently surveyed.
+- Evidence status: source-linked-unverified; indexed institutional or research descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://descubreanp.conanp.gob.mx/en/conanp/ANP?suri=130; https://www.gob.mx/profepa/prensa/concluye-tercera-arribada-de-tortugas-en-oaxaca-llegan-mas-de-312-mil-ejemplares-a-anidar?state=published.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Ostional (CR): comparable exceptional olive ridley arribadas
+  - La Flor (NI): comparable nesting spectacle
+  - Gahirmatha (IN): globally significant mass nesting
+  - Morro Ayuta (MX): separate major site
+- Individual scores:
+  - impact: 9.7 — Extraordinary mass nesting spectacle.
+  - uniqueness: 9.6 — Globally rare synchronized nesting event.
+  - significance: 9.7 — Among the world's most important olive ridley nesting beaches.
+  - experience: 9.0 — Authorized guided seasonal observation.
+  - depth: 8.6 — Repeated nesting waves and conservation interpretation.
+- Categories: wildlife 9.8, nature 9.5, photography 9.2.
+- Overall: 94.60/100.
+- High-score challenge: Impact 9.7, uniqueness 9.6, significance 9.7, wildlife 9.8 and nature 9.5 reflect globally rare mass nesting and CONANP's reported leading nesting abundance; no guarantee of a specific count on any visit. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinates, independent source triangulation, numerical peer comparisons and global Python validation; current visitor permissions not verified.
+
+## sight-mx-morro-ayuta-turtle-arribada — Playa Morro Ayuta Olive Ridley Turtle Arribadas — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/morro-ayuta-turtle-arribada.yaml)
+- Action: new
+- Precise subject: Distinct mass nesting sanctuary on the Oaxaca coast.
+- Location check: 15.86, -95.68; broad representative geographic point, not a navigation or wildlife observation location; not independently surveyed.
+- Evidence status: source-linked-unverified; indexed institutional or research descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.gob.mx/conanp/prensa/con-ocho-arribadas-de-tortuga-golfina-el-santuario-playa-morro-ayuta-registra-una-temporada-record; https://www.gob.mx/conanp/prensa/la-conanp-reporta-el-arribo-de-291-mil-tortugas-golfinas-en-el-santuario-playa-morro-ayuta-oaxaca?idiom=es.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Escobilla (MX): exceptionally high recorded abundance
+  - Ostional (CR): comparable mass nesting
+  - La Flor (NI): comparable conservation beach
+  - Gahirmatha (IN): major nesting concentration
+- Individual scores:
+  - impact: 9.6 — Large simultaneous nesting events.
+  - uniqueness: 9.5 — Rare arribada phenomenon.
+  - significance: 9.6 — Internationally important reproduction site.
+  - experience: 8.7 — Potential seasonal observation under sanctuary rules.
+  - depth: 8.4 — Focused nesting phenomenon and coastal habitat.
+- Categories: wildlife 9.7, nature 9.5, photography 9.1.
+- Overall: 93.20/100.
+- High-score challenge: Impact 9.6, uniqueness 9.5, significance 9.6, wildlife 9.7 and nature 9.5 supported by eight arribadas in a record season and rare global nesting strategy; no unrestricted visitation assumed. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinates, independent source triangulation, numerical peer comparisons and global Python validation; current visitor permissions not verified.
+
+## sight-mx-rancho-nuevo-kemps-ridley — Rancho Nuevo Kemp's Ridley Turtle Sanctuary — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/rancho-nuevo-kemps-ridley.yaml)
+- Action: new
+- Precise subject: Primary Kemp's ridley nesting sanctuary, not the entire western Gulf coastline.
+- Location check: 23.18, -97.77; broad representative geographic point, not a navigation or wildlife observation location; not independently surveyed.
+- Evidence status: source-linked-unverified; indexed institutional or research descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.fisheries.noaa.gov/species/kemps-ridley-turtle/conservation-management; https://www.fws.gov/story/2023-05/saving-kemps-ridley-sea-turtle; https://www.mdpi.com/2075-1729/16/4/631.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Escobilla (MX): larger olive ridley events
+  - Ostional (CR): comparable reproductive phenomenon
+  - Tortuguero (CR): major green turtle nesting
+  - Mon Repos (AU): organized loggerhead observation
+- Individual scores:
+  - impact: 9.2 — Synchronized nesting of rare turtles.
+  - uniqueness: 9.6 — Exceptional concentration of one species' reproduction.
+  - significance: 9.8 — Critical global conservation role for Kemp's ridley.
+  - experience: 8.3 — Seasonal and tightly controlled observation potential.
+  - depth: 8.5 — Conservation context and focused beach habitat.
+- Categories: wildlife 9.7, nature 9.3.
+- Overall: 92.15/100.
+- High-score challenge: Uniqueness 9.6, significance 9.8 and wildlife 9.7 reflect the exceptional species concentration and conservation significance; historical 1947 counts are not treated as current visitor conditions. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinates, independent source triangulation, numerical peer comparisons and global Python validation; current visitor permissions not verified.
+
+## sight-mx-magdalena-bay-sardine-run — Magdalena Bay Offshore Sardine and Striped Marlin Run — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/magdalena-bay-sardine-run.yaml)
+- Action: new
+- Precise subject: Offshore autumn pelagic feeding events, explicitly excluding the existing gray whale lagoon record.
+- Location check: 24.63, -112.1; broad representative geographic point, not a navigation or wildlife observation location; not independently surveyed.
+- Evidence status: source-linked-unverified; indexed institutional or research descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://dan.org/alert-diver/article/mexicos-sardine-run/; https://dan.org/alert-diver/article/the-shifting-sea/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - South African Sardine Run (ZA): larger and more diverse migration
+  - Ningaloo (AU): different pelagic encounters
+  - Azores blue shark trips (PT): distinct offshore experience
+  - La Ventana mobula aggregation (MX): different seasonal wildlife phenomenon
+- Individual scores:
+  - impact: 9.5 — Dramatic dynamic baitfish and predator encounters.
+  - uniqueness: 9.4 — Distinctive striped marlin feeding aggregation.
+  - significance: 9.1 — Important seasonal marine ecology.
+  - experience: 9.1 — Guided offshore observation when conditions permit.
+  - depth: 8.8 — Varied predator behavior and multiple days of encounters.
+- Categories: wildlife 9.6, adventure 9.4, nature 9.3, photography 9.4.
+- Overall: 92.65/100.
+- High-score challenge: Impact 9.5 and wildlife 9.6 supported by independent diving-medicine publication accounts of dynamic multi-predator feeding; changing species composition and weather constrain predictability. Gateway-region map point, not a precise offshore encounter. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinates, independent source triangulation, numerical peer comparisons and global Python validation; current visitor permissions not verified.
+
+## sight-mx-balam-ku-bat-volcano — Balam Kú Volcán de los Murciélagos Bat Emergence — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/balam-ku-bat-volcano.yaml)
+- Action: new
+- Precise subject: Specific dusk emergence at the cave in Balam Kú, not Calakmul ruins or forest generally.
+- Location check: 18.52, -89.82; broad representative geographic point, not a navigation or wildlife observation location; not independently surveyed.
+- Evidence status: source-linked-unverified; indexed institutional or research descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.scielo.org.mx/scielo.php?pid=S2007-33642012000100004&script=sci_arttext; https://www.scielo.org.mx/scielo.php?pid=S2007-90282019000100079&script=sci_arttext_plus&tlng=es; https://descubreanp.conanp.gob.mx/es/conanp/ANP?suri=198.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Bracken Cave (US): greater documented colony scale
+  - Deer Cave Mulu (MY): comparable dramatic emergence
+  - Khao Yai bat caves (TH): comparable dusk experience
+  - Sótano de las Golondrinas (MX): different bird emergence
+- Individual scores:
+  - impact: 9.4 — Dense airborne columns of bats.
+  - uniqueness: 9.4 — Unusual multispecies cave emergence.
+  - significance: 9.2 — Important regional bat conservation refuge.
+  - experience: 8.9 — Focused dusk observation from authorized trails.
+  - depth: 8.0 — Short-duration single site experience.
+- Categories: wildlife 9.5, nature 9.3, photography 8.9.
+- Overall: 91.45/100.
+- High-score challenge: Wildlife 9.5 reflects multispecies abundance documented in research; published estimates vary widely, so no specific current bat count is assumed. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinates, independent source triangulation, numerical peer comparisons and global Python validation; current visitor permissions not verified.
+
+## sight-mx-arrecife-alacranes — Arrecife Alacranes National Park — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/arrecife-alacranes.yaml)
+- Action: new
+- Precise subject: Offshore coral reef complex and associated cays.
+- Location check: 22.5, -89.7; broad representative geographic point, not a navigation or wildlife observation location; not independently surveyed.
+- Evidence status: source-linked-unverified; indexed institutional or research descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.gob.mx/conanp/documentos/parque-nacional-arrecife-alacranes?state=published; https://www.unesco.org/en/mab/arrecife-alacranes?hub=66369.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Great Barrier Reef (AU): much greater scale
+  - Tubbataha (PH): outstanding offshore reef
+  - Belize Barrier Reef (BZ): much larger system
+  - Banco Chinchorro (MX): comparable Mexican offshore reef
+- Individual scores:
+  - impact: 9.1 — Extensive coral habitats and clear marine scenery.
+  - uniqueness: 9.0 — Distinctive large Gulf reef structure.
+  - significance: 9.4 — Largest coral structure in Gulf of Mexico and UNESCO biosphere reserve.
+  - experience: 9.0 — Diving and authorized marine recreation.
+  - depth: 9.2 — Multiple reef habitats and cays.
+- Categories: nature 9.4, wildlife 9.3, adventure 9.2, photography 9.1.
+- Overall: 91.30/100.
+- High-score challenge: 90+ grounded in the reef's documented scale, ecology and dive experience, not designation alone. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinates, independent source triangulation, numerical peer comparisons and global Python validation; current visitor permissions not verified.
+
+## sight-mx-playa-del-carmen-bull-sharks — Playa del Carmen Seasonal Bull Shark Aggregation — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/playa-del-carmen-bull-sharks.yaml)
+- Action: new
+- Precise subject: Seasonal adult female bull shark aggregation offshore; not provisioned feeding as an intrinsic attraction.
+- Location check: 20.625, -87.066; broad representative geographic point, not a navigation or wildlife observation location; not independently surveyed.
+- Evidence status: source-linked-unverified; indexed institutional or research descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2023.1193563/full; https://www.pelagioskakunja.org/playa-del-carmen.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Beqa Lagoon (FJ): more species in provisioned dives
+  - Aliwal Shoal (ZA): distinct shark assemblage
+  - Bimini (BS): comparable shark encounters
+  - Guadalupe (MX): different species and former cage diving
+- Individual scores:
+  - impact: 9.2 — Large shark encounters.
+  - uniqueness: 9.0 — Unusual predictable seasonal concentration.
+  - significance: 9.2 — Documented reproductive ecology.
+  - experience: 9.1 — Qualified guided diving potential.
+  - depth: 8.5 — Focused seasonal encounter.
+- Categories: wildlife 9.4, adventure 9.3, photography 9.0.
+- Overall: 90.65/100.
+- High-score challenge: 90+ supported by documented free-swimming female sharks and research; no endorsement of feeding or guaranteed close encounters. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinates, independent source triangulation, numerical peer comparisons and global Python validation; current visitor permissions not verified.
+
+## sight-mx-ixtapilla-turtle-arribada — Ixtapilla Olive Ridley Turtle Arribadas — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/ixtapilla-turtle-arribada.yaml)
+- Action: new
+- Precise subject: Community coastal mass nesting site in Aquila municipality.
+- Location check: 18.24, -103.56; broad representative geographic point, not a navigation or wildlife observation location; not independently surveyed.
+- Evidence status: source-linked-unverified; indexed institutional or research descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://michoacan.gob.mx/noticias/inicia-arribazon-masiva-de-tortuga-marina-en-playas-de-michoacan/; https://compesca.michoacan.gob.mx/comienzan-arribazones-masivas-de-tortugas-marinas-en-michoacan-compesca/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Escobilla (MX): greater documented abundance
+  - Ostional (CR): larger established nesting destination
+  - La Flor (NI): comparable protected nesting
+  - Tortuguero (CR): broader visitor setting
+- Individual scores:
+  - impact: 9.2 — Large seasonal nesting spectacle.
+  - uniqueness: 9.3 — Rare synchronized nesting.
+  - significance: 9.0 — Important regional conservation site.
+  - experience: 8.8 — Community-managed seasonal experience.
+  - depth: 8.3 — Focused beach and nesting interpretation.
+- Categories: wildlife 9.4, nature 9.2, photography 9.0.
+- Overall: 90.35/100.
+- High-score challenge: 90+ grounded in documented recurring mass nesting; no unsupported equivalence with Escobilla's scale. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinates, independent source triangulation, numerical peer comparisons and global Python validation; current visitor permissions not verified.
+
+## sight-mx-akumal-turtle-bay — Akumal Bay Sea Turtle Observation — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/akumal-turtle-bay.yaml)
+- Action: new
+- Precise subject: Protected bay and authorized observation of feeding turtles.
+- Location check: 20.395, -87.315; broad representative geographic point, not a navigation or wildlife observation location; not independently surveyed.
+- Evidence status: source-linked-unverified; indexed institutional or research descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.gob.mx/conanp/prensa/bahia-de-akumal-ya-cuenta-con-programa-de-proteccion; https://www.gob.mx/conanp/es/articulos/se-reanuda-nado-con-tortugas-en-akumal-102791?idiom=es.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Ningaloo (AU): greater marine diversity
+  - Gili Islands (ID): comparable turtle snorkeling
+  - Apo Island (PH): comparable turtle encounters
+  - Cozumel reefs (MX): broader reef experience
+- Individual scores:
+  - impact: 8.8 — Memorable clear-water turtle sightings.
+  - uniqueness: 8.6 — Comparable shallow-water turtle habitats worldwide.
+  - significance: 8.9 — Important feeding habitat and regulated conservation.
+  - experience: 9.1 — Guided snorkeling when authorized.
+  - depth: 8.5 — Focused bay and seagrass habitat.
+- Categories: wildlife 9.2, nature 9.0, adventure 8.8, beaches 8.9.
+- Overall: 87.85/100.
+- High-score challenge: Below 90; focused bay and comparable international encounters. Current authorization not checked. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinates, independent source triangulation, numerical peer comparisons and global Python validation; current visitor permissions not verified.
+

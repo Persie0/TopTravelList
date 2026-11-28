@@ -1,0 +1,16 @@
+id: sight-mx-escobilla-turtle-arribada
+name: "Playa Escobilla Olive Ridley Turtle Arribadas"
+location:
+  country_code: MX
+  latitude: 15.72
+  longitude: -96.73
+scores:
+  impact: 9.7
+  uniqueness: 9.6
+  significance: 9.7
+  experience: 9.0
+  depth: 8.6
+  categories:
+    wildlife: 9.8
+    nature: 9.5
+    photography: 9.2

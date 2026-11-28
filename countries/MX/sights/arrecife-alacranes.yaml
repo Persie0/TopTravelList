@@ -1,0 +1,17 @@
+id: sight-mx-arrecife-alacranes
+name: "Arrecife Alacranes National Park"
+location:
+  country_code: MX
+  latitude: 22.5
+  longitude: -89.7
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 9.4
+  experience: 9.0
+  depth: 9.2
+  categories:
+    nature: 9.4
+    wildlife: 9.3
+    adventure: 9.2
+    photography: 9.1

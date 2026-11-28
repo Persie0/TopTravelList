@@ -1,0 +1,16 @@
+id: sight-mx-balam-ku-bat-volcano
+name: "Balam Kú Volcán de los Murciélagos Bat Emergence"
+location:
+  country_code: MX
+  latitude: 18.52
+  longitude: -89.82
+scores:
+  impact: 9.4
+  uniqueness: 9.4
+  significance: 9.2
+  experience: 8.9
+  depth: 8.0
+  categories:
+    wildlife: 9.5
+    nature: 9.3
+    photography: 8.9
