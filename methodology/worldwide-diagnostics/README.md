@@ -9,9 +9,9 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 
 | Flag | Records |
 | --- | ---: |
-| conflicting-declared-status | 828 |
+| conflicting-declared-status | 876 |
 | evidence-review | 17190 |
-| field-9.5-plus | 2169 |
+| field-9.5-plus | 2171 |
 | historical-review-only | 2516 |
 | no-recognized-review-heading | 540 |
 | overall-90-plus | 3207 |
@@ -310,7 +310,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | MG | cities | 6 | 6 | 79.18 | 0 | 0 | 0 | 6 | [Antananarivo](../../countries/MG/cities/antananarivo.yaml) 86.40; [Fianarantsoa](../../countries/MG/cities/fianarantsoa.yaml) 83.35; [Antsiranana](../../countries/MG/cities/antsiranana.yaml) 79.25 |
 | MG | sights | 36 | 36 | 89.32 | 13 | 1 | 11 | 36 | [Tsingy de Bemaraha National Park](../../countries/MG/sights/tsingy-de-bemaraha.yaml) 96.15; [Marojejy National Park](../../countries/MG/sights/marojejy.yaml) 92.85; [Masoala National Park](../../countries/MG/sights/masoala.yaml) 92.60 |
 | MH | cities | 11 | 11 | 71.80 | 0 | 0 | 0 | 11 | [Kili Village](../../countries/MH/cities/kili.yaml) 76.05; [Namdrik Village](../../countries/MH/cities/namdrik.yaml) 76.05; [Ebon Village](../../countries/MH/cities/ebon.yaml) 75.30 |
-| MH | sights | 25 | 25 | 84.00 | 3 | 0 | 1 | 25 | [Bokak Atoll](../../countries/MH/sights/bokak-atoll.yaml) 91.00; [Bikini Atoll Nuclear Test Site](../../countries/MH/sights/bikini-atoll-nuclear-test-site.yaml) 90.95; [Bikar Atoll](../../countries/MH/sights/bikar-atoll.yaml) 90.60 |
+| MH | sights | 25 | 25 | 84.00 | 3 | 0 | 2 | 25 | [Bokak Atoll](../../countries/MH/sights/bokak-atoll.yaml) 91.00; [Bikini Atoll Nuclear Test Site](../../countries/MH/sights/bikini-atoll-nuclear-test-site.yaml) 90.95; [Bikar Atoll](../../countries/MH/sights/bikar-atoll.yaml) 90.60 |
 | MK | cities | 14 | 14 | 77.20 | 0 | 0 | 0 | 14 | [Ohrid](../../countries/MK/cities/ohrid.yaml) 89.70; [Skopje](../../countries/MK/cities/skopje.yaml) 83.15; [Bitola](../../countries/MK/cities/bitola.yaml) 82.30 |
 | MK | sights | 33 | 33 | 86.10 | 2 | 0 | 1 | 33 | [Ohrid Historic Centre](../../countries/MK/sights/ohrid-historic-centre.yaml) 91.50; [Lake Ohrid North Macedonian Shore](../../countries/MK/sights/lake-ohrid-north-macedonian-shore.yaml) 90.35; [Saint John at Kaneo](../../countries/MK/sights/saint-john-at-kaneo.yaml) 88.60 |
 | ML | cities | 11 | 11 | 77.85 | 1 | 0 | 2 | 11 | [Djenné](../../countries/ML/cities/djenne.yaml) 90.40; [Timbuktu](../../countries/ML/cities/timbuktu.yaml) 88.30; [Gao](../../countries/ML/cities/gao.yaml) 80.90 |
@@ -342,7 +342,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | MY | cities | 65 | 65 | 70.25 | 1 | 0 | 1 | 65 | [George Town](../../countries/MY/cities/george-town.yaml) 91.75; [Melaka City](../../countries/MY/cities/melaka-city.yaml) 89.20; [Kuala Lumpur](../../countries/MY/cities/kuala-lumpur.yaml) 87.70 |
 | MY | sights | 213 | 213 | 81.50 | 15 | 1 | 14 | 213 | [Gunung Mulu National Park](../../countries/MY/sights/gunung-mulu-national-park.yaml) 96.65; [Kinabalu Park](../../countries/MY/sights/kinabalu-park.yaml) 94.05; [Sipadan Island Reefs](../../countries/MY/sights/sipadan-island-reefs.yaml) 93.85 |
 | MZ | cities | 7 | 7 | 78.80 | 0 | 0 | 0 | 7 | [Ilha de Moçambique](../../countries/MZ/cities/ilha-de-mocambique.yaml) 89.00; [Maputo](../../countries/MZ/cities/maputo.yaml) 82.50; [Inhambane](../../countries/MZ/cities/inhambane.yaml) 79.50 |
-| MZ | sights | 16 | 16 | 87.72 | 6 | 0 | 5 | 16 | [Bazaruto Archipelago National Park](../../countries/MZ/sights/bazaruto-archipelago-national-park.yaml) 93.55; [Quirimbas Archipelago](../../countries/MZ/sights/quirimbas-archipelago.yaml) 92.40; [Gorongosa National Park](../../countries/MZ/sights/gorongosa-national-park.yaml) 92.20 |
+| MZ | sights | 16 | 16 | 87.72 | 6 | 0 | 6 | 16 | [Bazaruto Archipelago National Park](../../countries/MZ/sights/bazaruto-archipelago-national-park.yaml) 93.55; [Quirimbas Archipelago](../../countries/MZ/sights/quirimbas-archipelago.yaml) 92.40; [Gorongosa National Park](../../countries/MZ/sights/gorongosa-national-park.yaml) 92.20 |
 | NA | cities | 7 | 7 | 78.85 | 0 | 0 | 0 | 7 | [Swakopmund](../../countries/NA/cities/swakopmund.yaml) 84.45; [Lüderitz](../../countries/NA/cities/luderitz.yaml) 83.05; [Windhoek](../../countries/NA/cities/windhoek.yaml) 80.60 |
 | NA | sights | 21 | 21 | 90.40 | 11 | 2 | 10 | 21 | [Namib Sand Sea](../../countries/NA/sights/namib-sand-sea.yaml) 97.00; [Sossusvlei Dune Landscape](../../countries/NA/sights/sossusvlei.yaml) 95.40; [Etosha National Park](../../countries/NA/sights/etosha-national-park.yaml) 94.45 |
 | NC | cities | 4 | 4 | 75.60 | 0 | 0 | 0 | 4 | [Nouméa](../../countries/NC/cities/noumea.yaml) 81.30; [Hienghène](../../countries/NC/cities/hienghene.yaml) 77.60; [Vao](../../countries/NC/cities/vao.yaml) 73.60 |

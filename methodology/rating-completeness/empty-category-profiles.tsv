@@ -47,15 +47,11 @@ countries/DZ/sights/saoura-cultural-park.yaml	sight-dz-saoura-cultural-park	Saou
 countries/DZ/sights/tebessa-archaeological-heritage.yaml	sight-dz-tebessa-archaeological-heritage	Tébessa Archaeological Heritage	DZ	sights
 countries/DZ/sights/tefedest-massif.yaml	sight-dz-tefedest-massif	Tefedest Massif	DZ	sights
 countries/EG/sights/alexandria-heritage-property.yaml	sight-eg-alexandria-heritage-property	Alexandria Ancient Remains and New Library	EG	sights
-countries/EG/sights/ancient-thebes-property.yaml	sight-eg-ancient-thebes-property	Ancient Thebes and its Necropolis UNESCO Property	EG	sights
-countries/EG/sights/memphis-necropolis-property.yaml	sight-eg-memphis-necropolis-property	Memphis and its Necropolis UNESCO Property	EG	sights
-countries/EG/sights/nubian-monuments-property.yaml	sight-eg-nubian-monuments-property	Nubian Monuments from Abu Simbel to Philae	EG	sights
 countries/EG/sights/serabit-el-khadim.yaml	sight-eg-serabit-el-khadim	Serabit el-Khadim Temple	EG	sights
 countries/FJ/cities/labasa.yaml	city-fj-labasa	Labasa	FJ	cities
 countries/FM/cities/palikir.yaml	city-fm-palikir	Palikir	FM	cities
 countries/FM/cities/tofol.yaml	city-fm-tofol	Tofol	FM	cities
 countries/FM/cities/weno.yaml	city-fm-weno	Weno	FM	cities
-countries/GT/sights/cuenca-mirador.yaml	sight-gt-cuenca-mirador	Cuenca Mirador	GT	sights
 countries/GT/sights/sierra-de-las-minas.yaml	sight-gt-sierra-de-las-minas	Sierra de las Minas Biosphere Reserve	GT	sights
 countries/GT/sights/sierra-del-lacandon.yaml	sight-gt-sierra-del-lacandon	Sierra del Lacandón National Park	GT	sights
 countries/HT/sights/drouet-ruins-fort.yaml	sight-ht-drouet-ruins-fort	Drouet Ruins and Fort	HT	sights
@@ -104,7 +100,6 @@ countries/MX/sights/chichimequillas-hacienda.yaml	sight-mx-chichimequillas-hacie
 countries/MX/sights/chicxulub-ring-of-cenotes.yaml	sight-mx-chicxulub-ring-of-cenotes	Ring of Cenotes of Chicxulub Crater	MX	sights
 countries/MX/sights/cuatillos-refugio-chapel.yaml	sight-mx-cuatillos-refugio-chapel	Chapel of the Refugio, Former Hacienda of Cuatillos	MX	sights
 countries/MX/sights/el-fraile-bridge.yaml	sight-mx-el-fraile-bridge	Bridge of El Fraile	MX	sights
-countries/MX/sights/gulf-of-california-protected-areas.yaml	sight-mx-gulf-of-california-protected-areas	Islands and Protected Areas of the Gulf of California	MX	sights
 countries/MX/sights/huichapa-limpia-concepcion-chapel.yaml	sight-mx-huichapa-limpia-concepcion-chapel	Chapel of the Limpia Concepción, Palmitos de Abajo (Huichapa)	MX	sights
 countries/MX/sights/la-quemada-bridge-san-felipe.yaml	sight-mx-la-quemada-bridge-san-felipe	Bridge La Quemada, San Felipe	MX	sights
 countries/MX/sights/la-zarca-san-mateo-chapel.yaml	sight-mx-la-zarca-san-mateo-chapel	Chapel of San Mateo, Former Hacienda of La Zarca	MX	sights
@@ -116,7 +111,6 @@ countries/MX/sights/noria-san-pantaleon-temple.yaml	sight-mx-noria-san-pantaleon
 countries/MX/sights/palmitos-arriba-concepcion-chapel.yaml	sight-mx-palmitos-arriba-concepcion-chapel	Chapel of the Inmaculada Concepción, Palmitos de Arriba	MX	sights
 countries/MX/sights/penuelas-hacienda.yaml	sight-mx-penuelas-hacienda	Former Hacienda of Peñuelas	MX	sights
 countries/MX/sights/popocatepetl-monasteries.yaml	sight-mx-popocatepetl-monasteries	Earliest 16th-Century Monasteries on the Slopes of Popocatepetl	MX	sights
-countries/MX/sights/revillagigedo-archipelago.yaml	sight-mx-revillagigedo-archipelago	Archipiélago de Revillagigedo	MX	sights
 countries/MX/sights/san-jose-de-avino-temple.yaml	sight-mx-san-jose-de-avino-temple	Temple of San José de Avino	MX	sights
 countries/MX/sights/san-nicolas-de-quijas-chapel.yaml	sight-mx-san-nicolas-de-quijas-chapel	Chapel of San Nicolás Tolentino, Former Hacienda of San Nicolás de Quijas	MX	sights
 countries/MX/sights/san-rafael-bridge.yaml	sight-mx-san-rafael-bridge	Bridge of San Rafael	MX	sights

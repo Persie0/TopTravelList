@@ -6,19 +6,14 @@ Omitted categories are not automatically applicable; empty category profiles are
 - Destinations: **20,276**
 - Incomplete core records: **0**
 - Incomplete core fields: **0**
-- Records with unassessed categories: **68**
-- Unassessed category fields: **72**
-- Empty category profiles: **167**
+- Records with unassessed categories: **0**
+- Unassessed category fields: **0**
+- Empty category profiles: **161**
 
 ## Explicitly unassessed categories
 
 | Category | Fields |
 | --- | ---: |
-| adventure | 2 |
-| history | 1 |
-| nature | 4 |
-| photography | 2 |
-| wildlife | 63 |
 
 ## Queues
 
