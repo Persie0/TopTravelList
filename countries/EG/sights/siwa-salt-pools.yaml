@@ -1,0 +1,16 @@
+id: sight-eg-siwa-salt-pools
+name: "Siwa Salt Pools"
+location:
+  country_code: EG
+  latitude: 29.21368
+  longitude: 25.62261
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 7.5
+  experience: 8.6
+  depth: 7.6
+  categories:
+    photography: 9.3
+    nature: 8.8
+    relaxation: 8.7

@@ -1,0 +1,15 @@
+id: sight-fr-die-centre
+name: "Die Historic Centre and Roman Ramparts"
+location:
+  country_code: FR
+  latitude: 44.753
+  longitude: 5.37
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.6
+  depth: 8.4
+  categories:
+    history: 9.2
+    architecture: 9.1

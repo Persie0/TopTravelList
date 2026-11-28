@@ -1,0 +1,16 @@
+id: sight-us-assateague
+name: "Assateague Island National Seashore and Wild Horse Observation"
+location:
+  country_code: US
+  latitude: 38.13
+  longitude: -75.19
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.6
+  experience: 8.9
+  depth: 8.7
+  categories:
+    wildlife: 9.3
+    beaches: 9.3
+    nature: 9.3

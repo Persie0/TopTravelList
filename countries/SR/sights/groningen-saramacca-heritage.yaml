@@ -1,0 +1,16 @@
+id: sight-sr-groningen-saramacca-heritage
+name: "Groningen Saramacca Historic Settlement and Boeroe Heritage Circuit"
+location:
+  country_code: SR
+  latitude: 5.8
+  longitude: -55.47
+scores:
+  impact: 7.7
+  uniqueness: 8.3
+  significance: 8.5
+  experience: 8.1
+  depth: 8.1
+  categories:
+    history: 9.1
+    culture: 8.9
+    architecture: 8.7

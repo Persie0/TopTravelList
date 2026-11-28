@@ -1,0 +1,16 @@
+id: sight-ca-chilkoot-canadian
+name: "Chilkoot Trail National Historic Site Canadian Wilderness Hiking"
+location:
+  country_code: CA
+  latitude: 59.74
+  longitude: -135.1
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 8.9
+  depth: 9.1
+  categories:
+    adventure: 9.4
+    history: 9.4
+    nature: 9.3

@@ -1,0 +1,16 @@
+id: sight-us-amon-carter
+name: "Amon Carter Museum of American Art Fort Worth"
+location:
+  country_code: US
+  latitude: 32.748
+  longitude: -97.369
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 8.9
+  depth: 9.2
+  categories:
+    culture: 9.3
+    history: 9.2
+    photography: 9.2

@@ -1,0 +1,17 @@
+id: sight-fr-palais-garnier
+name: "Palais Garnier Opera House Paris"
+location:
+  country_code: FR
+  latitude: 48.87194
+  longitude: 2.33167
+scores:
+  impact: 9.4
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 9.0
+  depth: 8.7
+  categories:
+    architecture: 9.6
+    culture: 9.4
+    history: 9.3
+    photography: 9.4

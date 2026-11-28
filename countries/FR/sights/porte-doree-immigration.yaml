@@ -1,0 +1,15 @@
+id: sight-fr-porte-doree-immigration
+name: "Musée National de l’Histoire de l’Immigration Paris Collections"
+location:
+  country_code: FR
+  latitude: 48.835
+  longitude: 2.409
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 9.0
+  depth: 9.2
+  categories:
+    history: 9.4
+    culture: 9.4

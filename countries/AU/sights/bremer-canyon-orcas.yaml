@@ -1,0 +1,16 @@
+id: sight-au-bremer-canyon-orcas
+name: "Bremer Canyon Seasonal Orca Expeditions"
+location:
+  country_code: AU
+  latitude: -34.45
+  longitude: 119.43
+scores:
+  impact: 9.3
+  uniqueness: 9.4
+  significance: 9.1
+  experience: 9.2
+  depth: 9.0
+  categories:
+    wildlife: 9.4
+    nature: 9.4
+    photography: 9.3

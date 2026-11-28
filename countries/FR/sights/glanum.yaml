@@ -1,0 +1,16 @@
+id: sight-fr-glanum
+name: "Glanum Ancient Archaeological City Saint-Rémy-de-Provence"
+location:
+  country_code: FR
+  latitude: 43.776
+  longitude: 4.832
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 9.0
+  depth: 9.1
+  categories:
+    history: 9.4
+    architecture: 9.3
+    culture: 9.2

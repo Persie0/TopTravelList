@@ -1,0 +1,16 @@
+id: sight-ar-puerto-san-julian-nao-victoria
+name: "Puerto San Julián Nao Victoria Maritime Heritage and Historic Waterfront"
+location:
+  country_code: AR
+  latitude: -49.31
+  longitude: -67.73
+scores:
+  impact: 8.2
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.3
+  depth: 8.4
+  categories:
+    history: 9.3
+    culture: 9.0
+    photography: 8.8

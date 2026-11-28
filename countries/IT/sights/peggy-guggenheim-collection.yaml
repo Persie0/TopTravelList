@@ -1,0 +1,16 @@
+id: sight-it-peggy-guggenheim-collection
+name: "Peggy Guggenheim Collection Venice"
+location:
+  country_code: IT
+  latitude: 45.43082
+  longitude: 12.33151
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 8.9
+  depth: 8.6
+  categories:
+    culture: 9.4
+    history: 9.0
+    architecture: 8.8

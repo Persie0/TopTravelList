@@ -1,0 +1,16 @@
+id: sight-it-segesta-archaeological-park
+name: "Segesta Archaeological Park"
+location:
+  country_code: IT
+  latitude: 37.94148
+  longitude: 12.83511
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.8
+  depth: 8.7
+  categories:
+    history: 9.3
+    architecture: 9.3
+    photography: 9.2

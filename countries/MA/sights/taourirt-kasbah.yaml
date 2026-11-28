@@ -1,0 +1,16 @@
+id: sight-ma-taourirt-kasbah
+name: "Taourirt Kasbah"
+location:
+  country_code: MA
+  latitude: 30.92012
+  longitude: -6.89943
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.2
+  depth: 8.3
+  categories:
+    architecture: 9.2
+    history: 9.1
+    photography: 9.0

@@ -1,0 +1,16 @@
+id: sight-ca-fort-henry
+name: "Fort Henry National Historic Site Kingston"
+location:
+  country_code: CA
+  latitude: 44.231
+  longitude: -76.459
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 9.0
+  experience: 8.8
+  depth: 8.8
+  categories:
+    history: 9.3
+    architecture: 9.2
+    family: 9.1

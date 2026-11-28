@@ -1,0 +1,16 @@
+id: sight-ve-isla-coche
+name: "Isla de Coche Beaches and Coastal Landscape"
+location:
+  country_code: VE
+  latitude: 10.77
+  longitude: -63.96
+scores:
+  impact: 8.4
+  uniqueness: 8.2
+  significance: 7.6
+  experience: 8.6
+  depth: 8.1
+  categories:
+    beaches: 9.3
+    relaxation: 9.1
+    photography: 9.0

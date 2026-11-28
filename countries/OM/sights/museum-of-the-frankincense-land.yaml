@@ -1,0 +1,16 @@
+id: sight-om-museum-of-the-frankincense-land
+name: "Museum of the Frankincense Land"
+location:
+  country_code: OM
+  latitude: 17.00926
+  longitude: 54.13542
+scores:
+  impact: 8.0
+  uniqueness: 8.5
+  significance: 8.8
+  experience: 8.4
+  depth: 8.3
+  categories:
+    history: 9.2
+    culture: 9.0
+    architecture: 8.3

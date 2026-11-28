@@ -481,3 +481,456 @@ No numerical score or evidence-status changes made by this pass.
 - Final decision: provisional worldwide V2 editorial assessment of specified visitor scope.
 - Earlier decision: none.
 - Verification still needed: independent coordinates, material claims and visitor-scope checks.
+
+
+## sight-mq-saint-pierre-ruins — Saint-Pierre Historic Ruins and Urban Heritage Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/MQ/sights/saint-pierre-ruins.yaml)
+- Action: new
+- Scope: Ruined town architecture only; excludes Frank A. Perret museum.
+- Representative coordinates: 14.746, -61.176; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 9.1 / 9.3 / 8.8 / 8.9.
+- Categories: history:9.4,culture:9.3,photography:9.2.
+- Overall: 89.85/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+
+## sight-mq-salines-beach — Grande Anse des Salines Beach and Salt Pond — 2026-11-27
+
+- YAML: [source](../../../countries/MQ/sights/salines-beach.yaml)
+- Action: new
+- Scope: Beach and adjacent salt pond.
+- Representative coordinates: 14.399, -60.878; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.6 / 8.3 / 9.0 / 8.6.
+- Categories: beaches:9.4,relaxation:9.3,photography:9.3.
+- Overall: 86.90/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+
+
+## sight-mq-pagerie-museum — Musée de la Pagerie Trois-Îlets Historic Estate Museum — 2026-11-27
+
+- YAML: [source](../../../countries/MQ/sights/pagerie-museum.yaml)
+- Action: new
+- Scope: Historic estate museum and interpretation.
+- Representative coordinates: 14.53, -61.04; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.8 / 9.0 / 8.6 / 8.7.
+- Categories: history:9.4,culture:9.3.
+- Overall: 87.10/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+
+
+## sight-mq-fort-de-france-centre — Fort-de-France Historic Centre Cathedral and Market — 2026-11-27
+
+- YAML: [source](../../../countries/MQ/sights/fort-de-france-centre.yaml)
+- Action: new
+- Scope: Urban heritage circuit excluding separately ranked Schœlcher library.
+- Representative coordinates: 14.604, -61.072; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.6 / 8.7 / 8.7 / 8.6.
+- Categories: architecture:9.2,culture:9.3,history:9.2.
+- Overall: 86.05/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+
+
+## sight-mq-diamant-beach — Grande Anse du Diamant Beach and Memorial Cap 110 — 2026-11-27
+
+- YAML: [source](../../../countries/MQ/sights/diamant-beach.yaml)
+- Action: new
+- Scope: Beach and onshore memorial; no separate Diamond Rock viewing score.
+- Representative coordinates: 14.476, -61.044; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.8 / 8.7 / 8.6.
+- Categories: beaches:9.3,history:9.3,photography:9.3.
+- Overall: 87.40/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+
+
+## sight-mq-fonds-blancs — Le François Fonds Blancs Shallow Lagoon Sandbanks — 2026-11-27
+
+- YAML: [source](../../../countries/MQ/sights/fonds-blancs.yaml)
+- Action: new
+- Scope: Shallow offshore sandbanks and marine landscape.
+- Representative coordinates: 14.61, -60.865; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.2 / 8.9 / 8.5.
+- Categories: nature:9.2,relaxation:9.3,photography:9.3.
+- Overall: 86.10/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+
+### Source and calibration follow-up: saint-pierre-ruins
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.martinique.org/fr/circuits/visiter-saint-pierre ; https://www.martinique.org/fr/communes/saint-pierre.
+- Research rationale: Historic urban ruins beside rebuilt city; interpreted legacy of 1902 catastrophe.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [MQ/memorial-1902](../../../countries/MQ/sights/memorial-1902.yaml) | 7.9 / 8.7 / 9.0 / 8.5 / 8.0 | impact: +0.9 vs peer; depth: +0.9 vs peer |
+| [MQ/mount-pelee](../../../countries/MQ/sights/mount-pelee.yaml) | 9.2 / 8.9 / 9.3 / 8.8 / 8.5 | impact: -0.4 vs peer; depth: +0.4 vs peer |
+| [FR/oradour-memorial](../../../countries/FR/sights/oradour-memorial.yaml) | 9.2 / 9.4 / 9.3 / 8.9 / 9.0 | impact: -0.4 vs peer; uniqueness: -0.3 vs peer |
+| [FR/autun-roman-sites](../../../countries/FR/sights/autun-roman-sites.yaml) | 8.9 / 8.9 / 9.3 / 8.7 / 8.8 | uniqueness: +0.2 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; peer YAML and independent factual/coordinate verification pending.
+
+- Pass 166 verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-mq-depaz-estate — Habitation Depaz Saint-Pierre Rum Distillery and Estate Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/MQ/sights/depaz-estate.yaml)
+- Action: new
+- Scope: Historic estate and production interpretation.
+- Representative coordinates: 14.768, -61.166; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.8 / 8.8 / 8.8.
+- Categories: history:9.3,culture:9.3,food:9.2.
+- Overall: 87.70/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-mq-habitation-saint-etienne — Habitation Saint-Étienne Industrial Heritage and Gardens — 2026-11-27
+
+- YAML: [source](../../../countries/MQ/sights/habitation-saint-etienne.yaml)
+- Action: new
+- Scope: Industrial heritage and gardens, separate from Depaz and Clément.
+- Representative coordinates: 14.679, -60.995; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.8 / 8.8 / 8.7 / 8.7.
+- Categories: history:9.3,culture:9.2,architecture:9.2.
+- Overall: 86.85/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-mq-gorges-falaise — Gorges de la Falaise Ajoupa-Bouillon River Canyon — 2026-11-27
+
+- YAML: [source](../../../countries/MQ/sights/gorges-falaise.yaml)
+- Action: new
+- Scope: River canyon experience only; precise UNESCO forest boundary pending.
+- Representative coordinates: 14.815, -61.114; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.3 / 8.9 / 8.5.
+- Categories: nature:9.3,adventure:9.3,photography:9.3.
+- Overall: 86.85/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-mq-banana-museum — Musée de la Banane Sainte-Marie Agricultural Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/MQ/sights/banana-museum.yaml)
+- Action: new
+- Scope: Agricultural interpretation and garden.
+- Representative coordinates: 14.778, -61.005; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.3 / 8.6 / 8.5 / 8.7 / 8.6.
+- Categories: food:9.2,culture:9.2,family:9.2.
+- Overall: 85.05/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+## sight-mq-saint-pierre-wreck-diving — Saint-Pierre Bay 1902 Historic Shipwreck Scuba Diving — 2026-11-27
+
+- YAML: [source](../../../countries/MQ/sights/saint-pierre-wreck-diving.yaml)
+- Action: new
+- Scope: Underwater archaeological wreck experience from the 1902 eruption, including Roraima for qualified divers; distinct from terrestrial ruins and museum. Representative Saint-Pierre departure point.
+- Representative coordinates: 14.742, -61.18; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.4 / 9.3 / 9.2 / 9.0.
+- Categories: adventure:9.4,history:9.4,nature:9.3.
+- Overall: 92.20/100.
+- Decision: Source-informed provisional assessment from indexed official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.martinique.org/en/things-to-do/water-sports-and-activities/diving ; https://www.martinique.org/en/things-to-do/water-sports-and-activities/papa-dlo ; https://www.archeonavale.org/martinique/pages/listsite.html.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [MQ/saint-pierre-ruins](../../../countries/MQ/sights/saint-pierre-ruins.yaml) | 8.8 / 9.1 / 9.3 / 8.8 / 8.9 | experience: +0.4 vs peer; impact: +0.3 vs peer |
+| [MQ/memorial-1902](../../../countries/MQ/sights/memorial-1902.yaml) | 7.9 / 8.7 / 9.0 / 8.5 / 8.0 | impact: +1.2 vs peer; depth: +1.0 vs peer |
+| [MQ/mount-pelee](../../../countries/MQ/sights/mount-pelee.yaml) | 9.2 / 8.9 / 9.3 / 8.8 / 8.5 | uniqueness: +0.5 vs peer; depth: +0.5 vs peer |
+| [MQ/anse-dufour](../../../countries/MQ/sights/anse-dufour.yaml) | 8.4 / 8.2 / 7.7 / 8.8 / 7.6 | significance: +1.6 vs peer; depth: +1.4 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-mq-caribbean-whale-watching — Martinique Caribbean Coast Whale and Dolphin Watching — 2026-11-27
+
+- YAML: [source](../../../countries/MQ/sights/caribbean-whale-watching.yaml)
+- Action: new
+- Scope: Boat-based cetacean observation with authorized operators; no swimming or guaranteed encounters. Representative Le Carbet departure vicinity; excludes reef snorkeling.
+- Representative coordinates: 14.71, -61.18; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.1 / 8.7 / 9.2 / 8.9.
+- Categories: wildlife:9.4,nature:9.3,photography:9.3.
+- Overall: 90.15/100.
+- Decision: Source-informed provisional assessment from indexed official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.martinique.org/en/blog/nature/observe-without-disturbing ; https://www.dm.martinique.developpement-durable.gouv.fr/je-choisis-un-professionnel-du-whale-watching-a740.html.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [MQ/anse-dufour](../../../countries/MQ/sights/anse-dufour.yaml) | 8.4 / 8.2 / 7.7 / 8.8 / 7.6 | depth: +1.3 vs peer; significance: +1.0 vs peer |
+| [MQ/fonds-blancs](../../../countries/MQ/sights/fonds-blancs.yaml) | 8.7 / 8.7 / 8.2 / 8.9 / 8.5 | significance: +0.5 vs peer; impact: +0.4 vs peer |
+| [MQ/caravelle-reserve](../../../countries/MQ/sights/caravelle-reserve.yaml) | 8.7 / 8.5 / 8.6 / 8.7 / 8.5 | uniqueness: +0.6 vs peer; experience: +0.5 vs peer |
+| [MQ/martinique-volcanoes](../../../countries/MQ/sights/martinique-volcanoes.yaml) | 9.0 / 9.0 / 9.2 / 8.8 / 9.0 | significance: -0.5 vs peer; experience: +0.4 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-mq-genipa-mangrove — Baie de Génipa Mangrove Kayaking and Interpretation — 2026-11-27
+
+- YAML: [source](../../../countries/MQ/sights/genipa-mangrove.yaml)
+- Action: new
+- Scope: Mangrove waterways and interpretation combined; regional park documents 1,200 ha and guided kayaking. Representative Maison de la Mangrove vicinity.
+- Representative coordinates: 14.553, -61.031; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.0 / 8.8 / 9.0 / 8.9.
+- Categories: nature:9.4,wildlife:9.3,adventure:9.2.
+- Overall: 89.20/100.
+- Decision: Source-informed provisional assessment from indexed official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://pnr-martinique.com/visiter/la-maison-de-la-mangrove/ ; https://pnr-martinique.com/actualites/balades-nautiques-pnrm-dans-la-baie-de-genipa-des-merveilles-a-decouvrir-en-kayak/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [MQ/caravelle-reserve](../../../countries/MQ/sights/caravelle-reserve.yaml) | 8.7 / 8.5 / 8.6 / 8.7 / 8.5 | uniqueness: +0.5 vs peer; depth: +0.4 vs peer |
+| [MQ/fonds-blancs](../../../countries/MQ/sights/fonds-blancs.yaml) | 8.7 / 8.7 / 8.2 / 8.9 / 8.5 | significance: +0.6 vs peer; depth: +0.4 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-mq-habitation-ceron — Habitation Céron Tropical Garden and Historic Estate — 2026-11-27
+
+- YAML: [source](../../../countries/MQ/sights/habitation-ceron.yaml)
+- Action: new
+- Scope: Tropical garden, historic estate and remarkable Zamana tree; not wider volcano forest.
+- Representative coordinates: 14.833, -61.221; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 9.1 / 8.7 / 8.8 / 8.8.
+- Categories: nature:9.4,culture:9.2,photography:9.3.
+- Overall: 88.55/100.
+- Decision: Source-informed provisional assessment from indexed official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.martinique.org/en/things-to-do/public-natural-sites/habitation-ceron.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [MQ/jardin-de-balata](../../../countries/MQ/sights/jardin-de-balata.yaml) | 8.6 / 8.2 / 7.7 / 8.8 / 8.3 | significance: +1.0 vs peer; uniqueness: +0.9 vs peer |
+| [MQ/habitation-saint-etienne](../../../countries/MQ/sights/habitation-saint-etienne.yaml) | 8.5 / 8.8 / 8.8 / 8.7 / 8.7 | impact: +0.3 vs peer; uniqueness: +0.3 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-mq-fort-saint-louis — Fort Saint-Louis Fort-de-France Historic Fortress — 2026-11-27
+
+- YAML: [source](../../../countries/MQ/sights/fort-saint-louis.yaml)
+- Action: new
+- Scope: Fortified peninsula and dedicated guided heritage experience; not general city streets.
+- Representative coordinates: 14.599, -61.068; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 9.1 / 8.7 / 8.8.
+- Categories: history:9.4,architecture:9.3,photography:9.2.
+- Overall: 88.70/100.
+- Decision: Desk-based provisional estimate from regional overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [MQ/fort-de-france-centre](../../../countries/MQ/sights/fort-de-france-centre.yaml) | 8.5 / 8.6 / 8.7 / 8.7 / 8.6 | significance: +0.4 vs peer; impact: +0.3 vs peer |
+| [MQ/saint-pierre-ruins](../../../countries/MQ/sights/saint-pierre-ruins.yaml) | 8.8 / 9.1 / 9.3 / 8.8 / 8.9 | uniqueness: -0.2 vs peer; significance: -0.2 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-mq-savane-petrifications — Savane des Pétrifications Arid Coastal Geological Trail — 2026-11-27
+
+- YAML: [source](../../../countries/MQ/sights/savane-petrifications.yaml)
+- Action: new
+- Scope: Arid coastal trail and geological scenery beyond Les Salines beach; no duplicate beach or salt pond credit.
+- Representative coordinates: 14.392, -60.862; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 9.0 / 8.5 / 8.9 / 8.7.
+- Categories: nature:9.3,photography:9.4,adventure:9.2.
+- Overall: 87.95/100.
+- Decision: Desk-based provisional estimate from regional overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [MQ/salines-beach](../../../countries/MQ/sights/salines-beach.yaml) | 8.9 / 8.6 / 8.3 / 9.0 / 8.6 | uniqueness: +0.4 vs peer; significance: +0.2 vs peer |
+| [MQ/caravelle-reserve](../../../countries/MQ/sights/caravelle-reserve.yaml) | 8.7 / 8.5 / 8.6 / 8.7 / 8.5 | uniqueness: +0.5 vs peer; experience: +0.2 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-mq-morne-larcher — Morne Larcher Steep Coastal Mountain Hiking — 2026-11-27
+
+- YAML: [source](../../../countries/MQ/sights/morne-larcher.yaml)
+- Action: new
+- Scope: Physical ascent and elevated coastal viewpoints; no standalone Diamond Rock credit.
+- Representative coordinates: 14.477, -61.069; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.4 / 8.9 / 8.6.
+- Categories: adventure:9.3,photography:9.4,nature:9.3.
+- Overall: 87.45/100.
+- Decision: Desk-based provisional estimate from regional overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [MQ/diamant-beach](../../../countries/MQ/sights/diamant-beach.yaml) | 8.8 / 8.7 / 8.8 / 8.7 / 8.6 | significance: -0.4 vs peer; experience: +0.2 vs peer |
+| [MQ/diamond-rock-view](../../../countries/MQ/sights/diamond-rock-view.yaml) | 8.7 / 8.7 / 8.3 / 8.2 / 7.2 | depth: +1.4 vs peer; experience: +0.7 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-mq-zoo-habitation-latouche — Zoo de Martinique Habitation Latouche Wildlife and Estate Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/MQ/sights/zoo-habitation-latouche.yaml)
+- Action: new
+- Scope: Zoo and former estate ruins combined, distinct from Saint-Pierre urban ruins.
+- Representative coordinates: 14.73, -61.178; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.6 / 8.9 / 8.8.
+- Categories: family:9.3,wildlife:9.3,history:9.2.
+- Overall: 87.45/100.
+- Decision: Desk-based provisional estimate from regional overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [MQ/habitation-clement](../../../countries/MQ/sights/habitation-clement.yaml) | 8.2 / 8.5 / 8.5 / 8.7 / 8.6 | impact: +0.5 vs peer; uniqueness: +0.3 vs peer |
+| [MQ/jardin-de-balata](../../../countries/MQ/sights/jardin-de-balata.yaml) | 8.6 / 8.2 / 7.7 / 8.8 / 8.3 | significance: +0.9 vs peer; uniqueness: +0.6 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-mq-maison-canne — Maison de la Canne Trois-Îlets Sugar Industry Museum — 2026-11-27
+
+- YAML: [source](../../../countries/MQ/sights/maison-canne.yaml)
+- Action: new
+- Scope: Sugarcane industry history and interpretation, not a duplicate working distillery tour.
+- Representative coordinates: 14.534, -61.027; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.8 / 8.9 / 8.7 / 8.8.
+- Categories: history:9.3,culture:9.3.
+- Overall: 87.15/100.
+- Decision: Desk-based provisional estimate from regional overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [MQ/habitation-saint-etienne](../../../countries/MQ/sights/habitation-saint-etienne.yaml) | 8.5 / 8.8 / 8.8 / 8.7 / 8.7 | significance: +0.1 vs peer; depth: +0.1 vs peer |
+| [MQ/pagerie-museum](../../../countries/MQ/sights/pagerie-museum.yaml) | 8.5 / 8.8 / 9.0 / 8.6 / 8.7 | significance: -0.1 vs peer; experience: +0.1 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-mq-martinique-archaeology-museum — Musée Départemental d’Archéologie Précolombienne Fort-de-France — 2026-11-27
+
+- YAML: [source](../../../countries/MQ/sights/martinique-archaeology-museum.yaml)
+- Action: new
+- Scope: Indigenous Caribbean archaeological collections; independent museum from urban circuit. Access verification pending.
+- Representative coordinates: 14.604, -61.071; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 9.0 / 9.1 / 8.7 / 8.9.
+- Categories: history:9.4,culture:9.4.
+- Overall: 88.75/100.
+- Decision: Desk-based provisional estimate from regional overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [MQ/memorial-1902](../../../countries/MQ/sights/memorial-1902.yaml) | 7.9 / 8.7 / 9.0 / 8.5 / 8.0 | depth: +0.9 vs peer; impact: +0.8 vs peer |
+| [MQ/pagerie-museum](../../../countries/MQ/sights/pagerie-museum.yaml) | 8.5 / 8.8 / 9.0 / 8.6 / 8.7 | impact: +0.2 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-mq-ecomusee-martinique — Écomusée de Martinique Anse Figuier Cultural History Collections — 2026-11-27
+
+- YAML: [source](../../../countries/MQ/sights/ecomusee-martinique.yaml)
+- Action: new
+- Scope: Regional cultural history in former distillery, distinct from dedicated slavery and plantation sites.
+- Representative coordinates: 14.467, -60.914; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.8 / 8.8 / 8.6 / 8.7.
+- Categories: culture:9.3,history:9.3.
+- Overall: 86.40/100.
+- Decision: Desk-based provisional estimate from regional overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [MQ/savane-des-esclaves](../../../countries/MQ/sights/savane-des-esclaves.yaml) | 8.1 / 8.7 / 8.8 / 8.6 / 8.5 | impact: +0.3 vs peer; depth: +0.2 vs peer |
+| [MQ/pagerie-museum](../../../countries/MQ/sights/pagerie-museum.yaml) | 8.5 / 8.8 / 9.0 / 8.6 / 8.7 | significance: -0.2 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-mq-domaine-emeraude — Domaine d’Émeraude Rainforest Botanical Interpretation — 2026-11-27
+
+- YAML: [source](../../../countries/MQ/sights/domaine-emeraude.yaml)
+- Action: new
+- Scope: Managed botanical and environmental interpretation, excludes wider volcanic landscape.
+- Representative coordinates: 14.741, -61.113; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.7 / 8.5 / 8.8 / 8.8.
+- Categories: nature:9.3,family:9.2,photography:9.2.
+- Overall: 86.55/100.
+- Decision: Desk-based provisional estimate from regional overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [MQ/jardin-de-balata](../../../countries/MQ/sights/jardin-de-balata.yaml) | 8.6 / 8.2 / 7.7 / 8.8 / 8.3 | significance: +0.8 vs peer; uniqueness: +0.5 vs peer |
+| [MQ/martinique-volcanoes](../../../countries/MQ/sights/martinique-volcanoes.yaml) | 9.0 / 9.0 / 9.2 / 8.8 / 9.0 | significance: -0.7 vs peer; impact: -0.4 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-mq-chateau-dubuc — Château Dubuc Caravelle Historic Plantation Ruins — 2026-11-27
+
+- YAML: [source](../../../countries/MQ/sights/chateau-dubuc.yaml)
+- Action: new
+- Scope: Historic plantation ruins and dedicated interpretation within peninsula; no landscape trail credit.
+- Representative coordinates: 14.775, -60.875; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.8 / 8.9 / 8.6 / 8.7.
+- Categories: history:9.3,culture:9.2,architecture:9.2.
+- Overall: 87.20/100.
+- Decision: Desk-based provisional estimate from regional overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [MQ/caravelle-reserve](../../../countries/MQ/sights/caravelle-reserve.yaml) | 8.7 / 8.5 / 8.6 / 8.7 / 8.5 | uniqueness: +0.3 vs peer; significance: +0.3 vs peer |
+| [MQ/saint-pierre-ruins](../../../countries/MQ/sights/saint-pierre-ruins.yaml) | 8.8 / 9.1 / 9.3 / 8.8 / 8.9 | significance: -0.4 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-mq-saint-james-museum — Saint-James Rum Museum and Industrial Heritage Sainte-Marie — 2026-11-27
+
+- YAML: [source](../../../countries/MQ/sights/saint-james-museum.yaml)
+- Action: new
+- Scope: Industrial collections and estate history, separate from other distilleries; tasting not required.
+- Representative coordinates: 14.779, -60.996; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.8 / 8.8 / 8.7 / 8.8.
+- Categories: history:9.3,culture:9.3,food:9.2.
+- Overall: 87.25/100.
+- Decision: Desk-based provisional estimate from regional overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [MQ/depaz-estate](../../../countries/MQ/sights/depaz-estate.yaml) | 8.7 / 8.8 / 8.8 / 8.8 / 8.8 | impact: -0.1 vs peer; experience: -0.1 vs peer |
+| [MQ/habitation-saint-etienne](../../../countries/MQ/sights/habitation-saint-etienne.yaml) | 8.5 / 8.8 / 8.8 / 8.7 / 8.7 | impact: +0.1 vs peer; depth: +0.1 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+

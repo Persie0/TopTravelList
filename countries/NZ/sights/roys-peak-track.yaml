@@ -1,0 +1,16 @@
+id: sight-nz-roys-peak-track
+name: "Roys Peak Track"
+location:
+  country_code: NZ
+  latitude: -44.68287
+  longitude: 169.0594
+scores:
+  impact: 9.1
+  uniqueness: 8.3
+  significance: 7.5
+  experience: 8.7
+  depth: 7.9
+  categories:
+    nature: 8.9
+    photography: 9.2
+    adventure: 8.8

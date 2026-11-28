@@ -1,0 +1,16 @@
+id: sight-ve-turuepano-national-park
+name: "Turuépano National Park Mangrove Waterway Visitor Experience"
+location:
+  country_code: VE
+  latitude: 10.51
+  longitude: -62.99
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.3
+  depth: 8.6
+  categories:
+    nature: 9.3
+    wildlife: 9.3
+    photography: 9.0

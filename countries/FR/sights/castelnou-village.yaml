@@ -1,0 +1,16 @@
+id: sight-fr-castelnou-village
+name: "Castelnou Medieval Village and Castle"
+location:
+  country_code: FR
+  latitude: 42.62
+  longitude: 2.703
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 8.8
+  depth: 8.5
+  categories:
+    architecture: 9.2
+    photography: 9.3
+    history: 9.1

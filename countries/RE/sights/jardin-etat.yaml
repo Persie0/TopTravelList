@@ -1,0 +1,16 @@
+id: sight-re-jardin-etat
+name: "Jardin de l’État and Natural History Museum Saint-Denis"
+location:
+  country_code: RE
+  latitude: -20.889
+  longitude: 55.451
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.7
+  depth: 8.8
+  categories:
+    nature: 9.2
+    culture: 9.2
+    family: 9.1

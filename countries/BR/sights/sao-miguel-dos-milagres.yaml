@@ -1,0 +1,16 @@
+id: sight-br-sao-miguel-dos-milagres
+name: "São Miguel dos Milagres Alagoas Coastal Beaches"
+location:
+  country_code: BR
+  latitude: -9.27
+  longitude: -35.38
+scores:
+  impact: 8.7
+  uniqueness: 8.4
+  significance: 8.0
+  experience: 8.8
+  depth: 8.5
+  categories:
+    beaches: 9.3
+    relaxation: 9.3
+    photography: 9.1

@@ -1,0 +1,16 @@
+id: sight-au-bendigo-art-gallery
+name: "Bendigo Art Gallery Victoria"
+location:
+  country_code: AU
+  latitude: -36.758
+  longitude: 144.275
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 8.8
+  depth: 8.9
+  categories:
+    culture: 9.2
+    history: 9.0
+    architecture: 8.8

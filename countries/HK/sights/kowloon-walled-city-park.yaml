@@ -1,0 +1,17 @@
+id: sight-hk-kowloon-walled-city-park
+name: "Kowloon Walled City Park"
+location:
+  country_code: HK
+  latitude: 22.33218
+  longitude: 114.19027
+scores:
+  impact: 8.2
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.5
+  depth: 8.1
+  categories:
+    history: 9.0
+    culture: 8.7
+    architecture: 8.6
+    relaxation: 8.3

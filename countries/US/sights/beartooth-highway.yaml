@@ -1,0 +1,16 @@
+id: sight-us-beartooth-highway
+name: "Beartooth Highway Alpine Scenic Drive Montana Wyoming"
+location:
+  country_code: US
+  latitude: 44.969
+  longitude: -109.467
+scores:
+  impact: 9.1
+  uniqueness: 8.8
+  significance: 8.5
+  experience: 9.1
+  depth: 8.8
+  categories:
+    nature: 9.3
+    photography: 9.4
+    adventure: 9.0

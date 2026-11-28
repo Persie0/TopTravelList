@@ -1,0 +1,16 @@
+id: sight-us-disney-animal-kingdom
+name: "Disney’s Animal Kingdom Theme Park Florida"
+location:
+  country_code: US
+  latitude: 28.358
+  longitude: -81.59
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 8.7
+  experience: 9.3
+  depth: 9.2
+  categories:
+    family: 9.4
+    wildlife: 9.3
+    nature: 9.2

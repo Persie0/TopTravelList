@@ -1,0 +1,15 @@
+id: sight-fr-saint-louis-crystal
+name: "La Grande Place Saint-Louis Crystal Museum"
+location:
+  country_code: FR
+  latitude: 48.987
+  longitude: 7.354
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 8.9
+  experience: 8.9
+  depth: 8.9
+  categories:
+    culture: 9.4
+    history: 9.3

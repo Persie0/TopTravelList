@@ -1,0 +1,16 @@
+id: sight-us-walnut-canyon
+name: "Walnut Canyon National Monument"
+location:
+  country_code: US
+  latitude: 35.172
+  longitude: -111.51
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.8
+  depth: 8.7
+  categories:
+    history: 9.3
+    culture: 9.3
+    nature: 9.2

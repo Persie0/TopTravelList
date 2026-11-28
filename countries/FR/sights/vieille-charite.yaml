@@ -1,0 +1,16 @@
+id: sight-fr-vieille-charite
+name: "Centre de la Vieille Charité Marseille Museums"
+location:
+  country_code: FR
+  latitude: 43.301
+  longitude: 5.368
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.8
+  depth: 8.8
+  categories:
+    architecture: 9.3
+    culture: 9.3
+    history: 9.2

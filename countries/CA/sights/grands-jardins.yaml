@@ -1,0 +1,16 @@
+id: sight-ca-grands-jardins
+name: "Parc national des Grands-Jardins Charlevoix Alpine Trails"
+location:
+  country_code: CA
+  latitude: 47.7
+  longitude: -70.74
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 8.9
+  depth: 8.8
+  categories:
+    nature: 9.3
+    adventure: 9.3
+    photography: 9.3

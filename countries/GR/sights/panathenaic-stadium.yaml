@@ -1,0 +1,17 @@
+id: sight-gr-panathenaic-stadium
+name: "Panathenaic Stadium Athens"
+location:
+  country_code: GR
+  latitude: 37.968346
+  longitude: 23.741113
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 8.9
+  depth: 8.4
+  categories:
+    history: 9.3
+    architecture: 9.2
+    culture: 9.2
+    photography: 9.2

@@ -1,0 +1,17 @@
+id: sight-tr-bosphorus-cruise
+name: "Bosphorus Strait Scenic Cruise Istanbul"
+location:
+  country_code: TR
+  latitude: 41.01787
+  longitude: 28.97402
+scores:
+  impact: 9.3
+  uniqueness: 9.1
+  significance: 8.9
+  experience: 9.1
+  depth: 8.8
+  categories:
+    photography: 9.4
+    architecture: 9.2
+    culture: 9.0
+    relaxation: 9.0

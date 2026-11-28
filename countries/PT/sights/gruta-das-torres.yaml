@@ -1,0 +1,16 @@
+id: sight-pt-gruta-das-torres
+name: "Gruta das Torres Lava Tube"
+location:
+  country_code: PT
+  latitude: 38.49437
+  longitude: -28.50235
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.6
+  experience: 8.6
+  depth: 8.3
+  categories:
+    nature: 9.2
+    adventure: 9.0
+    photography: 8.6

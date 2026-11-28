@@ -1,0 +1,16 @@
+id: sight-pg-mount-hagen-show
+name: "Mount Hagen Annual Cultural Show"
+location:
+  country_code: PG
+  latitude: -5.86
+  longitude: 144.23
+scores:
+  impact: 9.3
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 9.1
+  depth: 8.9
+  categories:
+    culture: 9.4
+    photography: 9.4
+    history: 9.2

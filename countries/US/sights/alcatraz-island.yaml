@@ -1,0 +1,16 @@
+id: sight-us-alcatraz-island
+name: "Alcatraz Island"
+location:
+  country_code: US
+  latitude: 37.827735
+  longitude: -122.424818
+scores:
+  impact: 8.6
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 9.1
+  depth: 8.4
+  categories:
+    history: 9.2
+    culture: 8.9
+    photography: 8.7

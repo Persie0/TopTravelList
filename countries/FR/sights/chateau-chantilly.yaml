@@ -1,0 +1,17 @@
+id: sight-fr-chateau-chantilly
+name: "Château de Chantilly and Musée Condé"
+location:
+  country_code: FR
+  latitude: 49.193846
+  longitude: 2.485203
+scores:
+  impact: 9.3
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 9.1
+  depth: 9.3
+  categories:
+    architecture: 9.4
+    culture: 9.4
+    history: 9.3
+    photography: 9.3

@@ -1,0 +1,17 @@
+id: sight-mg-nosy-iranja
+name: "Nosy Iranja Islands"
+location:
+  country_code: MG
+  latitude: -13.59498
+  longitude: 47.81701
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 8.0
+  experience: 8.9
+  depth: 8.0
+  categories:
+    beaches: 9.4
+    photography: 9.3
+    nature: 9.0
+    wildlife: 8.5

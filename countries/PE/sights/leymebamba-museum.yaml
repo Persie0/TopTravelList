@@ -1,0 +1,16 @@
+id: sight-pe-leymebamba-museum
+name: "Leymebamba Museum Chachapoyas Archaeology and Lake of the Condors Collections"
+location:
+  country_code: PE
+  latitude: -6.72
+  longitude: -77.8
+scores:
+  impact: 8.9
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 8.8
+  depth: 9.0
+  categories:
+    history: 9.4
+    culture: 9.4
+    architecture: 9.0

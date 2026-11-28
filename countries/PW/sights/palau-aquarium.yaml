@@ -1,0 +1,16 @@
+id: sight-pw-palau-aquarium
+name: "Palau Aquarium and Coral Reef Research Interpretation"
+location:
+  country_code: PW
+  latitude: 7.34
+  longitude: 134.47
+scores:
+  impact: 8.2
+  uniqueness: 8.5
+  significance: 8.7
+  experience: 8.6
+  depth: 8.5
+  categories:
+    nature: 9.1
+    wildlife: 9.1
+    family: 9.1

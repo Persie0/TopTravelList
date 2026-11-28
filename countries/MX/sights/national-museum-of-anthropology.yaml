@@ -1,0 +1,16 @@
+id: sight-mx-national-museum-of-anthropology
+name: "National Museum of Anthropology (Mexico City)"
+location:
+  country_code: MX
+  latitude: 19.426111
+  longitude: -99.186111
+scores:
+  impact: 9.4
+  uniqueness: 9.4
+  significance: 9.5
+  experience: 9.3
+  depth: 9.4
+  categories:
+    culture: 9.4
+    history: 9.5
+    architecture: 9.0

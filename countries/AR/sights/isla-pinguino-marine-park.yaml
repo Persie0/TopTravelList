@@ -1,0 +1,16 @@
+id: sight-ar-isla-pinguino-marine-park
+name: "Isla Pingüino Marine Park Guided Wildlife Excursion"
+location:
+  country_code: AR
+  latitude: -47.92
+  longitude: -65.72
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 9.1
+  experience: 8.8
+  depth: 8.7
+  categories:
+    wildlife: 9.4
+    nature: 9.3
+    photography: 9.3

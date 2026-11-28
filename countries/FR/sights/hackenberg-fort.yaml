@@ -1,0 +1,16 @@
+id: sight-fr-hackenberg-fort
+name: "Ouvrage du Hackenberg Maginot Line Historical Fortification"
+location:
+  country_code: FR
+  latitude: 49.341
+  longitude: 6.367
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 9.3
+  experience: 9.1
+  depth: 9.2
+  categories:
+    history: 9.4
+    architecture: 9.3
+    culture: 9.3

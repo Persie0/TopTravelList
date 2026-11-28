@@ -1,0 +1,16 @@
+id: sight-au-art-gallery-sa
+name: "Art Gallery of South Australia Adelaide"
+location:
+  country_code: AU
+  latitude: -34.921
+  longitude: 138.604
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 9.0
+  depth: 9.2
+  categories:
+    culture: 9.4
+    history: 9.2
+    architecture: 8.9

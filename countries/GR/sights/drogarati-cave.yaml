@@ -1,0 +1,16 @@
+id: sight-gr-drogarati-cave
+name: "Drogarati Cave Kefalonia"
+location:
+  country_code: GR
+  latitude: 38.22703
+  longitude: 20.62843
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.3
+  experience: 8.7
+  depth: 8.2
+  categories:
+    nature: 9.1
+    photography: 9.0
+    adventure: 8.9

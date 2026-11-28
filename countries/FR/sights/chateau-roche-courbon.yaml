@@ -1,0 +1,18 @@
+id: sight-fr-chateau-roche-courbon
+name: "Château de la Roche Courbon Castle, Gardens and Prehistoric Caves"
+location:
+  country_code: FR
+  latitude: 45.8362
+  longitude: -0.7819
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 9.0
+  depth: 9.0
+  categories:
+    architecture: 9.3
+    history: 9.2
+    photography: 9.3
+    culture: 9.1
+    nature: 9.0

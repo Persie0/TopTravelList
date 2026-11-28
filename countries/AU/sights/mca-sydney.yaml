@@ -1,0 +1,16 @@
+id: sight-au-mca-sydney
+name: "Museum of Contemporary Art Australia Sydney"
+location:
+  country_code: AU
+  latitude: -33.859
+  longitude: 151.209
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.9
+  depth: 9.0
+  categories:
+    culture: 9.3
+    architecture: 9.0
+    photography: 9.0

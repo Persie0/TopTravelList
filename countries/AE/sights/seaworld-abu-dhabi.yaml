@@ -1,0 +1,17 @@
+id: sight-ae-seaworld-abu-dhabi
+name: "SeaWorld Abu Dhabi"
+location:
+  country_code: AE
+  latitude: 24.4856
+  longitude: 54.61928
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 7.7
+  experience: 8.9
+  depth: 9.0
+  categories:
+    family: 9.2
+    wildlife: 8.8
+    nature: 8.5
+    photography: 8.7

@@ -1,0 +1,16 @@
+id: sight-fr-nancy-ecole
+name: "Musée de l’École de Nancy and Villa Majorelle Art Nouveau Collections"
+location:
+  country_code: FR
+  latitude: 48.681
+  longitude: 6.165
+scores:
+  impact: 9.2
+  uniqueness: 9.4
+  significance: 9.2
+  experience: 9.2
+  depth: 9.3
+  categories:
+    culture: 9.4
+    architecture: 9.4
+    history: 9.3

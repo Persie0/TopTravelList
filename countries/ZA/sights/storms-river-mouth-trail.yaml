@@ -1,0 +1,16 @@
+id: sight-za-storms-river-mouth-trail
+name: "Storms River Mouth Trail"
+location:
+  country_code: ZA
+  latitude: -34.019405
+  longitude: 23.903088
+scores:
+  impact: 8.8
+  uniqueness: 8.4
+  significance: 8.1
+  experience: 8.8
+  depth: 8.1
+  categories:
+    nature: 9.0
+    photography: 8.9
+    adventure: 8.8

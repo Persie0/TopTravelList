@@ -1,0 +1,16 @@
+id: sight-ca-muskoka-lakes-cruises
+name: "Muskoka Lakes Scenic Heritage Cruises"
+location:
+  country_code: CA
+  latitude: 45.02
+  longitude: -79.62
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 9.0
+  depth: 8.7
+  categories:
+    nature: 9.3
+    relaxation: 9.3
+    photography: 9.2

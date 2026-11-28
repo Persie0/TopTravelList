@@ -1,0 +1,16 @@
+id: sight-pe-chavin-national-museum
+name: "National Museum of Chavín Archaeological and Cultural Collections"
+location:
+  country_code: PE
+  latitude: -9.583
+  longitude: -77.177
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 9.3
+  experience: 8.7
+  depth: 8.9
+  categories:
+    history: 9.4
+    culture: 9.3
+    architecture: 9.0

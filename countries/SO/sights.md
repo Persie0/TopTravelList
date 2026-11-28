@@ -2,7 +2,7 @@
 
 # Somalia (SO) — Sights & attractions ranking
 
-**5 ranked** · **8 unassessed** · **13 total** · Worldwide scoring **v2**
+**13 ranked** · **0 unassessed** · **13 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,30 +10,23 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (5)
+## Complete ranked list (13)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | 1 | [Laas Geel Rock Art](sights/laas-geel.yaml) | Attraction | **92.45** | **History 9.6**, **Culture 9.4**, **Photography 9.3** | 9.3 / 9.6 / 9.5 / 8.7 / 8.5 | [9.78116, 44.44348](https://www.google.com/maps/search/?api=1&query=9.78116,44.44348) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Laas%20Geel%20Rock%20Art%2C%20Somalia) |
-| 2 | [Old Berbera Heritage Quarter](sights/old-berbera.yaml) | Attraction | **83.30** | **Architecture 8.8**, **History 8.7**, **Culture 8.6** | 8.2 / 8.7 / 8.5 / 8.1 / 7.8 | [10.438, 45.014](https://www.google.com/maps/search/?api=1&query=10.438,45.014) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Old%20Berbera%20Heritage%20Quarter%2C%20Somalia) |
-| 3 | [Sheikh Mountain Pass](sights/sheikh-mountain-pass.yaml) | Mountain / peak | **79.80** | **Photography 8.8**, **Nature 8.6** | 8.5 / 8.2 / 7.0 / 8.2 / 7.5 | [9.96, 45.19](https://www.google.com/maps/search/?api=1&query=9.96,45.19) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sheikh%20Mountain%20Pass%2C%20Somalia) |
-| 4 | [Hargeisa War Memorial](sights/hargeisa-war-memorial.yaml) | Museum / heritage | **79.45** | **History 8.8**, **Culture 8.2** | 7.8 / 8.6 / 8.5 / 7.5 / 6.3 | [9.56146, 44.06541](https://www.google.com/maps/search/?api=1&query=9.56146,44.06541) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hargeisa%20War%20Memorial%2C%20Somalia) |
-| 5 | [Batalaale Beach](sights/batalaale-beach.yaml) | Beach / bay | **77.60** | **Beaches 8.8**, **Relaxation 8.5**, **Photography 8.3** | 8.2 / 7.9 / 6.8 / 8.3 / 7.2 | [10.459, 45.0705](https://www.google.com/maps/search/?api=1&query=10.459,45.0705) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Batalaale%20Beach%2C%20Somalia) |
-
-## Not yet fully assessed (8)
-
-These destinations have no rank until all five core scores are assessed.
-
-| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
-| ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Bushbushle National Park (Lag Badana)](sights/bushbushle-national-park.yaml) | Park / reserve | **—** | **Nature 9.1**, **Wildlife 9.0** | — / 8.9 / 9.0 / — / — | [-1.39, 41.59](https://www.google.com/maps/search/?api=1&query=-1.39,41.59) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bushbushle%20National%20Park%20%28Lag%20Badana%29%2C%20Somalia) |
-| — | [Daallo Mountain](sights/daallo-mountain.yaml) | Mountain / peak | **—** | **Nature 9.0**, **Photography 8.9** | 8.7 / 8.8 / 8.5 / — / — | [10.8, 47.35](https://www.google.com/maps/search/?api=1&query=10.8,47.35) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Daallo%20Mountain%2C%20Somalia) |
-| — | [Dhagah Kureh Rock Art](sights/dhagah-kureh.yaml) | Attraction | **—** | **History 9.0**, **Culture 8.8** | 8.7 / 9.0 / 8.8 / — / — | [9.72, 43.85093](https://www.google.com/maps/search/?api=1&query=9.72,43.85093) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dhagah%20Kureh%20Rock%20Art%2C%20Somalia) |
-| — | [Dhambalin Rock Art](sights/dhambalin.yaml) | Attraction | **—** | **History 9.3**, **Culture 9.1** | 8.8 / 9.3 / 9.2 / — / — | [10.3652, 45.434](https://www.google.com/maps/search/?api=1&query=10.3652,45.434) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dhambalin%20Rock%20Art%2C%20Somalia) |
-| — | [Hobyo Grass and Shrubland](sights/hobyo-grass-shrubland.yaml) | Attraction | **—** | **Nature 9.2**, **Wildlife 9.0** | — / 9.1 / 9.1 / — / — | [4.43537, 47.493575](https://www.google.com/maps/search/?api=1&query=4.43537,47.493575) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hobyo%20Grass%20and%20Shrubland%2C%20Somalia) |
-| — | [Liido Beach](sights/lido-beach.yaml) | Beach / bay | **—** | **Beaches 8.3**, **Culture 7.7** | 7.9 / 7.4 / 7.2 / — / — | [2.04423, 45.37092](https://www.google.com/maps/search/?api=1&query=2.04423,45.37092) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Liido%20Beach%2C%20Somalia) |
-| — | [Mogadishu Secondo-Lido Lighthouse](sights/mogadishu-secondo-lido-lighthouse.yaml) | Attraction | **—** | **History 8.6**, **Architecture 8.2** | 7.5 / 8.2 / 8.5 / — / — | [2.034333, 45.344111](https://www.google.com/maps/search/?api=1&query=2.034333,45.344111) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mogadishu%20Secondo-Lido%20Lighthouse%2C%20Somalia) |
-| — | [National Museum of Somalia](sights/national-museum-somalia.yaml) | Museum / heritage | **—** | **Culture 8.8**, **History 8.8** | — / 8.1 / 8.6 / — / — | [2.04, 45.34](https://www.google.com/maps/search/?api=1&query=2.04,45.34) | [Google Maps](https://www.google.com/maps/search/?api=1&query=National%20Museum%20of%20Somalia%2C%20Somalia) |
+| 2 | [Dhambalin Rock Art](sights/dhambalin.yaml) | Attraction | **89.95** | **History 9.3**, **Culture 9.1** | 8.8 / 9.3 / 9.2 / 8.6 / 9.0 | [10.3652, 45.434](https://www.google.com/maps/search/?api=1&query=10.3652,45.434) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dhambalin%20Rock%20Art%2C%20Somalia) |
+| 3 | [Dhagah Kureh Rock Art](sights/dhagah-kureh.yaml) | Attraction | **87.90** | **History 9.0**, **Culture 8.8** | 8.7 / 9.0 / 8.8 / 8.6 / 8.8 | [9.72, 43.85093](https://www.google.com/maps/search/?api=1&query=9.72,43.85093) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dhagah%20Kureh%20Rock%20Art%2C%20Somalia) |
+| 4 | [Daallo Mountain](sights/daallo-mountain.yaml) | Mountain / peak | **86.65** | **Nature 9.0**, **Photography 8.9** | 8.7 / 8.8 / 8.5 / 8.7 / 8.5 | [10.8, 47.35](https://www.google.com/maps/search/?api=1&query=10.8,47.35) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Daallo%20Mountain%2C%20Somalia) |
+| 5 | [Bushbushle National Park (Lag Badana)](sights/bushbushle-national-park.yaml) | Park / reserve | **85.35** | **Nature 9.1**, **Wildlife 9.0** | 8.1 / 8.9 / 9.0 / 8.2 / 8.5 | [-1.39, 41.59](https://www.google.com/maps/search/?api=1&query=-1.39,41.59) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bushbushle%20National%20Park%20%28Lag%20Badana%29%2C%20Somalia) |
+| 6 | [Hobyo Grass and Shrubland](sights/hobyo-grass-shrubland.yaml) | Attraction | **84.85** | **Nature 9.2**, **Wildlife 9.0** | 7.8 / 9.1 / 9.1 / 8.0 / 8.5 | [4.43537, 47.493575](https://www.google.com/maps/search/?api=1&query=4.43537,47.493575) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hobyo%20Grass%20and%20Shrubland%2C%20Somalia) |
+| 7 | [Old Berbera Heritage Quarter](sights/old-berbera.yaml) | Attraction | **83.30** | **Architecture 8.8**, **History 8.7**, **Culture 8.6** | 8.2 / 8.7 / 8.5 / 8.1 / 7.8 | [10.438, 45.014](https://www.google.com/maps/search/?api=1&query=10.438,45.014) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Old%20Berbera%20Heritage%20Quarter%2C%20Somalia) |
+| 8 | [Sheikh Mountain Pass](sights/sheikh-mountain-pass.yaml) | Mountain / peak | **79.80** | **Photography 8.8**, **Nature 8.6** | 8.5 / 8.2 / 7.0 / 8.2 / 7.5 | [9.96, 45.19](https://www.google.com/maps/search/?api=1&query=9.96,45.19) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sheikh%20Mountain%20Pass%2C%20Somalia) |
+| 9 | [Hargeisa War Memorial](sights/hargeisa-war-memorial.yaml) | Museum / heritage | **79.45** | **History 8.8**, **Culture 8.2** | 7.8 / 8.6 / 8.5 / 7.5 / 6.3 | [9.56146, 44.06541](https://www.google.com/maps/search/?api=1&query=9.56146,44.06541) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hargeisa%20War%20Memorial%2C%20Somalia) |
+| 10 | [Mogadishu Secondo-Lido Lighthouse](sights/mogadishu-secondo-lido-lighthouse.yaml) | Attraction | **78.60** | **History 8.6**, **Architecture 8.2** | 7.5 / 8.2 / 8.5 / 7.2 / 7.8 | [2.034333, 45.344111](https://www.google.com/maps/search/?api=1&query=2.034333,45.344111) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mogadishu%20Secondo-Lido%20Lighthouse%2C%20Somalia) |
+| 11 | [Batalaale Beach](sights/batalaale-beach.yaml) | Beach / bay | **77.60** | **Beaches 8.8**, **Relaxation 8.5**, **Photography 8.3** | 8.2 / 7.9 / 6.8 / 8.3 / 7.2 | [10.459, 45.0705](https://www.google.com/maps/search/?api=1&query=10.459,45.0705) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Batalaale%20Beach%2C%20Somalia) |
+| 12 | [Liido Beach](sights/lido-beach.yaml) | Beach / bay | **76.90** | **Beaches 8.3**, **Culture 7.7** | 7.9 / 7.4 / 7.2 / 8.4 / 7.7 | [2.04423, 45.37092](https://www.google.com/maps/search/?api=1&query=2.04423,45.37092) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Liido%20Beach%2C%20Somalia) |
+| 13 | [National Museum of Somalia](sights/national-museum-somalia.yaml) | Museum / heritage | **76.55** | **Culture 8.8**, **History 8.8** | 6.9 / 8.1 / 8.6 / 7.2 / 7.6 | [2.04, 45.34](https://www.google.com/maps/search/?api=1&query=2.04,45.34) | [Google Maps](https://www.google.com/maps/search/?api=1&query=National%20Museum%20of%20Somalia%2C%20Somalia) |
 
 ---
 

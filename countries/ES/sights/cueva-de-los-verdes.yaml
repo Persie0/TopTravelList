@@ -1,0 +1,16 @@
+id: sight-es-cueva-de-los-verdes
+name: "Cueva de los Verdes"
+location:
+  country_code: ES
+  latitude: 29.16042
+  longitude: -13.43937
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.5
+  experience: 8.8
+  depth: 8.3
+  categories:
+    nature: 9.2
+    photography: 9.1
+    adventure: 8.9

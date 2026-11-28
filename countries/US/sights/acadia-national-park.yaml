@@ -1,0 +1,16 @@
+id: sight-us-acadia-national-park
+name: "Acadia National Park"
+location:
+  country_code: US
+  latitude: 44.30778
+  longitude: -68.30063
+scores:
+  impact: 8.6
+  uniqueness: 8.1
+  significance: 8.1
+  experience: 8.9
+  depth: 8.7
+  categories:
+    nature: 8.8
+    photography: 8.8
+    adventure: 8.7

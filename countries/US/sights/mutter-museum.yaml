@@ -1,0 +1,16 @@
+id: sight-us-mutter-museum
+name: "Mütter Museum Philadelphia Medical History"
+location:
+  country_code: US
+  latitude: 39.953
+  longitude: -75.176
+scores:
+  impact: 8.5
+  uniqueness: 9.1
+  significance: 8.8
+  experience: 8.6
+  depth: 8.6
+  categories:
+    history: 9.1
+    culture: 9.0
+    family: 7.5

@@ -1,0 +1,16 @@
+id: sight-us-oregon-caves
+name: "Oregon Caves National Monument and Preserve"
+location:
+  country_code: US
+  latitude: 42.098
+  longitude: -123.407
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 8.6
+  experience: 8.8
+  depth: 8.7
+  categories:
+    nature: 9.3
+    adventure: 9.2
+    photography: 9.1

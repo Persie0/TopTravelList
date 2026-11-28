@@ -1,0 +1,16 @@
+id: sight-ar-las-grutas-coast
+name: "Las Grutas Coastal Cliffs and Beach Experience"
+location:
+  country_code: AR
+  latitude: -40.81
+  longitude: -65.08
+scores:
+  impact: 8.7
+  uniqueness: 8.4
+  significance: 8.0
+  experience: 9.0
+  depth: 8.3
+  categories:
+    nature: 9.0
+    relaxation: 9.3
+    photography: 9.1

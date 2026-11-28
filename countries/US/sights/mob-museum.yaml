@@ -1,0 +1,16 @@
+id: sight-us-mob-museum
+name: "Mob Museum Las Vegas Organized Crime and Law Enforcement History"
+location:
+  country_code: US
+  latitude: 36.172
+  longitude: -115.142
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.9
+  depth: 8.8
+  categories:
+    history: 9.2
+    culture: 9.0
+    architecture: 8.8

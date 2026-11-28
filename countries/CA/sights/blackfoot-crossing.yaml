@@ -1,0 +1,16 @@
+id: sight-ca-blackfoot-crossing
+name: "Blackfoot Crossing Historical Park Siksika"
+location:
+  country_code: CA
+  latitude: 50.785
+  longitude: -112.989
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 8.7
+  depth: 8.9
+  categories:
+    culture: 9.4
+    history: 9.4
+    architecture: 9.1

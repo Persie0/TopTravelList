@@ -1,0 +1,15 @@
+id: sight-fr-lafleche-zoo
+name: "Zoo de La Flèche Wildlife Park"
+location:
+  country_code: FR
+  latitude: 47.675
+  longitude: -0.058
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.3
+  experience: 9.0
+  depth: 8.8
+  categories:
+    wildlife: 9.3
+    family: 9.4

@@ -1,0 +1,16 @@
+id: sight-ae-sharjah-desert-park
+name: "Sharjah Desert Park"
+location:
+  country_code: AE
+  latitude: 25.28325
+  longitude: 55.69654
+scores:
+  impact: 8.1
+  uniqueness: 8.4
+  significance: 8.2
+  experience: 8.4
+  depth: 8.7
+  categories:
+    wildlife: 8.9
+    nature: 8.7
+    family: 8.7

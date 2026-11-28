@@ -1,0 +1,16 @@
+id: sight-ca-marble-mountain
+name: "Marble Mountain Resort Newfoundland Skiing"
+location:
+  country_code: CA
+  latitude: 48.94
+  longitude: -57.83
+scores:
+  impact: 8.6
+  uniqueness: 8.4
+  significance: 8.1
+  experience: 8.8
+  depth: 8.5
+  categories:
+    adventure: 9.3
+    nature: 9.2
+    photography: 9.2

@@ -619,3 +619,21 @@ No numerical score or evidence-status changes made by this pass.
 - Final decision: Provisional worldwide V2 assessment of defined visitor scope.
 - Earlier decision: none.
 - Verification still needed: exact GPS, independent material claims, numerical peer calibration and current access.
+
+### 2026-11-27 reassessment — Anakele royal burial heritage
+
+See [pass 219 individual decision](../worldwide-restored-access-pass219-2026-11-27.md#wfanakele--anakele-royal-burial-heritage) for source details, four peers, and current provisional rating 81.60. Replaces earlier deferral, not earlier review history.
+
+## sight-wf-tonga-toto-lanutavake — Tonga Toto Archaeological Fort and Lake Lanutavake — 2026-11-27
+
+- YAML: [source](../../../countries/WF/sights/tonga-toto-lanutavake.yaml)
+- Action: new
+- Scope: Separate Tongan-era remains and adjacent crater lake; representative lake coordinate, exact fort location pending; excludes Talietumu.
+- Representative coordinates: -13.3044, -176.2131; approximate, not independently verified.
+- Evidence status: **desk-based provisional; scope source-linked**
+- Sources (search excerpts, 2026-11-27): https://www.france.fr/en/article/the-islands-of-wallis-and-futuna-what-to-do-what-to-see/ ; https://www.aeroports.cci.nc/en/tontouta/news/wallis-bound-lagoon-crater-lakes-and-traditions ; https://en.wikipedia.org/wiki/Lake_Lanutavake.
+- Core I/U/S/E/D: 8.4 / 8.9 / 9.0 / 8.4 / 8.3.
+- Categories: history:9.3,culture:9.0,nature:8.9.
+- Overall: 86.35/100.
+- Decision: Fast editorial assessment below 90; no 9.5+ fields. Temporary access excluded from intrinsic score; rating does not imply access authorization.
+- Verification pending: factual/coordinate checks and full Python validation.

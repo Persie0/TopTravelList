@@ -1,0 +1,16 @@
+id: sight-ca-peggys-cove
+name: "Peggy’s Cove Lighthouse and Granite Coastal Landscape"
+location:
+  country_code: CA
+  latitude: 44.492
+  longitude: -63.918
+scores:
+  impact: 8.9
+  uniqueness: 8.6
+  significance: 8.6
+  experience: 8.8
+  depth: 8.3
+  categories:
+    photography: 9.4
+    nature: 9.2
+    history: 9.1

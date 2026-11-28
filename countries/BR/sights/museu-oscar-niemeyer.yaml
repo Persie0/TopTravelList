@@ -1,0 +1,16 @@
+id: sight-br-museu-oscar-niemeyer
+name: "Oscar Niemeyer Museum Curitiba"
+location:
+  country_code: BR
+  latitude: -25.41
+  longitude: -49.267
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.9
+  depth: 9.0
+  categories:
+    architecture: 9.4
+    culture: 9.3
+    photography: 9.3

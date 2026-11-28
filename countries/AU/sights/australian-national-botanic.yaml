@@ -1,0 +1,16 @@
+id: sight-au-australian-national-botanic
+name: "Australian National Botanic Gardens Canberra"
+location:
+  country_code: AU
+  latitude: -35.277
+  longitude: 149.11
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.0
+  experience: 9.0
+  depth: 9.2
+  categories:
+    nature: 9.4
+    relaxation: 9.2
+    photography: 9.2

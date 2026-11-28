@@ -1,0 +1,16 @@
+id: sight-fr-espadon-submarine
+name: "Espadon Submarine Museum Saint-Nazaire"
+location:
+  country_code: FR
+  latitude: 47.27557
+  longitude: -2.19892
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 8.9
+  experience: 8.8
+  depth: 8.2
+  categories:
+    history: 9.2
+    culture: 9.0
+    family: 8.8

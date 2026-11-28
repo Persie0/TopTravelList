@@ -1,0 +1,16 @@
+id: sight-tr-istanbul-archaeological-museums
+name: "Istanbul Archaeological Museums"
+location:
+  country_code: TR
+  latitude: 41.01169
+  longitude: 28.98121
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 8.8
+  depth: 9.2
+  categories:
+    history: 9.4
+    culture: 9.3
+    architecture: 8.6

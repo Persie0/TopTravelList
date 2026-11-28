@@ -1,0 +1,16 @@
+id: sight-za-pilgrims-rest
+name: "Pilgrim’s Rest Mpumalanga Historic Gold Mining Town"
+location:
+  country_code: ZA
+  latitude: -24.894
+  longitude: 30.756
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.6
+  depth: 8.5
+  categories:
+    history: 9.3
+    architecture: 9.1
+    culture: 9.1

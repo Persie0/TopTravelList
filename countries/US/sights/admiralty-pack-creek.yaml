@@ -1,0 +1,16 @@
+id: sight-us-admiralty-pack-creek
+name: "Admiralty Island National Monument and Pack Creek Bear Viewing"
+location:
+  country_code: US
+  latitude: 57.9
+  longitude: -134.25
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 9.0
+  experience: 9.1
+  depth: 9.0
+  categories:
+    wildlife: 9.4
+    nature: 9.4
+    photography: 9.3

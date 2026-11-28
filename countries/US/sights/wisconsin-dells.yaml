@@ -1,0 +1,16 @@
+id: sight-us-wisconsin-dells
+name: "Wisconsin Dells River Sandstone Gorge Boat Tours"
+location:
+  country_code: US
+  latitude: 43.633
+  longitude: -89.777
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.4
+  experience: 8.9
+  depth: 8.6
+  categories:
+    nature: 9.1
+    photography: 9.2
+    family: 9.0

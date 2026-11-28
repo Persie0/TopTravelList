@@ -1,0 +1,16 @@
+id: sight-no-nigardsbreen
+name: "Nigardsbreen glacier"
+location:
+  country_code: "NO"
+  latitude: 61.69241
+  longitude: 7.18169
+scores:
+  impact: 8.9
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.7
+  depth: 8.4
+  categories:
+    nature: 9.1
+    photography: 9.0
+    adventure: 8.9

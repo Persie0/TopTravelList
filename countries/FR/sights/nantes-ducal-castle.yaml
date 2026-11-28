@@ -1,0 +1,17 @@
+id: sight-fr-nantes-ducal-castle
+name: "Château des Ducs de Bretagne and Nantes History Museum"
+location:
+  country_code: FR
+  latitude: 47.2164571
+  longitude: -1.5487493
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 9.0
+  depth: 9.2
+  categories:
+    architecture: 9.3
+    history: 9.4
+    culture: 9.3
+    photography: 9.2

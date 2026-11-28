@@ -1,0 +1,17 @@
+id: sight-tr-anitkabir
+name: "Anıtkabir Mausoleum and Museum Ankara"
+location:
+  country_code: TR
+  latitude: 39.92501
+  longitude: 32.8369
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 9.3
+  experience: 9.0
+  depth: 9.0
+  categories:
+    history: 9.4
+    architecture: 9.3
+    culture: 9.2
+    photography: 9.2

@@ -1,0 +1,16 @@
+id: sight-ca-stratford-festival
+name: "Stratford Festival Classical and Contemporary Theatre"
+location:
+  country_code: CA
+  latitude: 43.37
+  longitude: -80.97
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 9.3
+  depth: 9.2
+  categories:
+    culture: 9.4
+    history: 9.3
+    nightlife: 9.2

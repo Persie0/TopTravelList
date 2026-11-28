@@ -1,0 +1,16 @@
+id: sight-fr-neouvielle-reserve
+name: "Néouvielle Nature Reserve Alpine Lakes and Trails"
+location:
+  country_code: FR
+  latitude: 42.836
+  longitude: 0.151
+scores:
+  impact: 9.3
+  uniqueness: 9.1
+  significance: 8.9
+  experience: 9.2
+  depth: 9.2
+  categories:
+    nature: 9.4
+    photography: 9.4
+    adventure: 9.3

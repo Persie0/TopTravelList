@@ -1,0 +1,16 @@
+id: sight-ca-mnbaq
+name: "Musée national des beaux-arts du Québec"
+location:
+  country_code: CA
+  latitude: 46.798
+  longitude: -71.224
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.8
+  depth: 9.1
+  categories:
+    culture: 9.4
+    architecture: 9.3
+    history: 9.2

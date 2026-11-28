@@ -1,0 +1,16 @@
+id: sight-us-biscayne
+name: "Biscayne National Park"
+location:
+  country_code: US
+  latitude: 25.49
+  longitude: -80.21
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.9
+  depth: 8.9
+  categories:
+    nature: 9.3
+    wildlife: 9.3
+    adventure: 9.2

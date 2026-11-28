@@ -1,0 +1,16 @@
+id: sight-au-national-gallery-of-australia
+name: "National Gallery of Australia"
+location:
+  country_code: AU
+  latitude: -35.30091
+  longitude: 149.13669
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 9.0
+  depth: 9.3
+  categories:
+    culture: 9.4
+    history: 9.1
+    architecture: 8.6

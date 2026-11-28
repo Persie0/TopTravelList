@@ -1,0 +1,17 @@
+id: sight-fr-monts-arree
+name: "Monts d’Arrée Moorland Ridges and Hiking Trails"
+location:
+  country_code: FR
+  latitude: 48.35038
+  longitude: -3.94566
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 8.9
+  depth: 9.0
+  categories:
+    nature: 9.2
+    photography: 9.2
+    adventure: 9.1
+    relaxation: 8.8

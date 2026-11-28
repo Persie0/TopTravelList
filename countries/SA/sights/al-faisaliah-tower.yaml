@@ -1,0 +1,15 @@
+id: sight-sa-al-faisaliah-tower
+name: "Al Faisaliah Tower Observation Deck"
+location:
+  country_code: SA
+  latitude: 24.6902
+  longitude: 46.68501
+scores:
+  impact: 8.4
+  uniqueness: 8.0
+  significance: 7.8
+  experience: 8.3
+  depth: 6.8
+  categories:
+    architecture: 8.9
+    photography: 8.9

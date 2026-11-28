@@ -1,0 +1,18 @@
+id: sight-nz-bay-of-islands
+name: "Bay of Islands (Northland)"
+location:
+  country_code: NZ
+  latitude: -35.30959
+  longitude: 174.20764
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 9.1
+  depth: 9.0
+  categories:
+    nature: 9.2
+    beaches: 9.0
+    photography: 9.2
+    adventure: 9.0
+    relaxation: 9.1

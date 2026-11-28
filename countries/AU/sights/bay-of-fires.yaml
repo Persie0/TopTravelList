@@ -1,0 +1,16 @@
+id: sight-au-bay-of-fires
+name: "Bay of Fires Conservation Area Tasmania"
+location:
+  country_code: AU
+  latitude: -41.216
+  longitude: 148.282
+scores:
+  impact: 9.0
+  uniqueness: 8.7
+  significance: 8.3
+  experience: 9.0
+  depth: 8.5
+  categories:
+    beaches: 9.3
+    nature: 9.2
+    photography: 9.4

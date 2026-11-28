@@ -1,0 +1,17 @@
+id: sight-ar-quebrada-del-condorito-national-park
+name: "Quebrada del Condorito National Park"
+location:
+  country_code: AR
+  latitude: -31.68
+  longitude: -64.73
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.7
+  depth: 8.6
+  categories:
+    nature: 9.2
+    wildlife: 9.3
+    photography: 9.2
+    adventure: 9.0

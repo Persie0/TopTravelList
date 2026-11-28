@@ -1,0 +1,16 @@
+id: sight-us-heye-center
+name: "National Museum of the American Indian New York Heye Center"
+location:
+  country_code: US
+  latitude: 40.704
+  longitude: -74.014
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.8
+  depth: 8.9
+  categories:
+    culture: 9.3
+    history: 9.2
+    architecture: 9.0

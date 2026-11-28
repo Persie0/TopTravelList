@@ -1,0 +1,16 @@
+id: sight-tr-koprulu-canyon
+name: "Köprülü Canyon National Park"
+location:
+  country_code: TR
+  latitude: 37.27161
+  longitude: 31.14396
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 9.1
+  depth: 9.0
+  categories:
+    nature: 9.3
+    adventure: 9.4
+    photography: 9.3

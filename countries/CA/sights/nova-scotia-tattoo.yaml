@@ -1,0 +1,16 @@
+id: sight-ca-nova-scotia-tattoo
+name: "Royal Nova Scotia International Tattoo Halifax"
+location:
+  country_code: CA
+  latitude: 44.647
+  longitude: -63.577
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 9.1
+  experience: 9.3
+  depth: 9.1
+  categories:
+    culture: 9.4
+    history: 9.3
+    nightlife: 9.2

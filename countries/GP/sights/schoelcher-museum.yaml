@@ -1,0 +1,15 @@
+id: sight-gp-schoelcher-museum
+name: "Musée Schœlcher Pointe-à-Pitre Art and History Collections"
+location:
+  country_code: GP
+  latitude: 16.237
+  longitude: -61.536
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.5
+  depth: 8.7
+  categories:
+    culture: 9.3
+    history: 9.3

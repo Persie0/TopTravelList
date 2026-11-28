@@ -1,0 +1,16 @@
+id: sight-gf-zoo-guyane
+name: "Zoo de Guyane Macouria Native Wildlife Park"
+location:
+  country_code: GF
+  latitude: 5.026
+  longitude: -52.5
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.8
+  depth: 8.7
+  categories:
+    wildlife: 9.3
+    family: 9.2
+    nature: 9.2

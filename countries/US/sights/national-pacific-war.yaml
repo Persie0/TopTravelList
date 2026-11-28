@@ -1,0 +1,16 @@
+id: sight-us-national-pacific-war
+name: "National Museum of the Pacific War Fredericksburg"
+location:
+  country_code: US
+  latitude: 30.274
+  longitude: -98.866
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.9
+  depth: 9.0
+  categories:
+    history: 9.3
+    culture: 9.0
+    family: 8.9

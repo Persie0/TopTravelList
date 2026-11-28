@@ -1,0 +1,16 @@
+id: sight-it-genoa-aquarium
+name: "Aquarium of Genoa"
+location:
+  country_code: IT
+  latitude: 44.41015
+  longitude: 8.92629
+scores:
+  impact: 8.7
+  uniqueness: 8.4
+  significance: 8.3
+  experience: 9.0
+  depth: 8.9
+  categories:
+    family: 9.3
+    wildlife: 9.0
+    relaxation: 8.8

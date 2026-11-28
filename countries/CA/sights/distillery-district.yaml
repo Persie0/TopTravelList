@@ -1,0 +1,16 @@
+id: sight-ca-distillery-district
+name: "Toronto Distillery Historic District"
+location:
+  country_code: CA
+  latitude: 43.65
+  longitude: -79.359
+scores:
+  impact: 8.5
+  uniqueness: 8.5
+  significance: 8.7
+  experience: 8.8
+  depth: 8.6
+  categories:
+    architecture: 9.2
+    culture: 9.1
+    history: 9.1

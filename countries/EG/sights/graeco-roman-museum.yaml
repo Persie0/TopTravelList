@@ -1,0 +1,16 @@
+id: sight-eg-graeco-roman-museum
+name: "Graeco-Roman Museum (Alexandria)"
+location:
+  country_code: EG
+  latitude: 31.19926
+  longitude: 29.90687
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 9.0
+  depth: 9.0
+  categories:
+    history: 9.4
+    culture: 9.3
+    architecture: 8.6

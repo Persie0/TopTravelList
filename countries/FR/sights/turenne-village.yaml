@@ -1,0 +1,16 @@
+id: sight-fr-turenne-village
+name: "Turenne Historic Village and Castle Ruins"
+location:
+  country_code: FR
+  latitude: 45.054
+  longitude: 1.582
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.8
+  depth: 8.5
+  categories:
+    architecture: 9.2
+    history: 9.2
+    photography: 9.3

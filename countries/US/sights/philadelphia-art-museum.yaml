@@ -1,0 +1,16 @@
+id: sight-us-philadelphia-art-museum
+name: "Philadelphia Museum of Art"
+location:
+  country_code: US
+  latitude: 39.9656
+  longitude: -75.181
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 9.3
+  experience: 9.2
+  depth: 9.4
+  categories:
+    culture: 9.4
+    history: 9.3
+    architecture: 9.2

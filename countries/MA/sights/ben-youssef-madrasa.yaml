@@ -1,0 +1,17 @@
+id: sight-ma-ben-youssef-madrasa
+name: "Ben Youssef Madrasa"
+location:
+  country_code: MA
+  latitude: 31.63188
+  longitude: -7.98711
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.7
+  depth: 8.1
+  categories:
+    architecture: 9.3
+    history: 9.0
+    culture: 9.0
+    photography: 9.1

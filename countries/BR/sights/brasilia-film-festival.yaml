@@ -1,0 +1,16 @@
+id: sight-br-brasilia-film-festival
+name: "Festival de Brasília do Cinema Brasileiro Film Screenings and Cultural Programme"
+location:
+  country_code: BR
+  latitude: -15.812
+  longitude: -47.89
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 9.3
+  experience: 8.9
+  depth: 9.0
+  categories:
+    culture: 9.3
+    history: 9.2
+    nightlife: 9.0

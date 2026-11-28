@@ -1,0 +1,16 @@
+id: sight-fr-invalides-army-museum
+name: "Musée de l’Armée and Dôme des Invalides Paris"
+location:
+  country_code: FR
+  latitude: 48.855797
+  longitude: 2.312445
+scores:
+  impact: 9.2
+  uniqueness: 9.1
+  significance: 9.4
+  experience: 9.0
+  depth: 9.3
+  categories:
+    history: 9.4
+    architecture: 9.3
+    culture: 9.2

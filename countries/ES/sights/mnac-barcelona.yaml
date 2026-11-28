@@ -1,0 +1,16 @@
+id: sight-es-mnac-barcelona
+name: "National Art Museum of Catalonia"
+location:
+  country_code: ES
+  latitude: 41.3686
+  longitude: 2.15346
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 8.9
+  depth: 9.3
+  categories:
+    culture: 9.4
+    history: 9.3
+    architecture: 9.1

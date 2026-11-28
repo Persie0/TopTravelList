@@ -1,0 +1,17 @@
+id: sight-nz-cape-reinga
+name: "Cape Reinga / Te Rerenga Wairua"
+location:
+  country_code: NZ
+  latitude: -34.426639
+  longitude: 172.677639
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.6
+  depth: 7.8
+  categories:
+    nature: 9.1
+    photography: 9.3
+    culture: 9.2
+    history: 8.8

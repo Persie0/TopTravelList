@@ -777,3 +777,185 @@ Both authority pages inspected 2026-11-25. Existing ecological scores remain edi
 - Final decision: Provisional worldwide V2 editorial rating.
 - Earlier decision: none.
 - Verification still needed: full independent claim verification, current visitor conditions and representative location corroboration.
+
+## sight-fj-upper-navua-rafting — Upper Navua Conservation Area Guided Gorge Rafting — 2026-11-27
+
+- YAML: [source](../../../countries/FJ/sights/upper-navua-rafting.yaml)
+- Action: new
+- Scope: Protected Ramsar wetland canyon, established river rafting route; no lower river tubing or access outside guided route.
+- Representative coordinates: -18.07, 178.03; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.1 / 9.0 / 9.2 / 9.1.
+- Categories: nature:9.3 adventure:9.4 photography:9.3.
+- Overall: 90.95/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.fiji.travel/places-to-go/pacific-harbour/locations/conservation-whitewater-rafting-in-fiji, https://www.fiji.travel/things-to-do/thrilling/adventures-for-the-eco-concious-travller.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FJ/lavena-coastal-walk](../../../countries/FJ/sights/lavena-coastal-walk.yaml) | 8.7 / 8.5 / 7.8 / 8.8 / 8.4 | significance: +1.2 vs peer; depth: +0.7 vs peer |
+| [FJ/colo-i-suva-forest-park](../../../countries/FJ/sights/colo-i-suva-forest-park.yaml) | 7.7 / 7.5 / 7.6 / 8.3 / 7.6 | uniqueness: +1.6 vs peer; depth: +1.5 vs peer |
+| [NZ/kaituna-rafting](../../../countries/NZ/sights/kaituna-rafting.yaml) | 8.8 / 8.9 / 8.4 / 9.2 / 8.6 | significance: +0.6 vs peer; depth: +0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-fj-yasawa-manta — Drawaqa Yasawa Seasonal Manta Ray Snorkelling — 2026-11-27
+
+- YAML: [source](../../../countries/FJ/sights/yasawa-manta.yaml)
+- Action: new
+- Scope: Dedicated guided feeding-channel wildlife encounter in Yasawa, excludes other reef systems and other islands; no guaranteed sightings or touching.
+- Representative coordinates: -17.17, 177.19; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.2 / 8.9 / 9.1 / 8.8.
+- Categories: wildlife:9.4 nature:9.4 adventure:9.3.
+- Overall: 90.85/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.fiji.travel/things-to-do/diving/go-manta-rays-snorkelling-in-fiji, https://www.fiji.travel/things-to-do/diving/diving-fiji-marine-life-encounters.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FJ/beqa-lagoon](../../../countries/FJ/sights/beqa-lagoon.yaml) | 8.9 / 8.8 / 8.4 / 9.0 / 8.6 | significance: +0.5 vs peer; uniqueness: +0.4 vs peer |
+| [FJ/rainbow-reef](../../../countries/FJ/sights/rainbow-reef.yaml) | 9.2 / 9.1 / 8.7 / 9.2 / 8.8 | significance: +0.2 vs peer; uniqueness: +0.1 vs peer |
+| [NZ/poor-knights-diving](../../../countries/NZ/sights/poor-knights-diving.yaml) | 9.3 / 9.4 / 9.2 / 9.2 / 9.1 | significance: -0.3 vs peer; depth: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-fj-koroyanitu — Koroyanitu Heritage Park Abaca Village and Forest Trails — 2026-11-27
+
+- YAML: [source](../../../countries/FJ/sights/koroyanitu.yaml)
+- Action: new
+- Scope: Community-led Abaca village and named public forest/hiking routes; customary permission required.
+- Representative coordinates: -17.68, 177.57; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.6 / 8.7 / 8.8 / 8.7 / 8.8.
+- Categories: nature:9.2 culture:9.2 adventure:9.2.
+- Overall: 87.00/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.fiji.travel/things-to-do/wildlife/fijis-national-parks-and-marine-sanctuaries.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FJ/colo-i-suva-forest-park](../../../countries/FJ/sights/colo-i-suva-forest-park.yaml) | 7.7 / 7.5 / 7.6 / 8.3 / 7.6 | uniqueness: +1.2 vs peer; significance: +1.2 vs peer |
+| [FJ/lavena-coastal-walk](../../../countries/FJ/sights/lavena-coastal-walk.yaml) | 8.7 / 8.5 / 7.8 / 8.8 / 8.4 | significance: +1.0 vs peer; depth: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-fj-sigatoka-river-safari — Sigatoka River Community-Guided Village Safari — 2026-11-27
+
+- YAML: [source](../../../countries/FJ/sights/sigatoka-river-safari.yaml)
+- Action: new
+- Scope: Established river safari with participating communities, excludes Sigatoka dune heritage and Upper Navua.
+- Representative coordinates: -17.99, 177.56; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.6 / 8.7 / 8.8 / 8.6.
+- Categories: culture:9.2 nature:9.1 adventure:9.1.
+- Overall: 85.90/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FJ/sigatoka-sand-dunes](../../../countries/FJ/sights/sigatoka-sand-dunes.yaml) | 8.1 / 8.1 / 8.6 / 8.0 / 7.5 | depth: +1.1 vs peer; experience: +0.8 vs peer |
+| [FJ/levuka-historical-port-town](../../../countries/FJ/sights/levuka-historical-port-town.yaml) | 8.3 / 8.9 / 9.0 / 8.2 / 8.1 | experience: +0.6 vs peer; depth: +0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 214 scope decisions
+
+Beqa shark diving deferred as existing lagoon scope already incorporates specialist shark diving context; Great White Wall within Rainbow Reef also deferred. Drawaqa manta route separate from other reef systems; no guaranteed sightings or pristine reef health. Upper Navua rafting distinct from Sigatoka River.
+
+## sight-fj-des-voeux-tagimoucia — Des Voeux Peak and Tagimoucia Highland Forest Trek Taveuni — 2026-11-27
+
+- YAML: [source](../../../countries/FJ/sights/des-voeux-tagimoucia.yaml)
+- Action: new
+- Scope: Named highland forest and crater-lake route, excludes Lavena coast and Tavoro waterfalls; no endemic flower or bird sighting guaranteed.
+- Representative coordinates: -16.81, 179.95; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.2 / 9.0 / 8.7 / 8.9.
+- Categories: nature:9.4 wildlife:9.3 adventure:9.2.
+- Overall: 89.65/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating, lasting damage requires reassessment.
+- Sources consulted (2026-11-27): https://www.fiji.travel/places-to-go/taveuni-island/places/des-voeux-peak-tagimoucia, https://www.fiji.travel/places-to-go/taveuni-island/locations/top-things-to-do-in-taveuni.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FJ/lavena-coastal-walk](../../../countries/FJ/sights/lavena-coastal-walk.yaml) | 8.7 / 8.5 / 7.8 / 8.8 / 8.4 | significance: +1.2 vs peer; uniqueness: +0.7 vs peer |
+| [FJ/koroyanitu](../../../countries/FJ/sights/koroyanitu.yaml) | 8.6 / 8.7 / 8.8 / 8.7 / 8.8 | uniqueness: +0.5 vs peer; impact: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-fj-waitabu-marine — Waitabu Community Marine Park Guided Snorkelling — 2026-11-27
+
+- YAML: [source](../../../countries/FJ/sights/waitabu-marine.yaml)
+- Action: new
+- Scope: Community marine park on Taveuni eastern coast, distinct from Rainbow Reef in Somosomo Strait; no reef condition guarantee.
+- Representative coordinates: -16.8, -179.83; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.6 / 8.7 / 8.8 / 8.7 / 8.5.
+- Categories: nature:9.3 wildlife:9.3 culture:9.1.
+- Overall: 86.70/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating, lasting damage requires reassessment.
+- Sources consulted (2026-11-27): https://www.fiji.travel/things-to-do/wildlife/fijis-national-parks-and-marine-sanctuaries.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FJ/rainbow-reef](../../../countries/FJ/sights/rainbow-reef.yaml) | 9.2 / 9.1 / 8.7 / 9.2 / 8.8 | impact: -0.6 vs peer; experience: -0.5 vs peer |
+| [FJ/namena-marine-reserve](../../../countries/FJ/sights/namena-marine-reserve.yaml) | 9.2 / 9.1 / 9.1 / 9.2 / 8.9 | impact: -0.6 vs peer; experience: -0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-fj-biausevu-falls — Biausevu Village Guided Rainforest Waterfall Walk — 2026-11-27
+
+- YAML: [source](../../../countries/FJ/sights/biausevu-falls.yaml)
+- Action: new
+- Scope: Community-guided waterfall walk distinct from Tavoro; no safe bathing guarantee.
+- Representative coordinates: -18.2, 177.73; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.4 / 8.4 / 8.2 / 8.6 / 8.3.
+- Categories: nature:9.1 culture:9.0 photography:9.1.
+- Overall: 83.80/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating, lasting damage requires reassessment.
+- Sources consulted (2026-11-27): https://www.fiji.travel/places-to-go/coral-coast/places/biausevu-waterfall.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FJ/tavoro-falls](../../../countries/FJ/sights/tavoro-falls.yaml) | 8.4 / 7.8 / 7.1 / 8.5 / 8.0 | significance: +1.1 vs peer; uniqueness: +0.6 vs peer |
+| [FJ/colo-i-suva-forest-park](../../../countries/FJ/sights/colo-i-suva-forest-park.yaml) | 7.7 / 7.5 / 7.6 / 8.3 / 7.6 | uniqueness: +0.9 vs peer; impact: +0.7 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-fj-sabeto-mud-pools — Sabeto Geothermal Mud Pools and Hot Springs — 2026-11-27
+
+- YAML: [source](../../../countries/FJ/sights/sabeto-mud-pools.yaml)
+- Action: new
+- Scope: Public bathing experience distinct from Sleeping Giant garden; conditions apply.
+- Representative coordinates: -17.72, 177.49; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.2 / 8.5 / 8.1 / 8.7 / 8.1.
+- Categories: relaxation:9.2 nature:8.8 culture:8.8.
+- Overall: 83.20/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating, lasting damage requires reassessment.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FJ/garden-of-the-sleeping-giant](../../../countries/FJ/sights/garden-of-the-sleeping-giant.yaml) | 7.9 / 7.9 / 7.1 / 8.1 / 7.5 | significance: +1.0 vs peer; uniqueness: +0.6 vs peer |
+| [FJ/natadola-beach](../../../countries/FJ/sights/natadola-beach.yaml) | 8.6 / 7.7 / 6.4 / 8.7 / 7.3 | significance: +1.7 vs peer; uniqueness: +0.8 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 218 scope decisions
+
+Waitabu distinct from Rainbow Reef; Des Voeux excludes coastal trails. Sabeto mud bathing separate from garden. Beqa and Great White Wall previous parent deferrals retained. Bounded regional screen closed.

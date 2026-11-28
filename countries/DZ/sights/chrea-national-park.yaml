@@ -1,0 +1,17 @@
+id: sight-dz-chrea-national-park
+name: "Chréa National Park"
+location:
+  country_code: DZ
+  latitude: 36.4059
+  longitude: 2.8291
+scores:
+  impact: 8.7
+  uniqueness: 8.5
+  significance: 8.8
+  experience: 8.6
+  depth: 8.7
+  categories:
+    nature: 9.2
+    wildlife: 9.0
+    photography: 9.0
+    adventure: 8.8

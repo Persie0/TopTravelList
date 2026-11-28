@@ -1,0 +1,16 @@
+id: sight-ar-rio-pilcomayo-national-park
+name: "Río Pilcomayo National Park Chaco Wetlands and Palm Savanna"
+location:
+  country_code: AR
+  latitude: -25.06
+  longitude: -58.12
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.5
+  depth: 8.6
+  categories:
+    nature: 9.3
+    wildlife: 9.3
+    photography: 9.1

@@ -1,0 +1,16 @@
+id: sight-au-kalbarri-national-park
+name: "Kalbarri National Park"
+location:
+  country_code: AU
+  latitude: -27.55302
+  longitude: 114.44606
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 8.4
+  experience: 8.8
+  depth: 8.9
+  categories:
+    nature: 9.1
+    photography: 9.2
+    adventure: 8.9

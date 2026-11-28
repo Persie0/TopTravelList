@@ -1,0 +1,16 @@
+id: sight-fr-parc-prehistoire-ariege
+name: "Parc de la Préhistoire Tarascon-sur-Ariège"
+location:
+  country_code: FR
+  latitude: 42.841
+  longitude: 1.58
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 8.6
+  experience: 9.1
+  depth: 9.0
+  categories:
+    family: 9.4
+    culture: 9.2
+    history: 9.1

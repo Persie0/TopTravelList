@@ -1,0 +1,16 @@
+id: sight-au-melbourne-zoo
+name: "Melbourne Zoo Royal Park"
+location:
+  country_code: AU
+  latitude: -37.784
+  longitude: 144.951
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 9.0
+  depth: 8.9
+  categories:
+    wildlife: 9.2
+    family: 9.3
+    nature: 8.9

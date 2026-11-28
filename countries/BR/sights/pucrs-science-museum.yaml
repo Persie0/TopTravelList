@@ -1,0 +1,16 @@
+id: sight-br-pucrs-science-museum
+name: "PUCRS Museum of Science and Technology Porto Alegre"
+location:
+  country_code: BR
+  latitude: -30.059
+  longitude: -51.173
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 8.9
+  depth: 9.0
+  categories:
+    family: 9.4
+    nature: 9.2
+    culture: 9.1

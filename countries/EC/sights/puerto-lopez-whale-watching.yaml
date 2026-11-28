@@ -1,0 +1,16 @@
+id: sight-ec-puerto-lopez-whale-watching
+name: "Puerto López Seasonal Humpback Whale Watching"
+location:
+  country_code: EC
+  latitude: -1.56
+  longitude: -80.81
+scores:
+  impact: 9.3
+  uniqueness: 9.1
+  significance: 8.8
+  experience: 9.2
+  depth: 8.5
+  categories:
+    wildlife: 9.4
+    nature: 9.4
+    photography: 9.4

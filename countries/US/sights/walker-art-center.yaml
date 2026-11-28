@@ -1,0 +1,16 @@
+id: sight-us-walker-art-center
+name: "Walker Art Center and Minneapolis Sculpture Garden"
+location:
+  country_code: US
+  latitude: 44.9684
+  longitude: -93.2893
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 9.0
+  depth: 8.9
+  categories:
+    culture: 9.3
+    architecture: 9.2
+    photography: 9.2

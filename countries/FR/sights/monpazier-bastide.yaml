@@ -1,0 +1,17 @@
+id: sight-fr-monpazier-bastide
+name: "Monpazier Historic Bastide Town"
+location:
+  country_code: FR
+  latitude: 44.682
+  longitude: 0.895
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 8.8
+  depth: 8.6
+  categories:
+    architecture: 9.3
+    history: 9.2
+    photography: 9.2
+    culture: 9.0

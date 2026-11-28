@@ -1,0 +1,16 @@
+id: sight-us-palo-duro-canyon
+name: "Palo Duro Canyon State Park"
+location:
+  country_code: US
+  latitude: 34.95
+  longitude: -101.66
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.9
+  depth: 8.8
+  categories:
+    nature: 9.3
+    photography: 9.3
+    adventure: 9.2

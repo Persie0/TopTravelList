@@ -1,0 +1,16 @@
+id: sight-au-franklin-river-rafting
+name: "Franklin River Multi-Day Wilderness Rafting Tasmania"
+location:
+  country_code: AU
+  latitude: -42.214
+  longitude: 145.997
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 9.2
+  experience: 9.1
+  depth: 9.3
+  categories:
+    adventure: 9.4
+    nature: 9.4
+    photography: 9.2

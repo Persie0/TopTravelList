@@ -1,0 +1,17 @@
+id: sight-sr-neotropical-butterfly-park
+name: "Lelydorp Neotropical Butterfly Park Visitor Experience"
+location:
+  country_code: SR
+  latitude: 5.7
+  longitude: -55.23
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 7.7
+  experience: 8.3
+  depth: 7.8
+  categories:
+    nature: 8.8
+    wildlife: 8.7
+    family: 8.9
+    photography: 8.8

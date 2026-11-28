@@ -1,0 +1,16 @@
+id: sight-fr-musee-picasso-antibes
+name: "Musée Picasso Antibes Château Grimaldi"
+location:
+  country_code: FR
+  latitude: 43.581
+  longitude: 7.129
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 9.2
+  experience: 9.0
+  depth: 9.1
+  categories:
+    culture: 9.4
+    history: 9.3
+    architecture: 9.1

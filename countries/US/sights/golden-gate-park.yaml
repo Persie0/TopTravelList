@@ -1,0 +1,17 @@
+id: sight-us-golden-gate-park
+name: "Golden Gate Park"
+location:
+  country_code: US
+  latitude: 37.7694
+  longitude: -122.48202
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 9.0
+  depth: 9.2
+  categories:
+    nature: 8.9
+    relaxation: 9.2
+    photography: 8.9
+    family: 8.9

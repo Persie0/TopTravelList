@@ -2,7 +2,7 @@
 
 # Tokelau (TK) — Cities, towns & villages ranking
 
-**0 ranked** · **5 unassessed** · **5 total** · Worldwide scoring **v2**
+**5 ranked** · **0 unassessed** · **5 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,23 +10,15 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
-
-No cities, towns & villages have been assessed for **Tokelau** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
-
-## Not yet fully assessed (5)
-
-These destinations have no rank until all five core scores are assessed.
+## Complete ranked list (5)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Atafu Village (Fale)](cities/atafu.yaml) | Village | **—** | **Culture 8.5**, **History 8.4** | — / 8.3 / 8.4 / — / — | [-8.542, -172.516](https://www.google.com/maps/search/?api=1&query=-8.542,-172.516) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Atafu%20Village%20%28Fale%29%2C%20Tokelau) |
-| — | [Fale (Fakaofo)](cities/fale-fakaofo.yaml) | City / town | **—** | **Culture 8.8**, **History 8.7** | — / 8.6 / 8.7 / — / — | [-9.384, -171.248](https://www.google.com/maps/search/?api=1&query=-9.384,-171.248) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fale%20%28Fakaofo%29%2C%20Tokelau) |
-| — | [Fenuafala (Fakaofo)](cities/fenuafala.yaml) | City / town | **—** | **Culture 7.8**, **History 7.6** | — / 7.5 / 7.6 / — / — | [-9.374, -171.263](https://www.google.com/maps/search/?api=1&query=-9.374,-171.263) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fenuafala%20%28Fakaofo%29%2C%20Tokelau) |
-| — | [Motuhaga (Nukunonu)](cities/motuhaga.yaml) | City / town | **—** | **Culture 7.7** | — / 7.4 / 7.4 / — / — | [-9.203, -171.846](https://www.google.com/maps/search/?api=1&query=-9.203,-171.846) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Motuhaga%20%28Nukunonu%29%2C%20Tokelau) |
-| — | [Nukunonu Village (Fale)](cities/nukunonu.yaml) | Village | **—** | **Culture 8.4**, **History 8.0** | — / 8.2 / 8.1 / — / — | [-9.198, -171.851](https://www.google.com/maps/search/?api=1&query=-9.198,-171.851) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nukunonu%20Village%20%28Fale%29%2C%20Tokelau) |
+| 1 | [Fale (Fakaofo)](cities/fale-fakaofo.yaml) | City / town | **83.25** | **Culture 8.8**, **History 8.7** | 8.0 / 8.6 / 8.7 / 8.1 / 8.2 | [-9.384, -171.248](https://www.google.com/maps/search/?api=1&query=-9.384,-171.248) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fale%20%28Fakaofo%29%2C%20Tokelau) |
+| 2 | [Atafu Village (Fale)](cities/atafu.yaml) | Village | **80.75** | **Culture 8.5**, **History 8.4** | 7.7 / 8.3 / 8.4 / 8.0 / 8.1 | [-8.542, -172.516](https://www.google.com/maps/search/?api=1&query=-8.542,-172.516) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Atafu%20Village%20%28Fale%29%2C%20Tokelau) |
+| 3 | [Nukunonu Village (Fale)](cities/nukunonu.yaml) | Village | **80.10** | **Culture 8.4**, **History 8.0** | 7.8 / 8.2 / 8.1 / 8.0 / 8.0 | [-9.198, -171.851](https://www.google.com/maps/search/?api=1&query=-9.198,-171.851) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nukunonu%20Village%20%28Fale%29%2C%20Tokelau) |
+| 4 | [Fenuafala (Fakaofo)](cities/fenuafala.yaml) | City / town | **73.00** | **Culture 7.8**, **History 7.6** | 6.9 / 7.5 / 7.6 / 7.3 / 7.4 | [-9.374, -171.263](https://www.google.com/maps/search/?api=1&query=-9.374,-171.263) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fenuafala%20%28Fakaofo%29%2C%20Tokelau) |
+| 5 | [Motuhaga (Nukunonu)](cities/motuhaga.yaml) | City / town | **72.25** | **Culture 7.7** | 6.9 / 7.4 / 7.4 / 7.3 / 7.3 | [-9.203, -171.846](https://www.google.com/maps/search/?api=1&query=-9.203,-171.846) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Motuhaga%20%28Nukunonu%29%2C%20Tokelau) |
 
 ---
 

@@ -1,0 +1,16 @@
+id: sight-us-mississippi-civil-rights
+name: "Mississippi Civil Rights Museum and Museum of Mississippi History Jackson"
+location:
+  country_code: US
+  latitude: 32.303
+  longitude: -90.179
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 9.0
+  depth: 9.2
+  categories:
+    history: 9.4
+    culture: 9.3
+    architecture: 8.8

@@ -1,0 +1,16 @@
+id: sight-ca-halifax-public-gardens
+name: "Halifax Public Gardens Victorian Landscapes"
+location:
+  country_code: CA
+  latitude: 44.643
+  longitude: -63.583
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 8.6
+  experience: 8.7
+  depth: 8.4
+  categories:
+    nature: 9.2
+    relaxation: 9.3
+    photography: 9.2

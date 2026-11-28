@@ -1,0 +1,16 @@
+id: sight-nz-larnach-castle
+name: "Larnach Castle and Gardens Dunedin"
+location:
+  country_code: NZ
+  latitude: -45.86
+  longitude: 170.627
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 8.9
+  depth: 8.8
+  categories:
+    architecture: 9.3
+    history: 9.2
+    culture: 9.1

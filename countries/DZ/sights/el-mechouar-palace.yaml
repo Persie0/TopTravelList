@@ -1,0 +1,17 @@
+id: sight-dz-el-mechouar-palace
+name: "El Mechouar Palace"
+location:
+  country_code: DZ
+  latitude: 34.88094
+  longitude: -1.30886
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.5
+  depth: 8.3
+  categories:
+    architecture: 9.3
+    history: 9.1
+    culture: 8.8
+    photography: 9.0

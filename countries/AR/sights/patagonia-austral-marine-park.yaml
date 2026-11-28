@@ -1,0 +1,16 @@
+id: sight-ar-patagonia-austral-marine-park
+name: "Patagonia Austral Marine Coastal Park and Cabo Dos Bahías"
+location:
+  country_code: AR
+  latitude: -44.91
+  longitude: -65.55
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.4
+  depth: 8.6
+  categories:
+    nature: 9.3
+    wildlife: 9.3
+    photography: 9.2

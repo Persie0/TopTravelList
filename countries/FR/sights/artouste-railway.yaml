@@ -1,0 +1,17 @@
+id: sight-fr-artouste-railway
+name: "Petit Train d’Artouste Mountain Railway"
+location:
+  country_code: FR
+  latitude: 42.878
+  longitude: -0.396
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 8.6
+  experience: 9.2
+  depth: 8.8
+  categories:
+    nature: 9.3
+    photography: 9.4
+    adventure: 9.3
+    family: 9.1

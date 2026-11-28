@@ -1,0 +1,16 @@
+id: sight-fr-montbeliard-castle
+name: "Château des Ducs de Wurtemberg Montbéliard Museum"
+location:
+  country_code: FR
+  latitude: 47.51
+  longitude: 6.8
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.8
+  depth: 8.9
+  categories:
+    architecture: 9.3
+    history: 9.3
+    culture: 9.3

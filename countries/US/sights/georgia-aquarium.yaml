@@ -1,0 +1,16 @@
+id: sight-us-georgia-aquarium
+name: "Georgia Aquarium"
+location:
+  country_code: US
+  latitude: 33.76334
+  longitude: -84.39501
+scores:
+  impact: 9.2
+  uniqueness: 9.1
+  significance: 8.4
+  experience: 9.2
+  depth: 9.2
+  categories:
+    wildlife: 9.2
+    nature: 9.0
+    family: 9.3

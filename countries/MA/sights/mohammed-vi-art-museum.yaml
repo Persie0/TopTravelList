@@ -1,0 +1,16 @@
+id: sight-ma-mohammed-vi-art-museum
+name: "Mohammed VI Museum of Modern and Contemporary Art"
+location:
+  country_code: MA
+  latitude: 34.01523
+  longitude: -6.83288
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.7
+  depth: 8.8
+  categories:
+    culture: 9.3
+    architecture: 8.8
+    history: 8.7

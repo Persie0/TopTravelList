@@ -1,0 +1,16 @@
+id: sight-us-miami-art-deco
+name: "Miami Beach Art Deco Historic District and Ocean Drive"
+location:
+  country_code: US
+  latitude: 25.78
+  longitude: -80.131
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 9.0
+  depth: 8.7
+  categories:
+    architecture: 9.3
+    photography: 9.3
+    culture: 9.1

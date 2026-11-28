@@ -1,0 +1,16 @@
+id: sight-us-canaveral-seashore
+name: "Canaveral National Seashore"
+location:
+  country_code: US
+  latitude: 28.81
+  longitude: -80.8
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.8
+  depth: 8.7
+  categories:
+    beaches: 9.3
+    nature: 9.2
+    wildlife: 9.2

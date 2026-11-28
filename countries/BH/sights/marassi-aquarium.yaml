@@ -1,0 +1,16 @@
+id: sight-bh-marassi-aquarium
+name: "Marassi Aquarium and Underwater Zoo"
+location:
+  country_code: BH
+  latitude: 26.30271554
+  longitude: 50.64461133
+scores:
+  impact: 8.2
+  uniqueness: 8.0
+  significance: 7.1
+  experience: 8.6
+  depth: 8.4
+  categories:
+    family: 8.9
+    wildlife: 8.7
+    nature: 8.3

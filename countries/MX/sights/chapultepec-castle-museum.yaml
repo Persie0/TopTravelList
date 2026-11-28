@@ -1,0 +1,17 @@
+id: sight-mx-chapultepec-castle-museum
+name: "Chapultepec Castle (National Museum of History)"
+location:
+  country_code: MX
+  latitude: 19.421
+  longitude: -99.182
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.9
+  depth: 8.8
+  categories:
+    architecture: 9.1
+    history: 9.4
+    culture: 9.1
+    photography: 8.8

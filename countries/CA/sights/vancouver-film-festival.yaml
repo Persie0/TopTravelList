@@ -1,0 +1,16 @@
+id: sight-ca-vancouver-film-festival
+name: "Vancouver International Film Festival Public Screenings"
+location:
+  country_code: CA
+  latitude: 49.28
+  longitude: -123.12
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 9.0
+  depth: 8.9
+  categories:
+    culture: 9.3
+    nightlife: 9.2
+    history: 9.1

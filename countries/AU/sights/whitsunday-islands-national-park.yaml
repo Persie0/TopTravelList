@@ -1,0 +1,17 @@
+id: sight-au-whitsunday-islands-national-park
+name: "Whitsunday Islands National Park"
+location:
+  country_code: AU
+  latitude: -20.06028
+  longitude: 148.87417
+scores:
+  impact: 9.1
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 9.0
+  depth: 9.0
+  categories:
+    nature: 9.2
+    beaches: 9.3
+    adventure: 9.0
+    photography: 9.3

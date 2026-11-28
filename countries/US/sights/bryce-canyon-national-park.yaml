@@ -1,0 +1,16 @@
+id: sight-us-bryce-canyon-national-park
+name: "Bryce Canyon National Park"
+location:
+  country_code: US
+  latitude: 37.64
+  longitude: -112.17
+scores:
+  impact: 9.4
+  uniqueness: 9.3
+  significance: 8.4
+  experience: 9.1
+  depth: 8.5
+  categories:
+    nature: 9.4
+    photography: 9.4
+    adventure: 8.8

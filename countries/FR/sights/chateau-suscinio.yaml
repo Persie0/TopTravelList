@@ -1,0 +1,17 @@
+id: sight-fr-chateau-suscinio
+name: "Château de Suscinio Ducal Castle"
+location:
+  country_code: FR
+  latitude: 47.51294
+  longitude: -2.72944
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.9
+  depth: 8.8
+  categories:
+    architecture: 9.3
+    history: 9.3
+    photography: 9.3
+    culture: 9.1

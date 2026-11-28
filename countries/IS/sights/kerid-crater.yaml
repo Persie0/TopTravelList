@@ -1,0 +1,15 @@
+id: sight-is-kerid-crater
+name: "Kerið Crater"
+location:
+  country_code: IS
+  latitude: 64.0411
+  longitude: -20.885
+scores:
+  impact: 8.3
+  uniqueness: 8.1
+  significance: 7.8
+  experience: 8.4
+  depth: 7.5
+  categories:
+    nature: 8.6
+    photography: 8.8

@@ -1,0 +1,18 @@
+id: sight-fr-pont-aven-riverside
+name: "Pont-Aven Historic Village and Bois d’Amour Riverside Walk"
+location:
+  country_code: FR
+  latitude: 47.8711
+  longitude: -3.7388
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.9
+  depth: 8.5
+  categories:
+    culture: 9.2
+    photography: 9.0
+    nature: 8.8
+    history: 8.9
+    relaxation: 8.9

@@ -1,0 +1,16 @@
+id: sight-us-sawtooth-nra
+name: "Sawtooth National Recreation Area Alpine Lakes and Mountains"
+location:
+  country_code: US
+  latitude: 44.1
+  longitude: -114.94
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 8.8
+  experience: 9.2
+  depth: 9.2
+  categories:
+    nature: 9.4
+    adventure: 9.4
+    photography: 9.4

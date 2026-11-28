@@ -1,0 +1,16 @@
+id: sight-ar-rosario-colectividades
+name: "Rosario National Festival of Colectividades Public Cultural and Culinary Programme"
+location:
+  country_code: AR
+  latitude: -32.947
+  longitude: -60.63
+scores:
+  impact: 9.2
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 9.3
+  depth: 9.3
+  categories:
+    culture: 9.4
+    food: 9.4
+    photography: 9.2

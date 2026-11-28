@@ -929,3 +929,257 @@
 - Final decision: Partial assessment, no total.
 - Earlier decision: none.
 - Verification still needed: current access, location corroboration and full independent claim verification.
+
+
+## sight-mg-nosy-be — Nosy Be island visitor landscape — 2026-11-26
+
+- YAML: [source](../../../countries/MG/sights/nosy-be.yaml)
+- Action: new
+- Precise subject and factual basis: Island coastal scenery, volcanic landscapes and visitor activities; separate from independently ranked Lokobe and Nosy Tanikely. Approximate island reference point; exact mapped pin pending. [Visitor information candidate](https://madagascar-tourisme.com/en/); source link provided for verification, not a claim of independent inspection.
+- Location check: -13.3167, 48.25; [candidate map reference](https://mapcarta.com/Nosy_Be); approximate representative point, exact source value and entrance not independently verified.
+- Evidence status: **source-linked-unverified**; independently confirm factual claims, link validity and coordinates before final approval.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [MG/lokobe](../../../countries/MG/sights/lokobe.yaml) | More focused native forest |
+| [MG/nosy-tanikely](../../../countries/MG/sights/nosy-tanikely.yaml) | Focused marine visit |
+| [MG/nosy-hara](../../../countries/MG/sights/nosy-hara.yaml) | Stronger karst marine landscape |
+| [TZ/mafia-island-marine-park](../../../countries/TZ/sights/mafia-island-marine-park.yaml) | More marine conservation depth |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Appealing tropical island landscapes |
+| Uniqueness | 8.5 | Distinctive volcanic and marine setting |
+| Significance | 8.2 | Natural and local heritage |
+| Experience | 8.9 | Varied coastal visits |
+| Depth | 8.9 | Multiple areas and activities |
+
+- Applicable categories: beaches:9.0, nature:8.8, relaxation:8.9, wildlife:8.7.
+- Computed worldwide overall: 86.00/100.
+- High-score challenge: Below 90 overall. No 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration, GPS and current visitor access.
+
+- Follow-up verification (2026-11-26): National tourism office supports volcanic landscapes and beach experiences; northwestern island identified, not similarly named southern islets. [Specific visitor source](https://madagascar-tourisme.com/fr/destination/nosy-be/); [published representative coordinates](https://mapcarta.com/14461858): -13.31421, 48.25899 (replaces earlier approximate point -13.3167, 48.25). Core and category ratings unchanged. Evidence remains **source-linked-unverified** pending complete claim-level corroboration and current access checks.
+
+
+## sight-mg-ile-sainte-marie — Île Sainte-Marie (Nosy Boraha) — 2026-11-26
+
+- YAML: [source](../../../countries/MG/sights/ile-sainte-marie.yaml)
+- Action: new
+- Precise subject and factual basis: Island beaches and coastal landscapes, seasonal humpback whale excursions and historic context; not a promise of sightings. Representative island point, exact access varies. [Visitor information candidate](https://madagascar-tourisme.com/en/); source link provided for verification, not a claim of independent inspection.
+- Location check: -16.9167, 49.9; [candidate map reference](https://mapcarta.com/Sainte_Marie_Island); approximate representative point, exact source value and entrance not independently verified.
+- Evidence status: **source-linked-unverified**; independently confirm factual claims, link validity and coordinates before final approval.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [MG/nosy-be](../../../countries/MG/sights/nosy-be.yaml) | Different volcanic island and visitor breadth |
+| [MG/nosy-hara](../../../countries/MG/sights/nosy-hara.yaml) | More striking limestone islands |
+| [TZ/mafia-island-marine-park](../../../countries/TZ/sights/mafia-island-marine-park.yaml) | Stronger protected reef scope |
+| [MG/nosy-tanikely](../../../countries/MG/sights/nosy-tanikely.yaml) | More focused snorkeling |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Tropical island scenery |
+| Uniqueness | 8.6 | Seasonal whale and island combination |
+| Significance | 8.4 | Marine and maritime heritage |
+| Experience | 8.8 | Varied land and sea visits |
+| Depth | 8.7 | Multiple coastal areas |
+
+- Applicable categories: beaches:8.9, wildlife:9.0, nature:8.8, history:8.4.
+- Computed worldwide overall: 86.00/100.
+- High-score challenge: Below 90 overall. No 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration, GPS and current visitor access.
+
+- Follow-up verification (2026-11-26): National tourism office supports beaches, hiking and seasonal humpback whale excursions; representative island point. [Specific visitor source](https://madagascar-tourisme.com/fr/destination/sainte-marie/); [published representative coordinates](https://mapcarta.com/14460104): -16.91952, 49.89574 (replaces earlier approximate point -16.9167, 49.9). Core and category ratings unchanged. Evidence remains **source-linked-unverified** pending complete claim-level corroboration and current access checks.
+
+## sight-mg-nosy-iranja — Nosy Iranja Islands — 2026-11-26
+
+- YAML: [source](../../../countries/MG/sights/nosy-iranja.yaml)
+- Action: new
+- Precise subject: Two islets and their tidal sandbar, not the entire Nosy Be archipelago.
+- Location check: -13.59498, 47.81701; [Mapcarta representative point](https://mapcarta.com/14473748), accessed 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Checked visitor evidence: ONTM describes the low-tide sandbar, swimming, snorkeling and boat excursions. [Office National du Tourisme de Madagascar](https://madagascar-tourisme.com/fr/destination/nosy-iranja/), accessed 2026-11-26. Promotional source, not independent ecological verification.
+- Missing or uncertain facts: independently corroborated ecological significance, current operator/access conditions.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [TH/similan-islands](../../../countries/TH/sights/similan-islands.yaml) | Broader protected island and reef network. |
+| [AU/whitehaven-beach](../../../countries/AU/sights/whitehaven-beach.yaml) | Comparable striking sand and water; Iranja adds tidal island connection. |
+| [VN/sao-beach-phu-quoc](../../../countries/VN/sights/sao-beach-phu-quoc.yaml) | More distinctive landscape than a single tropical beach. |
+| [MG/nosy-tanikely](../../../countries/MG/sights/nosy-tanikely.yaml) | Tanikely has stronger documented conservation scope. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Paired-islet sandbar is visually memorable. |
+| Uniqueness | 9.0 | Tidal connection distinguishes it from ordinary tropical beaches. |
+| Significance | 8.0 | Marine habitats matter but no comparable global protected-area significance established. |
+| Experience | 8.9 | Walking and swimming make a rewarding tide-dependent excursion. |
+| Depth | 8.0 | Focused day-trip scope limits exploration. |
+
+- Applicable categories: beaches:9.4, photography:9.3, nature:9.0, wildlife:8.5.
+- Computed worldwide overall: 86.85/100.
+- High-score challenge: Below 90 overall; no 9.5+ scores.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: current access and independent corroboration of ecological claims.
+
+## sight-mg-nosy-komba — Nosy Komba Island — 2026-11-26
+
+- YAML: [source](../../../countries/MG/sights/nosy-komba.yaml)
+- Action: new
+- Precise subject: Separate volcanic island and its village and nature visits; excludes Nosy Be.
+- Location check: -13.4696, 48.3485; [Mapcarta representative point](https://mapcarta.com/Nosy_Komba), accessed 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Checked visitor evidence: ONTM identifies island scenery, villages and biodiversity; Mapcarta identifies the island and its peak. [Office National du Tourisme de Madagascar](https://madagascar-tourisme.com/fr/destination/nosy-be/), accessed 2026-11-26. Promotional source, not independent ecological verification.
+- Missing or uncertain facts: independently corroborated ecological significance, current operator/access conditions.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [KR/jeju-island](../../../countries/KR/sights/jeju-island.yaml) | Jeju offers far greater geological and visitor breadth. |
+| [TH/similan-islands](../../../countries/TH/sights/similan-islands.yaml) | More marine-focused, with stronger protected reef scope. |
+| [VN/nha-trang-beach](../../../countries/VN/sights/nha-trang-beach.yaml) | Komba offers more varied village and natural settings. |
+| [MG/nosy-tanikely](../../../countries/MG/sights/nosy-tanikely.yaml) | Komba has broader land exploration but weaker documented marine conservation. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Forested island setting offers more than a beach stop. |
+| Uniqueness | 8.5 | Island and village biodiversity combination is distinctive, not globally singular. |
+| Significance | 8.3 | Local natural and cultural importance; global conservation claims remain unverified. |
+| Experience | 8.6 | Varied scenery and village exploration. |
+| Depth | 8.5 | Multiple environments but much smaller scale than Jeju. |
+
+- Applicable categories: nature:8.8, wildlife:8.7, culture:8.3, adventure:8.4.
+- Computed worldwide overall: 84.75/100.
+- High-score challenge: Below 90 overall; no 9.5+ scores.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: current access and independent corroboration of ecological claims.
+
+## sight-mg-nosy-sakatia — Nosy Sakatia Island — 2026-11-26
+
+- YAML: [source](../../../countries/MG/sights/nosy-sakatia.yaml)
+- Action: new
+- Precise subject: Small separate island with walking and marine excursions, not the whole archipelago.
+- Location check: -13.3059, 48.16239; [Mapcarta representative point](https://mapcarta.com/14459810), accessed 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Checked visitor evidence: ONTM describes walking trails, fishing villages, orchids, snorkeling and marine wildlife observation. [Office National du Tourisme de Madagascar](https://madagascar-tourisme.com/fr/destination/nosy-sakatia/), accessed 2026-11-26. Promotional source, not independent ecological verification.
+- Missing or uncertain facts: independently corroborated ecological significance, current operator/access conditions.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [TH/similan-islands](../../../countries/TH/sights/similan-islands.yaml) | Similan has stronger marine park scope. |
+| [KR/jeju-island](../../../countries/KR/sights/jeju-island.yaml) | Jeju has greater landscape variety and exploration depth. |
+| [VN/sao-beach-phu-quoc](../../../countries/VN/sights/sao-beach-phu-quoc.yaml) | Sakatia offers broader walks and nature beyond the beach. |
+| [MG/nosy-tanikely](../../../countries/MG/sights/nosy-tanikely.yaml) | Tanikely has more clearly documented protected reef importance. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Coastal and tropical vegetation combination is attractive. |
+| Uniqueness | 8.3 | Orchids and village paths add distinction to a familiar island format. |
+| Significance | 8.1 | Local biodiversity interest, below documented large marine reserves. |
+| Experience | 8.8 | Land and water activities create a rewarding small-island visit. |
+| Depth | 8.3 | Several activities but limited geographic scale. |
+
+- Applicable categories: nature:8.8, wildlife:8.8, beaches:8.8, relaxation:9.0.
+- Computed worldwide overall: 83.95/100.
+- High-score challenge: Below 90 overall; no 9.5+ scores.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: current access and independent corroboration of ecological claims.
+
+## sight-mg-ile-aux-nattes — Île aux Nattes (Nosy Nato) Island — 2026-11-26
+
+- YAML: [source](../../../countries/MG/sights/ile-aux-nattes.yaml)
+- Action: new
+- Precise subject: Separate small island south of Sainte-Marie; excludes whale watching credited to the parent island.
+- Location check: -17.1091, 49.807; [Mapcarta representative point](https://mapcarta.com/fr/%C3%8Ele_aux_Nattes), accessed 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Checked visitor evidence: ONTM identifies beaches, hiking, swimming and marine discovery; map reference confirms the separate island. [Office National du Tourisme de Madagascar](https://madagascar-tourisme.com/fr/destination/ile-aux-nattes/), accessed 2026-11-26. Promotional source, not independent ecological verification.
+- Missing or uncertain facts: independently corroborated ecological significance, current operator/access conditions.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [TH/similan-islands](../../../countries/TH/sights/similan-islands.yaml) | Much broader reef and archipelago scope. |
+| [AU/whitehaven-beach](../../../countries/AU/sights/whitehaven-beach.yaml) | Whitehaven has a more exceptional beach landscape. |
+| [VN/sao-beach-phu-quoc](../../../countries/VN/sights/sao-beach-phu-quoc.yaml) | Similar leisure merit, with extra island walking. |
+| [MG/ile-sainte-marie](../../../countries/MG/sights/ile-sainte-marie.yaml) | Parent island offers greater cultural and seasonal marine depth. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.4 | Quiet tropical coastal setting offers strong visual appeal. |
+| Uniqueness | 8.2 | Small island atmosphere is appealing but comparable elsewhere. |
+| Significance | 7.6 | Local coastal ecology without established world-leading significance. |
+| Experience | 8.7 | Beach visits and walks suit a relaxed excursion. |
+| Depth | 7.8 | Limited size and activity variety compared with larger islands. |
+
+- Applicable categories: beaches:8.9, nature:8.5, relaxation:9.1, photography:8.8.
+- Computed worldwide overall: 81.75/100.
+- High-score challenge: Below 90 overall; no 9.5+ scores.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: current access and independent corroboration of ecological claims.
+
+## sight-mg-mont-passot — Mont Passot (Bongo Pisa) viewpoint — 2026-11-26
+
+- YAML: [source](../../../countries/MG/sights/mont-passot.yaml)
+- Action: new
+- Precise subject: Summit viewpoint and its immediate approach; excludes the rest of Nosy Be and separate crater lakes.
+- Location check: -13.32165, 48.22905; [Mapcarta representative point](https://mapcarta.com/fr/N695421281), accessed 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Checked visitor evidence: ONTM explicitly describes summit panoramas, volcanic scenery, walks and sunset viewing. [Office National du Tourisme de Madagascar](https://madagascar-tourisme.com/fr/destination/nosy-be/), accessed 2026-11-26. Promotional source, not independent ecological verification.
+- Missing or uncertain facts: independently corroborated ecological significance, current operator/access conditions.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [VN/ha-long-bay](../../../countries/VN/sights/ha-long-bay.yaml) | World-leading seascape with much greater natural scale. |
+| [AU/kunanyi-mount-wellington](../../../countries/AU/sights/kunanyi-mount-wellington.yaml) | Larger mountain and broader trail network. |
+| [NO/rampestreken](../../../countries/NO/sights/rampestreken.yaml) | Comparable focused viewpoint with more dramatic mountain terrain. |
+| [VN/nha-trang-beach](../../../countries/VN/sights/nha-trang-beach.yaml) | Different but comparable short scenic visit; Passot offers more elevated landscape context. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.3 | Elevated lake and coastal panorama is memorable. |
+| Uniqueness | 7.9 | Volcanic island panorama is distinctive regionally but replaceable worldwide. |
+| Significance | 7.4 | No exceptional scientific or historical significance established for the viewpoint alone. |
+| Experience | 8.5 | Sunset and walking make a rewarding short visit. |
+| Depth | 7.3 | Single viewpoint has modest exploration depth. |
+
+- Applicable categories: nature:8.5, photography:8.9, adventure:7.9.
+- Computed worldwide overall: 79.50/100.
+- High-score challenge: Below 90 overall; no 9.5+ scores.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: current access and independent corroboration of ecological claims.

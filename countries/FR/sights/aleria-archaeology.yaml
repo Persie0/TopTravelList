@@ -1,0 +1,15 @@
+id: sight-fr-aleria-archaeology
+name: "Aléria Roman Archaeological Site and Jérôme Carcopino Museum"
+location:
+  country_code: FR
+  latitude: 42.102
+  longitude: 9.513
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 8.8
+  depth: 8.9
+  categories:
+    history: 9.4
+    culture: 9.3

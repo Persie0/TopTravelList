@@ -1,0 +1,16 @@
+id: sight-br-gramado-film-festival
+name: "Gramado Film Festival Public Screenings and Brazilian Cinema"
+location:
+  country_code: BR
+  latitude: -29.378
+  longitude: -50.873
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 9.0
+  depth: 8.9
+  categories:
+    culture: 9.3
+    nightlife: 9.2
+    history: 9.2

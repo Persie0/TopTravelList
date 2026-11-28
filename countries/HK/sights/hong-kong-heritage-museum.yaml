@@ -1,0 +1,16 @@
+id: sight-hk-hong-kong-heritage-museum
+name: "Hong Kong Heritage Museum"
+location:
+  country_code: HK
+  latitude: 22.37712
+  longitude: 114.18541
+scores:
+  impact: 8.2
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.7
+  depth: 8.7
+  categories:
+    culture: 9.0
+    history: 8.8
+    family: 8.5

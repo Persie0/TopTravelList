@@ -1,0 +1,16 @@
+id: sight-us-san-antonio-riverwalk
+name: "San Antonio Downtown River Walk"
+location:
+  country_code: US
+  latitude: 29.424
+  longitude: -98.489
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 9.2
+  depth: 8.8
+  categories:
+    culture: 9.1
+    photography: 9.2
+    relaxation: 9.1

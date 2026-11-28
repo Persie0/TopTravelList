@@ -1,0 +1,16 @@
+id: sight-fr-abbaye-ambronay
+name: "Abbaye d’Ambronay Benedictine Abbey"
+location:
+  country_code: FR
+  latitude: 45.995
+  longitude: 5.363
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.7
+  depth: 8.6
+  categories:
+    architecture: 9.2
+    history: 9.2
+    culture: 9.2

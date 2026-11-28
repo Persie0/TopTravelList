@@ -1,0 +1,16 @@
+id: sight-mq-fort-de-france-centre
+name: "Fort-de-France Historic Centre Cathedral and Market"
+location:
+  country_code: MQ
+  latitude: 14.604
+  longitude: -61.072
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.7
+  depth: 8.6
+  categories:
+    architecture: 9.2
+    culture: 9.3
+    history: 9.2

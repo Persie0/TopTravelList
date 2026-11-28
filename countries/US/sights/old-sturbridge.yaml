@@ -1,0 +1,16 @@
+id: sight-us-old-sturbridge
+name: "Old Sturbridge Village Living History Museum"
+location:
+  country_code: US
+  latitude: 42.108
+  longitude: -72.096
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 9.1
+  depth: 9.1
+  categories:
+    history: 9.3
+    culture: 9.2
+    family: 9.3

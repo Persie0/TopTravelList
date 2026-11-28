@@ -447,3 +447,414 @@ No numerical score or evidence-status changes made by this pass.
 - Final decision: provisional worldwide V2 editorial assessment, specified scope only.
 - Earlier decision: none.
 - Verification still needed: independent coordinate, visitor scope and full claim checks.
+
+
+## sight-re-sainte-rose-lava-tubes — Sainte-Rose 2004 Lava Flow Underground Lava Tube Tours — 2026-11-27
+
+- YAML: [source](../../../countries/RE/sights/sainte-rose-lava-tubes.yaml)
+- Action: new
+- Scope: Underground geological circuit only; no surface volcano or park landscape duplicate.
+- Representative coordinates: -21.202, 55.796; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.4 / 9.0 / 9.2 / 9.0.
+- Categories: nature:9.4,adventure:9.4,photography:9.3.
+- Overall: 91.30/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+
+## sight-re-cite-volcan — Cité du Volcan Réunion Volcanology Museum — 2026-11-27
+
+- YAML: [source](../../../countries/RE/sights/cite-volcan.yaml)
+- Action: new
+- Scope: Museum exhibits only, independent of the actual volcano.
+- Representative coordinates: -21.202, 55.574; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.6 / 8.8 / 8.8 / 9.0 / 9.0.
+- Categories: nature:9.3,family:9.3,culture:9.2.
+- Overall: 87.90/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+
+## sight-re-kelonia — Kélonia Saint-Leu Sea Turtle Observatory and Rehabilitation Centre — 2026-11-27
+
+- YAML: [source](../../../countries/RE/sights/kelonia.yaml)
+- Action: new
+- Scope: Education and conservation centre, not wild turtle encounters.
+- Representative coordinates: -21.151, 55.283; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.7 / 8.9 / 8.6.
+- Categories: wildlife:9.3,nature:9.2,family:9.3.
+- Overall: 87.45/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+
+
+## sight-re-stella-matutina — Musée Stella Matutina Sugar and Industrial Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/RE/sights/stella-matutina.yaml)
+- Action: new
+- Scope: Historic sugar industry museum.
+- Representative coordinates: -21.185, 55.3; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.8 / 8.9 / 8.8 / 8.9.
+- Categories: history:9.3,culture:9.3.
+- Overall: 87.70/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+
+
+## sight-re-hermitage-lagoon — L’Ermitage and La Saline Lagoon and Reef Snorkelling — 2026-11-27
+
+- YAML: [source](../../../countries/RE/sights/hermitage-lagoon.yaml)
+- Action: new
+- Scope: Adjacent lagoon beaches combined; no separate marine reserve umbrella.
+- Representative coordinates: -21.085, 55.229; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.7 / 8.3 / 9.1 / 8.7.
+- Categories: beaches:9.3,nature:9.3,wildlife:9.2.
+- Overall: 87.40/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+
+
+## sight-re-villele-museum — Musée de Villèle Plantation History Museum — 2026-11-27
+
+- YAML: [source](../../../countries/RE/sights/villele-museum.yaml)
+- Action: new
+- Scope: Plantation history and slavery interpretation.
+- Representative coordinates: -21.055, 55.265; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.8 / 9.0 / 8.6 / 8.8.
+- Categories: history:9.4,culture:9.3.
+- Overall: 87.20/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+
+### Source and calibration follow-up: sainte-rose-lava-tubes
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.reunion.fr/organisez/vos-activites/le-tour-de-l-ile-de-la-reunion/route-des-laves/ ; https://www.reunion.fr/offres/volcanorun-saint-gilles-les-bains-saint-paul-fr-557980/.
+- Research rationale: Young lava tube network, guided subterranean geology; 6.4 km network, not all accessible.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [RE/piton-de-la-fournaise](../../../countries/RE/sights/piton-de-la-fournaise.yaml) | 9.5 / 9.3 / 9.2 / 9.0 / 9.0 | impact: -0.5 vs peer; significance: -0.2 vs peer |
+| [RE/plaine-des-sables](../../../countries/RE/sights/plaine-des-sables.yaml) | 8.8 / 8.8 / 8.1 / 8.4 / 7.8 | depth: +1.2 vs peer; significance: +0.9 vs peer |
+| [FR/volcan-lemptegy](../../../countries/FR/sights/volcan-lemptegy.yaml) | 9.2 / 9.4 / 9.1 / 9.2 / 9.2 | impact: -0.2 vs peer; depth: -0.2 vs peer |
+| [FR/grotte-saint-marcel](../../../countries/FR/sights/grotte-saint-marcel.yaml) | 9.3 / 9.4 / 9.0 / 9.3 / 9.3 | impact: -0.3 vs peer; depth: -0.3 vs peer |
+
+Ranking rows checked; peer YAML and independent factual/coordinate verification pending.
+
+### Source and calibration follow-up: cite-volcan
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.reunion.fr/offres/cite-du-volcan-la-la-plaine-des-cafres-le-tampon-fr-570267/.
+- Research rationale: 6,000 m² interactive volcanology museum with immersive interpretation.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/vulcania](../../../countries/FR/sights/vulcania.yaml) | 9.1 / 9.3 / 8.8 / 9.3 / 9.2 | impact: -0.5 vs peer; uniqueness: -0.5 vs peer |
+| [FR/cite-espace-toulouse](../../../countries/FR/sights/cite-espace-toulouse.yaml) | 9.2 / 9.2 / 9.0 / 9.3 / 9.3 | impact: -0.6 vs peer; uniqueness: -0.4 vs peer |
+| [RE/piton-de-la-fournaise](../../../countries/RE/sights/piton-de-la-fournaise.yaml) | 9.5 / 9.3 / 9.2 / 9.0 / 9.0 | impact: -0.9 vs peer; uniqueness: -0.5 vs peer |
+| [FR/electropolis](../../../countries/FR/sights/electropolis.yaml) | 9.0 / 9.3 / 9.2 / 9.2 / 9.2 | uniqueness: -0.5 vs peer; impact: -0.4 vs peer |
+
+Ranking rows checked; peer YAML and independent factual/coordinate verification pending.
+
+- Pass 166 verification pending: independent factual and coordinate checks, full Python validation.
+
+## sight-re-west-coast-whale-watching — Réunion West Coast Humpback Whale and Dolphin Watching — 2026-11-27
+
+- YAML: [source](../../../countries/RE/sights/west-coast-whale-watching.yaml)
+- Action: new
+- Scope: Seasonal boat-based cetacean observation, representative Saint-Gilles departure point. No swimming with animals assumed; no sighting guarantee. Separate from shallow reef snorkelling.
+- Representative coordinates: -21.055, 55.219; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.2 / 8.8 / 9.3 / 8.8.
+- Categories: wildlife:9.4,nature:9.4,photography:9.3.
+- Overall: 91.25/100.
+- Decision: Source-informed provisional assessment from indexed tourism/government excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.reunion.fr/decouvrez/decouvrir-la-faune-et-la-flore-de-la-reunion/les-animaux/les-secrets-des-baleines-a-la-reunion/ ; https://en.reunion.fr/discover/dolphin-and-whale-watching/ ; https://www.reunion.gouv.fr/Actions-de-l-Etat/Mer-littoral-et-securite-maritime/Activites-maritimes/Les-activites-maritimes-a-la-Reunion.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [RE/kelonia](../../../countries/RE/sights/kelonia.yaml) | 8.7 / 8.8 / 8.7 / 8.9 / 8.6 | impact: +0.6 vs peer; uniqueness: +0.4 vs peer |
+| [RE/hermitage-lagoon](../../../countries/RE/sights/hermitage-lagoon.yaml) | 8.9 / 8.7 / 8.3 / 9.1 / 8.7 | uniqueness: +0.5 vs peer; significance: +0.5 vs peer |
+| [RE/cirque-de-mafate](../../../countries/RE/sights/cirque-de-mafate.yaml) | 9.4 / 9.2 / 8.8 / 9.2 / 9.2 | depth: -0.4 vs peer; impact: -0.1 vs peer |
+| [RE/piton-de-la-fournaise](../../../countries/RE/sights/piton-de-la-fournaise.yaml) | 9.5 / 9.3 / 9.2 / 9.0 / 9.0 | significance: -0.4 vs peer; experience: +0.3 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-re-fleur-jaune-canyoning — Fleur Jaune Cilaos Guided Canyoning — 2026-11-27
+
+- YAML: [source](../../../countries/RE/sights/fleur-jaune-canyoning.yaml)
+- Action: new
+- Scope: Dedicated guided technical canyon descent, distinct from Cilaos landscape sightseeing. No separate waterfall or generic island canyoning score.
+- Representative coordinates: -21.133, 55.459; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.2 / 8.6 / 9.3 / 9.1.
+- Categories: adventure:9.4,nature:9.3,photography:9.3.
+- Overall: 90.55/100.
+- Decision: Source-informed provisional assessment from indexed tourism/government excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.reunion.fr/organisez/conseils-de-voyage/conseils-pour-vos-vacances/vacances-des-aventuriers-a-la-reunion/ ; https://www.reunion.fr/decouvrez/la-reunion-une-ile-sept-ambiances/les-cirques-ambiance-de-territoire/ ; https://book.reunion.fr/fr/voir-faire/1010127/cilaos-aventure/afficher-les-details.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [RE/sainte-rose-lava-tubes](../../../countries/RE/sights/sainte-rose-lava-tubes.yaml) | 9.0 / 9.4 / 9.0 / 9.2 / 9.0 | significance: -0.4 vs peer; uniqueness: -0.2 vs peer |
+| [RE/cirque-de-cilaos](../../../countries/RE/sights/cirque-de-cilaos.yaml) | 9.1 / 8.7 / 8.5 / 9.0 / 8.9 | uniqueness: +0.5 vs peer; experience: +0.3 vs peer |
+| [RE/trou-de-fer](../../../countries/RE/sights/trou-de-fer.yaml) | 9.1 / 8.9 / 8.3 / 8.3 / 7.5 | depth: +1.6 vs peer; experience: +1.0 vs peer |
+| [RE/cirque-de-mafate](../../../countries/RE/sights/cirque-de-mafate.yaml) | 9.4 / 9.2 / 8.8 / 9.2 / 9.2 | impact: -0.3 vs peer; significance: -0.2 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-re-west-coast-scuba — Saint-Leu and West Coast Offshore Reef and Wreck Scuba Diving — 2026-11-27
+
+- YAML: [source](../../../countries/RE/sights/west-coast-scuba.yaml)
+- Action: new
+- Scope: Offshore scuba sites and wreck dives only, excluding lagoon snorkelling and whale watching; representative Saint-Leu departure.
+- Representative coordinates: -21.17, 55.282; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.5 / 9.1 / 9.0.
+- Categories: adventure:9.3,wildlife:9.3,nature:9.3.
+- Overall: 88.60/100.
+- Decision: Source-informed provisional assessment from indexed tourism/government excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://en.reunion.fr/discover/encounter-the-underwater-world-of-reunion-island/diving/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [RE/hermitage-lagoon](../../../countries/RE/sights/hermitage-lagoon.yaml) | 8.9 / 8.7 / 8.3 / 9.1 / 8.7 | depth: +0.3 vs peer; uniqueness: +0.2 vs peer |
+| [RE/kelonia](../../../countries/RE/sights/kelonia.yaml) | 8.7 / 8.8 / 8.7 / 8.9 / 8.6 | depth: +0.4 vs peer; impact: +0.2 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-re-hell-bourg-heritage — Hell-Bourg Creole Village and Maison Folio Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/RE/sights/hell-bourg-heritage.yaml)
+- Action: new
+- Scope: Built Creole heritage and historic house rather than enclosing cirque scenery.
+- Representative coordinates: -21.064, 55.516; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 8.9 / 8.8 / 8.8.
+- Categories: culture:9.3,architecture:9.2,history:9.2.
+- Overall: 88.15/100.
+- Decision: Desk-based provisional estimate from overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [RE/cirque-de-salazie](../../../countries/RE/sights/cirque-de-salazie.yaml) | 9.0 / 8.7 / 8.5 / 8.8 / 8.7 | significance: +0.4 vs peer; impact: -0.3 vs peer |
+| [RE/villele-museum](../../../countries/RE/sights/villele-museum.yaml) | 8.5 / 8.8 / 9.0 / 8.6 / 8.8 | impact: +0.2 vs peer; experience: +0.2 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-re-saint-denis-heritage — Saint-Denis Rue de Paris Creole Mansions and Historic Centre — 2026-11-27
+
+- YAML: [source](../../../countries/RE/sights/saint-denis-heritage.yaml)
+- Action: new
+- Scope: Urban architecture and historic streets, excluding Jardin de l’État collections.
+- Representative coordinates: -20.881, 55.45; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.7 / 8.9 / 8.7 / 8.7.
+- Categories: architecture:9.2,history:9.2,culture:9.2.
+- Overall: 87.10/100.
+- Decision: Desk-based provisional estimate from overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [RE/villele-museum](../../../countries/RE/sights/villele-museum.yaml) | 8.5 / 8.8 / 9.0 / 8.6 / 8.8 | impact: +0.1 vs peer; uniqueness: -0.1 vs peer |
+| [RE/stella-matutina](../../../countries/RE/sights/stella-matutina.yaml) | 8.6 / 8.8 / 8.9 / 8.8 / 8.9 | depth: -0.2 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-re-jardin-etat — Jardin de l’État and Natural History Museum Saint-Denis — 2026-11-27
+
+- YAML: [source](../../../countries/RE/sights/jardin-etat.yaml)
+- Action: new
+- Scope: Botanical garden and natural history museum treated as one site.
+- Representative coordinates: -20.889, 55.451; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.7 / 8.8 / 8.7 / 8.8.
+- Categories: nature:9.2,culture:9.2,family:9.1.
+- Overall: 86.70/100.
+- Decision: Desk-based provisional estimate from overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [RE/cite-volcan](../../../countries/RE/sights/cite-volcan.yaml) | 8.6 / 8.8 / 8.8 / 9.0 / 9.0 | experience: -0.3 vs peer; depth: -0.2 vs peer |
+| [RE/kelonia](../../../countries/RE/sights/kelonia.yaml) | 8.7 / 8.8 / 8.7 / 8.9 / 8.6 | impact: -0.2 vs peer; experience: -0.2 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-re-mascarin-garden — Mascarin Botanical Garden Saint-Leu — 2026-11-27
+
+- YAML: [source](../../../countries/RE/sights/mascarin-garden.yaml)
+- Action: new
+- Scope: Botanical collections and endemic plant interpretation.
+- Representative coordinates: -21.137, 55.298; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.9 / 8.7 / 8.8 / 8.9.
+- Categories: nature:9.3,photography:9.2,relaxation:9.1.
+- Overall: 87.55/100.
+- Decision: Desk-based provisional estimate from overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [RE/kelonia](../../../countries/RE/sights/kelonia.yaml) | 8.7 / 8.8 / 8.7 / 8.9 / 8.6 | depth: +0.3 vs peer; impact: -0.1 vs peer |
+| [RE/cite-volcan](../../../countries/RE/sights/cite-volcan.yaml) | 8.6 / 8.8 / 8.8 / 9.0 / 9.0 | experience: -0.2 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-re-jardin-parfums-epices — Jardin des Parfums et des Épices Saint-Philippe — 2026-11-27
+
+- YAML: [source](../../../countries/RE/sights/jardin-parfums-epices.yaml)
+- Action: new
+- Scope: Dedicated tropical spice and perfume plant garden, not wider forest.
+- Representative coordinates: -21.357, 55.722; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 8.6 / 8.8 / 8.8.
+- Categories: nature:9.3,culture:9.2,photography:9.2.
+- Overall: 87.55/100.
+- Decision: Desk-based provisional estimate from overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [RE/stella-matutina](../../../countries/RE/sights/stella-matutina.yaml) | 8.6 / 8.8 / 8.9 / 8.8 / 8.9 | significance: -0.3 vs peer; impact: +0.1 vs peer |
+| [RE/kelonia](../../../countries/RE/sights/kelonia.yaml) | 8.7 / 8.8 / 8.7 / 8.9 / 8.6 | depth: +0.2 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-re-bras-panon-vanilla — Bras-Panon Bourbon Vanilla Cooperative Visitor Experience — 2026-11-27
+
+- YAML: [source](../../../countries/RE/sights/bras-panon-vanilla.yaml)
+- Action: new
+- Scope: Vanilla cultivation and processing interpretation; no duplicate plantation umbrella.
+- Representative coordinates: -21, 55.678; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.9 / 8.7 / 8.7 / 8.7.
+- Categories: culture:9.3,food:9.2,history:9.1.
+- Overall: 86.60/100.
+- Decision: Desk-based provisional estimate from overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [RE/stella-matutina](../../../countries/RE/sights/stella-matutina.yaml) | 8.6 / 8.8 / 8.9 / 8.8 / 8.9 | impact: -0.2 vs peer; significance: -0.2 vs peer |
+| [RE/villele-museum](../../../countries/RE/sights/villele-museum.yaml) | 8.5 / 8.8 / 9.0 / 8.6 / 8.8 | significance: -0.3 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-re-etang-saint-paul — Étang de Saint-Paul Wetland Nature Reserve — 2026-11-27
+
+- YAML: [source](../../../countries/RE/sights/etang-saint-paul.yaml)
+- Action: new
+- Scope: Freshwater wetland reserve, distinct from marine reserve and mountain park.
+- Representative coordinates: -20.999, 55.285; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.8 / 8.5 / 8.7 / 8.7.
+- Categories: nature:9.3,wildlife:9.2,photography:9.1.
+- Overall: 86.55/100.
+- Decision: Desk-based provisional estimate from overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [RE/hermitage-lagoon](../../../countries/RE/sights/hermitage-lagoon.yaml) | 8.9 / 8.7 / 8.3 / 9.1 / 8.7 | experience: -0.4 vs peer; impact: -0.3 vs peer |
+| [RE/kelonia](../../../countries/RE/sights/kelonia.yaml) | 8.7 / 8.8 / 8.7 / 8.9 / 8.6 | significance: -0.2 vs peer; experience: -0.2 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-re-cap-mechant-coast — Cap Méchant and Saint-Philippe Lava Coast Walk — 2026-11-27
+
+- YAML: [source](../../../countries/RE/sights/cap-mechant-coast.yaml)
+- Action: new
+- Scope: Coastal lava cliffs and adjacent walk; excludes underground tubes and volcano ascent.
+- Representative coordinates: -21.37, 55.684; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.4 / 8.8 / 8.5.
+- Categories: nature:9.3,photography:9.3,relaxation:9.0.
+- Overall: 86.90/100.
+- Decision: Desk-based provisional estimate from overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [RE/plaine-des-sables](../../../countries/RE/sights/plaine-des-sables.yaml) | 8.8 / 8.8 / 8.1 / 8.4 / 7.8 | depth: +0.7 vs peer; experience: +0.4 vs peer |
+| [RE/grand-galet](../../../countries/RE/sights/grand-galet.yaml) | 8.5 / 7.9 / 7.0 / 8.2 / 7.0 | depth: +1.5 vs peer; significance: +1.4 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-re-grande-anse-beach — Grande Anse Beach and Coastal Picnic Landscape — 2026-11-27
+
+- YAML: [source](../../../countries/RE/sights/grande-anse-beach.yaml)
+- Action: new
+- Scope: Southern beach and coastal landscape, not swimming or lagoon snorkelling guarantee.
+- Representative coordinates: -21.371, 55.547; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.6 / 8.0 / 8.8 / 8.4.
+- Categories: beaches:9.2,photography:9.2,relaxation:9.2.
+- Overall: 85.20/100.
+- Decision: Desk-based provisional estimate from overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [RE/hermitage-lagoon](../../../countries/RE/sights/hermitage-lagoon.yaml) | 8.9 / 8.7 / 8.3 / 9.1 / 8.7 | significance: -0.3 vs peer; experience: -0.3 vs peer |
+| [RE/grand-galet](../../../countries/RE/sights/grand-galet.yaml) | 8.5 / 7.9 / 7.0 / 8.2 / 7.0 | depth: +1.4 vs peer; significance: +1.0 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-re-anse-des-cascades — Anse des Cascades Waterfalls and Coastal Palm Grove — 2026-11-27
+
+- YAML: [source](../../../countries/RE/sights/anse-des-cascades.yaml)
+- Action: new
+- Scope: Coastal waterfall and palm grove site, independent of lava tubes.
+- Representative coordinates: -21.198, 55.826; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.2 / 8.7 / 8.5.
+- Categories: nature:9.2,photography:9.3,relaxation:9.1.
+- Overall: 85.80/100.
+- Decision: Desk-based provisional estimate from overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [RE/grand-galet](../../../countries/RE/sights/grand-galet.yaml) | 8.5 / 7.9 / 7.0 / 8.2 / 7.0 | depth: +1.5 vs peer; significance: +1.2 vs peer |
+| [RE/trou-de-fer](../../../countries/RE/sights/trou-de-fer.yaml) | 9.1 / 8.9 / 8.3 / 8.3 / 7.5 | depth: +1.0 vs peer; impact: -0.4 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-re-sainte-anne-church — Église Sainte-Anne Baroque Church Saint-Benoît — 2026-11-27
+
+- YAML: [source](../../../countries/RE/sights/sainte-anne-church.yaml)
+- Action: new
+- Scope: Distinct ornate church interior and facade.
+- Representative coordinates: -21.083, 55.739; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.8 / 8.7 / 8.5 / 8.5.
+- Categories: architecture:9.3,culture:9.2,history:9.1.
+- Overall: 86.15/100.
+- Decision: Desk-based provisional estimate from overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [RE/villele-museum](../../../countries/RE/sights/villele-museum.yaml) | 8.5 / 8.8 / 9.0 / 8.6 / 8.8 | significance: -0.3 vs peer; depth: -0.3 vs peer |
+| [RE/stella-matutina](../../../countries/RE/sights/stella-matutina.yaml) | 8.6 / 8.8 / 8.9 / 8.8 / 8.9 | depth: -0.4 vs peer; experience: -0.3 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+

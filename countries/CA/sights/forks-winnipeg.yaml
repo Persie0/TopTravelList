@@ -1,0 +1,16 @@
+id: sight-ca-forks-winnipeg
+name: "The Forks National Historic Site Winnipeg"
+location:
+  country_code: CA
+  latitude: 49.887
+  longitude: -97.131
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 9.0
+  experience: 8.8
+  depth: 8.8
+  categories:
+    culture: 9.2
+    history: 9.2
+    food: 9.1

@@ -1,0 +1,16 @@
+id: sight-ca-royal-saskatchewan-museum
+name: "Royal Saskatchewan Museum Regina"
+location:
+  country_code: CA
+  latitude: 50.44
+  longitude: -104.617
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.7
+  depth: 8.8
+  categories:
+    nature: 9.2
+    history: 9.2
+    family: 9.2

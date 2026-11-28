@@ -1,0 +1,16 @@
+id: sight-ch-creux-du-van
+name: "Creux du Van"
+location:
+  country_code: CH
+  latitude: 46.933468
+  longitude: 6.722109
+scores:
+  impact: 8.8
+  uniqueness: 8.5
+  significance: 8.2
+  experience: 8.8
+  depth: 8.3
+  categories:
+    nature: 9.0
+    photography: 9.1
+    adventure: 8.8

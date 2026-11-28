@@ -1,0 +1,16 @@
+id: sight-us-sfmoma
+name: "San Francisco Museum of Modern Art"
+location:
+  country_code: US
+  latitude: 37.7858
+  longitude: -122.4011
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 9.2
+  depth: 9.3
+  categories:
+    culture: 9.4
+    history: 9.2
+    architecture: 9.1

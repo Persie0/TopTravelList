@@ -1,0 +1,16 @@
+id: sight-it-blue-grotto-capri
+name: "Blue Grotto (Grotta Azzurra, Capri)"
+location:
+  country_code: IT
+  latitude: 40.56094
+  longitude: 14.20574
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 8.2
+  experience: 8.5
+  depth: 7.3
+  categories:
+    nature: 9.0
+    photography: 9.1
+    adventure: 8.5

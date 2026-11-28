@@ -1,0 +1,16 @@
+id: sight-ca-iceberg-alley
+name: "Twillingate Iceberg Alley Seasonal Coastal Boat Tours"
+location:
+  country_code: CA
+  latitude: 49.65
+  longitude: -54.77
+scores:
+  impact: 9.3
+  uniqueness: 9.3
+  significance: 8.8
+  experience: 9.1
+  depth: 8.9
+  categories:
+    nature: 9.4
+    photography: 9.4
+    adventure: 9.3

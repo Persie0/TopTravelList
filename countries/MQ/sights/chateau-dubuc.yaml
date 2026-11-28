@@ -1,0 +1,16 @@
+id: sight-mq-chateau-dubuc
+name: "Château Dubuc Caravelle Historic Plantation Ruins"
+location:
+  country_code: MQ
+  latitude: 14.775
+  longitude: -60.875
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.6
+  depth: 8.7
+  categories:
+    history: 9.3
+    culture: 9.2
+    architecture: 9.2

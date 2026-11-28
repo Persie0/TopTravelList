@@ -1,0 +1,16 @@
+id: sight-fr-nevers-cathedral
+name: "Cathédrale Saint-Cyr-et-Sainte-Julitte Nevers"
+location:
+  country_code: FR
+  latitude: 46.988
+  longitude: 3.157
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.8
+  depth: 8.7
+  categories:
+    architecture: 9.4
+    history: 9.3
+    culture: 9.2

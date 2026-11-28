@@ -1,0 +1,16 @@
+id: sight-us-golden-gate-bridge
+name: "Golden Gate Bridge"
+location:
+  country_code: US
+  latitude: 37.818889
+  longitude: -122.477944
+scores:
+  impact: 9.2
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.7
+  depth: 7.8
+  categories:
+    architecture: 9.3
+    photography: 9.4
+    history: 8.9

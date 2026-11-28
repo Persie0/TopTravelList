@@ -1,0 +1,17 @@
+id: sight-sa-ushaiqer-heritage-village
+name: "Ushaiqer Heritage Village"
+location:
+  country_code: SA
+  latitude: 25.339751
+  longitude: 45.191235
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.6
+  depth: 8.4
+  categories:
+    architecture: 9.0
+    history: 8.9
+    culture: 8.9
+    photography: 9.0

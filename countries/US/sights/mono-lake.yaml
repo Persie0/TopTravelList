@@ -1,0 +1,16 @@
+id: sight-us-mono-lake
+name: "Mono Lake Tufa State Natural Reserve California"
+location:
+  country_code: US
+  latitude: 37.942
+  longitude: -119.027
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 8.5
+  experience: 8.8
+  depth: 8.7
+  categories:
+    nature: 9.3
+    photography: 9.4
+    wildlife: 9.0

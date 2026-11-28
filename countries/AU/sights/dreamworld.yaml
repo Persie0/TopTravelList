@@ -1,0 +1,16 @@
+id: sight-au-dreamworld
+name: "Dreamworld Gold Coast Theme Park"
+location:
+  country_code: AU
+  latitude: -27.864
+  longitude: 153.316
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.5
+  experience: 9.3
+  depth: 9.0
+  categories:
+    family: 9.3
+    adventure: 9.3
+    wildlife: 8.8

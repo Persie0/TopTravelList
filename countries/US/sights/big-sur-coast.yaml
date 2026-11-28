@@ -1,0 +1,16 @@
+id: sight-us-big-sur-coast
+name: "Big Sur Coast (Highway 1 scenic corridor)"
+location:
+  country_code: US
+  latitude: 36.372487
+  longitude: -121.902217
+scores:
+  impact: 9.1
+  uniqueness: 8.7
+  significance: 8.3
+  experience: 9.0
+  depth: 8.9
+  categories:
+    nature: 9.1
+    photography: 9.3
+    adventure: 8.8

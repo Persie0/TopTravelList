@@ -1,0 +1,16 @@
+id: sight-ma-rabat-history-civilizations-museum
+name: "Rabat Museum of History and Civilizations"
+location:
+  country_code: MA
+  latitude: 34.01377
+  longitude: -6.83159
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 9.2
+  experience: 8.6
+  depth: 8.8
+  categories:
+    history: 9.4
+    culture: 9.2
+    architecture: 8.4

@@ -1,0 +1,17 @@
+id: sight-es-turia-gardens
+name: "Turia Gardens Valencia"
+location:
+  country_code: ES
+  latitude: 39.47014
+  longitude: -0.36349
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.3
+  experience: 9.1
+  depth: 8.8
+  categories:
+    nature: 8.5
+    relaxation: 9.2
+    photography: 8.8
+    family: 9.0

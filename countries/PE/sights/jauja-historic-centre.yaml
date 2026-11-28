@@ -1,0 +1,16 @@
+id: sight-pe-jauja-historic-centre
+name: "Jauja Historic Centre and Colonial Architecture"
+location:
+  country_code: PE
+  latitude: -11.775
+  longitude: -75.497
+scores:
+  impact: 8.2
+  uniqueness: 8.3
+  significance: 8.7
+  experience: 8.6
+  depth: 8.5
+  categories:
+    history: 9.1
+    culture: 9.1
+    architecture: 9.0

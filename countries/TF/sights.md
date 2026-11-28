@@ -2,7 +2,7 @@
 
 # French Southern Territories (TF) — Sights & attractions ranking
 
-**0 ranked** · **6 unassessed** · **6 total** · Worldwide scoring **v2**
+**7 ranked** · **0 unassessed** · **7 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,24 +10,17 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
-
-No sights & attractions have been assessed for **French Southern Territories** yet.
-
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
-
-## Not yet fully assessed (6)
-
-These destinations have no rank until all five core scores are assessed.
+## Complete ranked list (7)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Bassas da India Atoll](sights/bassas-da-india.yaml) | Attraction | **—** | **Nature 8.8** | — / 8.8 / 8.4 / — / — | [-21.45, 39.75](https://www.google.com/maps/search/?api=1&query=-21.45,39.75) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bassas%20da%20India%20Atoll%2C%20French%20Southern%20Territories) |
-| — | [Europa Island (Ramsar wetland)](sights/europa-island.yaml) | Island | **—** | **Wildlife 9.3**, **Nature 9.1** | — / 8.9 / 9.2 / — / — | [-22.35, 40.35](https://www.google.com/maps/search/?api=1&query=-22.35,40.35) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Europa%20Island%20%28Ramsar%20wetland%29%2C%20French%20Southern%20Territories) |
-| — | [French Austral Lands and Seas](sights/austral-lands.yaml) | Attraction | **—** | **Nature 9.6**, **Wildlife 9.6** | — / 9.5 / 9.5 / — / — | [-49.35, 69.35](https://www.google.com/maps/search/?api=1&query=-49.35,69.35) | [Google Maps](https://www.google.com/maps/search/?api=1&query=French%20Austral%20Lands%20and%20Seas%2C%20French%20Southern%20Territories) |
-| — | [Glorieuses Archipelago nature reserve](sights/glorieuses.yaml) | Park / reserve | **—** | **Nature 9.1**, **Wildlife 9.1** | — / 8.8 / 9.1 / — / — | [-11.55, 47.333](https://www.google.com/maps/search/?api=1&query=-11.55,47.333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Glorieuses%20Archipelago%20nature%20reserve%2C%20French%20Southern%20Territories) |
-| — | [Juan de Nova Island](sights/juan-de-nova.yaml) | Island | **—** | **Wildlife 8.9**, **Nature 8.8** | — / 8.5 / 8.8 / — / — | [-17.05, 42.75](https://www.google.com/maps/search/?api=1&query=-17.05,42.75) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Juan%20de%20Nova%20Island%2C%20French%20Southern%20Territories) |
-| — | [Tromelin Island (natural and archaeological heritage)](sights/tromelin.yaml) | Museum / heritage | **—** | **History 9.0**, **Wildlife 8.8**, **Nature 8.7** | — / 8.9 / 9.0 / — / — | [-15.883, 54.517](https://www.google.com/maps/search/?api=1&query=-15.883,54.517) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tromelin%20Island%20%28natural%20and%20archaeological%20heritage%29%2C%20French%20Southern%20Territories) |
+| 1 | [French Austral Lands and Seas](sights/austral-lands.yaml) | Attraction | **95.10** | **Nature 9.6**, **Wildlife 9.6** | 9.7 / 9.5 / 9.5 / 9.1 / 9.6 | [-49.35, 69.35](https://www.google.com/maps/search/?api=1&query=-49.35,69.35) | [Google Maps](https://www.google.com/maps/search/?api=1&query=French%20Austral%20Lands%20and%20Seas%2C%20French%20Southern%20Territories) |
+| 2 | [Glorieuses Archipelago nature reserve](sights/glorieuses.yaml) | Park / reserve | **89.40** | **Nature 9.1**, **Wildlife 9.1** | 9.0 / 8.8 / 9.1 / 8.8 / 9.0 | [-11.55, 47.333](https://www.google.com/maps/search/?api=1&query=-11.55,47.333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Glorieuses%20Archipelago%20nature%20reserve%2C%20French%20Southern%20Territories) |
+| 3 | [Europa Island (Ramsar wetland)](sights/europa-island.yaml) | Island | **88.70** | **Wildlife 9.3**, **Nature 9.1** | 8.8 / 8.9 / 9.2 / 8.5 / 8.9 | [-22.35, 40.35](https://www.google.com/maps/search/?api=1&query=-22.35,40.35) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Europa%20Island%20%28Ramsar%20wetland%29%2C%20French%20Southern%20Territories) |
+| 4 | [Port Jeanne d’Arc Kerguelen Historic Whaling Station](sights/port-jeanne-arc.yaml) | Attraction | **87.10** | **History 9.3**, **Culture 9.0**, **Photography 8.8** | 8.5 / 9.2 / 8.9 / 8.2 / 8.5 | [-49.5544, 69.8228](https://www.google.com/maps/search/?api=1&query=-49.5544,69.8228) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Port%20Jeanne%20d%E2%80%99Arc%20Kerguelen%20Historic%20Whaling%20Station%2C%20French%20Southern%20Territories) |
+| 5 | [Juan de Nova Island](sights/juan-de-nova.yaml) | Island | **86.05** | **Wildlife 8.9**, **Nature 8.8** | 8.6 / 8.5 / 8.8 / 8.4 / 8.8 | [-17.05, 42.75](https://www.google.com/maps/search/?api=1&query=-17.05,42.75) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Juan%20de%20Nova%20Island%2C%20French%20Southern%20Territories) |
+| 5 | [Tromelin Island (natural and archaeological heritage)](sights/tromelin.yaml) | Museum / heritage | **86.05** | **History 9.0**, **Wildlife 8.8**, **Nature 8.7** | 8.2 / 8.9 / 9.0 / 8.2 / 8.9 | [-15.883, 54.517](https://www.google.com/maps/search/?api=1&query=-15.883,54.517) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tromelin%20Island%20%28natural%20and%20archaeological%20heritage%29%2C%20French%20Southern%20Territories) |
+| 7 | [Bassas da India Atoll](sights/bassas-da-india.yaml) | Attraction | **84.05** | **Nature 8.8** | 8.2 / 8.8 / 8.4 / 8.1 / 8.5 | [-21.45, 39.75](https://www.google.com/maps/search/?api=1&query=-21.45,39.75) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bassas%20da%20India%20Atoll%2C%20French%20Southern%20Territories) |
 
 ---
 

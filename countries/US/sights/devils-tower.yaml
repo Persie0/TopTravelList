@@ -1,0 +1,16 @@
+id: sight-us-devils-tower
+name: "Devils Tower National Monument (Bear Lodge)"
+location:
+  country_code: US
+  latitude: 44.59
+  longitude: -104.715
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 9.1
+  experience: 8.8
+  depth: 8.2
+  categories:
+    nature: 9.4
+    photography: 9.4
+    culture: 9.3

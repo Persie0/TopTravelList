@@ -1,0 +1,17 @@
+id: sight-kw-kuwait-geopark
+name: "Kuwait Geopark"
+location:
+  country_code: KW
+  latitude: 29.6378616
+  longitude: 48.0051816
+scores:
+  impact: 8.3
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.5
+  depth: 8.6
+  categories:
+    nature: 8.9
+    history: 8.7
+    family: 8.8
+    photography: 8.7

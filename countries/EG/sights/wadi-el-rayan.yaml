@@ -1,0 +1,17 @@
+id: sight-eg-wadi-el-rayan
+name: "Wadi El Rayan Lakes and Waterfalls"
+location:
+  country_code: EG
+  latitude: 29.14778
+  longitude: 30.3925
+scores:
+  impact: 8.7
+  uniqueness: 8.5
+  significance: 8.1
+  experience: 8.6
+  depth: 8.6
+  categories:
+    nature: 8.8
+    photography: 9.0
+    adventure: 8.6
+    wildlife: 8.4

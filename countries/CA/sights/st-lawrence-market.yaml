@@ -1,0 +1,16 @@
+id: sight-ca-st-lawrence-market
+name: "St Lawrence Market Toronto Food and Heritage"
+location:
+  country_code: CA
+  latitude: 43.649
+  longitude: -79.372
+scores:
+  impact: 8.5
+  uniqueness: 8.5
+  significance: 8.7
+  experience: 8.9
+  depth: 8.7
+  categories:
+    food: 9.3
+    culture: 9.1
+    history: 9.1

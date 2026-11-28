@@ -1,0 +1,16 @@
+id: sight-ca-kicking-horse-resort
+name: "Kicking Horse Mountain Resort Golden Alpine Skiing"
+location:
+  country_code: CA
+  latitude: 51.3
+  longitude: -117.05
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.4
+  experience: 9.3
+  depth: 8.9
+  categories:
+    adventure: 9.4
+    nature: 9.3
+    photography: 9.2

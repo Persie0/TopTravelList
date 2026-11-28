@@ -1,0 +1,16 @@
+id: sight-fr-cimiez-archaeology
+name: "Cimiez Roman Archaeological Site and Museum Nice"
+location:
+  country_code: FR
+  latitude: 43.72
+  longitude: 7.277
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.7
+  depth: 8.7
+  categories:
+    history: 9.3
+    culture: 9.1
+    architecture: 9.1

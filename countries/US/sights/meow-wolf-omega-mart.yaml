@@ -1,0 +1,16 @@
+id: sight-us-meow-wolf-omega-mart
+name: "Meow Wolf Omega Mart Las Vegas"
+location:
+  country_code: US
+  latitude: 36.132
+  longitude: -115.181
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 8.7
+  experience: 9.4
+  depth: 9.0
+  categories:
+    culture: 9.4
+    family: 9.2
+    photography: 9.3

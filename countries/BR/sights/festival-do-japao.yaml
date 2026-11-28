@@ -1,0 +1,16 @@
+id: sight-br-festival-do-japao
+name: "Festival do Japão São Paulo Japanese-Brazilian Cultural Exhibition"
+location:
+  country_code: BR
+  latitude: -23.647
+  longitude: -46.63
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 9.2
+  depth: 9.1
+  categories:
+    culture: 9.4
+    food: 9.4
+    family: 9.3

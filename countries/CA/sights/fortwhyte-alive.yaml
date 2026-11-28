@@ -1,0 +1,16 @@
+id: sight-ca-fortwhyte-alive
+name: "FortWhyte Alive Prairie and Bison Education Winnipeg"
+location:
+  country_code: CA
+  latitude: 49.823
+  longitude: -97.22
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.7
+  depth: 8.8
+  categories:
+    wildlife: 9.2
+    nature: 9.1
+    family: 9.2

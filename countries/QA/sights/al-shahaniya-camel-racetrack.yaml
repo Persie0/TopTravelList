@@ -1,0 +1,15 @@
+id: sight-qa-al-shahaniya-camel-racetrack
+name: "Al Shahaniya Camel Racetrack"
+location:
+  country_code: QA
+  latitude: 25.42191
+  longitude: 51.198
+scores:
+  impact: 7.9
+  uniqueness: 8.8
+  significance: 8.2
+  experience: 8.0
+  depth: 7.4
+  categories:
+    culture: 8.8
+    photography: 8.4

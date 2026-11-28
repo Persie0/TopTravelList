@@ -1,0 +1,17 @@
+id: sight-ma-oualidia-lagoon
+name: "Oualidia Lagoon"
+location:
+  country_code: MA
+  latitude: 32.739167
+  longitude: -9.036944
+scores:
+  impact: 8.7
+  uniqueness: 8.5
+  significance: 8.1
+  experience: 8.8
+  depth: 8.3
+  categories:
+    nature: 9.0
+    wildlife: 8.9
+    photography: 9.1
+    relaxation: 9.0

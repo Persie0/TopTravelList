@@ -1,0 +1,16 @@
+id: sight-mx-gran-cenote
+name: "Gran Cenote (Tulum)"
+location:
+  country_code: MX
+  latitude: 20.24656
+  longitude: -87.46411
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.0
+  experience: 8.9
+  depth: 7.8
+  categories:
+    nature: 9.0
+    photography: 9.1
+    adventure: 8.7

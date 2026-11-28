@@ -1,0 +1,16 @@
+id: sight-us-santa-fe-plaza
+name: "Santa Fe Plaza Historic District and Adobe Architecture"
+location:
+  country_code: US
+  latitude: 35.687
+  longitude: -105.938
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.9
+  depth: 8.9
+  categories:
+    culture: 9.4
+    architecture: 9.3
+    history: 9.3

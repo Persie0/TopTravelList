@@ -1,0 +1,16 @@
+id: sight-eg-new-wadi-sebua
+name: "New Wadi al-Sebua Temple Complex"
+location:
+  country_code: EG
+  latitude: 22.793194
+  longitude: 32.545361
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.2
+  depth: 8.6
+  categories:
+    history: 9.4
+    architecture: 9.1
+    photography: 8.9

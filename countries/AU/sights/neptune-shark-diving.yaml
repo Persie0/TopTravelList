@@ -1,0 +1,16 @@
+id: sight-au-neptune-shark-diving
+name: "Neptune Islands Great White Shark Cage Diving"
+location:
+  country_code: AU
+  latitude: -35.233
+  longitude: 136.083
+scores:
+  impact: 9.0
+  uniqueness: 9.4
+  significance: 8.9
+  experience: 9.1
+  depth: 8.8
+  categories:
+    wildlife: 9.4
+    adventure: 9.4
+    nature: 9.3

@@ -1,0 +1,17 @@
+id: sight-om-bandar-khayran-bay
+name: "Bandar Khayran Bay"
+location:
+  country_code: OM
+  latitude: 23.522778
+  longitude: 58.731944
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 8.1
+  experience: 8.9
+  depth: 8.6
+  categories:
+    nature: 9.1
+    wildlife: 8.8
+    adventure: 9.0
+    photography: 9.2

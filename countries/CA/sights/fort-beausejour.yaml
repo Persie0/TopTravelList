@@ -1,0 +1,16 @@
+id: sight-ca-fort-beausejour
+name: "Fort Beauséjour – Fort Cumberland National Historic Site"
+location:
+  country_code: CA
+  latitude: 45.86
+  longitude: -64.29
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 9.1
+  experience: 8.5
+  depth: 8.8
+  categories:
+    history: 9.4
+    culture: 9.2
+    architecture: 9.1

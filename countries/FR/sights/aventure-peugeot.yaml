@@ -1,0 +1,16 @@
+id: sight-fr-aventure-peugeot
+name: "Musée de L’Aventure Peugeot Sochaux Industrial and Automobile Heritage"
+location:
+  country_code: FR
+  latitude: 47.514
+  longitude: 6.829
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 9.2
+  experience: 9.2
+  depth: 9.2
+  categories:
+    history: 9.4
+    culture: 9.4
+    family: 9.3

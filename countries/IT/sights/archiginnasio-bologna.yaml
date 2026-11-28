@@ -1,0 +1,16 @@
+id: sight-it-archiginnasio-bologna
+name: "Archiginnasio Palace and Anatomical Theatre Bologna"
+location:
+  country_code: IT
+  latitude: 44.49191
+  longitude: 11.34341
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.6
+  depth: 8.3
+  categories:
+    architecture: 9.1
+    history: 9.3
+    culture: 9.2

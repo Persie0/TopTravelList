@@ -1,0 +1,16 @@
+id: sight-us-whitney-museum
+name: "Whitney Museum of American Art New York"
+location:
+  country_code: US
+  latitude: 40.7396
+  longitude: -74.0089
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.1
+  experience: 9.0
+  depth: 9.3
+  categories:
+    culture: 9.4
+    history: 9.2
+    architecture: 9.1

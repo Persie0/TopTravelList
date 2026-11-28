@@ -1,0 +1,17 @@
+id: sight-fr-gorges-ardeche
+name: "Gorges de l’Ardèche and Pont d’Arc River Canyon"
+location:
+  country_code: FR
+  latitude: 44.382
+  longitude: 4.416
+scores:
+  impact: 9.4
+  uniqueness: 9.2
+  significance: 8.8
+  experience: 9.4
+  depth: 9.2
+  categories:
+    nature: 9.4
+    adventure: 9.4
+    photography: 9.4
+    relaxation: 9.2

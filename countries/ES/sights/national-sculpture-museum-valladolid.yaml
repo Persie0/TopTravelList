@@ -1,0 +1,16 @@
+id: sight-es-national-sculpture-museum-valladolid
+name: "National Sculpture Museum Valladolid"
+location:
+  country_code: ES
+  latitude: 41.65707
+  longitude: -4.72426
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 8.7
+  depth: 9.0
+  categories:
+    culture: 9.4
+    history: 9.3
+    architecture: 9.1

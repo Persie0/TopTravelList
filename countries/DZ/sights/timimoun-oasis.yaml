@@ -1,0 +1,17 @@
+id: sight-dz-timimoun-oasis
+name: "Timimoun Historic Oasis and Ksar"
+location:
+  country_code: DZ
+  latitude: 29.2639
+  longitude: 0.2306
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 8.7
+  experience: 8.7
+  depth: 8.8
+  categories:
+    architecture: 9.3
+    photography: 9.4
+    culture: 9.1
+    nature: 8.9

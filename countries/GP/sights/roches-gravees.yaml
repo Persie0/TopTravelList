@@ -1,0 +1,15 @@
+id: sight-gp-roches-gravees
+name: "Parc Archéologique des Roches Gravées Trois-Rivières Petroglyphs"
+location:
+  country_code: GP
+  latitude: 15.98
+  longitude: -61.643
+scores:
+  impact: 8.5
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 8.6
+  depth: 8.7
+  categories:
+    history: 9.4
+    culture: 9.3

@@ -1,0 +1,15 @@
+id: sight-qa-desert-falls-water-adventure-park
+name: "Desert Falls Water & Adventure Park"
+location:
+  country_code: QA
+  latitude: 24.84918
+  longitude: 50.86153
+scores:
+  impact: 8.3
+  uniqueness: 8.1
+  significance: 6.1
+  experience: 8.9
+  depth: 8.6
+  categories:
+    family: 9.0
+    adventure: 8.9

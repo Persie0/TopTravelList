@@ -1,0 +1,16 @@
+id: sight-ar-mendoza-river-rafting
+name: "Potrerillos Mendoza River Guided Whitewater Rafting"
+location:
+  country_code: AR
+  latitude: -32.95
+  longitude: -69.2
+scores:
+  impact: 8.8
+  uniqueness: 8.5
+  significance: 8.4
+  experience: 9.1
+  depth: 8.5
+  categories:
+    adventure: 9.3
+    nature: 9.1
+    photography: 9.0

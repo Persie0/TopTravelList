@@ -1,0 +1,16 @@
+id: sight-au-dandenong-ranges
+name: "Dandenong Ranges National Park Forest Walks"
+location:
+  country_code: AU
+  latitude: -37.86
+  longitude: 145.35
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.3
+  experience: 8.9
+  depth: 8.7
+  categories:
+    nature: 9.2
+    photography: 9.2
+    relaxation: 9.1

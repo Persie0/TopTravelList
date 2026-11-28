@@ -1,0 +1,16 @@
+id: sight-sr-para-food-music-festival
+name: "Para Food and Music Festival Public Regional Cultural Programme"
+location:
+  country_code: SR
+  latitude: 5.65
+  longitude: -55.2
+scores:
+  impact: 8.3
+  uniqueness: 8.4
+  significance: 8.4
+  experience: 8.8
+  depth: 8.4
+  categories:
+    food: 9.2
+    culture: 9.1
+    nightlife: 9.0

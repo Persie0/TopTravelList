@@ -1,0 +1,15 @@
+id: sight-fr-musee-grenoble
+name: "Musée de Grenoble Fine Arts Museum"
+location:
+  country_code: FR
+  latitude: 45.194
+  longitude: 5.732
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 9.2
+  experience: 9.1
+  depth: 9.4
+  categories:
+    culture: 9.4
+    history: 9.3

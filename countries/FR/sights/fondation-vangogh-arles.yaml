@@ -1,0 +1,15 @@
+id: sight-fr-fondation-vangogh-arles
+name: "Fondation Vincent van Gogh Arles Art Exhibitions"
+location:
+  country_code: FR
+  latitude: 43.678
+  longitude: 4.626
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 8.9
+  depth: 8.6
+  categories:
+    culture: 9.3
+    history: 9.0

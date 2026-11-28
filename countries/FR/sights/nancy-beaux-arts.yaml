@@ -1,0 +1,15 @@
+id: sight-fr-nancy-beaux-arts
+name: "Musée des Beaux-Arts Nancy Fine Arts and Daum Glass Collections"
+location:
+  country_code: FR
+  latitude: 48.693
+  longitude: 6.183
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 9.2
+  experience: 9.1
+  depth: 9.3
+  categories:
+    culture: 9.4
+    history: 9.3

@@ -2119,3 +2119,12019 @@ All eight Hopewell components are now accounted for: seven individual visitor re
 
 ### Further component coverage (2026-11-25)
 UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes the contiguous park, Kin Bineola, Kin Ya'a, Pueblo Pintado, Aztec Ruins, Casamero, Kin Nizhoni, Pierre’s site, Twin Angels and Halfway House. Four now have public YAML entries. Kin Bineola and Kin Ya'a are explicitly closed per [NPS outliers](https://www.nps.gov/chcu/planyourvisit/outliers.htm); the other four lack verified ordinary public access. NPS also includes Salmon Ruins in its designation narrative, whereas UNESCO's map does not separately list it; rated as a public outlier, not asserted to be a separate component.
+
+## sight-us-bryce-canyon-national-park — Bryce Canyon National Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/bryce-canyon-national-park.yaml)
+- Action: new
+- Precise subject and checked factual claims: NPS describes hoodoo viewpoints and amphitheater access. Whole park, not one overlook. [NPS source](https://www.nps.gov/brca/planyourvisit/viewpoints.htm), accessed 2026-11-26.
+- Location check: 37.64, -112.17; [NPS representative coordinates](https://home.nps.gov/brca/planyourvisit/directions.htm), rounded where needed, not an entrance claim.
+- Evidence status: **fact-checked** (material claims from one primary authority; secondary corroboration outstanding; numerical scores editorial).
+- Missing or uncertain facts: current access and secondary corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/grand-canyon-national-park](../../../countries/US/sights/grand-canyon-national-park.yaml) | Greater continuous canyon scale |
+| [US/arches-national-park](../../../countries/US/sights/arches-national-park.yaml) | Similar sandstone but isolated arches rather than hoodoo clusters |
+| [TR/cappadocia](../../../countries/TR/sights/cappadocia.yaml) | Related spires with more cultural heritage |
+| [MG/tsingy-de-bemaraha](../../../countries/MG/sights/tsingy-de-bemaraha.yaml) | Different pinnacled limestone with more unusual traversal |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.4 | Dense hoodoo panorama, below Grand Canyon scale |
+| Uniqueness | 9.3 | Unusual clustered spires; related forms elsewhere |
+| Significance | 8.4 | Strong geological interest, less stratigraphic breadth than Grand Canyon |
+| Experience | 9.1 | Rim and amphitheater routes offer varied views |
+| Depth | 8.5 | Good trail depth, less varied than Canyonlands |
+
+- Applicable categories: nature:9.4, photography:9.4, adventure:8.8.
+- Computed worldwide overall: 90.40/100.
+- High-score challenge: Above 90 based on the specifically described scenic distinctiveness and exploration; remains below Grand Canyon/Yosemite. No field/category 9.5+.
+- Approved 10 registry: none.
+- Final decision: Include on individual merits. Provisional editorial score.
+- Earlier decision: none.
+- Verification still needed: secondary corroboration and current visitor access.
+
+
+## sight-us-canyonlands-national-park — Canyonlands National Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/canyonlands-national-park.yaml)
+- Action: new
+- Precise subject and checked factual claims: NPS describes four districts, river-separated canyons, mesas and overlooks; entire park, excluding neighboring Arches. [NPS source](https://www.nps.gov/cany/planyourvisit/placestogo.htm), accessed 2026-11-26.
+- Location check: 38.24556, -109.88016; [NPS representative coordinates](https://www.nps.gov/articles/parks-in-space.htm), rounded where needed, not an entrance claim.
+- Evidence status: **fact-checked** (material claims from one primary authority; secondary corroboration outstanding; numerical scores editorial).
+- Missing or uncertain facts: current access and secondary corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/grand-canyon-national-park](../../../countries/US/sights/grand-canyon-national-park.yaml) | Greater single-chasm impact |
+| [US/arches-national-park](../../../countries/US/sights/arches-national-park.yaml) | More signature arches, less district variety |
+| [JO/wadi-rum-protected-area](../../../countries/JO/sights/wadi-rum-protected-area.yaml) | Sandstone towers and cultural routes rather than deep river canyons |
+| [ZA/blyde-river-canyon](../../../countries/ZA/sights/blyde-river-canyon.yaml) | Greener canyon landscape, less desert exploration |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Extensive branching canyon views, below Grand Canyon's singular impact |
+| Uniqueness | 9.0 | Distinct river-separated plateaus, with related Colorado Plateau geology |
+| Significance | 8.5 | Substantial geological and human history, not a global benchmark |
+| Experience | 8.8 | Rewarding overlooks and hikes; separate districts require more travel |
+| Depth | 9.1 | Four districts and backcountry routes offer broad exploration |
+
+- Applicable categories: nature:9.3, photography:9.3, adventure:9.2.
+- Computed worldwide overall: 89.40/100.
+- High-score challenge: Below 90. No field/category 9.5+.
+- Approved 10 registry: none.
+- Final decision: Include on individual merits. Provisional editorial score.
+- Earlier decision: none.
+- Verification still needed: secondary corroboration and current visitor access.
+
+
+## sight-us-death-valley-national-park — Death Valley National Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/death-valley-national-park.yaml)
+- Action: new
+- Precise subject and checked factual claims: NPS describes salt flats, dunes and Ubehebe Crater hikes; whole park, not one salt-flat viewpoint. [NPS source](https://www.nps.gov/deva/planyourvisit/hiking.htm), accessed 2026-11-26.
+- Location check: 36.48754, -117.1344; [NPS representative coordinates](https://www.nps.gov/articles/parks-in-space.htm), rounded where needed, not an entrance claim.
+- Evidence status: **fact-checked** (material claims from one primary authority; secondary corroboration outstanding; numerical scores editorial).
+- Missing or uncertain facts: current access and secondary corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [NA/namib-sand-sea](../../../countries/NA/sights/namib-sand-sea.yaml) | Stronger uninterrupted dune landscape, less varied desert forms |
+| [BO/salar-de-uyuni](../../../countries/BO/sights/salar-de-uyuni.yaml) | Greater continuous salt-flat scale |
+| [JO/wadi-rum-protected-area](../../../countries/JO/sights/wadi-rum-protected-area.yaml) | Sandstone cliffs and cultural routes rather than climatic extremes |
+| [US/grand-canyon-national-park](../../../countries/US/sights/grand-canyon-national-park.yaml) | Greater singular panorama; Death Valley has desert-specific variety |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Contrasting salt flats, dunes and stark mountains |
+| Uniqueness | 9.3 | Unusual below-sea-level desert basin and landform combination |
+| Significance | 9.0 | Important climatic and geological extremes |
+| Experience | 8.8 | Distinct drives and walks, with route-specific limitations |
+| Depth | 9.1 | Salt flats, craters, dunes and mountain routes provide variety |
+
+- Applicable categories: nature:9.3, photography:9.3, adventure:9.
+- Computed worldwide overall: 90.85/100.
+- High-score challenge: Above 90 based on the specifically described scenic distinctiveness and exploration; remains below Grand Canyon/Yosemite. No field/category 9.5+.
+- Approved 10 registry: none.
+- Final decision: Include on individual merits. Provisional editorial score.
+- Earlier decision: none.
+- Verification still needed: secondary corroboration and current visitor access.
+
+
+## sight-us-grand-teton-national-park — Grand Teton National Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/grand-teton-national-park.yaml)
+- Action: new
+- Precise subject and checked factual claims: NPS describes the fault-block range, glacial lakes and Snake River valley; excludes Yellowstone and Jackson town. [NPS source](https://home.nps.gov/articles/nps-geodiversity-atlas-grand-teton-national-park-wyoming.htm), accessed 2026-11-26.
+- Location check: 43.81854, -110.70547; [NPS representative coordinates](https://www.nps.gov/articles/parks-in-space.htm), rounded where needed, not an entrance claim.
+- Evidence status: **fact-checked** (material claims from one primary authority; secondary corroboration outstanding; numerical scores editorial).
+- Missing or uncertain facts: current access and secondary corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [CL/torres-del-paine-national-park](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | More distinctive Patagonian towers and glaciers |
+| [CA/banff-national-park](../../../countries/CA/sights/banff-national-park.yaml) | Comparable alpine lakes; Teton has cohesive abrupt skyline |
+| [NZ/aoraki-mount-cook-national-park](../../../countries/NZ/sights/aoraki-mount-cook-national-park.yaml) | Greater high-alpine glacial specialization |
+| [US/glacier-national-park](../../../countries/US/sights/glacier-national-park.yaml) | More extensive glacial valleys, similarly dramatic mountain routes |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.3 | Sharp peaks above lakes and valley form a striking skyline |
+| Uniqueness | 8.8 | Distinct fault-block range but comparable alpine landscapes exist |
+| Significance | 8.7 | Ancient rock and glacial geology merit high significance |
+| Experience | 9.1 | Lake, mountain and valley routes offer varied experience |
+| Depth | 9.1 | Mountain, lake and river environments support exploration |
+
+- Applicable categories: nature:9.4, photography:9.4, adventure:9.1.
+- Computed worldwide overall: 90.05/100.
+- High-score challenge: Above 90 based on the specifically described scenic distinctiveness and exploration; remains below Grand Canyon/Yosemite. No field/category 9.5+.
+- Approved 10 registry: none.
+- Final decision: Include on individual merits. Provisional editorial score.
+- Earlier decision: none.
+- Verification still needed: secondary corroboration and current visitor access.
+
+## sight-us-mount-rainier-national-park — Mount Rainier National Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/mount-rainier-national-park.yaml)
+- Action: new
+- Precise subject: named park, not gateway settlement or adjacent park.
+- Factual claims: NPS describes forest, lake, meadow and glacier hikes, and the aerial feature gives coordinates for the glaciated volcano. Whole park scope. [Primary source](https://www.nps.gov/mora/planyourvisit/day-hiking-at-mount-rainier.htm), search excerpts inspected 2026-11-26.
+- Location check: 46.86075, -121.70439; [published reference](https://www.nps.gov/articles/parks-in-space.htm), representative point (rounded where relevant), not a precise entrance unless explicitly noted.
+- Evidence status: **source-linked-unverified** (official excerpts and coordinates checked; full claim-level independent verification outstanding).
+- Missing or uncertain facts: current access and independent corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [JP/mount-fuji](../../../countries/JP/sights/mount-fuji.yaml) | Fuji has stronger singular cultural identity; Rainier has broader alpine hiking. |
+| [NZ/aoraki-mount-cook-national-park](../../../countries/NZ/sights/aoraki-mount-cook-national-park.yaml) | Aoraki has greater high-alpine glacier specialization. |
+| [CL/torres-del-paine-national-park](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | Patagonian towers and lakes give more diverse iconic landforms. |
+| [US/glacier-national-park](../../../countries/US/sights/glacier-national-park.yaml) | Comparable alpine hiking; Glacier has more distributed peaks and valleys. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Isolated snowy summit and meadows have strong visual impact |
+| Uniqueness | 8.7 | Glaciated volcano is distinctive but international analogues exist |
+| Significance | 8.8 | Important volcanic and glacial environment |
+| Experience | 9.1 | Varied hikes and mountain views |
+| Depth | 9.1 | Multiple trail environments support extensive discovery |
+
+- Applicable categories: nature:9.3, photography:9.3, adventure:9.2.
+- Computed worldwide overall: 89.70/100.
+- High-score challenge: Below 90. No field/category 9.5+.
+- Approved 10 registry: none.
+- Final decision: provisional worldwide editorial rating, independent of national park designation.
+- Earlier decision: none.
+- Verification still needed: inspect complete material sources and corroborate coordinates and visit scope; current access before travel.
+
+
+## sight-us-sequoia-national-park — Sequoia National Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/sequoia-national-park.yaml)
+- Action: new
+- Precise subject: named park, not gateway settlement or adjacent park.
+- Factual claims: Giant Forest has massive sequoia groves including General Sherman, trails, meadows and granite peaks. Coordinates are Giant Forest Museum, a representative in-park point, not park center; exclude Kings Canyon. [Primary source](https://www.nps.gov/seki/planyourvisit/giant-forest-and-lodgepole.htm), search excerpts inspected 2026-11-26.
+- Location check: 36.564688, -118.772683; [published reference](https://www.nps.gov/planyourvisit/event-details.htm?id=F0F2D31A-05FF-2B6A-E6A9D4BEAF6A8FFB), representative point (rounded where relevant), not a precise entrance unless explicitly noted.
+- Evidence status: **source-linked-unverified** (official excerpts and coordinates checked; full claim-level independent verification outstanding).
+- Missing or uncertain facts: current access and independent corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/redwood-parks](../../../countries/US/sights/redwood-parks.yaml) | Redwood emphasizes tree height, Sequoia volume and montane groves. |
+| [JP/yakushima-ancient-cedar-forest](../../../countries/JP/sights/yakushima-ancient-cedar-forest.yaml) | Yakushima has ancient cedars and mossy forest; sequoia size stands out. |
+| [AU/daintree-rainforest](../../../countries/AU/sights/daintree-rainforest.yaml) | Daintree has greater tropical biodiversity and evolutionary scope. |
+| [NZ/westland-tai-poutini-national-park](../../../countries/NZ/sights/westland-tai-poutini-national-park.yaml) | Westland has more glacial contrast; Sequoia has signature giant trees. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Immense tree and grove scale |
+| Uniqueness | 9.4 | Largest trees by volume and concentrated groves are globally rare |
+| Significance | 9.2 | Ancient trees and forest ecology have strong significance |
+| Experience | 9.0 | Engaging grove walking and interpretation |
+| Depth | 9.0 | Groves and mountain trails extend beyond one tree |
+
+- Applicable categories: nature:9.4, photography:9.2, adventure:8.8.
+- Computed worldwide overall: 91.70/100.
+- High-score challenge: 90+ based on specific rare qualities and breadth above; below the world-leading Grand Canyon or Yellowstone benchmarks. No field/category 9.5+.
+- Approved 10 registry: none.
+- Final decision: provisional worldwide editorial rating, independent of national park designation.
+- Earlier decision: none.
+- Verification still needed: inspect complete material sources and corroborate coordinates and visit scope; current access before travel.
+
+
+## sight-us-katmai-national-park — Katmai National Park and Preserve — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/katmai-national-park.yaml)
+- Action: new
+- Precise subject: named park, not gateway settlement or adjacent park.
+- Factual claims: NPS describes Novarupta volcanic landscape, brown bears and salmon habitat; Brooks Camp hiking page (https://www.nps.gov/katm/planyourvisit/hiking-in-brooks-camp.htm) documents seasonal bear viewing. [Primary source](https://www.nps.gov/katm/index.htm), search excerpts inspected 2026-11-26.
+- Location check: 58.62236, -155.01266; [published reference](https://www.nps.gov/articles/parks-in-space.htm), representative point (rounded where relevant), not a precise entrance unless explicitly noted.
+- Evidence status: **source-linked-unverified** (official excerpts and coordinates checked; full claim-level independent verification outstanding).
+- Missing or uncertain facts: current access and independent corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [TZ/serengeti-national-park](../../../countries/TZ/sights/serengeti-national-park.yaml) | Serengeti has much broader wildlife diversity; Katmai specializes in bears. |
+| [BW/okavango-delta](../../../countries/BW/sights/okavango-delta.yaml) | Okavango has greater wetland safari diversity; Katmai is volcano and bear focused. |
+| [IS/vatnajokull](../../../countries/IS/sights/vatnajokull.yaml) | Vatnajökull has broader ice-volcano landscapes, not bear-focused. |
+| [US/denali-national-park](../../../countries/US/sights/denali-national-park.yaml) | Denali has greater alpine scale, Katmai more specialized salmon-bear viewing. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Bear viewing and volcanic wilderness are memorable |
+| Uniqueness | 9.3 | Salmon-feeding bears and recent volcanic terrain are unusual in combination |
+| Significance | 9.1 | Important volcanic history and bear habitat |
+| Experience | 8.9 | Regulated seasonal viewing and hiking, sightings not guaranteed |
+| Depth | 9.1 | Wildlife and volcanic landscapes provide breadth |
+
+- Applicable categories: nature:9.3, wildlife:9.4, photography:9.3, adventure:8.8.
+- Computed worldwide overall: 91.20/100.
+- High-score challenge: 90+ based on specific rare qualities and breadth above; below the world-leading Grand Canyon or Yellowstone benchmarks. No field/category 9.5+.
+- Approved 10 registry: none.
+- Final decision: provisional worldwide editorial rating, independent of national park designation.
+- Earlier decision: none.
+- Verification still needed: inspect complete material sources and corroborate coordinates and visit scope; current access before travel.
+
+
+## sight-us-kenai-fjords-national-park — Kenai Fjords National Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/kenai-fjords-national-park.yaml)
+- Action: new
+- Precise subject: named park, not gateway settlement or adjacent park.
+- Factual claims: NPS describes boat viewing of tidewater glaciers, birds and marine mammals; Recreation.gov supplies GPS. Exit Glacier walking documented at https://www.nps.gov/kefj/planyourvisit/exit-glacier-area.htm. [Primary source](https://home.nps.gov/kefj/planyourvisit/boattours.htm), search excerpts inspected 2026-11-26.
+- Location check: 59.818044, -150.106502; [published reference](https://www.recreation.gov/gateways/2787), representative point (rounded where relevant), not a precise entrance unless explicitly noted.
+- Evidence status: **source-linked-unverified** (official excerpts and coordinates checked; full claim-level independent verification outstanding).
+- Missing or uncertain facts: current access and independent corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [NZ/fiordland-national-park](../../../countries/NZ/sights/fiordland-national-park.yaml) | Fiordland has temperate rainforest and dramatic fjords; Kenai adds tidewater ice. |
+| [NO/geirangerfjord](../../../countries/NO/sights/geirangerfjord.yaml) | Geiranger has concentrated waterfall views; Kenai more marine wildlife. |
+| [CL/laguna-san-rafael-national-park](../../../countries/CL/sights/laguna-san-rafael-national-park.yaml) | Comparable glacier viewing; Kenai has broader route mix. |
+| [US/glacier-bay](../../../countries/US/sights/glacier-bay.yaml) | Glacier Bay has greater glacial basin scale. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Ice, coastal relief and marine wildlife create strong scenic impact |
+| Uniqueness | 8.9 | Tidewater glaciers and wildlife are distinctive but have fjord analogues |
+| Significance | 8.8 | Substantial glacial and coastal ecology |
+| Experience | 9.0 | Boat trips and Exit Glacier walking complement one another |
+| Depth | 8.9 | Coast, icefield and land routes give breadth |
+
+- Applicable categories: nature:9.3, photography:9.3, wildlife:9.1, adventure:8.9.
+- Computed worldwide overall: 89.85/100.
+- High-score challenge: Below 90. No field/category 9.5+.
+- Approved 10 registry: none.
+- Final decision: provisional worldwide editorial rating, independent of national park designation.
+- Earlier decision: none.
+- Verification still needed: inspect complete material sources and corroborate coordinates and visit scope; current access before travel.
+
+
+## sight-us-crater-lake-national-park — Crater Lake National Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/crater-lake-national-park.yaml)
+- Action: new
+- Precise subject: named park, not gateway settlement or adjacent park.
+- Factual claims: NPS describes rim drive and caldera overlooks; USGS identifies volcanic lake and coordinates. [Primary source](https://www.nps.gov/crla/planyourvisit/scenic-rim-drive.htm), search excerpts inspected 2026-11-26.
+- Location check: 42.93, -122.12; [published reference](https://www.usgs.gov/crater-lake), representative point (rounded where relevant), not a precise entrance unless explicitly noted.
+- Evidence status: **source-linked-unverified** (official excerpts and coordinates checked; full claim-level independent verification outstanding).
+- Missing or uncertain facts: current access and independent corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [ID/lake-toba](../../../countries/ID/sights/lake-toba.yaml) | Toba has greater caldera scale and cultural breadth. |
+| [EC/quilotoa-crater-lake](../../../countries/EC/sights/quilotoa-crater-lake.yaml) | Smaller but similarly vivid crater panorama. |
+| [NZ/waiotapu](../../../countries/NZ/sights/waiotapu.yaml) | Wai-O-Tapu has more varied geothermal features. |
+| [US/yellowstone-national-park](../../../countries/US/sights/yellowstone-national-park.yaml) | Yellowstone has much broader geothermal and wildlife depth. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Deep blue water in a coherent caldera is memorable |
+| Uniqueness | 8.9 | Striking volcanic lake but notable analogues exist |
+| Significance | 8.7 | Important volcanic geology and lake research |
+| Experience | 8.8 | Rewarding rim overlooks and trails |
+| Depth | 8.4 | Concentrated landscape has less breadth than larger varied parks |
+
+- Applicable categories: nature:9.2, photography:9.3, adventure:8.3.
+- Computed worldwide overall: 88.55/100.
+- High-score challenge: Below 90. No field/category 9.5+.
+- Approved 10 registry: none.
+- Final decision: provisional worldwide editorial rating, independent of national park designation.
+- Earlier decision: none.
+- Verification still needed: inspect complete material sources and corroborate coordinates and visit scope; current access before travel.
+
+
+## sight-us-acadia-national-park — Acadia National Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/acadia-national-park.yaml)
+- Action: new
+- Precise subject: named park, not gateway settlement or adjacent park.
+- Factual claims: NPS describes Ocean Drive, Jordan Pond, Cadillac Mountain and 45 miles of carriage roads; aerial feature gives coordinates and rocky Atlantic headlands. [Primary source](https://home.nps.gov/acad/planyourvisit/east-side.htm), search excerpts inspected 2026-11-26.
+- Location check: 44.30778, -68.30063; [published reference](https://www.nps.gov/articles/parks-in-space.htm), representative point (rounded where relevant), not a precise entrance unless explicitly noted.
+- Evidence status: **source-linked-unverified** (official excerpts and coordinates checked; full claim-level independent verification outstanding).
+- Missing or uncertain facts: current access and independent corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [GB/jurassic-coast](../../../countries/GB/sights/jurassic-coast.yaml) | Jurassic Coast has stronger geological record; Acadia adds forests and mountains. |
+| [PT/vicentina](../../../countries/PT/sights/vicentina.yaml) | Vicentina has more extensive wild coastline. |
+| [AU/great-ocean-road](../../../countries/AU/sights/great-ocean-road.yaml) | Stronger signature rock stacks; Acadia has integrated walking and cycling. |
+| [US/olympic-national-park](../../../countries/US/sights/olympic-national-park.yaml) | Olympic has greater ecosystem variety and wilderness scale. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Attractive coastal headlands and forest |
+| Uniqueness | 8.1 | Excellent landscape combination but Atlantic analogues exist |
+| Significance | 8.1 | Coastal ecology and carriage-road heritage are important |
+| Experience | 8.9 | Roads cycling and hiking give a particularly varied visit |
+| Depth | 8.7 | Coast summit pond and historic routes support discovery |
+
+- Applicable categories: nature:8.8, photography:8.8, adventure:8.7.
+- Computed worldwide overall: 84.30/100.
+- High-score challenge: Below 90. No field/category 9.5+.
+- Approved 10 registry: none.
+- Final decision: provisional worldwide editorial rating, independent of national park designation.
+- Earlier decision: none.
+- Verification still needed: inspect complete material sources and corroborate coordinates and visit scope; current access before travel.
+
+
+## sight-us-capitol-reef-national-park — Capitol Reef National Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/capitol-reef-national-park.yaml)
+- Action: new
+- Precise subject: named park, not gateway settlement or adjacent park.
+- Factual claims: NPS documents Waterpocket Fold overlooks, narrow gorges, slot canyons and Cathedral Valley routes; aerial feature gives coordinates. [Primary source](https://www.nps.gov/care/planyourvisit/hiking.htm), search excerpts inspected 2026-11-26.
+- Location check: 38.28217, -111.24705; [published reference](https://www.nps.gov/articles/parks-in-space.htm), representative point (rounded where relevant), not a precise entrance unless explicitly noted.
+- Evidence status: **source-linked-unverified** (official excerpts and coordinates checked; full claim-level independent verification outstanding).
+- Missing or uncertain facts: current access and independent corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/grand-canyon-national-park](../../../countries/US/sights/grand-canyon-national-park.yaml) | Grand Canyon has far greater scale and geological exposure. |
+| [JO/wadi-rum-protected-area](../../../countries/JO/sights/wadi-rum-protected-area.yaml) | Wadi Rum offers more iconic towers and cultural context. |
+| [AR/talampaya-national-park](../../../countries/AR/sights/talampaya-national-park.yaml) | Similar red-rock drama, less district variety. |
+| [ZA/blyde-river-canyon](../../../countries/ZA/sights/blyde-river-canyon.yaml) | Blyde has lush canyon contrast; Capitol Reef more desert forms. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Layered cliffs and monoliths are excellent but less iconic than Bryce |
+| Uniqueness | 8.7 | Waterpocket Fold is unusual; neighboring parks share sandstone formations |
+| Significance | 8.5 | Monocline and erosion support geological merit |
+| Experience | 8.5 | Rewarding hikes and viewpoints; remote routes need preparation |
+| Depth | 8.8 | Separate districts and canyons provide exploration depth |
+
+- Applicable categories: nature:8.9, photography:9, adventure:8.8.
+- Computed worldwide overall: 86.70/100.
+- High-score challenge: Below 90. No field/category 9.5+.
+- Approved 10 registry: none.
+- Final decision: provisional worldwide editorial rating, independent of national park designation.
+- Earlier decision: none.
+- Verification still needed: inspect complete material sources and corroborate coordinates and visit scope; current access before travel.
+
+
+## sight-us-glen-canyon-national-recreation-area — Glen Canyon National Recreation Area — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/glen-canyon-national-recreation-area.yaml)
+- Action: new
+- Precise subject and factual basis: Lake Powell boating and canyon scenery; score the recreation area excluding the separate Horseshoe Bend overlook's standalone merits. Representative aerial landscape point. [Visitor information](https://home.nps.gov/glca/planyourvisit/things2do.htm), checked 2026-11-26.
+- Location check: 37.51841, -110.77183; [published representative point](https://www.nps.gov/articles/parks-in-space.htm); not an entrance coordinate.
+- Evidence status: **source-linked-unverified**; official materials/search excerpts and published GPS references inspected, independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/grand-canyon-national-park](../../../countries/US/sights/grand-canyon-national-park.yaml) | Greater natural canyon scale and geologic exposure |
+| [JO/wadi-rum-protected-area](../../../countries/JO/sights/wadi-rum-protected-area.yaml) | More exceptional desert towers and cultural context |
+| [FR/verdon](../../../countries/FR/sights/verdon.yaml) | More concentrated river-gorge scenery |
+| [ZA/blyde-river-canyon](../../../countries/ZA/sights/blyde-river-canyon.yaml) | Stronger lush canyon contrast, less lake-oriented recreation |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Colorful flooded canyons |
+| Uniqueness | 8.7 | Reservoir and sandstone combination has analogues |
+| Significance | 8.3 | Colorado Plateau geology, but reservoir is artificial |
+| Experience | 8.8 | Boating and land visits offer complementary experiences |
+| Depth | 9.0 | Extensive waterways and varied districts |
+
+- Applicable categories: nature:9.1, photography:9.2, adventure:9.0.
+- Computed worldwide overall: 87.25/100.
+- High-score challenge: no field/category 9.5+; below 90 overall.
+- Approved 10 registry: none.
+- Final decision: provisional editorial V2 rating. Earlier decision: none.
+- Verification still needed: independently corroborate visitor scope, coordinate and claims; verify current access before travel.
+
+
+## sight-us-horseshoe-bend — Horseshoe Bend — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/horseshoe-bend.yaml)
+- Action: new
+- Precise subject and factual basis: Short walk to a panoramic Colorado River meander; distinct viewpoint within Glen Canyon, not the whole recreation area. Coordinate is mapped viewpoint. [Visitor information](https://www.nps.gov/glca/planyourvisit/horseshoe-bend.htm), checked 2026-11-26.
+- Location check: 36.88088, -111.51086; [published representative point](https://mapcarta.com/N8495480313); not an entrance coordinate.
+- Evidence status: **source-linked-unverified**; official materials/search excerpts and published GPS references inspected, independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/grand-canyon-national-park](../../../countries/US/sights/grand-canyon-national-park.yaml) | Broader canyon and geology; not comparable in depth |
+| [IS/kirkjufell](../../../countries/IS/sights/kirkjufell.yaml) | Similarly concentrated iconic photo composition |
+| [IS/studlagil](../../../countries/IS/sights/studlagil.yaml) | More intimate basalt canyon exploration |
+| [FR/etretat](../../../countries/FR/sights/etretat.yaml) | More varied coastal walks and viewpoints |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Powerful coherent river panorama |
+| Uniqueness | 8.7 | Distinctive near-loop but other meanders exist |
+| Significance | 7.8 | Erosional landform rather than globally defining scientific property |
+| Experience | 8.6 | Rewarding walk and view |
+| Depth | 7.6 | Single viewpoint with limited further exploration |
+
+- Applicable categories: nature:8.9, photography:9.3.
+- Computed worldwide overall: 85.15/100.
+- High-score challenge: no field/category 9.5+; below 90 overall.
+- Approved 10 registry: none.
+- Final decision: provisional editorial V2 rating. Earlier decision: none.
+- Verification still needed: independently corroborate visitor scope, coordinate and claims; verify current access before travel.
+
+
+## sight-us-badlands-national-park — Badlands National Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/badlands-national-park.yaml)
+- Action: new
+- Precise subject and factual basis: Eroded spires and gullies amid prairie, with scenic driving and hiking (https://www.nps.gov/badl/planyourvisit/hiking-in-badlands.htm). Representative aerial point. [Visitor information](https://www.nps.gov/badl/planyourvisit/scenic-driving.htm), checked 2026-11-26.
+- Location check: 43.68585, -102.48294; [published representative point](https://www.nps.gov/articles/parks-in-space.htm); not an entrance coordinate.
+- Evidence status: **source-linked-unverified**; official materials/search excerpts and published GPS references inspected, independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/bryce-canyon-national-park](../../../countries/US/sights/bryce-canyon-national-park.yaml) | More concentrated and dramatic hoodoos |
+| [JO/wadi-rum-protected-area](../../../countries/JO/sights/wadi-rum-protected-area.yaml) | More globally distinctive sandstone relief |
+| [EG/wadi-al-hitan](../../../countries/EG/sights/wadi-al-hitan.yaml) | Stronger fossil heritage significance |
+| [CN/flaming-mountains](../../../countries/CN/sights/flaming-mountains.yaml) | Comparable dry sculpted terrain but different formations |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Striking eroded relief |
+| Uniqueness | 8.6 | Unusual prairie and badland combination but analogues exist |
+| Significance | 8.6 | Geological landscape of scientific interest |
+| Experience | 8.6 | Scenic driving and foot exploration |
+| Depth | 8.5 | Varied formations and prairie |
+
+- Applicable categories: nature:8.9, photography:9.0, adventure:8.4.
+- Computed worldwide overall: 85.90/100.
+- High-score challenge: no field/category 9.5+; below 90 overall.
+- Approved 10 registry: none.
+- Final decision: provisional editorial V2 rating. Earlier decision: none.
+- Verification still needed: independently corroborate visitor scope, coordinate and claims; verify current access before travel.
+
+
+## sight-us-joshua-tree-national-park — Joshua Tree National Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/joshua-tree-national-park.yaml)
+- Action: new
+- Precise subject and factual basis: Mojave and Colorado desert ecosystems with granitic formations and oases (https://www.nps.gov/articles/nps-geodiversity-atlas-joshua-tree-national-park-california.htm); published park GPS. [Visitor information](https://www.nps.gov/jotr/planyourvisit/park-map-and-brochure.htm), checked 2026-11-26.
+- Location check: 33.914185, -115.839812; [published representative point](https://www.recreation.gov/camping/gateways/2782); not an entrance coordinate.
+- Evidence status: **source-linked-unverified**; official materials/search excerpts and published GPS references inspected, independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/death-valley-national-park](../../../countries/US/sights/death-valley-national-park.yaml) | More extreme desert scale and landforms |
+| [JO/wadi-rum-protected-area](../../../countries/JO/sights/wadi-rum-protected-area.yaml) | More monumental rock architecture |
+| [NA/sossusvlei](../../../countries/NA/sights/sossusvlei.yaml) | More exceptional dune landscape |
+| [US/petrified-forest](../../../countries/US/sights/petrified-forest.yaml) | Different but similarly distinctive desert geology |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Sculptural boulders and desert vegetation |
+| Uniqueness | 8.8 | Distinctive Joshua-tree and granite landscape |
+| Significance | 8.5 | Desert transition and geology |
+| Experience | 8.8 | Desert exploration and climbing opportunities |
+| Depth | 8.6 | Multiple desert environments and routes |
+
+- Applicable categories: nature:8.9, photography:9.0, adventure:8.8.
+- Computed worldwide overall: 86.90/100.
+- High-score challenge: no field/category 9.5+; below 90 overall.
+- Approved 10 registry: none.
+- Final decision: provisional editorial V2 rating. Earlier decision: none.
+- Verification still needed: independently corroborate visitor scope, coordinate and claims; verify current access before travel.
+
+
+## sight-us-rocky-mountain-national-park — Rocky Mountain National Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/rocky-mountain-national-park.yaml)
+- Action: new
+- Precise subject and factual basis: Alpine tundra, mountain hiking, scenic driving and wildlife viewing; published park GPS. [Visitor information](https://www.nps.gov/romo/planyourvisit/things2do.htm), checked 2026-11-26.
+- Location check: 40.355692, -105.697288; [published representative point](https://www.recreation.gov/gateways/2907); not an entrance coordinate.
+- Evidence status: **source-linked-unverified**; official materials/search excerpts and published GPS references inspected, independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [NZ/aoraki-mount-cook-national-park](../../../countries/NZ/sights/aoraki-mount-cook-national-park.yaml) | More concentrated high-alpine glacial relief |
+| [US/grand-teton-national-park](../../../countries/US/sights/grand-teton-national-park.yaml) | More recognizable mountain skyline |
+| [AR/mount-fitz-roy-laguna-de-los-tres-routes](../../../countries/AR/sights/mount-fitz-roy-laguna-de-los-tres-routes.yaml) | More distinctive granite skyline but narrower scope |
+| [CN/mount-huangshan](../../../countries/CN/sights/mount-huangshan.yaml) | More globally distinct peak shapes and cultural association |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Large alpine scenery |
+| Uniqueness | 8.5 | Many global alpine analogues |
+| Significance | 8.7 | Important Rocky Mountain ecosystems |
+| Experience | 9.1 | Roads and hikes provide varied encounters |
+| Depth | 9.0 | Lakes, forests and tundra support extended exploration |
+
+- Applicable categories: nature:9.2, photography:9.2, adventure:9.1, wildlife:8.8.
+- Computed worldwide overall: 88.60/100.
+- High-score challenge: no field/category 9.5+; below 90 overall.
+- Approved 10 registry: none.
+- Final decision: provisional editorial V2 rating. Earlier decision: none.
+- Verification still needed: independently corroborate visitor scope, coordinate and claims; verify current access before travel.
+
+
+## sight-us-north-cascades-national-park — North Cascades National Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/north-cascades-national-park.yaml)
+- Action: new
+- Precise subject and factual basis: Jagged glaciated peaks, hiking and backcountry climbing; score the named national park, not the adjacent Ross Lake or Lake Chelan recreation areas. Published representative GPS. [Visitor information](https://www.nps.gov/noca/planyourvisit/hiking.htm), checked 2026-11-26.
+- Location check: 48.711718, -121.206942; [published representative point](https://www.recreation.gov/gateways/2845); not an entrance coordinate.
+- Evidence status: **source-linked-unverified**; official materials/search excerpts and published GPS references inspected, independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [NZ/aoraki-mount-cook-national-park](../../../countries/NZ/sights/aoraki-mount-cook-national-park.yaml) | More iconic central peaks and glacial access |
+| [IS/vatnajokull](../../../countries/IS/sights/vatnajokull.yaml) | More extensive ice and volcanic features |
+| [US/glacier-national-park](../../../countries/US/sights/glacier-national-park.yaml) | Broader accessible scenic-road experience |
+| [AR/mount-fitz-roy-laguna-de-los-tres-routes](../../../countries/AR/sights/mount-fitz-roy-laguna-de-los-tres-routes.yaml) | Stronger signature skyline, narrower hiking scope |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Dramatic glaciated mountain relief |
+| Uniqueness | 8.6 | Comparable to other alpine wilderness areas |
+| Significance | 8.8 | Substantial glacier and mountain ecology |
+| Experience | 8.3 | Remote terrain limits casual encounters |
+| Depth | 9.0 | Extensive wilderness hiking and climbing |
+
+- Applicable categories: nature:9.2, photography:9.1, adventure:9.2.
+- Computed worldwide overall: 87.55/100.
+- High-score challenge: no field/category 9.5+; below 90 overall.
+- Approved 10 registry: none.
+- Final decision: provisional editorial V2 rating. Earlier decision: none.
+- Verification still needed: independently corroborate visitor scope, coordinate and claims; verify current access before travel.
+
+
+## sight-us-haleakala-national-park — Haleakalā National Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/haleakala-national-park.yaml)
+- Action: new
+- Precise subject and factual basis: Summit volcanic landscape and Kīpahulu coastal district (https://www.nps.gov/hale/planyourvisit/basicinfo.htm); published park GPS. [Visitor information](https://www.nps.gov/hale/planyourvisit/hiking.htm), checked 2026-11-26.
+- Location check: 20.70693, -156.159177; [published representative point](https://www.recreation.gov/gateways/2751); not an entrance coordinate.
+- Evidence status: **source-linked-unverified**; official materials/search excerpts and published GPS references inspected, independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/hawaii-volcanoes-national-park](../../../countries/US/sights/hawaii-volcanoes-national-park.yaml) | More globally exceptional active volcanic processes |
+| [IS/vatnajokull](../../../countries/IS/sights/vatnajokull.yaml) | Larger glacier-volcano landscape |
+| [CN/changbai-mountain](../../../countries/CN/sights/changbai-mountain.yaml) | Different volcanic summit and lake context |
+| [NZ/aoraki-mount-cook-national-park](../../../countries/NZ/sights/aoraki-mount-cook-national-park.yaml) | More alpine ice relief; no tropical coastal contrast |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Volcanic summit relief and coastal contrast |
+| Uniqueness | 9.0 | Distinctive tropical high-altitude setting |
+| Significance | 8.9 | Volcanic and ecological interest |
+| Experience | 8.8 | Summit and coastal hikes complement each other |
+| Depth | 8.9 | Two contrasting districts provide depth |
+
+- Applicable categories: nature:9.3, photography:9.2, adventure:8.9.
+- Computed worldwide overall: 89.70/100.
+- High-score challenge: no field/category 9.5+; below 90 overall.
+- Approved 10 registry: none.
+- Final decision: provisional editorial V2 rating. Earlier decision: none.
+- Verification still needed: independently corroborate visitor scope, coordinate and claims; verify current access before travel.
+
+
+## sight-us-great-sand-dunes-national-park — Great Sand Dunes National Park and Preserve — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/great-sand-dunes-national-park.yaml)
+- Action: new
+- Precise subject and factual basis: Large dunefield below mountains, dune hiking and sandboarding, with forest and alpine trails; GPS is High Dune on First Ridge, a representative internal feature. [Visitor information](https://www.nps.gov/grsa/planyourvisit/hiking.htm), checked 2026-11-26.
+- Location check: 37.74908, -105.532775; [published representative point](https://www.nps.gov/grsa/planyourvisit/hiking.htm); not an entrance coordinate.
+- Evidence status: **source-linked-unverified**; official materials/search excerpts and published GPS references inspected, independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [NA/sossusvlei](../../../countries/NA/sights/sossusvlei.yaml) | More monumental and iconic dune forms |
+| [FR/dune-pilat](../../../countries/FR/sights/dune-pilat.yaml) | More concentrated coastal dune visitor experience |
+| [US/white-sands](../../../countries/US/sights/white-sands.yaml) | More distinctive white gypsum substrate |
+| [CN/mingsha-sand-dunes](../../../countries/CN/sights/mingsha-sand-dunes.yaml) | Comparable dune activity with different cultural context |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Dune and alpine backdrop contrast |
+| Uniqueness | 8.8 | Unusual high-elevation dune setting |
+| Significance | 8.5 | Geomorphology and habitat diversity |
+| Experience | 8.8 | Hands-on dune exploration and hiking |
+| Depth | 8.7 | Dunefield and surrounding ecosystems add breadth |
+
+- Applicable categories: nature:9.0, photography:9.1, adventure:9.0.
+- Computed worldwide overall: 87.60/100.
+- High-score challenge: no field/category 9.5+; below 90 overall.
+- Approved 10 registry: none.
+- Final decision: provisional editorial V2 rating. Earlier decision: none.
+- Verification still needed: independently corroborate visitor scope, coordinate and claims; verify current access before travel.
+
+
+## sight-us-wind-cave-national-park — Wind Cave National Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/wind-cave-national-park.yaml)
+- Action: new
+- Precise subject and factual basis: Guided cave trips, distinctive cave formations and above-ground prairie trails (https://www.nps.gov/wica/planyourvisit/hours.htm); aerial reference GPS. [Visitor information](https://www.nps.gov/wica/planyourvisit/guidedtours.htm), checked 2026-11-26.
+- Location check: 43.58012, -103.43947; [published representative point](https://www.nps.gov/articles/parks-in-space.htm); not an entrance coordinate.
+- Evidence status: **source-linked-unverified**; official materials/search excerpts and published GPS references inspected, independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/mammoth-cave](../../../countries/US/sights/mammoth-cave.yaml) | Greater passage system and historical breadth |
+| [US/carlsbad-caverns](../../../countries/US/sights/carlsbad-caverns.yaml) | More dramatic chamber-scale impact |
+| [NZ/waitomo-glowworm-caves](../../../countries/NZ/sights/waitomo-glowworm-caves.yaml) | More specialized luminous experience |
+| [CN/zhijin-cave](../../../countries/CN/sights/zhijin-cave.yaml) | More monumental show-cave formations |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.3 | Interesting underground forms and prairie |
+| Uniqueness | 8.8 | Distinctive cave formations |
+| Significance | 8.7 | Geological and prairie conservation interest |
+| Experience | 8.3 | Guided cave experience plus surface walks |
+| Depth | 8.5 | Cave and surface landscapes offer complementary depth |
+
+- Applicable categories: nature:8.8, adventure:8.4, wildlife:8.4.
+- Computed worldwide overall: 85.25/100.
+- High-score challenge: no field/category 9.5+; below 90 overall.
+- Approved 10 registry: none.
+- Final decision: provisional editorial V2 rating. Earlier decision: none.
+- Verification still needed: independently corroborate visitor scope, coordinate and claims; verify current access before travel.
+
+
+## sight-us-mount-rushmore-national-memorial — Mount Rushmore National Memorial — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/mount-rushmore-national-memorial.yaml)
+- Action: new
+- Precise subject and factual basis: Monumental presidential portraits, walking trail and interpretation; assess the memorial itself rather than all Black Hills or its popularity. Historical interpretation should include contested Indigenous land and commemoration context; this context requires further corroboration. [Visitor information](https://www.nps.gov/moru/planyourvisit/things2do.htm), checked 2026-11-26.
+- Location check: 43.88037, -103.45252; [published representative point](https://www.nps.gov/articles/parks-in-space.htm); not an entrance coordinate.
+- Evidence status: **source-linked-unverified**; official materials/search excerpts and published GPS references inspected, independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [CN/dazu-rock-carvings](../../../countries/CN/sights/dazu-rock-carvings.yaml) | More extensive religious sculpture ensemble |
+| [EG/giza-plateau](../../../countries/EG/sights/giza-plateau.yaml) | Far greater antiquity and global significance |
+| [US/statue-of-liberty](../../../countries/US/sights/statue-of-liberty.yaml) | Comparable national symbolism and international recognition |
+| [NA/brandberg](../../../countries/NA/sights/brandberg.yaml) | Different rock-art landscape with greater natural breadth |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Large carved portraits are memorable |
+| Uniqueness | 8.9 | Distinctive monumental portrait ensemble |
+| Significance | 8.8 | National commemoration with international recognition and contested context |
+| Experience | 8.2 | Walking loop and interpretation |
+| Depth | 7.8 | Limited single-site depth relative to major heritage ensembles |
+
+- Applicable categories: history:8.9, photography:8.8, culture:8.7.
+- Computed worldwide overall: 85.75/100.
+- High-score challenge: no field/category 9.5+; below 90 overall.
+- Approved 10 registry: none.
+- Final decision: provisional editorial V2 rating. Earlier decision: none.
+- Verification still needed: independently corroborate visitor scope, coordinate and claims; verify current access before travel.
+
+
+## sight-us-black-canyon-of-the-gunnison-national-park — Black Canyon of the Gunnison National Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/black-canyon-of-the-gunnison-national-park.yaml)
+- Action: new
+- Precise subject and factual basis: Both canyon rims offer viewpoints and walks above a steep river gorge. The published park GPS is representative. [Visitor information](https://www.nps.gov/blca/planyourvisit/things2do.htm), search excerpts inspected 2026-11-26.
+- Location check: 38.577799, -107.724276; [published reference](https://www.recreation.gov/gateways/2592). Representative point rather than guaranteed entry point.
+- Evidence status: **source-linked-unverified**; official source excerpts and published GPS inspected. Full source-page and independent corroboration outstanding.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/grand-canyon-national-park](../../../countries/US/sights/grand-canyon-national-park.yaml) | Greater scale and geological breadth |
+| [FR/verdon](../../../countries/FR/sights/verdon.yaml) | More turquoise-water scenery and river recreation |
+| [NA/fish-river-canyon](../../../countries/NA/sights/fish-river-canyon.yaml) | Greater extensive arid canyon scale |
+| [IS/studlagil](../../../countries/IS/sights/studlagil.yaml) | Smaller, more specialized basalt canyon |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Dramatic steep gorge |
+| Uniqueness | 8.8 | Narrow dark-walled canyon is distinctive but has analogues |
+| Significance | 8.5 | Substantial geological interest |
+| Experience | 8.7 | Overlooks and trails complement each other |
+| Depth | 8.4 | Limited district variety compared with large multi-landscape parks |
+
+- Applicable categories: nature:9.1, photography:9.2, adventure:8.7.
+- Computed worldwide overall: 87.45/100.
+- High-score challenge: no field/category 9.5+; below 90 overall.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: independently corroborate claims and location; check current access before visiting.
+
+
+## sight-us-channel-islands-national-park — Channel Islands National Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/channel-islands-national-park.yaml)
+- Action: new
+- Precise subject and factual basis: Island trails, kayaking, snorkeling and birdwatching; the five-island national park rather than the entire California archipelago. Published park GPS. [Visitor information](https://www.nps.gov/chis/planyourvisit/things2do.htm), search excerpts inspected 2026-11-26.
+- Location check: 33.986801, -119.911273; [published reference](https://www.recreation.gov/gateways/2631). Representative point rather than guaranteed entry point.
+- Evidence status: **source-linked-unverified**; official source excerpts and published GPS inspected. Full source-page and independent corroboration outstanding.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [AU/great-barrier-reef](../../../countries/AU/sights/great-barrier-reef.yaml) | Much greater reef scale and biodiversity |
+| [VN/con-dao-national-park](../../../countries/VN/sights/con-dao-national-park.yaml) | Comparable land and marine mix with tropical contrast |
+| [KR/hallyeohaesang-national-park](../../../countries/KR/sights/hallyeohaesang-national-park.yaml) | More scattered coastal islands and viewpoints |
+| [GB/pembrokeshire-coast](../../../countries/GB/sights/pembrokeshire-coast.yaml) | More accessible mainland coastal walking |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Cliffs and marine landscapes |
+| Uniqueness | 8.8 | Distinctive island and marine ecosystem combination |
+| Significance | 8.8 | Important protected island habitats |
+| Experience | 8.8 | Complementary land and water activities |
+| Depth | 8.8 | Several islands provide exploration breadth |
+
+- Applicable categories: nature:9.0, wildlife:9.0, adventure:8.9, photography:8.8.
+- Computed worldwide overall: 87.70/100.
+- High-score challenge: no field/category 9.5+; below 90 overall.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: independently corroborate claims and location; check current access before visiting.
+
+
+## sight-us-dry-tortugas-national-park — Dry Tortugas National Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/dry-tortugas-national-park.yaml)
+- Action: new
+- Precise subject and factual basis: Fort Jefferson and surrounding marine habitats offer heritage and snorkeling experiences. Score entire park, not merely the fort. Published park GPS. [Visitor information](https://www.nps.gov/drto/planyourvisit/swimming-snorkeling-and-diving.htm), search excerpts inspected 2026-11-26.
+- Location check: 24.628741, -82.87319; [published reference](https://www.recreation.gov/gateways/2665). Representative point rather than guaranteed entry point.
+- Evidence status: **source-linked-unverified**; official source excerpts and published GPS inspected. Full source-page and independent corroboration outstanding.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [AU/great-barrier-reef](../../../countries/AU/sights/great-barrier-reef.yaml) | Much greater underwater scale |
+| [VN/con-dao-national-park](../../../countries/VN/sights/con-dao-national-park.yaml) | Broader island forests and trails |
+| [US/everglades-national-park](../../../countries/US/sights/everglades-national-park.yaml) | Greater wetland ecosystem breadth |
+| [GB/pembrokeshire-coast](../../../countries/GB/sights/pembrokeshire-coast.yaml) | More land-based coastal trail variety |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Fort and sea contrast |
+| Uniqueness | 9.0 | Unusual offshore fort and marine combination |
+| Significance | 8.8 | Maritime history and marine conservation |
+| Experience | 8.8 | Snorkeling and fort exploration |
+| Depth | 8.2 | Limited land scope with marine depth |
+
+- Applicable categories: nature:9.0, history:8.7, photography:9.1, adventure:8.7.
+- Computed worldwide overall: 87.90/100.
+- High-score challenge: no field/category 9.5+; below 90 overall.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: independently corroborate claims and location; check current access before visiting.
+
+
+## sight-us-great-basin-national-park — Great Basin National Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/great-basin-national-park.yaml)
+- Action: new
+- Precise subject and factual basis: Alpine lake trails, ancient bristlecone groves, Wheeler Peak and Lehman Caves (https://www.nps.gov/grba/planyourvisit/visiting-in-fall.htm). Published park GPS. [Visitor information](https://www.nps.gov/grba/planyourvisit/wheeler-peak-scenic-drive-trails.htm), search excerpts inspected 2026-11-26.
+- Location check: 38.946174, -114.257978; [published reference](https://www.recreation.gov/gateways/2732). Representative point rather than guaranteed entry point.
+- Evidence status: **source-linked-unverified**; official source excerpts and published GPS inspected. Full source-page and independent corroboration outstanding.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/rocky-mountain-national-park](../../../countries/US/sights/rocky-mountain-national-park.yaml) | Greater alpine scenery and road network |
+| [NZ/aoraki-mount-cook-national-park](../../../countries/NZ/sights/aoraki-mount-cook-national-park.yaml) | More pronounced glacial peaks |
+| [VN/phong-nha-ke-bang-national-park](../../../countries/VN/sights/phong-nha-ke-bang-national-park.yaml) | Stronger cave-system breadth |
+| [GB/cairngorms](../../../countries/GB/sights/cairngorms.yaml) | Comparable mountain exploration without the same cave and pine combination |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Appealing mountain scenery |
+| Uniqueness | 8.8 | Unusual old-tree and cave combination |
+| Significance | 8.7 | Geological and ecological interest |
+| Experience | 8.6 | Mountain walks and guided cave options |
+| Depth | 8.8 | Multiple environments add variety |
+
+- Applicable categories: nature:8.9, adventure:8.7, photography:8.7.
+- Computed worldwide overall: 86.60/100.
+- High-score challenge: no field/category 9.5+; below 90 overall.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: independently corroborate claims and location; check current access before visiting.
+
+
+## sight-us-kings-canyon-national-park — Kings Canyon National Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/kings-canyon-national-park.yaml)
+- Action: new
+- Precise subject and factual basis: Cedar Grove river trails and routes up the canyon rims; exclude adjacent Sequoia National Park. GPS is Cedar Grove Visitor Center, not joint-park centroid. Grant Grove and Cedar Grove are identified as Kings Canyon areas at https://www.nps.gov/seki/planyourvisit/wherecani.htm. [Visitor information](https://www.nps.gov/seki/planyourvisit/cedar-grove.htm), search excerpts inspected 2026-11-26.
+- Location check: 36.79096, -118.671135; [published reference](https://www.nps.gov/planyourvisit/event-details.htm?id=9F04079E-C0BA-BD6D-46224225CE8B67BB). Representative point rather than guaranteed entry point.
+- Evidence status: **source-linked-unverified**; official source excerpts and published GPS inspected. Full source-page and independent corroboration outstanding.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/yosemite-national-park](../../../countries/US/sights/yosemite-national-park.yaml) | More iconic valley and granite landmarks |
+| [US/sequoia-national-park](../../../countries/US/sights/sequoia-national-park.yaml) | Stronger giant-tree focus |
+| [NZ/aoraki-mount-cook-national-park](../../../countries/NZ/sights/aoraki-mount-cook-national-park.yaml) | More concentrated glacial peaks |
+| [ZA/blyde-river-canyon](../../../countries/ZA/sights/blyde-river-canyon.yaml) | More lush canyon scenery and different geology |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Deep mountain canyon relief |
+| Uniqueness | 8.7 | Distinctive but Sierra landscapes have analogues |
+| Significance | 8.7 | Natural geological and ecological merit |
+| Experience | 8.8 | River trails and wilderness walks |
+| Depth | 9.0 | Multiple areas and extensive exploration |
+
+- Applicable categories: nature:9.2, photography:9.1, adventure:9.0.
+- Computed worldwide overall: 88.35/100.
+- High-score challenge: no field/category 9.5+; below 90 overall.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: independently corroborate claims and location; check current access before visiting.
+
+
+## sight-us-lassen-volcanic-national-park — Lassen Volcanic National Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/lassen-volcanic-national-park.yaml)
+- Action: new
+- Precise subject and factual basis: Volcanic peaks, lakes, meadows and hydrothermal features such as fumaroles and mud pots (https://www.nps.gov/lavo/planyourvisit/exploring-the-hydrothermal-areas.htm). Published park GPS. [Visitor information](https://www.nps.gov/lavo/planyourvisit/hiking_lassen_park.htm), search excerpts inspected 2026-11-26.
+- Location check: 40.493546, -121.407599; [published reference](https://www.recreation.gov/gateways/2803). Representative point rather than guaranteed entry point.
+- Evidence status: **source-linked-unverified**; official source excerpts and published GPS inspected. Full source-page and independent corroboration outstanding.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/yellowstone-national-park](../../../countries/US/sights/yellowstone-national-park.yaml) | Much greater geothermal breadth and scale |
+| [IS/vatnajokull](../../../countries/IS/sights/vatnajokull.yaml) | More exceptional ice-volcano landscapes |
+| [PT/furnas](../../../countries/PT/sights/furnas.yaml) | More concentrated thermal valley experience |
+| [KR/hallasan-national-park](../../../countries/KR/sights/hallasan-national-park.yaml) | Comparable volcanic mountain hiking without the same hydrothermal variety |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Volcanic relief and steaming features |
+| Uniqueness | 8.9 | Varied volcanic landscapes |
+| Significance | 8.8 | Geological merit |
+| Experience | 8.8 | Trails connect distinct volcanic and alpine settings |
+| Depth | 8.8 | Multiple feature types and walking routes |
+
+- Applicable categories: nature:9.1, photography:8.9, adventure:8.8.
+- Computed worldwide overall: 88.25/100.
+- High-score challenge: no field/category 9.5+; below 90 overall.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: independently corroborate claims and location; check current access before visiting.
+
+
+## sight-us-saguaro-national-park — Saguaro National Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/saguaro-national-park.yaml)
+- Action: new
+- Precise subject and factual basis: Cactus-dominated scenery, scenic loops, trails and the Signal Hill petroglyph area. Published park GPS represents one point for a two-district park. [Visitor information](https://www.nps.gov/sagu/planyourvisit/outdooractivities.htm), search excerpts inspected 2026-11-26.
+- Location check: 32.209096, -110.757497; [published reference](https://www.recreation.gov/gateways/2917). Representative point rather than guaranteed entry point.
+- Evidence status: **source-linked-unverified**; official source excerpts and published GPS inspected. Full source-page and independent corroboration outstanding.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/joshua-tree-national-park](../../../countries/US/sights/joshua-tree-national-park.yaml) | Different iconic desert vegetation and boulder scenery |
+| [US/death-valley-national-park](../../../countries/US/sights/death-valley-national-park.yaml) | More dramatic desert landform range |
+| [NA/sossusvlei](../../../countries/NA/sights/sossusvlei.yaml) | More globally striking dune formations |
+| [ZA/kgalagadi-south-africa](../../../countries/ZA/sights/kgalagadi-south-africa.yaml) | More extensive wildlife-focused arid landscapes |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Iconic cactus silhouettes |
+| Uniqueness | 8.8 | Giant saguaro landscapes stand out internationally |
+| Significance | 8.6 | Desert ecology and rock-art interest |
+| Experience | 8.7 | Scenic loops and hikes |
+| Depth | 8.4 | Two districts but narrower landscape range than flagship desert parks |
+
+- Applicable categories: nature:8.9, photography:9.0, adventure:8.3.
+- Computed worldwide overall: 86.15/100.
+- High-score challenge: no field/category 9.5+; below 90 overall.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: independently corroborate claims and location; check current access before visiting.
+
+
+## sight-us-jewel-cave-national-monument — Jewel Cave National Monument — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/jewel-cave-national-monument.yaml)
+- Action: new
+- Precise subject and factual basis: Guided routes showcase calcite crystal formations; underground access is guided only (https://www.nps.gov/thingstodo/guided-cave-tours.htm). NPS published aerial representative point. [Visitor information](https://www.nps.gov/jeca/planyourvisit/scenictour.htm), search excerpts inspected 2026-11-26.
+- Location check: 43.731029, -103.829994; [published reference](https://www.nps.gov/articles/parks-in-space.htm). Representative point rather than guaranteed entry point.
+- Evidence status: **source-linked-unverified**; official source excerpts and published GPS inspected. Full source-page and independent corroboration outstanding.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/mammoth-cave](../../../countries/US/sights/mammoth-cave.yaml) | Greater passage scale and historical breadth |
+| [US/carlsbad-caverns](../../../countries/US/sights/carlsbad-caverns.yaml) | More dramatic chamber-scale scenery |
+| [VN/paradise-cave](../../../countries/VN/sights/paradise-cave.yaml) | More expansive show-cave formations |
+| [NZ/waitomo-glowworm-caves](../../../countries/NZ/sights/waitomo-glowworm-caves.yaml) | Different, highly specialized luminous experience |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Crystal-lined chambers |
+| Uniqueness | 8.9 | Distinctive calcite deposits |
+| Significance | 8.8 | Large cave system has geological value |
+| Experience | 8.4 | Guided routes offer meaningful access |
+| Depth | 8.3 | Visitor routes cover a limited portion of system |
+
+- Applicable categories: nature:8.9, adventure:8.5, photography:8.6.
+- Computed worldwide overall: 86.25/100.
+- High-score challenge: no field/category 9.5+; below 90 overall.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: independently corroborate claims and location; check current access before visiting.
+
+
+## sight-us-monument-valley-navajo-tribal-park — Monument Valley Navajo Tribal Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/monument-valley-navajo-tribal-park.yaml)
+- Action: new
+- Precise subject and factual basis: Navajo-managed park with sandstone formations, scenic loop and local vendors; published Navajo Nation GPS. Score tribal park, not wider region. [Visitor information](https://navajonationparks.org/where-to-go/monument-valley/), search excerpts inspected 2026-11-26.
+- Location check: 37.00414, -110.09889; [published reference](https://navajonationparks.org/where-to-go/monument-valley/). Representative point rather than guaranteed entry point.
+- Evidence status: **source-linked-unverified**; official source excerpts and published GPS inspected. Full source-page and independent corroboration outstanding.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [JO/wadi-rum-protected-area](../../../countries/JO/sights/wadi-rum-protected-area.yaml) | Greater desert exploration breadth and cultural depth |
+| [US/grand-canyon-national-park](../../../countries/US/sights/grand-canyon-national-park.yaml) | Greater canyon scale and scientific breadth |
+| [AU/purnululu-national-park](../../../countries/AU/sights/purnululu-national-park.yaml) | Different unusual sandstone towers |
+| [NA/sossusvlei](../../../countries/NA/sights/sossusvlei.yaml) | Comparable iconic desert visuals but dune rather than butte formations |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.4 | Distinctive monumental desert skyline |
+| Uniqueness | 9.3 | Recognizable butte ensemble with few close analogues |
+| Significance | 8.8 | Natural landscape and Navajo cultural context |
+| Experience | 9.0 | Scenic drive and guided visits |
+| Depth | 8.6 | Strong route-based exploration, narrower scope than major desert parks |
+
+- Applicable categories: nature:9.3, photography:9.4, culture:8.8, adventure:8.7.
+- Computed worldwide overall: 91.15/100.
+- High-score challenge: no field/category 9.5+; outstanding skyline and distinctiveness support 90+, but not a world-leading anchor.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: independently corroborate claims and location; check current access before visiting.
+
+
+## sight-us-alcatraz-island — Alcatraz Island — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/alcatraz-island.yaml)
+- Action: new
+- Precise subject and factual basis: Cellhouse audio interpretation and history of Indigenous occupation (https://www.nps.gov/alca/occupations.htm). GPS published for an island event; representative on-island point. [Visitor information](https://www.nps.gov/thingstodo/tour-the-cellhouse.htm), search excerpts inspected 2026-11-26.
+- Location check: 37.827735, -122.424818; [published reference](https://www.nps.gov/planyourvisit/event-details.htm?id=AEB798DF-C5F8-8A02-813833263B3853F7). Representative point rather than guaranteed entry point.
+- Evidence status: **source-linked-unverified**; official source excerpts and published GPS inspected. Full source-page and independent corroboration outstanding.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [ZA/robben-island](../../../countries/ZA/sights/robben-island.yaml) | Stronger global anti-apartheid significance |
+| [VN/hoa-lo-prison](../../../countries/VN/sights/hoa-lo-prison.yaml) | Comparable prison interpretation in urban setting |
+| [VN/con-dao-prison-complex](../../../countries/VN/sights/con-dao-prison-complex.yaml) | Broader detention site network |
+| [KR/seodaemun-prison-history-hall](../../../countries/KR/sights/seodaemun-prison-history-hall.yaml) | Stronger national independence movement context |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Memorable island prison setting |
+| Uniqueness | 9.0 | Unusual isolation and layered history |
+| Significance | 9.0 | Important incarceration and Indigenous activism history |
+| Experience | 9.1 | Strong interpretive experience |
+| Depth | 8.4 | Multiple themes within compact island |
+
+- Applicable categories: history:9.2, culture:8.9, photography:8.7.
+- Computed worldwide overall: 88.35/100.
+- High-score challenge: no field/category 9.5+; below 90 overall.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: independently corroborate claims and location; check current access before visiting.
+
+
+## sight-us-golden-gate-bridge — Golden Gate Bridge — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/golden-gate-bridge.yaml)
+- Action: new
+- Precise subject and factual basis: Bridge walking and visitor interpretation; score structure and immediate visit, not whole bay. Bridge authority's DMS coordinate converted to decimal (37°49′8.0″ N, 122°28′40.6″ W). [Visitor information](https://www.goldengate.org/bridge/visiting-the-bridge/), search excerpts inspected 2026-11-26.
+- Location check: 37.818889, -122.477944; [published reference](https://www.goldengate.org/faq/). Representative point rather than guaranteed entry point.
+- Evidence status: **source-linked-unverified**; official source excerpts and published GPS inspected. Full source-page and independent corroboration outstanding.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [AU/sydney-harbour-bridge](../../../countries/AU/sights/sydney-harbour-bridge.yaml) | Comparable landmark with distinctive arch and climb experience |
+| [GB/forth-bridge](../../../countries/GB/sights/forth-bridge.yaml) | Exceptional railway engineering, different design |
+| [US/brooklyn-bridge](../../../countries/US/sights/brooklyn-bridge.yaml) | Older suspension bridge and strong urban context |
+| [GB/ironbridge](../../../countries/GB/sights/ironbridge.yaml) | Earlier industrial engineering significance, less dramatic visual scale |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Iconic span across dramatic strait |
+| Uniqueness | 9.0 | Recognizable design with suspension bridge analogues |
+| Significance | 9.0 | Important engineering and cultural landmark |
+| Experience | 8.7 | Walking and interpretation reward a visit |
+| Depth | 7.8 | Single structure limits exploration breadth |
+
+- Applicable categories: architecture:9.3, photography:9.4, history:8.9.
+- Computed worldwide overall: 88.95/100.
+- High-score challenge: no field/category 9.5+; below 90 overall.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: independently corroborate claims and location; check current access before visiting.
+
+
+## sight-us-upper-antelope-canyon — Upper Antelope Canyon — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/upper-antelope-canyon.yaml)
+- Action: new
+- Precise subject and factual basis: Navajo-guided visit to sculpted slot canyon, known for light beams under suitable conditions; distinct from Lower Canyon; geographic pin, not tour meeting point. [Visitor information](https://navajonationparks.org/tribal-parks/lake-powell/), official search excerpts checked 2026-11-26.
+- Location check: 36.8619, -111.3744; [published reference](https://antelopecanyontrip.com/places/where-is-antelope-canyon/); representative point, not guaranteed entrance.
+- Evidence status: **source-linked-unverified**; published location and visitor evidence inspected, full independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/bryce-canyon-national-park](../../../countries/US/sights/bryce-canyon-national-park.yaml) | Much larger varied hoodoo landscape |
+| [JO/petra-siq](../../../countries/JO/sights/petra-siq.yaml) | Similar narrow rock passage with greater archaeological significance |
+| [JO/wadi-rum-khazali-canyon](../../../countries/JO/sights/wadi-rum-khazali-canyon.yaml) | Comparable sandstone fissure with rock-art context |
+| [IS/studlagil](../../../countries/IS/sights/studlagil.yaml) | Different basalt forms and wider hiking scope |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.4 | Exceptional light and sandstone forms |
+| Uniqueness | 9.3 | Rare concentrated slot-canyon aesthetic |
+| Significance | 8.3 | Geological and Navajo landscape context, not a broad heritage complex |
+| Experience | 8.6 | Guided traversal rewarding but time and crowd constraints |
+| Depth | 7.8 | Short, focused experience |
+
+- Applicable categories: nature:9.2, photography:9.4.
+- Computed worldwide overall: 88.75/100.
+- High-score challenge: Below 90 overall. No field/category 9.5+.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: full independent corroboration and current access checks.
+
+
+## sight-us-lower-antelope-canyon — Lower Antelope Canyon — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/lower-antelope-canyon.yaml)
+- Action: new
+- Precise subject and factual basis: Separate guided route through sinuous sandstone passages and stairs, not the flooded lower end near the lake. Pin is not the tour operator check-in. [Visitor information](https://navajonationparks.org/tribal-parks/lake-powell/), official search excerpts checked 2026-11-26.
+- Location check: 36.9037, -111.4138; [published reference](https://antelopecanyontrip.com/places/where-is-antelope-canyon/); representative point, not guaranteed entrance.
+- Evidence status: **source-linked-unverified**; published location and visitor evidence inspected, full independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/bryce-canyon-national-park](../../../countries/US/sights/bryce-canyon-national-park.yaml) | More extensive exploration |
+| [JO/petra-siq](../../../countries/JO/sights/petra-siq.yaml) | Greater cultural significance |
+| [JO/wadi-rum-khazali-canyon](../../../countries/JO/sights/wadi-rum-khazali-canyon.yaml) | Different narrow canyon and rock-art focus |
+| [IS/fjadrargljufur](../../../countries/IS/sights/fjadrargljufur.yaml) | Open green canyon rather than enclosed sandstone |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Memorable layered sandstone |
+| Uniqueness | 9.0 | Comparable to Upper but distinctive passage shapes |
+| Significance | 8.2 | Geological and cultural landscape context |
+| Experience | 8.6 | Guided traversal with stairs |
+| Depth | 8.0 | Focused route with changing rock forms |
+
+- Applicable categories: nature:9.1, photography:9.3, adventure:8.4.
+- Computed worldwide overall: 87.40/100.
+- High-score challenge: Below 90 overall. No field/category 9.5+.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: full independent corroboration and current access checks.
+
+
+## sight-us-napali-coast-state-wilderness-park — Nāpali Coast State Wilderness Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/napali-coast-state-wilderness-park.yaml)
+- Action: new
+- Precise subject and factual basis: Remote Kauaʻi coastal wilderness with steep cliffs and valleys; Kalalau Trail requires applicable reservations or permits. Published Kalalau Beach point represents park interior. [Visitor information](https://dlnr.hawaii.gov/dsp/home/haena-napali-access/), official search excerpts checked 2026-11-26.
+- Location check: 22.17372, -159.6584; [published reference](https://mapcarta.com/24041076); representative point, not guaranteed entrance.
+- Evidence status: **source-linked-unverified**; published location and visitor evidence inspected, full independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [NZ/milford-sound](../../../countries/NZ/sights/milford-sound.yaml) | Different fjord scenery and boat access |
+| [US/olympic-national-park](../../../countries/US/sights/olympic-national-park.yaml) | Broader ecosystem variety |
+| [GB/pembrokeshire-coast](../../../countries/GB/sights/pembrokeshire-coast.yaml) | Less dramatic but more accessible coastal trail network |
+| [PT/vicentina](../../../countries/PT/sights/vicentina.yaml) | Longer and less steep Atlantic coastline |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.4 | Extraordinary coastal relief |
+| Uniqueness | 9.2 | Tropical fluted cliffs and valleys are unusual |
+| Significance | 8.8 | Coastal ecology and cultural landscape |
+| Experience | 8.9 | Outstanding long hike with access restrictions |
+| Depth | 9.0 | Substantial trail and valley exploration |
+
+- Applicable categories: nature:9.4, photography:9.4, adventure:9.3.
+- Computed worldwide overall: 91.15/100.
+- High-score challenge: 90+ supported by the stated combination of intrinsic qualities and peer comparisons; provisional, not a world-leading anchor. No field/category 9.5+.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: full independent corroboration and current access checks.
+
+
+## sight-us-waimea-canyon-state-park — Waimea Canyon State Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/waimea-canyon-state-park.yaml)
+- Action: new
+- Precise subject and factual basis: Colorful eroded canyon and principal lookout; rate state park, not adjacent Kōkeʻe or Nāpali. Representative lookout parking coordinate. [Visitor information](https://dlnr.hawaii.gov/dsp/parks/kauai/waimea-canyon-state-park/), official search excerpts checked 2026-11-26.
+- Location check: 22.071432, -159.66211; [published reference](https://myhikes.org/trails/waimea-canyon-lookout); representative point, not guaranteed entrance.
+- Evidence status: **source-linked-unverified**; published location and visitor evidence inspected, full independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/grand-canyon-national-park](../../../countries/US/sights/grand-canyon-national-park.yaml) | Greater scale and geological exposure |
+| [ZA/blyde-river-canyon](../../../countries/ZA/sights/blyde-river-canyon.yaml) | Comparable green canyon scenery |
+| [FR/verdon](../../../countries/FR/sights/verdon.yaml) | Different limestone and river recreation |
+| [NA/fish-river-canyon](../../../countries/NA/sights/fish-river-canyon.yaml) | More extensive dry canyon |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Striking red-green canyon contrasts |
+| Uniqueness | 8.8 | Distinctive tropical erosion but global canyon analogues |
+| Significance | 8.6 | Geological landscape of substantial interest |
+| Experience | 8.8 | Scenic overlooks and walking |
+| Depth | 8.5 | Several viewpoints, less depth than larger canyon parks |
+
+- Applicable categories: nature:9.2, photography:9.2, adventure:8.6.
+- Computed worldwide overall: 88.20/100.
+- High-score challenge: Below 90 overall. No field/category 9.5+.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: full independent corroboration and current access checks.
+
+
+## sight-us-big-sur-coast — Big Sur Coast (Highway 1 scenic corridor) — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/big-sur-coast.yaml)
+- Action: new
+- Precise subject and factual basis: Scenic Highway 1 coastal corridor with coastal parks, Bixby Bridge and walks. Representative Bixby viewpoint, not the whole region's centroid. Check road access independently. [Visitor information](https://www.visitcalifornia.com/places-to-visit/big-sur/), official search excerpts checked 2026-11-26.
+- Location check: 36.372487, -121.902217; [published reference](https://californiacoastaltrail.org/info-point/bixby-creek-bridge-viewpoint/); representative point, not guaranteed entrance.
+- Evidence status: **source-linked-unverified**; published location and visitor evidence inspected, full independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [AU/great-ocean-road](../../../countries/AU/sights/great-ocean-road.yaml) | More distinctive offshore stacks |
+| [GB/pembrokeshire-coast](../../../countries/GB/sights/pembrokeshire-coast.yaml) | More continuous trail focus |
+| [PT/vicentina](../../../countries/PT/sights/vicentina.yaml) | Less iconic roadway, extensive coast |
+| [FR/etretat](../../../countries/FR/sights/etretat.yaml) | More concentrated chalk cliffs |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Rugged coastal panoramas |
+| Uniqueness | 8.7 | Comparable coastal drives globally |
+| Significance | 8.3 | Natural landscape and road heritage |
+| Experience | 9.0 | Scenic stops and walking |
+| Depth | 8.9 | Multiple coastal parks and overlooks |
+
+- Applicable categories: nature:9.1, photography:9.3, adventure:8.8.
+- Computed worldwide overall: 88.05/100.
+- High-score challenge: Below 90 overall. No field/category 9.5+.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: full independent corroboration and current access checks.
+
+
+## sight-us-kennedy-space-center-visitor-complex — Kennedy Space Center Visitor Complex — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/kennedy-space-center-visitor-complex.yaml)
+- Action: new
+- Precise subject and factual basis: Public visitor complex and included interpretive bus-tour scope; actual Atlantis orbiter and Apollo/Saturn V displays (https://www.kennedyspacecenter.com/info/plan-your-visit/faqs/). Official directions DMS converted to decimal; not the working spaceport centroid. [Visitor information](https://www.kennedyspacecenter.com/explore-attractions/), official search excerpts checked 2026-11-26.
+- Location check: 28.515556, -80.681667; [published reference](https://www.kennedyspacecenter.com/info/plan-your-visit/travel-information-and-parking/); representative point, not guaranteed entrance.
+- Evidence status: **source-linked-unverified**; published location and visitor evidence inspected, full independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/dayton-aviation-heritage](../../../countries/US/sights/dayton-aviation-heritage.yaml) | Important early aviation history but fewer large spacecraft exhibits |
+| [US/independence-hall](../../../countries/US/sights/independence-hall.yaml) | Different globally important historical context |
+| [GB/ironbridge](../../../countries/GB/sights/ironbridge.yaml) | Industrial engineering heritage with different visitor format |
+| [US/guggenheim-museum-new-york](../../../countries/US/sights/guggenheim-museum-new-york.yaml) | World-class museum architecture but different subject and scope |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Full-scale historic spacecraft |
+| Uniqueness | 9.4 | Rare original spacecraft and launch-site interpretation |
+| Significance | 9.4 | Major human spaceflight milestones |
+| Experience | 9.2 | Interactive exhibits and interpretation |
+| Depth | 9.3 | Multiple galleries and bus-tour destinations |
+
+- Applicable categories: history:9.4, culture:9.0, family:9.2.
+- Computed worldwide overall: 93.00/100.
+- High-score challenge: 90+ supported by the stated combination of intrinsic qualities and peer comparisons; provisional, not a world-leading anchor. No field/category 9.5+.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: full independent corroboration and current access checks.
+
+
+## sight-us-empire-state-building — Empire State Building — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/empire-state-building.yaml)
+- Action: new
+- Precise subject and factual basis: Art Deco skyscraper, observation decks and exhibits about construction and cultural history. Mapped building point. [Visitor information](https://www.esbnyc.com/visit/faq), official search excerpts checked 2026-11-26.
+- Location check: 40.74844, -73.98566; [published reference](https://mapcarta.com/22578872); representative point, not guaranteed entrance.
+- Evidence status: **source-linked-unverified**; published location and visitor evidence inspected, full independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/golden-gate-bridge](../../../countries/US/sights/golden-gate-bridge.yaml) | Comparable US engineering icon |
+| [US/statue-of-liberty](../../../countries/US/sights/statue-of-liberty.yaml) | Stronger symbolic and historical narrative |
+| [AU/sydney-harbour-bridge](../../../countries/AU/sights/sydney-harbour-bridge.yaml) | Different engineering type and harbor views |
+| [US/guggenheim-museum-new-york](../../../countries/US/sights/guggenheim-museum-new-york.yaml) | Greater art collection depth |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Iconic skyline and elevated views |
+| Uniqueness | 8.9 | Distinctive Art Deco skyscraper with tower analogues |
+| Significance | 9.0 | Important skyscraper engineering and cultural history |
+| Experience | 8.8 | Interpretation and observation decks |
+| Depth | 8.0 | Focused building visit |
+
+- Applicable categories: architecture:9.3, history:9.0, photography:9.2.
+- Computed worldwide overall: 88.75/100.
+- High-score challenge: Below 90 overall. No field/category 9.5+.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: full independent corroboration and current access checks.
+
+
+## sight-us-national-mall-and-memorial-parks — National Mall and Memorial Parks — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/national-mall-and-memorial-parks.yaml)
+- Action: new
+- Precise subject and factual basis: NPS civic landscape and major memorials; exclude independent Smithsonian museum collections from score. Federal recreation listing provides representative GPS. [Visitor information](https://www.nps.gov/nama/planyourvisit/basicinfo.htm), official search excerpts checked 2026-11-26.
+- Location check: 38.8899, -77.026; [published reference](https://www.recreation.gov/gateways/2870); representative point, not guaranteed entrance.
+- Evidence status: **source-linked-unverified**; published location and visitor evidence inspected, full independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/independence-hall](../../../countries/US/sights/independence-hall.yaml) | More concentrated founding-era heritage |
+| [US/central-park](../../../countries/US/sights/central-park.yaml) | Different recreation and landscape scope |
+| [US/statue-of-liberty](../../../countries/US/sights/statue-of-liberty.yaml) | Single landmark with narrower visit |
+| [GB/ironbridge](../../../countries/GB/sights/ironbridge.yaml) | Different coherent heritage landscape |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Monumental civic vistas |
+| Uniqueness | 9.0 | Distinctive integrated commemorative landscape |
+| Significance | 9.3 | Important US political history and public memory |
+| Experience | 9.0 | Meaningful walking and interpretation |
+| Depth | 9.2 | Several major monuments and memorials |
+
+- Applicable categories: history:9.4, culture:9.2, architecture:9.0, photography:9.0.
+- Computed worldwide overall: 90.80/100.
+- High-score challenge: 90+ supported by the stated combination of intrinsic qualities and peer comparisons; provisional, not a world-leading anchor. No field/category 9.5+.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: full independent corroboration and current access checks.
+
+
+## sight-us-hoover-dam — Hoover Dam — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/hoover-dam.yaml)
+- Action: new
+- Precise subject and factual basis: Major dam and powerplant, visitor interpretation and guided tours; not entire Lake Mead. Federal recreation GPS. [Visitor information](https://www.usbr.gov/lc/hooverdam/service/), official search excerpts checked 2026-11-26.
+- Location check: 36.0160918, -114.7380381; [published reference](https://www.recreation.gov/gateways/29); representative point, not guaranteed entrance.
+- Evidence status: **source-linked-unverified**; published location and visitor evidence inspected, full independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/golden-gate-bridge](../../../countries/US/sights/golden-gate-bridge.yaml) | More iconic scenic crossing |
+| [GB/ironbridge](../../../countries/GB/sights/ironbridge.yaml) | Earlier industrial revolution importance |
+| [AU/sydney-harbour-bridge](../../../countries/AU/sights/sydney-harbour-bridge.yaml) | Different large engineering landmark |
+| [US/independence-hall](../../../countries/US/sights/independence-hall.yaml) | Greater political significance, different heritage type |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Monumental engineering setting |
+| Uniqueness | 8.8 | Distinctive large dam construction, with international analogues |
+| Significance | 9.0 | Major water and power infrastructure history |
+| Experience | 8.6 | Tours and observation opportunities |
+| Depth | 8.3 | Single infrastructure site with interpretation |
+
+- Applicable categories: architecture:9.1, history:9.0, photography:8.8.
+- Computed worldwide overall: 87.30/100.
+- High-score challenge: Below 90 overall. No field/category 9.5+.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: full independent corroboration and current access checks.
+
+
+## sight-us-niagara-falls-state-park — Niagara Falls State Park (US side) — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/niagara-falls-state-park.yaml)
+- Action: new
+- Precise subject and factual basis: US state park visitor scope: American-side viewpoints, Cave of the Winds and boat experience; not the Canadian visitor side. Official Goat Island navigation coordinates, west longitude. [Visitor information](https://www.niagarafallsstatepark.com/attractions/), official search excerpts checked 2026-11-26.
+- Location check: 43.081528, -79.06424; [published reference](https://www.niagarafallsstatepark.com/park-information/maps-directions/); representative point, not guaranteed entrance.
+- Evidence status: **source-linked-unverified**; published location and visitor evidence inspected, full independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/grand-canyon-national-park](../../../countries/US/sights/grand-canyon-national-park.yaml) | Greater landscape and geological depth |
+| [NA/epupa-falls](../../../countries/NA/sights/epupa-falls.yaml) | More remote natural setting and less developed visitor infrastructure |
+| [NZ/milford-sound](../../../countries/NZ/sights/milford-sound.yaml) | Different water-and-cliff experience with broader fjord setting |
+| [ZA/augrabies-falls](../../../countries/ZA/sights/augrabies-falls.yaml) | Different arid river gorge setting |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.4 | Exceptional waterfall power and close views |
+| Uniqueness | 9.0 | Large falls with international analogues |
+| Significance | 8.8 | Important landscape and protected park history |
+| Experience | 9.2 | Complementary viewpoints and close-up experiences |
+| Depth | 8.8 | Multiple paths and visitor activities |
+
+- Applicable categories: nature:9.3, photography:9.4, adventure:8.8.
+- Computed worldwide overall: 90.90/100.
+- High-score challenge: 90+ supported by the stated combination of intrinsic qualities and peer comparisons; provisional, not a world-leading anchor. No field/category 9.5+.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: full independent corroboration and current access checks.
+
+
+## sight-us-space-needle — Space Needle — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/space-needle.yaml)
+- Action: new
+- Precise subject and factual basis: Seattle observation tower, multilevel views and revolving glass floor. GeoNames building coordinate. [Visitor information](https://www.spaceneedle.com/press-faq), official search excerpts checked 2026-11-26.
+- Location check: 47.62051, -122.34928; [published reference](https://www.geonames.org/5811572); representative point, not guaranteed entrance.
+- Evidence status: **source-linked-unverified**; published location and visitor evidence inspected, full independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/golden-gate-bridge](../../../countries/US/sights/golden-gate-bridge.yaml) | More internationally iconic engineering scale |
+| [US/statue-of-liberty](../../../countries/US/sights/statue-of-liberty.yaml) | Greater historical symbolism |
+| [AU/sydney-harbour-bridge](../../../countries/AU/sights/sydney-harbour-bridge.yaml) | Different structure and harbor viewing experience |
+| [GB/forth-bridge](../../../countries/GB/sights/forth-bridge.yaml) | Greater railway engineering heritage |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Appealing skyline and mountain views |
+| Uniqueness | 8.6 | Distinctive mid-century silhouette and glass-floor experience |
+| Significance | 8.4 | Architectural and World's Fair heritage |
+| Experience | 8.8 | Observation decks offer rewarding visit |
+| Depth | 7.6 | Single tower with limited exploration |
+
+- Applicable categories: architecture:8.9, photography:8.9.
+- Computed worldwide overall: 84.90/100.
+- High-score challenge: Below 90 overall. No field/category 9.5+.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: full independent corroboration and current access checks.
+
+
+## sight-us-metropolitan-museum-of-art — Metropolitan Museum of Art (Fifth Avenue) — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/metropolitan-museum-of-art.yaml)
+- Action: new
+- Precise subject and factual basis: Five millennia of art at Fifth Avenue; exclude the Cloisters. [Visitor information](https://www.metmuseum.org/plan-your-visit); source excerpts inspected 2026-11-26.
+- Location check: 40.7794, -73.9631; [published reference](https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and coordinates inspected; complete independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [FR/louvre](../../../countries/FR/sights/louvre.yaml) | Comparable encyclopedic breadth, more iconic building |
+| [GB/british-museum](../../../countries/GB/sights/british-museum.yaml) | Comparable world-historical breadth, different art emphasis |
+| [NL/rijksmuseum](../../../countries/NL/sights/rijksmuseum.yaml) | More concentrated Dutch art focus |
+| [AT/kunsthistorisches-museum](../../../countries/AT/sights/kunsthistorisches-museum.yaml) | Historic collections with narrower geographic breadth |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.3 | Exceptional galleries |
+| Uniqueness | 9.4 | Rare encyclopedic range |
+| Significance | 9.4 | Internationally important collections |
+| Experience | 9.3 | Rich thematic visits |
+| Depth | 9.6 | Exceptional chronological and geographic breadth |
+
+- Applicable categories: culture:9.4, history:9.4, architecture:8.9.
+- Computed worldwide overall: 93.75/100.
+- High-score challenge: Depth 9.6: five-millennia encyclopedic range supports repeat visits, comparable with Louvre and British Museum, broader geographic coverage than Rijksmuseum. Provisional; further claim-level verification needed.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: independent corroboration and current visitor access checks.
+
+
+## sight-us-american-museum-of-natural-history — American Museum of Natural History — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/american-museum-of-natural-history.yaml)
+- Action: new
+- Precise subject and factual basis: Permanent galleries, habitat dioramas, Earth and space and Gilder Center displays. [Visitor information](https://www.amnh.org/exhibitions/permanent); source excerpts inspected 2026-11-26.
+- Location check: 40.7811, -73.97421; [published reference](https://mapcarta.com/22559924); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and coordinates inspected; complete independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [GB/natural-history-museum](../../../countries/GB/sights/natural-history-museum.yaml) | Comparable flagship institution |
+| [AT/natural-history-museum-vienna](../../../countries/AT/sights/natural-history-museum-vienna.yaml) | Historic collections with less immersive breadth |
+| [JP/fukui-dinosaur-museum](../../../countries/JP/sights/fukui-dinosaur-museum.yaml) | More concentrated dinosaur focus |
+| [SG/lee-kong-chian-natural-history-museum](../../../countries/SG/sights/lee-kong-chian-natural-history-museum.yaml) | Smaller biodiversity-focused institution |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Immersive displays |
+| Uniqueness | 9.2 | Distinctive dioramas and gallery combination |
+| Significance | 9.3 | Scientific collections and education |
+| Experience | 9.2 | Varied exhibitions |
+| Depth | 9.4 | Many complementary subject areas |
+
+- Applicable categories: nature:9.3, culture:9.0, family:9.3.
+- Computed worldwide overall: 92.40/100.
+- High-score challenge: 90+ supported by stated intrinsic qualities and comparative breadth; no 9.5+ field.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: independent corroboration and current visitor access checks.
+
+
+## sight-us-national-air-and-space-museum-dc — National Air and Space Museum (Washington, DC) — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/national-air-and-space-museum-dc.yaml)
+- Action: new
+- Precise subject and factual basis: DC museum exhibits historic aviation and spaceflight objects; exclude Chantilly branch. [Visitor information](https://airandspace.si.edu/visit/museum-dc); source excerpts inspected 2026-11-26.
+- Location check: 38.88817, -77.0197; [published reference](https://mapcarta.com/20625102); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and coordinates inspected; complete independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/kennedy-space-center-visitor-complex](../../../countries/US/sights/kennedy-space-center-visitor-complex.yaml) | Stronger launch-site context |
+| [US/dayton-aviation-heritage](../../../countries/US/sights/dayton-aviation-heritage.yaml) | More concentrated early aviation heritage |
+| [JP/kyoto-railway-museum](../../../countries/JP/sights/kyoto-railway-museum.yaml) | Different transport-history focus |
+| [GB/british-museum](../../../countries/GB/sights/british-museum.yaml) | Broader world history, different subject |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Memorable original aircraft and spacecraft |
+| Uniqueness | 9.3 | Rare historic flight objects |
+| Significance | 9.4 | International flight heritage |
+| Experience | 9.1 | Strong exhibition-led visit |
+| Depth | 9.1 | Multiple flight themes |
+
+- Applicable categories: history:9.4, culture:9.1, family:9.1.
+- Computed worldwide overall: 92.10/100.
+- High-score challenge: 90+ supported by stated intrinsic qualities and comparative breadth; no 9.5+ field.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: independent corroboration and current visitor access checks.
+
+
+## sight-us-national-museum-of-african-american-history-and-culture — National Museum of African American History and Culture — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/national-museum-of-african-american-history-and-culture.yaml)
+- Action: new
+- Precise subject and factual basis: Smithsonian museum dedicated to African American experience; galleries separate from National Mall civic landscape. [Visitor information](https://www.si.edu/museums/african-american-museum); source excerpts inspected 2026-11-26.
+- Location check: 38.89106, -77.0327; [published reference](https://mapcarta.com/W398810868); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and coordinates inspected; complete independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [ZA/robben-island](../../../countries/ZA/sights/robben-island.yaml) | More concentrated historic site |
+| [US/birmingham-civil-rights-monument](../../../countries/US/sights/birmingham-civil-rights-monument.yaml) | More concentrated civil-rights heritage |
+| [JP/hiroshima-peace-memorial-museum](../../../countries/JP/sights/hiroshima-peace-memorial-museum.yaml) | Different internationally consequential history |
+| [KR/national-museum-of-korea](../../../countries/KR/sights/national-museum-of-korea.yaml) | Broader national artifact collection |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Powerful historical interpretation |
+| Uniqueness | 9.2 | Distinctive comprehensive focus |
+| Significance | 9.4 | Major historical and cultural significance |
+| Experience | 9.1 | Meaningful curated visit |
+| Depth | 9.2 | Multiple history and culture levels |
+
+- Applicable categories: history:9.4, culture:9.4, architecture:8.8.
+- Computed worldwide overall: 91.65/100.
+- High-score challenge: 90+ supported by stated intrinsic qualities and comparative breadth; no 9.5+ field.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: independent corroboration and current visitor access checks.
+
+
+## sight-us-lincoln-memorial — Lincoln Memorial — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/lincoln-memorial.yaml)
+- Action: new
+- Precise subject and factual basis: Chamber, statue and steps, including civil-rights history (https://www.nps.gov/linc/learn/historyculture/exterior-features.htm); not whole Mall. [Visitor information](https://www.nps.gov/linc/planyourvisit/index.htm); source excerpts inspected 2026-11-26.
+- Location check: 38.889321, -77.050166; [published reference](https://www.recreation.gov/gateways/13957); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and coordinates inspected; complete independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/national-mall-and-memorial-parks](../../../countries/US/sights/national-mall-and-memorial-parks.yaml) | Parent ensemble broader |
+| [US/statue-of-liberty](../../../countries/US/sights/statue-of-liberty.yaml) | More distinct sculptural form |
+| [US/mount-rushmore-national-memorial](../../../countries/US/sights/mount-rushmore-national-memorial.yaml) | Different presidential commemoration |
+| [JP/hiroshima-peace-memorial-park](../../../countries/JP/sights/hiroshima-peace-memorial-park.yaml) | Broader memorial landscape |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Strong civic setting |
+| Uniqueness | 8.8 | Recognizable classical memorial |
+| Significance | 9.2 | Presidential and civil-rights significance |
+| Experience | 8.7 | Reflective visit and vistas |
+| Depth | 7.8 | Focused single memorial |
+
+- Applicable categories: history:9.2, architecture:9.0, photography:8.9.
+- Computed worldwide overall: 87.95/100.
+- High-score challenge: Below 90 overall; no 9.5+ field.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: independent corroboration and current visitor access checks.
+
+
+## sight-us-washington-monument — Washington Monument — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/washington-monument.yaml)
+- Action: new
+- Precise subject and factual basis: Obelisk and elevator observation experience, not whole Mall. [Visitor information](https://www.nps.gov/places/000/washington-monument.htm); source excerpts inspected 2026-11-26.
+- Location check: 38.889463, -77.035237; [published reference](https://www.nps.gov/wamo/planyourvisit/basicinfo.htm); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and coordinates inspected; complete independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/national-mall-and-memorial-parks](../../../countries/US/sights/national-mall-and-memorial-parks.yaml) | Broader parent landscape |
+| [FR/eiffel-tower](../../../countries/FR/sights/eiffel-tower.yaml) | More distinct engineering and silhouette |
+| [CA/cn-tower](../../../countries/CA/sights/cn-tower.yaml) | Different observation experience |
+| [US/space-needle](../../../countries/US/sights/space-needle.yaml) | Different tower form and viewing decks |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Landmark scale and views |
+| Uniqueness | 8.6 | Obelisk form has analogues |
+| Significance | 8.8 | Important civic commemoration |
+| Experience | 8.6 | Panoramic observation |
+| Depth | 7.3 | Limited single monument |
+
+- Applicable categories: architecture:8.9, history:8.9, photography:8.9.
+- Computed worldwide overall: 85.40/100.
+- High-score challenge: Below 90 overall; no 9.5+ field.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: independent corroboration and current visitor access checks.
+
+
+## sight-us-disneyland-park-anaheim — Disneyland Park (Anaheim) — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/disneyland-park-anaheim.yaml)
+- Action: new
+- Precise subject and factual basis: Original California park with themed lands and entertainment, excluding other resort facilities. [Visitor information](https://disneyexperiences.com/disneyland-press/fact/disneyland-park-fact-sheet-2/); source excerpts inspected 2026-11-26.
+- Location check: 33.812092, -117.918974; [published reference](https://www.findlatitudeandlongitude.com/l/?=loc%3DDisneyland); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and coordinates inspected; complete independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [JP/tokyo-disneyland](../../../countries/JP/sights/tokyo-disneyland.yaml) | Related design with less original history |
+| [JP/tokyo-disneysea](../../../countries/JP/sights/tokyo-disneysea.yaml) | More distinctive nautical theming |
+| [NL/efteling](../../../countries/NL/sights/efteling.yaml) | Independent fairy-tale heritage |
+| [SG/universal-studios-singapore](../../../countries/SG/sights/universal-studios-singapore.yaml) | More compact film-themed park |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Immersive themed settings |
+| Uniqueness | 9.1 | Original park identity |
+| Significance | 8.8 | Influential entertainment-design history |
+| Experience | 9.3 | Varied rides and shows |
+| Depth | 9.2 | Multiple themed lands |
+
+- Applicable categories: family:9.4, culture:8.8, photography:8.8.
+- Computed worldwide overall: 90.50/100.
+- High-score challenge: 90+ supported by stated intrinsic qualities and comparative breadth; no 9.5+ field.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: independent corroboration and current visitor access checks.
+
+
+## sight-us-magic-kingdom-park — Magic Kingdom Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/magic-kingdom-park.yaml)
+- Action: new
+- Precise subject and factual basis: One Florida theme park with rides, themed lands and parades; exclude other parks and hotels. [Visitor information](https://disneyworld.disney.go.com/destinations/magic-kingdom/); source excerpts inspected 2026-11-26.
+- Location check: 28.41909, -81.58143; [published reference](https://mapcarta.com/Walt_Disney_World/Magic_Kingdom); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and coordinates inspected; complete independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [JP/tokyo-disneyland](../../../countries/JP/sights/tokyo-disneyland.yaml) | Related park design |
+| [JP/tokyo-disneysea](../../../countries/JP/sights/tokyo-disneysea.yaml) | More unusual nautical setting |
+| [NL/efteling](../../../countries/NL/sights/efteling.yaml) | Distinct fairy-tale identity |
+| [JP/universal-studios-japan](../../../countries/JP/sights/universal-studios-japan.yaml) | Different film-themed experience |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Memorable themed settings |
+| Uniqueness | 8.7 | Shares concepts with other Disney parks |
+| Significance | 8.5 | Influential design history |
+| Experience | 9.3 | Varied attractions |
+| Depth | 9.2 | Multiple themed areas |
+
+- Applicable categories: family:9.4, culture:8.5, photography:8.8.
+- Computed worldwide overall: 88.60/100.
+- High-score challenge: Below 90 overall; no 9.5+ field.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: independent corroboration and current visitor access checks.
+
+## sight-us-national-gallery-of-art-washington — National Gallery of Art (Washington, DC) — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/national-gallery-of-art-washington.yaml)
+- Action: new
+- Precise subject: One institution comprising West and East Buildings and Sculpture Garden; excludes other National Mall museums. Representative GPS at West Building.
+- Location check: 38.89132, -77.01991; [published representative point](https://mapcarta.com/20625146), accessed 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Checked visitor evidence: Historic art, modern and contemporary collections, two distinct gallery buildings and sculpture garden. [Reference 1](https://www.nga.gov/visit); [Reference 2](https://washington.org/visit-dc/national-gallery-of-art-washington-dc); inspected 2026-11-26. Sources support visitor scope, not numerical scores.
+- Missing or uncertain facts: complete independent corroboration and current gallery/object availability.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [FR/louvre](../../../countries/FR/sights/louvre.yaml) | Louvre has greater encyclopedic and archaeological breadth. |
+| [GB/national-gallery](../../../countries/GB/sights/national-gallery.yaml) | London's old-master concentration contrasts with Washington's modern wing. |
+| [ES/prado](../../../countries/ES/sights/prado.yaml) | Prado has deeper Spanish old-master specialization. |
+| [AT/albertina-museum](../../../countries/AT/sights/albertina-museum.yaml) | Washington has broader historic-to-modern gallery scope. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Strong art and contrasting gallery architecture provide visual impact. |
+| Uniqueness | 9.1 | Historic and modern collections across distinct buildings make a coherent broad experience. |
+| Significance | 9.3 | Important international fine-art holdings, below encyclopedic global leaders. |
+| Experience | 9.2 | Gallery variety and garden support rewarding visits. |
+| Depth | 9.4 | Two buildings and garden create substantial exploration depth. |
+
+- Applicable categories: culture:9.4, history:9.2, architecture:8.8.
+- Computed worldwide overall: 91.85/100.
+- High-score challenge: Above 90 based on the particular significance, impact and experience explained above; comparison with broader worldwide leaders limits the rating. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.
+
+## sight-us-museum-of-modern-art-new-york — Museum of Modern Art (MoMA, New York) — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/museum-of-modern-art-new-york.yaml)
+- Action: new
+- Precise subject: Midtown Manhattan museum's permanent and changing galleries; excludes MoMA PS1.
+- Location check: 40.76161, -73.97755; [representative point](https://mapcarta.com/22602100), checked 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: MoMA describes nearly 200,000 modern and contemporary works including The Starry Night; visitor itinerary identifies collection highlights (https://www.moma.org/visit/itineraries/unmissables). Display rotation applies. [Visitor reference](https://www.moma.org/collection/); accessed 2026-11-26. Sources support scope and facts, not scores.
+- Missing or uncertain facts: current access and complete independent corroboration; cave activities subject to restrictions and qualifications.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/louvre](../../../countries/FR/sights/louvre.yaml) | 9.6 / 9.6 / 9.8 / 9.4 / 9.8 | Broader chronological and geographic holdings. |
+| [US/metropolitan-museum-of-art](../../../countries/US/sights/metropolitan-museum-of-art.yaml) | 9.3 / 9.4 / 9.4 / 9.3 / 9.6 | Larger encyclopedic breadth versus concentrated modern art. |
+| [ES/reina-sofia-museum](../../../countries/ES/sights/reina-sofia-museum.yaml) | 9.2 / 9.2 / 9.4 / 9.0 / 9.1 | Singular Spanish modernist anchors versus wider international coverage. |
+| [HK/m-plus-museum](../../../countries/HK/sights/m-plus-museum.yaml) | 8.6 / 9.0 / 8.9 / 8.8 / 9.0 | Distinct Asian visual-culture focus versus established modernist anchors. |
+
+Peer values from country ranking tables or same-batch assessments; complete source YAML cross-check pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.3 | Canonical modern artworks provide exceptional artistic impact |
+| Uniqueness | 9.4 | concentration of defining modern and contemporary works is difficult to substitute |
+| Significance | 9.4 | collections have international art-historical importance |
+| Experience | 9.3 | varied galleries reward sustained visits |
+| Depth | 9.4 | multiple media and periods give extensive depth. |
+
+- Applicable categories: culture:9.4, history:9.3, architecture:8.6.
+- Computed worldwide overall: 93.55/100.
+- High-score challenge: Above 90 due to documented specific scope and distinct strengths; below broader world-leading peers as compared above. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-us-times-square — Times Square — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/times-square.yaml)
+- Action: new
+- Precise subject: Public pedestrian plazas and illuminated street environment; excludes separately ticketed Broadway shows, individual shops and New Year's Eve event-specific access.
+- Location check: 40.75726, -73.98601; [published representative point](https://mapcarta.com/22627724), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: NYC identifies six pedestrian plazas between 41st and 47th Streets; mapped point represents square, not a subway station. Public programming and visual commercial environment support scope (https://www.timessquarenyc.org/business-community/planning-an-event). [Primary reference](https://www.nyc.gov/site/cecm/permitting/times-square.page); web sources inspected 2026-11-26. Sources support scope and facts, not numeric judgments.
+- Missing or uncertain facts: full independent corroboration, current access and availability of individual areas or artworks.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/central-park](../../../countries/US/sights/central-park.yaml) | Broader recreational scope and greater landscape depth. |
+| [CA/granville-island](../../../countries/CA/sights/granville-island.yaml) | More varied food and arts district activities; Times Square stronger visual spectacle. |
+| [HK/victoria-harbour](../../../countries/HK/sights/victoria-harbour.yaml) | Distinct waterfront skyline spectacle versus dense street-level commercial environment. |
+| [US/empire-state-building](../../../countries/US/sights/empire-state-building.yaml) | Architectural landmark and focused elevated view versus open street environment. |
+
+Peer assessments compared editorially; complete source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Immersive illuminated commercial streetscape |
+| Uniqueness | 9.0 | globally recognizable concentration of advertising and entertainment |
+| Significance | 8.5 | international cultural visibility but limited historic fabric |
+| Experience | 8.4 | memorable public-space experience with crowds and limited activities |
+| Depth | 7.2 | relatively short walk unless separately ticketed experiences are added. |
+
+- Applicable categories: photography:9.1, culture:8.7, nightlife:8.8.
+- Computed worldwide overall: 86.30/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.
+
+## sight-us-art-institute-of-chicago — Art Institute of Chicago — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/art-institute-of-chicago.yaml)
+- Action: new
+- Precise subject: Main museum campus, including Modern Wing; excludes School of the Art Institute and Millennium Park.
+- Location check: 41.87944, -87.62389; [published representative point](https://en.wikipedia.org/wiki/Art_Institute_of_Chicago), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Museum publication describes nearly 300,000 objects across numerous media and highlights Seurat, Hopper, Wood and Hokusai; city tourism describes galleries and tours (https://www.choosechicago.com/articles/museums-art/visit-the-art-institute-of-chicago/). Main visitor page returned 403; no assumption that each work is currently displayed. [Primary reference](https://shop.artic.edu/products/291982); web sources inspected 2026-11-26. Sources support scope and facts, not numeric judgments.
+- Missing or uncertain facts: full independent corroboration, current access and availability of individual areas or artworks.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [FR/louvre](../../../countries/FR/sights/louvre.yaml) | Louvre has broader archaeological and historical scope. |
+| [US/metropolitan-museum-of-art](../../../countries/US/sights/metropolitan-museum-of-art.yaml) | Metropolitan Museum has greater encyclopedic breadth. |
+| [US/museum-of-modern-art-new-york](../../../countries/US/sights/museum-of-modern-art-new-york.yaml) | MoMA concentrates on modern and contemporary works; Chicago spans more periods. |
+| [ES/prado](../../../countries/ES/sights/prado.yaml) | Prado has stronger Spanish old-master specialization; Chicago has important modern and American holdings. |
+
+Peer assessments compared editorially; complete source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.3 | Canonical original art creates exceptional visual impact |
+| Uniqueness | 9.3 | concentration of Impressionist and American masterpieces is distinctive |
+| Significance | 9.4 | internationally significant collection across cultures and periods |
+| Experience | 9.3 | diverse galleries and interpretation reward sustained visits |
+| Depth | 9.4 | substantial multi-media holdings support deep exploration. |
+
+- Applicable categories: culture:9.4, history:9.3, architecture:8.7.
+- Computed worldwide overall: 93.30/100.
+- High-score challenge: Above 90 reflects the documented collection and site-specific strengths above, below broader world-leading institutions. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.
+
+## sight-us-getty-center — Getty Center — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/getty-center.yaml)
+- Action: new
+- Precise subject: Brentwood hilltop Getty Center art galleries, visitor-accessible architecture and gardens; excludes Getty Villa in Pacific Palisades and scholar-only research areas.
+- Location check: 34.07804, -118.4741; [published representative point](https://mapcarta.com/27416716), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Getty documents art from the Middle Ages onward, Richard Meier architecture, city views and four gardens (https://www.getty.edu/visit/center/top-things-to-do/architecture/; https://www.getty.edu/visit/center/top-things-to-do/gardens/). [Primary reference](https://www.getty.edu/visit/center/); web sources inspected 2026-11-26. Sources support scope and facts, not numeric judgments.
+- Missing or uncertain facts: full independent corroboration, current access and availability of individual areas or artworks.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [FR/louvre](../../../countries/FR/sights/louvre.yaml) | Louvre has much broader and more historically consequential collections. |
+| [US/national-gallery-of-art-washington](../../../countries/US/sights/national-gallery-of-art-washington.yaml) | Washington offers broader collection scope; Getty adds distinctive hillside architecture. |
+| [AU/mona-hobart](../../../countries/AU/sights/mona-hobart.yaml) | MONA has a more experimental underground setting; Getty offers outdoor architecture and gardens. |
+| [ES/thyssen-bornemisza-museum](../../../countries/ES/sights/thyssen-bornemisza-museum.yaml) | Thyssen focuses on art-historical sequence; Getty adds extensive designed outdoor space. |
+
+Peer assessments compared editorially; complete source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Art, garden design and hilltop vistas create strong combined impact |
+| Uniqueness | 9.1 | integrated modern architectural and landscaped setting is distinctive |
+| Significance | 9.0 | important European art holdings and cultural institution |
+| Experience | 9.2 | varied gallery and outdoor experiences reward visitors |
+| Depth | 9.1 | multiple galleries and gardens support an extended visit. |
+
+- Applicable categories: culture:9.3, architecture:9.3, photography:9.1, history:8.9.
+- Computed worldwide overall: 90.95/100.
+- High-score challenge: Above 90 reflects the documented collection and site-specific strengths above, below broader world-leading institutions. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.
+
+## sight-us-griffith-observatory — Griffith Observatory — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/griffith-observatory.yaml)
+- Action: new
+- Precise subject: Observatory building, astronomy exhibitions, public telescope viewing when conditions allow and terraces; excludes broader Griffith Park and Hollywood Sign trails.
+- Location check: 34.11821, -118.30037; [published representative point](https://mapcarta.com/26238718), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: City observatory describes public telescopes, planetarium, exhibits and skyline views (https://griffithobservatory.lacity.gov/explore/exhibits/). Telescope observing is weather and operating-hours dependent; planetarium requires separate admission. [Primary reference](https://griffithobservatory.lacity.gov/visit/); web sources inspected 2026-11-26. Sources support scope and facts, not numeric judgments.
+- Missing or uncertain facts: full independent corroboration, current access and availability of individual areas or artworks.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/kennedy-space-center-visitor-complex](../../../countries/US/sights/kennedy-space-center-visitor-complex.yaml) | Greater spaceflight historical significance and exhibit scale. |
+| [US/national-air-and-space-museum-dc](../../../countries/US/sights/national-air-and-space-museum-dc.yaml) | Broader aerospace collection; Griffith offers public observing and skyline. |
+| [US/space-needle](../../../countries/US/sights/space-needle.yaml) | Griffith adds astronomy education to panoramic visit. |
+| [CA/cn-tower](../../../countries/CA/sights/cn-tower.yaml) | CN Tower has more elevated urban viewpoint but narrower scientific interpretation. |
+
+Peer assessments compared editorially; complete source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Hilltop panorama and historic observatory create memorable impact |
+| Uniqueness | 8.9 | combination of astronomy outreach and metropolitan views distinguishes the attraction |
+| Significance | 8.7 | important public science institution without assuming research discoveries |
+| Experience | 9.1 | exhibits, eligible observing and views offer rewarding variety |
+| Depth | 8.8 | multiple galleries and terraces support depth. |
+
+- Applicable categories: architecture:8.9, photography:9.1, family:9.1, culture:8.8.
+- Computed worldwide overall: 88.80/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.
+
+## sight-us-millennium-park-chicago — Millennium Park (Chicago) — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/millennium-park-chicago.yaml)
+- Action: new
+- Precise subject: Public park, Cloud Gate, garden and pavilion exterior; excludes Art Institute and wider Grant Park; performance tickets not assumed.
+- Location check: 41.88262, -87.62252; [published representative point](https://mapcarta.com/26259116), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: City listing identifies park and current improvement-related walkway/restroom closures in search excerpt; direct page returned 403. Separate city public-art listing confirms Cloud Gate (https://chicago.gov/city/en/depts/dca/supp_info/chicago_s_publicartcloudgateinmillenniumpark.html). [Primary reference](https://chicago.gov/city/en/depts/dca/supp_info/millennium_park.html); web sources inspected 2026-11-26. Sources support scope and facts, not numeric judgments.
+- Missing or uncertain facts: full independent corroboration, current access and availability of individual areas or artworks.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/central-park](../../../countries/US/sights/central-park.yaml) | Much larger and more varied historic park. |
+| [CA/stanley-park](../../../countries/CA/sights/stanley-park.yaml) | Stanley Park emphasizes natural recreation and greater area. |
+| [SG/gardens-by-the-bay](../../../countries/SG/sights/gardens-by-the-bay.yaml) | More extensive botanical and architectural spectacle. |
+| [US/times-square](../../../countries/US/sights/times-square.yaml) | Times Square emphasizes commercial spectacle, Millennium Park public art and greenery. |
+
+Peer assessments compared editorially; complete source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Public sculpture and urban setting produce strong visual appeal |
+| Uniqueness | 8.6 | integrated architecture and public art distinguish this city park |
+| Significance | 8.1 | modern public-design significance rather than deep historical importance |
+| Experience | 8.8 | accessible public art and outdoor spaces make rewarding visits |
+| Depth | 8.5 | multiple features support exploration but smaller footprint than major urban parks. |
+
+- Applicable categories: architecture:9.0, photography:9.1, relaxation:8.8, culture:8.8.
+- Computed worldwide overall: 85.50/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.
+
+## sight-us-pike-place-market — Pike Place Market — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/pike-place-market.yaml)
+- Action: new
+- Precise subject: Historic public market's accessible stalls, corridors and public spaces; excludes broader waterfront and separately ticketed attractions.
+- Location check: 47.60949, -122.34167; [published representative point](https://mapcarta.com/23959270), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Market operator identifies 1907 founding and current independent farmers, craftspeople and small businesses; heritage display documents craft tradition (https://www.pikeplacemarket.org/about-pike-place-market/heritage-display-project/homegrown-handmade/). Individual vendor schedules vary. [Primary reference](https://www.pikeplacemarket.org/about-pike-place-market/plan-your-visit/); web sources inspected 2026-11-26. Sources support scope and facts, not numeric judgments.
+- Missing or uncertain facts: full independent corroboration, current access and availability of individual areas or artworks.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [CA/granville-island](../../../countries/CA/sights/granville-island.yaml) | Granville includes wider arts district; Pike Place has strong historic market identity. |
+| [TH/chatuchak-weekend-market](../../../countries/TH/sights/chatuchak-weekend-market.yaml) | Chatuchak has greater retail scale and variety. |
+| [ID/beringharjo-market](../../../countries/ID/sights/beringharjo-market.yaml) | Beringharjo has distinct traditional Javanese market character. |
+| [US/central-park](../../../countries/US/sights/central-park.yaml) | Central Park offers broader outdoor exploration rather than market culture. |
+
+Peer assessments compared editorially; complete source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Lively historic market environment and waterfront setting create strong atmosphere |
+| Uniqueness | 8.7 | enduring local producer and crafts identity is distinctive |
+| Significance | 8.6 | historical market continuity has regional and national significance |
+| Experience | 8.9 | food and craft exploration support rewarding visits |
+| Depth | 8.8 | multiple stalls and levels provide depth. |
+
+- Applicable categories: food:9.2, culture:9.0, photography:8.8, history:8.8.
+- Computed worldwide overall: 86.90/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.
+
+## sight-us-national-wwii-museum — National WWII Museum (New Orleans) — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/national-wwii-museum.yaml)
+- Action: new
+- Precise subject: Main museum campus and permanent historical exhibitions; excludes separately ticketed special experiences.
+- Location check: 29.94306, -90.07028; [published representative point](https://en.wikipedia.org/wiki/The_National_WWII_Museum), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Museum campus guide documents multiple pavilions, personal accounts and home-front exhibitions; Liberation Pavilion addresses the Holocaust and postwar consequences (https://www.nationalww2museum.org/visit/museum-campus-guide/liberation-pavilion). Council of Europe cultural routes profile corroborates American-centered scope (https://www.coe.int/fr/web/cultural-routes/-/national-wwii-museum). [Primary reference](https://www.nationalww2museum.org/visit/exhibits); web sources inspected 2026-11-26. Sources support scope and facts, not numeric judgments.
+- Missing or uncertain facts: full independent corroboration and current availability of individual visitor areas.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [AU/australian-war-memorial](../../../countries/AU/sights/australian-war-memorial.yaml) | 9.0 / 9.1 / 9.3 / 9.0 / 9.2 | Broader Australian service history versus concentrated WWII interpretation. |
+| [KR/war-memorial-of-korea](../../../countries/KR/sights/war-memorial-of-korea.yaml) | 8.8 / 8.9 / 9.3 / 9.2 / 9.3 | Comparable national historical museum with different conflict focus. |
+| [DE/topography-of-terror](../../../countries/DE/sights/topography-of-terror.yaml) | 8.9 / 9.1 / 9.4 / 9.0 / 8.5 | Authentic site and concentrated documentation of Nazi persecution. |
+| [US/national-museum-of-african-american-history-and-culture](../../../countries/US/sights/national-museum-of-african-american-history-and-culture.yaml) | 9.0 / 9.2 / 9.4 / 9.1 / 9.2 | Broader social and cultural history across centuries. |
+
+Peer dimensions from current country ranking tables; full source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Personal accounts and historical objects create substantial emotional impact |
+| Uniqueness | 9.2 | multi-pavilion presentation of American wartime experience is distinctive |
+| Significance | 9.3 | internationally consequential history with a national interpretive focus |
+| Experience | 9.2 | reflective multimedia and historical exhibits support meaningful learning |
+| Depth | 9.4 | several major pavilions support extensive exploration. |
+
+- Applicable categories: history:9.4, culture:9.1.
+- Computed worldwide overall: 92.10/100.
+- High-score challenge: Above 90 reflects the documented specific collection strengths and visitor depth; comparison with world-leading institutions limits the rating. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.
+
+## sight-us-getty-villa — Getty Villa — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/getty-villa.yaml)
+- Action: new
+- Precise subject: Pacific Palisades museum, its antiquities and recreated Roman-style gardens; excludes Getty Center.
+- Location check: 34.04498, -118.56409; [published representative point](https://mapcarta.com/23065726), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Getty describes Greek and Roman antiquities in a recreated Roman country house; visitor highlights include peristyle gardens and sculpture (https://www.getty.edu/visit/villa/top-things-to-do/). Reconstructed building is not an ancient archaeological site. [Primary reference](https://www.getty.edu/visit/villa/); web sources inspected 2026-11-26. Sources support scope and facts, not numeric judgments.
+- Missing or uncertain facts: full independent corroboration and current availability of individual visitor areas.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/museo-egizio](../../../countries/IT/sights/museo-egizio.yaml) | 9.1 / 9.3 / 9.4 / 9.1 / 9.4 | Greater specialist archaeological collection depth. |
+| [DE/neues-museum](../../../countries/DE/sights/neues-museum.yaml) | 9.1 / 9.3 / 9.3 / 9.0 / 9.1 | Distinctive Egyptian and European archaeology with broader historical depth. |
+| [US/getty-center](../../../countries/US/sights/getty-center.yaml) | 9.1 / 9.1 / 9.0 / 9.2 / 9.1 | Separate hilltop campus with wider later European art and garden scope. |
+| [US/art-institute-of-chicago](../../../countries/US/sights/art-institute-of-chicago.yaml) | 9.3 / 9.3 / 9.4 / 9.3 / 9.4 | Broader art periods and media. |
+
+Peer dimensions from current country ranking tables; full source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Ancient artworks and landscaped architectural setting create strong impact |
+| Uniqueness | 9.0 | integrated antiquities museum and Roman-inspired design distinguish the site |
+| Significance | 9.1 | internationally relevant original antiquities but no inherited ancient-building significance |
+| Experience | 9.0 | galleries and gardens offer rewarding exploration |
+| Depth | 8.7 | multiple galleries and gardens provide substantial bounded depth. |
+
+- Applicable categories: culture:9.3, history:9.2, architecture:9.1, photography:8.9.
+- Computed worldwide overall: 89.60/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.
+
+## sight-us-field-museum — Field Museum of Natural History — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/field-museum.yaml)
+- Action: new
+- Precise subject: Main Chicago museum and public exhibition galleries, not the wider Museum Campus.
+- Location check: 41.86621, -87.6169; [published representative point](https://mapcarta.com/26259110), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Museum identifies SUE's original fossil material and evolution galleries, plus Máximo the Titanosaur and other natural-history exhibits (https://www.fieldmuseum.org/page/visiting-sue-t-rex-what-know-you-go). Changing exhibitions not guaranteed. [Primary reference](https://www.fieldmuseum.org/exhibition/halls-and-galleries/evolving-planet); web sources inspected 2026-11-26. Sources support scope and facts, not numeric judgments.
+- Missing or uncertain facts: full independent corroboration and current availability of individual visitor areas.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [US/american-museum-of-natural-history](../../../countries/US/sights/american-museum-of-natural-history.yaml) | 9.2 / 9.2 / 9.3 / 9.2 / 9.4 | Comparable major natural-history breadth; distinct fossil collections. |
+| [GB/natural-history-museum](../../../countries/GB/sights/natural-history-museum.yaml) | 9.2 / 9.1 / 9.3 / 9.3 / 9.3 | Comparable world-class natural history with different architectural setting. |
+| [CA/royal-ontario-museum](../../../countries/CA/sights/royal-ontario-museum.yaml) | 9.1 / 9.1 / 9.2 / 9.2 / 9.4 | ROM has wider world-culture emphasis; Field has distinctive paleontology anchors. |
+| [SG/lee-kong-chian-natural-history-museum](../../../countries/SG/sights/lee-kong-chian-natural-history-museum.yaml) | 8.3 / 8.3 / 8.5 / 8.5 / 8.4 | More bounded regional biodiversity institution. |
+
+Peer dimensions from current country ranking tables; full source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Major fossils and varied natural-history collections create exceptional visual impact |
+| Uniqueness | 9.2 | SUE and extensive scientific collections distinguish the institution |
+| Significance | 9.3 | significant scientific and cultural collections of international relevance |
+| Experience | 9.2 | diverse exhibits reward families and specialist visitors |
+| Depth | 9.4 | multiple large galleries support deep exploration. |
+
+- Applicable categories: nature:9.3, family:9.3, culture:9.0, history:9.1.
+- Computed worldwide overall: 92.40/100.
+- High-score challenge: Above 90 reflects the documented specific collection strengths and visitor depth; comparison with world-leading institutions limits the rating. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.
+
+## sight-us-chihuly-garden-and-glass — Chihuly Garden and Glass — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/chihuly-garden-and-glass.yaml)
+- Action: new
+- Precise subject: Ticketed glass-art exhibition, Glasshouse and associated garden; excludes Space Needle and wider Seattle Center.
+- Location check: 47.62054, -122.35018; [published representative point](https://mapcarta.com/35987694), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Operator describes indoor galleries, Glasshouse, changing garden and demonstrations; visit page identifies eight galleries and notes private-event restrictions (https://www.chihulygardenandglass.com/visit/plan-your-visit). [Primary reference](https://www.chihulygardenandglass.com/about/exhibition); web sources inspected 2026-11-26. Sources support scope and facts, not numeric judgments.
+- Missing or uncertain facts: full independent corroboration and current availability of individual visitor areas.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [US/getty-center](../../../countries/US/sights/getty-center.yaml) | 9.1 / 9.1 / 9.0 / 9.2 / 9.1 | Greater artistic and architectural breadth. |
+| [CA/butchart-gardens](../../../countries/CA/sights/butchart-gardens.yaml) | 9.0 / 8.8 / 8.7 / 9.1 / 8.8 | More extensive historic garden estate. |
+| [SG/gardens-by-the-bay](../../../countries/SG/sights/gardens-by-the-bay.yaml) | 9.5 / 9.5 / 8.4 / 9.4 / 9.3 | Greater landscape and architectural scale. |
+| [US/millennium-park-chicago](../../../countries/US/sights/millennium-park-chicago.yaml) | 8.7 / 8.6 / 8.1 / 8.8 / 8.5 | Public art in larger urban park; Chihuly has concentrated glass-art identity. |
+
+Peer dimensions from current country ranking tables; full source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Large-scale coloured glass installations give strong visual impact |
+| Uniqueness | 9.0 | distinctive integration of glass art and landscape |
+| Significance | 8.2 | important contemporary craft focus but limited collection scope |
+| Experience | 8.9 | multiple environments and demonstrations offer rewarding visits when available |
+| Depth | 8.3 | bounded single-artist exhibition limits breadth. |
+
+- Applicable categories: culture:9.1, photography:9.3, architecture:8.8.
+- Computed worldwide overall: 87.25/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.
+
+## sight-us-high-line-park — High Line Park (New York) — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/high-line-park.yaml)
+- Action: new
+- Precise subject: Public elevated park built on former freight railway; excludes Hudson Yards indoor venues, Whitney Museum and separately visited neighbourhoods.
+- Location check: 40.74799, -74.00476; [published representative point](https://mapcarta.com/35985516), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: NYC Parks describes adaptive reuse of abandoned railway, retaining rails and landscape references; official operator site blocked by robots, so current closures not independently established. [Primary reference](https://nycgovparks.org/about/history/before-they-were-parks/manhattan); web sources inspected 2026-11-26. Sources support scope and facts, not numeric judgments.
+- Missing or uncertain facts: full independent corroboration and current availability of individual visitor areas.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [US/central-park](../../../countries/US/sights/central-park.yaml) | 8.7 / 8.7 / 8.7 / 9.0 / 8.8 | Larger historic landscape park; High Line emphasizes reuse. |
+| [US/millennium-park-chicago](../../../countries/US/sights/millennium-park-chicago.yaml) | 8.7 / 8.6 / 8.1 / 8.8 / 8.5 | Comparable modern public-space design. |
+| [CA/stanley-park](../../../countries/CA/sights/stanley-park.yaml) | 8.4 / 8.1 / 7.8 / 8.8 / 8.4 | Natural waterfront recreation rather than elevated urban infrastructure. |
+| [KR/songdo-central-park](../../../countries/KR/sights/songdo-central-park.yaml) | 8.2 / 8.4 / 7.7 / 9.0 / 8.8 | Contemporary urban park with different landscape and water setting. |
+
+Peer dimensions from current country ranking tables; full source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Elevated urban landscape creates strong visual contrast |
+| Uniqueness | 8.8 | railway-to-park conversion is distinctive although comparable projects exist |
+| Significance | 8.5 | influential contemporary urban design and industrial heritage |
+| Experience | 8.9 | linear planted walking route offers rewarding public-space experience |
+| Depth | 8.4 | multiple segments and views give depth within a narrow corridor. |
+
+- Applicable categories: architecture:8.8, relaxation:8.9, photography:8.8, culture:8.6.
+- Computed worldwide overall: 86.25/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.
+
+## sight-us-las-vegas-strip — Las Vegas Strip — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/las-vegas-strip.yaml)
+- Action: new
+- Precise subject: Public-facing resort architecture, sidewalks and outdoor spectacles along Las Vegas Boulevard South; excludes gambling, separately ticketed shows, indoor attractions and Fremont Street. Representative route point, not full geographic extent.
+- Location check: 36.1192, -115.17; [published representative point](https://latitude.to/articles-by-country/us/united-states/670/las-vegas-strip), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Tourism authority documents walking routes, resort exteriors and free outdoor spectacles (https://www.visitlasvegas.com/experience/post/free-things-to-do-in-las-vegas/). Coordinate is a published representative point for a linear attraction. [Primary reference](https://www.visitlasvegas.com/experience/post/walking-the-las-vegas-strip/); web sources inspected 2026-11-26. Sources support scope and facts, not numeric judgments.
+- Missing or uncertain facts: full independent corroboration and current availability of individual visitor areas.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [US/times-square](../../../countries/US/sights/times-square.yaml) | 9.0 / 9.0 / 8.5 / 8.4 / 7.2 | More concentrated illuminated street spectacle. |
+| [HK/victoria-harbour](../../../countries/HK/sights/victoria-harbour.yaml) | 9.3 / 9.3 / 8.8 / 9.6 / 9.0 | Stronger natural waterfront and skyline contrast. |
+| [US/millennium-park-chicago](../../../countries/US/sights/millennium-park-chicago.yaml) | 8.7 / 8.6 / 8.1 / 8.8 / 8.5 | Public art and greenery rather than commercial resort architecture. |
+| [US/getty-center](../../../countries/US/sights/getty-center.yaml) | 9.1 / 9.1 / 9.0 / 9.2 / 9.1 | Greater art-historical significance; different architectural visitor experience. |
+
+Peer dimensions from current country ranking tables; full source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Large-scale illuminated resort architecture produces strong visual spectacle |
+| Uniqueness | 9.1 | concentration of themed buildings is internationally distinctive |
+| Significance | 8.4 | modern entertainment and urban-design significance without inheriting unrelated attractions |
+| Experience | 8.8 | public streetscape exploration offers variety subject to heat and pedestrian conditions |
+| Depth | 8.7 | long corridor with many outdoor viewpoints supports substantial exploration. |
+
+- Applicable categories: photography:9.3, architecture:8.9, nightlife:8.9, culture:8.6.
+- Computed worldwide overall: 89.05/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.
+
+## sight-us-monterey-bay-aquarium — Monterey Bay Aquarium — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/monterey-bay-aquarium.yaml)
+- Action: new
+- Precise subject: Public aquarium galleries and marine-life interpretation; excludes the wider Monterey Bay and separate marine tours.
+- Location check: 36.61829, -121.90134; [published representative point](https://mapcarta.com/23094410), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Official exhibits and floor map identify the 28-foot living kelp forest, open-ocean gallery, deep-sea displays and sea otters (https://www.montereybayaquarium.org/visit/aquarium-maps; https://www.montereybayaquarium.org/visit/exhibits/kelp-forest; https://www.montereybayaquarium.org/visit/exhibits/open-sea). [Primary reference](https://www.montereybayaquarium.org/visit/exhibits); public sources inspected 2026-11-26. Sources support scope and facts, not numeric judgments.
+- Missing or uncertain facts: complete independent corroboration, current access, and individual exhibit availability; captive-animal welfare and conservation outcomes not evaluated.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [PT/oceanario-de-lisboa](../../../countries/PT/sights/oceanario-de-lisboa.yaml) | 8.8 / 8.6 / 8.6 / 9.0 / 8.8 | Lisbon offers a concentrated global ocean exhibit; Monterey emphasizes the local marine ecosystem. |
+| [AE/seaworld-abu-dhabi](../../../countries/AE/sights/seaworld-abu-dhabi.yaml) | 8.9 / 8.8 / 7.7 / 8.9 / 9.0 | Abu Dhabi has larger themed entertainment scope; Monterey has stronger ecological interpretation. |
+| [HK/ocean-park](../../../countries/HK/sights/ocean-park.yaml) | 8.7 / 8.6 / 7.9 / 9.0 / 9.0 | Hong Kong mixes rides and animal exhibits; Monterey is marine-focused. |
+| [AE/dubai-mall-aquarium-and-underwater-zoo](../../../countries/AE/sights/dubai-mall-aquarium-and-underwater-zoo.yaml) | 8.0 / 7.6 / 6.2 / 8.4 / 7.6 | Dubai is a narrower mall-integrated visitor experience. |
+
+Peer dimensions from current country ranking tables or same-batch assessments; full source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Immersive kelp and ocean galleries produce exceptional visual impact |
+| Uniqueness | 9.1 | living kelp and regional marine focus distinguish it from conventional aquariums |
+| Significance | 8.8 | important public marine education and exhibit design without attributing unsupported conservation outcomes |
+| Experience | 9.2 | varied habitat interpretation supports a rewarding visit |
+| Depth | 9.1 | two floors of distinct habitat exhibits offer substantial depth. |
+
+- Applicable categories: nature:9.3, wildlife:9.3, family:9.3.
+- Computed worldwide overall: 90.55/100.
+- High-score challenge: Above 90 reflects the specific visitor strengths in the five rationales; comparison with more comprehensive or historically significant institutions and ensembles limits the rating. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-us-georgia-aquarium — Georgia Aquarium — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/georgia-aquarium.yaml)
+- Action: new
+- Precise subject: Main Atlanta aquarium and standard public galleries; excludes separate paid animal encounters and adjacent museums.
+- Location check: 33.76334, -84.39501; [published representative point](https://aroundus.com/p/5490989-georgia-aquarium), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Operator documents Ocean Voyager's whale sharks, manta rays and other marine animals; its visitor guide lists multiple galleries (https://www.georgiaaquarium.org/resource-center/deep-dive/how-to-visit-georgia-aquarium/). Mapcarta corroborates location (https://mapcarta.com/25032508). [Primary reference](https://www.georgiaaquarium.org/gallery/ocean-voyager/); public sources inspected 2026-11-26. Sources support scope and facts, not numeric judgments.
+- Missing or uncertain facts: complete independent corroboration, current access, and individual exhibit availability; captive-animal welfare and conservation outcomes not evaluated.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [PT/oceanario-de-lisboa](../../../countries/PT/sights/oceanario-de-lisboa.yaml) | 8.8 / 8.6 / 8.6 / 9.0 / 8.8 | Lisbon emphasizes a global ocean exhibit; Atlanta has larger individual marine displays. |
+| [AE/seaworld-abu-dhabi](../../../countries/AE/sights/seaworld-abu-dhabi.yaml) | 8.9 / 8.8 / 7.7 / 8.9 / 9.0 | Comparable large facility with a different themed-realm approach. |
+| [HK/ocean-park](../../../countries/HK/sights/ocean-park.yaml) | 8.7 / 8.6 / 7.9 / 9.0 / 9.0 | Ocean Park adds land animals and amusement rides; Atlanta has marine specialization. |
+| [US/monterey-bay-aquarium](../../../countries/US/sights/monterey-bay-aquarium.yaml) | 9.1 / 9.1 / 8.8 / 9.2 / 9.1 | Monterey has stronger regional ecosystem interpretation; Atlanta excels in display scale. |
+
+Peer dimensions from current country ranking tables or same-batch assessments; full source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Large marine exhibits give high visual impact |
+| Uniqueness | 9.1 | uncommon whale shark and ray viewing and extensive gallery scale distinguish the facility |
+| Significance | 8.4 | substantial public marine education but captive exhibit size is not itself ecological significance |
+| Experience | 9.2 | varied galleries offer rewarding visits without optional encounters |
+| Depth | 9.2 | multiple large galleries support lengthy exploration. |
+
+- Applicable categories: wildlife:9.2, nature:9.0, family:9.3.
+- Computed worldwide overall: 90.15/100.
+- High-score challenge: Above 90 reflects the specific visitor strengths in the five rationales; comparison with more comprehensive or historically significant institutions and ensembles limits the rating. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-us-san-diego-zoo — San Diego Zoo — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/san-diego-zoo.yaml)
+- Action: new
+- Precise subject: Balboa Park zoo's public animal habitats and botanical displays only; excludes Safari Park in Escondido and the wider Balboa Park.
+- Location check: 32.7381587, -117.1487305; [published representative point](https://tools.bgci.org/garden.php?ftrBGCImem=&ftrCountry=All&ftrIAReg=&ftrKeyword=&id=228), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Official wildlife list and visit guidance describe varied habitat areas and wildlife experiences, including Elephant Odyssey and Wildlife Explorers Basecamp (https://zoo.sandiegozoo.org/wildlife; https://zoo.sandiegozoo.org/animals/elephant; https://zoo.sandiegozoo.org/). BGCI directory supplies representative coordinates. [Primary reference](https://zoo.sandiegozoo.org/plan-your-visit); public sources inspected 2026-11-26. Sources support scope and facts, not numeric judgments.
+- Missing or uncertain facts: complete independent corroboration, current access, and individual exhibit availability; captive-animal welfare and conservation outcomes not evaluated.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [SG/singapore-zoo](../../../countries/SG/sights/singapore-zoo.yaml) | 9.0 / 8.9 / 8.1 / 9.2 / 9.2 | Comparable immersive zoological visitor experience; different species and climatic setting. |
+| [HK/ocean-park](../../../countries/HK/sights/ocean-park.yaml) | 8.7 / 8.6 / 7.9 / 9.0 / 9.0 | Hong Kong adds amusement attractions; San Diego has dedicated wildlife scope. |
+| [AE/seaworld-abu-dhabi](../../../countries/AE/sights/seaworld-abu-dhabi.yaml) | 8.9 / 8.8 / 7.7 / 8.9 / 9.0 | Abu Dhabi focuses on marine habitats; San Diego covers many terrestrial habitats. |
+| [PT/oceanario-de-lisboa](../../../countries/PT/sights/oceanario-de-lisboa.yaml) | 8.8 / 8.6 / 8.6 / 9.0 / 8.8 | Lisbon offers concentrated marine education, versus broader zoo trails. |
+
+Peer dimensions from current country ranking tables or same-batch assessments; full source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Varied animal habitats and botanical setting provide strong visual impact |
+| Uniqueness | 8.9 | large integrated wildlife and plant collections distinguish the zoo while comparable institutions exist |
+| Significance | 8.5 | major public education institution without assuming conservation or animal-welfare outcomes |
+| Experience | 9.3 | extensive habitat trails and family learning areas support engaging visits |
+| Depth | 9.4 | numerous distinct areas permit substantial exploration. |
+
+- Applicable categories: wildlife:9.3, family:9.4, nature:9.0.
+- Computed worldwide overall: 89.60/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-us-balboa-park — Balboa Park (San Diego) — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/balboa-park.yaml)
+- Action: new
+- Precise subject: Public park architecture, gardens, plazas and trails; excludes zoo and separately ticketed museum interiors. Representative point Plaza de Panama.
+- Location check: 32.73167, -117.15028; [published representative point](https://en.wikipedia.org/wiki/Plaza_de_Panama), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: City describes public gardens, architecture and visitor centre at Plaza de Panama; tourism authority documents Spanish Colonial Revival buildings, public gardens and outdoor organ pavilion (https://www.sandiego.org/article/15-fun-free-things-to-do-in-balboa-park). [Primary reference](https://www.sandiego.gov/park-and-recreation/parks/regional/balboa); public sources inspected 2026-11-26. Sources support scope and facts, not numeric judgments.
+- Missing or uncertain facts: complete independent corroboration, current access, and individual exhibit availability; captive-animal welfare and conservation outcomes not evaluated.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [US/central-park](../../../countries/US/sights/central-park.yaml) | 8.7 / 8.7 / 8.7 / 9.0 / 8.8 | Central Park emphasizes large-scale historic landscape design; Balboa adds exposition architecture. |
+| [US/millennium-park-chicago](../../../countries/US/sights/millennium-park-chicago.yaml) | 8.7 / 8.6 / 8.1 / 8.8 / 8.5 | Millennium Park is a smaller contemporary public-art space. |
+| [CA/stanley-park](../../../countries/CA/sights/stanley-park.yaml) | 8.4 / 8.1 / 7.8 / 8.8 / 8.4 | Stanley Park focuses on forest and waterfront recreation. |
+| [CA/butchart-gardens](../../../countries/CA/sights/butchart-gardens.yaml) | 9.0 / 8.8 / 8.7 / 9.1 / 8.8 | Butchart is a concentrated historic garden estate, Balboa has a broader public architectural landscape. |
+
+Peer dimensions from current country ranking tables or same-batch assessments; full source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Monumental architecture and gardens create strong visual impact |
+| Uniqueness | 8.8 | integrated exposition-era architectural and garden setting is distinctive |
+| Significance | 8.9 | important urban design and cultural history but no credit for separate museum collections |
+| Experience | 9.1 | public spaces, trails and gardens offer varied visits |
+| Depth | 9.2 | extensive outdoor grounds support sustained exploration. |
+
+- Applicable categories: architecture:9.2, culture:9.1, relaxation:9.0, photography:9.1.
+- Computed worldwide overall: 89.35/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-us-new-orleans-french-quarter — French Quarter (New Orleans) — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/new-orleans-french-quarter.yaml)
+- Action: new
+- Precise subject: Historic district's public streets, squares and architectural fabric; excludes separate paid venues, museums and individual performances. Representative point Jackson Square.
+- Location check: 29.9575, -90.06306; [published representative point](https://en.wikipedia.org/wiki/Jackson_Square_%28New_Orleans%29), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Preservation Resource Center documents the original 85-block district and mixed architectural traditions (https://prcno.org/help-for-homeowners/historic-districts-neighborhoods/french-quarter/); city confirms Jackson Square lies within it (https://nola.gov/next/parks-parkways/topics/parks-squares/jackson-square/). Tourism authority describes the district's Creole culture, walking and historic buildings (https://www.neworleans.com/plan/neighborhoods/french-quarter/). [Primary reference](https://www.neworleans.com/plan/neighborhoods/french-quarter/architecture/); public sources inspected 2026-11-26. Sources support scope and facts, not numeric judgments.
+- Missing or uncertain facts: complete independent corroboration, current access, and individual exhibit availability; captive-animal welfare and conservation outcomes not evaluated.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [CA/old-quebec](../../../countries/CA/sights/old-quebec.yaml) | 9.0 / 9.0 / 9.2 / 8.9 / 8.8 | Québec emphasizes fortified colonial architecture; New Orleans has distinctive Creole culture. |
+| [CA/old-montreal](../../../countries/CA/sights/old-montreal.yaml) | 8.8 / 8.6 / 8.9 / 9.0 / 8.9 | Comparable walkable historic fabric with different cultural traditions. |
+| [MX/historic-centre-oaxaca](../../../countries/MX/sights/historic-centre-oaxaca.yaml) | 8.7 / 8.9 / 8.9 / 8.8 / 8.6 | Oaxaca has distinct colonial and Indigenous cultural context. |
+| [FR/avignon-core](../../../countries/FR/sights/avignon-core.yaml) | 9.2 / 9.2 / 9.4 / 9.0 / 9.1 | Avignon has more monumental medieval historical depth. |
+
+Peer dimensions from current country ranking tables or same-batch assessments; full source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Historic streets and ornamental balconies deliver strong visual and cultural impact |
+| Uniqueness | 9.1 | distinct Creole and Spanish-influenced townscape is difficult to substitute in North America |
+| Significance | 9.2 | internationally relevant multicultural urban and musical history |
+| Experience | 9.1 | public-space walking and street culture provide rewarding experiences |
+| Depth | 9.0 | varied blocks and squares support extended exploration without counting separate venues. |
+
+- Applicable categories: architecture:9.3, culture:9.4, history:9.2, food:9.1, photography:9.1.
+- Computed worldwide overall: 90.80/100.
+- High-score challenge: Above 90 reflects the specific visitor strengths in the five rationales; comparison with more comprehensive or historically significant institutions and ensembles limits the rating. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-us-savannah-historic-district — Savannah Historic District — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/savannah-historic-district.yaml)
+- Action: new
+- Precise subject: National Historic Landmark district's public streets, squares and historic building exteriors; excludes separately ticketed houses and museums. Representative point Johnson Square.
+- Location check: 32.0799299, -81.0915009; [published representative point](https://www.topozone.com/georgia/chatham-ga/park/johnson-square/), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: National Park Service and preservation foundation document the surviving colonial ward plan and public squares (https://www.myhsf.org/what-we-do/historic-districts/national-historic-landmark-district/). City identifies Johnson Square as the first square, laid out in 1733 (https://www.savannahga.gov/Facilities/Facility/Details/Johnson-Square-177). [Primary reference](https://www.nps.gov/articles/savannah-georgia-the-lasting-legacy-of-colonial-city-planning-teaching-with-historic-places.htm); public sources inspected 2026-11-26. Sources support scope and facts, not numeric judgments.
+- Missing or uncertain facts: complete independent corroboration, current access, and individual exhibit availability; captive-animal welfare and conservation outcomes not evaluated.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [CA/old-quebec](../../../countries/CA/sights/old-quebec.yaml) | 9.0 / 9.0 / 9.2 / 8.9 / 8.8 | Québec has fortified historic character; Savannah's square-based plan is distinctive. |
+| [CA/old-montreal](../../../countries/CA/sights/old-montreal.yaml) | 8.8 / 8.6 / 8.9 / 9.0 / 8.9 | Montréal has more commercial streetscape; Savannah has a coherent green-square system. |
+| [PT/evora-core](../../../countries/PT/sights/evora-core.yaml) | 8.9 / 9.0 / 9.2 / 8.8 / 8.8 | Évora has deeper ancient and medieval layers. |
+| [US/new-orleans-french-quarter](../../../countries/US/sights/new-orleans-french-quarter.yaml) | 9.0 / 9.1 / 9.2 / 9.1 / 9.0 | New Orleans has stronger distinct living musical and Creole culture; Savannah emphasizes planning and landscape. |
+
+Peer dimensions from current country ranking tables or same-batch assessments; full source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Tree-lined squares and historic streets produce strong visual impact |
+| Uniqueness | 9.0 | unusually coherent repeated ward and square plan distinguishes the district |
+| Significance | 9.1 | enduring colonial urban planning and layered social history are significant |
+| Experience | 9.0 | walkable public architecture and green spaces reward exploration |
+| Depth | 9.0 | multiple distinct squares and blocks provide substantial depth. |
+
+- Applicable categories: architecture:9.3, history:9.3, culture:8.9, photography:9.1, relaxation:8.8.
+- Computed worldwide overall: 89.90/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-us-uss-arizona-memorial — USS Arizona Memorial (Pearl Harbor) — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/uss-arizona-memorial.yaml)
+- Action: new
+- Precise subject: Memorial program only; excludes other Pearl Harbor museums and memorials. GPS denotes memorial, not departure point.
+- Location check: 21.36488, -157.95001; [published representative point](https://mapcarta.com/W51804371), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: NPS documents the reserved boat program and memorial visit, subject to operating conditions. [Primary reference](https://www.nps.gov/perl/uss-arizona-memorial-programs.htm); inspected 2026-11-26. Sources support scope and facts, not numerical judgments.
+- Missing or uncertain facts: complete independent corroboration and current access to individual areas.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [AU/australian-war-memorial](../../../countries/AU/sights/australian-war-memorial.yaml) | 9.0 / 9.1 / 9.3 / 9.0 / 9.2 | Broader national history galleries. |
+| [KR/war-memorial-of-korea](../../../countries/KR/sights/war-memorial-of-korea.yaml) | 8.8 / 8.9 / 9.3 / 9.2 / 9.3 | Broader military history. |
+| [DE/topography-of-terror](../../../countries/DE/sights/topography-of-terror.yaml) | 8.9 / 9.1 / 9.4 / 9.0 / 8.5 | Authentic documentary site with different historical focus. |
+| [US/national-wwii-museum](../../../countries/US/sights/national-wwii-museum.yaml) | 9.1 / 9.2 / 9.3 / 9.2 / 9.4 | Extensive historical interpretation rather than focused memorial. |
+
+Peer dimensions from existing ranking tables; full source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Solemn memorial setting creates profound impact |
+| Uniqueness | 9.3 | authentic commemorative location is difficult to substitute |
+| Significance | 9.4 | internationally consequential history |
+| Experience | 8.8 | reflective visit is meaningful but access constrained |
+| Depth | 7.8 | bounded memorial visit limits breadth. |
+
+- Applicable categories: history:9.4, culture:9.1.
+- Computed worldwide overall: 90.05/100.
+- High-score challenge: Above 90 reflects the specific historical/scientific significance and visitor scope described above; compare the broader institutions and ensembles in the peer table. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-us-uss-midway-museum — USS Midway Museum — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/uss-midway-museum.yaml)
+- Action: new
+- Precise subject: Preserved museum ship and standard public historical exhibits; excludes nearby maritime museums.
+- Location check: 32.71395, -117.17487; [published representative point](https://mapcarta.com/35986162), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Museum documents extensive historical aviation displays and self-guided interpretation. [Primary reference](https://www.midway.org/visit/our-exhibits); inspected 2026-11-26. Sources support scope and facts, not numerical judgments.
+- Missing or uncertain facts: complete independent corroboration and current access to individual areas.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [US/national-air-and-space-museum-dc](../../../countries/US/sights/national-air-and-space-museum-dc.yaml) | 9.1 / 9.3 / 9.4 / 9.1 / 9.1 | Broader aerospace heritage. |
+| [US/national-wwii-museum](../../../countries/US/sights/national-wwii-museum.yaml) | 9.1 / 9.2 / 9.3 / 9.2 / 9.4 | Broader historical narrative. |
+| [AU/australian-war-memorial](../../../countries/AU/sights/australian-war-memorial.yaml) | 9.0 / 9.1 / 9.3 / 9.0 / 9.2 | Broader national history. |
+| [KR/war-memorial-of-korea](../../../countries/KR/sights/war-memorial-of-korea.yaml) | 8.8 / 8.9 / 9.3 / 9.2 / 9.3 | Different national historical focus. |
+
+Peer dimensions from existing ranking tables; full source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Large preserved ship creates strong spatial impact |
+| Uniqueness | 9.1 | ship-based museum and aviation collection provide distinctive context |
+| Significance | 9.0 | notable twentieth-century heritage |
+| Experience | 9.2 | interpretive exhibits reward visitors |
+| Depth | 9.1 | extensive public exhibit areas provide depth. |
+
+- Applicable categories: history:9.2, culture:8.8, family:8.9.
+- Computed worldwide overall: 90.35/100.
+- High-score challenge: Above 90 reflects the specific historical/scientific significance and visitor scope described above; compare the broader institutions and ensembles in the peer table. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-us-smithsonian-national-museum-of-natural-history — Smithsonian National Museum of Natural History — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/smithsonian-national-museum-of-natural-history.yaml)
+- Action: new
+- Precise subject: Washington DC main public museum galleries; excludes other Smithsonian sites and nonpublic collections.
+- Location check: 38.89125, -77.02597; [published representative point](https://mapcarta.com/20625192), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Museum map and https://naturalhistory.si.edu/exhibits identify fossils, human origins, ocean, gems and minerals and mammal galleries; temporary availability may vary. [Primary reference](https://naturalhistory.si.edu/visit/map); inspected 2026-11-26. Sources support scope and facts, not numerical judgments.
+- Missing or uncertain facts: complete independent corroboration and current access to individual areas.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [US/american-museum-of-natural-history](../../../countries/US/sights/american-museum-of-natural-history.yaml) | 9.2 / 9.2 / 9.3 / 9.2 / 9.4 | Comparable breadth and distinct collections. |
+| [US/field-museum](../../../countries/US/sights/field-museum.yaml) | 9.2 / 9.2 / 9.3 / 9.2 / 9.4 | Comparable fossil and cultural collections. |
+| [GB/natural-history-museum](../../../countries/GB/sights/natural-history-museum.yaml) | 9.2 / 9.1 / 9.3 / 9.3 / 9.3 | Comparable international institution. |
+| [CA/royal-ontario-museum](../../../countries/CA/sights/royal-ontario-museum.yaml) | 9.1 / 9.1 / 9.2 / 9.2 / 9.4 | Broader world-culture emphasis. |
+
+Peer dimensions from existing ranking tables; full source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Major fossils and minerals offer exceptional impact |
+| Uniqueness | 9.3 | distinctive anchors and scientific breadth |
+| Significance | 9.4 | internationally important natural-history collections |
+| Experience | 9.2 | varied exhibitions support learning |
+| Depth | 9.4 | extensive public galleries offer sustained exploration. |
+
+- Applicable categories: nature:9.4, family:9.3, history:9.1, culture:9.0.
+- Computed worldwide overall: 92.85/100.
+- High-score challenge: Above 90 reflects the specific historical/scientific significance and visitor scope described above; compare the broader institutions and ensembles in the peer table. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-us-boston-freedom-trail — Boston Freedom Trail — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/boston-freedom-trail.yaml)
+- Action: new
+- Precise subject: Marked 2.5-mile historic walking route; excludes separately ticketed interiors from the assumed standard experience. GPS is Boston Common visitor centre.
+- Location check: 42.35547, -71.06391; [published representative point](https://mapcarta.com/W24677646), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Foundation documents 16 historic stops and a marked route connecting them; guided and independent walks are available. Individual stop access and fees differ. [Primary reference](https://www.thefreedomtrail.org/visit); inspected 2026-11-26. Sources support scope and facts, not numerical judgments.
+- Missing or uncertain facts: complete independent corroboration and current access to individual areas.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [US/independence-hall](../../../countries/US/sights/independence-hall.yaml) | 8.1 / 8.8 / 9.4 / 8.4 / 7.8 | Focused original building with greater individual significance. |
+| [CA/old-quebec](../../../countries/CA/sights/old-quebec.yaml) | 9.0 / 9.0 / 9.2 / 8.9 / 8.8 | Fortified historic district rather than themed route. |
+| [US/savannah-historic-district](../../../countries/US/sights/savannah-historic-district.yaml) | 8.9 / 9.0 / 9.1 / 9.0 / 9.0 | Distinctive historic plan rather than linked historical narrative. |
+| [US/national-mall-and-memorial-parks](../../../countries/US/sights/national-mall-and-memorial-parks.yaml) | 9.0 / 9.0 / 9.3 / 9.0 / 9.2 | Comparable connected civic heritage experience. |
+
+Peer dimensions from existing ranking tables; full source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Layered historic streets and buildings offer memorable impact |
+| Uniqueness | 9.0 | coherent marked historic route is distinctive |
+| Significance | 9.3 | important American revolutionary and civic history |
+| Experience | 9.1 | walking and interpretation make a rewarding visit |
+| Depth | 9.2 | sixteen stops support substantial exploration. |
+
+- Applicable categories: history:9.4, architecture:9.0, culture:9.1.
+- Computed worldwide overall: 90.35/100.
+- High-score challenge: Above 90 reflects the specific historical/scientific significance and visitor scope described above; compare the broader institutions and ensembles in the peer table. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-us-grand-central-terminal — Grand Central Terminal — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/grand-central-terminal.yaml)
+- Action: new
+- Precise subject: Public historic terminal architecture and accessible concourse; excludes train journeys and separately purchased commercial experiences.
+- Location check: 40.75265, -73.97728; [published representative point](https://mapcarta.com/W265947358), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Official terminal visitor highlights include Main Concourse ceiling, architectural details and public spaces. [Primary reference](https://grandcentralterminal.com/what-to-see/); inspected 2026-11-26. Sources support scope and facts, not numerical judgments.
+- Missing or uncertain facts: complete independent corroboration and current access to individual areas.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [US/empire-state-building](../../../countries/US/sights/empire-state-building.yaml) | 9.1 / 8.9 / 9.0 / 8.8 / 8.0 | Different iconic architecture and elevated visitor viewpoint. |
+| [US/chicago-auditorium-building](../../../countries/US/sights/chicago-auditorium-building.yaml) | 8.2 / 8.5 / 8.8 / 8.0 / 7.5 | Comparable historic civic architecture with narrower public access. |
+| [US/times-square](../../../countries/US/sights/times-square.yaml) | 9.0 / 9.0 / 8.5 / 8.4 / 7.2 | Commercial spectacle rather than historic interior. |
+| [US/millennium-park-chicago](../../../countries/US/sights/millennium-park-chicago.yaml) | 8.7 / 8.6 / 8.1 / 8.8 / 8.5 | Broader contemporary public landscape. |
+
+Peer dimensions from existing ranking tables; full source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Monumental concourse produces strong visual impact |
+| Uniqueness | 8.8 | civic railway architecture and ceiling distinguish the building |
+| Significance | 9.0 | important transportation and urban heritage |
+| Experience | 8.6 | accessible architectural exploration rewards a short visit |
+| Depth | 7.8 | bounded public interior limits depth. |
+
+- Applicable categories: architecture:9.3, history:9.1, photography:9.0.
+- Computed worldwide overall: 87.10/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-us-golden-gate-park — Golden Gate Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/golden-gate-park.yaml)
+- Action: new
+- Precise subject: Public urban park landscapes, free gardens, trails and lakes; excludes separately ticketed museums, gardens and nearby Golden Gate Bridge.
+- Location check: 37.7694, -122.48202; [published representative point](https://mapcarta.com/23051398), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: City park authority documents 1,017 acres, lakes, meadows and recreation; history page describes transformation of dunes since 1870 (https://www.sfrecpark.org/1119/History-of-Golden-Gate-Park). [Primary reference](https://sfrecpark.org/770/Golden-Gate-Park); inspected 2026-11-26. Sources support scope and facts, not numerical judgments.
+- Missing or uncertain facts: complete independent corroboration and current access to individual areas.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [US/central-park](../../../countries/US/sights/central-park.yaml) | 8.7 / 8.7 / 8.7 / 9.0 / 8.8 | Comparable historic urban landscape. |
+| [US/balboa-park](../../../countries/US/sights/balboa-park.yaml) | 8.9 / 8.8 / 8.9 / 9.1 / 9.2 | Stronger exposition architecture; comparable outdoor depth. |
+| [CA/stanley-park](../../../countries/CA/sights/stanley-park.yaml) | 8.4 / 8.1 / 7.8 / 8.8 / 8.4 | Natural forest and waterfront emphasis. |
+| [US/high-line-park](../../../countries/US/sights/high-line-park.yaml) | 8.5 / 8.8 / 8.5 / 8.9 / 8.4 | Distinctive linear reused infrastructure but smaller landscape. |
+
+Peer dimensions from existing ranking tables; full source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Varied public landscapes deliver strong scenic impact |
+| Uniqueness | 8.6 | extensive dune-to-park transformation adds identity |
+| Significance | 8.7 | significant urban park history |
+| Experience | 9.0 | trails and recreation reward extended visits |
+| Depth | 9.2 | large park provides substantial exploration depth. |
+
+- Applicable categories: nature:8.9, relaxation:9.2, photography:8.9, family:8.9.
+- Computed worldwide overall: 87.70/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-us-udvar-hazy-center — Steven F. Udvar-Hazy Center Chantilly Aviation and Space Museum — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/udvar-hazy-center.yaml)
+- Action: new
+- Scope: Separate Smithsonian campus and full-size aircraft and spacecraft collections including Discovery; no duplicated DC exhibits.
+- Representative coordinates: 38.911, -77.444; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.4 / 9.4 / 9.2 / 9.4.
+- Categories: history:9.4,family:9.3,culture:9.1.
+- Overall: 93.40/100.
+- Decision: Source-informed provisional assessment from indexed official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.si.edu/newsdesk/factsheets/national-air-and-space-museum-s-steven-f-udvar-hazy-center ; https://airandspace.si.edu/visit/udvar-hazy-center.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-air-and-space-museum-dc](../../../countries/US/sights/national-air-and-space-museum-dc.yaml) | 9.1 / 9.3 / 9.4 / 9.1 / 9.1 | depth: +0.3 vs peer; impact: +0.2 vs peer |
+| [US/kennedy-space-center-visitor-complex](../../../countries/US/sights/kennedy-space-center-visitor-complex.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.3 | impact: +0.1 vs peer; depth: +0.1 vs peer |
+| [US/american-museum-of-natural-history](../../../countries/US/sights/american-museum-of-natural-history.yaml) | 9.2 / 9.2 / 9.3 / 9.2 / 9.4 | uniqueness: +0.2 vs peer; impact: +0.1 vs peer |
+| [US/uss-midway-museum](../../../countries/US/sights/uss-midway-museum.yaml) | 8.9 / 9.1 / 9.0 / 9.2 / 9.1 | impact: +0.4 vs peer; significance: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-national-museum-american-history — Smithsonian National Museum of American History — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/national-museum-american-history.yaml)
+- Action: new
+- Scope: Independent Smithsonian museum; more than three million historical objects in collection, not all displayed.
+- Representative coordinates: 38.8913, -77.03; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.2 / 9.4 / 9.1 / 9.4.
+- Categories: history:9.4,culture:9.4,family:9.2.
+- Overall: 92.15/100.
+- Decision: Source-informed provisional assessment from indexed official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.si.edu/museums/american-history-museum ; https://www.americanhistory.si.edu/explore/exhibitions.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/smithsonian-national-museum-of-natural-history](../../../countries/US/sights/smithsonian-national-museum-of-natural-history.yaml) | 9.2 / 9.3 / 9.4 / 9.2 / 9.4 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [US/national-museum-of-african-american-history-and-culture](../../../countries/US/sights/national-museum-of-african-american-history-and-culture.yaml) | 9.0 / 9.2 / 9.4 / 9.1 / 9.2 | depth: +0.2 vs peer; impact: +0.1 vs peer |
+| [US/national-wwii-museum](../../../countries/US/sights/national-wwii-museum.yaml) | 9.1 / 9.2 / 9.3 / 9.2 / 9.4 | significance: +0.1 vs peer; experience: -0.1 vs peer |
+| [US/national-gallery-of-art-washington](../../../countries/US/sights/national-gallery-of-art-washington.yaml) | 9.1 / 9.1 / 9.3 / 9.2 / 9.4 | uniqueness: +0.1 vs peer; significance: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-national-usaf-museum — National Museum of the United States Air Force Dayton — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/national-usaf-museum.yaml)
+- Action: new
+- Scope: Four hangar buildings, extensive aviation history; separate from Dayton Aviation Heritage historical park.
+- Representative coordinates: 39.782, -84.11; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.3 / 9.1 / 9.4.
+- Categories: history:9.4,family:9.3,culture:9.1.
+- Overall: 92.20/100.
+- Decision: Source-informed provisional assessment from indexed official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.nationalmuseum.af.mil/Visit/Questions.aspx ; https://www.destinationdayton.org/things-to-do/attractions/air-force-museum/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-air-and-space-museum-dc](../../../countries/US/sights/national-air-and-space-museum-dc.yaml) | 9.1 / 9.3 / 9.4 / 9.1 / 9.1 | depth: +0.3 vs peer; significance: -0.1 vs peer |
+| [US/kennedy-space-center-visitor-complex](../../../countries/US/sights/kennedy-space-center-visitor-complex.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.3 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [US/uss-midway-museum](../../../countries/US/sights/uss-midway-museum.yaml) | 8.9 / 9.1 / 9.0 / 9.2 / 9.1 | significance: +0.3 vs peer; depth: +0.3 vs peer |
+| [US/dayton-aviation-heritage](../../../countries/US/sights/dayton-aviation-heritage.yaml) | 7.9 / 8.6 / 9.1 / 8.3 / 8.3 | impact: +1.2 vs peer; depth: +1.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-broadway-theatre — Broadway Theatre Performances New York — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/broadway-theatre.yaml)
+- Action: new
+- Scope: Live professional theatre performance, representative theatre district point; not Times Square street experience or individual productions.
+- Representative coordinates: 40.759, -73.985; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.2 / 9.2 / 9.3 / 9.0.
+- Categories: culture:9.4,nightlife:9.3,family:9.0.
+- Overall: 91.95/100.
+- Decision: Source-informed provisional assessment from indexed official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.broadway.org/broadway-theatres ; https://www.broadway.org/shows.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/new-orleans-french-quarter](../../../countries/US/sights/new-orleans-french-quarter.yaml) | 9.0 / 9.1 / 9.2 / 9.1 / 9.0 | impact: +0.2 vs peer; experience: +0.2 vs peer |
+| [US/times-square](../../../countries/US/sights/times-square.yaml) | 9.0 / 9.0 / 8.5 / 8.4 / 7.2 | depth: +1.8 vs peer; experience: +0.9 vs peer |
+| [US/museum-of-modern-art-new-york](../../../countries/US/sights/museum-of-modern-art-new-york.yaml) | 9.3 / 9.4 / 9.4 / 9.3 / 9.4 | depth: -0.4 vs peer; uniqueness: -0.2 vs peer |
+| [US/disneyland-park-anaheim](../../../countries/US/sights/disneyland-park-anaheim.yaml) | 9.0 / 9.1 / 8.8 / 9.3 / 9.2 | significance: +0.4 vs peer; impact: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-national-911-museum — National September 11 Memorial and Museum New York — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/national-911-museum.yaml)
+- Action: new
+- Scope: Combined memorial and museum; historical artifacts, testimony and remembrance; commemorative experience.
+- Representative coordinates: 40.711, -74.013; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.4 / 8.9 / 9.2.
+- Categories: history:9.4,culture:9.3.
+- Overall: 91.60/100.
+- Decision: Source-informed provisional assessment from indexed official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://911memorial.org/visit/museum/exhibitions ; https://collection.911memorial.org/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-wwii-museum](../../../countries/US/sights/national-wwii-museum.yaml) | 9.1 / 9.2 / 9.3 / 9.2 / 9.4 | experience: -0.3 vs peer; depth: -0.2 vs peer |
+| [US/national-museum-of-african-american-history-and-culture](../../../countries/US/sights/national-museum-of-african-american-history-and-culture.yaml) | 9.0 / 9.2 / 9.4 / 9.1 / 9.2 | experience: -0.2 vs peer; uniqueness: +0.1 vs peer |
+| [US/uss-arizona-memorial](../../../countries/US/sights/uss-arizona-memorial.yaml) | 9.0 / 9.3 / 9.4 / 8.8 / 7.8 | depth: +1.4 vs peer; experience: +0.1 vs peer |
+| [US/ellis-island](../../../countries/US/sights/ellis-island.yaml) | 8.1 / 8.8 / 9.3 / 8.6 / 8.3 | impact: +0.9 vs peer; depth: +0.9 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-epic-universe — Universal Epic Universe Orlando — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/epic-universe.yaml)
+- Action: new
+- Scope: Independent ticketed park with five themed worlds; no individual rides or resort umbrella.
+- Representative coordinates: 28.469, -81.447; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.2 / 8.7 / 9.4 / 9.2.
+- Categories: family:9.4,adventure:9.3,photography:9.2.
+- Overall: 91.30/100.
+- Decision: Source-informed provisional assessment from indexed official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.universalorlando.com/web/en/US/theme-parks/epic-universe ; https://www.universalorlando.com/web/en/us/things-to-do/whats-happening.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/disneyland-park-anaheim](../../../countries/US/sights/disneyland-park-anaheim.yaml) | 9.0 / 9.1 / 8.8 / 9.3 / 9.2 | impact: +0.2 vs peer; uniqueness: +0.1 vs peer |
+| [US/magic-kingdom-park](../../../countries/US/sights/magic-kingdom-park.yaml) | 8.9 / 8.7 / 8.5 / 9.3 / 9.2 | uniqueness: +0.5 vs peer; impact: +0.3 vs peer |
+| [US/las-vegas-strip](../../../countries/US/sights/las-vegas-strip.yaml) | 9.2 / 9.1 / 8.4 / 8.8 / 8.7 | experience: +0.6 vs peer; depth: +0.5 vs peer |
+| [US/kennedy-space-center-visitor-complex](../../../countries/US/sights/kennedy-space-center-visitor-complex.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.3 | significance: -0.7 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-library-of-congress — Library of Congress Thomas Jefferson Building and Exhibitions — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/library-of-congress.yaml)
+- Action: new
+- Scope: Architecture and public exhibitions; excludes restricted research collections and Capitol tour.
+- Representative coordinates: 38.8887, -77.0047; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.3 / 8.9 / 9.0.
+- Categories: architecture:9.4,history:9.4,culture:9.4.
+- Overall: 90.95/100.
+- Decision: Source-informed provisional assessment from indexed official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.loc.gov/exhibits/ ; https://www.loc.gov/visit/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/grand-central-terminal](../../../countries/US/sights/grand-central-terminal.yaml) | 8.8 / 8.8 / 9.0 / 8.6 / 7.8 | depth: +1.2 vs peer; uniqueness: +0.4 vs peer |
+| [US/national-gallery-of-art-washington](../../../countries/US/sights/national-gallery-of-art-washington.yaml) | 9.1 / 9.1 / 9.3 / 9.2 / 9.4 | depth: -0.4 vs peer; experience: -0.3 vs peer |
+| [US/independence-hall](../../../countries/US/sights/independence-hall.yaml) | 8.1 / 8.8 / 9.4 / 8.4 / 7.8 | depth: +1.2 vs peer; impact: +0.9 vs peer |
+| [US/guggenheim-museum-new-york](../../../countries/US/sights/guggenheim-museum-new-york.yaml) | 8.9 / 9.1 / 9.2 / 8.8 / 8.5 | depth: +0.5 vs peer; impact: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-islands-of-adventure — Universal Islands of Adventure Orlando — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/islands-of-adventure.yaml)
+- Action: new
+- Scope: Independent themed park distinct from adjacent Universal Studios Florida and Epic Universe.
+- Representative coordinates: 28.471, -81.471; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.0 / 8.7 / 9.4 / 9.1.
+- Categories: family:9.4,adventure:9.3,photography:9.1.
+- Overall: 90.40/100.
+- Decision: Source-informed provisional assessment from indexed official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.universalorlando.com/web/en/gb/theme-parks/islands-of-adventure ; https://www.universalorlando.com/web/en/us/tickets-packages/park-tickets.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/disneyland-park-anaheim](../../../countries/US/sights/disneyland-park-anaheim.yaml) | 9.0 / 9.1 / 8.8 / 9.3 / 9.2 | impact: +0.1 vs peer; uniqueness: -0.1 vs peer |
+| [US/magic-kingdom-park](../../../countries/US/sights/magic-kingdom-park.yaml) | 8.9 / 8.7 / 8.5 / 9.3 / 9.2 | uniqueness: +0.3 vs peer; impact: +0.2 vs peer |
+| [US/san-diego-zoo](../../../countries/US/sights/san-diego-zoo.yaml) | 9.0 / 8.9 / 8.5 / 9.3 / 9.4 | depth: -0.3 vs peer; significance: +0.2 vs peer |
+| [US/kennedy-space-center-visitor-complex](../../../countries/US/sights/kennedy-space-center-visitor-complex.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.3 | significance: -0.7 vs peer; uniqueness: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-universal-hollywood — Universal Studios Hollywood Theme Park and Studio Tour — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/universal-hollywood.yaml)
+- Action: new
+- Scope: Theme park including its working movie studio backlot tour counted once.
+- Representative coordinates: 34.138, -118.353; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.2 / 8.9 / 9.2 / 9.0.
+- Categories: family:9.4,culture:9.2,adventure:9.1.
+- Overall: 90.60/100.
+- Decision: Source-informed provisional assessment from indexed official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.universalstudioshollywood.com/web/en/us/things-to-do/rides-and-attractions/the-world-famous-studio-tour?attraction_experience=rides-attractions.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/disneyland-park-anaheim](../../../countries/US/sights/disneyland-park-anaheim.yaml) | 9.0 / 9.1 / 8.8 / 9.3 / 9.2 | depth: -0.2 vs peer; uniqueness: +0.1 vs peer |
+| [US/magic-kingdom-park](../../../countries/US/sights/magic-kingdom-park.yaml) | 8.9 / 8.7 / 8.5 / 9.3 / 9.2 | uniqueness: +0.5 vs peer; significance: +0.4 vs peer |
+| [US/kennedy-space-center-visitor-complex](../../../countries/US/sights/kennedy-space-center-visitor-complex.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.3 | significance: -0.5 vs peer; depth: -0.3 vs peer |
+| [US/getty-center](../../../countries/US/sights/getty-center.yaml) | 9.1 / 9.1 / 9.0 / 9.2 / 9.1 | impact: -0.1 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-disney-animal-kingdom — Disney’s Animal Kingdom Theme Park Florida — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/disney-animal-kingdom.yaml)
+- Action: new
+- Scope: Independent park combining wildlife experiences and immersive themed attractions; no separate Pandora or safari entries.
+- Representative coordinates: 28.358, -81.59; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.1 / 8.7 / 9.3 / 9.2.
+- Categories: family:9.4,wildlife:9.3,nature:9.2.
+- Overall: 90.30/100.
+- Decision: Source-informed provisional assessment from indexed official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://disneyworld.disney.go.com/destinations/animal-kingdom/?CMP=ILC-DPFY21Q1wo1022200011A.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/magic-kingdom-park](../../../countries/US/sights/magic-kingdom-park.yaml) | 8.9 / 8.7 / 8.5 / 9.3 / 9.2 | uniqueness: +0.4 vs peer; significance: +0.2 vs peer |
+| [US/disneyland-park-anaheim](../../../countries/US/sights/disneyland-park-anaheim.yaml) | 9.0 / 9.1 / 8.8 / 9.3 / 9.2 | significance: -0.1 vs peer; impact: +0.0 vs peer |
+| [US/san-diego-zoo](../../../countries/US/sights/san-diego-zoo.yaml) | 9.0 / 8.9 / 8.5 / 9.3 / 9.4 | uniqueness: +0.2 vs peer; significance: +0.2 vs peer |
+| [US/georgia-aquarium](../../../countries/US/sights/georgia-aquarium.yaml) | 9.2 / 9.1 / 8.4 / 9.2 / 9.2 | significance: +0.3 vs peer; impact: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-epcot — EPCOT Theme Park Florida — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/epcot.yaml)
+- Action: new
+- Scope: World Showcase, technology-themed experiences and rides in one independently ticketed park.
+- Representative coordinates: 28.3747, -81.5494; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.7 / 9.2 / 9.2.
+- Categories: family:9.4,culture:9.1,food:9.1.
+- Overall: 89.35/100.
+- Decision: Source-informed provisional assessment from indexed official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://disneyworld.disney.go.com/attractions/epcot/ ; https://disneyworld.disney.go.com/dining/animal-kingdom/epcot/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/magic-kingdom-park](../../../countries/US/sights/magic-kingdom-park.yaml) | 8.9 / 8.7 / 8.5 / 9.3 / 9.2 | uniqueness: +0.2 vs peer; significance: +0.2 vs peer |
+| [US/disneyland-park-anaheim](../../../countries/US/sights/disneyland-park-anaheim.yaml) | 9.0 / 9.1 / 8.8 / 9.3 / 9.2 | uniqueness: -0.2 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-hollywood-studios-florida — Disney’s Hollywood Studios Florida — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/hollywood-studios-florida.yaml)
+- Action: new
+- Scope: Separate Disney park; Star Wars and other themed lands included, not individually ranked.
+- Representative coordinates: 28.3575, -81.558; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.0 / 8.5 / 9.3 / 9.1.
+- Categories: family:9.4,adventure:9.2,photography:9.1.
+- Overall: 89.25/100.
+- Decision: Source-informed provisional assessment from indexed official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://disneyworld.disney.go.com/destinations/hollywood-studios/?CMP=ILC-DPFY20Q1wo1226190101200088E.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/magic-kingdom-park](../../../countries/US/sights/magic-kingdom-park.yaml) | 8.9 / 8.7 / 8.5 / 9.3 / 9.2 | uniqueness: +0.3 vs peer; depth: -0.1 vs peer |
+| [US/disneyland-park-anaheim](../../../countries/US/sights/disneyland-park-anaheim.yaml) | 9.0 / 9.1 / 8.8 / 9.3 / 9.2 | significance: -0.3 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-universal-studios-florida — Universal Studios Florida Theme Park — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/universal-studios-florida.yaml)
+- Action: new
+- Scope: Distinct ticketed park; no cross-park duplicate Hogwarts Express or individual rides.
+- Representative coordinates: 28.475, -81.469; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.5 / 9.2 / 9.1.
+- Categories: family:9.4,adventure:9.1,culture:9.0.
+- Overall: 88.85/100.
+- Decision: Source-informed provisional assessment from indexed official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.universalorlando.com/web/en/us/theme-parks/universal-studios-florida.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/magic-kingdom-park](../../../countries/US/sights/magic-kingdom-park.yaml) | 8.9 / 8.7 / 8.5 / 9.3 / 9.2 | uniqueness: +0.2 vs peer; experience: -0.1 vs peer |
+| [US/disneyland-park-anaheim](../../../countries/US/sights/disneyland-park-anaheim.yaml) | 9.0 / 9.1 / 8.8 / 9.3 / 9.2 | significance: -0.3 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-disney-california-adventure — Disney California Adventure Park Anaheim — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/disney-california-adventure.yaml)
+- Action: new
+- Scope: Independent park adjacent to Disneyland; Cars Land included within parent.
+- Representative coordinates: 33.805, -117.918; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.5 / 9.2 / 9.0.
+- Categories: family:9.4,adventure:9.1,photography:9.0.
+- Overall: 88.20/100.
+- Decision: Source-informed provisional assessment from indexed official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://disneyland.disney.go.com/en_CA/destinations/disney-california-adventure/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/disneyland-park-anaheim](../../../countries/US/sights/disneyland-park-anaheim.yaml) | 9.0 / 9.1 / 8.8 / 9.3 / 9.2 | uniqueness: -0.3 vs peer; significance: -0.3 vs peer |
+| [US/magic-kingdom-park](../../../countries/US/sights/magic-kingdom-park.yaml) | 8.9 / 8.7 / 8.5 / 9.3 / 9.2 | depth: -0.2 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-rockefeller-center — Rockefeller Center Art Deco Complex and Top of the Rock — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/rockefeller-center.yaml)
+- Action: new
+- Scope: Art Deco architecture, artwork and observation deck combined; no separate deck score.
+- Representative coordinates: 40.759, -73.979; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.9 / 9.0 / 9.0 / 8.5.
+- Categories: architecture:9.4,photography:9.3,history:9.2.
+- Overall: 88.95/100.
+- Decision: Source-informed provisional assessment from indexed official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.rockefellercenter.com/history/ ; https://www.rockefellercenter.com/plan-your-day/history-and-art/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/empire-state-building](../../../countries/US/sights/empire-state-building.yaml) | 9.1 / 8.9 / 9.0 / 8.8 / 8.0 | depth: +0.5 vs peer; impact: -0.2 vs peer |
+| [US/grand-central-terminal](../../../countries/US/sights/grand-central-terminal.yaml) | 8.8 / 8.8 / 9.0 / 8.6 / 7.8 | depth: +0.7 vs peer; experience: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-white-house-presidents-park — White House and President’s Park Visitor Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/white-house-presidents-park.yaml)
+- Action: new
+- Scope: Public views and visitor center interpretation; authorized house tour conditional, no guaranteed access. Separate NPS site from Mall.
+- Representative coordinates: 38.8977, -77.0365; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.1 / 9.4 / 8.4 / 8.2.
+- Categories: history:9.4,architecture:9.2,culture:9.2.
+- Overall: 89.05/100.
+- Decision: Source-informed provisional assessment from indexed official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.nps.gov/whho/planyourvisit/basicinfo.htm ; https://www.nps.gov/thingstodo/explore-the-white-house-visitor-center.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-mall-and-memorial-parks](../../../countries/US/sights/national-mall-and-memorial-parks.yaml) | 9.0 / 9.0 / 9.3 / 9.0 / 9.2 | depth: -1.0 vs peer; experience: -0.6 vs peer |
+| [US/independence-hall](../../../countries/US/sights/independence-hall.yaml) | 8.1 / 8.8 / 9.4 / 8.4 / 7.8 | impact: +0.8 vs peer; depth: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-us-capitol — United States Capitol Guided Tour and Visitor Center — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/us-capitol.yaml)
+- Action: new
+- Scope: Dedicated interior tour and Exhibition Hall, distinct from outdoor Mall experience.
+- Representative coordinates: 38.8899, -77.0091; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.0 / 9.4 / 8.8 / 8.7.
+- Categories: history:9.4,architecture:9.4,culture:9.2.
+- Overall: 89.90/100.
+- Decision: Source-informed provisional assessment from indexed official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.visitthecapitol.gov/visit ; https://www.visitthecapitol.gov/visit/know-before-you-go/tips-for-visiting-the-capitol.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-mall-and-memorial-parks](../../../countries/US/sights/national-mall-and-memorial-parks.yaml) | 9.0 / 9.0 / 9.3 / 9.0 / 9.2 | depth: -0.5 vs peer; experience: -0.2 vs peer |
+| [US/independence-hall](../../../countries/US/sights/independence-hall.yaml) | 8.1 / 8.8 / 9.4 / 8.4 / 7.8 | depth: +0.9 vs peer; impact: +0.8 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-bryant-park-nypl — New York Public Library Stephen A. Schwarzman Building and Bryant Park — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/bryant-park-nypl.yaml)
+- Action: new
+- Scope: Library architecture, public exhibits and adjacent park grouped.
+- Representative coordinates: 40.7532, -73.9822; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.8 / 8.8 / 8.8 / 8.6.
+- Categories: architecture:9.3,culture:9.2,history:9.2.
+- Overall: 87.20/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/grand-central-terminal](../../../countries/US/sights/grand-central-terminal.yaml) | 8.8 / 8.8 / 9.0 / 8.6 / 7.8 | depth: +0.8 vs peer; impact: -0.2 vs peer |
+| [US/central-park](../../../countries/US/sights/central-park.yaml) | 8.7 / 8.7 / 8.7 / 9.0 / 8.8 | experience: -0.2 vs peer; depth: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-one-world-observatory — One World Observatory New York — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/one-world-observatory.yaml)
+- Action: new
+- Scope: Dedicated skyscraper viewing experience, not memorial or museum.
+- Representative coordinates: 40.713, -74.0135; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.7 / 8.4 / 8.9 / 8.1.
+- Categories: photography:9.3,architecture:9.2.
+- Overall: 86.70/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/empire-state-building](../../../countries/US/sights/empire-state-building.yaml) | 9.1 / 8.9 / 9.0 / 8.8 / 8.0 | significance: -0.6 vs peer; impact: -0.2 vs peer |
+| [US/space-needle](../../../countries/US/sights/space-needle.yaml) | 8.6 / 8.6 / 8.4 / 8.8 / 7.6 | depth: +0.5 vs peer; impact: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-national-portrait-gallery — Smithsonian National Portrait Gallery and American Art Museum Washington — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/national-portrait-gallery.yaml)
+- Action: new
+- Scope: Shared historic building and complementary portrait/American art collections grouped; excludes Renwick Gallery.
+- Representative coordinates: 38.8979, -77.0227; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.0 / 9.1 / 9.0 / 9.2.
+- Categories: culture:9.4,history:9.3,architecture:9.1.
+- Overall: 90.10/100.
+- Decision: Source-informed provisional assessment from indexed official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://americanart.si.edu/about ; https://fellowships.si.edu/SORSNPG.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-gallery-of-art-washington](../../../countries/US/sights/national-gallery-of-art-washington.yaml) | 9.1 / 9.1 / 9.3 / 9.2 / 9.4 | impact: -0.2 vs peer; significance: -0.2 vs peer |
+| [US/art-institute-of-chicago](../../../countries/US/sights/art-institute-of-chicago.yaml) | 9.3 / 9.3 / 9.4 / 9.3 / 9.4 | impact: -0.4 vs peer; uniqueness: -0.3 vs peer |
+| [US/museum-of-modern-art-new-york](../../../countries/US/sights/museum-of-modern-art-new-york.yaml) | 9.3 / 9.4 / 9.4 / 9.3 / 9.4 | impact: -0.4 vs peer; uniqueness: -0.4 vs peer |
+| [US/metropolitan-museum-of-art](../../../countries/US/sights/metropolitan-museum-of-art.yaml) | 9.3 / 9.4 / 9.4 / 9.3 / 9.6 | impact: -0.4 vs peer; uniqueness: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+## sight-us-gates-of-the-arctic — Gates of the Arctic National Park and Preserve — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/gates-of-the-arctic.yaml)
+- Action: new
+- Scope: Roadless Brooks Range wilderness; wilderness experience assessed without access penalty, no guaranteed wildlife sightings.
+- Representative coordinates: 67.78, -153.3; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.4 / 9.2 / 8.6 / 9.1.
+- Categories: nature:9.4,adventure:9.4,photography:9.4.
+- Overall: 91.80/100.
+- Decision: Source-informed provisional assessment from NPS excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/gaar/learn/what-is-gates-of-the-arctic.htm ; https://www.nps.gov/gaar/planyourvisit/basicinfo.htm?ncid=txtlnkusaolp00000618.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/wrangell-st-elias](../../../countries/US/sights/wrangell-st-elias.yaml) | 9.4 / 9.4 / 9.3 / 8.6 / 9.2 | impact: -0.1 vs peer; significance: -0.1 vs peer |
+| [US/denali-national-park](../../../countries/US/sights/denali-national-park.yaml) | 9.3 / 9.2 / 9.2 / 8.7 / 9.0 | uniqueness: +0.2 vs peer; experience: -0.1 vs peer |
+| [US/north-cascades-national-park](../../../countries/US/sights/north-cascades-national-park.yaml) | 9.0 / 8.6 / 8.8 / 8.3 / 9.0 | uniqueness: +0.8 vs peer; significance: +0.4 vs peer |
+| [US/glacier-bay](../../../countries/US/sights/glacier-bay.yaml) | 9.5 / 9.4 / 9.4 / 8.9 / 9.1 | experience: -0.3 vs peer; impact: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-lake-clark — Lake Clark National Park and Preserve — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/lake-clark.yaml)
+- Action: new
+- Scope: Glaciers, volcanoes, intact watersheds and wildlife; distinct park from Katmai.
+- Representative coordinates: 60.97, -153.42; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.2 / 9.1 / 8.9 / 9.2.
+- Categories: nature:9.4,wildlife:9.4,photography:9.4,adventure:9.3.
+- Overall: 91.35/100.
+- Decision: Source-informed provisional assessment from NPS excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/lacl/learn/nature/volcanoes.htm ; https://www.nps.gov/lacl/learn/management/statistics.htm ; https://www.nps.gov/lacl/learn/wilderness.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/katmai-national-park](../../../countries/US/sights/katmai-national-park.yaml) | 9.1 / 9.3 / 9.1 / 8.9 / 9.1 | impact: +0.1 vs peer; uniqueness: -0.1 vs peer |
+| [US/wrangell-st-elias](../../../countries/US/sights/wrangell-st-elias.yaml) | 9.4 / 9.4 / 9.3 / 8.6 / 9.2 | experience: +0.3 vs peer; impact: -0.2 vs peer |
+| [US/kenai-fjords-national-park](../../../countries/US/sights/kenai-fjords-national-park.yaml) | 9.2 / 8.9 / 8.8 / 9.0 / 8.9 | uniqueness: +0.3 vs peer; significance: +0.3 vs peer |
+| [US/denali-national-park](../../../countries/US/sights/denali-national-park.yaml) | 9.3 / 9.2 / 9.2 / 8.7 / 9.0 | experience: +0.2 vs peer; depth: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-kobuk-valley — Kobuk Valley National Park — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/kobuk-valley.yaml)
+- Action: new
+- Scope: High-latitude active dunes, boreal landscape and seasonal caribou migration; no sighting guarantee.
+- Representative coordinates: 67.36, -159.15; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.4 / 9.1 / 8.6 / 8.9.
+- Categories: nature:9.4,wildlife:9.4,adventure:9.3,photography:9.3.
+- Overall: 90.50/100.
+- Decision: Source-informed provisional assessment from NPS excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/im/arcn/kova.htm ; https://www.nps.gov/kova/planyourvisit/dunes.htm ; https://www.nps.gov/kova/learn/wilderness.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/white-sands](../../../countries/US/sights/white-sands.yaml) | 9.0 / 9.1 / 8.4 / 8.8 / 8.1 | depth: +0.8 vs peer; significance: +0.7 vs peer |
+| [US/great-sand-dunes-national-park](../../../countries/US/sights/great-sand-dunes-national-park.yaml) | 8.9 / 8.8 / 8.5 / 8.8 / 8.7 | uniqueness: +0.6 vs peer; significance: +0.6 vs peer |
+| [US/katmai-national-park](../../../countries/US/sights/katmai-national-park.yaml) | 9.1 / 9.3 / 9.1 / 8.9 / 9.1 | experience: -0.3 vs peer; depth: -0.2 vs peer |
+| [US/denali-national-park](../../../countries/US/sights/denali-national-park.yaml) | 9.3 / 9.2 / 9.2 / 8.7 / 9.0 | impact: -0.3 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-isle-royale — Isle Royale National Park — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/isle-royale.yaml)
+- Action: new
+- Scope: Lake Superior island wilderness, long-running predator-prey research and historic wrecks; all park experiences grouped.
+- Representative coordinates: 48, -88.9; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.1 / 9.0 / 9.0 / 9.2.
+- Categories: nature:9.4,wildlife:9.3,adventure:9.3.
+- Overall: 90.45/100.
+- Decision: Source-informed provisional assessment from NPS excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/isro/learn/predator-prey-research.htm ; https://www.nps.gov/isro/learn/historyculture/shipwrecks.htm ; https://www.nps.gov/isro/learn/nature/wolf-moose-populations.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/channel-islands-national-park](../../../countries/US/sights/channel-islands-national-park.yaml) | 8.7 / 8.8 / 8.8 / 8.8 / 8.8 | depth: +0.4 vs peer; impact: +0.3 vs peer |
+| [US/olympic-national-park](../../../countries/US/sights/olympic-national-park.yaml) | 9.2 / 9.1 / 9.1 / 9.0 / 9.3 | impact: -0.2 vs peer; significance: -0.1 vs peer |
+| [US/everglades-national-park](../../../countries/US/sights/everglades-national-park.yaml) | 8.7 / 9.2 / 9.4 / 8.8 / 9.0 | significance: -0.4 vs peer; impact: +0.3 vs peer |
+| [US/katmai-national-park](../../../countries/US/sights/katmai-national-park.yaml) | 9.1 / 9.3 / 9.1 / 8.9 / 9.1 | uniqueness: -0.2 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-chiricahua — Chiricahua National Park — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/chiricahua.yaml)
+- Action: new
+- Scope: Former national monument, redesignated in 2026; volcanic pinnacles, sky-island ecology and Apache heritage.
+- Representative coordinates: 32.014, -109.32; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.2 / 8.7 / 9.0 / 8.8.
+- Categories: nature:9.4,photography:9.4,adventure:9.2.
+- Overall: 90.00/100.
+- Decision: Source-informed provisional assessment from NPS excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/chir/faqs.htm ; https://www.nps.gov/chir/learn/news/chiricahua-national-monument-becomes-america-s-newest-national-park.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/bryce-canyon-national-park](../../../countries/US/sights/bryce-canyon-national-park.yaml) | 9.4 / 9.3 / 8.4 / 9.1 / 8.5 | impact: -0.3 vs peer; significance: +0.3 vs peer |
+| [US/arches-national-park](../../../countries/US/sights/arches-national-park.yaml) | 9.3 / 9.4 / 8.7 / 9.0 / 8.8 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+| [US/canyonlands-national-park](../../../countries/US/sights/canyonlands-national-park.yaml) | 9.2 / 9.0 / 8.5 / 8.8 / 9.1 | depth: -0.3 vs peer; uniqueness: +0.2 vs peer |
+| [US/white-sands](../../../countries/US/sights/white-sands.yaml) | 9.0 / 9.1 / 8.4 / 8.8 / 8.1 | depth: +0.7 vs peer; significance: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-biscayne — Biscayne National Park — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/biscayne.yaml)
+- Action: new
+- Scope: Marine park with reefs, islands and maritime heritage trail; no separate wreck or lighthouse entry.
+- Representative coordinates: 25.49, -80.21; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.0 / 9.0 / 8.9 / 8.9.
+- Categories: nature:9.3,wildlife:9.3,adventure:9.2.
+- Overall: 89.45/100.
+- Decision: Source-informed provisional assessment from NPS excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/bisc/planyourvisit/guidedtours.htm ; https://www.nps.gov/bisc/learn/historyculture/maritime-heritage-trail.htm?fullweb=1.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/dry-tortugas-national-park](../../../countries/US/sights/dry-tortugas-national-park.yaml) | 8.8 / 9.0 / 8.8 / 8.8 / 8.2 | depth: +0.7 vs peer; significance: +0.2 vs peer |
+| [US/everglades-national-park](../../../countries/US/sights/everglades-national-park.yaml) | 8.7 / 9.2 / 9.4 / 8.8 / 9.0 | significance: -0.4 vs peer; impact: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-new-river-gorge — New River Gorge National Park and Preserve — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/new-river-gorge.yaml)
+- Action: new
+- Scope: Gorge hiking, whitewater and climbing treated as one park experience; not separate bridge record.
+- Representative coordinates: 38.07, -81.08; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.7 / 9.2 / 9.0.
+- Categories: adventure:9.4,nature:9.2,photography:9.3.
+- Overall: 88.90/100.
+- Decision: Source-informed provisional assessment from NPS excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/neri/planyourvisit/climbing.htm ; https://www.nps.gov/neri/planyourvisit/whitewater.htm?pubDate=20250624.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/black-canyon-of-the-gunnison-national-park](../../../countries/US/sights/black-canyon-of-the-gunnison-national-park.yaml) | 9.0 / 8.8 / 8.5 / 8.7 / 8.4 | depth: +0.6 vs peer; experience: +0.5 vs peer |
+| [US/canyonlands-national-park](../../../countries/US/sights/canyonlands-national-park.yaml) | 9.2 / 9.0 / 8.5 / 8.8 / 9.1 | experience: +0.4 vs peer; impact: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-voyageurs — Voyageurs National Park — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/voyageurs.yaml)
+- Action: new
+- Scope: Lake network, paddling, islands and boreal forest.
+- Representative coordinates: 48.49, -92.88; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.6 / 9.0 / 9.0.
+- Categories: nature:9.3,adventure:9.3,photography:9.2.
+- Overall: 88.35/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/everglades-national-park](../../../countries/US/sights/everglades-national-park.yaml) | 8.7 / 9.2 / 9.4 / 8.8 / 9.0 | significance: -0.8 vs peer; uniqueness: -0.3 vs peer |
+| [US/channel-islands-national-park](../../../countries/US/sights/channel-islands-national-park.yaml) | 8.7 / 8.8 / 8.8 / 8.8 / 8.8 | significance: -0.2 vs peer; experience: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-guadalupe-mountains — Guadalupe Mountains National Park — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/guadalupe-mountains.yaml)
+- Action: new
+- Scope: Mountain trails, Permian fossil reef and desert ecology.
+- Representative coordinates: 31.91, -104.86; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.7 / 8.9 / 8.8.
+- Categories: nature:9.3,adventure:9.3,photography:9.2.
+- Overall: 87.95/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/big-bend](../../../countries/US/sights/big-bend.yaml) | 8.8 / 8.7 / 8.8 / 8.8 / 9.0 | depth: -0.2 vs peer; uniqueness: +0.1 vs peer |
+| [US/great-basin-national-park](../../../countries/US/sights/great-basin-national-park.yaml) | 8.5 / 8.8 / 8.7 / 8.6 / 8.8 | impact: +0.3 vs peer; experience: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-pinnacles — Pinnacles National Park — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/pinnacles.yaml)
+- Action: new
+- Scope: Volcanic spires, talus caves and condor habitat.
+- Representative coordinates: 36.49, -121.18; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.5 / 8.8 / 8.6.
+- Categories: nature:9.3,adventure:9.2,wildlife:9.2.
+- Overall: 87.45/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/joshua-tree-national-park](../../../countries/US/sights/joshua-tree-national-park.yaml) | 8.7 / 8.8 / 8.5 / 8.8 / 8.6 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer |
+| [US/bryce-canyon-national-park](../../../countries/US/sights/bryce-canyon-national-park.yaml) | 9.4 / 9.3 / 8.4 / 9.1 / 8.5 | impact: -0.6 vs peer; uniqueness: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-theodore-roosevelt — Theodore Roosevelt National Park — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/theodore-roosevelt.yaml)
+- Action: new
+- Scope: Badlands, bison habitat and presidential conservation history.
+- Representative coordinates: 46.98, -103.54; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.7 / 8.8 / 8.8.
+- Categories: wildlife:9.3,nature:9.2,photography:9.2.
+- Overall: 87.55/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/badlands-national-park](../../../countries/US/sights/badlands-national-park.yaml) | 8.6 / 8.6 / 8.6 / 8.6 / 8.5 | depth: +0.3 vs peer; impact: +0.2 vs peer |
+| [US/petrified-forest](../../../countries/US/sights/petrified-forest.yaml) | 8.4 / 8.9 / 9.0 / 8.4 / 8.3 | depth: +0.5 vs peer; impact: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-shenandoah — Shenandoah National Park — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/shenandoah.yaml)
+- Action: new
+- Scope: Blue Ridge hikes and Skyline Drive; excludes full Appalachian Trail.
+- Representative coordinates: 38.53, -78.35; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.5 / 8.6 / 8.9 / 8.9.
+- Categories: nature:9.2,adventure:9.1,photography:9.2.
+- Overall: 86.80/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/great-smoky-mountains-national-park](../../../countries/US/sights/great-smoky-mountains-national-park.yaml) | 8.8 / 8.6 / 9.1 / 8.8 / 9.1 | significance: -0.5 vs peer; depth: -0.2 vs peer |
+| [US/acadia-national-park](../../../countries/US/sights/acadia-national-park.yaml) | 8.6 / 8.1 / 8.1 / 8.9 / 8.7 | significance: +0.5 vs peer; uniqueness: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-congaree — Congaree National Park — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/congaree.yaml)
+- Action: new
+- Scope: Old-growth floodplain forest and paddling.
+- Representative coordinates: 33.79, -80.75; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.9 / 8.8 / 8.7 / 8.7.
+- Categories: nature:9.3,wildlife:9.2,photography:9.0.
+- Overall: 87.40/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/everglades-national-park](../../../countries/US/sights/everglades-national-park.yaml) | 8.7 / 9.2 / 9.4 / 8.8 / 9.0 | significance: -0.6 vs peer; uniqueness: -0.3 vs peer |
+| [US/redwood-parks](../../../countries/US/sights/redwood-parks.yaml) | 9.1 / 9.3 / 9.2 / 9.0 / 8.9 | impact: -0.5 vs peer; uniqueness: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-cuyahoga-valley — Cuyahoga Valley National Park — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/cuyahoga-valley.yaml)
+- Action: new
+- Scope: Canal towpath, river valley and waterfalls.
+- Representative coordinates: 41.24, -81.55; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.4 / 8.5 / 8.8 / 8.7.
+- Categories: nature:9.0,history:9.0,relaxation:9.1.
+- Overall: 85.10/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/acadia-national-park](../../../countries/US/sights/acadia-national-park.yaml) | 8.6 / 8.1 / 8.1 / 8.9 / 8.7 | significance: +0.4 vs peer; uniqueness: +0.3 vs peer |
+| [US/great-smoky-mountains-national-park](../../../countries/US/sights/great-smoky-mountains-national-park.yaml) | 8.8 / 8.6 / 9.1 / 8.8 / 9.1 | significance: -0.6 vs peer; impact: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-indiana-dunes — Indiana Dunes National Park — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/indiana-dunes.yaml)
+- Action: new
+- Scope: Lake Michigan dunes and diverse habitats; no separate adjacent state park score.
+- Representative coordinates: 41.65, -87.05; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.6 / 8.5 / 8.8 / 8.6.
+- Categories: nature:9.2,beaches:9.1,photography:9.0.
+- Overall: 85.80/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/great-sand-dunes-national-park](../../../countries/US/sights/great-sand-dunes-national-park.yaml) | 8.9 / 8.8 / 8.5 / 8.8 / 8.7 | impact: -0.4 vs peer; uniqueness: -0.2 vs peer |
+| [US/acadia-national-park](../../../countries/US/sights/acadia-national-park.yaml) | 8.6 / 8.1 / 8.1 / 8.9 / 8.7 | uniqueness: +0.5 vs peer; significance: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-hot-springs — Hot Springs National Park — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/hot-springs.yaml)
+- Action: new
+- Scope: Historic Bathhouse Row, thermal water and forest trails.
+- Representative coordinates: 34.515, -93.053; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.8 / 8.8 / 8.5 / 8.6.
+- Categories: history:9.2,architecture:9.1,relaxation:9.1.
+- Overall: 86.15/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/mount-vernon](../../../countries/US/sights/mount-vernon.yaml) | 8.1 / 8.5 / 9.0 / 8.5 / 8.2 | depth: +0.4 vs peer; impact: +0.3 vs peer |
+| [US/great-basin-national-park](../../../countries/US/sights/great-basin-national-park.yaml) | 8.5 / 8.8 / 8.7 / 8.6 / 8.8 | depth: -0.2 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-gateway-arch — Gateway Arch National Park — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/gateway-arch.yaml)
+- Action: new
+- Scope: Arch, museum and associated park interpreted together.
+- Representative coordinates: 38.6247, -90.1848; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.9 / 8.7 / 8.4.
+- Categories: architecture:9.3,history:9.2,photography:9.2.
+- Overall: 87.90/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/washington-monument](../../../countries/US/sights/washington-monument.yaml) | 8.7 / 8.6 / 8.8 / 8.6 / 7.3 | depth: +1.1 vs peer; uniqueness: +0.3 vs peer |
+| [US/empire-state-building](../../../countries/US/sights/empire-state-building.yaml) | 9.1 / 8.9 / 9.0 / 8.8 / 8.0 | depth: +0.4 vs peer; impact: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+## sight-us-dinosaur-monument — Dinosaur National Monument Fossil Quarry and River Canyons — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/dinosaur-monument.yaml)
+- Action: new
+- Scope: Combined fossil quarry, Green/Yampa river canyons, and monument trails; no individual quarry or river canyon duplicate.
+- Representative coordinates: 40.44, -109.3; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.4 / 9.3 / 9.1 / 9.3.
+- Categories: nature:9.4,history:9.3,family:9.3,adventure:9.2.
+- Overall: 92.95/100.
+- Decision: Source-informed provisional assessment from official indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/dino/planyourvisit/quarry-exhibit-hall.htm ; https://www.nps.gov/dino/planyourvisit/basicinfo.htm ; https://www.nps.gov/articles/nps-geodiversity-atlas-dinosaur-national-monument-colorado-and-utah.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/petrified-forest](../../../countries/US/sights/petrified-forest.yaml) | 8.4 / 8.9 / 9.0 / 8.4 / 8.3 | depth: +1.0 vs peer; impact: +0.9 vs peer |
+| [US/canyonlands-national-park](../../../countries/US/sights/canyonlands-national-park.yaml) | 9.2 / 9.0 / 8.5 / 8.8 / 9.1 | significance: +0.8 vs peer; uniqueness: +0.4 vs peer |
+| [US/american-museum-of-natural-history](../../../countries/US/sights/american-museum-of-natural-history.yaml) | 9.2 / 9.2 / 9.3 / 9.2 / 9.4 | uniqueness: +0.2 vs peer; impact: +0.1 vs peer |
+| [US/badlands-national-park](../../../countries/US/sights/badlands-national-park.yaml) | 8.6 / 8.6 / 8.6 / 8.6 / 8.5 | uniqueness: +0.8 vs peer; depth: +0.8 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-vermilion-cliffs — Vermilion Cliffs National Monument Coyote Buttes and White Pocket — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/vermilion-cliffs.yaml)
+- Action: new
+- Scope: Wave, Coyote Buttes, White Pocket and monument Paria Canyon sectors combined; separate permits and land boundaries apply; no separate Wave score.
+- Representative coordinates: 36.98, -111.99; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.5 / 9.4 / 8.8 / 9.2 / 9.1.
+- Categories: nature:9.4,photography:9.4,adventure:9.3.
+- Overall: 92.50/100.
+- Decision: Source-informed provisional assessment from official indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.blm.gov/national-conservation-lands/arizona/vermilion-cliffs ; https://www.blm.gov/programs/recreation/permits-and-passes/lotteries-and-permit-systems/arizona/coyote-buttes-north ; https://www.blm.gov/visit/white-pocket-trailhead.
+- Impact 9.5 justified provisionally by BLM documentation of internationally distinctive sandstone formations; international calibration pending.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/upper-antelope-canyon](../../../countries/US/sights/upper-antelope-canyon.yaml) | 9.4 / 9.3 / 8.3 / 8.6 / 7.8 | depth: +1.3 vs peer; experience: +0.6 vs peer |
+| [US/arches-national-park](../../../countries/US/sights/arches-national-park.yaml) | 9.3 / 9.4 / 8.7 / 9.0 / 8.8 | depth: +0.3 vs peer; impact: +0.2 vs peer |
+| [US/bryce-canyon-national-park](../../../countries/US/sights/bryce-canyon-national-park.yaml) | 9.4 / 9.3 / 8.4 / 9.1 / 8.5 | depth: +0.6 vs peer; significance: +0.4 vs peer |
+| [US/monument-valley-navajo-tribal-park](../../../countries/US/sights/monument-valley-navajo-tribal-park.yaml) | 9.4 / 9.3 / 8.8 / 9.0 / 8.6 | depth: +0.5 vs peer; experience: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-grand-staircase-escalante — Grand Staircase–Escalante National Monument Canyon and Desert Landscapes — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/grand-staircase-escalante.yaml)
+- Action: new
+- Scope: Monument landscape and permitted canyon routes; July 2026 boundary change documented; exact spatial verification pending. Excludes neighboring Glen Canyon, Vermilion Cliffs, Bryce and Capitol Reef.
+- Representative coordinates: 37.45, -111.55; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.2 / 9.1 / 9.1 / 9.3.
+- Categories: nature:9.4,adventure:9.4,photography:9.4.
+- Overall: 92.05/100.
+- Decision: Source-informed provisional assessment from official indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.blm.gov/programs/national-conservation-lands/utah/grand-staircase-escalante-national-monument ; https://www.blm.gov/visit/grand-staircase-escalante-national-monument.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/canyonlands-national-park](../../../countries/US/sights/canyonlands-national-park.yaml) | 9.2 / 9.0 / 8.5 / 8.8 / 9.1 | significance: +0.6 vs peer; experience: +0.3 vs peer |
+| [US/capitol-reef-national-park](../../../countries/US/sights/capitol-reef-national-park.yaml) | 8.8 / 8.7 / 8.5 / 8.5 / 8.8 | significance: +0.6 vs peer; experience: +0.6 vs peer |
+| [US/glen-canyon-national-recreation-area](../../../countries/US/sights/glen-canyon-national-recreation-area.yaml) | 8.9 / 8.7 / 8.3 / 8.8 / 9.0 | significance: +0.8 vs peer; uniqueness: +0.5 vs peer |
+| [US/bryce-canyon-national-park](../../../countries/US/sights/bryce-canyon-national-park.yaml) | 9.4 / 9.3 / 8.4 / 9.1 / 8.5 | depth: +0.8 vs peer; significance: +0.7 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-canyon-de-chelly — Canyon de Chelly National Monument Navajo Cultural Landscape — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/canyon-de-chelly.yaml)
+- Action: new
+- Scope: Canyon scenery, living Navajo heritage and archaeological sites combined; guided and authorized access only, no private residence visits presumed.
+- Representative coordinates: 36.155, -109.44; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.3 / 9.4 / 9.0 / 9.1.
+- Categories: history:9.4,culture:9.4,photography:9.4,nature:9.3.
+- Overall: 92.25/100.
+- Decision: Source-informed provisional assessment from official indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/articles/dechelly.htm ; https://www.nps.gov/cach/learn/historyculture/index.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/mesa-verde](../../../countries/US/sights/mesa-verde.yaml) | 8.9 / 9.2 / 9.3 / 8.8 / 8.7 | depth: +0.4 vs peer; impact: +0.3 vs peer |
+| [US/chaco-culture](../../../countries/US/sights/chaco-culture.yaml) | 8.5 / 9.0 / 9.3 / 8.3 / 8.6 | impact: +0.7 vs peer; experience: +0.7 vs peer |
+| [US/monument-valley-navajo-tribal-park](../../../countries/US/sights/monument-valley-navajo-tribal-park.yaml) | 9.4 / 9.3 / 8.8 / 9.0 / 8.6 | significance: +0.6 vs peer; depth: +0.5 vs peer |
+| [US/taos-pueblo](../../../countries/US/sights/taos-pueblo.yaml) | 8.5 / 9.2 / 9.3 / 8.2 / 7.8 | depth: +1.3 vs peer; experience: +0.8 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-craters-of-the-moon — Craters of the Moon National Monument and Preserve — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/craters-of-the-moon.yaml)
+- Action: new
+- Scope: Young lava fields, cinder cones and lava tubes; cave closures separate from intrinsic rating.
+- Representative coordinates: 43.416, -113.516; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.1 / 9.0 / 9.1.
+- Categories: nature:9.4,photography:9.3,adventure:9.3.
+- Overall: 91.05/100.
+- Decision: Source-informed provisional assessment from official indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/crmo/learn/nature/cave.htm ; https://www.nps.gov/crmo/learn/education/geology-for-students.htm ; https://www.nps.gov/crmo/planyourvisit/conditions.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/lassen-volcanic-national-park](../../../countries/US/sights/lassen-volcanic-national-park.yaml) | 8.8 / 8.9 / 8.8 / 8.8 / 8.8 | uniqueness: +0.4 vs peer; significance: +0.3 vs peer |
+| [US/hawaii-volcanoes-national-park](../../../countries/US/sights/hawaii-volcanoes-national-park.yaml) | 9.2 / 9.5 / 9.5 / 8.9 / 9.0 | significance: -0.4 vs peer; impact: -0.2 vs peer |
+| [US/chiricahua](../../../countries/US/sights/chiricahua.yaml) | 9.1 / 9.2 / 8.7 / 9.0 / 8.8 | significance: +0.4 vs peer; depth: +0.3 vs peer |
+| [US/great-basin-national-park](../../../countries/US/sights/great-basin-national-park.yaml) | 8.5 / 8.8 / 8.7 / 8.6 / 8.8 | impact: +0.5 vs peer; uniqueness: +0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-bandelier — Bandelier National Monument Ancestral Puebloan Dwellings — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/bandelier.yaml)
+- Action: new
+- Scope: Cliff dwellings, Frijoles Canyon and park trails; no separate Alcove House credit.
+- Representative coordinates: 35.778, -106.27; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.1 / 9.3 / 9.0 / 9.1.
+- Categories: history:9.4,culture:9.4,architecture:9.2,photography:9.2.
+- Overall: 90.95/100.
+- Decision: Source-informed provisional assessment from official indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/articles/bandelier.htm ; https://www.nps.gov/band/planyourvisit/hiking.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/mesa-verde](../../../countries/US/sights/mesa-verde.yaml) | 8.9 / 9.2 / 9.3 / 8.8 / 8.7 | depth: +0.4 vs peer; experience: +0.2 vs peer |
+| [US/chaco-culture](../../../countries/US/sights/chaco-culture.yaml) | 8.5 / 9.0 / 9.3 / 8.3 / 8.6 | experience: +0.7 vs peer; impact: +0.5 vs peer |
+| [US/aztec-ruins-national-monument](../../../countries/US/sights/aztec-ruins-national-monument.yaml) | 8.3 / 8.8 / 9.1 / 8.5 / 8.1 | depth: +1.0 vs peer; impact: +0.7 vs peer |
+| [US/taos-pueblo](../../../countries/US/sights/taos-pueblo.yaml) | 8.5 / 9.2 / 9.3 / 8.2 / 7.8 | depth: +1.3 vs peer; experience: +0.8 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-devils-tower — Devils Tower National Monument (Bear Lodge) — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/devils-tower.yaml)
+- Action: new
+- Scope: Distinctive rock formation and sacred Indigenous landscape; respect tribal requests and climbing restrictions.
+- Representative coordinates: 44.59, -104.715; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.3 / 9.1 / 8.8 / 8.2.
+- Categories: nature:9.4,photography:9.4,culture:9.3.
+- Overall: 90.45/100.
+- Decision: Source-informed provisional assessment from official indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/deto/faqs.htm ; https://www.nps.gov/articles/devilstower.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/chiricahua](../../../countries/US/sights/chiricahua.yaml) | 9.1 / 9.2 / 8.7 / 9.0 / 8.8 | depth: -0.6 vs peer; significance: +0.4 vs peer |
+| [US/monument-valley-navajo-tribal-park](../../../countries/US/sights/monument-valley-navajo-tribal-park.yaml) | 9.4 / 9.3 / 8.8 / 9.0 / 8.6 | depth: -0.4 vs peer; significance: +0.3 vs peer |
+| [US/arches-national-park](../../../countries/US/sights/arches-national-park.yaml) | 9.3 / 9.4 / 8.7 / 9.0 / 8.8 | depth: -0.6 vs peer; significance: +0.4 vs peer |
+| [US/mount-rushmore-national-memorial](../../../countries/US/sights/mount-rushmore-national-memorial.yaml) | 8.6 / 8.9 / 8.8 / 8.2 / 7.8 | impact: +0.6 vs peer; experience: +0.6 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-natural-bridges — Natural Bridges National Monument — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/natural-bridges.yaml)
+- Action: new
+- Scope: Three stream-eroded bridges and associated trails, one park record; excludes Bears Ears outside unit.
+- Representative coordinates: 37.606, -110.01; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.1 / 8.8 / 9.0 / 8.8.
+- Categories: nature:9.4,photography:9.3,adventure:9.3.
+- Overall: 89.65/100.
+- Decision: Source-informed provisional assessment from official indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/nabr/learn/management/foundation-document.htm ; https://www.nps.gov/nabr/planyourvisit/hiking.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/arches-national-park](../../../countries/US/sights/arches-national-park.yaml) | 9.3 / 9.4 / 8.7 / 9.0 / 8.8 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer |
+| [US/canyonlands-national-park](../../../countries/US/sights/canyonlands-national-park.yaml) | 9.2 / 9.0 / 8.5 / 8.8 / 9.1 | significance: +0.3 vs peer; depth: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-rainbow-bridge — Rainbow Bridge National Monument — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/rainbow-bridge.yaml)
+- Action: new
+- Scope: Distinct sacred natural bridge under separate NPS unit; overlap with Glen Canyon approach acknowledged, no lake recreation credit.
+- Representative coordinates: 37.077, -110.964; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 9.1 / 8.8 / 8.6 / 8.2.
+- Categories: nature:9.3,photography:9.4,culture:9.2.
+- Overall: 88.15/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/arches-national-park](../../../countries/US/sights/arches-national-park.yaml) | 9.3 / 9.4 / 8.7 / 9.0 / 8.8 | depth: -0.6 vs peer; impact: -0.4 vs peer |
+| [US/glen-canyon-national-recreation-area](../../../countries/US/sights/glen-canyon-national-recreation-area.yaml) | 8.9 / 8.7 / 8.3 / 8.8 / 9.0 | depth: -0.8 vs peer; significance: +0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-walnut-canyon — Walnut Canyon National Monument — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/walnut-canyon.yaml)
+- Action: new
+- Scope: Cliff dwellings and canyon trail, distinct unit.
+- Representative coordinates: 35.172, -111.51; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 9.0 / 8.8 / 8.7.
+- Categories: history:9.3,culture:9.3,nature:9.2.
+- Overall: 88.25/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/mesa-verde](../../../countries/US/sights/mesa-verde.yaml) | 8.9 / 9.2 / 9.3 / 8.8 / 8.7 | uniqueness: -0.3 vs peer; significance: -0.3 vs peer |
+| [US/aztec-ruins-national-monument](../../../countries/US/sights/aztec-ruins-national-monument.yaml) | 8.3 / 8.8 / 9.1 / 8.5 / 8.1 | depth: +0.6 vs peer; impact: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-wupatki — Wupatki National Monument — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/wupatki.yaml)
+- Action: new
+- Scope: Pueblo archaeological sites in one unit, excludes Sunset Crater.
+- Representative coordinates: 35.526, -111.374; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 9.0 / 8.7 / 8.8.
+- Categories: history:9.4,culture:9.3,architecture:9.2.
+- Overall: 88.20/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/chaco-culture](../../../countries/US/sights/chaco-culture.yaml) | 8.5 / 9.0 / 9.3 / 8.3 / 8.6 | experience: +0.4 vs peer; significance: -0.3 vs peer |
+| [US/aztec-ruins-national-monument](../../../countries/US/sights/aztec-ruins-national-monument.yaml) | 8.3 / 8.8 / 9.1 / 8.5 / 8.1 | depth: +0.7 vs peer; impact: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-sunset-crater — Sunset Crater Volcano National Monument — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/sunset-crater.yaml)
+- Action: new
+- Scope: Volcanic cinder cone and lava landscape; no summit access presumed.
+- Representative coordinates: 35.364, -111.502; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.6 / 8.7 / 8.6.
+- Categories: nature:9.3,photography:9.2,adventure:9.1.
+- Overall: 86.95/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/lassen-volcanic-national-park](../../../countries/US/sights/lassen-volcanic-national-park.yaml) | 8.8 / 8.9 / 8.8 / 8.8 / 8.8 | significance: -0.2 vs peer; depth: -0.2 vs peer |
+| [US/petrified-forest](../../../countries/US/sights/petrified-forest.yaml) | 8.4 / 8.9 / 9.0 / 8.4 / 8.3 | significance: -0.4 vs peer; impact: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-montezuma-castle — Montezuma Castle National Monument — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/montezuma-castle.yaml)
+- Action: new
+- Scope: Cliff dwelling and separate Montezuma Well unit grouped.
+- Representative coordinates: 34.612, -111.834; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.9 / 9.0 / 8.5 / 8.3.
+- Categories: history:9.3,culture:9.3,architecture:9.2.
+- Overall: 87.10/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/mesa-verde](../../../countries/US/sights/mesa-verde.yaml) | 8.9 / 9.2 / 9.3 / 8.8 / 8.7 | depth: -0.4 vs peer; impact: -0.3 vs peer |
+| [US/taos-pueblo](../../../countries/US/sights/taos-pueblo.yaml) | 8.5 / 9.2 / 9.3 / 8.2 / 7.8 | depth: +0.5 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-tuzigoot — Tuzigoot National Monument — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/tuzigoot.yaml)
+- Action: new
+- Scope: Hilltop Sinagua pueblo and interpretation.
+- Representative coordinates: 34.772, -112.028; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.7 / 8.9 / 8.6 / 8.5.
+- Categories: history:9.3,culture:9.2,architecture:9.1.
+- Overall: 86.15/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/aztec-ruins-national-monument](../../../countries/US/sights/aztec-ruins-national-monument.yaml) | 8.3 / 8.8 / 9.1 / 8.5 / 8.1 | depth: +0.4 vs peer; significance: -0.2 vs peer |
+| [US/chaco-culture](../../../countries/US/sights/chaco-culture.yaml) | 8.5 / 9.0 / 9.3 / 8.3 / 8.6 | significance: -0.4 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-el-malpais — El Malpais National Monument — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/el-malpais.yaml)
+- Action: new
+- Scope: Lava flows, sandstone bluffs and permitted caves.
+- Representative coordinates: 34.93, -108; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.7 / 8.8 / 8.8.
+- Categories: nature:9.3,adventure:9.2,photography:9.3.
+- Overall: 88.05/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/lassen-volcanic-national-park](../../../countries/US/sights/lassen-volcanic-national-park.yaml) | 8.8 / 8.9 / 8.8 / 8.8 / 8.8 | significance: -0.1 vs peer; impact: +0.0 vs peer |
+| [US/chiricahua](../../../countries/US/sights/chiricahua.yaml) | 9.1 / 9.2 / 8.7 / 9.0 / 8.8 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-el-morro — El Morro National Monument — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/el-morro.yaml)
+- Action: new
+- Scope: Inscription Rock, ancestral pueblo and historic inscriptions grouped.
+- Representative coordinates: 35.039, -108.35; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 9.0 / 9.0 / 8.7 / 8.6.
+- Categories: history:9.4,culture:9.3,photography:9.1.
+- Overall: 87.95/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/aztec-ruins-national-monument](../../../countries/US/sights/aztec-ruins-national-monument.yaml) | 8.3 / 8.8 / 9.1 / 8.5 / 8.1 | depth: +0.5 vs peer; impact: +0.3 vs peer |
+| [US/chaco-culture](../../../countries/US/sights/chaco-culture.yaml) | 8.5 / 9.0 / 9.3 / 8.3 / 8.6 | experience: +0.4 vs peer; significance: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-gila-cliff-dwellings — Gila Cliff Dwellings National Monument — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/gila-cliff-dwellings.yaml)
+- Action: new
+- Scope: Mogollon dwellings and adjacent trail, no separate forest umbrella.
+- Representative coordinates: 33.227, -108.275; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 9.0 / 8.7 / 8.6.
+- Categories: history:9.3,culture:9.3,nature:9.2.
+- Overall: 88.00/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/mesa-verde](../../../countries/US/sights/mesa-verde.yaml) | 8.9 / 9.2 / 9.3 / 8.8 / 8.7 | uniqueness: -0.3 vs peer; significance: -0.3 vs peer |
+| [US/chaco-culture](../../../countries/US/sights/chaco-culture.yaml) | 8.5 / 9.0 / 9.3 / 8.3 / 8.6 | experience: +0.4 vs peer; significance: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-casa-grande-ruins — Casa Grande Ruins National Monument — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/casa-grande-ruins.yaml)
+- Action: new
+- Scope: Great House archaeological site and interpretation.
+- Representative coordinates: 32.995, -111.535; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.8 / 9.0 / 8.4 / 8.5.
+- Categories: history:9.3,culture:9.3,architecture:9.2.
+- Overall: 86.60/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/aztec-ruins-national-monument](../../../countries/US/sights/aztec-ruins-national-monument.yaml) | 8.3 / 8.8 / 9.1 / 8.5 / 8.1 | depth: +0.4 vs peer; impact: +0.2 vs peer |
+| [US/taos-pueblo](../../../countries/US/sights/taos-pueblo.yaml) | 8.5 / 9.2 / 9.3 / 8.2 / 7.8 | depth: +0.7 vs peer; uniqueness: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-cedar-breaks — Cedar Breaks National Monument — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/cedar-breaks.yaml)
+- Action: new
+- Scope: Separate high-elevation amphitheater and trails.
+- Representative coordinates: 37.635, -112.85; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 9.0 / 8.9 / 8.4 / 8.8 / 8.6.
+- Categories: nature:9.3,photography:9.4,adventure:9.1.
+- Overall: 87.85/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/bryce-canyon-national-park](../../../countries/US/sights/bryce-canyon-national-park.yaml) | 9.4 / 9.3 / 8.4 / 9.1 / 8.5 | impact: -0.4 vs peer; uniqueness: -0.4 vs peer |
+| [US/chiricahua](../../../countries/US/sights/chiricahua.yaml) | 9.1 / 9.2 / 8.7 / 9.0 / 8.8 | uniqueness: -0.3 vs peer; significance: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-colorado-monument — Colorado National Monument — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/colorado-monument.yaml)
+- Action: new
+- Scope: Independent sandstone canyon and scenic Rim Rock Drive.
+- Representative coordinates: 39.04, -108.69; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.5 / 8.9 / 8.8.
+- Categories: nature:9.3,photography:9.4,adventure:9.2.
+- Overall: 87.85/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/canyonlands-national-park](../../../countries/US/sights/canyonlands-national-park.yaml) | 9.2 / 9.0 / 8.5 / 8.8 / 9.1 | impact: -0.3 vs peer; depth: -0.3 vs peer |
+| [US/black-canyon-of-the-gunnison-national-park](../../../countries/US/sights/black-canyon-of-the-gunnison-national-park.yaml) | 9.0 / 8.8 / 8.5 / 8.7 / 8.4 | depth: +0.4 vs peer; experience: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-florissant-fossil-beds — Florissant Fossil Beds National Monument — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/florissant-fossil-beds.yaml)
+- Action: new
+- Scope: Fossil flora and petrified redwood stumps with interpretation.
+- Representative coordinates: 38.912, -105.28; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.9 / 9.0 / 8.6 / 8.8.
+- Categories: nature:9.3,history:9.2,family:9.1.
+- Overall: 87.45/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/petrified-forest](../../../countries/US/sights/petrified-forest.yaml) | 8.4 / 8.9 / 9.0 / 8.4 / 8.3 | depth: +0.5 vs peer; experience: +0.2 vs peer |
+| [US/badlands-national-park](../../../countries/US/sights/badlands-national-park.yaml) | 8.6 / 8.6 / 8.6 / 8.6 / 8.5 | significance: +0.4 vs peer; uniqueness: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-john-day-fossil-beds — John Day Fossil Beds National Monument — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/john-day-fossil-beds.yaml)
+- Action: new
+- Scope: Painted Hills, Sheep Rock and Clarno units grouped; fossil visitor center included.
+- Representative coordinates: 44.56, -119.64; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 9.0 / 8.9 / 8.8 / 8.9.
+- Categories: nature:9.4,photography:9.4,history:9.2.
+- Overall: 89.10/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/petrified-forest](../../../countries/US/sights/petrified-forest.yaml) | 8.4 / 8.9 / 9.0 / 8.4 / 8.3 | depth: +0.6 vs peer; impact: +0.5 vs peer |
+| [US/badlands-national-park](../../../countries/US/sights/badlands-national-park.yaml) | 8.6 / 8.6 / 8.6 / 8.6 / 8.5 | uniqueness: +0.4 vs peer; depth: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-oregon-caves — Oregon Caves National Monument and Preserve — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/oregon-caves.yaml)
+- Action: new
+- Scope: Marble cave and surrounding forest, separate from other cave parks.
+- Representative coordinates: 42.098, -123.407; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 8.6 / 8.8 / 8.7.
+- Categories: nature:9.3,adventure:9.2,photography:9.1.
+- Overall: 87.45/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/carlsbad-caverns](../../../countries/US/sights/carlsbad-caverns.yaml) | 9.0 / 9.1 / 9.0 / 8.9 / 8.6 | significance: -0.4 vs peer; impact: -0.3 vs peer |
+| [US/mammoth-cave](../../../countries/US/sights/mammoth-cave.yaml) | 8.5 / 9.3 / 9.3 / 8.7 / 8.8 | significance: -0.7 vs peer; uniqueness: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-lava-beds — Lava Beds National Monument — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/lava-beds.yaml)
+- Action: new
+- Scope: Lava tube network and Modoc War heritage grouped; permitted cave access only.
+- Representative coordinates: 41.714, -121.508; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.8 / 8.9 / 8.9.
+- Categories: nature:9.3,adventure:9.3,history:9.2.
+- Overall: 88.50/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/lassen-volcanic-national-park](../../../countries/US/sights/lassen-volcanic-national-park.yaml) | 8.8 / 8.9 / 8.8 / 8.8 / 8.8 | experience: +0.1 vs peer; depth: +0.1 vs peer |
+| [US/jewel-cave-national-monument](../../../countries/US/sights/jewel-cave-national-monument.yaml) | 8.5 / 8.9 / 8.8 / 8.4 / 8.3 | depth: +0.6 vs peer; experience: +0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+## sight-us-mount-st-helens — Mount St. Helens National Volcanic Monument — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/mount-st-helens.yaml)
+- Action: new
+- Scope: Volcanic landscape and ecological recovery from 1980 eruption, summit and interpretation combined; current access restrictions separate.
+- Representative coordinates: 46.191, -122.194; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.4 / 9.4 / 9.0 / 9.2.
+- Categories: nature:9.4,adventure:9.3,photography:9.4,history:9.3.
+- Overall: 92.90/100.
+- Decision: Source-informed provisional assessment from official indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.usgs.gov/geology-and-ecology-of-national-parks/mount-st-helens-national-volcanic-monument ; https://research.fs.usda.gov/pnw/projects/mountsthelens.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/hawaii-volcanoes-national-park](../../../countries/US/sights/hawaii-volcanoes-national-park.yaml) | 9.2 / 9.5 / 9.5 / 8.9 / 9.0 | depth: +0.2 vs peer; impact: +0.1 vs peer |
+| [US/lassen-volcanic-national-park](../../../countries/US/sights/lassen-volcanic-national-park.yaml) | 8.8 / 8.9 / 8.8 / 8.8 / 8.8 | significance: +0.6 vs peer; impact: +0.5 vs peer |
+| [US/craters-of-the-moon](../../../countries/US/sights/craters-of-the-moon.yaml) | 9.0 / 9.3 / 9.1 / 9.0 / 9.1 | impact: +0.3 vs peer; significance: +0.3 vs peer |
+| [US/mount-rainier-national-park](../../../countries/US/sights/mount-rainier-national-park.yaml) | 9.2 / 8.7 / 8.8 / 9.1 / 9.1 | uniqueness: +0.7 vs peer; significance: +0.6 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-misty-fiords — Misty Fiords National Monument Boat and Flightseeing Excursions — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/misty-fiords.yaml)
+- Action: new
+- Scope: Distinct fjords, tall rock walls and rainforest; boat and air excursions grouped.
+- Representative coordinates: 55.58, -130.91; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.2 / 8.9 / 9.2 / 9.1.
+- Categories: nature:9.4,photography:9.4,adventure:9.3.
+- Overall: 91.60/100.
+- Decision: Source-informed provisional assessment from official indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.travelalaska.com/destinations/parks-public-lands/misty-fjords-national-monument ; https://www.nps.gov/anch/planyourvisit/ketchikan-alaska.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/glacier-bay](../../../countries/US/sights/glacier-bay.yaml) | 9.5 / 9.4 / 9.4 / 8.9 / 9.1 | significance: -0.5 vs peer; experience: +0.3 vs peer |
+| [US/kenai-fjords-national-park](../../../countries/US/sights/kenai-fjords-national-park.yaml) | 9.2 / 8.9 / 8.8 / 9.0 / 8.9 | uniqueness: +0.3 vs peer; experience: +0.2 vs peer |
+| [US/olympic-national-park](../../../countries/US/sights/olympic-national-park.yaml) | 9.2 / 9.1 / 9.1 / 9.0 / 9.3 | significance: -0.2 vs peer; experience: +0.2 vs peer |
+| [US/lake-clark](../../../countries/US/sights/lake-clark.yaml) | 9.2 / 9.2 / 9.1 / 8.9 / 9.2 | experience: +0.3 vs peer; significance: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-aniakchak — Aniakchak National Monument and Preserve Caldera Wilderness — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/aniakchak.yaml)
+- Action: new
+- Scope: Rare caldera-to-ocean river journey and wilderness hiking; no access penalty or guaranteed wildlife. Uniqueness 9.5 proposed for combination of caldera and river breach, international calibration pending.
+- Representative coordinates: 56.91, -158.21; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.5 / 9.1 / 8.8 / 9.1.
+- Categories: nature:9.4,adventure:9.4,photography:9.3.
+- Overall: 91.85/100.
+- Decision: Source-informed provisional assessment from official indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.nps.gov/places/aniakchak-caldera.htm ; https://www.nps.gov/ania/planyourvisit/rafting.htm ; https://www.nps.gov/thingstodo/hike-in-aniakchak-s-wilderness.htm.
+- 9.5+ field requires further international peer calibration.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/gates-of-the-arctic](../../../countries/US/sights/gates-of-the-arctic.yaml) | 9.3 / 9.4 / 9.2 / 8.6 / 9.1 | experience: +0.2 vs peer; impact: -0.1 vs peer |
+| [US/lake-clark](../../../countries/US/sights/lake-clark.yaml) | 9.2 / 9.2 / 9.1 / 8.9 / 9.2 | uniqueness: +0.3 vs peer; experience: -0.1 vs peer |
+| [US/katmai-national-park](../../../countries/US/sights/katmai-national-park.yaml) | 9.1 / 9.3 / 9.1 / 8.9 / 9.1 | uniqueness: +0.2 vs peer; impact: +0.1 vs peer |
+| [US/craters-of-the-moon](../../../countries/US/sights/craters-of-the-moon.yaml) | 9.0 / 9.3 / 9.1 / 9.0 / 9.1 | impact: +0.2 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-admiralty-pack-creek — Admiralty Island National Monument and Pack Creek Bear Viewing — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/admiralty-pack-creek.yaml)
+- Action: new
+- Scope: Pack Creek regulated bear viewing and island rainforest grouped; no guaranteed wildlife.
+- Representative coordinates: 57.9, -134.25; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.2 / 9.0 / 9.1 / 9.0.
+- Categories: wildlife:9.4,nature:9.4,photography:9.3.
+- Overall: 90.95/100.
+- Decision: Source-informed provisional assessment from official indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.recreation.gov/permits/233328 ; https://www.adfg.alaska.gov/index.cfm?adfg=stanprice.main.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/katmai-national-park](../../../countries/US/sights/katmai-national-park.yaml) | 9.1 / 9.3 / 9.1 / 8.9 / 9.1 | experience: +0.2 vs peer; uniqueness: -0.1 vs peer |
+| [US/lake-clark](../../../countries/US/sights/lake-clark.yaml) | 9.2 / 9.2 / 9.1 / 8.9 / 9.2 | experience: +0.2 vs peer; depth: -0.2 vs peer |
+| [US/denali-national-park](../../../countries/US/sights/denali-national-park.yaml) | 9.3 / 9.2 / 9.2 / 8.7 / 9.0 | experience: +0.4 vs peer; impact: -0.2 vs peer |
+| [US/olympic-national-park](../../../countries/US/sights/olympic-national-park.yaml) | 9.2 / 9.1 / 9.1 / 9.0 / 9.3 | depth: -0.3 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-apostle-islands — Apostle Islands National Lakeshore Sea Caves and Lighthouse Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/apostle-islands.yaml)
+- Action: new
+- Scope: 21 islands, sea caves, lighthouses and associated water activities combined; winter ice caves not guaranteed.
+- Representative coordinates: 46.96, -90.67; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.0 / 9.2 / 9.1.
+- Categories: nature:9.4,photography:9.4,adventure:9.4,history:9.2.
+- Overall: 91.45/100.
+- Decision: Source-informed provisional assessment from official indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.nps.gov/places/apostle-islands-national-lakeshore.htm ; https://www.nps.gov/apis/learn/nature/caves.htm?unit=m ; https://www.nps.gov/apis/planyourvisit/diving.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/isle-royale](../../../countries/US/sights/isle-royale.yaml) | 9.0 / 9.1 / 9.0 / 9.0 / 9.2 | uniqueness: +0.2 vs peer; experience: +0.2 vs peer |
+| [US/channel-islands-national-park](../../../countries/US/sights/channel-islands-national-park.yaml) | 8.7 / 8.8 / 8.8 / 8.8 / 8.8 | uniqueness: +0.5 vs peer; impact: +0.4 vs peer |
+| [US/voyageurs](../../../countries/US/sights/voyageurs.yaml) | 8.8 / 8.9 / 8.6 / 9.0 / 9.0 | uniqueness: +0.4 vs peer; significance: +0.4 vs peer |
+| [US/kenai-fjords-national-park](../../../countries/US/sights/kenai-fjords-national-park.yaml) | 9.2 / 8.9 / 8.8 / 9.0 / 8.9 | uniqueness: +0.4 vs peer; significance: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-pictured-rocks — Pictured Rocks National Lakeshore Cliffs and Kayaking — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/pictured-rocks.yaml)
+- Action: new
+- Scope: Multicolored sandstone cliffs, dunes, waterfalls and kayaking grouped; guide or experienced sea kayaker only.
+- Representative coordinates: 46.56, -86.45; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.1 / 8.7 / 9.2 / 9.0.
+- Categories: photography:9.4,nature:9.4,adventure:9.3.
+- Overall: 90.55/100.
+- Decision: Source-informed provisional assessment from official indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.nps.gov/places/pictured-rocks-national-lakeshore.htm ; https://www.nps.gov/piro/planyourvisit/kayaking-boating.htm ; https://www.nps.gov/piro/planyourvisit/index.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/isle-royale](../../../countries/US/sights/isle-royale.yaml) | 9.0 / 9.1 / 9.0 / 9.0 / 9.2 | significance: -0.3 vs peer; impact: +0.2 vs peer |
+| [US/new-river-gorge](../../../countries/US/sights/new-river-gorge.yaml) | 8.9 / 8.8 / 8.7 / 9.2 / 9.0 | impact: +0.3 vs peer; uniqueness: +0.3 vs peer |
+| [US/big-sur-coast](../../../countries/US/sights/big-sur-coast.yaml) | 9.1 / 8.7 / 8.3 / 9.0 / 8.9 | uniqueness: +0.4 vs peer; significance: +0.4 vs peer |
+| [US/channel-islands-national-park](../../../countries/US/sights/channel-islands-national-park.yaml) | 8.7 / 8.8 / 8.8 / 8.8 / 8.8 | impact: +0.5 vs peer; experience: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-sleeping-bear-dunes — Sleeping Bear Dunes National Lakeshore — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/sleeping-bear-dunes.yaml)
+- Action: new
+- Scope: Perched dunes and island/shore trails, no separate overlooks.
+- Representative coordinates: 44.91, -86.04; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.0 / 8.6 / 9.1 / 8.9.
+- Categories: nature:9.3,photography:9.4,adventure:9.2.
+- Overall: 89.55/100.
+- Decision: Source-informed provisional assessment from official indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.nps.gov/slbe/faqs.htm?fullweb=1.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/great-sand-dunes-national-park](../../../countries/US/sights/great-sand-dunes-national-park.yaml) | 8.9 / 8.8 / 8.5 / 8.8 / 8.7 | experience: +0.3 vs peer; impact: +0.2 vs peer |
+| [US/indiana-dunes](../../../countries/US/sights/indiana-dunes.yaml) | 8.5 / 8.6 / 8.5 / 8.8 / 8.6 | impact: +0.6 vs peer; uniqueness: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-muir-woods — Muir Woods National Monument Old-Growth Redwood Forest — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/muir-woods.yaml)
+- Action: new
+- Scope: Separate Marin County old-growth stand, geographically distinct from Redwood National and State Parks; no new Golden Gate recreation umbrella.
+- Representative coordinates: 37.897, -122.58; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 8.9 / 8.9 / 9.0 / 8.7.
+- Categories: nature:9.4,photography:9.3,relaxation:9.2.
+- Overall: 89.25/100.
+- Decision: Source-informed provisional assessment from official indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.nps.gov/muwo/learn/index.htm ; https://www.nps.gov/muwo/learn/nature/old-growth.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/redwood-parks](../../../countries/US/sights/redwood-parks.yaml) | 9.1 / 9.3 / 9.2 / 9.0 / 8.9 | uniqueness: -0.4 vs peer; significance: -0.3 vs peer |
+| [US/sequoia-national-park](../../../countries/US/sights/sequoia-national-park.yaml) | 9.1 / 9.4 / 9.2 / 9.0 / 9.0 | uniqueness: -0.5 vs peer; significance: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-point-reyes — Point Reyes National Seashore — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/point-reyes.yaml)
+- Action: new
+- Scope: Coastal scenery, wildlife, lighthouse and tectonic landscape grouped.
+- Representative coordinates: 38.04, -122.96; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 8.8 / 8.9 / 9.0 / 9.0.
+- Categories: nature:9.3,wildlife:9.3,photography:9.3.
+- Overall: 89.30/100.
+- Decision: Source-informed provisional assessment from official indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.nps.gov/pore/planyourvisit/wildlife_viewing.htm ; https://www.nps.gov/articles/nps-geodiversity-atlas-point-reyes-national-seashore-california.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/big-sur-coast](../../../countries/US/sights/big-sur-coast.yaml) | 9.1 / 8.7 / 8.3 / 9.0 / 8.9 | significance: +0.6 vs peer; impact: -0.1 vs peer |
+| [US/channel-islands-national-park](../../../countries/US/sights/channel-islands-national-park.yaml) | 8.7 / 8.8 / 8.8 / 8.8 / 8.8 | impact: +0.3 vs peer; experience: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-organ-pipe-cactus — Organ Pipe Cactus National Monument — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/organ-pipe-cactus.yaml)
+- Action: new
+- Scope: Sonoran Desert biosphere reserve and natural stands of organ pipe cactus, no border travel presumed.
+- Representative coordinates: 31.95, -112.8; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 9.1 / 9.0 / 8.6 / 8.8.
+- Categories: nature:9.4,photography:9.3,adventure:9.1.
+- Overall: 88.85/100.
+- Decision: Source-informed provisional assessment from official indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.nps.gov/orpi/learn/nature/organ-pipe-cactus.htm ; https://www.nps.gov/orpi/learn/news/presskit.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/saguaro-national-park](../../../countries/US/sights/saguaro-national-park.yaml) | 8.5 / 8.8 / 8.6 / 8.7 / 8.4 | significance: +0.4 vs peer; depth: +0.4 vs peer |
+| [US/joshua-tree-national-park](../../../countries/US/sights/joshua-tree-national-park.yaml) | 8.7 / 8.8 / 8.5 / 8.8 / 8.6 | significance: +0.5 vs peer; uniqueness: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-carrizo-plain — Carrizo Plain National Monument — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/carrizo-plain.yaml)
+- Action: new
+- Scope: Grassland, San Andreas Fault and seasonal wildflowers; superbloom not guaranteed.
+- Representative coordinates: 35.15, -119.83; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 9.0 / 8.8 / 8.7 / 8.7.
+- Categories: nature:9.3,photography:9.4,wildlife:9.2.
+- Overall: 88.25/100.
+- Decision: Source-informed provisional assessment from official indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.blm.gov/programs/national-conservation-lands/california/carrizo-plain-national-monument.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/petrified-forest](../../../countries/US/sights/petrified-forest.yaml) | 8.4 / 8.9 / 9.0 / 8.4 / 8.3 | impact: +0.4 vs peer; depth: +0.4 vs peer |
+| [US/death-valley-national-park](../../../countries/US/sights/death-valley-national-park.yaml) | 9.1 / 9.3 / 9.0 / 8.8 / 9.1 | depth: -0.4 vs peer; impact: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-mojave-preserve — Mojave National Preserve Kelso Dunes and Volcanic Landscapes — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/mojave-preserve.yaml)
+- Action: new
+- Scope: Preserve dunes, Joshua tree stands and lava tube grouped; separate from national parks.
+- Representative coordinates: 35.05, -115.47; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.7 / 8.8 / 8.9.
+- Categories: nature:9.3,photography:9.3,adventure:9.3.
+- Overall: 88.45/100.
+- Decision: Source-informed provisional assessment from official indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.nps.gov/moja/index.htm ; https://www.nps.gov/moja/planyourvisit/kelso-dunes.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/joshua-tree-national-park](../../../countries/US/sights/joshua-tree-national-park.yaml) | 8.7 / 8.8 / 8.5 / 8.8 / 8.6 | depth: +0.3 vs peer; impact: +0.2 vs peer |
+| [US/death-valley-national-park](../../../countries/US/sights/death-valley-national-park.yaml) | 9.1 / 9.3 / 9.0 / 8.8 / 9.1 | uniqueness: -0.4 vs peer; significance: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-devils-postpile — Devils Postpile National Monument and Rainbow Falls — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/devils-postpile.yaml)
+- Action: new
+- Scope: Columnar basalt and waterfall grouped, distinct from Yosemite.
+- Representative coordinates: 37.63, -119.09; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.5 / 8.7 / 8.4.
+- Categories: nature:9.3,photography:9.3,adventure:9.1.
+- Overall: 87.10/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/yosemite-national-park](../../../countries/US/sights/yosemite-national-park.yaml) | 9.8 / 9.5 / 9.3 / 9.4 / 9.6 | depth: -1.2 vs peer; impact: -1.0 vs peer |
+| [US/craters-of-the-moon](../../../countries/US/sights/craters-of-the-moon.yaml) | 9.0 / 9.3 / 9.1 / 9.0 / 9.1 | depth: -0.7 vs peer; significance: -0.6 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-cape-cod — Cape Cod National Seashore — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/cape-cod.yaml)
+- Action: new
+- Scope: Atlantic shore, dunes, historic lighthouses and coastal trails grouped.
+- Representative coordinates: 41.91, -70.03; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.6 / 8.8 / 9.0 / 8.8.
+- Categories: beaches:9.3,nature:9.2,history:9.1.
+- Overall: 87.80/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/acadia-national-park](../../../countries/US/sights/acadia-national-park.yaml) | 8.6 / 8.1 / 8.1 / 8.9 / 8.7 | significance: +0.7 vs peer; uniqueness: +0.5 vs peer |
+| [US/big-sur-coast](../../../countries/US/sights/big-sur-coast.yaml) | 9.1 / 8.7 / 8.3 / 9.0 / 8.9 | significance: +0.5 vs peer; impact: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-cape-hatteras — Cape Hatteras National Seashore and Lighthouse Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/cape-hatteras.yaml)
+- Action: new
+- Scope: Outer Banks beaches and historic lights grouped; lighthouse climbing conditional.
+- Representative coordinates: 35.25, -75.53; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.9 / 8.9 / 8.8.
+- Categories: beaches:9.3,history:9.3,photography:9.2.
+- Overall: 88.10/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/dry-tortugas-national-park](../../../countries/US/sights/dry-tortugas-national-park.yaml) | 8.8 / 9.0 / 8.8 / 8.8 / 8.2 | depth: +0.6 vs peer; uniqueness: -0.3 vs peer |
+| [US/acadia-national-park](../../../countries/US/sights/acadia-national-park.yaml) | 8.6 / 8.1 / 8.1 / 8.9 / 8.7 | significance: +0.8 vs peer; uniqueness: +0.6 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-assateague — Assateague Island National Seashore and Wild Horse Observation — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/assateague.yaml)
+- Action: new
+- Scope: Barrier island and feral horse observation, no touching or sighting guarantee; adjacent refuge not duplicated.
+- Representative coordinates: 38.13, -75.19; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.6 / 8.9 / 8.7.
+- Categories: wildlife:9.3,beaches:9.3,nature:9.3.
+- Overall: 88.20/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/channel-islands-national-park](../../../countries/US/sights/channel-islands-national-park.yaml) | 8.7 / 8.8 / 8.8 / 8.8 / 8.8 | impact: +0.2 vs peer; significance: -0.2 vs peer |
+| [US/okefenokee](../../../countries/US/sights/okefenokee.yaml) | 8.7 / 8.9 / 9.2 / 8.5 / 8.7 | significance: -0.6 vs peer; experience: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-cumberland-island — Cumberland Island National Seashore and Dungeness Ruins — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/cumberland-island.yaml)
+- Action: new
+- Scope: Maritime forest, beach, feral horses and estate ruins grouped.
+- Representative coordinates: 30.78, -81.46; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.8 / 8.8 / 8.8.
+- Categories: nature:9.3,history:9.2,wildlife:9.3.
+- Overall: 88.25/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/okefenokee](../../../countries/US/sights/okefenokee.yaml) | 8.7 / 8.9 / 9.2 / 8.5 / 8.7 | significance: -0.4 vs peer; experience: +0.3 vs peer |
+| [US/savannah-historic-district](../../../countries/US/sights/savannah-historic-district.yaml) | 8.9 / 9.0 / 9.1 / 9.0 / 9.0 | significance: -0.3 vs peer; experience: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-cape-lookout — Cape Lookout National Seashore — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/cape-lookout.yaml)
+- Action: new
+- Scope: Separate Outer Banks barrier islands, lighthouse and Shackleford Banks.
+- Representative coordinates: 34.61, -76.53; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.5 / 8.8 / 8.6.
+- Categories: beaches:9.3,nature:9.2,photography:9.2.
+- Overall: 86.65/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/dry-tortugas-national-park](../../../countries/US/sights/dry-tortugas-national-park.yaml) | 8.8 / 9.0 / 8.8 / 8.8 / 8.2 | depth: +0.4 vs peer; uniqueness: -0.3 vs peer |
+| [US/channel-islands-national-park](../../../countries/US/sights/channel-islands-national-park.yaml) | 8.7 / 8.8 / 8.8 / 8.8 / 8.8 | significance: -0.3 vs peer; depth: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-fire-island — Fire Island National Seashore — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/fire-island.yaml)
+- Action: new
+- Scope: Barrier island beaches, Sunken Forest and lighthouse grouped.
+- Representative coordinates: 40.65, -73.11; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.6 / 8.5 / 8.8 / 8.6.
+- Categories: beaches:9.2,nature:9.1,relaxation:9.2.
+- Overall: 85.80/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/acadia-national-park](../../../countries/US/sights/acadia-national-park.yaml) | 8.6 / 8.1 / 8.1 / 8.9 / 8.7 | uniqueness: +0.5 vs peer; significance: +0.4 vs peer |
+| [US/indiana-dunes](../../../countries/US/sights/indiana-dunes.yaml) | 8.5 / 8.6 / 8.5 / 8.8 / 8.6 | impact: +0.0 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-gulf-islands — Gulf Islands National Seashore — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/gulf-islands.yaml)
+- Action: new
+- Scope: Florida and Mississippi units combined; forts included.
+- Representative coordinates: 30.33, -87.3; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.6 / 8.6 / 8.9 / 8.7.
+- Categories: beaches:9.3,nature:9.2,history:9.1.
+- Overall: 86.85/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/dry-tortugas-national-park](../../../countries/US/sights/dry-tortugas-national-park.yaml) | 8.8 / 9.0 / 8.8 / 8.8 / 8.2 | depth: +0.5 vs peer; uniqueness: -0.4 vs peer |
+| [US/biscayne](../../../countries/US/sights/biscayne.yaml) | 8.9 / 9.0 / 9.0 / 8.9 / 8.9 | uniqueness: -0.4 vs peer; significance: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-padre-island — Padre Island National Seashore — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/padre-island.yaml)
+- Action: new
+- Scope: Long undeveloped barrier island, birdlife and turtle conservation; no guaranteed hatchling release.
+- Representative coordinates: 27.03, -97.37; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.7 / 8.8 / 8.7.
+- Categories: nature:9.3,beaches:9.3,wildlife:9.3.
+- Overall: 87.40/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/biscayne](../../../countries/US/sights/biscayne.yaml) | 8.9 / 9.0 / 9.0 / 8.9 / 8.9 | significance: -0.3 vs peer; impact: -0.2 vs peer |
+| [US/everglades-national-park](../../../countries/US/sights/everglades-national-park.yaml) | 8.7 / 9.2 / 9.4 / 8.8 / 9.0 | significance: -0.7 vs peer; uniqueness: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-canaveral-seashore — Canaveral National Seashore — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/canaveral-seashore.yaml)
+- Action: new
+- Scope: Distinct protected coastline and lagoon habitat; no space center experience credit.
+- Representative coordinates: 28.81, -80.8; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.6 / 8.5 / 8.8 / 8.7.
+- Categories: beaches:9.3,nature:9.2,wildlife:9.2.
+- Overall: 86.20/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/biscayne](../../../countries/US/sights/biscayne.yaml) | 8.9 / 9.0 / 9.0 / 8.9 / 8.9 | significance: -0.5 vs peer; uniqueness: -0.4 vs peer |
+| [US/kennedy-space-center-visitor-complex](../../../countries/US/sights/kennedy-space-center-visitor-complex.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.3 | significance: -0.9 vs peer; uniqueness: -0.8 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+## sight-us-havasupai-falls — Havasupai Canyon Waterfalls and Tribal Lands Trek — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/havasupai-falls.yaml)
+- Action: new
+- Scope: Havasu, Mooney and other permitted Havasupai waterfalls combined. NPS confirms reservation outside national park jurisdiction. Tribal permits and overnight arrangements required; no assumed day access.
+- Representative coordinates: 36.255, -112.698; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.4 / 9.4 / 9.1 / 9.3 / 9.1.
+- Categories: nature:9.4,photography:9.4,adventure:9.4,culture:9.2.
+- Overall: 92.95/100.
+- Decision: Source-informed provisional assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.nps.gov/grca/planyourvisit/havasupai.htm?_bhlid=88d57e9d20fc17d6b729af6bb9f9ed93a9077e81 ; https://www.visitarizona.com/like-a-local/a-guide-to-visiting-havasu-falls-the-right-way ; https://havasupaireservations.com/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/grand-canyon-national-park](../../../countries/US/sights/grand-canyon-national-park.yaml) | 10.0 / 9.7 / 9.6 / 9.4 / 9.6 | impact: -0.6 vs peer; significance: -0.5 vs peer |
+| [US/upper-antelope-canyon](../../../countries/US/sights/upper-antelope-canyon.yaml) | 9.4 / 9.3 / 8.3 / 8.6 / 7.8 | depth: +1.3 vs peer; significance: +0.8 vs peer |
+| [US/vermilion-cliffs](../../../countries/US/sights/vermilion-cliffs.yaml) | 9.5 / 9.4 / 8.8 / 9.2 / 9.1 | significance: +0.3 vs peer; impact: -0.1 vs peer |
+| [US/canyon-de-chelly](../../../countries/US/sights/canyon-de-chelly.yaml) | 9.2 / 9.3 / 9.4 / 9.0 / 9.1 | significance: -0.3 vs peer; experience: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-boundary-waters — Boundary Waters Canoe Area Wilderness — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/boundary-waters.yaml)
+- Action: new
+- Scope: Over one million acres of lake-land wilderness with interconnected canoe routes. Separate from adjacent Voyageurs and Canadian Quetico; representative inland wilderness point.
+- Representative coordinates: 48.0, -91.3; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.1 / 9.1 / 9.2.
+- Categories: nature:9.4,adventure:9.4,wildlife:9.3.
+- Overall: 91.60/100.
+- Decision: Source-informed provisional assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.recreation.gov/permits/233396 ; https://www.conservationfund.org/our-impact/projects/preserving-minnesotas-treasured-boundary-waters/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/voyageurs](../../../countries/US/sights/voyageurs.yaml) | 8.8 / 8.9 / 8.6 / 9.0 / 9.0 | significance: +0.5 vs peer; uniqueness: +0.4 vs peer |
+| [US/isle-royale](../../../countries/US/sights/isle-royale.yaml) | 9.0 / 9.1 / 9.0 / 9.0 / 9.2 | uniqueness: +0.2 vs peer; impact: +0.1 vs peer |
+| [US/gates-of-the-arctic](../../../countries/US/sights/gates-of-the-arctic.yaml) | 9.3 / 9.4 / 9.2 / 8.6 / 9.1 | experience: +0.5 vs peer; impact: -0.2 vs peer |
+| [US/apostle-islands](../../../countries/US/sights/apostle-islands.yaml) | 9.1 / 9.3 / 9.0 / 9.2 / 9.1 | significance: +0.1 vs peer; experience: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-sedona-red-rock — Sedona Red Rock Country and Oak Creek Canyon Trails — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/sedona-red-rock.yaml)
+- Action: new
+- Scope: Red rock formations and nearby trail network grouped, including Cathedral Rock, Bell Rock and Oak Creek Canyon; no individual viewpoints or hikes added.
+- Representative coordinates: 34.86, -111.79; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.1 / 8.6 / 9.3 / 9.2.
+- Categories: nature:9.4,photography:9.4,adventure:9.4.
+- Overall: 91.00/100.
+- Decision: Source-informed provisional assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://visitsedona.com/outdoor-adventure/ ; https://visitsedona.com/trip-planning/red-rock-pass-program-qa/ ; https://visitsedona.com/outdoor-adventure/our-box-o-maps/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/monument-valley-navajo-tribal-park](../../../countries/US/sights/monument-valley-navajo-tribal-park.yaml) | 9.4 / 9.3 / 8.8 / 9.0 / 8.6 | depth: +0.6 vs peer; experience: +0.3 vs peer |
+| [US/canyonlands-national-park](../../../countries/US/sights/canyonlands-national-park.yaml) | 9.2 / 9.0 / 8.5 / 8.8 / 9.1 | experience: +0.5 vs peer; impact: +0.1 vs peer |
+| [US/chiricahua](../../../countries/US/sights/chiricahua.yaml) | 9.1 / 9.2 / 8.7 / 9.0 / 8.8 | depth: +0.4 vs peer; experience: +0.3 vs peer |
+| [US/arches-national-park](../../../countries/US/sights/arches-national-park.yaml) | 9.3 / 9.4 / 8.7 / 9.0 / 8.8 | depth: +0.4 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-columbia-gorge — Columbia River Gorge National Scenic Area Waterfall Corridor — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/columbia-gorge.yaml)
+- Action: new
+- Scope: Multnomah Falls and associated gorge waterfall trails and historic highway grouped; score covers the scenic corridor rather than separate individual falls; coordinate representative Multnomah Falls.
+- Representative coordinates: 45.576, -122.116; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.0 / 8.8 / 9.2 / 9.1.
+- Categories: nature:9.4,photography:9.4,adventure:9.3.
+- Overall: 90.60/100.
+- Decision: Source-informed provisional assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.nps.gov/places/multnomah-falls-and-lodge.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/pictured-rocks](../../../countries/US/sights/pictured-rocks.yaml) | 9.2 / 9.1 / 8.7 / 9.2 / 9.0 | uniqueness: -0.1 vs peer; significance: +0.1 vs peer |
+| [US/big-sur-coast](../../../countries/US/sights/big-sur-coast.yaml) | 9.1 / 8.7 / 8.3 / 9.0 / 8.9 | significance: +0.5 vs peer; uniqueness: +0.3 vs peer |
+| [US/new-river-gorge](../../../countries/US/sights/new-river-gorge.yaml) | 8.9 / 8.8 / 8.7 / 9.2 / 9.0 | impact: +0.3 vs peer; uniqueness: +0.2 vs peer |
+| [US/mount-st-helens](../../../countries/US/sights/mount-st-helens.yaml) | 9.3 / 9.4 / 9.4 / 9.0 / 9.2 | significance: -0.6 vs peer; uniqueness: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-sawtooth-nra — Sawtooth National Recreation Area Alpine Lakes and Mountains — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/sawtooth-nra.yaml)
+- Action: new
+- Scope: Sawtooth NRA mountain and alpine lake hiking grouped, not entire national forest; approximate representative Stanley-area coordinate.
+- Representative coordinates: 44.1, -114.94; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.1 / 8.8 / 9.2 / 9.2.
+- Categories: nature:9.4,adventure:9.4,photography:9.4.
+- Overall: 90.65/100.
+- Decision: Source-informed provisional assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://visitidaho.org/things-to-do/natural-attractions/sawtooth-national-recreation-area/ ; https://visitsouthidaho.com/adventure/sawtooth-national-forest/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/grand-teton-national-park](../../../countries/US/sights/grand-teton-national-park.yaml) | 9.3 / 8.8 / 8.7 / 9.1 / 9.1 | uniqueness: +0.3 vs peer; impact: -0.2 vs peer |
+| [US/rocky-mountain-national-park](../../../countries/US/sights/rocky-mountain-national-park.yaml) | 9.1 / 8.5 / 8.7 / 9.1 / 9.0 | uniqueness: +0.6 vs peer; depth: +0.2 vs peer |
+| [US/north-cascades-national-park](../../../countries/US/sights/north-cascades-national-park.yaml) | 9.0 / 8.6 / 8.8 / 8.3 / 9.0 | experience: +0.9 vs peer; uniqueness: +0.5 vs peer |
+| [US/glacier-national-park](../../../countries/US/sights/glacier-national-park.yaml) | 9.4 / 9.2 / 9.0 / 9.1 / 9.3 | impact: -0.3 vs peer; significance: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-lake-tahoe — Lake Tahoe Shoreline, Emerald Bay and Basin Trails — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/lake-tahoe.yaml)
+- Action: new
+- Scope: Lake, shoreline and scenic trails grouped, including Emerald Bay; clarity degradation acknowledged, no pristine condition assumed. Separate ski resorts not assessed.
+- Representative coordinates: 39.096, -120.032; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.0 / 8.7 / 9.2 / 9.2.
+- Categories: nature:9.4,photography:9.4,relaxation:9.3,adventure:9.3.
+- Overall: 90.50/100.
+- Decision: Source-informed provisional assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.epa.gov/lake-tahoe/about ; https://www.parks.ca.gov/?page_id=506 ; https://visitlaketahoe.com/parks/emerald-bay/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/crater-lake-national-park](../../../countries/US/sights/crater-lake-national-park.yaml) | 9.1 / 8.9 / 8.7 / 8.8 / 8.4 | depth: +0.8 vs peer; experience: +0.4 vs peer |
+| [US/grand-teton-national-park](../../../countries/US/sights/grand-teton-national-park.yaml) | 9.3 / 8.8 / 8.7 / 9.1 / 9.1 | uniqueness: +0.2 vs peer; impact: -0.1 vs peer |
+| [US/sleeping-bear-dunes](../../../countries/US/sights/sleeping-bear-dunes.yaml) | 9.1 / 9.0 / 8.6 / 9.1 / 8.9 | depth: +0.3 vs peer; impact: +0.1 vs peer |
+| [US/big-sur-coast](../../../countries/US/sights/big-sur-coast.yaml) | 9.1 / 8.7 / 8.3 / 9.0 / 8.9 | significance: +0.4 vs peer; uniqueness: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-enchantments — Alpine Lakes Wilderness Enchantments Trek Washington — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/enchantments.yaml)
+- Action: new
+- Scope: Distinct Alpine Lakes Wilderness hiking network and Enchantments route; outside North Cascades and Rainier national parks. Permit requirements separate from intrinsic merit.
+- Representative coordinates: 47.49, -120.82; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.1 / 8.7 / 9.1 / 9.1.
+- Categories: adventure:9.4,nature:9.4,photography:9.4.
+- Overall: 90.50/100.
+- Decision: Source-informed provisional assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://research.fs.usda.gov/treesearch/80472.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/north-cascades-national-park](../../../countries/US/sights/north-cascades-national-park.yaml) | 9.0 / 8.6 / 8.8 / 8.3 / 9.0 | experience: +0.8 vs peer; uniqueness: +0.5 vs peer |
+| [US/mount-rainier-national-park](../../../countries/US/sights/mount-rainier-national-park.yaml) | 9.2 / 8.7 / 8.8 / 9.1 / 9.1 | uniqueness: +0.4 vs peer; significance: -0.1 vs peer |
+| [US/glacier-national-park](../../../countries/US/sights/glacier-national-park.yaml) | 9.4 / 9.2 / 9.0 / 9.1 / 9.3 | significance: -0.3 vs peer; impact: -0.2 vs peer |
+| [US/grand-teton-national-park](../../../countries/US/sights/grand-teton-national-park.yaml) | 9.3 / 8.8 / 8.7 / 9.1 / 9.1 | uniqueness: +0.3 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-maroon-bells — Maroon Bells Scenic Area and Snowmass Wilderness Trails — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/maroon-bells.yaml)
+- Action: new
+- Scope: Maroon Lake and adjacent mountain scenery and hiking; no separate Four Pass Loop or summit score.
+- Representative coordinates: 39.07, -106.99; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 8.9 / 8.5 / 9.0 / 8.8.
+- Categories: nature:9.4,photography:9.4,adventure:9.3.
+- Overall: 89.15/100.
+- Decision: Source-informed provisional assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://aspenchamber.org/things-to-do/maroon-bells/maroon-bells-tips/ ; https://www.aspensnowmass.com/visit/activities/summer/maroon-bells.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/grand-teton-national-park](../../../countries/US/sights/grand-teton-national-park.yaml) | 9.3 / 8.8 / 8.7 / 9.1 / 9.1 | depth: -0.3 vs peer; significance: -0.2 vs peer |
+| [US/rocky-mountain-national-park](../../../countries/US/sights/rocky-mountain-national-park.yaml) | 9.1 / 8.5 / 8.7 / 9.1 / 9.0 | uniqueness: +0.4 vs peer; significance: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-mendenhall-glacier — Mendenhall Glacier Recreation Area and Nugget Falls — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/mendenhall-glacier.yaml)
+- Action: new
+- Scope: Glacier viewing and nearby visitor trails, Nugget Falls included. Glacier retreat and dynamic hazards acknowledged; no ice-cave or direct glacier access assumed.
+- Representative coordinates: 58.42, -134.55; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.7 / 8.9 / 8.8.
+- Categories: nature:9.3,photography:9.3,adventure:9.2.
+- Overall: 88.25/100.
+- Decision: Source-informed provisional assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.adfg.alaska.gov/index.cfm?adfg=southeastviewing.juneaumendenhallglacier ; https://www.alaska.org/detail/mendenhall-glacier ; https://www.mendenhallglacier.org/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/glacier-bay](../../../countries/US/sights/glacier-bay.yaml) | 9.5 / 9.4 / 9.4 / 8.9 / 9.1 | significance: -0.7 vs peer; impact: -0.6 vs peer |
+| [US/kenai-fjords-national-park](../../../countries/US/sights/kenai-fjords-national-park.yaml) | 9.2 / 8.9 / 8.8 / 9.0 / 8.9 | impact: -0.3 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-flaming-gorge — Flaming Gorge National Recreation Area — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/flaming-gorge.yaml)
+- Action: new
+- Scope: Reservoir, red-rock canyon and permitted water recreation; separate from Dinosaur National Monument downstream.
+- Representative coordinates: 40.91, -109.54; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.5 / 8.9 / 8.7.
+- Categories: nature:9.3,photography:9.3,adventure:9.2.
+- Overall: 87.45/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/glen-canyon-national-recreation-area](../../../countries/US/sights/glen-canyon-national-recreation-area.yaml) | 8.9 / 8.7 / 8.3 / 8.8 / 9.0 | depth: -0.3 vs peer; significance: +0.2 vs peer |
+| [US/canyonlands-national-park](../../../countries/US/sights/canyonlands-national-park.yaml) | 9.2 / 9.0 / 8.5 / 8.8 / 9.1 | impact: -0.4 vs peer; depth: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-bighorn-canyon — Bighorn Canyon National Recreation Area — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/bighorn-canyon.yaml)
+- Action: new
+- Scope: Canyon overlooks and boating grouped.
+- Representative coordinates: 45.31, -108.22; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.5 / 8.8 / 8.7.
+- Categories: nature:9.3,photography:9.3,adventure:9.2.
+- Overall: 87.30/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/glen-canyon-national-recreation-area](../../../countries/US/sights/glen-canyon-national-recreation-area.yaml) | 8.9 / 8.7 / 8.3 / 8.8 / 9.0 | depth: -0.3 vs peer; significance: +0.2 vs peer |
+| [US/black-canyon-of-the-gunnison-national-park](../../../countries/US/sights/black-canyon-of-the-gunnison-national-park.yaml) | 9.0 / 8.8 / 8.5 / 8.7 / 8.4 | depth: +0.3 vs peer; impact: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-buffalo-national-river — Buffalo National River Ozark Paddling and Bluff Trails — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/buffalo-national-river.yaml)
+- Action: new
+- Scope: Free-flowing river, limestone bluffs and paddling grouped.
+- Representative coordinates: 36.05, -92.84; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.8 / 9.0 / 8.9.
+- Categories: nature:9.3,adventure:9.3,photography:9.2.
+- Overall: 88.65/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/new-river-gorge](../../../countries/US/sights/new-river-gorge.yaml) | 8.9 / 8.8 / 8.7 / 9.2 / 9.0 | experience: -0.2 vs peer; impact: -0.1 vs peer |
+| [US/congaree](../../../countries/US/sights/congaree.yaml) | 8.6 / 8.9 / 8.8 / 8.7 / 8.7 | experience: +0.3 vs peer; impact: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-red-river-gorge — Red River Gorge Geological Area Kentucky — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/red-river-gorge.yaml)
+- Action: new
+- Scope: Sandstone arches and climbing trails, adjacent Natural Bridge State Resort Park grouped for scope.
+- Representative coordinates: 37.82, -83.65; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.5 / 9.0 / 8.9.
+- Categories: adventure:9.4,nature:9.3,photography:9.3.
+- Overall: 88.35/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/natural-bridges](../../../countries/US/sights/natural-bridges.yaml) | 9.0 / 9.1 / 8.8 / 9.0 / 8.8 | significance: -0.3 vs peer; uniqueness: -0.2 vs peer |
+| [US/new-river-gorge](../../../countries/US/sights/new-river-gorge.yaml) | 8.9 / 8.8 / 8.7 / 9.2 / 9.0 | significance: -0.2 vs peer; experience: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-newberry-volcanic — Newberry National Volcanic Monument — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/newberry-volcanic.yaml)
+- Action: new
+- Scope: Caldera lakes, obsidian flows, lava tube and associated volcanic features grouped.
+- Representative coordinates: 43.72, -121.25; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 9.0 / 8.8 / 8.9 / 8.9.
+- Categories: nature:9.3,adventure:9.3,photography:9.3.
+- Overall: 89.05/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/craters-of-the-moon](../../../countries/US/sights/craters-of-the-moon.yaml) | 9.0 / 9.3 / 9.1 / 9.0 / 9.1 | uniqueness: -0.3 vs peer; significance: -0.3 vs peer |
+| [US/lassen-volcanic-national-park](../../../countries/US/sights/lassen-volcanic-national-park.yaml) | 8.8 / 8.9 / 8.8 / 8.8 / 8.8 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-mount-hood — Mount Hood Alpine Landscape and Timberline Trails — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/mount-hood.yaml)
+- Action: new
+- Scope: Distinct mountain and associated trail scenery; ski resorts excluded.
+- Representative coordinates: 45.37, -121.7; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 9.0 / 8.8 / 8.6 / 9.0 / 8.9.
+- Categories: nature:9.4,photography:9.3,adventure:9.3.
+- Overall: 88.60/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/mount-rainier-national-park](../../../countries/US/sights/mount-rainier-national-park.yaml) | 9.2 / 8.7 / 8.8 / 9.1 / 9.1 | impact: -0.2 vs peer; significance: -0.2 vs peer |
+| [US/north-cascades-national-park](../../../countries/US/sights/north-cascades-national-park.yaml) | 9.0 / 8.6 / 8.8 / 8.3 / 9.0 | experience: +0.7 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-mount-shasta — Mount Shasta Summit and Alpine Trails — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/mount-shasta.yaml)
+- Action: new
+- Scope: Separate volcanic massif and wilderness hikes; summit requires appropriate competence.
+- Representative coordinates: 41.41, -122.19; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 9.0 / 8.9 / 8.5 / 8.8 / 8.8.
+- Categories: nature:9.3,adventure:9.3,photography:9.3.
+- Overall: 88.25/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/mount-rainier-national-park](../../../countries/US/sights/mount-rainier-national-park.yaml) | 9.2 / 8.7 / 8.8 / 9.1 / 9.1 | significance: -0.3 vs peer; experience: -0.3 vs peer |
+| [US/lassen-volcanic-national-park](../../../countries/US/sights/lassen-volcanic-national-park.yaml) | 8.8 / 8.9 / 8.8 / 8.8 / 8.8 | significance: -0.3 vs peer; impact: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-hells-canyon — Hells Canyon National Recreation Area Snake River Gorge — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/hells-canyon.yaml)
+- Action: new
+- Scope: River canyon and permitted boat trips, hikes and viewpoints combined.
+- Representative coordinates: 45.32, -116.64; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 9.0 / 8.9 / 8.7 / 8.9 / 9.0.
+- Categories: nature:9.3,adventure:9.4,photography:9.3.
+- Overall: 89.00/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/grand-canyon-national-park](../../../countries/US/sights/grand-canyon-national-park.yaml) | 10.0 / 9.7 / 9.6 / 9.4 / 9.6 | impact: -1.0 vs peer; significance: -0.9 vs peer |
+| [US/new-river-gorge](../../../countries/US/sights/new-river-gorge.yaml) | 8.9 / 8.8 / 8.7 / 9.2 / 9.0 | experience: -0.3 vs peer; impact: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-custer-state-park — Custer State Park Needles Highway and Bison Wildlife Loop — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/custer-state-park.yaml)
+- Action: new
+- Scope: State park landscapes, bison and scenic roads grouped; excludes Wind Cave and Mount Rushmore.
+- Representative coordinates: 43.76, -103.38; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.7 / 9.0 / 9.0.
+- Categories: wildlife:9.4,nature:9.3,photography:9.3.
+- Overall: 88.60/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/badlands-national-park](../../../countries/US/sights/badlands-national-park.yaml) | 8.6 / 8.6 / 8.6 / 8.6 / 8.5 | depth: +0.5 vs peer; experience: +0.4 vs peer |
+| [US/theodore-roosevelt](../../../countries/US/sights/theodore-roosevelt.yaml) | 8.8 / 8.7 / 8.7 / 8.8 / 8.8 | experience: +0.2 vs peer; depth: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-valley-of-fire — Valley of Fire State Park Sandstone Formations — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/valley-of-fire.yaml)
+- Action: new
+- Scope: Red sandstone, Fire Wave, trails and permitted petroglyph viewing grouped.
+- Representative coordinates: 36.43, -114.51; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 9.1 / 9.0 / 8.5 / 9.0 / 8.7.
+- Categories: nature:9.3,photography:9.4,adventure:9.2.
+- Overall: 89.00/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/vermilion-cliffs](../../../countries/US/sights/vermilion-cliffs.yaml) | 9.5 / 9.4 / 8.8 / 9.2 / 9.1 | impact: -0.4 vs peer; uniqueness: -0.4 vs peer |
+| [US/arches-national-park](../../../countries/US/sights/arches-national-park.yaml) | 9.3 / 9.4 / 8.7 / 9.0 / 8.8 | uniqueness: -0.4 vs peer; impact: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-goblin-valley — Goblin Valley State Park Hoodoo Landscape — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/goblin-valley.yaml)
+- Action: new
+- Scope: Distinct hoodoo landscape and local trails; no neighboring slot canyon credit.
+- Representative coordinates: 38.57, -110.7; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 9.1 / 8.4 / 8.9 / 8.6.
+- Categories: nature:9.3,photography:9.4,adventure:9.2.
+- Overall: 88.20/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/chiricahua](../../../countries/US/sights/chiricahua.yaml) | 9.1 / 9.2 / 8.7 / 9.0 / 8.8 | significance: -0.3 vs peer; impact: -0.2 vs peer |
+| [US/bryce-canyon-national-park](../../../countries/US/sights/bryce-canyon-national-park.yaml) | 9.4 / 9.3 / 8.4 / 9.1 / 8.5 | impact: -0.5 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-palo-duro-canyon — Palo Duro Canyon State Park — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/palo-duro-canyon.yaml)
+- Action: new
+- Scope: Texas canyon landscapes and trails grouped.
+- Representative coordinates: 34.95, -101.66; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.5 / 8.9 / 8.8.
+- Categories: nature:9.3,photography:9.3,adventure:9.2.
+- Overall: 87.30/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/big-bend](../../../countries/US/sights/big-bend.yaml) | 8.8 / 8.7 / 8.8 / 8.8 / 9.0 | significance: -0.3 vs peer; depth: -0.2 vs peer |
+| [US/canyonlands-national-park](../../../countries/US/sights/canyonlands-national-park.yaml) | 9.2 / 9.0 / 8.5 / 8.8 / 9.1 | impact: -0.4 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+## sight-us-mfa-boston — Museum of Fine Arts Boston — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/mfa-boston.yaml)
+- Action: new
+- Scope: Encyclopedic collection of over 500,000 works; not all on display.
+- Representative coordinates: 42.3394, -71.094; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.3 / 9.4 / 9.3 / 9.4.
+- Categories: culture:9.4,history:9.4,architecture:8.9.
+- Overall: 93.30/100.
+- Decision: Source-informed provisional assessment from indexed official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.mfa.org/collections ; https://www.mfa.org/about.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/metropolitan-museum-of-art](../../../countries/US/sights/metropolitan-museum-of-art.yaml) | 9.3 / 9.4 / 9.4 / 9.3 / 9.6 | depth: -0.2 vs peer; uniqueness: -0.1 vs peer |
+| [US/art-institute-of-chicago](../../../countries/US/sights/art-institute-of-chicago.yaml) | 9.3 / 9.3 / 9.4 / 9.3 / 9.4 | impact: +0.0 vs peer; uniqueness: +0.0 vs peer |
+| [US/national-gallery-of-art-washington](../../../countries/US/sights/national-gallery-of-art-washington.yaml) | 9.1 / 9.1 / 9.3 / 9.2 / 9.4 | impact: +0.2 vs peer; uniqueness: +0.2 vs peer |
+| [US/museum-of-modern-art-new-york](../../../countries/US/sights/museum-of-modern-art-new-york.yaml) | 9.3 / 9.4 / 9.4 / 9.3 / 9.4 | uniqueness: -0.1 vs peer; impact: +0.0 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-philadelphia-art-museum — Philadelphia Museum of Art — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/philadelphia-art-museum.yaml)
+- Action: new
+- Scope: Main museum and its public galleries, 240,000+ objects in collection; excludes separately operated Barnes.
+- Representative coordinates: 39.9656, -75.181; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.3 / 9.3 / 9.2 / 9.4.
+- Categories: culture:9.4,history:9.3,architecture:9.2.
+- Overall: 92.65/100.
+- Decision: Source-informed provisional assessment from indexed official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.philamuseum.org/collection ; https://press.philamuseum.org/faqs.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/metropolitan-museum-of-art](../../../countries/US/sights/metropolitan-museum-of-art.yaml) | 9.3 / 9.4 / 9.4 / 9.3 / 9.6 | depth: -0.2 vs peer; impact: -0.1 vs peer |
+| [US/art-institute-of-chicago](../../../countries/US/sights/art-institute-of-chicago.yaml) | 9.3 / 9.3 / 9.4 / 9.3 / 9.4 | impact: -0.1 vs peer; significance: -0.1 vs peer |
+| [US/national-gallery-of-art-washington](../../../countries/US/sights/national-gallery-of-art-washington.yaml) | 9.1 / 9.1 / 9.3 / 9.2 / 9.4 | uniqueness: +0.2 vs peer; impact: +0.1 vs peer |
+| [US/getty-center](../../../countries/US/sights/getty-center.yaml) | 9.1 / 9.1 / 9.0 / 9.2 / 9.1 | significance: +0.3 vs peer; depth: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-barnes-foundation — Barnes Foundation Philadelphia — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/barnes-foundation.yaml)
+- Action: new
+- Scope: Distinctive ensembles and exceptional Renoir and Cézanne holdings; independent museum.
+- Representative coordinates: 39.9606, -75.1726; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.4 / 9.3 / 9.2 / 9.2.
+- Categories: culture:9.4,history:9.2,architecture:9.0.
+- Overall: 92.40/100.
+- Decision: Source-informed provisional assessment from indexed official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://barnesfoundation.org/whats-on/collection.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/metropolitan-museum-of-art](../../../countries/US/sights/metropolitan-museum-of-art.yaml) | 9.3 / 9.4 / 9.4 / 9.3 / 9.6 | depth: -0.4 vs peer; impact: -0.2 vs peer |
+| [US/museum-of-modern-art-new-york](../../../countries/US/sights/museum-of-modern-art-new-york.yaml) | 9.3 / 9.4 / 9.4 / 9.3 / 9.4 | impact: -0.2 vs peer; depth: -0.2 vs peer |
+| [US/art-institute-of-chicago](../../../countries/US/sights/art-institute-of-chicago.yaml) | 9.3 / 9.3 / 9.4 / 9.3 / 9.4 | impact: -0.2 vs peer; depth: -0.2 vs peer |
+| [US/getty-center](../../../countries/US/sights/getty-center.yaml) | 9.1 / 9.1 / 9.0 / 9.2 / 9.1 | uniqueness: +0.3 vs peer; significance: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-henry-ford-museum — Henry Ford Museum of American Innovation and Greenfield Village — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/henry-ford-museum.yaml)
+- Action: new
+- Scope: Combined indoor innovation museum and adjoining open-air historic village; no individual buildings or factory tours added.
+- Representative coordinates: 42.303, -83.234; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.3 / 9.3 / 9.2 / 9.4.
+- Categories: history:9.4,culture:9.3,family:9.4.
+- Overall: 92.65/100.
+- Decision: Source-informed provisional assessment from indexed official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.thehenryford.org/visit/plan-your-visit/maps ; https://www.thehenryford.org/visit/venues/henry-ford-museum-of-american-innovation.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-museum-american-history](../../../countries/US/sights/national-museum-american-history.yaml) | 9.1 / 9.2 / 9.4 / 9.1 / 9.4 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer |
+| [US/udvar-hazy-center](../../../countries/US/sights/udvar-hazy-center.yaml) | 9.3 / 9.4 / 9.4 / 9.2 / 9.4 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [US/kennedy-space-center-visitor-complex](../../../countries/US/sights/kennedy-space-center-visitor-complex.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.3 | uniqueness: -0.1 vs peer; significance: -0.1 vs peer |
+| [US/national-usaf-museum](../../../countries/US/sights/national-usaf-museum.yaml) | 9.1 / 9.3 / 9.3 / 9.1 / 9.4 | impact: +0.1 vs peer; experience: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-colonial-williamsburg — Colonial Williamsburg Historic Area Living History Museum — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/colonial-williamsburg.yaml)
+- Action: new
+- Scope: 301-acre living-history museum; individual historic buildings grouped; excludes Jamestown and Yorktown.
+- Representative coordinates: 37.271, -76.701; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.3 / 9.3 / 9.2 / 9.4.
+- Categories: history:9.4,culture:9.4,architecture:9.3,family:9.3.
+- Overall: 92.65/100.
+- Decision: Source-informed provisional assessment from indexed official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.colonialwilliamsburg.org/discover/historic-area/ ; https://www.colonialwilliamsburg.org/gather/planning-resources/faq/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/boston-freedom-trail](../../../countries/US/sights/boston-freedom-trail.yaml) | 8.8 / 9.0 / 9.3 / 9.1 / 9.2 | impact: +0.4 vs peer; uniqueness: +0.3 vs peer |
+| [US/savannah-historic-district](../../../countries/US/sights/savannah-historic-district.yaml) | 8.9 / 9.0 / 9.1 / 9.0 / 9.0 | depth: +0.4 vs peer; impact: +0.3 vs peer |
+| [US/new-orleans-french-quarter](../../../countries/US/sights/new-orleans-french-quarter.yaml) | 9.0 / 9.1 / 9.2 / 9.1 / 9.0 | depth: +0.4 vs peer; impact: +0.2 vs peer |
+| [US/independence-hall](../../../countries/US/sights/independence-hall.yaml) | 8.1 / 8.8 / 9.4 / 8.4 / 7.8 | depth: +1.6 vs peer; impact: +1.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-holocaust-memorial-museum — United States Holocaust Memorial Museum Washington — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/holocaust-memorial-museum.yaml)
+- Action: new
+- Scope: Historical artifacts and testimony; permanent exhibition construction and temporary exhibition availability treated separately.
+- Representative coordinates: 38.8869, -77.033; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.4 / 9.0 / 9.4.
+- Categories: history:9.4,culture:9.4.
+- Overall: 92.25/100.
+- Decision: Source-informed provisional assessment from indexed official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.ushmm.org/information/press/press-releases/acclaimed-special-exhibition-auschwitz-not-long-ago-not-far-away-coming-to ; https://www.ushmm.org/online-calendar/event/medmexhi11025.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-911-museum](../../../countries/US/sights/national-911-museum.yaml) | 9.0 / 9.3 / 9.4 / 8.9 / 9.2 | depth: +0.2 vs peer; impact: +0.1 vs peer |
+| [US/national-wwii-museum](../../../countries/US/sights/national-wwii-museum.yaml) | 9.1 / 9.2 / 9.3 / 9.2 / 9.4 | experience: -0.2 vs peer; uniqueness: +0.1 vs peer |
+| [US/national-museum-of-african-american-history-and-culture](../../../countries/US/sights/national-museum-of-african-american-history-and-culture.yaml) | 9.0 / 9.2 / 9.4 / 9.1 / 9.2 | depth: +0.2 vs peer; impact: +0.1 vs peer |
+| [US/national-museum-american-history](../../../countries/US/sights/national-museum-american-history.yaml) | 9.1 / 9.2 / 9.4 / 9.1 / 9.4 | uniqueness: +0.1 vs peer; experience: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-detroit-institute-arts — Detroit Institute of Arts — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/detroit-institute-arts.yaml)
+- Action: new
+- Scope: Over 65,000 artworks, including Diego Rivera's Detroit Industry murals; no separate mural entry.
+- Representative coordinates: 42.3594, -83.0645; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.2 / 9.3 / 9.2 / 9.3.
+- Categories: culture:9.4,history:9.3,architecture:9.1.
+- Overall: 92.00/100.
+- Decision: Source-informed provisional assessment from indexed official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://dia.org/collection ; https://dia.org/about.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/art-institute-of-chicago](../../../countries/US/sights/art-institute-of-chicago.yaml) | 9.3 / 9.3 / 9.4 / 9.3 / 9.4 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer |
+| [US/national-gallery-of-art-washington](../../../countries/US/sights/national-gallery-of-art-washington.yaml) | 9.1 / 9.1 / 9.3 / 9.2 / 9.4 | uniqueness: +0.1 vs peer; depth: -0.1 vs peer |
+| [US/metropolitan-museum-of-art](../../../countries/US/sights/metropolitan-museum-of-art.yaml) | 9.3 / 9.4 / 9.4 / 9.3 / 9.6 | depth: -0.3 vs peer; impact: -0.2 vs peer |
+| [US/getty-center](../../../countries/US/sights/getty-center.yaml) | 9.1 / 9.1 / 9.0 / 9.2 / 9.1 | significance: +0.3 vs peer; depth: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-cleveland-art-museum — Cleveland Museum of Art — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/cleveland-art-museum.yaml)
+- Action: new
+- Scope: Broad collections documented through over 64,000 artwork records; no claim all exhibited.
+- Representative coordinates: 41.5089, -81.6117; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.2 / 9.3 / 9.2 / 9.3.
+- Categories: culture:9.4,history:9.3,architecture:9.0.
+- Overall: 92.00/100.
+- Decision: Source-informed provisional assessment from indexed official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.clevelandart.org/open-access-api ; https://www.clevelandart.org/collection-online-guide-and-faqs.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/art-institute-of-chicago](../../../countries/US/sights/art-institute-of-chicago.yaml) | 9.3 / 9.3 / 9.4 / 9.3 / 9.4 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer |
+| [US/national-gallery-of-art-washington](../../../countries/US/sights/national-gallery-of-art-washington.yaml) | 9.1 / 9.1 / 9.3 / 9.2 / 9.4 | uniqueness: +0.1 vs peer; depth: -0.1 vs peer |
+| [US/getty-center](../../../countries/US/sights/getty-center.yaml) | 9.1 / 9.1 / 9.0 / 9.2 / 9.1 | significance: +0.3 vs peer; depth: +0.2 vs peer |
+| [US/guggenheim-museum-new-york](../../../countries/US/sights/guggenheim-museum-new-york.yaml) | 8.9 / 9.1 / 9.2 / 8.8 / 8.5 | depth: +0.8 vs peer; experience: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-national-civil-rights-museum — National Civil Rights Museum Memphis Lorraine Motel — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/national-civil-rights-museum.yaml)
+- Action: new
+- Scope: Historic site and adjacent interpretation buildings combined; respectful educational experience.
+- Representative coordinates: 35.1345, -90.0576; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.4 / 9.0 / 9.3.
+- Categories: history:9.4,culture:9.4.
+- Overall: 92.15/100.
+- Decision: Source-informed provisional assessment from indexed official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://civilrightsmuseum.org/about-us/ ; https://civilrightsmuseum.org/special-offers/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-museum-of-african-american-history-and-culture](../../../countries/US/sights/national-museum-of-african-american-history-and-culture.yaml) | 9.0 / 9.2 / 9.4 / 9.1 / 9.2 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer |
+| [US/birmingham-civil-rights-monument](../../../countries/US/sights/birmingham-civil-rights-monument.yaml) | 8.0 / 8.7 / 9.3 / 8.3 / 8.1 | depth: +1.2 vs peer; impact: +1.1 vs peer |
+| [US/national-911-museum](../../../countries/US/sights/national-911-museum.yaml) | 9.0 / 9.3 / 9.4 / 8.9 / 9.2 | impact: +0.1 vs peer; experience: +0.1 vs peer |
+| [US/national-wwii-museum](../../../countries/US/sights/national-wwii-museum.yaml) | 9.1 / 9.2 / 9.3 / 9.2 / 9.4 | experience: -0.2 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-gettysburg — Gettysburg National Military Park Battlefield and Museum — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/gettysburg.yaml)
+- Action: new
+- Scope: Battlefield, visitor center, museum and cyclorama grouped, no individual memorials.
+- Representative coordinates: 39.81, -77.225; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.1 / 9.4 / 9.0 / 9.3.
+- Categories: history:9.4,culture:9.2,photography:9.0.
+- Overall: 91.65/100.
+- Decision: Source-informed provisional assessment from indexed official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.nps.gov/gett/index.htm ; https://home.nps.gov/gett/planyourvisit/museum-film-cyclorama.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-wwii-museum](../../../countries/US/sights/national-wwii-museum.yaml) | 9.1 / 9.2 / 9.3 / 9.2 / 9.4 | experience: -0.2 vs peer; uniqueness: -0.1 vs peer |
+| [US/boston-freedom-trail](../../../countries/US/sights/boston-freedom-trail.yaml) | 8.8 / 9.0 / 9.3 / 9.1 / 9.2 | impact: +0.3 vs peer; uniqueness: +0.1 vs peer |
+| [US/independence-hall](../../../countries/US/sights/independence-hall.yaml) | 8.1 / 8.8 / 9.4 / 8.4 / 7.8 | depth: +1.5 vs peer; impact: +1.0 vs peer |
+| [US/national-mall-and-memorial-parks](../../../countries/US/sights/national-mall-and-memorial-parks.yaml) | 9.0 / 9.0 / 9.3 / 9.0 / 9.2 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-met-cloisters — The Met Cloisters Medieval Art Museum and Gardens — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/met-cloisters.yaml)
+- Action: new
+- Scope: Separate Fort Tryon campus, medieval collections and incorporated architectural elements; existing Met Fifth Avenue score unchanged.
+- Representative coordinates: 40.8649, -73.9317; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.2 / 9.1 / 9.2.
+- Categories: culture:9.4,architecture:9.4,history:9.3.
+- Overall: 91.50/100.
+- Decision: Source-informed provisional assessment from indexed official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.metmuseum.org/primer/met-cloisters ; https://www.metmuseum.org/departments/medieval-art-and-the-cloisters.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/metropolitan-museum-of-art](../../../countries/US/sights/metropolitan-museum-of-art.yaml) | 9.3 / 9.4 / 9.4 / 9.3 / 9.6 | depth: -0.4 vs peer; impact: -0.3 vs peer |
+| [US/getty-villa](../../../countries/US/sights/getty-villa.yaml) | 8.9 / 9.0 / 9.1 / 9.0 / 8.7 | depth: +0.5 vs peer; uniqueness: +0.3 vs peer |
+| [US/guggenheim-museum-new-york](../../../countries/US/sights/guggenheim-museum-new-york.yaml) | 8.9 / 9.1 / 9.2 / 8.8 / 8.5 | depth: +0.7 vs peer; experience: +0.3 vs peer |
+| [US/fallingwater](../../../countries/US/sights/fallingwater.yaml) | 9.0 / 9.1 / 9.0 / 8.5 / 7.8 | depth: +1.4 vs peer; experience: +0.6 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-musical-instrument-museum — Musical Instrument Museum Phoenix — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/musical-instrument-museum.yaml)
+- Action: new
+- Scope: Worldwide instruments and performance recordings, dedicated interactive exhibits.
+- Representative coordinates: 33.6676, -111.978; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.0 / 9.3 / 9.3.
+- Categories: culture:9.4,family:9.3,history:9.3.
+- Overall: 91.80/100.
+- Decision: Source-informed provisional assessment from indexed official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://mim.org/about-mim/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-museum-american-history](../../../countries/US/sights/national-museum-american-history.yaml) | 9.1 / 9.2 / 9.4 / 9.1 / 9.4 | significance: -0.4 vs peer; experience: +0.2 vs peer |
+| [US/field-museum](../../../countries/US/sights/field-museum.yaml) | 9.2 / 9.2 / 9.3 / 9.2 / 9.4 | significance: -0.3 vs peer; impact: -0.1 vs peer |
+| [US/museum-of-modern-art-new-york](../../../countries/US/sights/museum-of-modern-art-new-york.yaml) | 9.3 / 9.4 / 9.4 / 9.3 / 9.4 | significance: -0.4 vs peer; impact: -0.2 vs peer |
+| [US/kennedy-space-center-visitor-complex](../../../countries/US/sights/kennedy-space-center-visitor-complex.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.3 | significance: -0.4 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-national-american-indian-museum — National Museum of the American Indian Washington DC — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/national-american-indian-museum.yaml)
+- Action: new
+- Scope: Washington campus only, separate from New York location; Native arts, history and treaty interpretation.
+- Representative coordinates: 38.8883, -77.0164; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.1 / 9.4 / 9.1 / 9.2.
+- Categories: culture:9.4,history:9.4,architecture:9.2.
+- Overall: 91.40/100.
+- Decision: Source-informed provisional assessment from indexed official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://americanindian.si.edu/explore/exhibitions/washington ; https://americanindian.si.edu/?lingua=EN.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-museum-of-african-american-history-and-culture](../../../countries/US/sights/national-museum-of-african-american-history-and-culture.yaml) | 9.0 / 9.2 / 9.4 / 9.1 / 9.2 | uniqueness: -0.1 vs peer; impact: +0.0 vs peer |
+| [US/national-museum-american-history](../../../countries/US/sights/national-museum-american-history.yaml) | 9.1 / 9.2 / 9.4 / 9.1 / 9.4 | depth: -0.2 vs peer; impact: -0.1 vs peer |
+| [US/field-museum](../../../countries/US/sights/field-museum.yaml) | 9.2 / 9.2 / 9.3 / 9.2 / 9.4 | impact: -0.2 vs peer; depth: -0.2 vs peer |
+| [US/taos-pueblo](../../../countries/US/sights/taos-pueblo.yaml) | 8.5 / 9.2 / 9.3 / 8.2 / 7.8 | depth: +1.4 vs peer; experience: +0.9 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-american-revolution-museum — Museum of the American Revolution Philadelphia — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/american-revolution-museum.yaml)
+- Action: new
+- Scope: Independent museum collection including Washington's headquarters tent; no duplicate Independence Hall tour.
+- Representative coordinates: 39.9488, -75.1454; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.1 / 9.3 / 9.1 / 9.2.
+- Categories: history:9.4,culture:9.2,family:9.1.
+- Overall: 90.90/100.
+- Decision: Source-informed provisional assessment from indexed official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.amrevmuseum.org/collection/washington-s-war-tent ; https://www.amrevmuseum.org/learn-and-explore.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/independence-hall](../../../countries/US/sights/independence-hall.yaml) | 8.1 / 8.8 / 9.4 / 8.4 / 7.8 | depth: +1.4 vs peer; impact: +0.8 vs peer |
+| [US/boston-freedom-trail](../../../countries/US/sights/boston-freedom-trail.yaml) | 8.8 / 9.0 / 9.3 / 9.1 / 9.2 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer |
+| [US/national-museum-american-history](../../../countries/US/sights/national-museum-american-history.yaml) | 9.1 / 9.2 / 9.4 / 9.1 / 9.4 | impact: -0.2 vs peer; depth: -0.2 vs peer |
+| [US/national-wwii-museum](../../../countries/US/sights/national-wwii-museum.yaml) | 9.1 / 9.2 / 9.3 / 9.2 / 9.4 | impact: -0.2 vs peer; depth: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-whitney-museum — Whitney Museum of American Art New York — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/whitney-museum.yaml)
+- Action: new
+- Scope: Modern and contemporary American art, over 27,000 works in collection; separate from High Line.
+- Representative coordinates: 40.7396, -74.0089; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.1 / 9.1 / 9.0 / 9.3.
+- Categories: culture:9.4,history:9.2,architecture:9.1.
+- Overall: 90.75/100.
+- Decision: Source-informed provisional assessment from indexed official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://whitney.org/Collection/Works.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/museum-of-modern-art-new-york](../../../countries/US/sights/museum-of-modern-art-new-york.yaml) | 9.3 / 9.4 / 9.4 / 9.3 / 9.4 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer |
+| [US/national-portrait-gallery](../../../countries/US/sights/national-portrait-gallery.yaml) | 8.9 / 9.0 / 9.1 / 9.0 / 9.2 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer |
+| [US/metropolitan-museum-of-art](../../../countries/US/sights/metropolitan-museum-of-art.yaml) | 9.3 / 9.4 / 9.4 / 9.3 / 9.6 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer |
+| [US/guggenheim-museum-new-york](../../../countries/US/sights/guggenheim-museum-new-york.yaml) | 8.9 / 9.1 / 9.2 / 8.8 / 8.5 | depth: +0.8 vs peer; experience: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-gardner-museum — Isabella Stewart Gardner Museum Boston — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/gardner-museum.yaml)
+- Action: new
+- Scope: Distinct collection and courtyard palace installation; separate from neighboring MFA.
+- Representative coordinates: 42.3381, -71.099; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 9.2 / 8.9 / 9.0 / 9.0.
+- Categories: culture:9.4,architecture:9.3,history:9.2.
+- Overall: 89.70/100.
+- Decision: Source-informed provisional assessment from indexed official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.gardnermuseum.org/experience/collection.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/getty-villa](../../../countries/US/sights/getty-villa.yaml) | 8.9 / 9.0 / 9.1 / 9.0 / 8.7 | depth: +0.3 vs peer; uniqueness: +0.2 vs peer |
+| [US/guggenheim-museum-new-york](../../../countries/US/sights/guggenheim-museum-new-york.yaml) | 8.9 / 9.1 / 9.2 / 8.8 / 8.5 | depth: +0.5 vs peer; significance: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-jamestown — Historic Jamestowne Archaeological Site and Museum — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/jamestown.yaml)
+- Action: new
+- Scope: Original settlement archaeology and interpretation; separate from reconstructed Jamestown Settlement.
+- Representative coordinates: 37.208, -76.777; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.9 / 9.3 / 8.7 / 8.8.
+- Categories: history:9.4,culture:9.3,architecture:9.0.
+- Overall: 88.50/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/independence-hall](../../../countries/US/sights/independence-hall.yaml) | 8.1 / 8.8 / 9.4 / 8.4 / 7.8 | depth: +1.0 vs peer; impact: +0.5 vs peer |
+| [US/chaco-culture](../../../countries/US/sights/chaco-culture.yaml) | 8.5 / 9.0 / 9.3 / 8.3 / 8.6 | experience: +0.4 vs peer; depth: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-yorktown — Yorktown Battlefield Colonial National Historical Park — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/yorktown.yaml)
+- Action: new
+- Scope: Battlefield and NPS interpretation; no separate monuments.
+- Representative coordinates: 37.229, -76.495; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.8 / 9.2 / 8.7 / 8.8.
+- Categories: history:9.4,culture:9.2.
+- Overall: 88.05/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/independence-hall](../../../countries/US/sights/independence-hall.yaml) | 8.1 / 8.8 / 9.4 / 8.4 / 7.8 | depth: +1.0 vs peer; impact: +0.5 vs peer |
+| [US/boston-freedom-trail](../../../countries/US/sights/boston-freedom-trail.yaml) | 8.8 / 9.0 / 9.3 / 9.1 / 9.2 | experience: -0.4 vs peer; depth: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-valley-forge — Valley Forge National Historical Park — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/valley-forge.yaml)
+- Action: new
+- Scope: Encampment landscape and historic buildings grouped.
+- Representative coordinates: 40.102, -75.443; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.7 / 9.1 / 8.7 / 8.8.
+- Categories: history:9.4,culture:9.2,nature:9.0.
+- Overall: 87.30/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/independence-hall](../../../countries/US/sights/independence-hall.yaml) | 8.1 / 8.8 / 9.4 / 8.4 / 7.8 | depth: +1.0 vs peer; impact: +0.4 vs peer |
+| [US/mount-vernon](../../../countries/US/sights/mount-vernon.yaml) | 8.1 / 8.5 / 9.0 / 8.5 / 8.2 | depth: +0.6 vs peer; impact: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-harpers-ferry — Harpers Ferry National Historical Park — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/harpers-ferry.yaml)
+- Action: new
+- Scope: Historic lower town and associated park trails grouped.
+- Representative coordinates: 39.324, -77.731; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 9.0 / 8.9 / 8.8.
+- Categories: history:9.3,culture:9.3,photography:9.2.
+- Overall: 88.80/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/boston-freedom-trail](../../../countries/US/sights/boston-freedom-trail.yaml) | 8.8 / 9.0 / 9.3 / 9.1 / 9.2 | depth: -0.4 vs peer; significance: -0.3 vs peer |
+| [US/savannah-historic-district](../../../countries/US/sights/savannah-historic-district.yaml) | 8.9 / 9.0 / 9.1 / 9.0 / 9.0 | depth: -0.2 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-fort-sumter — Fort Sumter and Fort Moultrie National Historical Park — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/fort-sumter.yaml)
+- Action: new
+- Scope: Both forts in one NPS unit; no separate Charleston city heritage credit.
+- Representative coordinates: 32.752, -79.874; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.8 / 9.2 / 8.7 / 8.8.
+- Categories: history:9.4,culture:9.2,architecture:9.1.
+- Overall: 88.05/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/dry-tortugas-national-park](../../../countries/US/sights/dry-tortugas-national-park.yaml) | 8.8 / 9.0 / 8.8 / 8.8 / 8.2 | depth: +0.6 vs peer; significance: +0.4 vs peer |
+| [US/independence-hall](../../../countries/US/sights/independence-hall.yaml) | 8.1 / 8.8 / 9.4 / 8.4 / 7.8 | depth: +1.0 vs peer; impact: +0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-motown-museum — Motown Museum Hitsville U.S.A. Detroit — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/motown-museum.yaml)
+- Action: new
+- Scope: Original recording studio and music history interpretation; current expansion/access pending.
+- Representative coordinates: 42.364, -83.089; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 9.0 / 9.1 / 8.8 / 8.6.
+- Categories: culture:9.4,history:9.3.
+- Overall: 88.60/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-museum-american-history](../../../countries/US/sights/national-museum-american-history.yaml) | 9.1 / 9.2 / 9.4 / 9.1 / 9.4 | depth: -0.8 vs peer; impact: -0.4 vs peer |
+| [US/broadway-theatre](../../../countries/US/sights/broadway-theatre.yaml) | 9.2 / 9.2 / 9.2 / 9.3 / 9.0 | impact: -0.5 vs peer; experience: -0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-rock-roll-hall-fame — Rock and Roll Hall of Fame Cleveland — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/rock-roll-hall-fame.yaml)
+- Action: new
+- Scope: Music history and artifacts; no event-specific performance credit.
+- Representative coordinates: 41.5085, -81.6954; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.9 / 8.9 / 8.9.
+- Categories: culture:9.4,history:9.2,family:9.1.
+- Overall: 88.70/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-museum-american-history](../../../countries/US/sights/national-museum-american-history.yaml) | 9.1 / 9.2 / 9.4 / 9.1 / 9.4 | significance: -0.5 vs peer; depth: -0.5 vs peer |
+| [US/broadway-theatre](../../../countries/US/sights/broadway-theatre.yaml) | 9.2 / 9.2 / 9.2 / 9.3 / 9.0 | impact: -0.4 vs peer; experience: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-crystal-bridges — Crystal Bridges Museum of American Art Bentonville — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/crystal-bridges.yaml)
+- Action: new
+- Scope: American art museum, architecture and grounds grouped.
+- Representative coordinates: 36.3825, -94.203; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.8 / 9.0 / 8.9.
+- Categories: culture:9.3,architecture:9.3,nature:9.1.
+- Overall: 88.65/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/getty-center](../../../countries/US/sights/getty-center.yaml) | 9.1 / 9.1 / 9.0 / 9.2 / 9.1 | impact: -0.3 vs peer; uniqueness: -0.2 vs peer |
+| [US/national-gallery-of-art-washington](../../../countries/US/sights/national-gallery-of-art-washington.yaml) | 9.1 / 9.1 / 9.3 / 9.2 / 9.4 | significance: -0.5 vs peer; depth: -0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-arlington-cemetery — Arlington National Cemetery Public Heritage and Memorials — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/arlington-cemetery.yaml)
+- Action: new
+- Scope: Separate cemetery, public heritage and memorials; respect active burial and visitor rules.
+- Representative coordinates: 38.876, -77.072; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.8 / 9.3 / 8.5 / 8.7.
+- Categories: history:9.4,culture:9.2,architecture:9.0.
+- Overall: 88.45/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-mall-and-memorial-parks](../../../countries/US/sights/national-mall-and-memorial-parks.yaml) | 9.0 / 9.0 / 9.3 / 9.0 / 9.2 | experience: -0.5 vs peer; depth: -0.5 vs peer |
+| [US/uss-arizona-memorial](../../../countries/US/sights/uss-arizona-memorial.yaml) | 9.0 / 9.3 / 9.4 / 8.8 / 7.8 | depth: +0.9 vs peer; uniqueness: -0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+## sight-us-griffin-msi — Griffin Museum of Science and Industry Chicago — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/griffin-msi.yaml)
+- Action: new
+- Scope: Large interactive science and industrial history museum; historic submarine and coal mine experiences included.
+- Representative coordinates: 41.7906, -87.5831; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.4 / 9.3 / 9.4 / 9.4.
+- Categories: family:9.4,history:9.3,culture:9.2.
+- Overall: 93.50/100.
+- Decision: Source-informed provisional assessment from indexed official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.griffinmsi.org/exhibits ; https://www.griffinmsi.org/tours.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/udvar-hazy-center](../../../countries/US/sights/udvar-hazy-center.yaml) | 9.3 / 9.4 / 9.4 / 9.2 / 9.4 | experience: +0.2 vs peer; significance: -0.1 vs peer |
+| [US/henry-ford-museum](../../../countries/US/sights/henry-ford-museum.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.4 | experience: +0.2 vs peer; impact: +0.1 vs peer |
+| [US/kennedy-space-center-visitor-complex](../../../countries/US/sights/kennedy-space-center-visitor-complex.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.3 | experience: +0.2 vs peer; impact: +0.1 vs peer |
+| [US/national-usaf-museum](../../../countries/US/sights/national-usaf-museum.yaml) | 9.1 / 9.3 / 9.3 / 9.1 / 9.4 | experience: +0.3 vs peer; impact: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-space-center-houston — Space Center Houston and Johnson Space Center Visitor Tours — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/space-center-houston.yaml)
+- Action: new
+- Scope: Museum and publicly offered NASA tours combined, historic Mission Control and astronaut training facility subject to tour availability.
+- Representative coordinates: 29.5518, -95.0981; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.4 / 9.4 / 9.2 / 9.3.
+- Categories: history:9.4,family:9.4,culture:9.2.
+- Overall: 93.00/100.
+- Decision: Source-informed provisional assessment from indexed official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://spacecenter.org/exhibits-and-experiences/ ; https://spacecenter.org/exhibits-and-experiences/nasa-tram-tour/ ; https://spacecenter.org/exhibits-and-experiences/nasa-tram-tour/historic-mission-control/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/kennedy-space-center-visitor-complex](../../../countries/US/sights/kennedy-space-center-visitor-complex.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.3 | impact: +0.0 vs peer; uniqueness: +0.0 vs peer |
+| [US/udvar-hazy-center](../../../countries/US/sights/udvar-hazy-center.yaml) | 9.3 / 9.4 / 9.4 / 9.2 / 9.4 | impact: -0.1 vs peer; depth: -0.1 vs peer |
+| [US/national-air-and-space-museum-dc](../../../countries/US/sights/national-air-and-space-museum-dc.yaml) | 9.1 / 9.3 / 9.4 / 9.1 / 9.1 | depth: +0.2 vs peer; impact: +0.1 vs peer |
+| [US/national-usaf-museum](../../../countries/US/sights/national-usaf-museum.yaml) | 9.1 / 9.3 / 9.3 / 9.1 / 9.4 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-lacma — Los Angeles County Museum of Art (LACMA) — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/lacma.yaml)
+- Action: new
+- Scope: Encyclopedic collection of 155,000 objects spanning 6,000 years, not all displayed; adjacent La Brea collections separate.
+- Representative coordinates: 34.0639, -118.3592; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.3 / 9.3 / 9.2 / 9.4.
+- Categories: culture:9.4,history:9.3,architecture:9.1.
+- Overall: 92.65/100.
+- Decision: Source-informed provisional assessment from indexed official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.lacma.org/about.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/metropolitan-museum-of-art](../../../countries/US/sights/metropolitan-museum-of-art.yaml) | 9.3 / 9.4 / 9.4 / 9.3 / 9.6 | depth: -0.2 vs peer; impact: -0.1 vs peer |
+| [US/mfa-boston](../../../countries/US/sights/mfa-boston.yaml) | 9.3 / 9.3 / 9.4 / 9.3 / 9.4 | impact: -0.1 vs peer; significance: -0.1 vs peer |
+| [US/getty-center](../../../countries/US/sights/getty-center.yaml) | 9.1 / 9.1 / 9.0 / 9.2 / 9.1 | significance: +0.3 vs peer; depth: +0.3 vs peer |
+| [US/philadelphia-art-museum](../../../countries/US/sights/philadelphia-art-museum.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.4 | impact: +0.0 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-huntington — The Huntington Library Art Museum and Botanical Gardens — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/huntington.yaml)
+- Action: new
+- Scope: Integrated art, library exhibitions and 130 acres of botanical gardens; no individual garden scores, construction treated separately.
+- Representative coordinates: 34.1286, -118.1121; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.3 / 9.2 / 9.3 / 9.4.
+- Categories: culture:9.4,nature:9.4,history:9.3,photography:9.3.
+- Overall: 92.60/100.
+- Decision: Source-informed provisional assessment from indexed official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.huntington.org/collections ; https://www.huntington.org/library ; https://www.huntington.org/botanical-gardens.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/getty-center](../../../countries/US/sights/getty-center.yaml) | 9.1 / 9.1 / 9.0 / 9.2 / 9.1 | depth: +0.3 vs peer; uniqueness: +0.2 vs peer |
+| [US/getty-villa](../../../countries/US/sights/getty-villa.yaml) | 8.9 / 9.0 / 9.1 / 9.0 / 8.7 | depth: +0.7 vs peer; impact: +0.3 vs peer |
+| [US/met-cloisters](../../../countries/US/sights/met-cloisters.yaml) | 9.0 / 9.3 / 9.2 / 9.1 / 9.2 | impact: +0.2 vs peer; experience: +0.2 vs peer |
+| [US/colonial-williamsburg](../../../countries/US/sights/colonial-williamsburg.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.4 | significance: -0.1 vs peer; experience: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-mfah — Museum of Fine Arts Houston — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/mfah.yaml)
+- Action: new
+- Scope: Main museum campus, nearly 80,000 works across cultures and periods; excludes remote satellite house museums.
+- Representative coordinates: 29.7256, -95.3904; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.2 / 9.3 / 9.2 / 9.4.
+- Categories: culture:9.4,history:9.3,architecture:9.1.
+- Overall: 92.10/100.
+- Decision: Source-informed provisional assessment from indexed official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://emuseum.mfah.org/ ; https://www.mfah.org/about/history.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/mfa-boston](../../../countries/US/sights/mfa-boston.yaml) | 9.3 / 9.3 / 9.4 / 9.3 / 9.4 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer |
+| [US/philadelphia-art-museum](../../../countries/US/sights/philadelphia-art-museum.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.4 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [US/cleveland-art-museum](../../../countries/US/sights/cleveland-art-museum.yaml) | 9.1 / 9.2 / 9.3 / 9.2 / 9.3 | depth: +0.1 vs peer; impact: +0.0 vs peer |
+| [US/detroit-institute-arts](../../../countries/US/sights/detroit-institute-arts.yaml) | 9.1 / 9.2 / 9.3 / 9.2 / 9.3 | depth: +0.1 vs peer; impact: +0.0 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-computer-history-museum — Computer History Museum Mountain View — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/computer-history-museum.yaml)
+- Action: new
+- Scope: Computing history exhibition with 19 galleries and 1,100 objects; distinct technology focus.
+- Representative coordinates: 37.4145, -122.0769; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.4 / 9.3 / 9.1 / 9.3.
+- Categories: history:9.4,culture:9.3,family:9.1.
+- Overall: 92.35/100.
+- Decision: Source-informed provisional assessment from indexed official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://computerhistory.org/exhibits/revolution/ ; https://computerhistory.org/exhibits/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/henry-ford-museum](../../../countries/US/sights/henry-ford-museum.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.4 | impact: -0.1 vs peer; uniqueness: +0.1 vs peer |
+| [US/national-museum-american-history](../../../countries/US/sights/national-museum-american-history.yaml) | 9.1 / 9.2 / 9.4 / 9.1 / 9.4 | uniqueness: +0.2 vs peer; significance: -0.1 vs peer |
+| [US/udvar-hazy-center](../../../countries/US/sights/udvar-hazy-center.yaml) | 9.3 / 9.4 / 9.4 / 9.2 / 9.4 | impact: -0.2 vs peer; significance: -0.1 vs peer |
+| [US/kennedy-space-center-visitor-complex](../../../countries/US/sights/kennedy-space-center-visitor-complex.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.3 | impact: -0.1 vs peer; significance: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-california-academy-sciences — California Academy of Sciences San Francisco — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/california-academy-sciences.yaml)
+- Action: new
+- Scope: Independent museum visit within Golden Gate Park: aquarium, living rainforest, planetarium and natural history museum combined.
+- Representative coordinates: 37.7699, -122.4661; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.1 / 9.3 / 9.3.
+- Categories: nature:9.4,wildlife:9.4,family:9.4.
+- Overall: 92.00/100.
+- Decision: Source-informed provisional assessment from indexed official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.calacademy.org/plan-your-visit ; https://www.calacademy.org/exhibits-events.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/smithsonian-national-museum-of-natural-history](../../../countries/US/sights/smithsonian-national-museum-of-natural-history.yaml) | 9.2 / 9.3 / 9.4 / 9.2 / 9.4 | significance: -0.3 vs peer; impact: -0.1 vs peer |
+| [US/field-museum](../../../countries/US/sights/field-museum.yaml) | 9.2 / 9.2 / 9.3 / 9.2 / 9.4 | significance: -0.2 vs peer; impact: -0.1 vs peer |
+| [US/monterey-bay-aquarium](../../../countries/US/sights/monterey-bay-aquarium.yaml) | 9.1 / 9.1 / 8.8 / 9.2 / 9.1 | significance: +0.3 vs peer; uniqueness: +0.2 vs peer |
+| [US/golden-gate-park](../../../countries/US/sights/golden-gate-park.yaml) | 8.7 / 8.6 / 8.7 / 9.0 / 9.2 | uniqueness: +0.7 vs peer; impact: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-minneapolis-institute-art — Minneapolis Institute of Art — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/minneapolis-institute-art.yaml)
+- Action: new
+- Scope: More than 100,000 works from six continents; public galleries rather than entire collection assumed.
+- Representative coordinates: 44.9585, -93.2742; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.3 / 9.1 / 9.4.
+- Categories: culture:9.4,history:9.3,architecture:9.0.
+- Overall: 91.65/100.
+- Decision: Source-informed provisional assessment from indexed official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://new.artsmia.org/art-artists.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/cleveland-art-museum](../../../countries/US/sights/cleveland-art-museum.yaml) | 9.1 / 9.2 / 9.3 / 9.2 / 9.3 | impact: -0.1 vs peer; experience: -0.1 vs peer |
+| [US/detroit-institute-arts](../../../countries/US/sights/detroit-institute-arts.yaml) | 9.1 / 9.2 / 9.3 / 9.2 / 9.3 | impact: -0.1 vs peer; experience: -0.1 vs peer |
+| [US/mfa-boston](../../../countries/US/sights/mfa-boston.yaml) | 9.3 / 9.3 / 9.4 / 9.3 / 9.4 | impact: -0.3 vs peer; experience: -0.2 vs peer |
+| [US/national-gallery-of-art-washington](../../../countries/US/sights/national-gallery-of-art-washington.yaml) | 9.1 / 9.1 / 9.3 / 9.2 / 9.4 | impact: -0.1 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-sfmoma — San Francisco Museum of Modern Art — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/sfmoma.yaml)
+- Action: new
+- Scope: More than 33,000 modern and contemporary works; changing exhibitions not scored as permanent attractions.
+- Representative coordinates: 37.7858, -122.4011; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.2 / 9.2 / 9.2 / 9.3.
+- Categories: culture:9.4,history:9.2,architecture:9.1.
+- Overall: 91.80/100.
+- Decision: Source-informed provisional assessment from indexed official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.sfmoma.org/read/clean-air-art-they-just-go-together/ ; https://www.sfmoma.org/exhibitions/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/museum-of-modern-art-new-york](../../../countries/US/sights/museum-of-modern-art-new-york.yaml) | 9.3 / 9.4 / 9.4 / 9.3 / 9.4 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+| [US/whitney-museum](../../../countries/US/sights/whitney-museum.yaml) | 9.0 / 9.1 / 9.1 / 9.0 / 9.3 | experience: +0.2 vs peer; impact: +0.1 vs peer |
+| [US/guggenheim-museum-new-york](../../../countries/US/sights/guggenheim-museum-new-york.yaml) | 8.9 / 9.1 / 9.2 / 8.8 / 8.5 | depth: +0.8 vs peer; experience: +0.4 vs peer |
+| [US/getty-center](../../../countries/US/sights/getty-center.yaml) | 9.1 / 9.1 / 9.0 / 9.2 / 9.1 | significance: +0.2 vs peer; depth: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-intrepid-museum — Intrepid Museum New York Aircraft and Spaceflight Collections — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/intrepid-museum.yaml)
+- Action: new
+- Scope: Carrier, aircraft collections and space shuttle Enterprise included as one museum visit.
+- Representative coordinates: 40.7645, -74.0008; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.2 / 9.2 / 9.1.
+- Categories: history:9.4,family:9.3,culture:9.1.
+- Overall: 91.85/100.
+- Decision: Source-informed provisional assessment from indexed official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://intrepidmuseum.org/exhibitions/permanent-exhibitions/aircraft-carrier-intrepid ; https://intrepidmuseum.org/plan-your-visit/visitor-information.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/uss-midway-museum](../../../countries/US/sights/uss-midway-museum.yaml) | 8.9 / 9.1 / 9.0 / 9.2 / 9.1 | impact: +0.2 vs peer; uniqueness: +0.2 vs peer |
+| [US/udvar-hazy-center](../../../countries/US/sights/udvar-hazy-center.yaml) | 9.3 / 9.4 / 9.4 / 9.2 / 9.4 | depth: -0.3 vs peer; impact: -0.2 vs peer |
+| [US/national-usaf-museum](../../../countries/US/sights/national-usaf-museum.yaml) | 9.1 / 9.3 / 9.3 / 9.1 / 9.4 | depth: -0.3 vs peer; significance: -0.1 vs peer |
+| [US/national-air-and-space-museum-dc](../../../countries/US/sights/national-air-and-space-museum-dc.yaml) | 9.1 / 9.3 / 9.4 / 9.1 / 9.1 | significance: -0.2 vs peer; experience: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-nelson-atkins — Nelson-Atkins Museum of Art Kansas City — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/nelson-atkins.yaml)
+- Action: new
+- Scope: Over 40,000 works spanning 5,000 years, buildings and sculpture grounds grouped.
+- Representative coordinates: 39.045, -94.5802; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.1 / 9.2 / 9.2 / 9.3.
+- Categories: culture:9.4,history:9.3,architecture:9.2.
+- Overall: 91.25/100.
+- Decision: Source-informed provisional assessment from indexed official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.nelson-atkins.org/art/ ; https://nelson-atkins.org/about/history-of-the-nelson-atkins/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/cleveland-art-museum](../../../countries/US/sights/cleveland-art-museum.yaml) | 9.1 / 9.2 / 9.3 / 9.2 / 9.3 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [US/detroit-institute-arts](../../../countries/US/sights/detroit-institute-arts.yaml) | 9.1 / 9.2 / 9.3 / 9.2 / 9.3 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [US/crystal-bridges](../../../countries/US/sights/crystal-bridges.yaml) | 8.8 / 8.9 / 8.8 / 9.0 / 8.9 | significance: +0.4 vs peer; depth: +0.4 vs peer |
+| [US/getty-center](../../../countries/US/sights/getty-center.yaml) | 9.1 / 9.1 / 9.0 / 9.2 / 9.1 | significance: +0.2 vs peer; depth: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-exploratorium — Exploratorium San Francisco Pier 15 — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/exploratorium.yaml)
+- Action: new
+- Scope: Hundreds of hands-on perception and science exhibits; interactive learning distinct from waterfront sightseeing.
+- Representative coordinates: 37.8014, -122.3977; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.3 / 8.9 / 9.4 / 9.3.
+- Categories: family:9.4,culture:9.2,history:9.1.
+- Overall: 91.45/100.
+- Decision: Source-informed provisional assessment from indexed official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://buriedhistory.exploratorium.edu/about ; https://annex.exploratorium.edu/xref/exhibits/exhibit_index.html.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/kennedy-space-center-visitor-complex](../../../countries/US/sights/kennedy-space-center-visitor-complex.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.3 | significance: -0.5 vs peer; impact: -0.2 vs peer |
+| [US/griffith-observatory](../../../countries/US/sights/griffith-observatory.yaml) | 8.9 / 8.9 / 8.7 / 9.1 / 8.8 | depth: +0.5 vs peer; uniqueness: +0.4 vs peer |
+| [US/henry-ford-museum](../../../countries/US/sights/henry-ford-museum.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.4 | significance: -0.4 vs peer; impact: -0.2 vs peer |
+| [US/musical-instrument-museum](../../../countries/US/sights/musical-instrument-museum.yaml) | 9.1 / 9.3 / 9.0 / 9.3 / 9.3 | impact: -0.1 vs peer; significance: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-national-archives — National Archives Museum Washington DC Rotunda and Exhibitions — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/national-archives.yaml)
+- Action: new
+- Scope: Original US founding documents and public museum galleries; not restricted archival holdings or Library of Congress.
+- Representative coordinates: 38.8928, -77.023; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.4 / 9.4 / 8.7 / 8.9.
+- Categories: history:9.4,culture:9.4,architecture:9.2.
+- Overall: 91.25/100.
+- Decision: Source-informed provisional assessment from indexed official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://visit.archives.gov/whats-on/founding-documents ; https://visit.archives.gov/visit/tips-guidelines.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/library-of-congress](../../../countries/US/sights/library-of-congress.yaml) | 9.0 / 9.2 / 9.3 / 8.9 / 9.0 | uniqueness: +0.2 vs peer; experience: -0.2 vs peer |
+| [US/independence-hall](../../../countries/US/sights/independence-hall.yaml) | 8.1 / 8.8 / 9.4 / 8.4 / 7.8 | depth: +1.1 vs peer; impact: +0.9 vs peer |
+| [US/national-museum-american-history](../../../countries/US/sights/national-museum-american-history.yaml) | 9.1 / 9.2 / 9.4 / 9.1 / 9.4 | depth: -0.5 vs peer; experience: -0.4 vs peer |
+| [US/us-capitol](../../../countries/US/sights/us-capitol.yaml) | 8.9 / 9.0 / 9.4 / 8.8 / 8.7 | uniqueness: +0.4 vs peer; depth: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-saint-louis-art-museum — Saint Louis Art Museum — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/saint-louis-art-museum.yaml)
+- Action: new
+- Scope: About 37,000 objects spanning 5,000 years; independent museum within Forest Park.
+- Representative coordinates: 38.6392, -90.2947; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.1 / 9.2 / 9.1 / 9.3.
+- Categories: culture:9.4,history:9.3,architecture:9.1.
+- Overall: 90.80/100.
+- Decision: Source-informed provisional assessment from indexed official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.slam.org/explore-the-collection/collection-highlights/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/cleveland-art-museum](../../../countries/US/sights/cleveland-art-museum.yaml) | 9.1 / 9.2 / 9.3 / 9.2 / 9.3 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer |
+| [US/detroit-institute-arts](../../../countries/US/sights/detroit-institute-arts.yaml) | 9.1 / 9.2 / 9.3 / 9.2 / 9.3 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer |
+| [US/crystal-bridges](../../../countries/US/sights/crystal-bridges.yaml) | 8.8 / 8.9 / 8.8 / 9.0 / 8.9 | significance: +0.4 vs peer; depth: +0.4 vs peer |
+| [US/national-gallery-of-art-washington](../../../countries/US/sights/national-gallery-of-art-washington.yaml) | 9.1 / 9.1 / 9.3 / 9.2 / 9.4 | impact: -0.2 vs peer; significance: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-chicago-architecture-cruise — Chicago River Architecture Cruise and Architectural Interpretation — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/chicago-architecture-cruise.yaml)
+- Action: new
+- Scope: Docent-led architectural interpretation from river, excludes independent interior building visits; representative departure point.
+- Representative coordinates: 41.8884, -87.6236; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.2 / 9.1 / 9.2 / 8.9.
+- Categories: architecture:9.4,history:9.3,photography:9.4.
+- Overall: 91.20/100.
+- Decision: Source-informed provisional assessment from indexed official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.architecture.org/city-tours/river-cruise ; https://www.architecture.org/faq/river-cruise.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/grand-central-terminal](../../../countries/US/sights/grand-central-terminal.yaml) | 8.8 / 8.8 / 9.0 / 8.6 / 7.8 | depth: +1.1 vs peer; experience: +0.6 vs peer |
+| [US/rockefeller-center](../../../countries/US/sights/rockefeller-center.yaml) | 8.9 / 8.9 / 9.0 / 9.0 / 8.5 | depth: +0.4 vs peer; uniqueness: +0.3 vs peer |
+| [US/golden-gate-bridge](../../../countries/US/sights/golden-gate-bridge.yaml) | 9.2 / 9.0 / 9.0 / 8.7 / 7.8 | depth: +1.1 vs peer; experience: +0.5 vs peer |
+| [US/chicago-auditorium-building](../../../countries/US/sights/chicago-auditorium-building.yaml) | 8.2 / 8.5 / 8.8 / 8.0 / 7.5 | depth: +1.4 vs peer; experience: +1.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-charleston-historic-district — Charleston Historic District South Carolina — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/charleston-historic-district.yaml)
+- Action: new
+- Scope: Historic streets and architecture grouped; excludes Fort Sumter and separately ticketed plantation sites.
+- Representative coordinates: 32.7765, -79.9311; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.0 / 9.2 / 9.1 / 9.1.
+- Categories: architecture:9.4,history:9.3,culture:9.3.
+- Overall: 90.65/100.
+- Decision: Source-informed provisional assessment from indexed official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.nps.gov/places/charleston-sc.htm ; https://www.achp.gov/success-stories/charleston-us-post-office-and-courthouse.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/savannah-historic-district](../../../countries/US/sights/savannah-historic-district.yaml) | 8.9 / 9.0 / 9.1 / 9.0 / 9.0 | impact: +0.1 vs peer; significance: +0.1 vs peer |
+| [US/new-orleans-french-quarter](../../../countries/US/sights/new-orleans-french-quarter.yaml) | 9.0 / 9.1 / 9.2 / 9.1 / 9.0 | uniqueness: -0.1 vs peer; depth: +0.1 vs peer |
+| [US/colonial-williamsburg](../../../countries/US/sights/colonial-williamsburg.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.4 | uniqueness: -0.3 vs peer; depth: -0.3 vs peer |
+| [US/boston-freedom-trail](../../../countries/US/sights/boston-freedom-trail.yaml) | 8.8 / 9.0 / 9.3 / 9.1 / 9.2 | impact: +0.2 vs peer; significance: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-houston-natural-science — Houston Museum of Natural Science — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/houston-natural-science.yaml)
+- Action: new
+- Scope: Main museum's paleontology, gems, energy and cultural exhibits, not Sugar Land satellite.
+- Representative coordinates: 29.7221, -95.3896; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.0 / 9.0 / 9.2 / 9.2.
+- Categories: nature:9.4,family:9.4,history:9.2.
+- Overall: 90.50/100.
+- Decision: Source-informed provisional assessment from indexed official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.hmns.org/hmns-exhibits/ ; https://www.hmns.org/exhibits/morian-hall-of-paleontology/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/field-museum](../../../countries/US/sights/field-museum.yaml) | 9.2 / 9.2 / 9.3 / 9.2 / 9.4 | significance: -0.3 vs peer; impact: -0.2 vs peer |
+| [US/american-museum-of-natural-history](../../../countries/US/sights/american-museum-of-natural-history.yaml) | 9.2 / 9.2 / 9.3 / 9.2 / 9.4 | significance: -0.3 vs peer; impact: -0.2 vs peer |
+| [US/smithsonian-national-museum-of-natural-history](../../../countries/US/sights/smithsonian-national-museum-of-natural-history.yaml) | 9.2 / 9.3 / 9.4 / 9.2 / 9.4 | significance: -0.4 vs peer; uniqueness: -0.3 vs peer |
+| [US/georgia-aquarium](../../../countries/US/sights/georgia-aquarium.yaml) | 9.2 / 9.1 / 8.4 / 9.2 / 9.2 | significance: +0.6 vs peer; impact: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-kimbell-art-museum — Kimbell Art Museum Fort Worth — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/kimbell-art-museum.yaml)
+- Action: new
+- Scope: Selective masterworks and Louis Kahn architecture, both buildings counted together.
+- Representative coordinates: 32.7485, -97.3654; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.2 / 9.0 / 9.0 / 8.9.
+- Categories: culture:9.4,architecture:9.4,history:9.2.
+- Overall: 90.10/100.
+- Decision: Source-informed provisional assessment from indexed official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://kimbellart.org/content/about-collection ; https://kimbellart.org/art-architecture/architecture/kahn-building.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/getty-villa](../../../countries/US/sights/getty-villa.yaml) | 8.9 / 9.0 / 9.1 / 9.0 / 8.7 | uniqueness: +0.2 vs peer; depth: +0.2 vs peer |
+| [US/guggenheim-museum-new-york](../../../countries/US/sights/guggenheim-museum-new-york.yaml) | 8.9 / 9.1 / 9.2 / 8.8 / 8.5 | depth: +0.4 vs peer; significance: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-the-broad — The Broad Contemporary Art Museum Los Angeles — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/the-broad.yaml)
+- Action: new
+- Scope: Postwar and contemporary collection of over 2,000 works; adjacent concert hall excluded.
+- Representative coordinates: 34.0544, -118.2505; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.1 / 8.9 / 9.1 / 8.8.
+- Categories: culture:9.4,architecture:9.3,photography:9.2.
+- Overall: 89.70/100.
+- Decision: Source-informed provisional assessment from indexed official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.thebroad.org/about/collection ; https://www.thebroad.org/about.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/whitney-museum](../../../countries/US/sights/whitney-museum.yaml) | 9.0 / 9.1 / 9.1 / 9.0 / 9.3 | depth: -0.5 vs peer; significance: -0.2 vs peer |
+| [US/museum-of-modern-art-new-york](../../../countries/US/sights/museum-of-modern-art-new-york.yaml) | 9.3 / 9.4 / 9.4 / 9.3 / 9.4 | depth: -0.6 vs peer; significance: -0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-boston-science-museum — Museum of Science Boston — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/boston-science-museum.yaml)
+- Action: new
+- Scope: Interactive sciences, biology and mathematics exhibits; distinct from natural history museum.
+- Representative coordinates: 42.3678, -71.0712; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.8 / 9.2 / 9.1.
+- Categories: family:9.4,nature:9.2,culture:9.1.
+- Overall: 89.45/100.
+- Decision: Source-informed provisional assessment from indexed official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.mos.org/visit/exhibits ; https://www.mos.org/visit/exhibits/mathematica.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/griffith-observatory](../../../countries/US/sights/griffith-observatory.yaml) | 8.9 / 8.9 / 8.7 / 9.1 / 8.8 | depth: +0.3 vs peer; significance: +0.1 vs peer |
+| [US/field-museum](../../../countries/US/sights/field-museum.yaml) | 9.2 / 9.2 / 9.3 / 9.2 / 9.4 | significance: -0.5 vs peer; impact: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-walker-art-center — Walker Art Center and Minneapolis Sculpture Garden — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/walker-art-center.yaml)
+- Action: new
+- Scope: Contemporary art museum and sculpture garden combined.
+- Representative coordinates: 44.9684, -93.2893; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.8 / 9.0 / 8.9.
+- Categories: culture:9.3,architecture:9.2,photography:9.2.
+- Overall: 88.65/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/crystal-bridges](../../../countries/US/sights/crystal-bridges.yaml) | 8.8 / 8.9 / 8.8 / 9.0 / 8.9 | impact: +0.0 vs peer; uniqueness: +0.0 vs peer |
+| [US/whitney-museum](../../../countries/US/sights/whitney-museum.yaml) | 9.0 / 9.1 / 9.1 / 9.0 / 9.3 | depth: -0.4 vs peer; significance: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-de-young — de Young Museum San Francisco — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/de-young.yaml)
+- Action: new
+- Scope: Independent art museum in Golden Gate Park; observation tower included.
+- Representative coordinates: 37.7715, -122.4687; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 9.0 / 9.0 / 9.0.
+- Categories: culture:9.4,history:9.2,architecture:9.2.
+- Overall: 89.15/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/getty-center](../../../countries/US/sights/getty-center.yaml) | 9.1 / 9.1 / 9.0 / 9.2 / 9.1 | impact: -0.3 vs peer; uniqueness: -0.2 vs peer |
+| [US/detroit-institute-arts](../../../countries/US/sights/detroit-institute-arts.yaml) | 9.1 / 9.2 / 9.3 / 9.2 / 9.3 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-st-augustine — St. Augustine Historic District and Castillo de San Marcos — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/st-augustine.yaml)
+- Action: new
+- Scope: Old town architecture and fort combined for this scope; no separate fort record.
+- Representative coordinates: 29.8977, -81.3115; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.9 / 9.2 / 8.9 / 8.9.
+- Categories: history:9.4,architecture:9.3,culture:9.3.
+- Overall: 89.60/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/savannah-historic-district](../../../countries/US/sights/savannah-historic-district.yaml) | 8.9 / 9.0 / 9.1 / 9.0 / 9.0 | uniqueness: -0.1 vs peer; significance: +0.1 vs peer |
+| [US/fort-sumter](../../../countries/US/sights/fort-sumter.yaml) | 8.6 / 8.8 / 9.2 / 8.7 / 8.8 | impact: +0.3 vs peer; experience: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-santa-fe-plaza — Santa Fe Plaza Historic District and Adobe Architecture — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/santa-fe-plaza.yaml)
+- Action: new
+- Scope: Historic plaza and street architecture, independent art museums excluded.
+- Representative coordinates: 35.687, -105.938; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 9.0 / 9.0 / 8.9 / 8.9.
+- Categories: culture:9.4,architecture:9.3,history:9.3.
+- Overall: 89.15/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/taos-pueblo](../../../countries/US/sights/taos-pueblo.yaml) | 8.5 / 9.2 / 9.3 / 8.2 / 7.8 | depth: +1.1 vs peer; experience: +0.7 vs peer |
+| [US/savannah-historic-district](../../../countries/US/sights/savannah-historic-district.yaml) | 8.9 / 9.0 / 9.1 / 9.0 / 9.0 | impact: -0.1 vs peer; significance: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-philadelphia-old-city — Philadelphia Old City Historic Streets and Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/philadelphia-old-city.yaml)
+- Action: new
+- Scope: Public streets and historic urban fabric only; excludes Independence Hall and American Revolution Museum. Scope overlap with Independence NHP to review.
+- Representative coordinates: 39.9515, -75.144; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.6 / 8.9 / 8.8 / 8.7.
+- Categories: history:9.3,architecture:9.2,culture:9.1.
+- Overall: 86.70/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/boston-freedom-trail](../../../countries/US/sights/boston-freedom-trail.yaml) | 8.8 / 9.0 / 9.3 / 9.1 / 9.2 | depth: -0.5 vs peer; uniqueness: -0.4 vs peer |
+| [US/savannah-historic-district](../../../countries/US/sights/savannah-historic-district.yaml) | 8.9 / 9.0 / 9.1 / 9.0 / 9.0 | impact: -0.4 vs peer; uniqueness: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-san-francisco-chinatown — San Francisco Chinatown Historic Streets and Cultural Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/san-francisco-chinatown.yaml)
+- Action: new
+- Scope: Historic cultural district and street-level experience, no individual businesses.
+- Representative coordinates: 37.7941, -122.4078; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.9 / 8.9 / 8.7.
+- Categories: culture:9.3,food:9.3,history:9.2.
+- Overall: 87.95/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/new-orleans-french-quarter](../../../countries/US/sights/new-orleans-french-quarter.yaml) | 9.0 / 9.1 / 9.2 / 9.1 / 9.0 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer |
+| [US/pike-place-market](../../../countries/US/sights/pike-place-market.yaml) | 8.6 / 8.7 / 8.6 / 8.9 / 8.8 | significance: +0.3 vs peer; impact: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-st-louis-city-museum — City Museum St Louis — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/st-louis-city-museum.yaml)
+- Action: new
+- Scope: Creative reuse and immersive climbing/play installations, safety and age rules separate.
+- Representative coordinates: 38.6336, -90.2003; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 9.1 / 8.3 / 9.3 / 8.8.
+- Categories: family:9.4,adventure:9.3,architecture:9.2.
+- Overall: 88.50/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/disneyland-park-anaheim](../../../countries/US/sights/disneyland-park-anaheim.yaml) | 9.0 / 9.1 / 8.8 / 9.3 / 9.2 | significance: -0.5 vs peer; depth: -0.4 vs peer |
+| [US/magic-kingdom-park](../../../countries/US/sights/magic-kingdom-park.yaml) | 8.9 / 8.7 / 8.5 / 9.3 / 9.2 | uniqueness: +0.4 vs peer; depth: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+## sight-us-bishop-museum — Bishop Museum Honolulu Hawaiian and Pacific Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/bishop-museum.yaml)
+- Action: new
+- Scope: Hawaiian and Pacific cultural and natural history collections; not all holdings displayed.
+- Representative coordinates: 21.333, -157.87; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.4 / 9.4 / 9.1 / 9.4.
+- Categories: culture:9.4 history:9.4 nature:9.3.
+- Overall: 92.95/100.
+- Decision: Source-informed provisional assessment from retrieved indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.bishopmuseum.org/about/ ; https://www.bishopmuseum.org/exhibits-and-programs/galleries/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-american-indian-museum](../../../countries/US/sights/national-american-indian-museum.yaml) | 9.0 / 9.1 / 9.4 / 9.1 / 9.2 | uniqueness: +0.3 vs peer; impact: +0.2 vs peer |
+| [US/field-museum](../../../countries/US/sights/field-museum.yaml) | 9.2 / 9.2 / 9.3 / 9.2 / 9.4 | uniqueness: +0.2 vs peer; significance: +0.1 vs peer |
+| [US/national-museum-american-history](../../../countries/US/sights/national-museum-american-history.yaml) | 9.1 / 9.2 / 9.4 / 9.1 / 9.4 | uniqueness: +0.2 vs peer; impact: +0.1 vs peer |
+| [US/metropolitan-museum-of-art](../../../countries/US/sights/metropolitan-museum-of-art.yaml) | 9.3 / 9.4 / 9.4 / 9.3 / 9.6 | experience: -0.2 vs peer; depth: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-kona-manta — Kona Coast Manta Ray Night Snorkelling and Diving — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/kona-manta.yaml)
+- Action: new
+- Scope: Dedicated nighttime manta encounters at authorized sites; no touching or guaranteed sightings.
+- Representative coordinates: 19.56, -155.963; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.4 / 9.0 / 9.3 / 9.0.
+- Categories: wildlife:9.4 nature:9.4 adventure:9.4.
+- Overall: 92.35/100.
+- Decision: Source-informed provisional assessment from retrieved indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.gohawaii.com/marine-life-of-hawaii ; https://www.gohawaii.com/islands/hawaii-big-island/things-to-do/water-activities/snorkeling-scuba.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/katmai-national-park](../../../countries/US/sights/katmai-national-park.yaml) | 9.1 / 9.3 / 9.1 / 8.9 / 9.1 | experience: +0.4 vs peer; impact: +0.2 vs peer |
+| [US/admiralty-pack-creek](../../../countries/US/sights/admiralty-pack-creek.yaml) | 9.1 / 9.2 / 9.0 / 9.1 / 9.0 | impact: +0.2 vs peer; uniqueness: +0.2 vs peer |
+| [US/monterey-bay-aquarium](../../../countries/US/sights/monterey-bay-aquarium.yaml) | 9.1 / 9.1 / 8.8 / 9.2 / 9.1 | uniqueness: +0.3 vs peer; impact: +0.2 vs peer |
+| [US/biscayne](../../../countries/US/sights/biscayne.yaml) | 8.9 / 9.0 / 9.0 / 8.9 / 8.9 | impact: +0.4 vs peer; uniqueness: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-road-to-hana — Road to Hāna East Maui Rainforest and Waterfall Corridor — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/road-to-hana.yaml)
+- Action: new
+- Scope: Public road and permitted stops including Waiʻānapanapa; excludes Haleakalā NP Kīpahulu district.
+- Representative coordinates: 20.795, -156.04; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.1 / 8.8 / 9.3 / 9.2.
+- Categories: nature:9.4 photography:9.4 adventure:9.3.
+- Overall: 91.40/100.
+- Decision: Source-informed provisional assessment from retrieved indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.gohawaii.com/couples-getaways/maui ; https://www.gohawaii.com/islands/maui/regions/east-maui.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/big-sur-coast](../../../countries/US/sights/big-sur-coast.yaml) | 9.1 / 8.7 / 8.3 / 9.0 / 8.9 | significance: +0.5 vs peer; uniqueness: +0.4 vs peer |
+| [US/columbia-gorge](../../../countries/US/sights/columbia-gorge.yaml) | 9.2 / 9.0 / 8.8 / 9.2 / 9.1 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer |
+| [US/sedona-red-rock](../../../countries/US/sights/sedona-red-rock.yaml) | 9.3 / 9.1 / 8.6 / 9.3 / 9.2 | significance: +0.2 vs peer; impact: +0.0 vs peer |
+| [US/napali-coast-state-wilderness-park](../../../countries/US/sights/napali-coast-state-wilderness-park.yaml) | 9.4 / 9.2 / 8.8 / 8.9 / 9.0 | experience: +0.4 vs peer; depth: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-maunakea — Maunakea Visitor Information Station Stargazing and Mountain Landscape — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/maunakea.yaml)
+- Action: new
+- Scope: Visitor station and permitted mountain experience, sacred mountain; no summit or observatory interior access assumed.
+- Representative coordinates: 19.76, -155.456; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.3 / 9.3 / 8.8 / 9.1.
+- Categories: nature:9.4 photography:9.4 culture:9.3.
+- Overall: 91.75/100.
+- Decision: Source-informed provisional assessment from retrieved indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.gohawaii.com/islands/hawaii-big-island/regions/hilo/maunakea ; https://media.gohawaii.com/island-of-hawaii/media-support/media-tips.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/hawaii-volcanoes-national-park](../../../countries/US/sights/hawaii-volcanoes-national-park.yaml) | 9.2 / 9.5 / 9.5 / 8.9 / 9.0 | uniqueness: -0.2 vs peer; significance: -0.2 vs peer |
+| [US/haleakala-national-park](../../../countries/US/sights/haleakala-national-park.yaml) | 9.1 / 9.0 / 8.9 / 8.8 / 8.9 | significance: +0.4 vs peer; uniqueness: +0.3 vs peer |
+| [US/griffith-observatory](../../../countries/US/sights/griffith-observatory.yaml) | 8.9 / 8.9 / 8.7 / 9.1 / 8.8 | significance: +0.6 vs peer; uniqueness: +0.4 vs peer |
+| [US/mount-rainier-national-park](../../../countries/US/sights/mount-rainier-national-park.yaml) | 9.2 / 8.7 / 8.8 / 9.1 / 9.1 | uniqueness: +0.6 vs peer; significance: +0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-prince-william-sound — Prince William Sound Glacier and Wildlife Cruises — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/prince-william-sound.yaml)
+- Action: new
+- Scope: Whittier and Valdez cruises grouped; excludes separate national parks; no guaranteed calving or wildlife.
+- Representative coordinates: 60.78, -148.68; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.2 / 9.0 / 9.2 / 9.2.
+- Categories: nature:9.4 photography:9.4 wildlife:9.3.
+- Overall: 91.90/100.
+- Decision: Source-informed provisional assessment from retrieved indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.anchorage.net/outdoors/glaciers/prince-william-sound/ ; https://www.travelalaska.com/destinations/cities-towns/whittier ; https://phillipscruises.com/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/glacier-bay](../../../countries/US/sights/glacier-bay.yaml) | 9.5 / 9.4 / 9.4 / 8.9 / 9.1 | significance: -0.4 vs peer; experience: +0.3 vs peer |
+| [US/kenai-fjords-national-park](../../../countries/US/sights/kenai-fjords-national-park.yaml) | 9.2 / 8.9 / 8.8 / 9.0 / 8.9 | uniqueness: +0.3 vs peer; depth: +0.3 vs peer |
+| [US/misty-fiords](../../../countries/US/sights/misty-fiords.yaml) | 9.3 / 9.2 / 8.9 / 9.2 / 9.1 | significance: +0.1 vs peer; depth: +0.1 vs peer |
+| [US/wrangell-st-elias](../../../countries/US/sights/wrangell-st-elias.yaml) | 9.4 / 9.4 / 9.3 / 8.6 / 9.2 | experience: +0.6 vs peer; significance: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-fairbanks-aurora — Fairbanks Region Aurora Borealis Viewing — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/fairbanks-aurora.yaml)
+- Action: new
+- Scope: Dedicated aurora outings near Fairbanks; seasonal and weather dependent; no national park duplication.
+- Representative coordinates: 64.95, -147.85; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.3 / 8.7 / 9.1 / 9.0.
+- Categories: nature:9.4 photography:9.4 adventure:9.3.
+- Overall: 91.20/100.
+- Decision: Source-informed provisional assessment from retrieved indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.travelalaska.com/things-to-do/northern-lights ; https://www.travelalaska.com/explore-alaska/articles/northern-lights-viewing-tips.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/gates-of-the-arctic](../../../countries/US/sights/gates-of-the-arctic.yaml) | 9.3 / 9.4 / 9.2 / 8.6 / 9.1 | significance: -0.5 vs peer; experience: +0.5 vs peer |
+| [US/denali-national-park](../../../countries/US/sights/denali-national-park.yaml) | 9.3 / 9.2 / 9.2 / 8.7 / 9.0 | significance: -0.5 vs peer; experience: +0.4 vs peer |
+| [US/griffith-observatory](../../../countries/US/sights/griffith-observatory.yaml) | 8.9 / 8.9 / 8.7 / 9.1 / 8.8 | impact: +0.4 vs peer; uniqueness: +0.4 vs peer |
+| [US/lake-clark](../../../countries/US/sights/lake-clark.yaml) | 9.2 / 9.2 / 9.1 / 8.9 / 9.2 | significance: -0.4 vs peer; experience: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-iolani-palace — ʻIolani Palace Honolulu Royal Residence and Museum — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/iolani-palace.yaml)
+- Action: new
+- Scope: Royal residence and public museum, monarchy and overthrow interpretation.
+- Representative coordinates: 21.3067, -157.8587; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.4 / 9.0 / 9.1.
+- Categories: history:9.4 culture:9.4 architecture:9.4.
+- Overall: 91.65/100.
+- Decision: Source-informed provisional assessment from retrieved indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.iolanipalace.org/ ; https://www.nps.gov/places/iolanipalace.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/mount-vernon](../../../countries/US/sights/mount-vernon.yaml) | 8.1 / 8.5 / 9.0 / 8.5 / 8.2 | impact: +0.9 vs peer; depth: +0.9 vs peer |
+| [US/monticello](../../../countries/US/sights/monticello.yaml) | 8.2 / 8.7 / 9.0 / 8.5 / 8.0 | depth: +1.1 vs peer; impact: +0.8 vs peer |
+| [US/library-of-congress](../../../countries/US/sights/library-of-congress.yaml) | 9.0 / 9.2 / 9.3 / 8.9 / 9.0 | uniqueness: +0.1 vs peer; significance: +0.1 vs peer |
+| [US/national-museum-american-history](../../../countries/US/sights/national-museum-american-history.yaml) | 9.1 / 9.2 / 9.4 / 9.1 / 9.4 | depth: -0.3 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-puuhonua-honaunau — Puʻuhonua o Hōnaunau National Historical Park Royal Grounds — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/puuhonua-honaunau.yaml)
+- Action: new
+- Scope: Sacred place of refuge and royal grounds; excludes offshore snorkelling.
+- Representative coordinates: 19.421, -155.91; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.4 / 9.0 / 9.0.
+- Categories: culture:9.4 history:9.4 architecture:9.3.
+- Overall: 91.55/100.
+- Decision: Source-informed provisional assessment from retrieved indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/puho/planyourvisit/royalgrounds.htm ; https://www.nps.gov/puho/learn/management/puho-foundation-document.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/taos-pueblo](../../../countries/US/sights/taos-pueblo.yaml) | 8.5 / 9.2 / 9.3 / 8.2 / 7.8 | depth: +1.2 vs peer; experience: +0.8 vs peer |
+| [US/mesa-verde](../../../countries/US/sights/mesa-verde.yaml) | 8.9 / 9.2 / 9.3 / 8.8 / 8.7 | depth: +0.3 vs peer; experience: +0.2 vs peer |
+| [US/canyon-de-chelly](../../../countries/US/sights/canyon-de-chelly.yaml) | 9.2 / 9.3 / 9.4 / 9.0 / 9.1 | impact: -0.2 vs peer; depth: -0.1 vs peer |
+| [US/san-antonio-missions](../../../countries/US/sights/san-antonio-missions.yaml) | 8.4 / 8.8 / 9.0 / 8.6 / 8.7 | impact: +0.6 vs peer; uniqueness: +0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-alaska-native-heritage — Alaska Native Heritage Center Anchorage — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/alaska-native-heritage.yaml)
+- Action: new
+- Scope: Native-led galleries and cultural interpretation, independent center.
+- Representative coordinates: 61.233, -149.717; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.2 / 9.3 / 9.1 / 9.2.
+- Categories: culture:9.4 history:9.4 architecture:9.2.
+- Overall: 91.15/100.
+- Decision: Source-informed provisional assessment from retrieved indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.alaskanative.net/visit/ ; https://www.alaskanative.net/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-american-indian-museum](../../../countries/US/sights/national-american-indian-museum.yaml) | 9.0 / 9.1 / 9.4 / 9.1 / 9.2 | impact: -0.1 vs peer; uniqueness: +0.1 vs peer |
+| [US/colonial-williamsburg](../../../countries/US/sights/colonial-williamsburg.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.4 | impact: -0.3 vs peer; depth: -0.2 vs peer |
+| [US/national-museum-of-african-american-history-and-culture](../../../countries/US/sights/national-museum-of-african-american-history-and-culture.yaml) | 9.0 / 9.2 / 9.4 / 9.1 / 9.2 | impact: -0.1 vs peer; significance: -0.1 vs peer |
+| [US/taos-pueblo](../../../countries/US/sights/taos-pueblo.yaml) | 8.5 / 9.2 / 9.3 / 8.2 / 7.8 | depth: +1.4 vs peer; experience: +0.9 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-polynesian-cultural-center — Polynesian Cultural Center Oʻahu Living Cultural Presentations — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/polynesian-cultural-center.yaml)
+- Action: new
+- Scope: Six represented island cultures and performances; not original archaeological sites.
+- Representative coordinates: 21.638, -157.92; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.2 / 8.9 / 9.3 / 9.2.
+- Categories: culture:9.4 family:9.3 history:9.2.
+- Overall: 90.95/100.
+- Decision: Source-informed provisional assessment from retrieved indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.polynesia.com/villages ; https://www.gohawaii.com/islands/oahu/regions/north-shore/polynesian-cultural-center.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/colonial-williamsburg](../../../countries/US/sights/colonial-williamsburg.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.4 | significance: -0.4 vs peer; impact: -0.2 vs peer |
+| [US/henry-ford-museum](../../../countries/US/sights/henry-ford-museum.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.4 | significance: -0.4 vs peer; impact: -0.2 vs peer |
+| [US/broadway-theatre](../../../countries/US/sights/broadway-theatre.yaml) | 9.2 / 9.2 / 9.2 / 9.3 / 9.0 | significance: -0.3 vs peer; impact: -0.2 vs peer |
+| [US/national-american-indian-museum](../../../countries/US/sights/national-american-indian-museum.yaml) | 9.0 / 9.1 / 9.4 / 9.1 / 9.2 | significance: -0.5 vs peer; experience: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-molokini — Molokini Crater Marine Conservation District Snorkelling and Diving — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/molokini.yaml)
+- Action: new
+- Scope: Regulated reef excursions; no assumption of pristine coral or guaranteed wildlife.
+- Representative coordinates: 20.632, -156.497; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.2 / 8.8 / 9.1 / 8.8.
+- Categories: nature:9.4 wildlife:9.4 adventure:9.3.
+- Overall: 90.35/100.
+- Decision: Source-informed provisional assessment from retrieved indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.gohawaii.com/islands/maui/regions/south-maui/Molokini.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/biscayne](../../../countries/US/sights/biscayne.yaml) | 8.9 / 9.0 / 9.0 / 8.9 / 8.9 | impact: +0.2 vs peer; uniqueness: +0.2 vs peer |
+| [US/dry-tortugas-national-park](../../../countries/US/sights/dry-tortugas-national-park.yaml) | 8.8 / 9.0 / 8.8 / 8.8 / 8.2 | depth: +0.6 vs peer; impact: +0.3 vs peer |
+| [US/monterey-bay-aquarium](../../../countries/US/sights/monterey-bay-aquarium.yaml) | 9.1 / 9.1 / 8.8 / 9.2 / 9.1 | depth: -0.3 vs peer; uniqueness: +0.1 vs peer |
+| [US/channel-islands-national-park](../../../countries/US/sights/channel-islands-national-park.yaml) | 8.7 / 8.8 / 8.8 / 8.8 / 8.8 | impact: +0.4 vs peer; uniqueness: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-maui-whales — Maui Nui Seasonal Humpback Whale Watching — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/maui-whales.yaml)
+- Action: new
+- Scope: Seasonal regulated observation; no swimming or guaranteed sightings.
+- Representative coordinates: 20.791, -156.512; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.2 / 9.0 / 9.1 / 8.9.
+- Categories: wildlife:9.4 nature:9.4 photography:9.3.
+- Overall: 90.85/100.
+- Decision: Source-informed provisional assessment from retrieved indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://sanctuaries.noaa.gov/hawaii-humpback-whale/visit/visitor-center.html ; https://dar.hawaii.gov/learn-explore/species/marine-mammals/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/katmai-national-park](../../../countries/US/sights/katmai-national-park.yaml) | 9.1 / 9.3 / 9.1 / 8.9 / 9.1 | experience: +0.2 vs peer; depth: -0.2 vs peer |
+| [US/admiralty-pack-creek](../../../countries/US/sights/admiralty-pack-creek.yaml) | 9.1 / 9.2 / 9.0 / 9.1 / 9.0 | depth: -0.1 vs peer; impact: +0.0 vs peer |
+| [US/kenai-fjords-national-park](../../../countries/US/sights/kenai-fjords-national-park.yaml) | 9.2 / 8.9 / 8.8 / 9.0 / 8.9 | uniqueness: +0.3 vs peer; significance: +0.2 vs peer |
+| [US/monterey-bay-aquarium](../../../countries/US/sights/monterey-bay-aquarium.yaml) | 9.1 / 9.1 / 8.8 / 9.2 / 9.1 | significance: +0.2 vs peer; depth: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-juneau-whales — Juneau Offshore Humpback Whale Watching — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/juneau-whales.yaml)
+- Action: new
+- Scope: Dedicated Juneau-area whale observation distinct from glacier excursions.
+- Representative coordinates: 58.39, -134.75; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.1 / 8.8 / 9.1 / 8.9.
+- Categories: wildlife:9.4 nature:9.3 photography:9.3.
+- Overall: 89.90/100.
+- Decision: Source-informed provisional assessment from retrieved indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.travelalaska.com/explore-alaska/articles/alaska-whale-watching.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/kenai-fjords-national-park](../../../countries/US/sights/kenai-fjords-national-park.yaml) | 9.2 / 8.9 / 8.8 / 9.0 / 8.9 | impact: -0.2 vs peer; uniqueness: +0.2 vs peer |
+| [US/glacier-bay](../../../countries/US/sights/glacier-bay.yaml) | 9.5 / 9.4 / 9.4 / 8.9 / 9.1 | significance: -0.6 vs peer; impact: -0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-hanauma-bay — Hanauma Bay Nature Preserve Reef Snorkelling — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/hanauma-bay.yaml)
+- Action: new
+- Scope: Regulated volcanic bay and reef; coral health not assumed pristine.
+- Representative coordinates: 21.269, -157.694; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.8 / 9.0 / 8.6.
+- Categories: nature:9.3 wildlife:9.3 beaches:9.2.
+- Overall: 88.65/100.
+- Decision: Source-informed provisional assessment from retrieved indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://honolulu.gov/parks-hbay/home.html ; https://dlnr.hawaii.gov/dar/marine-managed-areas/hawaii-marine-life-conservation-districts/oahu-hanauma-bay/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/biscayne](../../../countries/US/sights/biscayne.yaml) | 8.9 / 9.0 / 9.0 / 8.9 / 8.9 | depth: -0.3 vs peer; significance: -0.2 vs peer |
+| [US/channel-islands-national-park](../../../countries/US/sights/channel-islands-national-park.yaml) | 8.7 / 8.8 / 8.8 / 8.8 / 8.8 | impact: +0.2 vs peer; experience: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-diamond-head — Diamond Head State Monument Crater Summit Trail — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/diamond-head.yaml)
+- Action: new
+- Scope: Crater trail and city views, excludes Waikīkī beach.
+- Representative coordinates: 21.262, -157.805; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.6 / 8.8 / 8.3.
+- Categories: nature:9.3 photography:9.4 adventure:9.1.
+- Overall: 87.10/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/waimea-canyon-state-park](../../../countries/US/sights/waimea-canyon-state-park.yaml) | 9.1 / 8.8 / 8.6 / 8.8 / 8.5 | impact: -0.3 vs peer; depth: -0.2 vs peer |
+| [US/haleakala-national-park](../../../countries/US/sights/haleakala-national-park.yaml) | 9.1 / 9.0 / 8.9 / 8.8 / 8.9 | depth: -0.6 vs peer; impact: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-oahu-north-shore — Oʻahu North Shore Surfing Beaches and Coastal Scenery — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/oahu-north-shore.yaml)
+- Action: new
+- Scope: Waimea Bay, Sunset Beach and Pipeline grouped; no unsafe swimming or surf assumed.
+- Representative coordinates: 21.67, -158.046; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.7 / 8.8 / 8.7.
+- Categories: beaches:9.4 adventure:9.3 photography:9.3.
+- Overall: 88.25/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/big-sur-coast](../../../countries/US/sights/big-sur-coast.yaml) | 9.1 / 8.7 / 8.3 / 9.0 / 8.9 | significance: +0.4 vs peer; impact: -0.2 vs peer |
+| [US/napali-coast-state-wilderness-park](../../../countries/US/sights/napali-coast-state-wilderness-park.yaml) | 9.4 / 9.2 / 8.8 / 8.9 / 9.0 | impact: -0.5 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-waikiki — Waikīkī Beach and Historic Oceanfront Promenade — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/waikiki.yaml)
+- Action: new
+- Scope: Beach and promenade; excludes Diamond Head and hotels.
+- Representative coordinates: 21.275, -157.826; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.5 / 8.5 / 9.0 / 8.5.
+- Categories: beaches:9.3 relaxation:9.3 culture:9.0.
+- Overall: 86.65/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/cape-cod](../../../countries/US/sights/cape-cod.yaml) | 8.8 / 8.6 / 8.8 / 9.0 / 8.8 | significance: -0.3 vs peer; depth: -0.3 vs peer |
+| [US/gulf-islands](../../../countries/US/sights/gulf-islands.yaml) | 8.7 / 8.6 / 8.6 / 8.9 / 8.7 | depth: -0.2 vs peer; impact: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-kealakekua-bay — Kealakekua Bay Marine Reserve and Historic Coastal Landscape — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/kealakekua-bay.yaml)
+- Action: new
+- Scope: Daytime marine and coastal heritage, distinct from Kona manta experience.
+- Representative coordinates: 19.475, -155.927; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 9.0 / 8.9 / 8.8 / 8.8.
+- Categories: nature:9.3 wildlife:9.3 history:9.2.
+- Overall: 89.00/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/biscayne](../../../countries/US/sights/biscayne.yaml) | 8.9 / 9.0 / 9.0 / 8.9 / 8.9 | significance: -0.1 vs peer; experience: -0.1 vs peer |
+| [US/dry-tortugas-national-park](../../../countries/US/sights/dry-tortugas-national-park.yaml) | 8.8 / 9.0 / 8.8 / 8.8 / 8.2 | depth: +0.6 vs peer; impact: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-waipio-overlook — Waipiʻo Valley Lookout and Hāmākua Coastal Scenery — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/waipio-overlook.yaml)
+- Action: new
+- Scope: Public overlook and nearby scenery; restricted valley road not counted.
+- Representative coordinates: 20.118, -155.586; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.6 / 8.5 / 8.4.
+- Categories: photography:9.4 nature:9.3 culture:9.1.
+- Overall: 87.05/100.
+- Decision: Source-informed provisional assessment from retrieved indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://agents.gohawaii.com/our-islands/top-10/island-of-hawai-top-10.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/waimea-canyon-state-park](../../../countries/US/sights/waimea-canyon-state-park.yaml) | 9.1 / 8.8 / 8.6 / 8.8 / 8.5 | experience: -0.3 vs peer; impact: -0.2 vs peer |
+| [US/big-sur-coast](../../../countries/US/sights/big-sur-coast.yaml) | 9.1 / 8.7 / 8.3 / 9.0 / 8.9 | experience: -0.5 vs peer; depth: -0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-kaloko-honokohau — Kaloko-Honokōhau National Historical Park Hawaiian Fishponds — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/kaloko-honokohau.yaml)
+- Action: new
+- Scope: Historic fishponds and settlement; distinct from Puʻuhonua.
+- Representative coordinates: 19.68, -156.022; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.5 / 8.9 / 9.1 / 8.6 / 8.7.
+- Categories: history:9.4 culture:9.3 nature:9.2.
+- Overall: 87.55/100.
+- Decision: Source-informed provisional assessment from retrieved indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/havo/learn/historyculture/olelo-hawaii.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/taos-pueblo](../../../countries/US/sights/taos-pueblo.yaml) | 8.5 / 9.2 / 9.3 / 8.2 / 7.8 | depth: +0.9 vs peer; experience: +0.4 vs peer |
+| [US/san-antonio-missions](../../../countries/US/sights/san-antonio-missions.yaml) | 8.4 / 8.8 / 9.0 / 8.6 / 8.7 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-kalaupapa-overlook — Pālāʻau State Park Kalaupapa Peninsula Lookout — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/kalaupapa-overlook.yaml)
+- Action: new
+- Scope: Public overlook only; ground access to Kalaupapa historical park not assumed or counted.
+- Representative coordinates: 21.173, -157.007; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.7 / 8.8 / 9.0 / 8.3 / 8.4.
+- Categories: history:9.3 photography:9.3 nature:9.2.
+- Overall: 86.95/100.
+- Decision: Source-informed provisional assessment from retrieved indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://dlnr.hawaii.gov/dsp/camping-lodging/molokai/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/canyon-de-chelly](../../../countries/US/sights/canyon-de-chelly.yaml) | 9.2 / 9.3 / 9.4 / 9.0 / 9.1 | experience: -0.7 vs peer; depth: -0.7 vs peer |
+| [US/waimea-canyon-state-park](../../../countries/US/sights/waimea-canyon-state-park.yaml) | 9.1 / 8.8 / 8.6 / 8.8 / 8.5 | experience: -0.5 vs peer; impact: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-turnagain-arm — Turnagain Arm Seward Highway Scenic Corridor — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/turnagain-arm.yaml)
+- Action: new
+- Scope: Anchorage to Portage coastal scenery, excludes Prince William Sound and Kenai Fjords.
+- Representative coordinates: 60.97, -149.55; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 9.0 / 8.8 / 8.6 / 9.0 / 8.9.
+- Categories: nature:9.3 photography:9.4 wildlife:9.2.
+- Overall: 88.60/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/big-sur-coast](../../../countries/US/sights/big-sur-coast.yaml) | 9.1 / 8.7 / 8.3 / 9.0 / 8.9 | significance: +0.3 vs peer; impact: -0.1 vs peer |
+| [US/columbia-gorge](../../../countries/US/sights/columbia-gorge.yaml) | 9.2 / 9.0 / 8.8 / 9.2 / 9.1 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-matanuska-glacier — Matanuska Glacier Guided Ice Hiking — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/matanuska-glacier.yaml)
+- Action: new
+- Scope: Guided glacier trek; no independent unsafe glacier travel.
+- Representative coordinates: 61.77, -147.76; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 9.1 / 9.0 / 8.6 / 9.1 / 8.8.
+- Categories: adventure:9.4 nature:9.3 photography:9.4.
+- Overall: 89.45/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/mendenhall-glacier](../../../countries/US/sights/mendenhall-glacier.yaml) | 8.9 / 8.8 / 8.7 / 8.9 / 8.8 | impact: +0.2 vs peer; uniqueness: +0.2 vs peer |
+| [US/kenai-fjords-national-park](../../../countries/US/sights/kenai-fjords-national-park.yaml) | 9.2 / 8.9 / 8.8 / 9.0 / 8.9 | significance: -0.2 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-white-pass-railway — White Pass and Yukon Route Scenic Railway Skagway — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/white-pass-railway.yaml)
+- Action: new
+- Scope: US departure; Canadian track segments not separately counted.
+- Representative coordinates: 59.459, -135.317; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 9.0 / 9.0 / 8.8 / 9.1 / 8.9.
+- Categories: history:9.3 photography:9.4 nature:9.3.
+- Overall: 89.65/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/big-sur-coast](../../../countries/US/sights/big-sur-coast.yaml) | 9.1 / 8.7 / 8.3 / 9.0 / 8.9 | significance: +0.5 vs peer; uniqueness: +0.3 vs peer |
+| [US/columbia-gorge](../../../countries/US/sights/columbia-gorge.yaml) | 9.2 / 9.0 / 8.8 / 9.2 / 9.1 | impact: -0.2 vs peer; depth: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-anchorage-museum — Anchorage Museum Alaska Art History and Science — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/anchorage-museum.yaml)
+- Action: new
+- Scope: Independent museum; separate from Alaska Native Heritage Center.
+- Representative coordinates: 61.216, -149.884; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 9.0 / 8.8 / 8.9.
+- Categories: culture:9.3 history:9.3 nature:9.1.
+- Overall: 88.20/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-museum-american-history](../../../countries/US/sights/national-museum-american-history.yaml) | 9.1 / 9.2 / 9.4 / 9.1 / 9.4 | depth: -0.5 vs peer; impact: -0.4 vs peer |
+| [US/field-museum](../../../countries/US/sights/field-museum.yaml) | 9.2 / 9.2 / 9.3 / 9.2 / 9.4 | impact: -0.5 vs peer; depth: -0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-sitka-historical-park — Sitka National Historical Park Totem Trail and Cultural Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/sitka-historical-park.yaml)
+- Action: new
+- Scope: Totem trail and historic landscape; no individual poles.
+- Representative coordinates: 57.046, -135.316; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.9 / 9.1 / 8.7 / 8.7.
+- Categories: culture:9.4 history:9.3 nature:9.1.
+- Overall: 88.00/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/taos-pueblo](../../../countries/US/sights/taos-pueblo.yaml) | 8.5 / 9.2 / 9.3 / 8.2 / 7.8 | depth: +0.9 vs peer; experience: +0.5 vs peer |
+| [US/harpers-ferry](../../../countries/US/sights/harpers-ferry.yaml) | 8.8 / 8.9 / 9.0 / 8.9 / 8.8 | impact: -0.2 vs peer; experience: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-kachemak-bay — Kachemak Bay State Park Coastal Wilderness and Kayaking — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/kachemak-bay.yaml)
+- Action: new
+- Scope: Distinct Homer-area coastal trails and water trips.
+- Representative coordinates: 59.58, -151.24; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.6 / 9.0 / 8.8.
+- Categories: nature:9.3 wildlife:9.3 adventure:9.3.
+- Overall: 88.45/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/kenai-fjords-national-park](../../../countries/US/sights/kenai-fjords-national-park.yaml) | 9.2 / 8.9 / 8.8 / 9.0 / 8.9 | impact: -0.3 vs peer; significance: -0.2 vs peer |
+| [US/channel-islands-national-park](../../../countries/US/sights/channel-islands-national-park.yaml) | 8.7 / 8.8 / 8.8 / 8.8 / 8.8 | impact: +0.2 vs peer; significance: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+## sight-us-platte-cranes — Central Platte River Sandhill Crane Migration Nebraska — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/platte-cranes.yaml)
+- Action: new
+- Scope: Seasonal migration and authorized viewing hides including Rowe Sanctuary; not guaranteed sightings or private land access.
+- Representative coordinates: 40.667, -98.874; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.4 / 9.3 / 9.1 / 9.0.
+- Categories: wildlife:9.4 nature:9.4 photography:9.4.
+- Overall: 92.35/100.
+- Decision: Source-informed provisional assessment from retrieved official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://visitnebraska.com/sandhill-crane-migration ; https://visitnebraska.com/trip-idea/experience-nebraskas-sandhill-crane-migration.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/katmai-national-park](../../../countries/US/sights/katmai-national-park.yaml) | 9.1 / 9.3 / 9.1 / 8.9 / 9.1 | significance: +0.2 vs peer; experience: +0.2 vs peer |
+| [US/admiralty-pack-creek](../../../countries/US/sights/admiralty-pack-creek.yaml) | 9.1 / 9.2 / 9.0 / 9.1 / 9.0 | significance: +0.3 vs peer; uniqueness: +0.2 vs peer |
+| [US/maui-whales](../../../countries/US/sights/maui-whales.yaml) | 9.1 / 9.2 / 9.0 / 9.1 / 8.9 | significance: +0.3 vs peer; uniqueness: +0.2 vs peer |
+| [US/boundary-waters](../../../countries/US/sights/boundary-waters.yaml) | 9.1 / 9.3 / 9.1 / 9.1 / 9.2 | significance: +0.2 vs peer; depth: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-crystal-river-manatees — Crystal River National Wildlife Refuge Manatee Observation — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/crystal-river-manatees.yaml)
+- Action: new
+- Scope: Kings Bay and Three Sisters Springs grouped; regulated viewing from boardwalk and permitted water areas; no touching or sanctuary intrusion.
+- Representative coordinates: 28.888, -82.589; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.4 / 9.2 / 9.1 / 9.0.
+- Categories: wildlife:9.4 nature:9.4 adventure:9.2.
+- Overall: 91.85/100.
+- Decision: Source-informed provisional assessment from retrieved official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.fws.gov/refuge/crystal-river/visit-us ; https://www.fws.gov/refuge/crystal-river/visit-us/activities/wildlife-watching ; https://www.fws.gov/refuge/crystal-river/visit-us/activities/scuba-diving.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/kona-manta](../../../countries/US/sights/kona-manta.yaml) | 9.3 / 9.4 / 9.0 / 9.3 / 9.0 | impact: -0.2 vs peer; significance: +0.2 vs peer |
+| [US/maui-whales](../../../countries/US/sights/maui-whales.yaml) | 9.1 / 9.2 / 9.0 / 9.1 / 8.9 | uniqueness: +0.2 vs peer; significance: +0.2 vs peer |
+| [US/biscayne](../../../countries/US/sights/biscayne.yaml) | 8.9 / 9.0 / 9.0 / 8.9 / 8.9 | uniqueness: +0.4 vs peer; impact: +0.2 vs peer |
+| [US/okefenokee](../../../countries/US/sights/okefenokee.yaml) | 8.7 / 8.9 / 9.2 / 8.5 / 8.7 | experience: +0.6 vs peer; uniqueness: +0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-blue-ridge-parkway — Blue Ridge Parkway Appalachian Scenic Drive — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/blue-ridge-parkway.yaml)
+- Action: new
+- Scope: 469-mile corridor only, excludes endpoint national parks and separately operated destinations; representative visitor center area.
+- Representative coordinates: 35.568, -82.488; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.1 / 9.1 / 9.2 / 9.3.
+- Categories: nature:9.4 photography:9.4 relaxation:9.3.
+- Overall: 91.35/100.
+- Decision: Source-informed provisional assessment from retrieved official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/blri/planyourvisit/basicinfo.htm ; https://www.nps.gov/articles/blri_landscapes.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/big-sur-coast](../../../countries/US/sights/big-sur-coast.yaml) | 9.1 / 8.7 / 8.3 / 9.0 / 8.9 | significance: +0.8 vs peer; uniqueness: +0.4 vs peer |
+| [US/columbia-gorge](../../../countries/US/sights/columbia-gorge.yaml) | 9.2 / 9.0 / 8.8 / 9.2 / 9.1 | significance: +0.3 vs peer; depth: +0.2 vs peer |
+| [US/shenandoah](../../../countries/US/sights/shenandoah.yaml) | 8.7 / 8.5 / 8.6 / 8.9 / 8.9 | uniqueness: +0.6 vs peer; significance: +0.5 vs peer |
+| [US/great-smoky-mountains-national-park](../../../countries/US/sights/great-smoky-mountains-national-park.yaml) | 8.8 / 8.6 / 9.1 / 8.8 / 9.1 | uniqueness: +0.5 vs peer; experience: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-san-juan-whales — San Juan Islands Salish Sea Orca and Whale Watching — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/san-juan-whales.yaml)
+- Action: new
+- Scope: US island shore and lawful boat-based observation grouped; no guarantee of orcas, no Canadian duplication, observe distance rules.
+- Representative coordinates: 48.535, -123.15; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.2 / 9.0 / 9.1 / 9.0.
+- Categories: wildlife:9.4 nature:9.4 photography:9.3.
+- Overall: 90.95/100.
+- Decision: Source-informed provisional assessment from retrieved official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.visitsanjuans.com/whale-watching ; https://www.visitsanjuans.com/be-whale-wise ; https://www.visitsanjuans.com/follow-the-whale-trail.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/maui-whales](../../../countries/US/sights/maui-whales.yaml) | 9.1 / 9.2 / 9.0 / 9.1 / 8.9 | depth: +0.1 vs peer; impact: +0.0 vs peer |
+| [US/juneau-whales](../../../countries/US/sights/juneau-whales.yaml) | 9.0 / 9.1 / 8.8 / 9.1 / 8.9 | significance: +0.2 vs peer; impact: +0.1 vs peer |
+| [US/prince-william-sound](../../../countries/US/sights/prince-william-sound.yaml) | 9.3 / 9.2 / 9.0 / 9.2 / 9.2 | impact: -0.2 vs peer; depth: -0.2 vs peer |
+| [US/channel-islands-national-park](../../../countries/US/sights/channel-islands-national-park.yaml) | 8.7 / 8.8 / 8.8 / 8.8 / 8.8 | impact: +0.4 vs peer; uniqueness: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-monterey-whales — Monterey Bay Marine Sanctuary Offshore Whale Watching — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/monterey-whales.yaml)
+- Action: new
+- Scope: Dedicated offshore wildlife observation, excludes aquarium and terrestrial Big Sur coast; no guaranteed species.
+- Representative coordinates: 36.607, -121.89; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.2 / 9.0 / 9.1 / 9.1.
+- Categories: wildlife:9.4 nature:9.4 photography:9.3.
+- Overall: 91.05/100.
+- Decision: Source-informed provisional assessment from retrieved official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://montereybay.noaa.gov/visitor/whalewatching/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/monterey-bay-aquarium](../../../countries/US/sights/monterey-bay-aquarium.yaml) | 9.1 / 9.1 / 8.8 / 9.2 / 9.1 | significance: +0.2 vs peer; uniqueness: +0.1 vs peer |
+| [US/maui-whales](../../../countries/US/sights/maui-whales.yaml) | 9.1 / 9.2 / 9.0 / 9.1 / 8.9 | depth: +0.2 vs peer; impact: +0.0 vs peer |
+| [US/juneau-whales](../../../countries/US/sights/juneau-whales.yaml) | 9.0 / 9.1 / 8.8 / 9.1 / 8.9 | significance: +0.2 vs peer; depth: +0.2 vs peer |
+| [US/kenai-fjords-national-park](../../../countries/US/sights/kenai-fjords-national-park.yaml) | 9.2 / 8.9 / 8.8 / 9.0 / 8.9 | uniqueness: +0.3 vs peer; significance: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-durango-silverton — Durango and Silverton Narrow Gauge Railroad Historic Scenic Journey — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/durango-silverton.yaml)
+- Action: new
+- Scope: Historic 45-mile railroad journey and depot interpretation grouped; no separate steam excursion entries.
+- Representative coordinates: 37.269, -107.882; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.2 / 9.2 / 9.0.
+- Categories: history:9.4 photography:9.4 nature:9.3.
+- Overall: 91.20/100.
+- Decision: Source-informed provisional assessment from retrieved official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://durangotrain.com/history/ ; https://durangotrain.com/summer-fall/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/white-pass-railway](../../../countries/US/sights/white-pass-railway.yaml) | 9.0 / 9.0 / 8.8 / 9.1 / 8.9 | significance: +0.4 vs peer; uniqueness: +0.2 vs peer |
+| [US/road-to-hana](../../../countries/US/sights/road-to-hana.yaml) | 9.3 / 9.1 / 8.8 / 9.3 / 9.2 | significance: +0.4 vs peer; impact: -0.3 vs peer |
+| [US/big-sur-coast](../../../countries/US/sights/big-sur-coast.yaml) | 9.1 / 8.7 / 8.3 / 9.0 / 8.9 | significance: +0.9 vs peer; uniqueness: +0.5 vs peer |
+| [US/henry-ford-museum](../../../countries/US/sights/henry-ford-museum.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.4 | depth: -0.4 vs peer; impact: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-john-pennekamp — John Pennekamp Coral Reef State Park Key Largo — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/john-pennekamp.yaml)
+- Action: new
+- Scope: Distinct state park and reef tours; current coral condition not independently evaluated, no pristine reef assumption.
+- Representative coordinates: 25.124, -80.407; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.0 / 9.0 / 8.8 / 8.7.
+- Categories: nature:9.3 wildlife:9.3 adventure:9.2.
+- Overall: 89.10/100.
+- Decision: Source-informed provisional assessment from retrieved official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.floridastateparks.org/parks-and-trails/john-pennekamp-coral-reef-state-park.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/biscayne](../../../countries/US/sights/biscayne.yaml) | 8.9 / 9.0 / 9.0 / 8.9 / 8.9 | depth: -0.2 vs peer; experience: -0.1 vs peer |
+| [US/dry-tortugas-national-park](../../../countries/US/sights/dry-tortugas-national-park.yaml) | 8.8 / 9.0 / 8.8 / 8.8 / 8.2 | depth: +0.5 vs peer; significance: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-overseas-highway — Florida Keys Overseas Highway and Seven Mile Bridge — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/overseas-highway.yaml)
+- Action: new
+- Scope: Road and bridge experience only; excludes reef trips and Key West heritage.
+- Representative coordinates: 24.698, -81.18; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.7 / 9.0 / 8.7.
+- Categories: photography:9.3 architecture:9.1 relaxation:9.2.
+- Overall: 88.55/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/big-sur-coast](../../../countries/US/sights/big-sur-coast.yaml) | 9.1 / 8.7 / 8.3 / 9.0 / 8.9 | significance: +0.4 vs peer; impact: -0.2 vs peer |
+| [US/road-to-hana](../../../countries/US/sights/road-to-hana.yaml) | 9.3 / 9.1 / 8.8 / 9.3 / 9.2 | depth: -0.5 vs peer; impact: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-san-juan-skyway — San Juan Skyway and Million Dollar Highway Colorado — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/san-juan-skyway.yaml)
+- Action: new
+- Scope: Scenic road and mountain stops grouped; excludes Durango railroad.
+- Representative coordinates: 37.93, -107.67; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.6 / 9.0 / 8.9.
+- Categories: photography:9.4 nature:9.3 adventure:9.2.
+- Overall: 88.55/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/big-sur-coast](../../../countries/US/sights/big-sur-coast.yaml) | 9.1 / 8.7 / 8.3 / 9.0 / 8.9 | significance: +0.3 vs peer; impact: -0.2 vs peer |
+| [US/maroon-bells](../../../countries/US/sights/maroon-bells.yaml) | 9.2 / 8.9 / 8.5 / 9.0 / 8.8 | impact: -0.3 vs peer; significance: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-mount-washington — Mount Washington Summit and Presidential Range Trails — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/mount-washington.yaml)
+- Action: new
+- Scope: Summit, trails, historic cog railway and auto road grouped; weather-dependent.
+- Representative coordinates: 44.27, -71.303; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.7 / 8.9 / 8.8.
+- Categories: nature:9.3 adventure:9.4 photography:9.3.
+- Overall: 88.50/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/mount-hood](../../../countries/US/sights/mount-hood.yaml) | 9.0 / 8.8 / 8.6 / 9.0 / 8.9 | impact: -0.1 vs peer; uniqueness: +0.1 vs peer |
+| [US/mount-shasta](../../../countries/US/sights/mount-shasta.yaml) | 9.0 / 8.9 / 8.5 / 8.8 / 8.8 | significance: +0.2 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-franconia-notch — Franconia Notch State Park Flume Gorge and Mountain Trails — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/franconia-notch.yaml)
+- Action: new
+- Scope: Flume Gorge, notch and park trails grouped; excludes Presidential Range.
+- Representative coordinates: 44.14, -71.69; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.5 / 8.9 / 8.7.
+- Categories: nature:9.3 photography:9.3 adventure:9.2.
+- Overall: 87.15/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/columbia-gorge](../../../countries/US/sights/columbia-gorge.yaml) | 9.2 / 9.0 / 8.8 / 9.2 / 9.1 | impact: -0.5 vs peer; depth: -0.4 vs peer |
+| [US/shenandoah](../../../countries/US/sights/shenandoah.yaml) | 8.7 / 8.5 / 8.6 / 8.9 / 8.9 | uniqueness: +0.3 vs peer; depth: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-adirondack-high-peaks — Adirondack High Peaks Wilderness Mountain Hiking — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/adirondack-high-peaks.yaml)
+- Action: new
+- Scope: High Peaks trail network, not entire Adirondack Park.
+- Representative coordinates: 44.11, -73.92; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.6 / 9.0 / 9.0.
+- Categories: nature:9.3 adventure:9.4 photography:9.3.
+- Overall: 88.40/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/rocky-mountain-national-park](../../../countries/US/sights/rocky-mountain-national-park.yaml) | 9.1 / 8.5 / 8.7 / 9.1 / 9.0 | uniqueness: +0.3 vs peer; impact: -0.2 vs peer |
+| [US/shenandoah](../../../countries/US/sights/shenandoah.yaml) | 8.7 / 8.5 / 8.6 / 8.9 / 8.9 | uniqueness: +0.3 vs peer; impact: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-finger-lakes-gorges — Finger Lakes Watkins Glen and Regional Gorge Trails — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/finger-lakes-gorges.yaml)
+- Action: new
+- Scope: Watkins Glen and regional accessible gorge trails combined; no separate waterfall scores.
+- Representative coordinates: 42.372, -76.873; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.5 / 9.0 / 8.8.
+- Categories: nature:9.3 photography:9.4 adventure:9.2.
+- Overall: 87.95/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/columbia-gorge](../../../countries/US/sights/columbia-gorge.yaml) | 9.2 / 9.0 / 8.8 / 9.2 / 9.1 | impact: -0.4 vs peer; significance: -0.3 vs peer |
+| [US/pictured-rocks](../../../countries/US/sights/pictured-rocks.yaml) | 9.2 / 9.1 / 8.7 / 9.2 / 9.0 | impact: -0.4 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-letchworth — Letchworth State Park Genesee River Gorge — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/letchworth.yaml)
+- Action: new
+- Scope: Genesee gorge and waterfalls distinct from Finger Lakes drainage.
+- Representative coordinates: 42.58, -78.04; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.5 / 8.9 / 8.7.
+- Categories: nature:9.3 photography:9.4 adventure:9.2.
+- Overall: 87.75/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/new-river-gorge](../../../countries/US/sights/new-river-gorge.yaml) | 8.9 / 8.8 / 8.7 / 9.2 / 9.0 | experience: -0.3 vs peer; depth: -0.3 vs peer |
+| [US/black-canyon-of-the-gunnison-national-park](../../../countries/US/sights/black-canyon-of-the-gunnison-national-park.yaml) | 9.0 / 8.8 / 8.5 / 8.7 / 8.4 | depth: +0.3 vs peer; experience: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-white-mountains-kancamagus — Kancamagus Highway White Mountain Scenic Drive — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/white-mountains-kancamagus.yaml)
+- Action: new
+- Scope: Route-specific scenery, excludes Franconia Notch and Presidential Range.
+- Representative coordinates: 44.005, -71.47; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.7 / 8.3 / 8.9 / 8.6.
+- Categories: photography:9.3 nature:9.2 relaxation:9.1.
+- Overall: 86.10/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/blue-ridge-parkway](../../../countries/US/sights/blue-ridge-parkway.yaml) | 9.1 / 9.1 / 9.1 / 9.2 / 9.3 | significance: -0.8 vs peer; depth: -0.7 vs peer |
+| [US/big-sur-coast](../../../countries/US/sights/big-sur-coast.yaml) | 9.1 / 8.7 / 8.3 / 9.0 / 8.9 | impact: -0.5 vs peer; depth: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-bosque-del-apache — Bosque del Apache National Wildlife Refuge Winter Bird Migration — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/bosque-del-apache.yaml)
+- Action: new
+- Scope: Seasonal waterbird roosts and visitor loop; no guaranteed crane counts.
+- Representative coordinates: 33.804, -106.891; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.8 / 8.9 / 8.8.
+- Categories: wildlife:9.4 nature:9.3 photography:9.4.
+- Overall: 88.40/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/okefenokee](../../../countries/US/sights/okefenokee.yaml) | 8.7 / 8.9 / 9.2 / 8.5 / 8.7 | significance: -0.4 vs peer; experience: +0.4 vs peer |
+| [US/katmai-national-park](../../../countries/US/sights/katmai-national-park.yaml) | 9.1 / 9.3 / 9.1 / 8.9 / 9.1 | uniqueness: -0.4 vs peer; impact: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-ano-nuevo — Año Nuevo State Park Elephant Seal Observation — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/ano-nuevo.yaml)
+- Action: new
+- Scope: Regulated shore-based seal colony viewing, separate from offshore Monterey trips.
+- Representative coordinates: 37.115, -122.306; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 9.0 / 8.8 / 8.8 / 8.7.
+- Categories: wildlife:9.4 nature:9.3 photography:9.3.
+- Overall: 88.40/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/point-reyes](../../../countries/US/sights/point-reyes.yaml) | 9.0 / 8.8 / 8.9 / 9.0 / 9.0 | depth: -0.3 vs peer; impact: -0.2 vs peer |
+| [US/admiralty-pack-creek](../../../countries/US/sights/admiralty-pack-creek.yaml) | 9.1 / 9.2 / 9.0 / 9.1 / 9.0 | impact: -0.3 vs peer; experience: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-santa-cruz-elkhorn — Elkhorn Slough National Estuarine Research Reserve Kayaking and Wildlife — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/santa-cruz-elkhorn.yaml)
+- Action: new
+- Scope: Estuary and permitted paddling, separate from offshore whale watching; avoid wildlife disturbance.
+- Representative coordinates: 36.811, -121.738; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.9 / 8.7 / 8.9 / 8.7.
+- Categories: wildlife:9.3 nature:9.3 adventure:9.2.
+- Overall: 87.50/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/congaree](../../../countries/US/sights/congaree.yaml) | 8.6 / 8.9 / 8.8 / 8.7 / 8.7 | experience: +0.2 vs peer; significance: -0.1 vs peer |
+| [US/okefenokee](../../../countries/US/sights/okefenokee.yaml) | 8.7 / 8.9 / 9.2 / 8.5 / 8.7 | significance: -0.5 vs peer; experience: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-tallgrass-prairie — Tallgrass Prairie National Preserve Kansas — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/tallgrass-prairie.yaml)
+- Action: new
+- Scope: Preserved prairie, ranch heritage and bison habitat.
+- Representative coordinates: 38.432, -96.558; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.9 / 9.0 / 8.5 / 8.8.
+- Categories: nature:9.3 wildlife:9.2 history:9.1.
+- Overall: 87.00/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/carrizo-plain](../../../countries/US/sights/carrizo-plain.yaml) | 8.8 / 9.0 / 8.8 / 8.7 / 8.7 | impact: -0.4 vs peer; significance: +0.2 vs peer |
+| [US/theodore-roosevelt](../../../countries/US/sights/theodore-roosevelt.yaml) | 8.8 / 8.7 / 8.7 / 8.8 / 8.8 | impact: -0.4 vs peer; significance: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-niobrara-river — Niobrara National Scenic River Nebraska Paddling and Waterfalls — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/niobrara-river.yaml)
+- Action: new
+- Scope: River paddling and waterfall landscape; no separate Smith Falls record.
+- Representative coordinates: 42.88, -100.26; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.7 / 8.6 / 8.9 / 8.7.
+- Categories: nature:9.3 adventure:9.3 photography:9.2.
+- Overall: 86.80/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/buffalo-national-river](../../../countries/US/sights/buffalo-national-river.yaml) | 8.8 / 8.9 / 8.8 / 9.0 / 8.9 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+| [US/new-river-gorge](../../../countries/US/sights/new-river-gorge.yaml) | 8.9 / 8.8 / 8.7 / 9.2 / 9.0 | impact: -0.3 vs peer; experience: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-garden-of-gods — Garden of the Gods Colorado Springs Red Rock Park — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/garden-of-gods.yaml)
+- Action: new
+- Scope: Independent sandstone park, excludes Pikes Peak.
+- Representative coordinates: 38.878, -104.87; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.4 / 8.9 / 8.5.
+- Categories: nature:9.3 photography:9.4 adventure:9.2.
+- Overall: 87.35/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/sedona-red-rock](../../../countries/US/sights/sedona-red-rock.yaml) | 9.3 / 9.1 / 8.6 / 9.3 / 9.2 | depth: -0.7 vs peer; impact: -0.4 vs peer |
+| [US/chiricahua](../../../countries/US/sights/chiricahua.yaml) | 9.1 / 9.2 / 8.7 / 9.0 / 8.8 | uniqueness: -0.4 vs peer; significance: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-pikes-peak — Pikes Peak Summit Highway and Cog Railway — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/pikes-peak.yaml)
+- Action: new
+- Scope: Mountain summit and transport experiences combined, separate from Garden of the Gods.
+- Representative coordinates: 38.841, -105.043; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.8 / 8.9 / 8.8.
+- Categories: nature:9.3 photography:9.4 adventure:9.2.
+- Overall: 88.45/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/mount-rainier-national-park](../../../countries/US/sights/mount-rainier-national-park.yaml) | 9.2 / 8.7 / 8.8 / 9.1 / 9.1 | impact: -0.3 vs peer; depth: -0.3 vs peer |
+| [US/mount-shasta](../../../countries/US/sights/mount-shasta.yaml) | 9.0 / 8.9 / 8.5 / 8.8 / 8.8 | significance: +0.3 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-spearfish-canyon — Black Hills Spearfish Canyon Scenic Byway — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/spearfish-canyon.yaml)
+- Action: new
+- Scope: Separate northern Black Hills canyon and waterfall road; excludes Custer and cave parks.
+- Representative coordinates: 44.35, -103.93; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.6 / 8.4 / 8.8 / 8.6.
+- Categories: nature:9.2 photography:9.3 relaxation:9.1.
+- Overall: 85.90/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/custer-state-park](../../../countries/US/sights/custer-state-park.yaml) | 8.9 / 8.8 / 8.7 / 9.0 / 9.0 | depth: -0.4 vs peer; impact: -0.3 vs peer |
+| [US/columbia-gorge](../../../countries/US/sights/columbia-gorge.yaml) | 9.2 / 9.0 / 8.8 / 9.2 / 9.1 | impact: -0.6 vs peer; depth: -0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+## sight-us-corning-glass — Corning Museum of Glass — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/corning-glass.yaml)
+- Action: new
+- Scope: Glass art and technology collections and live glassmaking; 3,500 years and over 50,000 objects.
+- Representative coordinates: 42.149, -77.054; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.4 / 9.2 / 9.2 / 9.3.
+- Categories: culture:9.4 history:9.2 family:9.3.
+- Overall: 92.30/100.
+- Decision: Source-informed provisional assessment from official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://info.cmog.org/; https://press.cmog.org/about-the-corning-museum-of-glass-fact-sheet.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/musical-instrument-museum](../../../countries/US/sights/musical-instrument-museum.yaml) | 9.1 / 9.3 / 9.0 / 9.3 / 9.3 | significance: +0.2 vs peer; uniqueness: +0.1 vs peer |
+| [US/computer-history-museum](../../../countries/US/sights/computer-history-museum.yaml) | 9.1 / 9.4 / 9.3 / 9.1 / 9.3 | significance: -0.1 vs peer; experience: +0.1 vs peer |
+| [US/exploratorium](../../../countries/US/sights/exploratorium.yaml) | 9.0 / 9.3 / 8.9 / 9.4 / 9.3 | significance: +0.3 vs peer; experience: -0.2 vs peer |
+| [US/henry-ford-museum](../../../countries/US/sights/henry-ford-museum.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.4 | impact: -0.1 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-national-wwi-museum — National World War I Museum and Memorial Kansas City — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/national-wwi-museum.yaml)
+- Action: new
+- Scope: Museum exhibitions and Liberty Memorial grouped; extensive international WWI collection and permanent exhibition.
+- Representative coordinates: 39.08, -94.586; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.1 / 9.4 / 9.0 / 9.2.
+- Categories: history:9.4 culture:9.2 architecture:9.0.
+- Overall: 91.55/100.
+- Decision: Source-informed provisional assessment from official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.theworldwar.org/plan-your-visit; https://www.theworldwar.org/exhibitions.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-wwii-museum](../../../countries/US/sights/national-wwii-museum.yaml) | 9.1 / 9.2 / 9.3 / 9.2 / 9.4 | experience: -0.2 vs peer; depth: -0.2 vs peer |
+| [US/national-civil-rights-museum](../../../countries/US/sights/national-civil-rights-museum.yaml) | 9.1 / 9.3 / 9.4 / 9.0 / 9.3 | uniqueness: -0.2 vs peer; depth: -0.1 vs peer |
+| [US/american-revolution-museum](../../../countries/US/sights/american-revolution-museum.yaml) | 8.9 / 9.1 / 9.3 / 9.1 / 9.2 | impact: +0.2 vs peer; significance: +0.1 vs peer |
+| [US/national-museum-american-history](../../../countries/US/sights/national-museum-american-history.yaml) | 9.1 / 9.2 / 9.4 / 9.1 / 9.4 | depth: -0.2 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-montgomery-legacy-sites — Montgomery Legacy Museum and National Memorial for Peace and Justice — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/montgomery-legacy-sites.yaml)
+- Action: new
+- Scope: Integrated Legacy Sites including memorial, museum and Freedom Monument; historical interpretation of slavery, racial injustice and civil rights.
+- Representative coordinates: 32.383, -86.311; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.3 / 9.4 / 9.0 / 9.1.
+- Categories: history:9.4 culture:9.4 architecture:9.0.
+- Overall: 92.55/100.
+- Decision: Source-informed provisional assessment from official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://legacysites.eji.org/visit/; https://legacysites.eji.org/about/memorial/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-civil-rights-museum](../../../countries/US/sights/national-civil-rights-museum.yaml) | 9.1 / 9.3 / 9.4 / 9.0 / 9.3 | impact: +0.2 vs peer; depth: -0.2 vs peer |
+| [US/holocaust-memorial-museum](../../../countries/US/sights/holocaust-memorial-museum.yaml) | 9.1 / 9.3 / 9.4 / 9.0 / 9.4 | depth: -0.3 vs peer; impact: +0.2 vs peer |
+| [US/national-museum-of-african-american-history-and-culture](../../../countries/US/sights/national-museum-of-african-american-history-and-culture.yaml) | 9.0 / 9.2 / 9.4 / 9.1 / 9.2 | impact: +0.3 vs peer; uniqueness: +0.1 vs peer |
+| [US/huntington](../../../countries/US/sights/huntington.yaml) | 9.2 / 9.3 / 9.2 / 9.3 / 9.4 | experience: -0.3 vs peer; depth: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-tenement-museum — Lower East Side Tenement Museum New York — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/tenement-museum.yaml)
+- Action: new
+- Scope: Guided visits to historically reconstructed apartments in preserved tenement buildings; separate from Ellis Island immigration processing history.
+- Representative coordinates: 40.718, -73.99; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.2 / 9.1 / 9.0.
+- Categories: history:9.4 culture:9.3 architecture:8.9.
+- Overall: 91.30/100.
+- Decision: Source-informed provisional assessment from official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.tenement.org/apartment-tours/; https://www.nps.gov/loea/index.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/ellis-island](../../../countries/US/sights/ellis-island.yaml) | 8.1 / 8.8 / 9.3 / 8.6 / 8.3 | impact: +0.9 vs peer; depth: +0.7 vs peer |
+| [US/colonial-williamsburg](../../../countries/US/sights/colonial-williamsburg.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.4 | depth: -0.4 vs peer; impact: -0.2 vs peer |
+| [US/american-revolution-museum](../../../countries/US/sights/american-revolution-museum.yaml) | 8.9 / 9.1 / 9.3 / 9.1 / 9.2 | uniqueness: +0.2 vs peer; depth: -0.2 vs peer |
+| [US/national-museum-american-history](../../../countries/US/sights/national-museum-american-history.yaml) | 9.1 / 9.2 / 9.4 / 9.1 / 9.4 | depth: -0.4 vs peer; significance: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-mystic-seaport — Mystic Seaport Museum Maritime Village and Historic Vessels — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/mystic-seaport.yaml)
+- Action: new
+- Scope: Working preservation shipyard, historic vessels, maritime village and exhibitions grouped.
+- Representative coordinates: 41.361, -71.966; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.1 / 9.2 / 9.3.
+- Categories: history:9.3 culture:9.2 family:9.3.
+- Overall: 91.30/100.
+- Decision: Source-informed provisional assessment from official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://mysticseaport.org/about/; https://mysticseaport.org/explore/vessels/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/henry-ford-museum](../../../countries/US/sights/henry-ford-museum.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.4 | impact: -0.2 vs peer; significance: -0.2 vs peer |
+| [US/colonial-williamsburg](../../../countries/US/sights/colonial-williamsburg.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.4 | impact: -0.2 vs peer; significance: -0.2 vs peer |
+| [US/uss-midway-museum](../../../countries/US/sights/uss-midway-museum.yaml) | 8.9 / 9.1 / 9.0 / 9.2 / 9.1 | depth: +0.2 vs peer; impact: +0.1 vs peer |
+| [US/intrepid-museum](../../../countries/US/sights/intrepid-museum.yaml) | 9.1 / 9.3 / 9.2 / 9.2 / 9.1 | depth: +0.2 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-newport-mansions — Newport Gilded Age Mansions and Gardens — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/newport-mansions.yaml)
+- Action: new
+- Scope: The Breakers and associated public mansion estate tours grouped; no independent duplicate mansion entries.
+- Representative coordinates: 41.469, -71.298; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 8.9 / 9.0 / 9.0 / 9.0.
+- Categories: architecture:9.4 history:9.2 photography:9.3.
+- Overall: 89.75/100.
+- Decision: Source-informed provisional assessment from official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.newportmansions.org/plan-a-visit/mansions-gardens/; https://www.newportmansions.org/mansions-and-gardens/the-breakers/history/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/fallingwater](../../../countries/US/sights/fallingwater.yaml) | 9.0 / 9.1 / 9.0 / 8.5 / 7.8 | depth: +1.2 vs peer; experience: +0.5 vs peer |
+| [US/gardner-museum](../../../countries/US/sights/gardner-museum.yaml) | 8.8 / 9.2 / 8.9 / 9.0 / 9.0 | uniqueness: -0.3 vs peer; impact: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-hearst-castle — Hearst Castle San Simeon — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/hearst-castle.yaml)
+- Action: new
+- Scope: Julia Morgan estate architecture, art and gardens; distinct ticketed experience outside the Big Sur corridor.
+- Representative coordinates: 35.685, -121.168; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 8.9 / 8.9 / 9.0 / 8.9.
+- Categories: architecture:9.4 history:9.1 photography:9.3.
+- Overall: 89.45/100.
+- Decision: Source-informed provisional assessment from official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://hearstcastle.org/reserve/tour-hearst-castle/; https://hearstcastle.org/tour/designing-the-dream-tour/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/fallingwater](../../../countries/US/sights/fallingwater.yaml) | 9.0 / 9.1 / 9.0 / 8.5 / 7.8 | depth: +1.1 vs peer; experience: +0.5 vs peer |
+| [US/taliesin-west](../../../countries/US/sights/taliesin-west.yaml) | 8.6 / 8.9 / 9.0 / 8.4 / 8.2 | depth: +0.7 vs peer; experience: +0.6 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-old-sturbridge — Old Sturbridge Village Living History Museum — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/old-sturbridge.yaml)
+- Action: new
+- Scope: Recreated rural New England village, historic trades and farm demonstrations.
+- Representative coordinates: 42.108, -72.096; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.8 / 9.1 / 9.1.
+- Categories: history:9.3 culture:9.2 family:9.3.
+- Overall: 89.00/100.
+- Decision: Source-informed provisional assessment from official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.osv.org/explore-the-village/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/colonial-williamsburg](../../../countries/US/sights/colonial-williamsburg.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.4 | significance: -0.5 vs peer; impact: -0.4 vs peer |
+| [US/henry-ford-museum](../../../countries/US/sights/henry-ford-museum.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.4 | significance: -0.5 vs peer; impact: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-manzanar — Manzanar National Historic Site — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/manzanar.yaml)
+- Action: new
+- Scope: Japanese American wartime incarceration history interpreted through museum and reconstructed barracks.
+- Representative coordinates: 36.728, -118.147; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.7 / 8.9 / 9.3 / 8.8 / 8.8.
+- Categories: history:9.4 culture:9.2 photography:8.7.
+- Overall: 88.95/100.
+- Decision: Source-informed provisional assessment from official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/manz/planyourvisit/trip-plans.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-civil-rights-museum](../../../countries/US/sights/national-civil-rights-museum.yaml) | 9.1 / 9.3 / 9.4 / 9.0 / 9.3 | depth: -0.5 vs peer; impact: -0.4 vs peer |
+| [US/ellis-island](../../../countries/US/sights/ellis-island.yaml) | 8.1 / 8.8 / 9.3 / 8.6 / 8.3 | impact: +0.6 vs peer; depth: +0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-little-rock-central-high — Little Rock Central High School National Historic Site — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/little-rock-central-high.yaml)
+- Action: new
+- Scope: Visitor center, public grounds and school integration history; no assumed interior school access.
+- Representative coordinates: 34.738, -92.298; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.5 / 8.8 / 9.3 / 8.6 / 8.5.
+- Categories: history:9.4 culture:9.2 architecture:8.7.
+- Overall: 87.50/100.
+- Decision: Source-informed provisional assessment from official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/chsc/planyourvisit/basicinfo.htm; https://www.nps.gov/articles/littlerock.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-civil-rights-museum](../../../countries/US/sights/national-civil-rights-museum.yaml) | 9.1 / 9.3 / 9.4 / 9.0 / 9.3 | depth: -0.8 vs peer; impact: -0.6 vs peer |
+| [US/kaloko-honokohau](../../../countries/US/sights/kaloko-honokohau.yaml) | 8.5 / 8.9 / 9.1 / 8.6 / 8.7 | significance: +0.2 vs peer; depth: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-biltmore-estate — Biltmore Estate Asheville Mansion and Gardens — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/biltmore-estate.yaml)
+- Action: new
+- Scope: Historic mansion and landscaped estate grouped.
+- Representative coordinates: 35.54, -82.552; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.7 / 8.8 / 9.0 / 9.0.
+- Categories: architecture:9.3 history:9.1 photography:9.2.
+- Overall: 88.55/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/fallingwater](../../../countries/US/sights/fallingwater.yaml) | 9.0 / 9.1 / 9.0 / 8.5 / 7.8 | depth: +1.2 vs peer; experience: +0.5 vs peer |
+| [US/monticello](../../../countries/US/sights/monticello.yaml) | 8.2 / 8.7 / 9.0 / 8.5 / 8.0 | depth: +1.0 vs peer; impact: +0.7 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-shelburne-museum — Shelburne Museum Vermont Art and Americana — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/shelburne-museum.yaml)
+- Action: new
+- Scope: Decorative arts, relocated buildings and historic steamboat within one campus.
+- Representative coordinates: 44.375, -73.232; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.7 / 8.9 / 9.1.
+- Categories: culture:9.2 history:9.2 family:9.1.
+- Overall: 88.50/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/henry-ford-museum](../../../countries/US/sights/henry-ford-museum.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.4 | significance: -0.6 vs peer; impact: -0.4 vs peer |
+| [US/colonial-williamsburg](../../../countries/US/sights/colonial-williamsburg.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.4 | significance: -0.6 vs peer; impact: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-plimoth-patuxet — Plimoth Patuxet Museums Plymouth Living History — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/plimoth-patuxet.yaml)
+- Action: new
+- Scope: Living history campus and associated Mayflower II interpretation grouped.
+- Representative coordinates: 41.938, -70.627; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 9.0 / 8.8 / 8.9.
+- Categories: history:9.3 culture:9.2 family:9.2.
+- Overall: 88.75/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/colonial-williamsburg](../../../countries/US/sights/colonial-williamsburg.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.4 | depth: -0.5 vs peer; impact: -0.4 vs peer |
+| [US/jamestown](../../../countries/US/sights/jamestown.yaml) | 8.6 / 8.9 / 9.3 / 8.7 / 8.8 | significance: -0.3 vs peer; impact: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-fort-ticonderoga — Fort Ticonderoga Historic Fort and Museum — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/fort-ticonderoga.yaml)
+- Action: new
+- Scope: Historic fort, exhibitions and demonstrations.
+- Representative coordinates: 43.842, -73.388; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.6 / 9.0 / 8.8 / 8.8.
+- Categories: history:9.2 architecture:9.0 photography:9.0.
+- Overall: 87.60/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/fort-sumter](../../../countries/US/sights/fort-sumter.yaml) | 8.6 / 8.8 / 9.2 / 8.7 / 8.8 | uniqueness: -0.2 vs peer; significance: -0.2 vs peer |
+| [US/gettysburg](../../../countries/US/sights/gettysburg.yaml) | 9.1 / 9.1 / 9.4 / 9.0 / 9.3 | uniqueness: -0.5 vs peer; depth: -0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-fort-mchenry — Fort McHenry National Monument and Historic Shrine Baltimore — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/fort-mchenry.yaml)
+- Action: new
+- Scope: Historic fort and national anthem interpretation.
+- Representative coordinates: 39.263, -76.58; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.6 / 9.1 / 8.7 / 8.5.
+- Categories: history:9.3 architecture:8.9 photography:8.8.
+- Overall: 86.75/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/fort-sumter](../../../countries/US/sights/fort-sumter.yaml) | 8.6 / 8.8 / 9.2 / 8.7 / 8.8 | depth: -0.3 vs peer; uniqueness: -0.2 vs peer |
+| [US/yorktown](../../../countries/US/sights/yorktown.yaml) | 8.6 / 8.8 / 9.2 / 8.7 / 8.8 | depth: -0.3 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-angel-island — Angel Island Immigration Station and State Park — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/angel-island.yaml)
+- Action: new
+- Scope: Immigration station and island trails grouped; distinct from Alcatraz.
+- Representative coordinates: 37.861, -122.432; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 9.0 / 8.8 / 8.7.
+- Categories: history:9.2 nature:9.0 culture:9.1.
+- Overall: 88.00/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/ellis-island](../../../countries/US/sights/ellis-island.yaml) | 8.1 / 8.8 / 9.3 / 8.6 / 8.3 | impact: +0.6 vs peer; depth: +0.4 vs peer |
+| [US/alcatraz-island](../../../countries/US/sights/alcatraz-island.yaml) | 8.6 / 9.0 / 9.0 / 9.1 / 8.4 | experience: -0.3 vs peer; depth: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-vizcaya — Vizcaya Museum and Gardens Miami — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/vizcaya.yaml)
+- Action: new
+- Scope: Historic waterfront villa and formal gardens.
+- Representative coordinates: 25.744, -80.211; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.6 / 8.9 / 8.8.
+- Categories: architecture:9.3 photography:9.3 history:8.9.
+- Overall: 87.50/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/fallingwater](../../../countries/US/sights/fallingwater.yaml) | 9.0 / 9.1 / 9.0 / 8.5 / 7.8 | depth: +1.0 vs peer; uniqueness: -0.4 vs peer |
+| [US/getty-villa](../../../countries/US/sights/getty-villa.yaml) | 8.9 / 9.0 / 9.1 / 9.0 / 8.7 | significance: -0.5 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-whitney-plantation — Whitney Plantation Museum Louisiana — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/whitney-plantation.yaml)
+- Action: new
+- Scope: Historic plantation interpreted through the lives of enslaved people.
+- Representative coordinates: 30.04, -90.65; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 9.1 / 8.8 / 8.7.
+- Categories: history:9.3 culture:9.2 architecture:8.8.
+- Overall: 88.45/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-civil-rights-museum](../../../countries/US/sights/national-civil-rights-museum.yaml) | 9.1 / 9.3 / 9.4 / 9.0 / 9.3 | depth: -0.6 vs peer; impact: -0.4 vs peer |
+| [US/monticello](../../../countries/US/sights/monticello.yaml) | 8.2 / 8.7 / 9.0 / 8.5 / 8.0 | depth: +0.7 vs peer; impact: +0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-museum-pop-culture — Museum of Pop Culture Seattle — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/museum-pop-culture.yaml)
+- Action: new
+- Scope: Music, film and popular culture exhibitions; separate from Space Needle.
+- Representative coordinates: 47.621, -122.348; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 8.6 / 8.9 / 8.8.
+- Categories: culture:9.3 architecture:9.0 family:9.0.
+- Overall: 87.70/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/rock-roll-hall-fame](../../../countries/US/sights/rock-roll-hall-fame.yaml) | 8.8 / 8.9 / 8.9 / 8.9 / 8.9 | significance: -0.3 vs peer; impact: -0.1 vs peer |
+| [US/motown-museum](../../../countries/US/sights/motown-museum.yaml) | 8.7 / 9.0 / 9.1 / 8.8 / 8.6 | significance: -0.5 vs peer; depth: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-national-underground-railroad — National Underground Railroad Freedom Center Cincinnati — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/national-underground-railroad.yaml)
+- Action: new
+- Scope: Museum of slavery, freedom movements and Underground Railroad history.
+- Representative coordinates: 39.097, -84.511; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 9.1 / 8.8 / 8.9.
+- Categories: history:9.3 culture:9.2 architecture:8.7.
+- Overall: 88.95/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-civil-rights-museum](../../../countries/US/sights/national-civil-rights-museum.yaml) | 9.1 / 9.3 / 9.4 / 9.0 / 9.3 | uniqueness: -0.4 vs peer; depth: -0.4 vs peer |
+| [US/national-museum-of-african-american-history-and-culture](../../../countries/US/sights/national-museum-of-african-american-history-and-culture.yaml) | 9.0 / 9.2 / 9.4 / 9.1 / 9.2 | uniqueness: -0.3 vs peer; significance: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-fort-pulaski — Fort Pulaski National Monument Georgia — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/fort-pulaski.yaml)
+- Action: new
+- Scope: Historic masonry fort and surrounding trails, outside Savannah historic district.
+- Representative coordinates: 32.027, -80.89; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.6 / 8.8 / 8.7 / 8.6.
+- Categories: history:9.1 architecture:9.0 photography:8.9.
+- Overall: 86.25/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/fort-sumter](../../../countries/US/sights/fort-sumter.yaml) | 8.6 / 8.8 / 9.2 / 8.7 / 8.8 | significance: -0.4 vs peer; uniqueness: -0.2 vs peer |
+| [US/yorktown](../../../countries/US/sights/yorktown.yaml) | 8.6 / 8.8 / 9.2 / 8.7 / 8.8 | significance: -0.4 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-national-pacific-war — National Museum of the Pacific War Fredericksburg — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/national-pacific-war.yaml)
+- Action: new
+- Scope: Pacific War galleries and associated museum campus grouped.
+- Representative coordinates: 30.274, -98.866; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.8 / 9.0 / 8.9 / 9.0.
+- Categories: history:9.3 culture:9.0 family:8.9.
+- Overall: 89.05/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-wwii-museum](../../../countries/US/sights/national-wwii-museum.yaml) | 9.1 / 9.2 / 9.3 / 9.2 / 9.4 | uniqueness: -0.4 vs peer; depth: -0.4 vs peer |
+| [US/national-usaf-museum](../../../countries/US/sights/national-usaf-museum.yaml) | 9.1 / 9.3 / 9.3 / 9.1 / 9.4 | uniqueness: -0.5 vs peer; depth: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+## sight-us-longwood-gardens — Longwood Gardens Conservatories and Fountain Gardens — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/longwood-gardens.yaml)
+- Action: new
+- Scope: Garden estate, conservatories and fountain shows grouped; 1,100-acre estate, not all open to visitors.
+- Representative coordinates: 39.872, -75.674; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.2 / 9.1 / 9.4 / 9.2.
+- Categories: nature:9.4 photography:9.4 relaxation:9.3.
+- Overall: 92.40/100.
+- Decision: Source-informed provisional assessment from retrieved official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://extension.psu.edu/great-greenhouses-of-pennsylvania-longwood-gardens; https://www.visitphilly.com/things-to-do/attractions/longwood-gardens/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/huntington](../../../countries/US/sights/huntington.yaml) | 9.2 / 9.3 / 9.2 / 9.3 / 9.4 | depth: -0.2 vs peer; impact: +0.1 vs peer |
+| [US/chihuly-garden-and-glass](../../../countries/US/sights/chihuly-garden-and-glass.yaml) | 8.9 / 9.0 / 8.2 / 8.9 / 8.3 | significance: +0.9 vs peer; depth: +0.9 vs peer |
+| [US/golden-gate-park](../../../countries/US/sights/golden-gate-park.yaml) | 8.7 / 8.6 / 8.7 / 9.0 / 9.2 | impact: +0.6 vs peer; uniqueness: +0.6 vs peer |
+| [US/vizcaya](../../../countries/US/sights/vizcaya.yaml) | 8.8 / 8.7 / 8.6 / 8.9 / 8.8 | impact: +0.5 vs peer; uniqueness: +0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-ny-botanical-garden — New York Botanical Garden Bronx Conservatory and Collections — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/ny-botanical-garden.yaml)
+- Action: new
+- Scope: 250-acre botanical institution with conservatory, native plant gardens and old-growth woodland.
+- Representative coordinates: 40.862, -73.877; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.0 / 9.2 / 9.2 / 9.2.
+- Categories: nature:9.4 photography:9.3 relaxation:9.2.
+- Overall: 91.20/100.
+- Decision: Source-informed provisional assessment from retrieved official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nybg.org/gardens/gardens-collections/; https://www.nybg.org/about/institutional-information.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/huntington](../../../countries/US/sights/huntington.yaml) | 9.2 / 9.3 / 9.2 / 9.3 / 9.4 | uniqueness: -0.3 vs peer; depth: -0.2 vs peer |
+| [US/golden-gate-park](../../../countries/US/sights/golden-gate-park.yaml) | 8.7 / 8.6 / 8.7 / 9.0 / 9.2 | significance: +0.5 vs peer; impact: +0.4 vs peer |
+| [US/chihuly-garden-and-glass](../../../countries/US/sights/chihuly-garden-and-glass.yaml) | 8.9 / 9.0 / 8.2 / 8.9 / 8.3 | significance: +1.0 vs peer; depth: +0.9 vs peer |
+| [US/vizcaya](../../../countries/US/sights/vizcaya.yaml) | 8.8 / 8.7 / 8.6 / 8.9 / 8.8 | significance: +0.6 vs peer; depth: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-country-music-hall — Country Music Hall of Fame and Museum Nashville — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/country-music-hall.yaml)
+- Action: new
+- Scope: Museum, affiliated RCA Studio B tour and Hatch Show Print interpretation grouped; excludes separate live concert venues.
+- Representative coordinates: 36.159, -86.776; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.3 / 9.1 / 9.2.
+- Categories: culture:9.4 history:9.3 family:8.9.
+- Overall: 91.70/100.
+- Decision: Source-informed provisional assessment from retrieved official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.countrymusichalloffame.org/press/museum-information; https://countrymusichalloffame.org/experiences/calendar/exhibitions.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/musical-instrument-museum](../../../countries/US/sights/musical-instrument-museum.yaml) | 9.1 / 9.3 / 9.0 / 9.3 / 9.3 | significance: +0.3 vs peer; experience: -0.2 vs peer |
+| [US/rock-roll-hall-fame](../../../countries/US/sights/rock-roll-hall-fame.yaml) | 8.8 / 8.9 / 8.9 / 8.9 / 8.9 | uniqueness: +0.4 vs peer; significance: +0.4 vs peer |
+| [US/motown-museum](../../../countries/US/sights/motown-museum.yaml) | 8.7 / 9.0 / 9.1 / 8.8 / 8.6 | depth: +0.6 vs peer; impact: +0.3 vs peer |
+| [US/museum-pop-culture](../../../countries/US/sights/museum-pop-culture.yaml) | 8.7 / 8.9 / 8.6 / 8.9 / 8.8 | significance: +0.7 vs peer; uniqueness: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-graceland — Graceland Elvis Presley Mansion and Museum Memphis — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/graceland.yaml)
+- Action: new
+- Scope: Preserved mansion and adjacent exhibition complex grouped.
+- Representative coordinates: 35.047, -90.023; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.2 / 9.0 / 9.0.
+- Categories: culture:9.4 history:9.2 architecture:8.8.
+- Overall: 91.15/100.
+- Decision: Source-informed provisional assessment from retrieved official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.graceland.com/mansion; https://www.graceland.com/live-the-legacy.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/motown-museum](../../../countries/US/sights/motown-museum.yaml) | 8.7 / 9.0 / 9.1 / 8.8 / 8.6 | depth: +0.4 vs peer; impact: +0.3 vs peer |
+| [US/rock-roll-hall-fame](../../../countries/US/sights/rock-roll-hall-fame.yaml) | 8.8 / 8.9 / 8.9 / 8.9 / 8.9 | uniqueness: +0.4 vs peer; significance: +0.3 vs peer |
+| [US/musical-instrument-museum](../../../countries/US/sights/musical-instrument-museum.yaml) | 9.1 / 9.3 / 9.0 / 9.3 / 9.3 | experience: -0.3 vs peer; depth: -0.3 vs peer |
+| [US/newport-mansions](../../../countries/US/sights/newport-mansions.yaml) | 9.0 / 8.9 / 9.0 / 9.0 / 9.0 | uniqueness: +0.4 vs peer; significance: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-missouri-botanical — Missouri Botanical Garden St Louis — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/missouri-botanical.yaml)
+- Action: new
+- Scope: Historic botanical gardens and conservatories, including Japanese garden; 79 acres.
+- Representative coordinates: 38.615, -90.259; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.0 / 9.1 / 9.1 / 9.1.
+- Categories: nature:9.4 photography:9.3 relaxation:9.2.
+- Overall: 90.45/100.
+- Decision: Source-informed provisional assessment from retrieved official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.missouribotanicalgarden.org/gardens-gardening/our-garden/gardens-conservatories/japanese-garden.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/huntington](../../../countries/US/sights/huntington.yaml) | 9.2 / 9.3 / 9.2 / 9.3 / 9.4 | uniqueness: -0.3 vs peer; depth: -0.3 vs peer |
+| [US/golden-gate-park](../../../countries/US/sights/golden-gate-park.yaml) | 8.7 / 8.6 / 8.7 / 9.0 / 9.2 | uniqueness: +0.4 vs peer; significance: +0.4 vs peer |
+| [US/chihuly-garden-and-glass](../../../countries/US/sights/chihuly-garden-and-glass.yaml) | 8.9 / 9.0 / 8.2 / 8.9 / 8.3 | significance: +0.9 vs peer; depth: +0.8 vs peer |
+| [US/vizcaya](../../../countries/US/sights/vizcaya.yaml) | 8.8 / 8.7 / 8.6 / 8.9 / 8.8 | significance: +0.5 vs peer; uniqueness: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-national-aquarium — National Aquarium Baltimore Inner Harbor — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/national-aquarium.yaml)
+- Action: new
+- Scope: Aquatic habitats and conservation exhibitions, including reef and rainforest; excludes general harbor.
+- Representative coordinates: 39.285, -76.608; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 8.9 / 9.0 / 9.3 / 9.1.
+- Categories: wildlife:9.3 family:9.4 nature:9.0.
+- Overall: 90.30/100.
+- Decision: Source-informed provisional assessment from retrieved official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://aqua.org/explore/exhibits; https://aqua.org/explore.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/monterey-bay-aquarium](../../../countries/US/sights/monterey-bay-aquarium.yaml) | 9.1 / 9.1 / 8.8 / 9.2 / 9.1 | uniqueness: -0.2 vs peer; significance: +0.2 vs peer |
+| [US/georgia-aquarium](../../../countries/US/sights/georgia-aquarium.yaml) | 9.2 / 9.1 / 8.4 / 9.2 / 9.2 | significance: +0.6 vs peer; impact: -0.2 vs peer |
+| [US/california-academy-sciences](../../../countries/US/sights/california-academy-sciences.yaml) | 9.1 / 9.3 / 9.1 / 9.3 / 9.3 | uniqueness: -0.4 vs peer; depth: -0.2 vs peer |
+| [US/san-diego-zoo](../../../countries/US/sights/san-diego-zoo.yaml) | 9.0 / 8.9 / 8.5 / 9.3 / 9.4 | significance: +0.5 vs peer; depth: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-bisti-badlands — Bisti De-Na-Zin Wilderness Badlands New Mexico — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/bisti-badlands.yaml)
+- Action: new
+- Scope: Distinct eroded badlands and fossil-bearing landforms; not adjacent Ah-Shi-Sle-Pah or Chaco archaeological area.
+- Representative coordinates: 36.259, -108.249; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.4 / 8.6 / 8.9 / 8.9.
+- Categories: nature:9.4 photography:9.4 adventure:9.2.
+- Overall: 90.55/100.
+- Decision: Source-informed provisional assessment from retrieved official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.blm.gov/programs/national-conservation-lands/new-mexico/bisti-de-na-zin-wilderness; https://geoinfo.nmt.edu/tour/home.cfml?id=34&site=BistiDeNaZin+Wilderness.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/goblin-valley](../../../countries/US/sights/goblin-valley.yaml) | 8.9 / 9.1 / 8.4 / 8.9 / 8.6 | impact: +0.3 vs peer; uniqueness: +0.3 vs peer |
+| [US/vermilion-cliffs](../../../countries/US/sights/vermilion-cliffs.yaml) | 9.5 / 9.4 / 8.8 / 9.2 / 9.1 | impact: -0.3 vs peer; experience: -0.3 vs peer |
+| [US/badlands-national-park](../../../countries/US/sights/badlands-national-park.yaml) | 8.6 / 8.6 / 8.6 / 8.6 / 8.5 | uniqueness: +0.8 vs peer; impact: +0.6 vs peer |
+| [US/john-day-fossil-beds](../../../countries/US/sights/john-day-fossil-beds.yaml) | 8.9 / 9.0 / 8.9 / 8.8 / 8.9 | uniqueness: +0.4 vs peer; impact: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-eaa-aviation — EAA Aviation Museum Oshkosh — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/eaa-aviation.yaml)
+- Action: new
+- Scope: Permanent aircraft collection and seasonal Pioneer Airport; not temporary AirVenture event.
+- Representative coordinates: 43.984, -88.577; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.0 / 9.0 / 9.0 / 9.0.
+- Categories: history:9.2 culture:9.0 family:9.3.
+- Overall: 89.70/100.
+- Decision: Source-informed provisional assessment from retrieved official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.eaa.org/eaa-museum/visitor-information; https://www.eaa.org/eaa-museum/museum-collection/aircraft-collection.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-usaf-museum](../../../countries/US/sights/national-usaf-museum.yaml) | 9.1 / 9.3 / 9.3 / 9.1 / 9.4 | depth: -0.4 vs peer; uniqueness: -0.3 vs peer |
+| [US/udvar-hazy-center](../../../countries/US/sights/udvar-hazy-center.yaml) | 9.3 / 9.4 / 9.4 / 9.2 / 9.4 | impact: -0.4 vs peer; uniqueness: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-shedd-aquarium — Shedd Aquarium Chicago — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/shedd-aquarium.yaml)
+- Action: new
+- Scope: Aquarium separate from Field Museum and neighboring lakefront parks.
+- Representative coordinates: 41.867, -87.614; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.7 / 8.9 / 9.1 / 9.0.
+- Categories: wildlife:9.2 family:9.3 nature:9.0.
+- Overall: 88.90/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/georgia-aquarium](../../../countries/US/sights/georgia-aquarium.yaml) | 9.2 / 9.1 / 8.4 / 9.2 / 9.2 | significance: +0.5 vs peer; uniqueness: -0.4 vs peer |
+| [US/monterey-bay-aquarium](../../../countries/US/sights/monterey-bay-aquarium.yaml) | 9.1 / 9.1 / 8.8 / 9.2 / 9.1 | uniqueness: -0.4 vs peer; impact: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-nashville-opry — Grand Ole Opry Live Music Performances Nashville — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/nashville-opry.yaml)
+- Action: new
+- Scope: Live music show experience rather than museum or general nightlife.
+- Representative coordinates: 36.207, -86.692; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 9.1 / 9.0 / 9.1 / 8.6.
+- Categories: culture:9.4 nightlife:9.2 history:9.0.
+- Overall: 89.70/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/broadway-theatre](../../../countries/US/sights/broadway-theatre.yaml) | 9.2 / 9.2 / 9.2 / 9.3 / 9.0 | depth: -0.4 vs peer; impact: -0.3 vs peer |
+| [US/rock-roll-hall-fame](../../../countries/US/sights/rock-roll-hall-fame.yaml) | 8.8 / 8.9 / 8.9 / 8.9 / 8.9 | depth: -0.3 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-ryman-auditorium — Ryman Auditorium Nashville Historic Venue Tours — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/ryman-auditorium.yaml)
+- Action: new
+- Scope: Historic auditorium and interpretation, excluding Grand Ole Opry performances and hall of fame.
+- Representative coordinates: 36.161, -86.778; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.9 / 9.0 / 8.8 / 8.7.
+- Categories: culture:9.2 history:9.2 architecture:9.0.
+- Overall: 87.95/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/chicago-auditorium-building](../../../countries/US/sights/chicago-auditorium-building.yaml) | 8.2 / 8.5 / 8.8 / 8.0 / 7.5 | depth: +1.2 vs peer; experience: +0.8 vs peer |
+| [US/motown-museum](../../../countries/US/sights/motown-museum.yaml) | 8.7 / 9.0 / 9.1 / 8.8 / 8.6 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-smithsonian-asian-art — Smithsonian National Museum of Asian Art Washington DC — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/smithsonian-asian-art.yaml)
+- Action: new
+- Scope: Freer and Sackler galleries grouped as one institution.
+- Representative coordinates: 38.888, -77.027; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.9 / 9.1 / 8.9 / 9.2.
+- Categories: culture:9.3 history:9.3 architecture:8.8.
+- Overall: 89.70/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-gallery-of-art-washington](../../../countries/US/sights/national-gallery-of-art-washington.yaml) | 9.1 / 9.1 / 9.3 / 9.2 / 9.4 | experience: -0.3 vs peer; impact: -0.2 vs peer |
+| [US/met-cloisters](../../../countries/US/sights/met-cloisters.yaml) | 9.0 / 9.3 / 9.2 / 9.1 / 9.2 | uniqueness: -0.4 vs peer; experience: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-smithsonian-african-art — Smithsonian National Museum of African Art Washington DC — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/smithsonian-african-art.yaml)
+- Action: new
+- Scope: African art collections, distinct from African American history museum.
+- Representative coordinates: 38.888, -77.025; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 9.0 / 8.8 / 8.9.
+- Categories: culture:9.3 history:9.1 family:8.7.
+- Overall: 88.45/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-museum-of-african-american-history-and-culture](../../../countries/US/sights/national-museum-of-african-american-history-and-culture.yaml) | 9.0 / 9.2 / 9.4 / 9.1 / 9.2 | significance: -0.4 vs peer; impact: -0.3 vs peer |
+| [US/national-american-indian-museum](../../../countries/US/sights/national-american-indian-museum.yaml) | 9.0 / 9.1 / 9.4 / 9.1 / 9.2 | significance: -0.4 vs peer; impact: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-cincinnati-museum-center — Cincinnati Museum Center at Union Terminal — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/cincinnati-museum-center.yaml)
+- Action: new
+- Scope: Art Deco terminal and resident museums grouped; separate from downtown Freedom Center.
+- Representative coordinates: 39.11, -84.537; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.8 / 9.0 / 9.1.
+- Categories: architecture:9.3 history:9.1 family:9.3.
+- Overall: 89.15/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/griffin-msi](../../../countries/US/sights/griffin-msi.yaml) | 9.3 / 9.4 / 9.3 / 9.4 / 9.4 | uniqueness: -0.5 vs peer; significance: -0.5 vs peer |
+| [US/grand-central-terminal](../../../countries/US/sights/grand-central-terminal.yaml) | 8.8 / 8.8 / 9.0 / 8.6 / 7.8 | depth: +1.3 vs peer; experience: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-phipps-conservatory — Phipps Conservatory and Botanical Gardens Pittsburgh — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/phipps-conservatory.yaml)
+- Action: new
+- Scope: Historic conservatory and botanical displays grouped.
+- Representative coordinates: 40.439, -79.948; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.6 / 8.6 / 9.0 / 8.8.
+- Categories: nature:9.2 photography:9.3 relaxation:9.1.
+- Overall: 87.40/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/huntington](../../../countries/US/sights/huntington.yaml) | 9.2 / 9.3 / 9.2 / 9.3 / 9.4 | uniqueness: -0.7 vs peer; significance: -0.6 vs peer |
+| [US/chihuly-garden-and-glass](../../../countries/US/sights/chihuly-garden-and-glass.yaml) | 8.9 / 9.0 / 8.2 / 8.9 / 8.3 | depth: +0.5 vs peer; uniqueness: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-bonneville-salt-flats — Bonneville Salt Flats Utah — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/bonneville-salt-flats.yaml)
+- Action: new
+- Scope: Salt pan landscape and public viewpoints; no assumed driving on wet salt.
+- Representative coordinates: 40.762, -113.887; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 9.1 / 9.3 / 8.4 / 8.6 / 8.2.
+- Categories: nature:9.3 photography:9.4 adventure:8.9.
+- Overall: 88.45/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/white-sands](../../../countries/US/sights/white-sands.yaml) | 9.0 / 9.1 / 8.4 / 8.8 / 8.1 | uniqueness: +0.2 vs peer; experience: -0.2 vs peer |
+| [US/death-valley-national-park](../../../countries/US/sights/death-valley-national-park.yaml) | 9.1 / 9.3 / 9.0 / 8.8 / 9.1 | depth: -0.9 vs peer; significance: -0.6 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-antelope-island — Antelope Island State Park Great Salt Lake — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/antelope-island.yaml)
+- Action: new
+- Scope: Island trails, bison and saline lake scenery grouped; no guarantee of wildlife sightings.
+- Representative coordinates: 40.962, -112.207; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.6 / 8.8 / 8.7.
+- Categories: nature:9.3 wildlife:9.1 photography:9.2.
+- Overall: 87.75/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/custer-state-park](../../../countries/US/sights/custer-state-park.yaml) | 8.9 / 8.8 / 8.7 / 9.0 / 9.0 | depth: -0.3 vs peer; experience: -0.2 vs peer |
+| [US/carrizo-plain](../../../countries/US/sights/carrizo-plain.yaml) | 8.8 / 9.0 / 8.8 / 8.7 / 8.7 | significance: -0.2 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-caddo-lake — Caddo Lake Cypress Swamp Paddling — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/caddo-lake.yaml)
+- Action: new
+- Scope: Cypress wetland paddling on Texas-Louisiana border, grouped across state lines.
+- Representative coordinates: 32.681, -94.176; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 9.0 / 8.5 / 9.0 / 8.7.
+- Categories: nature:9.3 photography:9.3 wildlife:9.0.
+- Overall: 88.40/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/okefenokee](../../../countries/US/sights/okefenokee.yaml) | 8.7 / 8.9 / 9.2 / 8.5 / 8.7 | significance: -0.7 vs peer; experience: +0.5 vs peer |
+| [US/congaree](../../../countries/US/sights/congaree.yaml) | 8.6 / 8.9 / 8.8 / 8.7 / 8.7 | impact: +0.3 vs peer; significance: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-hocking-hills — Hocking Hills State Park Ohio — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/hocking-hills.yaml)
+- Action: new
+- Scope: Old Man's Cave, Ash Cave and associated gorge trails grouped.
+- Representative coordinates: 39.437, -82.54; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.7 / 8.5 / 9.0 / 8.8.
+- Categories: nature:9.3 photography:9.3 adventure:9.0.
+- Overall: 87.75/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/red-river-gorge](../../../countries/US/sights/red-river-gorge.yaml) | 8.9 / 8.9 / 8.5 / 9.0 / 8.9 | uniqueness: -0.2 vs peer; depth: -0.1 vs peer |
+| [US/finger-lakes-gorges](../../../countries/US/sights/finger-lakes-gorges.yaml) | 8.8 / 8.9 / 8.5 / 9.0 / 8.8 | uniqueness: -0.2 vs peer; impact: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-ricketts-glen — Ricketts Glen State Park Waterfall Trails — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/ricketts-glen.yaml)
+- Action: new
+- Scope: Waterfalls and ravine trails grouped.
+- Representative coordinates: 41.329, -76.281; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.6 / 8.4 / 9.0 / 8.7.
+- Categories: nature:9.2 photography:9.3 adventure:9.1.
+- Overall: 86.90/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/finger-lakes-gorges](../../../countries/US/sights/finger-lakes-gorges.yaml) | 8.8 / 8.9 / 8.5 / 9.0 / 8.8 | uniqueness: -0.3 vs peer; significance: -0.1 vs peer |
+| [US/letchworth](../../../countries/US/sights/letchworth.yaml) | 8.9 / 8.8 / 8.5 / 8.9 / 8.7 | uniqueness: -0.2 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-minnesota-north-shore — Minnesota North Shore Lake Superior Scenic Corridor — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/minnesota-north-shore.yaml)
+- Action: new
+- Scope: Minnesota shoreline waterfalls and public parks grouped; excludes inland Boundary Waters.
+- Representative coordinates: 47.51, -90.93; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.6 / 9.0 / 8.9.
+- Categories: nature:9.3 photography:9.3 adventure:9.1.
+- Overall: 88.30/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/pictured-rocks](../../../countries/US/sights/pictured-rocks.yaml) | 9.2 / 9.1 / 8.7 / 9.2 / 9.0 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer |
+| [US/blue-ridge-parkway](../../../countries/US/sights/blue-ridge-parkway.yaml) | 9.1 / 9.1 / 9.1 / 9.2 / 9.3 | significance: -0.5 vs peer; depth: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-lost-coast — California Lost Coast King Range Wilderness Trek — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/lost-coast.yaml)
+- Action: new
+- Scope: Remote coastal trek distinct from Big Sur and redwood parks; tides and permits may restrict access.
+- Representative coordinates: 40.114, -124.092; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 9.0 / 9.0 / 8.6 / 8.8 / 8.9.
+- Categories: nature:9.3 adventure:9.4 photography:9.3.
+- Overall: 88.80/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/big-sur-coast](../../../countries/US/sights/big-sur-coast.yaml) | 9.1 / 8.7 / 8.3 / 9.0 / 8.9 | uniqueness: +0.3 vs peer; significance: +0.3 vs peer |
+| [US/point-reyes](../../../countries/US/sights/point-reyes.yaml) | 9.0 / 8.8 / 8.9 / 9.0 / 9.0 | significance: -0.3 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-wisconsin-dells — Wisconsin Dells River Sandstone Gorge Boat Tours — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/wisconsin-dells.yaml)
+- Action: new
+- Scope: Natural river gorge boat tours, excludes unrelated waterpark resorts.
+- Representative coordinates: 43.633, -89.777; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.8 / 8.4 / 8.9 / 8.6.
+- Categories: nature:9.1 photography:9.2 family:9.0.
+- Overall: 86.55/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/niobrara-river](../../../countries/US/sights/niobrara-river.yaml) | 8.6 / 8.7 / 8.6 / 8.9 / 8.7 | significance: -0.2 vs peer; uniqueness: +0.1 vs peer |
+| [US/pictured-rocks](../../../countries/US/sights/pictured-rocks.yaml) | 9.2 / 9.1 / 8.7 / 9.2 / 9.0 | impact: -0.6 vs peer; depth: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-city-of-rocks — City of Rocks National Reserve Idaho — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/city-of-rocks.yaml)
+- Action: new
+- Scope: Granite formations, climbing and historic emigrant trail traces.
+- Representative coordinates: 42.077, -113.718; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.7 / 8.9 / 8.8.
+- Categories: nature:9.1 adventure:9.3 photography:9.2.
+- Overall: 87.65/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/goblin-valley](../../../countries/US/sights/goblin-valley.yaml) | 8.9 / 9.1 / 8.4 / 8.9 / 8.6 | uniqueness: -0.3 vs peer; significance: +0.3 vs peer |
+| [US/garden-of-gods](../../../countries/US/sights/garden-of-gods.yaml) | 8.9 / 8.8 / 8.4 / 8.9 / 8.5 | significance: +0.3 vs peer; depth: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+## sight-us-museum-of-flight — Museum of Flight Seattle — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/museum-of-flight.yaml)
+- Action: new
+- Scope: Aviation and space history galleries and aircraft pavilion; collection includes approximately 150 aircraft and extensive archives.
+- Representative coordinates: 47.518, -122.296; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.3 / 9.3 / 9.2 / 9.3.
+- Categories: history:9.4 culture:9.2 family:9.4.
+- Overall: 92.55/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.museumofflight.org/exhibits-and-events/collections-and-research/; https://www.museumofflight.org/exhibits-and-events/museum-galleries/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/udvar-hazy-center](../../../countries/US/sights/udvar-hazy-center.yaml) | 9.3 / 9.4 / 9.4 / 9.2 / 9.4 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [US/national-usaf-museum](../../../countries/US/sights/national-usaf-museum.yaml) | 9.1 / 9.3 / 9.3 / 9.1 / 9.4 | impact: +0.1 vs peer; experience: +0.1 vs peer |
+| [US/intrepid-museum](../../../countries/US/sights/intrepid-museum.yaml) | 9.1 / 9.3 / 9.2 / 9.2 / 9.1 | depth: +0.2 vs peer; impact: +0.1 vs peer |
+| [US/eaa-aviation](../../../countries/US/sights/eaa-aviation.yaml) | 8.9 / 9.0 / 9.0 / 9.0 / 9.0 | impact: +0.3 vs peer; uniqueness: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-omaha-zoo — Omaha Henry Doorly Zoo and Aquarium — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/omaha-zoo.yaml)
+- Action: new
+- Scope: Integrated zoo and aquarium; Desert Dome and Lied Jungle are extensive indoor habitats; no separate component entries.
+- Representative coordinates: 41.226, -95.928; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.2 / 8.8 / 9.3 / 9.3.
+- Categories: wildlife:9.4 family:9.4 nature:9.1.
+- Overall: 91.45/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.omahazoo.com/exhibits; https://www.omahazoo.com/plan-your-visit.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/san-diego-zoo](../../../countries/US/sights/san-diego-zoo.yaml) | 9.0 / 8.9 / 8.5 / 9.3 / 9.4 | uniqueness: +0.3 vs peer; significance: +0.3 vs peer |
+| [US/georgia-aquarium](../../../countries/US/sights/georgia-aquarium.yaml) | 9.2 / 9.1 / 8.4 / 9.2 / 9.2 | significance: +0.4 vs peer; uniqueness: +0.1 vs peer |
+| [US/national-aquarium](../../../countries/US/sights/national-aquarium.yaml) | 9.0 / 8.9 / 9.0 / 9.3 / 9.1 | uniqueness: +0.3 vs peer; impact: +0.2 vs peer |
+| [US/monterey-bay-aquarium](../../../countries/US/sights/monterey-bay-aquarium.yaml) | 9.1 / 9.1 / 8.8 / 9.2 / 9.1 | depth: +0.2 vs peer; impact: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-bronx-zoo — Bronx Zoo New York — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/bronx-zoo.yaml)
+- Action: new
+- Scope: 265-acre zoo, conservation heritage and diverse habitat exhibits; independent of botanical garden.
+- Representative coordinates: 40.851, -73.876; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 8.9 / 9.1 / 9.2 / 9.3.
+- Categories: wildlife:9.4 family:9.3 nature:9.1.
+- Overall: 90.55/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://bronxzoo.com/about; https://bronxzoo.com/outdoor-guide.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/san-diego-zoo](../../../countries/US/sights/san-diego-zoo.yaml) | 9.0 / 8.9 / 8.5 / 9.3 / 9.4 | significance: +0.6 vs peer; experience: -0.1 vs peer |
+| [US/georgia-aquarium](../../../countries/US/sights/georgia-aquarium.yaml) | 9.2 / 9.1 / 8.4 / 9.2 / 9.2 | significance: +0.7 vs peer; impact: -0.2 vs peer |
+| [US/national-aquarium](../../../countries/US/sights/national-aquarium.yaml) | 9.0 / 8.9 / 9.0 / 9.3 / 9.1 | depth: +0.2 vs peer; significance: +0.1 vs peer |
+| [US/monterey-bay-aquarium](../../../countries/US/sights/monterey-bay-aquarium.yaml) | 9.1 / 9.1 / 8.8 / 9.2 / 9.1 | significance: +0.3 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-dia-beacon — Dia Beacon Contemporary Art Museum — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/dia-beacon.yaml)
+- Action: new
+- Scope: Large-scale contemporary art installations in former factory; excludes other Dia locations.
+- Representative coordinates: 41.501, -73.982; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.1 / 9.1 / 9.0.
+- Categories: culture:9.4 architecture:9.0 photography:9.0.
+- Overall: 91.10/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.diaart.org/visit/visit-our-locations-sites/dia-beacon-beacon-united-states/; https://www.diaart.org/about/press/dia-art-foundation-to-open-museum-in-beacon-new-york-to-house-one-of-the-worlds-most-significant-collections-of-contemporary-art.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/the-broad](../../../countries/US/sights/the-broad.yaml) | 8.9 / 9.1 / 8.9 / 9.1 / 8.8 | uniqueness: +0.2 vs peer; significance: +0.2 vs peer |
+| [US/sfmoma](../../../countries/US/sights/sfmoma.yaml) | 9.1 / 9.2 / 9.2 / 9.2 / 9.3 | depth: -0.3 vs peer; impact: -0.1 vs peer |
+| [US/walker-art-center](../../../countries/US/sights/walker-art-center.yaml) | 8.8 / 8.9 / 8.8 / 9.0 / 8.9 | uniqueness: +0.4 vs peer; significance: +0.3 vs peer |
+| [US/whitney-museum](../../../countries/US/sights/whitney-museum.yaml) | 9.0 / 9.1 / 9.1 / 9.0 / 9.3 | depth: -0.3 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-storm-king — Storm King Art Center Hudson Valley Sculpture Landscape — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/storm-king.yaml)
+- Action: new
+- Scope: 500-acre outdoor museum with monumental sculpture and site-specific commissions, distinct from Dia Beacon.
+- Representative coordinates: 41.425, -74.058; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.2 / 8.9 / 9.2 / 9.0.
+- Categories: culture:9.4 photography:9.3 nature:9.0.
+- Overall: 90.90/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://stormking.org/about/; https://stormking.org/about/landscape/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/walker-art-center](../../../countries/US/sights/walker-art-center.yaml) | 8.8 / 8.9 / 8.8 / 9.0 / 8.9 | impact: +0.3 vs peer; uniqueness: +0.3 vs peer |
+| [US/crystal-bridges](../../../countries/US/sights/crystal-bridges.yaml) | 8.8 / 8.9 / 8.8 / 9.0 / 8.9 | impact: +0.3 vs peer; uniqueness: +0.3 vs peer |
+| [US/chihuly-garden-and-glass](../../../countries/US/sights/chihuly-garden-and-glass.yaml) | 8.9 / 9.0 / 8.2 / 8.9 / 8.3 | significance: +0.7 vs peer; depth: +0.7 vs peer |
+| [US/huntington](../../../countries/US/sights/huntington.yaml) | 9.2 / 9.3 / 9.2 / 9.3 / 9.4 | depth: -0.4 vs peer; significance: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-preservation-hall — Preservation Hall Traditional New Orleans Jazz Performances — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/preservation-hall.yaml)
+- Action: new
+- Scope: Dedicated intimate traditional jazz performance since 1961; distinct ticketed musical experience, not general French Quarter walk.
+- Representative coordinates: 29.958, -90.065; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.4 / 9.2 / 9.2 / 8.5.
+- Categories: culture:9.4 nightlife:9.3 history:9.2.
+- Overall: 91.20/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.preservationhall.com/; https://www.preservationhall.com/about/; https://www.preservationhall.com/events/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/broadway-theatre](../../../countries/US/sights/broadway-theatre.yaml) | 9.2 / 9.2 / 9.2 / 9.3 / 9.0 | depth: -0.5 vs peer; impact: -0.2 vs peer |
+| [US/nashville-opry](../../../countries/US/sights/nashville-opry.yaml) | 8.9 / 9.1 / 9.0 / 9.1 / 8.6 | uniqueness: +0.3 vs peer; significance: +0.2 vs peer |
+| [US/country-music-hall](../../../countries/US/sights/country-music-hall.yaml) | 9.0 / 9.3 / 9.3 / 9.1 / 9.2 | depth: -0.7 vs peer; uniqueness: +0.1 vs peer |
+| [US/motown-museum](../../../countries/US/sights/motown-museum.yaml) | 8.7 / 9.0 / 9.1 / 8.8 / 8.6 | uniqueness: +0.4 vs peer; experience: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-toledo-art — Toledo Museum of Art and Glass Pavilion — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/toledo-art.yaml)
+- Action: new
+- Scope: Art museum and affiliated Glass Pavilion grouped.
+- Representative coordinates: 41.659, -83.559; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.9 / 9.0 / 8.9 / 9.0.
+- Categories: culture:9.3 architecture:9.1 history:9.0.
+- Overall: 89.30/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://store.toledomuseum.org/pages/about-us; https://emuseum.toledomuseum.org/objects/77036/remain-in-light?ctx=9e16efc8762141754f55b8b5a383130ae54e103d&idx=0.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/cleveland-art-museum](../../../countries/US/sights/cleveland-art-museum.yaml) | 9.1 / 9.2 / 9.3 / 9.2 / 9.3 | uniqueness: -0.3 vs peer; significance: -0.3 vs peer |
+| [US/corning-glass](../../../countries/US/sights/corning-glass.yaml) | 9.1 / 9.4 / 9.2 / 9.2 / 9.3 | uniqueness: -0.5 vs peer; experience: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-minidoka — Minidoka National Historic Site Idaho — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/minidoka.yaml)
+- Action: new
+- Scope: Incarceration site, visitor center and trails; seasonal visitor-center access.
+- Representative coordinates: 42.68, -114.245; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.2 / 8.6 / 9.0 / 8.3 / 8.3.
+- Categories: history:9.2 culture:9.0 photography:8.4.
+- Overall: 84.85/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/miin/planyourvisit/things2do.htm; https://www.nps.gov/miin/planyourvisit/hours.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/manzanar](../../../countries/US/sights/manzanar.yaml) | 8.7 / 8.9 / 9.3 / 8.8 / 8.8 | impact: -0.5 vs peer; experience: -0.5 vs peer |
+| [US/little-rock-central-high](../../../countries/US/sights/little-rock-central-high.yaml) | 8.5 / 8.8 / 9.3 / 8.6 / 8.5 | impact: -0.3 vs peer; significance: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-san-diego-safari — San Diego Zoo Safari Park Escondido — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/san-diego-safari.yaml)
+- Action: new
+- Scope: Separate large wildlife park in Escondido, distinct from Balboa Park zoo.
+- Representative coordinates: 33.098, -116.995; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.8 / 9.2 / 9.0.
+- Categories: wildlife:9.3 family:9.4 nature:9.0.
+- Overall: 89.35/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/san-diego-zoo](../../../countries/US/sights/san-diego-zoo.yaml) | 9.0 / 8.9 / 8.5 / 9.3 / 9.4 | depth: -0.4 vs peer; significance: +0.3 vs peer |
+| [US/georgia-aquarium](../../../countries/US/sights/georgia-aquarium.yaml) | 9.2 / 9.1 / 8.4 / 9.2 / 9.2 | significance: +0.4 vs peer; impact: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-saint-louis-zoo — Saint Louis Zoo Forest Park — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/saint-louis-zoo.yaml)
+- Action: new
+- Scope: Zoo habitats and interpretive experiences; excludes surrounding Forest Park museums.
+- Representative coordinates: 38.635, -90.291; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.6 / 8.8 / 9.0 / 9.0.
+- Categories: wildlife:9.2 family:9.3 nature:8.9.
+- Overall: 88.00/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/san-diego-zoo](../../../countries/US/sights/san-diego-zoo.yaml) | 9.0 / 8.9 / 8.5 / 9.3 / 9.4 | depth: -0.4 vs peer; uniqueness: -0.3 vs peer |
+| [US/bronx-zoo](../../../countries/US/sights/bronx-zoo.yaml) | 9.0 / 8.9 / 9.1 / 9.2 / 9.3 | uniqueness: -0.3 vs peer; significance: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-national-zoo — Smithsonian National Zoo Washington DC — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/national-zoo.yaml)
+- Action: new
+- Scope: Zoo and conservation interpretation, no guaranteed sighting of any species.
+- Representative coordinates: 38.93, -77.05; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.9 / 9.0 / 8.9.
+- Categories: wildlife:9.3 family:9.2 nature:8.9.
+- Overall: 88.35/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/san-diego-zoo](../../../countries/US/sights/san-diego-zoo.yaml) | 9.0 / 8.9 / 8.5 / 9.3 / 9.4 | depth: -0.5 vs peer; significance: +0.4 vs peer |
+| [US/bronx-zoo](../../../countries/US/sights/bronx-zoo.yaml) | 9.0 / 8.9 / 9.1 / 9.2 / 9.3 | depth: -0.4 vs peer; impact: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-denver-art-museum — Denver Art Museum — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/denver-art-museum.yaml)
+- Action: new
+- Scope: Art museum campus with Indigenous arts, international collections and distinctive architecture.
+- Representative coordinates: 39.737, -104.989; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.9 / 8.8 / 9.1.
+- Categories: culture:9.3 architecture:9.2 history:9.0.
+- Overall: 88.50/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/nelson-atkins](../../../countries/US/sights/nelson-atkins.yaml) | 9.0 / 9.1 / 9.2 / 9.2 / 9.3 | experience: -0.4 vs peer; uniqueness: -0.3 vs peer |
+| [US/minneapolis-institute-art](../../../countries/US/sights/minneapolis-institute-art.yaml) | 9.0 / 9.2 / 9.3 / 9.1 / 9.4 | uniqueness: -0.4 vs peer; significance: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-walters-art-museum — Walters Art Museum Baltimore — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/walters-art-museum.yaml)
+- Action: new
+- Scope: Art from ancient to modern periods, including manuscripts and decorative arts.
+- Representative coordinates: 39.296, -76.617; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 9.0 / 8.8 / 9.0.
+- Categories: culture:9.2 history:9.2 architecture:8.8.
+- Overall: 88.30/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/met-cloisters](../../../countries/US/sights/met-cloisters.yaml) | 9.0 / 9.3 / 9.2 / 9.1 / 9.2 | uniqueness: -0.5 vs peer; impact: -0.3 vs peer |
+| [US/cleveland-art-museum](../../../countries/US/sights/cleveland-art-museum.yaml) | 9.1 / 9.2 / 9.3 / 9.2 / 9.3 | impact: -0.4 vs peer; uniqueness: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-wadsworth-atheneum — Wadsworth Atheneum Museum of Art Hartford — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/wadsworth-atheneum.yaml)
+- Action: new
+- Scope: Historic public art museum and varied permanent collection.
+- Representative coordinates: 41.764, -72.673; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.9 / 8.8 / 9.0.
+- Categories: culture:9.2 history:9.1 architecture:8.8.
+- Overall: 87.85/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/mfa-boston](../../../countries/US/sights/mfa-boston.yaml) | 9.3 / 9.3 / 9.4 / 9.3 / 9.4 | impact: -0.6 vs peer; uniqueness: -0.6 vs peer |
+| [US/gardner-museum](../../../countries/US/sights/gardner-museum.yaml) | 8.8 / 9.2 / 8.9 / 9.0 / 9.0 | uniqueness: -0.5 vs peer; experience: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-renwick-gallery — Renwick Gallery Smithsonian Washington DC — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/renwick-gallery.yaml)
+- Action: new
+- Scope: Separate Smithsonian American Art Museum craft and decorative arts venue outside Portrait Gallery complex.
+- Representative coordinates: 38.899, -77.039; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.8 / 8.8 / 8.8 / 8.6.
+- Categories: culture:9.2 architecture:9.0 photography:8.9.
+- Overall: 87.20/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-portrait-gallery](../../../countries/US/sights/national-portrait-gallery.yaml) | 8.9 / 9.0 / 9.1 / 9.0 / 9.2 | depth: -0.6 vs peer; impact: -0.3 vs peer |
+| [US/corning-glass](../../../countries/US/sights/corning-glass.yaml) | 9.1 / 9.4 / 9.2 / 9.2 / 9.3 | depth: -0.7 vs peer; uniqueness: -0.6 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-mutter-museum — Mütter Museum Philadelphia Medical History — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/mutter-museum.yaml)
+- Action: new
+- Scope: Medical history and anatomical collections; respectful interpretation, not a general science museum.
+- Representative coordinates: 39.953, -75.176; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 9.1 / 8.8 / 8.6 / 8.6.
+- Categories: history:9.1 culture:9.0 family:7.5.
+- Overall: 87.35/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/american-museum-of-natural-history](../../../countries/US/sights/american-museum-of-natural-history.yaml) | 9.2 / 9.2 / 9.3 / 9.2 / 9.4 | depth: -0.8 vs peer; impact: -0.7 vs peer |
+| [US/boston-science-museum](../../../countries/US/sights/boston-science-museum.yaml) | 8.9 / 8.9 / 8.8 / 9.2 / 9.1 | experience: -0.6 vs peer; depth: -0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-national-nuclear-museum — National Museum of Nuclear Science and History Albuquerque — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/national-nuclear-museum.yaml)
+- Action: new
+- Scope: Nuclear science, energy and historical exhibits; excludes restricted facilities.
+- Representative coordinates: 35.066, -106.532; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 9.0 / 8.8 / 8.9.
+- Categories: history:9.3 culture:9.0 family:8.8.
+- Overall: 88.45/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-museum-american-history](../../../countries/US/sights/national-museum-american-history.yaml) | 9.1 / 9.2 / 9.4 / 9.1 / 9.4 | depth: -0.5 vs peer; impact: -0.4 vs peer |
+| [US/national-usaf-museum](../../../countries/US/sights/national-usaf-museum.yaml) | 9.1 / 9.3 / 9.3 / 9.1 / 9.4 | depth: -0.5 vs peer; impact: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-fort-worth-stockyards — Fort Worth Stockyards Historic District — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/fort-worth-stockyards.yaml)
+- Action: new
+- Scope: Historic cattle-market district and recurring heritage demonstrations; excludes unrelated downtown attractions.
+- Representative coordinates: 32.789, -97.348; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.6 / 9.0 / 8.7.
+- Categories: culture:9.2 history:9.0 photography:9.0.
+- Overall: 87.50/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/savannah-historic-district](../../../countries/US/sights/savannah-historic-district.yaml) | 8.9 / 9.0 / 9.1 / 9.0 / 9.0 | significance: -0.5 vs peer; depth: -0.3 vs peer |
+| [US/st-augustine](../../../countries/US/sights/st-augustine.yaml) | 8.9 / 8.9 / 9.2 / 8.9 / 8.9 | significance: -0.6 vs peer; impact: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-fremont-street — Fremont Street Experience Downtown Las Vegas — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/fremont-street.yaml)
+- Action: new
+- Scope: Downtown pedestrian entertainment corridor geographically distinct from Las Vegas Strip.
+- Representative coordinates: 36.17, -115.144; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.4 / 9.0 / 8.3.
+- Categories: nightlife:9.3 photography:9.1 culture:8.8.
+- Overall: 86.70/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/las-vegas-strip](../../../countries/US/sights/las-vegas-strip.yaml) | 9.2 / 9.1 / 8.4 / 8.8 / 8.7 | impact: -0.5 vs peer; depth: -0.4 vs peer |
+| [US/times-square](../../../countries/US/sights/times-square.yaml) | 9.0 / 9.0 / 8.5 / 8.4 / 7.2 | depth: +1.1 vs peer; experience: +0.6 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-mob-museum — Mob Museum Las Vegas Organized Crime and Law Enforcement History — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/mob-museum.yaml)
+- Action: new
+- Scope: Dedicated historic courthouse museum, separate from Fremont entertainment corridor.
+- Representative coordinates: 36.172, -115.142; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 8.8 / 8.9 / 8.8.
+- Categories: history:9.2 culture:9.0 architecture:8.8.
+- Overall: 88.10/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-archives](../../../countries/US/sights/national-archives.yaml) | 9.0 / 9.4 / 9.4 / 8.7 / 8.9 | significance: -0.6 vs peer; uniqueness: -0.5 vs peer |
+| [US/tenement-museum](../../../countries/US/sights/tenement-museum.yaml) | 9.0 / 9.3 / 9.2 / 9.1 / 9.0 | uniqueness: -0.4 vs peer; significance: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-elephant-rocks — Elephant Rocks State Park Missouri — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/elephant-rocks.yaml)
+- Action: new
+- Scope: Granite boulder landscape and trails; distinct from other Ozark parks.
+- Representative coordinates: 37.652, -90.688; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.7 / 8.2 / 8.8 / 8.3.
+- Categories: nature:9.1 photography:9.2 family:8.9.
+- Overall: 85.15/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/goblin-valley](../../../countries/US/sights/goblin-valley.yaml) | 8.9 / 9.1 / 8.4 / 8.9 / 8.6 | impact: -0.4 vs peer; uniqueness: -0.4 vs peer |
+| [US/city-of-rocks](../../../countries/US/sights/city-of-rocks.yaml) | 8.7 / 8.8 / 8.7 / 8.9 / 8.8 | significance: -0.5 vs peer; depth: -0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-shoshone-falls — Shoshone Falls Snake River Idaho — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/shoshone-falls.yaml)
+- Action: new
+- Scope: Major Snake River waterfall and viewpoints; seasonal flow varies.
+- Representative coordinates: 42.594, -114.4; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.7 / 8.3 / 8.7 / 8.3.
+- Categories: nature:9.2 photography:9.3 relaxation:8.8.
+- Overall: 86.40/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/niagara-falls-state-park](../../../countries/US/sights/niagara-falls-state-park.yaml) | 9.4 / 9.0 / 8.8 / 9.2 / 8.8 | impact: -0.5 vs peer; significance: -0.5 vs peer |
+| [US/columbia-gorge](../../../countries/US/sights/columbia-gorge.yaml) | 9.2 / 9.0 / 8.8 / 9.2 / 9.1 | depth: -0.8 vs peer; significance: -0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-tallulah-gorge — Tallulah Gorge State Park Georgia — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/tallulah-gorge.yaml)
+- Action: new
+- Scope: Gorge overlooks, suspension bridge and trails; gorge-floor permits not assumed.
+- Representative coordinates: 34.74, -83.395; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.3 / 8.9 / 8.7.
+- Categories: nature:9.2 adventure:9.1 photography:9.2.
+- Overall: 86.50/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/red-river-gorge](../../../countries/US/sights/red-river-gorge.yaml) | 8.9 / 8.9 / 8.5 / 9.0 / 8.9 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+| [US/letchworth](../../../countries/US/sights/letchworth.yaml) | 8.9 / 8.8 / 8.5 / 8.9 / 8.7 | impact: -0.2 vs peer; significance: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+## sight-us-carnegie-natural-history — Carnegie Museum of Natural History Pittsburgh — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/carnegie-natural-history.yaml)
+- Action: new
+- Scope: Distinct natural history institution in shared Carnegie complex; original dinosaur fossils and scientific collections. Carnegie reports 22 million objects and specimens.
+- Representative coordinates: 40.443, -79.95; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.3 / 9.4 / 9.2 / 9.4.
+- Categories: history:9.4 nature:9.3 family:9.4.
+- Overall: 93.15/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://carnegiemuseums.org/our-museums/carnegie-museum-of-natural-history/; https://carnegiemnh.org/explore/kamin-hall-of-dinosaurs/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/field-museum](../../../countries/US/sights/field-museum.yaml) | 9.2 / 9.2 / 9.3 / 9.2 / 9.4 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer |
+| [US/american-museum-of-natural-history](../../../countries/US/sights/american-museum-of-natural-history.yaml) | 9.2 / 9.2 / 9.3 / 9.2 / 9.4 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer |
+| [US/smithsonian-national-museum-of-natural-history](../../../countries/US/sights/smithsonian-national-museum-of-natural-history.yaml) | 9.2 / 9.3 / 9.4 / 9.2 / 9.4 | impact: +0.1 vs peer; uniqueness: +0.0 vs peer |
+| [US/dinosaur-monument](../../../countries/US/sights/dinosaur-monument.yaml) | 9.3 / 9.4 / 9.3 / 9.1 / 9.3 | uniqueness: -0.1 vs peer; significance: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-strong-museum-play — The Strong National Museum of Play Rochester — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/strong-museum-play.yaml)
+- Action: new
+- Scope: Integrated play history museum, video game and toy halls of fame and interactive exhibitions; world-leading collection of play materials.
+- Representative coordinates: 43.153, -77.601; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.4 / 9.2 / 9.4 / 9.2.
+- Categories: family:9.4 culture:9.4 history:9.3.
+- Overall: 92.80/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.museumofplay.org/about/press-room/about-the-strong-fact-sheet/; https://www.museumofplay.org/about/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/computer-history-museum](../../../countries/US/sights/computer-history-museum.yaml) | 9.1 / 9.4 / 9.3 / 9.1 / 9.3 | experience: +0.3 vs peer; impact: +0.1 vs peer |
+| [US/exploratorium](../../../countries/US/sights/exploratorium.yaml) | 9.0 / 9.3 / 8.9 / 9.4 / 9.3 | significance: +0.3 vs peer; impact: +0.2 vs peer |
+| [US/henry-ford-museum](../../../countries/US/sights/henry-ford-museum.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.4 | experience: +0.2 vs peer; depth: -0.2 vs peer |
+| [US/museum-pop-culture](../../../countries/US/sights/museum-pop-culture.yaml) | 8.7 / 8.9 / 8.6 / 8.9 / 8.8 | significance: +0.6 vs peer; impact: +0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-pima-air-space — Pima Air and Space Museum Tucson — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/pima-air-space.yaml)
+- Action: new
+- Scope: Museum's 80-acre display grounds and hangars; more than 400 aircraft in collection, excludes separately restricted military facilities.
+- Representative coordinates: 32.139, -110.868; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.3 / 9.2 / 9.2 / 9.3.
+- Categories: history:9.4 family:9.3 photography:9.2.
+- Overall: 92.35/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://pimaair.org/plan-your-visit/general-admission/; https://pimaair.org/about-us/arizona-aerospace-foundation/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/museum-of-flight](../../../countries/US/sights/museum-of-flight.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.3 | significance: -0.1 vs peer; impact: +0.0 vs peer |
+| [US/udvar-hazy-center](../../../countries/US/sights/udvar-hazy-center.yaml) | 9.3 / 9.4 / 9.4 / 9.2 / 9.4 | significance: -0.2 vs peer; impact: -0.1 vs peer |
+| [US/national-usaf-museum](../../../countries/US/sights/national-usaf-museum.yaml) | 9.1 / 9.3 / 9.3 / 9.1 / 9.4 | impact: +0.1 vs peer; significance: -0.1 vs peer |
+| [US/eaa-aviation](../../../countries/US/sights/eaa-aviation.yaml) | 8.9 / 9.0 / 9.0 / 9.0 / 9.0 | impact: +0.3 vs peer; uniqueness: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-peabody-essex — Peabody Essex Museum Salem and Yin Yu Tang House — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/peabody-essex.yaml)
+- Action: new
+- Scope: Art and maritime heritage museum including reconstructed approximately 200-year-old Chinese family house, not a separate duplicate.
+- Representative coordinates: 42.521, -70.894; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.4 / 9.3 / 9.0 / 9.2.
+- Categories: culture:9.4 history:9.3 architecture:9.3.
+- Overall: 92.10/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://pem.org/yin-yu-tang-a-chinese-home; https://pem.org/visit/tours/daily-tours/yin-yu-tang-a-chinese-home-tour.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/bishop-museum](../../../countries/US/sights/bishop-museum.yaml) | 9.2 / 9.4 / 9.4 / 9.1 / 9.4 | depth: -0.2 vs peer; impact: -0.1 vs peer |
+| [US/tenement-museum](../../../countries/US/sights/tenement-museum.yaml) | 9.0 / 9.3 / 9.2 / 9.1 / 9.0 | depth: +0.2 vs peer; impact: +0.1 vs peer |
+| [US/met-cloisters](../../../countries/US/sights/met-cloisters.yaml) | 9.0 / 9.3 / 9.2 / 9.1 / 9.2 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer |
+| [US/mystic-seaport](../../../countries/US/sights/mystic-seaport.yaml) | 9.0 / 9.2 / 9.1 / 9.2 / 9.3 | uniqueness: +0.2 vs peer; significance: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-national-naval-aviation — National Naval Aviation Museum Pensacola — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/national-naval-aviation.yaml)
+- Action: new
+- Scope: Naval aviation heritage and about 150 displayed historic aircraft; authorized public museum visit only, base access conditions separate.
+- Representative coordinates: 30.35, -87.304; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.2 / 9.4 / 9.1 / 9.3.
+- Categories: history:9.4 family:9.3 photography:9.2.
+- Overall: 92.05/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.history.navy.mil/content/history/museums/nnam/about-us/about-the-museum.html; https://navalaviationmuseum.org/about-us/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-usaf-museum](../../../countries/US/sights/national-usaf-museum.yaml) | 9.1 / 9.3 / 9.3 / 9.1 / 9.4 | uniqueness: -0.1 vs peer; significance: +0.1 vs peer |
+| [US/museum-of-flight](../../../countries/US/sights/museum-of-flight.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.3 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [US/intrepid-museum](../../../countries/US/sights/intrepid-museum.yaml) | 9.1 / 9.3 / 9.2 / 9.2 / 9.1 | significance: +0.2 vs peer; depth: +0.2 vs peer |
+| [US/udvar-hazy-center](../../../countries/US/sights/udvar-hazy-center.yaml) | 9.3 / 9.4 / 9.4 / 9.2 / 9.4 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-andy-warhol-museum — Andy Warhol Museum Pittsburgh — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/andy-warhol-museum.yaml)
+- Action: new
+- Scope: Seven-story single-artist museum with largest Warhol artwork and archival collection; separate venue from Carnegie Museum of Art.
+- Representative coordinates: 40.448, -80.002; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.4 / 9.3 / 9.0 / 9.1.
+- Categories: culture:9.4 history:9.2 photography:9.1.
+- Overall: 91.70/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.warhol.org/about/the-museum; https://www.warhol.org/art.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/dia-beacon](../../../countries/US/sights/dia-beacon.yaml) | 9.0 / 9.3 / 9.1 / 9.1 / 9.0 | significance: +0.2 vs peer; uniqueness: +0.1 vs peer |
+| [US/the-broad](../../../countries/US/sights/the-broad.yaml) | 8.9 / 9.1 / 8.9 / 9.1 / 8.8 | significance: +0.4 vs peer; uniqueness: +0.3 vs peer |
+| [US/whitney-museum](../../../countries/US/sights/whitney-museum.yaml) | 9.0 / 9.1 / 9.1 / 9.0 / 9.3 | uniqueness: +0.3 vs peer; significance: +0.2 vs peer |
+| [US/sfmoma](../../../countries/US/sights/sfmoma.yaml) | 9.1 / 9.2 / 9.2 / 9.2 / 9.3 | uniqueness: +0.2 vs peer; experience: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-george-eastman-museum — George Eastman Museum Rochester Photography and Cinema — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/george-eastman-museum.yaml)
+- Action: new
+- Scope: Photography and cinema exhibitions, historic mansion and gardens; collection exceeds 400,000 photographic objects, film holdings not assumed all displayed.
+- Representative coordinates: 43.153, -77.58; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.3 / 9.0 / 9.2.
+- Categories: history:9.4 culture:9.3 photography:9.4.
+- Overall: 91.55/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.eastman.org/photography; https://www.eastman.org/about.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/corning-glass](../../../countries/US/sights/corning-glass.yaml) | 9.1 / 9.4 / 9.2 / 9.2 / 9.3 | experience: -0.2 vs peer; impact: -0.1 vs peer |
+| [US/computer-history-museum](../../../countries/US/sights/computer-history-museum.yaml) | 9.1 / 9.4 / 9.3 / 9.1 / 9.3 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [US/musical-instrument-museum](../../../countries/US/sights/musical-instrument-museum.yaml) | 9.1 / 9.3 / 9.0 / 9.3 / 9.3 | significance: +0.3 vs peer; experience: -0.3 vs peer |
+| [US/national-museum-american-history](../../../countries/US/sights/national-museum-american-history.yaml) | 9.1 / 9.2 / 9.4 / 9.1 / 9.4 | depth: -0.2 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-arizona-sonora-desert — Arizona-Sonora Desert Museum Tucson — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/arizona-sonora-desert.yaml)
+- Action: new
+- Scope: 98-acre integrated regional zoo, botanical garden and natural history museum; distinct from nearby Saguaro National Park.
+- Representative coordinates: 32.244, -111.167; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.2 / 8.9 / 9.2 / 9.2.
+- Categories: nature:9.4 wildlife:9.3 family:9.3.
+- Overall: 91.10/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.desertmuseum.org/about/; https://www.desertmuseum.org/visit/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/saguaro-national-park](../../../countries/US/sights/saguaro-national-park.yaml) | 8.5 / 8.8 / 8.6 / 8.7 / 8.4 | depth: +0.8 vs peer; impact: +0.6 vs peer |
+| [US/california-academy-sciences](../../../countries/US/sights/california-academy-sciences.yaml) | 9.1 / 9.3 / 9.1 / 9.3 / 9.3 | significance: -0.2 vs peer; uniqueness: -0.1 vs peer |
+| [US/san-diego-zoo](../../../countries/US/sights/san-diego-zoo.yaml) | 9.0 / 8.9 / 8.5 / 9.3 / 9.4 | significance: +0.4 vs peer; uniqueness: +0.3 vs peer |
+| [US/huntington](../../../countries/US/sights/huntington.yaml) | 9.2 / 9.3 / 9.2 / 9.3 / 9.4 | significance: -0.3 vs peer; depth: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-museum-of-rockies — Museum of the Rockies Bozeman — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/museum-of-rockies.yaml)
+- Action: new
+- Scope: Dinosaur fossil galleries, regional history and visible fossil preparation; research collection and public displays distinguished.
+- Representative coordinates: 45.658, -111.045; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.2 / 9.1 / 9.1.
+- Categories: history:9.4 nature:9.2 family:9.3.
+- Overall: 91.15/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://museumoftherockies.org/exhibitions/siebel-dinosaur-complex; https://museumoftherockies.org/exhibitions.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/dinosaur-monument](../../../countries/US/sights/dinosaur-monument.yaml) | 9.3 / 9.4 / 9.3 / 9.1 / 9.3 | impact: -0.3 vs peer; uniqueness: -0.2 vs peer |
+| [US/field-museum](../../../countries/US/sights/field-museum.yaml) | 9.2 / 9.2 / 9.3 / 9.2 / 9.4 | depth: -0.3 vs peer; impact: -0.2 vs peer |
+| [US/john-day-fossil-beds](../../../countries/US/sights/john-day-fossil-beds.yaml) | 8.9 / 9.0 / 8.9 / 8.8 / 8.9 | significance: +0.3 vs peer; experience: +0.3 vs peer |
+| [US/florissant-fossil-beds](../../../countries/US/sights/florissant-fossil-beds.yaml) | 8.5 / 8.9 / 9.0 / 8.6 / 8.8 | impact: +0.5 vs peer; experience: +0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-heard-museum — Heard Museum Phoenix Indigenous Art and Culture — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/heard-museum.yaml)
+- Action: new
+- Scope: American Indian art and cultural interpretation; distinct museum from nearby art institutions.
+- Representative coordinates: 33.472, -112.073; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.2 / 9.3 / 9.0 / 9.1.
+- Categories: culture:9.4 history:9.3 architecture:8.8.
+- Overall: 90.90/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://heard.org/; https://heard.org/plan/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-american-indian-museum](../../../countries/US/sights/national-american-indian-museum.yaml) | 9.0 / 9.1 / 9.4 / 9.1 / 9.2 | impact: -0.1 vs peer; uniqueness: +0.1 vs peer |
+| [US/bishop-museum](../../../countries/US/sights/bishop-museum.yaml) | 9.2 / 9.4 / 9.4 / 9.1 / 9.4 | impact: -0.3 vs peer; depth: -0.3 vs peer |
+| [US/alaska-native-heritage](../../../countries/US/sights/alaska-native-heritage.yaml) | 8.9 / 9.2 / 9.3 / 9.1 / 9.2 | experience: -0.1 vs peer; depth: -0.1 vs peer |
+| [US/denver-art-museum](../../../countries/US/sights/denver-art-museum.yaml) | 8.8 / 8.8 / 8.9 / 8.8 / 9.1 | uniqueness: +0.4 vs peer; significance: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-carnegie-art — Carnegie Museum of Art Pittsburgh — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/carnegie-art.yaml)
+- Action: new
+- Scope: Distinct art museum in shared complex; more than 100,000 objects including art and design. Natural history galleries not included in score.
+- Representative coordinates: 40.443, -79.95; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.9 / 9.1 / 8.9 / 9.2.
+- Categories: culture:9.4 history:9.1 architecture:9.0.
+- Overall: 89.70/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://carnegiemuseums.org/our-museums/carnegie-museum-of-art/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/cleveland-art-museum](../../../countries/US/sights/cleveland-art-museum.yaml) | 9.1 / 9.2 / 9.3 / 9.2 / 9.3 | uniqueness: -0.3 vs peer; experience: -0.3 vs peer |
+| [US/nelson-atkins](../../../countries/US/sights/nelson-atkins.yaml) | 9.0 / 9.1 / 9.2 / 9.2 / 9.3 | experience: -0.3 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-portland-art-museum — Portland Art Museum Oregon — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/portland-art-museum.yaml)
+- Action: new
+- Scope: Regional art museum with extensive Indigenous art collections and Asian and contemporary art.
+- Representative coordinates: 45.516, -122.683; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 8.9 / 9.1 / 8.9 / 9.1.
+- Categories: culture:9.3 history:9.2 architecture:8.9.
+- Overall: 89.30/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://portlandartmuseum.org/collection/collection-areas/; https://portlandartmuseum.org/faqs/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/denver-art-museum](../../../countries/US/sights/denver-art-museum.yaml) | 8.8 / 8.8 / 8.9 / 8.8 / 9.1 | significance: +0.2 vs peer; uniqueness: +0.1 vs peer |
+| [US/minneapolis-institute-art](../../../countries/US/sights/minneapolis-institute-art.yaml) | 9.0 / 9.2 / 9.3 / 9.1 / 9.4 | uniqueness: -0.3 vs peer; depth: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-marine-corps-museum — National Museum of the Marine Corps Triangle Virginia — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/marine-corps-museum.yaml)
+- Action: new
+- Scope: Dedicated historical museum and immersive exhibitions; separate from aviation museums.
+- Representative coordinates: 38.544, -77.344; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.9 / 9.1 / 9.0 / 9.1.
+- Categories: history:9.3 culture:9.0 architecture:9.1.
+- Overall: 89.75/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.usmcmuseum.com/exhibits.html.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-wwii-museum](../../../countries/US/sights/national-wwii-museum.yaml) | 9.1 / 9.2 / 9.3 / 9.2 / 9.4 | uniqueness: -0.3 vs peer; depth: -0.3 vs peer |
+| [US/national-usaf-museum](../../../countries/US/sights/national-usaf-museum.yaml) | 9.1 / 9.3 / 9.3 / 9.1 / 9.4 | uniqueness: -0.4 vs peer; depth: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-heye-center — National Museum of the American Indian New York Heye Center — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/heye-center.yaml)
+- Action: new
+- Scope: Separate public museum venue in New York's historic customs house; excludes Washington museum.
+- Representative coordinates: 40.704, -74.014; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 8.8 / 9.1 / 8.8 / 8.9.
+- Categories: culture:9.3 history:9.2 architecture:9.0.
+- Overall: 88.70/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.si.edu/museums/american-indian-museum-heye-center; https://www.si.edu/newsdesk/factsheets/national-museum-american-indian-new-york.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-american-indian-museum](../../../countries/US/sights/national-american-indian-museum.yaml) | 9.0 / 9.1 / 9.4 / 9.1 / 9.2 | uniqueness: -0.3 vs peer; significance: -0.3 vs peer |
+| [US/tenement-museum](../../../countries/US/sights/tenement-museum.yaml) | 9.0 / 9.3 / 9.2 / 9.1 / 9.0 | uniqueness: -0.5 vs peer; experience: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-national-great-lakes — National Museum of the Great Lakes Toledo — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/national-great-lakes.yaml)
+- Action: new
+- Scope: Maritime museum and historic museum vessels grouped; separate from Toledo art museum.
+- Representative coordinates: 41.649, -83.515; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.6 / 8.8 / 8.8 / 8.9 / 8.8.
+- Categories: history:9.2 culture:9.0 family:9.0.
+- Overall: 87.55/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://nmgl.org/visit/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/mystic-seaport](../../../countries/US/sights/mystic-seaport.yaml) | 9.0 / 9.2 / 9.1 / 9.2 / 9.3 | depth: -0.5 vs peer; impact: -0.4 vs peer |
+| [US/uss-midway-museum](../../../countries/US/sights/uss-midway-museum.yaml) | 8.9 / 9.1 / 9.0 / 9.2 / 9.1 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-mississippi-river-museum — National Mississippi River Museum and Aquarium Dubuque — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/mississippi-river-museum.yaml)
+- Action: new
+- Scope: Integrated river heritage museum and aquarium; independent of general Mississippi River landscape.
+- Representative coordinates: 42.495, -90.66; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.7 / 9.0 / 8.9.
+- Categories: nature:9.1 history:9.1 family:9.3.
+- Overall: 87.90/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.rivermuseum.org/; https://history.iowa.gov/locations/national-mississippi-river-museum-aquarium.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/mystic-seaport](../../../countries/US/sights/mystic-seaport.yaml) | 9.0 / 9.2 / 9.1 / 9.2 / 9.3 | uniqueness: -0.4 vs peer; significance: -0.4 vs peer |
+| [US/national-aquarium](../../../countries/US/sights/national-aquarium.yaml) | 9.0 / 8.9 / 9.0 / 9.3 / 9.1 | impact: -0.3 vs peer; significance: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-philbrook — Philbrook Museum of Art Tulsa — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/philbrook.yaml)
+- Action: new
+- Scope: Art collection, historic villa and surrounding gardens grouped.
+- Representative coordinates: 36.125, -95.976; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.7 / 8.9 / 8.9.
+- Categories: culture:9.2 architecture:9.1 photography:9.1.
+- Overall: 87.50/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/vizcaya](../../../countries/US/sights/vizcaya.yaml) | 8.8 / 8.7 / 8.6 / 8.9 / 8.8 | impact: -0.1 vs peer; significance: +0.1 vs peer |
+| [US/gardner-museum](../../../countries/US/sights/gardner-museum.yaml) | 8.8 / 9.2 / 8.9 / 9.0 / 9.0 | uniqueness: -0.5 vs peer; significance: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-national-cowboy — National Cowboy and Western Heritage Museum Oklahoma City — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/national-cowboy.yaml)
+- Action: new
+- Scope: Western art, ranching and regional history collections and exhibitions.
+- Representative coordinates: 35.535, -97.483; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.9 / 8.9 / 9.0.
+- Categories: culture:9.3 history:9.2 family:9.0.
+- Overall: 88.80/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/fort-worth-stockyards](../../../countries/US/sights/fort-worth-stockyards.yaml) | 8.7 / 8.8 / 8.6 / 9.0 / 8.7 | significance: +0.3 vs peer; depth: +0.3 vs peer |
+| [US/shelburne-museum](../../../countries/US/sights/shelburne-museum.yaml) | 8.8 / 8.9 / 8.7 / 8.9 / 9.1 | significance: +0.2 vs peer; depth: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-evergreen-aviation — Evergreen Aviation and Space Museum McMinnville — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/evergreen-aviation.yaml)
+- Action: new
+- Scope: Aviation and space museum including the Spruce Goose; excludes adjacent waterpark.
+- Representative coordinates: 45.205, -123.144; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 9.0 / 8.8 / 8.9 / 8.8.
+- Categories: history:9.2 family:9.2 photography:9.1.
+- Overall: 88.95/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/museum-of-flight](../../../countries/US/sights/museum-of-flight.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.3 | significance: -0.5 vs peer; depth: -0.5 vs peer |
+| [US/eaa-aviation](../../../countries/US/sights/eaa-aviation.yaml) | 8.9 / 9.0 / 9.0 / 9.0 / 9.0 | significance: -0.2 vs peer; depth: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-national-comedy-center — National Comedy Center Jamestown New York — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/national-comedy-center.yaml)
+- Action: new
+- Scope: Interactive comedy history and performance interpretation, not general nightlife.
+- Representative coordinates: 42.096, -79.242; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 9.0 / 8.7 / 9.1 / 8.7.
+- Categories: culture:9.3 history:9.0 family:8.8.
+- Overall: 88.35/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/museum-pop-culture](../../../countries/US/sights/museum-pop-culture.yaml) | 8.7 / 8.9 / 8.6 / 8.9 / 8.8 | experience: +0.2 vs peer; uniqueness: +0.1 vs peer |
+| [US/rock-roll-hall-fame](../../../countries/US/sights/rock-roll-hall-fame.yaml) | 8.8 / 8.9 / 8.9 / 8.9 / 8.9 | significance: -0.2 vs peer; experience: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-crazy-horse-memorial — Crazy Horse Memorial Black Hills — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/crazy-horse-memorial.yaml)
+- Action: new
+- Scope: Unfinished mountain carving and visitor cultural museum; no assumption of completed sculpture or consensus among Indigenous communities.
+- Representative coordinates: 43.836, -103.625; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 9.0 / 8.9 / 8.5 / 8.7.
+- Categories: culture:9.1 history:9.1 photography:9.2.
+- Overall: 88.15/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/mount-rushmore-national-memorial](../../../countries/US/sights/mount-rushmore-national-memorial.yaml) | 8.6 / 8.9 / 8.8 / 8.2 / 7.8 | depth: +0.9 vs peer; experience: +0.3 vs peer |
+| [US/alaska-native-heritage](../../../countries/US/sights/alaska-native-heritage.yaml) | 8.9 / 9.2 / 9.3 / 9.1 / 9.2 | experience: -0.6 vs peer; depth: -0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-kasha-katuwe — Kasha-Katuwe Tent Rocks National Monument — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/kasha-katuwe.yaml)
+- Action: new
+- Scope: Cone-shaped rock formations and authorized trails; tribal access rules and reservations separate from intrinsic score.
+- Representative coordinates: 35.66, -106.414; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 9.0 / 9.1 / 8.5 / 8.8 / 8.5.
+- Categories: nature:9.3 photography:9.4 adventure:9.1.
+- Overall: 88.45/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/goblin-valley](../../../countries/US/sights/goblin-valley.yaml) | 8.9 / 9.1 / 8.4 / 8.9 / 8.6 | impact: +0.1 vs peer; significance: +0.1 vs peer |
+| [US/bisti-badlands](../../../countries/US/sights/bisti-badlands.yaml) | 9.2 / 9.4 / 8.6 / 8.9 / 8.9 | depth: -0.4 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-silver-falls — Silver Falls State Park Oregon Trail of Ten Falls — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/silver-falls.yaml)
+- Action: new
+- Scope: Waterfall circuit and temperate forest trails outside Columbia River Gorge.
+- Representative coordinates: 44.878, -122.655; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.4 / 9.1 / 8.8.
+- Categories: nature:9.3 photography:9.3 adventure:9.1.
+- Overall: 87.95/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/columbia-gorge](../../../countries/US/sights/columbia-gorge.yaml) | 9.2 / 9.0 / 8.8 / 9.2 / 9.1 | significance: -0.4 vs peer; impact: -0.3 vs peer |
+| [US/ricketts-glen](../../../countries/US/sights/ricketts-glen.yaml) | 8.8 / 8.6 / 8.4 / 9.0 / 8.7 | uniqueness: +0.2 vs peer; impact: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+## sight-us-us-space-rocket-center — U.S. Space and Rocket Center Huntsville — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/us-space-rocket-center.yaml)
+- Action: new
+- Scope: Official Marshall Space Flight Center visitor center; authentic Saturn V and spaceflight exhibitions grouped. Excludes restricted NASA facilities.
+- Representative coordinates: 34.711, -86.654; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.4 / 9.3 / 9.3 / 9.3.
+- Categories: history:9.4 family:9.4 culture:9.1.
+- Overall: 93.25/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://rocketcenter.com/media/facts/; https://rocketcenter.com/aboutus/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/kennedy-space-center-visitor-complex](../../../countries/US/sights/kennedy-space-center-visitor-complex.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.3 | impact: +0.1 vs peer; significance: -0.1 vs peer |
+| [US/space-center-houston](../../../countries/US/sights/space-center-houston.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.3 | impact: +0.1 vs peer; significance: -0.1 vs peer |
+| [US/national-air-and-space-museum-dc](../../../countries/US/sights/national-air-and-space-museum-dc.yaml) | 9.1 / 9.3 / 9.4 / 9.1 / 9.1 | impact: +0.2 vs peer; experience: +0.2 vs peer |
+| [US/udvar-hazy-center](../../../countries/US/sights/udvar-hazy-center.yaml) | 9.3 / 9.4 / 9.4 / 9.2 / 9.4 | significance: -0.1 vs peer; experience: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-meow-wolf-santa-fe — Meow Wolf House of Eternal Return Santa Fe — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/meow-wolf-santa-fe.yaml)
+- Action: new
+- Scope: Original permanent immersive installation with over 70 rooms and nonlinear narrative; excludes other Meow Wolf venues.
+- Representative coordinates: 35.655, -105.996; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.4 / 8.8 / 9.4 / 9.1.
+- Categories: culture:9.4 family:9.3 photography:9.3.
+- Overall: 91.90/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://meowwolf.com/projects/house-of-eternal-return; https://www.santafe.org/listing/meow-wolf/4233/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/the-broad](../../../countries/US/sights/the-broad.yaml) | 8.9 / 9.1 / 8.9 / 9.1 / 8.8 | impact: +0.3 vs peer; uniqueness: +0.3 vs peer |
+| [US/dia-beacon](../../../countries/US/sights/dia-beacon.yaml) | 9.0 / 9.3 / 9.1 / 9.1 / 9.0 | significance: -0.3 vs peer; experience: +0.3 vs peer |
+| [US/strong-museum-play](../../../countries/US/sights/strong-museum-play.yaml) | 9.2 / 9.4 / 9.2 / 9.4 / 9.2 | significance: -0.4 vs peer; depth: -0.1 vs peer |
+| [US/exploratorium](../../../countries/US/sights/exploratorium.yaml) | 9.0 / 9.3 / 8.9 / 9.4 / 9.3 | impact: +0.2 vs peer; depth: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-winterthur — Winterthur Museum Garden and Library Delaware — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/winterthur.yaml)
+- Action: new
+- Scope: Historic estate, garden and American decorative arts collection of nearly 90,000 objects; public exhibitions and tours, not entire research holdings.
+- Representative coordinates: 39.808, -75.602; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.2 / 9.0 / 9.3.
+- Categories: history:9.3 culture:9.4 architecture:9.2.
+- Overall: 91.20/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.winterthur.org/exhibitions-and-collections/museum/museum-collections/; https://museumcollection.winterthur.org/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/huntington](../../../countries/US/sights/huntington.yaml) | 9.2 / 9.3 / 9.2 / 9.3 / 9.4 | experience: -0.3 vs peer; impact: -0.2 vs peer |
+| [US/shelburne-museum](../../../countries/US/sights/shelburne-museum.yaml) | 8.8 / 8.9 / 8.7 / 8.9 / 9.1 | significance: +0.5 vs peer; uniqueness: +0.3 vs peer |
+| [US/newport-mansions](../../../countries/US/sights/newport-mansions.yaml) | 9.0 / 8.9 / 9.0 / 9.0 / 9.0 | uniqueness: +0.3 vs peer; depth: +0.3 vs peer |
+| [US/peabody-essex](../../../countries/US/sights/peabody-essex.yaml) | 9.1 / 9.4 / 9.3 / 9.0 / 9.2 | uniqueness: -0.2 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-stax-museum — Stax Museum of American Soul Music Memphis — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/stax-museum.yaml)
+- Action: new
+- Scope: Original studio site with reconstructed interiors and over 2,000 artifacts; distinct from Sun Studio and Graceland.
+- Representative coordinates: 35.116, -90.014; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.3 / 9.0 / 9.1.
+- Categories: culture:9.4 history:9.3 architecture:8.6.
+- Overall: 91.45/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://staxmuseum.org/about-stax-museum/; https://staxmuseum.org/museum/collection/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/motown-museum](../../../countries/US/sights/motown-museum.yaml) | 8.7 / 9.0 / 9.1 / 8.8 / 8.6 | depth: +0.5 vs peer; impact: +0.3 vs peer |
+| [US/country-music-hall](../../../countries/US/sights/country-music-hall.yaml) | 9.0 / 9.3 / 9.3 / 9.1 / 9.2 | experience: -0.1 vs peer; depth: -0.1 vs peer |
+| [US/rock-roll-hall-fame](../../../countries/US/sights/rock-roll-hall-fame.yaml) | 8.8 / 8.9 / 8.9 / 8.9 / 8.9 | uniqueness: +0.4 vs peer; significance: +0.4 vs peer |
+| [US/graceland](../../../countries/US/sights/graceland.yaml) | 9.0 / 9.3 / 9.2 / 9.0 / 9.0 | significance: +0.1 vs peer; depth: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-national-african-american-music — National Museum of African American Music Nashville — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/national-african-american-music.yaml)
+- Action: new
+- Scope: Distinct museum interpreting gospel, blues, jazz, R&B and hip-hop; independent of country music museum and live music venues.
+- Representative coordinates: 36.161, -86.779; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.3 / 9.2 / 9.1.
+- Categories: culture:9.4 history:9.3 family:9.0.
+- Overall: 91.75/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nmaam.org/visit/; https://www.nmaam.org/about/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/country-music-hall](../../../countries/US/sights/country-music-hall.yaml) | 9.0 / 9.3 / 9.3 / 9.1 / 9.2 | experience: +0.1 vs peer; depth: -0.1 vs peer |
+| [US/musical-instrument-museum](../../../countries/US/sights/musical-instrument-museum.yaml) | 9.1 / 9.3 / 9.0 / 9.3 / 9.3 | significance: +0.3 vs peer; depth: -0.2 vs peer |
+| [US/rock-roll-hall-fame](../../../countries/US/sights/rock-roll-hall-fame.yaml) | 8.8 / 8.9 / 8.9 / 8.9 / 8.9 | uniqueness: +0.4 vs peer; significance: +0.4 vs peer |
+| [US/motown-museum](../../../countries/US/sights/motown-museum.yaml) | 8.7 / 9.0 / 9.1 / 8.8 / 8.6 | depth: +0.5 vs peer; experience: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-international-spy-museum — International Spy Museum Washington DC — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/international-spy-museum.yaml)
+- Action: new
+- Scope: Extensive public espionage collections and interactive interpretation; historical museum scope.
+- Representative coordinates: 38.884, -77.026; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.1 / 9.3 / 9.1.
+- Categories: history:9.3 culture:9.1 family:9.3.
+- Overall: 91.50/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.spymuseum.org/exhibition-experiences/; https://www.spymuseum.org/exhibition-experiences/about-the-collection/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-museum-american-history](../../../countries/US/sights/national-museum-american-history.yaml) | 9.1 / 9.2 / 9.4 / 9.1 / 9.4 | significance: -0.3 vs peer; depth: -0.3 vs peer |
+| [US/national-archives](../../../countries/US/sights/national-archives.yaml) | 9.0 / 9.4 / 9.4 / 8.7 / 8.9 | experience: +0.6 vs peer; significance: -0.3 vs peer |
+| [US/exploratorium](../../../countries/US/sights/exploratorium.yaml) | 9.0 / 9.3 / 8.9 / 9.4 / 9.3 | significance: +0.2 vs peer; depth: -0.2 vs peer |
+| [US/computer-history-museum](../../../countries/US/sights/computer-history-museum.yaml) | 9.1 / 9.4 / 9.3 / 9.1 / 9.3 | significance: -0.2 vs peer; experience: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-vicksburg — Vicksburg National Military Park Battlefield and USS Cairo Museum — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/vicksburg.yaml)
+- Action: new
+- Scope: Civil War battlefield, monuments and conserved USS Cairo ironclad museum grouped within military park.
+- Representative coordinates: 32.347, -90.851; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.1 / 9.4 / 8.9 / 9.2.
+- Categories: history:9.4 culture:9.1 photography:8.9.
+- Overall: 90.80/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/vick/; https://www.nps.gov/places/uss-cairo.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/gettysburg](../../../countries/US/sights/gettysburg.yaml) | 9.1 / 9.1 / 9.4 / 9.0 / 9.3 | impact: -0.2 vs peer; experience: -0.1 vs peer |
+| [US/yorktown](../../../countries/US/sights/yorktown.yaml) | 8.6 / 8.8 / 9.2 / 8.7 / 8.8 | depth: +0.4 vs peer; impact: +0.3 vs peer |
+| [US/fort-sumter](../../../countries/US/sights/fort-sumter.yaml) | 8.6 / 8.8 / 9.2 / 8.7 / 8.8 | depth: +0.4 vs peer; impact: +0.3 vs peer |
+| [US/national-wwii-museum](../../../countries/US/sights/national-wwii-museum.yaml) | 9.1 / 9.2 / 9.3 / 9.2 / 9.4 | experience: -0.3 vs peer; impact: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-mississippi-civil-rights — Mississippi Civil Rights Museum and Museum of Mississippi History Jackson — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/mississippi-civil-rights.yaml)
+- Action: new
+- Scope: Two Mississippi museums in shared complex grouped, with civil rights galleries and complementary statewide historical interpretation.
+- Representative coordinates: 32.303, -90.179; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.1 / 9.3 / 9.0 / 9.2.
+- Categories: history:9.4 culture:9.3 architecture:8.8.
+- Overall: 90.75/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://mcrm.mdah.ms.gov/; https://mcrm.mdah.ms.gov/visit.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-civil-rights-museum](../../../countries/US/sights/national-civil-rights-museum.yaml) | 9.1 / 9.3 / 9.4 / 9.0 / 9.3 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+| [US/montgomery-legacy-sites](../../../countries/US/sights/montgomery-legacy-sites.yaml) | 9.3 / 9.3 / 9.4 / 9.0 / 9.1 | impact: -0.4 vs peer; uniqueness: -0.2 vs peer |
+| [US/little-rock-central-high](../../../countries/US/sights/little-rock-central-high.yaml) | 8.5 / 8.8 / 9.3 / 8.6 / 8.5 | depth: +0.7 vs peer; impact: +0.4 vs peer |
+| [US/national-underground-railroad](../../../countries/US/sights/national-underground-railroad.yaml) | 8.8 / 8.9 / 9.1 / 8.8 / 8.9 | depth: +0.3 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-national-postal-museum — Smithsonian National Postal Museum Washington DC — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/national-postal-museum.yaml)
+- Action: new
+- Scope: Dedicated postal and philatelic institution with over six million objects in collection; public galleries distinct from research holdings.
+- Representative coordinates: 38.898, -77.008; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.2 / 9.1 / 9.0 / 9.2.
+- Categories: history:9.3 culture:9.2 family:9.1.
+- Overall: 90.60/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.si.edu/museums/postal-museum; https://postalmuseum.si.edu/collections.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-museum-american-history](../../../countries/US/sights/national-museum-american-history.yaml) | 9.1 / 9.2 / 9.4 / 9.1 / 9.4 | significance: -0.3 vs peer; impact: -0.2 vs peer |
+| [US/computer-history-museum](../../../countries/US/sights/computer-history-museum.yaml) | 9.1 / 9.4 / 9.3 / 9.1 / 9.3 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+| [US/corning-glass](../../../countries/US/sights/corning-glass.yaml) | 9.1 / 9.4 / 9.2 / 9.2 / 9.3 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+| [US/george-eastman-museum](../../../countries/US/sights/george-eastman-museum.yaml) | 9.0 / 9.3 / 9.3 / 9.0 / 9.2 | significance: -0.2 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-sun-studio — Sun Studio Memphis Historic Recording Studio Tour — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/sun-studio.yaml)
+- Action: new
+- Scope: Preserved recording studio and guided music history visit; no separate recording-session ranking.
+- Representative coordinates: 35.139, -90.037; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 9.4 / 9.3 / 9.0 / 8.6.
+- Categories: culture:9.4 history:9.3 architecture:8.5.
+- Overall: 90.60/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.sunstudio.com/about; https://www.sunstudio.com/visit.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/motown-museum](../../../countries/US/sights/motown-museum.yaml) | 8.7 / 9.0 / 9.1 / 8.8 / 8.6 | uniqueness: +0.4 vs peer; significance: +0.2 vs peer |
+| [US/graceland](../../../countries/US/sights/graceland.yaml) | 9.0 / 9.3 / 9.2 / 9.0 / 9.0 | depth: -0.4 vs peer; impact: -0.2 vs peer |
+| [US/ryman-auditorium](../../../countries/US/sights/ryman-auditorium.yaml) | 8.6 / 8.9 / 9.0 / 8.8 / 8.7 | uniqueness: +0.5 vs peer; significance: +0.3 vs peer |
+| [US/country-music-hall](../../../countries/US/sights/country-music-hall.yaml) | 9.0 / 9.3 / 9.3 / 9.1 / 9.2 | depth: -0.6 vs peer; impact: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-kentucky-horse-park — Kentucky Horse Park and International Museum of the Horse — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/kentucky-horse-park.yaml)
+- Action: new
+- Scope: Equine history museums and equestrian demonstrations grouped; seasonal programs not guaranteed.
+- Representative coordinates: 38.149, -84.52; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.0 / 8.8 / 9.1 / 9.0.
+- Categories: culture:9.2 history:9.1 family:9.3.
+- Overall: 89.45/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://kyhorsepark.com/explore/international-museum-of-the-horse/; https://kyhorsepark.com/park-information/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/henry-ford-museum](../../../countries/US/sights/henry-ford-museum.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.4 | significance: -0.5 vs peer; depth: -0.4 vs peer |
+| [US/fort-worth-stockyards](../../../countries/US/sights/fort-worth-stockyards.yaml) | 8.7 / 8.8 / 8.6 / 9.0 / 8.7 | depth: +0.3 vs peer; impact: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-weitzman-jewish-history — Weitzman National Museum of American Jewish History Philadelphia — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/weitzman-jewish-history.yaml)
+- Action: new
+- Scope: Dedicated museum of Jewish American history and immigration; independent of Independence Hall.
+- Representative coordinates: 39.95, -75.148; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 8.9 / 9.2 / 8.9 / 9.1.
+- Categories: history:9.3 culture:9.3 architecture:8.8.
+- Overall: 89.50/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://theweitzman.org/coreexhibition/; https://theweitzman.org/exhibitionsandcollections/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/tenement-museum](../../../countries/US/sights/tenement-museum.yaml) | 9.0 / 9.3 / 9.2 / 9.1 / 9.0 | uniqueness: -0.4 vs peer; impact: -0.2 vs peer |
+| [US/national-museum-of-african-american-history-and-culture](../../../countries/US/sights/national-museum-of-african-american-history-and-culture.yaml) | 9.0 / 9.2 / 9.4 / 9.1 / 9.2 | uniqueness: -0.3 vs peer; impact: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-uss-alabama — USS Alabama Battleship Memorial Park Mobile — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/uss-alabama.yaml)
+- Action: new
+- Scope: Battleship, submarine and aviation displays grouped as one memorial park.
+- Representative coordinates: 30.681, -88.015; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 8.8 / 9.0 / 9.0 / 9.0.
+- Categories: history:9.3 family:9.2 photography:9.1.
+- Overall: 88.90/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.ussalabama.com/; https://www.gulfshores.com/things-to-do/uss-alabama-battleship-memorial-park/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/uss-midway-museum](../../../countries/US/sights/uss-midway-museum.yaml) | 8.9 / 9.1 / 9.0 / 9.2 / 9.1 | uniqueness: -0.3 vs peer; experience: -0.2 vs peer |
+| [US/intrepid-museum](../../../countries/US/sights/intrepid-museum.yaml) | 9.1 / 9.3 / 9.2 / 9.2 / 9.1 | uniqueness: -0.5 vs peer; impact: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-national-constitution-center — National Constitution Center Philadelphia — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/national-constitution-center.yaml)
+- Action: new
+- Scope: Dedicated constitutional history exhibits, independent of Independence Hall and Old City.
+- Representative coordinates: 39.954, -75.149; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 9.1 / 8.9 / 8.9.
+- Categories: history:9.3 culture:9.0 family:9.0.
+- Overall: 88.55/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-archives](../../../countries/US/sights/national-archives.yaml) | 9.0 / 9.4 / 9.4 / 8.7 / 8.9 | uniqueness: -0.6 vs peer; impact: -0.3 vs peer |
+| [US/american-revolution-museum](../../../countries/US/sights/american-revolution-museum.yaml) | 8.9 / 9.1 / 9.3 / 9.1 / 9.2 | uniqueness: -0.3 vs peer; depth: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-national-building-museum — National Building Museum Washington DC — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/national-building-museum.yaml)
+- Action: new
+- Scope: Historic building and exhibitions on architecture, engineering and design.
+- Representative coordinates: 38.897, -77.017; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.9 / 8.8 / 8.9.
+- Categories: architecture:9.4 history:9.0 culture:9.1.
+- Overall: 88.00/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/chicago-auditorium-building](../../../countries/US/sights/chicago-auditorium-building.yaml) | 8.2 / 8.5 / 8.8 / 8.0 / 7.5 | depth: +1.4 vs peer; experience: +0.8 vs peer |
+| [US/national-museum-american-history](../../../countries/US/sights/national-museum-american-history.yaml) | 9.1 / 9.2 / 9.4 / 9.1 / 9.4 | significance: -0.5 vs peer; depth: -0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-american-visionary-art — American Visionary Art Museum Baltimore — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/american-visionary-art.yaml)
+- Action: new
+- Scope: Self-taught and outsider art museum with permanent and changing displays.
+- Representative coordinates: 39.28, -76.607; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 9.0 / 8.6 / 8.9 / 8.8.
+- Categories: culture:9.3 photography:9.2 family:9.0.
+- Overall: 88.25/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/st-louis-city-museum](../../../countries/US/sights/st-louis-city-museum.yaml) | 8.8 / 9.1 / 8.3 / 9.3 / 8.8 | experience: -0.4 vs peer; significance: +0.3 vs peer |
+| [US/the-broad](../../../countries/US/sights/the-broad.yaml) | 8.9 / 9.1 / 8.9 / 9.1 / 8.8 | significance: -0.3 vs peer; experience: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-national-corvette-museum — National Corvette Museum Bowling Green Kentucky — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/national-corvette-museum.yaml)
+- Action: new
+- Scope: Automotive design and Corvette history galleries; excludes factory access assumptions.
+- Representative coordinates: 37.004, -86.376; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 8.7 / 8.9 / 8.8.
+- Categories: culture:9.1 history:9.0 photography:9.1.
+- Overall: 87.90/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/henry-ford-museum](../../../countries/US/sights/henry-ford-museum.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.4 | significance: -0.6 vs peer; depth: -0.6 vs peer |
+| [US/eaa-aviation](../../../countries/US/sights/eaa-aviation.yaml) | 8.9 / 9.0 / 9.0 / 9.0 / 9.0 | significance: -0.3 vs peer; impact: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-louisville-slugger — Louisville Slugger Museum and Factory — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/louisville-slugger.yaml)
+- Action: new
+- Scope: Baseball bat manufacturing tour and museum grouped.
+- Representative coordinates: 38.257, -85.763; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.9 / 8.7 / 9.0 / 8.6.
+- Categories: culture:9.2 history:9.0 family:9.1.
+- Overall: 87.55/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/henry-ford-museum](../../../countries/US/sights/henry-ford-museum.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.4 | depth: -0.8 vs peer; impact: -0.6 vs peer |
+| [US/national-cowboy](../../../countries/US/sights/national-cowboy.yaml) | 8.8 / 8.9 / 8.9 / 8.9 / 9.0 | depth: -0.4 vs peer; impact: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-kentucky-derby-museum — Kentucky Derby Museum and Churchill Downs Tours Louisville — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/kentucky-derby-museum.yaml)
+- Action: new
+- Scope: Museum and historic racetrack visitor tours; no assumption of attending annual Derby or gambling.
+- Representative coordinates: 38.203, -85.771; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 8.9 / 9.0 / 8.8.
+- Categories: culture:9.2 history:9.1 family:8.9.
+- Overall: 88.45/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/fort-worth-stockyards](../../../countries/US/sights/fort-worth-stockyards.yaml) | 8.7 / 8.8 / 8.6 / 9.0 / 8.7 | significance: +0.3 vs peer; uniqueness: +0.1 vs peer |
+| [US/national-cowboy](../../../countries/US/sights/national-cowboy.yaml) | 8.8 / 8.9 / 8.9 / 8.9 / 9.0 | depth: -0.2 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-natchez-historic — Natchez Historic District and Historic House Tours Mississippi — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/natchez-historic.yaml)
+- Action: new
+- Scope: Historic townscape and accessible house tours, including interpretation of slavery; no separate mansion duplicates.
+- Representative coordinates: 31.56, -91.403; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.7 / 9.0 / 8.8 / 8.8.
+- Categories: architecture:9.2 history:9.2 culture:9.0.
+- Overall: 87.55/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/savannah-historic-district](../../../countries/US/sights/savannah-historic-district.yaml) | 8.9 / 9.0 / 9.1 / 9.0 / 9.0 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer |
+| [US/charleston-historic-district](../../../countries/US/sights/charleston-historic-district.yaml) | 9.0 / 9.0 / 9.2 / 9.1 / 9.1 | impact: -0.4 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-new-castle-delaware — Historic New Castle Delaware Colonial Townscape — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/new-castle-delaware.yaml)
+- Action: new
+- Scope: Historic colonial streets and public heritage buildings grouped.
+- Representative coordinates: 39.659, -75.563; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.2 / 8.4 / 8.8 / 8.6 / 8.4.
+- Categories: architecture:9.0 history:9.1 photography:8.9.
+- Overall: 84.50/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/st-augustine](../../../countries/US/sights/st-augustine.yaml) | 8.9 / 8.9 / 9.2 / 8.9 / 8.9 | impact: -0.7 vs peer; uniqueness: -0.5 vs peer |
+| [US/philadelphia-old-city](../../../countries/US/sights/philadelphia-old-city.yaml) | 8.5 / 8.6 / 8.9 / 8.8 / 8.7 | impact: -0.3 vs peer; depth: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-devils-lake-wisconsin — Devils Lake State Park Baraboo Wisconsin — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/devils-lake-wisconsin.yaml)
+- Action: new
+- Scope: Quartzite bluffs, lake and hiking routes grouped.
+- Representative coordinates: 43.418, -89.73; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.4 / 9.0 / 8.7.
+- Categories: nature:9.2 adventure:9.2 photography:9.2.
+- Overall: 87.15/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/hocking-hills](../../../countries/US/sights/hocking-hills.yaml) | 8.9 / 8.7 / 8.5 / 9.0 / 8.8 | impact: -0.1 vs peer; significance: -0.1 vs peer |
+| [US/pictured-rocks](../../../countries/US/sights/pictured-rocks.yaml) | 9.2 / 9.1 / 8.7 / 9.2 / 9.0 | impact: -0.4 vs peer; uniqueness: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-blackwater-falls — Blackwater Falls State Park West Virginia — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/blackwater-falls.yaml)
+- Action: new
+- Scope: Waterfall overlooks and forested canyon trails grouped.
+- Representative coordinates: 39.113, -79.482; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.6 / 8.3 / 8.9 / 8.6.
+- Categories: nature:9.2 photography:9.3 adventure:8.9.
+- Overall: 85.85/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/ricketts-glen](../../../countries/US/sights/ricketts-glen.yaml) | 8.8 / 8.6 / 8.4 / 9.0 / 8.7 | impact: -0.2 vs peer; significance: -0.1 vs peer |
+| [US/tallulah-gorge](../../../countries/US/sights/tallulah-gorge.yaml) | 8.7 / 8.7 / 8.3 / 8.9 / 8.7 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-national-bison-range — Bison Range Flathead Reservation Montana — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/national-bison-range.yaml)
+- Action: new
+- Scope: Tribally managed wildlife and scenic driving experience; access conditions and sightings not guaranteed.
+- Representative coordinates: 47.342, -114.222; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.7 / 8.9 / 8.7.
+- Categories: wildlife:9.3 nature:9.2 photography:9.2.
+- Overall: 87.85/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/custer-state-park](../../../countries/US/sights/custer-state-park.yaml) | 8.9 / 8.8 / 8.7 / 9.0 / 9.0 | depth: -0.3 vs peer; impact: -0.1 vs peer |
+| [US/antelope-island](../../../countries/US/sights/antelope-island.yaml) | 8.8 / 8.9 / 8.6 / 8.8 / 8.7 | uniqueness: -0.1 vs peer; significance: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+## sight-us-lowell-observatory — Lowell Observatory Flagstaff and Astronomy Discovery Center — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/lowell-observatory.yaml)
+- Action: new
+- Scope: Historic Pluto discovery site, astronomy exhibits and public stargazing, weather dependent.
+- Representative coordinates: 35.203, -111.664; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.3 / 9.3 / 9.3.
+- Categories: history:9.3 family:9.4 culture:9.
+- Overall: 92.40/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://lowell.edu/visit/; https://lowell.edu/campus/astronomy-discovery-center/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/griffith-observatory](../../../countries/US/sights/griffith-observatory.yaml) | 8.9 / 8.9 / 8.7 / 9.1 / 8.8 | significance: +0.6 vs peer; depth: +0.5 vs peer |
+| [US/maunakea](../../../countries/US/sights/maunakea.yaml) | 9.2 / 9.3 / 9.3 / 8.8 / 9.1 | experience: +0.5 vs peer; depth: +0.2 vs peer |
+| [US/national-air-and-space-museum-dc](../../../countries/US/sights/national-air-and-space-museum-dc.yaml) | 9.1 / 9.3 / 9.4 / 9.1 / 9.1 | experience: +0.2 vs peer; depth: +0.2 vs peer |
+| [US/us-space-rocket-center](../../../countries/US/sights/us-space-rocket-center.yaml) | 9.3 / 9.4 / 9.3 / 9.3 / 9.3 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-meow-wolf-denver — Meow Wolf Convergence Station Denver — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/meow-wolf-denver.yaml)
+- Action: new
+- Scope: Four fictional worlds and over 70 rooms; distinct permanent installation.
+- Representative coordinates: 39.739, -105.022; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.3 / 8.7 / 9.4 / 9.1.
+- Categories: culture:9.4 family:9.3 photography:9.3.
+- Overall: 91.45/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://meowwolf.com/visit/denver; https://meowwolf.com/visit/denver/sneak-peek.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/meow-wolf-santa-fe](../../../countries/US/sights/meow-wolf-santa-fe.yaml) | 9.2 / 9.4 / 8.8 / 9.4 / 9.1 | uniqueness: -0.1 vs peer; significance: -0.1 vs peer |
+| [US/dia-beacon](../../../countries/US/sights/dia-beacon.yaml) | 9.0 / 9.3 / 9.1 / 9.1 / 9.0 | significance: -0.4 vs peer; experience: +0.3 vs peer |
+| [US/strong-museum-play](../../../countries/US/sights/strong-museum-play.yaml) | 9.2 / 9.4 / 9.2 / 9.4 / 9.2 | significance: -0.5 vs peer; uniqueness: -0.1 vs peer |
+| [US/the-broad](../../../countries/US/sights/the-broad.yaml) | 8.9 / 9.1 / 8.9 / 9.1 / 8.8 | impact: +0.3 vs peer; experience: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-meow-wolf-omega-mart — Meow Wolf Omega Mart Las Vegas — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/meow-wolf-omega-mart.yaml)
+- Action: new
+- Scope: Surreal supermarket and hidden art environments; excludes other AREA15 venues and Strip.
+- Representative coordinates: 36.132, -115.181; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.3 / 8.7 / 9.4 / 9.0.
+- Categories: culture:9.4 family:9.2 photography:9.3.
+- Overall: 91.05/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://meowwolf.com/visit/las-vegas; https://meowwolf.com/about/projects.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/meow-wolf-santa-fe](../../../countries/US/sights/meow-wolf-santa-fe.yaml) | 9.2 / 9.4 / 8.8 / 9.4 / 9.1 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [US/dia-beacon](../../../countries/US/sights/dia-beacon.yaml) | 9.0 / 9.3 / 9.1 / 9.1 / 9.0 | significance: -0.4 vs peer; experience: +0.3 vs peer |
+| [US/strong-museum-play](../../../countries/US/sights/strong-museum-play.yaml) | 9.2 / 9.4 / 9.2 / 9.4 / 9.2 | significance: -0.5 vs peer; depth: -0.2 vs peer |
+| [US/fremont-street](../../../countries/US/sights/fremont-street.yaml) | 8.7 / 8.8 / 8.4 / 9.0 / 8.3 | depth: +0.7 vs peer; uniqueness: +0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-very-large-array — Very Large Array Radio Astronomy Observatory New Mexico — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/very-large-array.yaml)
+- Action: new
+- Scope: Public visitor center and walking tour only; restricted facilities excluded.
+- Representative coordinates: 34.079, -107.618; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.4 / 9.3 / 8.8 / 8.8.
+- Categories: photography:9.3 history:9.1 family:9.
+- Overall: 91.10/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.aoc.nrao.edu/epo/puente/visit/; https://nraoepo.ticketapp.org/portal/product/19.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/griffith-observatory](../../../countries/US/sights/griffith-observatory.yaml) | 8.9 / 8.9 / 8.7 / 9.1 / 8.8 | significance: +0.6 vs peer; uniqueness: +0.5 vs peer |
+| [US/maunakea](../../../countries/US/sights/maunakea.yaml) | 9.2 / 9.3 / 9.3 / 8.8 / 9.1 | depth: -0.3 vs peer; impact: -0.2 vs peer |
+| [US/national-air-and-space-museum-dc](../../../countries/US/sights/national-air-and-space-museum-dc.yaml) | 9.1 / 9.3 / 9.4 / 9.1 / 9.1 | experience: -0.3 vs peer; depth: -0.3 vs peer |
+| [US/space-center-houston](../../../countries/US/sights/space-center-houston.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.3 | depth: -0.5 vs peer; experience: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-national-museum-mathematics — National Museum of Mathematics New York MoMath — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/national-museum-mathematics.yaml)
+- Action: new
+- Scope: Interactive mathematics museum at current 635 Sixth Avenue location opened February 2026.
+- Representative coordinates: 40.741, -73.994; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.3 / 8.9 / 9.3 / 9.0.
+- Categories: family:9.4 culture:9.1 photography:8.7.
+- Overall: 91.00/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://momath.org/visit/; https://momath.org/gala/2026opening/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/exploratorium](../../../countries/US/sights/exploratorium.yaml) | 9.0 / 9.3 / 8.9 / 9.4 / 9.3 | depth: -0.3 vs peer; experience: -0.1 vs peer |
+| [US/strong-museum-play](../../../countries/US/sights/strong-museum-play.yaml) | 9.2 / 9.4 / 9.2 / 9.4 / 9.2 | significance: -0.3 vs peer; impact: -0.2 vs peer |
+| [US/computer-history-museum](../../../countries/US/sights/computer-history-museum.yaml) | 9.1 / 9.4 / 9.3 / 9.1 / 9.3 | significance: -0.4 vs peer; depth: -0.3 vs peer |
+| [US/boston-science-museum](../../../countries/US/sights/boston-science-museum.yaml) | 8.9 / 8.9 / 8.8 / 9.2 / 9.1 | uniqueness: +0.4 vs peer; impact: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-luray-caverns — Luray Caverns Virginia — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/luray-caverns.yaml)
+- Action: new
+- Scope: Show cave with calcite formations and large halls, outside Shenandoah National Park; associated admission exhibits included.
+- Representative coordinates: 38.664, -78.484; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.1 / 8.7 / 9.2 / 8.7.
+- Categories: nature:9.4 photography:9.4 family:9.2.
+- Overall: 90.55/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://luraycaverns.com/explore/; https://visitshenandoah.org/epic-100/luray-caverns/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/carlsbad-caverns](../../../countries/US/sights/carlsbad-caverns.yaml) | 9.0 / 9.1 / 9.0 / 8.9 / 8.6 | impact: +0.3 vs peer; significance: -0.3 vs peer |
+| [US/mammoth-cave](../../../countries/US/sights/mammoth-cave.yaml) | 8.5 / 9.3 / 9.3 / 8.7 / 8.8 | impact: +0.8 vs peer; significance: -0.6 vs peer |
+| [US/jewel-cave-national-monument](../../../countries/US/sights/jewel-cave-national-monument.yaml) | 8.5 / 8.9 / 8.8 / 8.4 / 8.3 | impact: +0.8 vs peer; experience: +0.8 vs peer |
+| [US/oregon-caves](../../../countries/US/sights/oregon-caves.yaml) | 8.7 / 8.9 / 8.6 / 8.8 / 8.7 | impact: +0.6 vs peer; experience: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-wright-brothers-memorial — Wright Brothers National Memorial Kill Devil Hills — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/wright-brothers-memorial.yaml)
+- Action: new
+- Scope: First powered-flight location, monument and visitor center; separate from Dayton and Cape Hatteras.
+- Representative coordinates: 36.017, -75.668; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 9.2 / 9.4 / 8.8 / 8.8.
+- Categories: history:9.4 culture:9.1 photography:8.9.
+- Overall: 90.20/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/wrbr/planyourvisit/basicinfo.htm; https://www.nps.gov/articles/commemoration.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/dayton-aviation-heritage](../../../countries/US/sights/dayton-aviation-heritage.yaml) | 7.9 / 8.6 / 9.1 / 8.3 / 8.3 | impact: +0.9 vs peer; uniqueness: +0.6 vs peer |
+| [US/national-air-and-space-museum-dc](../../../countries/US/sights/national-air-and-space-museum-dc.yaml) | 9.1 / 9.3 / 9.4 / 9.1 / 9.1 | impact: -0.3 vs peer; experience: -0.3 vs peer |
+| [US/gettysburg](../../../countries/US/sights/gettysburg.yaml) | 9.1 / 9.1 / 9.4 / 9.0 / 9.3 | depth: -0.5 vs peer; impact: -0.3 vs peer |
+| [US/kennedy-space-center-visitor-complex](../../../countries/US/sights/kennedy-space-center-visitor-complex.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.3 | depth: -0.5 vs peer; impact: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-crater-diamonds — Crater of Diamonds State Park Arkansas — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/crater-diamonds.yaml)
+- Action: new
+- Scope: Public search for naturally occurring diamonds; no guaranteed finds or returns.
+- Representative coordinates: 34.033, -93.674; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 9.4 / 8.8 / 9.1 / 8.6.
+- Categories: adventure:9.2 family:9.3 nature:9.
+- Overall: 89.75/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.arkansas.com/experiences/discover/attraction-listings/crater-of-diamonds-state-park.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/john-day-fossil-beds](../../../countries/US/sights/john-day-fossil-beds.yaml) | 8.9 / 9.0 / 8.9 / 8.8 / 8.9 | uniqueness: +0.4 vs peer; experience: +0.3 vs peer |
+| [US/florissant-fossil-beds](../../../countries/US/sights/florissant-fossil-beds.yaml) | 8.5 / 8.9 / 9.0 / 8.6 / 8.8 | uniqueness: +0.5 vs peer; experience: +0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-oregon-dunes — Oregon Dunes National Recreation Area — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/oregon-dunes.yaml)
+- Action: new
+- Scope: Coastal dunes and forest; federal recreation listing describes largest coastal dune expanse in North America; excludes northern and southern headlands.
+- Representative coordinates: 43.797, -124.164; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.1 / 8.6 / 9.1 / 8.9.
+- Categories: nature:9.3 photography:9.3 adventure:9.3.
+- Overall: 89.80/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.recreation.gov/camping/campgrounds/234194; https://www.recreation.gov/camping/campgrounds/234195.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/great-sand-dunes-national-park](../../../countries/US/sights/great-sand-dunes-national-park.yaml) | 8.9 / 8.8 / 8.5 / 8.8 / 8.7 | uniqueness: +0.3 vs peer; experience: +0.3 vs peer |
+| [US/sleeping-bear-dunes](../../../countries/US/sights/sleeping-bear-dunes.yaml) | 9.1 / 9.0 / 8.6 / 9.1 / 8.9 | uniqueness: +0.1 vs peer; impact: +0.0 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-kartchner-caverns — Kartchner Caverns State Park Arizona — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/kartchner-caverns.yaml)
+- Action: new
+- Scope: Living cave, regulated guided tours and interpretation center.
+- Representative coordinates: 31.838, -110.348; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 8.9 / 8.8 / 9.1 / 8.8.
+- Categories: nature:9.3 family:9.1 adventure:9.
+- Overall: 89.30/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://visit.sierravistaaz.gov/outdoor-adventure/caving-caverns.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/carlsbad-caverns](../../../countries/US/sights/carlsbad-caverns.yaml) | 9.0 / 9.1 / 9.0 / 8.9 / 8.6 | uniqueness: -0.2 vs peer; significance: -0.2 vs peer |
+| [US/jewel-cave-national-monument](../../../countries/US/sights/jewel-cave-national-monument.yaml) | 8.5 / 8.9 / 8.8 / 8.4 / 8.3 | experience: +0.7 vs peer; impact: +0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-wildlife-art-museum — National Museum of Wildlife Art Jackson Wyoming — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/wildlife-art-museum.yaml)
+- Action: new
+- Scope: Dedicated art museum and sculpture trail; over 5,000 cataloged items; excludes wildlife refuges.
+- Representative coordinates: 43.523, -110.747; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 9.0 / 8.9 / 8.8 / 9.0.
+- Categories: culture:9.3 photography:9.1 nature:8.8.
+- Overall: 88.90/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.wildlifeart.org/about/overview; https://www.wildlifeart.org/whatson/exhibits.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/crystal-bridges](../../../countries/US/sights/crystal-bridges.yaml) | 8.8 / 8.9 / 8.8 / 9.0 / 8.9 | experience: -0.2 vs peer; uniqueness: +0.1 vs peer |
+| [US/heard-museum](../../../countries/US/sights/heard-museum.yaml) | 8.9 / 9.2 / 9.3 / 9.0 / 9.1 | significance: -0.4 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-meow-wolf-houston — Meow Wolf Radio Tave Houston — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/meow-wolf-houston.yaml)
+- Action: new
+- Scope: Distinct permanent installation with fictional radio station and local art.
+- Representative coordinates: 29.772, -95.352; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.5 / 9.2 / 8.9.
+- Categories: culture:9.2 family:9.1 photography:9.2.
+- Overall: 88.65/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://meowwolf.com/visit/houston; https://meowwolf.com/about/projects.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/meow-wolf-santa-fe](../../../countries/US/sights/meow-wolf-santa-fe.yaml) | 9.2 / 9.4 / 8.8 / 9.4 / 9.1 | uniqueness: -0.5 vs peer; impact: -0.3 vs peer |
+| [US/the-broad](../../../countries/US/sights/the-broad.yaml) | 8.9 / 9.1 / 8.9 / 9.1 / 8.8 | significance: -0.4 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-meow-wolf-grapevine — Meow Wolf The Real Unreal Grapevine Texas — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/meow-wolf-grapevine.yaml)
+- Action: new
+- Scope: Distinct permanent installation, excludes mall attractions.
+- Representative coordinates: 32.967, -97.043; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.5 / 9.2 / 8.8.
+- Categories: culture:9.2 family:9.2 photography:9.1.
+- Overall: 88.30/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://meowwolf.com/visit/grapevine.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/meow-wolf-santa-fe](../../../countries/US/sights/meow-wolf-santa-fe.yaml) | 9.2 / 9.4 / 8.8 / 9.4 / 9.1 | uniqueness: -0.6 vs peer; impact: -0.3 vs peer |
+| [US/strong-museum-play](../../../countries/US/sights/strong-museum-play.yaml) | 9.2 / 9.4 / 9.2 / 9.4 / 9.2 | significance: -0.7 vs peer; uniqueness: -0.6 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-maritime-museum-san-diego — Maritime Museum of San Diego Historic Ships — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/maritime-museum-san-diego.yaml)
+- Action: new
+- Scope: Historic vessels including Star of India; separate from USS Midway.
+- Representative coordinates: 32.721, -117.174; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.9 / 9.0 / 8.9.
+- Categories: history:9.3 culture:9.1 family:9.1.
+- Overall: 88.85/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/mystic-seaport](../../../countries/US/sights/mystic-seaport.yaml) | 9.0 / 9.2 / 9.1 / 9.2 / 9.3 | depth: -0.4 vs peer; uniqueness: -0.3 vs peer |
+| [US/uss-midway-museum](../../../countries/US/sights/uss-midway-museum.yaml) | 8.9 / 9.1 / 9.0 / 9.2 / 9.1 | uniqueness: -0.2 vs peer; experience: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-patriots-point — Patriots Point Naval and Maritime Museum Charleston Harbor — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/patriots-point.yaml)
+- Action: new
+- Scope: USS Yorktown and associated exhibitions grouped; excludes Fort Sumter.
+- Representative coordinates: 32.791, -79.908; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.8 / 9.0 / 9.0 / 8.9.
+- Categories: history:9.3 family:9.1 photography:9.
+- Overall: 88.80/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/uss-midway-museum](../../../countries/US/sights/uss-midway-museum.yaml) | 8.9 / 9.1 / 9.0 / 9.2 / 9.1 | uniqueness: -0.3 vs peer; experience: -0.2 vs peer |
+| [US/uss-alabama](../../../countries/US/sights/uss-alabama.yaml) | 8.8 / 8.8 / 9.0 / 9.0 / 9.0 | depth: -0.1 vs peer; impact: +0.0 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-great-lakes-shipwreck — Great Lakes Shipwreck Museum Whitefish Point Michigan — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/great-lakes-shipwreck.yaml)
+- Action: new
+- Scope: Maritime museum and lighthouse grounds grouped.
+- Representative coordinates: 46.771, -84.957; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 8.9 / 8.8 / 8.7.
+- Categories: history:9.3 culture:9 photography:9.
+- Overall: 88.05/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-great-lakes](../../../countries/US/sights/national-great-lakes.yaml) | 8.6 / 8.8 / 8.8 / 8.9 / 8.8 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer |
+| [US/mystic-seaport](../../../countries/US/sights/mystic-seaport.yaml) | 9.0 / 9.2 / 9.1 / 9.2 / 9.3 | depth: -0.6 vs peer; experience: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-tech-interactive — The Tech Interactive San Jose — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/tech-interactive.yaml)
+- Action: new
+- Scope: Hands-on science and engineering museum distinct from Computer History Museum.
+- Representative coordinates: 37.331, -121.89; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.6 / 9.1 / 8.9.
+- Categories: family:9.3 culture:9 adventure:8.8.
+- Overall: 87.85/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/exploratorium](../../../countries/US/sights/exploratorium.yaml) | 9.0 / 9.3 / 8.9 / 9.4 / 9.3 | uniqueness: -0.5 vs peer; depth: -0.4 vs peer |
+| [US/computer-history-museum](../../../countries/US/sights/computer-history-museum.yaml) | 9.1 / 9.4 / 9.3 / 9.1 / 9.3 | significance: -0.7 vs peer; uniqueness: -0.6 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-oregon-museum-science — Oregon Museum of Science and Industry Portland — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/oregon-museum-science.yaml)
+- Action: new
+- Scope: Science galleries, planetarium and submarine visit grouped.
+- Representative coordinates: 45.508, -122.665; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.7 / 9.1 / 9.0.
+- Categories: family:9.3 history:9 culture:8.9.
+- Overall: 88.20/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/boston-science-museum](../../../countries/US/sights/boston-science-museum.yaml) | 8.9 / 8.9 / 8.8 / 9.2 / 9.1 | uniqueness: -0.2 vs peer; impact: -0.1 vs peer |
+| [US/griffin-msi](../../../countries/US/sights/griffin-msi.yaml) | 9.3 / 9.4 / 9.3 / 9.4 / 9.4 | uniqueness: -0.7 vs peer; significance: -0.6 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-cannon-beach — Cannon Beach Haystack Rock and Ecola State Park Oregon — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/cannon-beach.yaml)
+- Action: new
+- Scope: Adjacent coastal viewpoints and beach grouped; responsible tidepool access.
+- Representative coordinates: 45.884, -123.968; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.4 / 9.0 / 8.7.
+- Categories: nature:9.3 photography:9.4 beaches:9.2.
+- Overall: 87.70/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/big-sur-coast](../../../countries/US/sights/big-sur-coast.yaml) | 9.1 / 8.7 / 8.3 / 9.0 / 8.9 | impact: -0.2 vs peer; depth: -0.2 vs peer |
+| [US/point-reyes](../../../countries/US/sights/point-reyes.yaml) | 9.0 / 8.8 / 8.9 / 9.0 / 9.0 | significance: -0.5 vs peer; depth: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-samuel-boardman — Samuel H Boardman State Scenic Corridor Oregon — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/samuel-boardman.yaml)
+- Action: new
+- Scope: Southern Oregon coastal headlands, arches and legal trails.
+- Representative coordinates: 42.152, -124.36; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 9.0 / 8.9 / 8.4 / 8.9 / 8.7.
+- Categories: nature:9.3 photography:9.4 adventure:9.
+- Overall: 88.10/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/big-sur-coast](../../../countries/US/sights/big-sur-coast.yaml) | 9.1 / 8.7 / 8.3 / 9.0 / 8.9 | uniqueness: +0.2 vs peer; depth: -0.2 vs peer |
+| [US/lost-coast](../../../countries/US/sights/lost-coast.yaml) | 9.0 / 9.0 / 8.6 / 8.8 / 8.9 | significance: -0.2 vs peer; depth: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-mono-lake — Mono Lake Tufa State Natural Reserve California — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/mono-lake.yaml)
+- Action: new
+- Scope: Saline lake tufa formations outside Yosemite.
+- Representative coordinates: 37.942, -119.027; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 9.0 / 9.2 / 8.5 / 8.8 / 8.7.
+- Categories: nature:9.3 photography:9.4 wildlife:9.
+- Overall: 88.90/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/antelope-island](../../../countries/US/sights/antelope-island.yaml) | 8.8 / 8.9 / 8.6 / 8.8 / 8.7 | uniqueness: +0.3 vs peer; impact: +0.2 vs peer |
+| [US/bonneville-salt-flats](../../../countries/US/sights/bonneville-salt-flats.yaml) | 9.1 / 9.3 / 8.4 / 8.6 / 8.2 | depth: +0.5 vs peer; experience: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-beartooth-highway — Beartooth Highway Alpine Scenic Drive Montana Wyoming — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/beartooth-highway.yaml)
+- Action: new
+- Scope: Alpine road outside Yellowstone; seasonal access not assumed.
+- Representative coordinates: 44.969, -109.467; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 9.1 / 8.8 / 8.5 / 9.1 / 8.8.
+- Categories: nature:9.3 photography:9.4 adventure:9.
+- Overall: 88.75/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/san-juan-skyway](../../../countries/US/sights/san-juan-skyway.yaml) | 8.9 / 8.9 / 8.6 / 9.0 / 8.9 | impact: +0.2 vs peer; uniqueness: -0.1 vs peer |
+| [US/blue-ridge-parkway](../../../countries/US/sights/blue-ridge-parkway.yaml) | 9.1 / 9.1 / 9.1 / 9.2 / 9.3 | significance: -0.6 vs peer; depth: -0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-dead-horse-point — Dead Horse Point State Park Utah — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/dead-horse-point.yaml)
+- Action: new
+- Scope: Distinct state park overlooks outside Canyonlands.
+- Representative coordinates: 38.47, -109.74; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 9.0 / 8.8 / 8.4 / 8.9 / 8.6.
+- Categories: nature:9.3 photography:9.4 adventure:8.9.
+- Overall: 87.75/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/canyonlands-national-park](../../../countries/US/sights/canyonlands-national-park.yaml) | 9.2 / 9.0 / 8.5 / 8.8 / 9.1 | depth: -0.5 vs peer; impact: -0.2 vs peer |
+| [US/horseshoe-bend](../../../countries/US/sights/horseshoe-bend.yaml) | 9.1 / 8.7 / 7.8 / 8.6 / 7.6 | depth: +1.0 vs peer; significance: +0.6 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+## sight-us-frick-collection — The Frick Collection New York — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/frick-collection.yaml)
+- Action: new
+- Scope: Old Master paintings and decorative arts in the historic Fifth Avenue mansion, reopened April 2025; temporary Frick Madison venue excluded.
+- Representative coordinates: 40.771, -73.967; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.2 / 9.4 / 9.2 / 9.3.
+- Categories: culture:9.4 history:9.3 architecture:9.4.
+- Overall: 92.80/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.frick.org/about; https://www.frick.org/press/frick-reopens-to-public.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/gardner-museum](../../../countries/US/sights/gardner-museum.yaml) | 8.8 / 9.2 / 8.9 / 9.0 / 9.0 | impact: +0.5 vs peer; significance: +0.5 vs peer |
+| [US/barnes-foundation](../../../countries/US/sights/barnes-foundation.yaml) | 9.1 / 9.4 / 9.3 / 9.2 / 9.2 | impact: +0.2 vs peer; uniqueness: -0.2 vs peer |
+| [US/getty-villa](../../../countries/US/sights/getty-villa.yaml) | 8.9 / 9.0 / 9.1 / 9.0 / 8.7 | depth: +0.6 vs peer; impact: +0.4 vs peer |
+| [US/metropolitan-museum-of-art](../../../countries/US/sights/metropolitan-museum-of-art.yaml) | 9.3 / 9.4 / 9.4 / 9.3 / 9.6 | depth: -0.3 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-morgan-library — Morgan Library and Museum New York — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/morgan-library.yaml)
+- Action: new
+- Scope: Historic library, literary manuscripts and rare printed books; institution owns three Gutenberg Bibles, with one regularly on view.
+- Representative coordinates: 40.749, -73.981; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.4 / 9.4 / 9.1 / 9.3.
+- Categories: culture:9.4 history:9.4 architecture:9.3.
+- Overall: 92.85/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.themorgan.org/collection-highlights; https://www.themorgan.org/exhibitions/Pierpont-Morgans-1906-Library/eastroom.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/library-of-congress](../../../countries/US/sights/library-of-congress.yaml) | 9.0 / 9.2 / 9.3 / 8.9 / 9.0 | depth: +0.3 vs peer; impact: +0.2 vs peer |
+| [US/national-archives](../../../countries/US/sights/national-archives.yaml) | 9.0 / 9.4 / 9.4 / 8.7 / 8.9 | experience: +0.4 vs peer; depth: +0.4 vs peer |
+| [US/frick-collection](../../../countries/US/sights/frick-collection.yaml) | 9.3 / 9.2 / 9.4 / 9.2 / 9.3 | uniqueness: +0.2 vs peer; impact: -0.1 vs peer |
+| [US/met-cloisters](../../../countries/US/sights/met-cloisters.yaml) | 9.0 / 9.3 / 9.2 / 9.1 / 9.2 | impact: +0.2 vs peer; significance: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-brooklyn-museum — Brooklyn Museum New York — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/brooklyn-museum.yaml)
+- Action: new
+- Scope: Major art collections including Egyptian, Classical, American and European art; distinct from Metropolitan Museum.
+- Representative coordinates: 40.671, -73.963; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.1 / 9.3 / 9.1 / 9.3.
+- Categories: culture:9.4 history:9.3 architecture:9.
+- Overall: 91.60/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://opencollection.brooklynmuseum.org/research/provenance; https://opencollection.brooklynmuseum.org/objects/3076.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/metropolitan-museum-of-art](../../../countries/US/sights/metropolitan-museum-of-art.yaml) | 9.3 / 9.4 / 9.4 / 9.3 / 9.6 | uniqueness: -0.3 vs peer; depth: -0.3 vs peer |
+| [US/philadelphia-art-museum](../../../countries/US/sights/philadelphia-art-museum.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.4 | uniqueness: -0.2 vs peer; impact: -0.1 vs peer |
+| [US/lacma](../../../countries/US/sights/lacma.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.4 | uniqueness: -0.2 vs peer; impact: -0.1 vs peer |
+| [US/mfa-boston](../../../countries/US/sights/mfa-boston.yaml) | 9.3 / 9.3 / 9.4 / 9.3 / 9.4 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-cedar-point — Cedar Point Amusement Park Sandusky Ohio — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/cedar-point.yaml)
+- Action: new
+- Scope: Long-established Lake Erie amusement park with 18 roller coasters per operator; excludes separately ticketed waterpark and assumes no specific ride availability.
+- Representative coordinates: 41.481, -82.683; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.3 / 8.8 / 9.4 / 9.2.
+- Categories: adventure:9.4 family:9.3 photography:9.1.
+- Overall: 91.75/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.sixflags.com/cedarpoint?m=updated; https://www.sixflags.com/cedarpoint/attractions?ride-category=coaster.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/islands-of-adventure](../../../countries/US/sights/islands-of-adventure.yaml) | 9.1 / 9.0 / 8.7 / 9.4 / 9.1 | uniqueness: +0.3 vs peer; impact: +0.1 vs peer |
+| [US/epic-universe](../../../countries/US/sights/epic-universe.yaml) | 9.2 / 9.2 / 8.7 / 9.4 / 9.2 | uniqueness: +0.1 vs peer; significance: +0.1 vs peer |
+| [US/magic-kingdom-park](../../../countries/US/sights/magic-kingdom-park.yaml) | 8.9 / 8.7 / 8.5 / 9.3 / 9.2 | uniqueness: +0.6 vs peer; impact: +0.3 vs peer |
+| [US/universal-hollywood](../../../countries/US/sights/universal-hollywood.yaml) | 9.0 / 9.2 / 8.9 / 9.2 / 9.0 | impact: +0.2 vs peer; experience: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-dollywood — Dollywood Theme Park Pigeon Forge Tennessee — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/dollywood.yaml)
+- Action: new
+- Scope: 160-acre theme park combining more than 50 rides, live music and traditional crafts; excludes waterpark and Great Smoky Mountains National Park.
+- Representative coordinates: 35.795, -83.53; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.2 / 8.8 / 9.4 / 9.2.
+- Categories: family:9.4 adventure:9.3 culture:9.1.
+- Overall: 91.20/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.dollywood.com/themepark/?cb=1748895578-1398; https://www.dollywood.com/themepark/crafts.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/cedar-point](../../../countries/US/sights/cedar-point.yaml) | 9.2 / 9.3 / 8.8 / 9.4 / 9.2 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [US/disneyland-park-anaheim](../../../countries/US/sights/disneyland-park-anaheim.yaml) | 9.0 / 9.1 / 8.8 / 9.3 / 9.2 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer |
+| [US/islands-of-adventure](../../../countries/US/sights/islands-of-adventure.yaml) | 9.1 / 9.0 / 8.7 / 9.4 / 9.1 | uniqueness: +0.2 vs peer; significance: +0.1 vs peer |
+| [US/country-music-hall](../../../countries/US/sights/country-music-hall.yaml) | 9.0 / 9.3 / 9.3 / 9.1 / 9.2 | significance: -0.5 vs peer; experience: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-dallas-museum-art — Dallas Museum of Art — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/dallas-museum-art.yaml)
+- Action: new
+- Scope: International collection of over 24,000 works spanning five millennia; distinct from other Dallas Arts District museums.
+- Representative coordinates: 32.788, -96.801; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.0 / 9.2 / 9.0 / 9.3.
+- Categories: culture:9.4 history:9.3 architecture:8.8.
+- Overall: 90.70/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://dma.org/art/collection/about; https://dma.org/art/collection/search.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/kimbell-art-museum](../../../countries/US/sights/kimbell-art-museum.yaml) | 8.9 / 9.2 / 9.0 / 9.0 / 8.9 | depth: +0.4 vs peer; uniqueness: -0.2 vs peer |
+| [US/mfah](../../../countries/US/sights/mfah.yaml) | 9.1 / 9.2 / 9.3 / 9.2 / 9.4 | uniqueness: -0.2 vs peer; experience: -0.2 vs peer |
+| [US/nelson-atkins](../../../countries/US/sights/nelson-atkins.yaml) | 9.0 / 9.1 / 9.2 / 9.2 / 9.3 | experience: -0.2 vs peer; uniqueness: -0.1 vs peer |
+| [US/denver-art-museum](../../../countries/US/sights/denver-art-museum.yaml) | 8.8 / 8.8 / 8.9 / 8.8 / 9.1 | significance: +0.3 vs peer; impact: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-national-mexican-art — National Museum of Mexican Art Chicago — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/national-mexican-art.yaml)
+- Action: new
+- Scope: Permanent collection of over 22,000 works from precolonial Mexico to contemporary art; distinct Pilsen museum.
+- Representative coordinates: 41.857, -87.673; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.3 / 9.2 / 9.0 / 9.1.
+- Categories: culture:9.4 history:9.3 photography:8.8.
+- Overall: 90.95/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://nationalmuseumofmexicanart.org/artworks; https://nationalmuseumofmexicanart.org/visit.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/heard-museum](../../../countries/US/sights/heard-museum.yaml) | 8.9 / 9.2 / 9.3 / 9.0 / 9.1 | uniqueness: +0.1 vs peer; significance: -0.1 vs peer |
+| [US/national-american-indian-museum](../../../countries/US/sights/national-american-indian-museum.yaml) | 9.0 / 9.1 / 9.4 / 9.1 / 9.2 | uniqueness: +0.2 vs peer; significance: -0.2 vs peer |
+| [US/bishop-museum](../../../countries/US/sights/bishop-museum.yaml) | 9.2 / 9.4 / 9.4 / 9.1 / 9.4 | impact: -0.3 vs peer; depth: -0.3 vs peer |
+| [US/national-museum-of-african-american-history-and-culture](../../../countries/US/sights/national-museum-of-african-american-history-and-culture.yaml) | 9.0 / 9.2 / 9.4 / 9.1 / 9.2 | significance: -0.2 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-national-women-arts — National Museum of Women in the Arts Washington DC — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/national-women-arts.yaml)
+- Action: new
+- Scope: Dedicated international collection and exhibitions of women artists across periods, historic museum building.
+- Representative coordinates: 38.9, -77.029; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.2 / 9.2 / 9.0 / 9.1.
+- Categories: culture:9.4 history:9.2 architecture:9.
+- Overall: 90.70/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://nmwa.org/fact-sheet/; https://nmwa.org/guide/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-gallery-of-art-washington](../../../countries/US/sights/national-gallery-of-art-washington.yaml) | 9.1 / 9.1 / 9.3 / 9.2 / 9.4 | depth: -0.3 vs peer; impact: -0.2 vs peer |
+| [US/whitney-museum](../../../countries/US/sights/whitney-museum.yaml) | 9.0 / 9.1 / 9.1 / 9.0 / 9.3 | depth: -0.2 vs peer; impact: -0.1 vs peer |
+| [US/national-portrait-gallery](../../../countries/US/sights/national-portrait-gallery.yaml) | 8.9 / 9.0 / 9.1 / 9.0 / 9.2 | uniqueness: +0.2 vs peer; significance: +0.1 vs peer |
+| [US/renwick-gallery](../../../countries/US/sights/renwick-gallery.yaml) | 8.6 / 8.8 / 8.8 / 8.8 / 8.6 | depth: +0.5 vs peer; uniqueness: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-perot-museum — Perot Museum of Nature and Science Dallas — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/perot-museum.yaml)
+- Action: new
+- Scope: Eleven permanent exhibit halls spanning dinosaurs, minerals, space and science; no assumption that planned expansion is completed.
+- Representative coordinates: 32.786, -96.807; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.9 / 9.2 / 9.2.
+- Categories: family:9.3 nature:9.2 history:9.
+- Overall: 89.75/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.perotmuseum.org/exhibits/; https://ticketing.perotmuseum.org/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/houston-natural-science](../../../countries/US/sights/houston-natural-science.yaml) | 9.0 / 9.0 / 9.0 / 9.2 / 9.2 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [US/boston-science-museum](../../../countries/US/sights/boston-science-museum.yaml) | 8.9 / 8.9 / 8.8 / 9.2 / 9.1 | significance: +0.1 vs peer; depth: +0.1 vs peer |
+| [US/griffin-msi](../../../countries/US/sights/griffin-msi.yaml) | 9.3 / 9.4 / 9.3 / 9.4 / 9.4 | uniqueness: -0.5 vs peer; impact: -0.4 vs peer |
+| [US/exploratorium](../../../countries/US/sights/exploratorium.yaml) | 9.0 / 9.3 / 8.9 / 9.4 / 9.3 | uniqueness: -0.4 vs peer; experience: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-scotts-bluff — Scotts Bluff National Monument Nebraska — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/scotts-bluff.yaml)
+- Action: new
+- Scope: Historic emigrant trail landmark with bluffs, public viewpoints and interpretation.
+- Representative coordinates: 41.835, -103.707; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.5 / 8.7 / 8.9 / 8.7 / 8.7.
+- Categories: history:9.1 nature:9.1 photography:9.2.
+- Overall: 86.80/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/aboutus/national-park-system.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/tallgrass-prairie](../../../countries/US/sights/tallgrass-prairie.yaml) | 8.4 / 8.9 / 9.0 / 8.5 / 8.8 | uniqueness: -0.2 vs peer; experience: +0.2 vs peer |
+| [US/city-of-rocks](../../../countries/US/sights/city-of-rocks.yaml) | 8.7 / 8.8 / 8.7 / 8.9 / 8.8 | impact: -0.2 vs peer; significance: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-effigy-mounds — Effigy Mounds National Monument Iowa — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/effigy-mounds.yaml)
+- Action: new
+- Scope: Indigenous earthworks and wooded trails; respect sacred landscapes and stay on designated paths.
+- Representative coordinates: 43.089, -91.185; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.3 / 8.8 / 9.1 / 8.5 / 8.5.
+- Categories: history:9.2 culture:9.1 nature:8.8.
+- Overall: 86.35/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/orgs/1671/national-parks-in-the-midwest.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/hopewell-ceremonial-earthworks](../../../countries/US/sights/hopewell-ceremonial-earthworks.yaml) | 7.9 / 8.9 / 9.3 / 8.0 / 8.3 | experience: +0.5 vs peer; impact: +0.4 vs peer |
+| [US/serpent-mound](../../../countries/US/sights/serpent-mound.yaml) | 7.8 / 8.9 / 9.1 / 7.8 / 7.1 | depth: +1.4 vs peer; experience: +0.7 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-pipestone — Pipestone National Monument Minnesota — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/pipestone.yaml)
+- Action: new
+- Scope: Sacred pipestone quarry landscape and public interpretation; quarrying rights and visitor access distinct.
+- Representative coordinates: 44.013, -96.325; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.2 / 8.9 / 9.0 / 8.5 / 8.5.
+- Categories: history:9.2 culture:9.2 nature:8.8.
+- Overall: 86.10/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/orgs/1671/national-parks-in-the-midwest.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/taos-pueblo](../../../countries/US/sights/taos-pueblo.yaml) | 8.5 / 9.2 / 9.3 / 8.2 / 7.8 | depth: +0.7 vs peer; impact: -0.3 vs peer |
+| [US/bandelier](../../../countries/US/sights/bandelier.yaml) | 9.0 / 9.1 / 9.3 / 9.0 / 9.1 | impact: -0.8 vs peer; depth: -0.6 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-fort-union-trading-post — Fort Union Trading Post National Historic Site North Dakota — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/fort-union-trading-post.yaml)
+- Action: new
+- Scope: Reconstructed trading post and fur trade interpretation; distinct from Fort Union in New Mexico.
+- Representative coordinates: 48.001, -104.039; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.2 / 8.6 / 8.9 / 8.5 / 8.6.
+- Categories: history:9.2 culture:9 architecture:8.9.
+- Overall: 85.25/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/orgs/1671/national-parks-in-the-midwest.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/fort-ticonderoga](../../../countries/US/sights/fort-ticonderoga.yaml) | 8.7 / 8.6 / 9.0 / 8.8 / 8.8 | impact: -0.5 vs peer; experience: -0.3 vs peer |
+| [US/jamestown](../../../countries/US/sights/jamestown.yaml) | 8.6 / 8.9 / 9.3 / 8.7 / 8.8 | impact: -0.4 vs peer; significance: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-fort-union-new-mexico — Fort Union National Monument New Mexico — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/fort-union-new-mexico.yaml)
+- Action: new
+- Scope: Adobe military fort ruins and Santa Fe Trail heritage; not North Dakota trading post.
+- Representative coordinates: 35.907, -105.014; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.3 / 8.6 / 8.9 / 8.4 / 8.5.
+- Categories: history:9.2 photography:9 architecture:8.9.
+- Overall: 85.30/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/state/nm/list.htm?program=parks.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/fort-ticonderoga](../../../countries/US/sights/fort-ticonderoga.yaml) | 8.7 / 8.6 / 9.0 / 8.8 / 8.8 | impact: -0.4 vs peer; experience: -0.4 vs peer |
+| [US/el-morro](../../../countries/US/sights/el-morro.yaml) | 8.6 / 9.0 / 9.0 / 8.7 / 8.6 | uniqueness: -0.4 vs peer; impact: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-new-england-aquarium — New England Aquarium Boston — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/new-england-aquarium.yaml)
+- Action: new
+- Scope: Aquarium exhibits and central ocean tank; no offshore whale watch bundled.
+- Representative coordinates: 42.359, -71.05; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.6 / 8.7 / 9.0 / 8.8.
+- Categories: wildlife:9.2 family:9.3 nature:8.9.
+- Overall: 87.60/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-aquarium](../../../countries/US/sights/national-aquarium.yaml) | 9.0 / 8.9 / 9.0 / 9.3 / 9.1 | uniqueness: -0.3 vs peer; significance: -0.3 vs peer |
+| [US/shedd-aquarium](../../../countries/US/sights/shedd-aquarium.yaml) | 8.9 / 8.7 / 8.9 / 9.1 / 9.0 | significance: -0.2 vs peer; depth: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-hersheypark — Hersheypark Pennsylvania — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/hersheypark.yaml)
+- Action: new
+- Scope: Theme park and admission-inclusive experiences; excludes independent Chocolate World tour.
+- Representative coordinates: 40.288, -76.654; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.5 / 9.2 / 8.9.
+- Categories: family:9.3 adventure:9.3 culture:8.7.
+- Overall: 87.85/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/cedar-point](../../../countries/US/sights/cedar-point.yaml) | 9.2 / 9.3 / 8.8 / 9.4 / 9.2 | uniqueness: -0.6 vs peer; impact: -0.4 vs peer |
+| [US/dollywood](../../../countries/US/sights/dollywood.yaml) | 9.1 / 9.2 / 8.8 / 9.4 / 9.2 | uniqueness: -0.5 vs peer; impact: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-busch-gardens-williamsburg — Busch Gardens Williamsburg Theme Park Virginia — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/busch-gardens-williamsburg.yaml)
+- Action: new
+- Scope: European-themed amusement park with rides and landscaping; distinct from Colonial Williamsburg and separate waterpark.
+- Representative coordinates: 37.234, -76.645; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.4 / 9.2 / 8.9.
+- Categories: family:9.3 adventure:9.3 photography:9.
+- Overall: 88.20/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/dollywood](../../../countries/US/sights/dollywood.yaml) | 9.1 / 9.2 / 8.8 / 9.4 / 9.2 | uniqueness: -0.4 vs peer; significance: -0.4 vs peer |
+| [US/cedar-point](../../../countries/US/sights/cedar-point.yaml) | 9.2 / 9.3 / 8.8 / 9.4 / 9.2 | uniqueness: -0.5 vs peer; significance: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-valley-of-the-gods — Valley of the Gods Scenic Drive Utah — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/valley-of-the-gods.yaml)
+- Action: new
+- Scope: Sandstone buttes and scenic road distinct from Monument Valley Tribal Park; access conditions not presumed.
+- Representative coordinates: 37.265, -109.835; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.3 / 8.7 / 8.5.
+- Categories: nature:9.2 photography:9.4 adventure:8.9.
+- Overall: 86.80/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/monument-valley-navajo-tribal-park](../../../countries/US/sights/monument-valley-navajo-tribal-park.yaml) | 9.4 / 9.3 / 8.8 / 9.0 / 8.6 | impact: -0.6 vs peer; significance: -0.5 vs peer |
+| [US/goblin-valley](../../../countries/US/sights/goblin-valley.yaml) | 8.9 / 9.1 / 8.4 / 8.9 / 8.6 | uniqueness: -0.2 vs peer; experience: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+## sight-us-academy-museum — Academy Museum of Motion Pictures Los Angeles — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/academy-museum.yaml)
+- Action: new
+- Scope: Cinema history, production and Oscars heritage; core Stories of Cinema and permanent Hollywoodland exhibition; excludes adjacent LACMA and studio tours.
+- Representative coordinates: 34.063, -118.36; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.3 / 9.3 / 9.2 / 9.3.
+- Categories: culture:9.4 history:9.3 family:9.1.
+- Overall: 92.55/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.academymuseum.org/exhibitions/stories-of-cinema; https://www.academymuseum.org/exhibitions/hollywoodland?os=os.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/george-eastman-museum](../../../countries/US/sights/george-eastman-museum.yaml) | 9.0 / 9.3 / 9.3 / 9.0 / 9.2 | impact: +0.2 vs peer; experience: +0.2 vs peer |
+| [US/museum-pop-culture](../../../countries/US/sights/museum-pop-culture.yaml) | 8.7 / 8.9 / 8.6 / 8.9 / 8.8 | significance: +0.7 vs peer; impact: +0.5 vs peer |
+| [US/strong-museum-play](../../../countries/US/sights/strong-museum-play.yaml) | 9.2 / 9.4 / 9.2 / 9.4 / 9.2 | experience: -0.2 vs peer; uniqueness: -0.1 vs peer |
+| [US/universal-hollywood](../../../countries/US/sights/universal-hollywood.yaml) | 9.0 / 9.2 / 8.9 / 9.2 / 9.0 | significance: +0.4 vs peer; depth: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-petersen-automotive — Petersen Automotive Museum and Vault Los Angeles — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/petersen-automotive.yaml)
+- Action: new
+- Scope: Automotive design, engineering and film vehicles; separately ticketed Vault grouped in the museum scope, operator describes over 300 rare vehicles in Vault.
+- Representative coordinates: 34.062, -118.361; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.3 / 9.2 / 9.3 / 9.3.
+- Categories: culture:9.4 history:9.3 family:9.2.
+- Overall: 92.50/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://petersen.org/pages/exhibits; https://petersen.org/pages/petersen-exhibit/the-vault.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/henry-ford-museum](../../../countries/US/sights/henry-ford-museum.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.4 | significance: -0.1 vs peer; experience: +0.1 vs peer |
+| [US/national-corvette-museum](../../../countries/US/sights/national-corvette-museum.yaml) | 8.7 / 8.9 / 8.7 / 8.9 / 8.8 | impact: +0.5 vs peer; significance: +0.5 vs peer |
+| [US/computer-history-museum](../../../countries/US/sights/computer-history-museum.yaml) | 9.1 / 9.4 / 9.3 / 9.1 / 9.3 | experience: +0.2 vs peer; impact: +0.1 vs peer |
+| [US/museum-of-flight](../../../countries/US/sights/museum-of-flight.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.3 | significance: -0.1 vs peer; experience: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-international-folk-art — Museum of International Folk Art Santa Fe — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/international-folk-art.yaml)
+- Action: new
+- Scope: Museum reports more than 130,000 folk art objects from over 100 countries; public exhibitions, not entire storage holdings.
+- Representative coordinates: 35.665, -105.926; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.4 / 9.3 / 9.1 / 9.3.
+- Categories: culture:9.4 history:9.3 family:9.1.
+- Overall: 92.35/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.moifa.org/collection/about-the-collection/; https://www.nmculture.dca.nm.gov/museums/museum-of-international-folk-art/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/bishop-museum](../../../countries/US/sights/bishop-museum.yaml) | 9.2 / 9.4 / 9.4 / 9.1 / 9.4 | impact: -0.1 vs peer; significance: -0.1 vs peer |
+| [US/peabody-essex](../../../countries/US/sights/peabody-essex.yaml) | 9.1 / 9.4 / 9.3 / 9.0 / 9.2 | experience: +0.1 vs peer; depth: +0.1 vs peer |
+| [US/heard-museum](../../../countries/US/sights/heard-museum.yaml) | 8.9 / 9.2 / 9.3 / 9.0 / 9.1 | impact: +0.2 vs peer; uniqueness: +0.2 vs peer |
+| [US/national-mexican-art](../../../countries/US/sights/national-mexican-art.yaml) | 8.9 / 9.3 / 9.2 / 9.0 / 9.1 | impact: +0.2 vs peer; depth: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-franklin-institute — Franklin Institute Science Museum Philadelphia — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/franklin-institute.yaml)
+- Action: new
+- Scope: Three floors of hands-on science, historic scientific artifacts and astronomy exhibits; Benjamin Franklin National Memorial grouped.
+- Representative coordinates: 39.958, -75.173; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.1 / 9.1 / 9.4 / 9.3.
+- Categories: family:9.4 history:9.2 culture:9.
+- Overall: 91.65/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://fi.edu/en/exhibits-experiences; https://fi.edu/en; https://fi.edu/en/exhibits-and-experiences/benjamin-franklin-memorial.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/exploratorium](../../../countries/US/sights/exploratorium.yaml) | 9.0 / 9.3 / 8.9 / 9.4 / 9.3 | uniqueness: -0.2 vs peer; significance: +0.2 vs peer |
+| [US/boston-science-museum](../../../countries/US/sights/boston-science-museum.yaml) | 8.9 / 8.9 / 8.8 / 9.2 / 9.1 | significance: +0.3 vs peer; impact: +0.2 vs peer |
+| [US/griffin-msi](../../../countries/US/sights/griffin-msi.yaml) | 9.3 / 9.4 / 9.3 / 9.4 / 9.4 | uniqueness: -0.3 vs peer; impact: -0.2 vs peer |
+| [US/perot-museum](../../../countries/US/sights/perot-museum.yaml) | 8.9 / 8.9 / 8.9 / 9.2 / 9.2 | impact: +0.2 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-cooper-hewitt — Cooper Hewitt Smithsonian Design Museum New York — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/cooper-hewitt.yaml)
+- Action: new
+- Scope: Design collection spanning 30 centuries, historic Carnegie mansion and permanent collection galleries unveiled in 2026.
+- Representative coordinates: 40.784, -73.958; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.2 / 9.1 / 9.2.
+- Categories: culture:9.4 history:9.3 architecture:9.2.
+- Overall: 91.50/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.cooperhewitt.org/design-topics/museum-history/permanent-collection/; https://www.cooperhewitt.org/2026/06/15/cooper-hewitt-unveils-permanent-collection-galleries-showcasing-a-multi-year-presentation-of-the-national-design-collection/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/corning-glass](../../../countries/US/sights/corning-glass.yaml) | 9.1 / 9.4 / 9.2 / 9.2 / 9.3 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [US/frick-collection](../../../countries/US/sights/frick-collection.yaml) | 9.3 / 9.2 / 9.4 / 9.2 / 9.3 | impact: -0.3 vs peer; significance: -0.2 vs peer |
+| [US/winterthur](../../../countries/US/sights/winterthur.yaml) | 9.0 / 9.2 / 9.2 / 9.0 / 9.3 | uniqueness: +0.1 vs peer; experience: +0.1 vs peer |
+| [US/national-museum-american-history](../../../countries/US/sights/national-museum-american-history.yaml) | 9.1 / 9.2 / 9.4 / 9.1 / 9.4 | significance: -0.2 vs peer; depth: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-sphere-las-vegas — Sphere Las Vegas Immersive Screen and Performance Experience — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/sphere-las-vegas.yaml)
+- Action: new
+- Scope: Ticketed immersive interior screen and sound experience; excludes exterior sightseeing already within Strip scope; no particular residency or film assumed available.
+- Representative coordinates: 36.121, -115.162; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.4 / 9.4 / 8.6 / 9.4 / 8.6.
+- Categories: culture:9.3 nightlife:9.3 photography:9.2.
+- Overall: 91.60/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.thesphere.com/shows/the-sphere-experience; https://www.thesphere.com/shows/v-u2-immersive-concert-film?os=ioxa42gdub5u1enqic.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/meow-wolf-omega-mart](../../../countries/US/sights/meow-wolf-omega-mart.yaml) | 9.1 / 9.3 / 8.7 / 9.4 / 9.0 | depth: -0.4 vs peer; impact: +0.3 vs peer |
+| [US/broadway-theatre](../../../countries/US/sights/broadway-theatre.yaml) | 9.2 / 9.2 / 9.2 / 9.3 / 9.0 | significance: -0.6 vs peer; depth: -0.4 vs peer |
+| [US/meow-wolf-denver](../../../countries/US/sights/meow-wolf-denver.yaml) | 9.2 / 9.3 / 8.7 / 9.4 / 9.1 | depth: -0.5 vs peer; impact: +0.2 vs peer |
+| [US/epic-universe](../../../countries/US/sights/epic-universe.yaml) | 9.2 / 9.2 / 8.7 / 9.4 / 9.2 | depth: -0.6 vs peer; impact: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-eastern-state — Eastern State Penitentiary Historic Site Philadelphia — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/eastern-state.yaml)
+- Action: new
+- Scope: Pioneering penitentiary architecture, historic cellblocks and interpretation of justice and incarceration; separate from Old City.
+- Representative coordinates: 39.968, -75.173; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.2 / 9.0 / 9.0.
+- Categories: history:9.4 architecture:9.2 culture:9.1.
+- Overall: 91.15/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://easternstate.org/historic-site; https://easternstate.org/about/history-of-eastern-state-penitentiary.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/alcatraz-island](../../../countries/US/sights/alcatraz-island.yaml) | 8.6 / 9.0 / 9.0 / 9.1 / 8.4 | depth: +0.6 vs peer; impact: +0.4 vs peer |
+| [US/tenement-museum](../../../countries/US/sights/tenement-museum.yaml) | 9.0 / 9.3 / 9.2 / 9.1 / 9.0 | experience: -0.1 vs peer; impact: +0.0 vs peer |
+| [US/manzanar](../../../countries/US/sights/manzanar.yaml) | 8.7 / 8.9 / 9.3 / 8.8 / 8.8 | uniqueness: +0.4 vs peer; impact: +0.3 vs peer |
+| [US/national-civil-rights-museum](../../../countries/US/sights/national-civil-rights-museum.yaml) | 9.1 / 9.3 / 9.4 / 9.0 / 9.3 | depth: -0.3 vs peer; significance: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-sixth-floor-museum — Sixth Floor Museum at Dealey Plaza Dallas — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/sixth-floor-museum.yaml)
+- Action: new
+- Scope: Museum interpreting John F. Kennedy's presidency, death and historical legacy; Dealey Plaza heritage grouped, no sensationalized interpretation.
+- Representative coordinates: 32.779, -96.808; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.2 / 9.4 / 8.9 / 9.0.
+- Categories: history:9.4 culture:9.1 photography:8.8.
+- Overall: 90.85/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.jfk.org/plan-your-visit/; https://www.jfk.org/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-archives](../../../countries/US/sights/national-archives.yaml) | 9.0 / 9.4 / 9.4 / 8.7 / 8.9 | uniqueness: -0.2 vs peer; experience: +0.2 vs peer |
+| [US/national-museum-american-history](../../../countries/US/sights/national-museum-american-history.yaml) | 9.1 / 9.2 / 9.4 / 9.1 / 9.4 | depth: -0.4 vs peer; impact: -0.2 vs peer |
+| [US/national-civil-rights-museum](../../../countries/US/sights/national-civil-rights-museum.yaml) | 9.1 / 9.3 / 9.4 / 9.0 / 9.3 | depth: -0.3 vs peer; impact: -0.2 vs peer |
+| [US/tenement-museum](../../../countries/US/sights/tenement-museum.yaml) | 9.0 / 9.3 / 9.2 / 9.1 / 9.0 | significance: +0.2 vs peer; experience: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-amon-carter — Amon Carter Museum of American Art Fort Worth — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/amon-carter.yaml)
+- Action: new
+- Scope: American painting, sculpture and photography, including extensive Remington and Russell collections; separate from Kimbell.
+- Representative coordinates: 32.748, -97.369; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.0 / 9.1 / 8.9 / 9.2.
+- Categories: culture:9.3 history:9.2 photography:9.2.
+- Overall: 89.95/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.cartermuseum.org/art-artists/collection-groups; https://www.cartermuseum.org/carter-collection/collection-group/amon-g-carter-collection.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/kimbell-art-museum](../../../countries/US/sights/kimbell-art-museum.yaml) | 8.9 / 9.2 / 9.0 / 9.0 / 8.9 | depth: +0.3 vs peer; uniqueness: -0.2 vs peer |
+| [US/national-cowboy](../../../countries/US/sights/national-cowboy.yaml) | 8.8 / 8.9 / 8.9 / 8.9 / 9.0 | significance: +0.2 vs peer; depth: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-nasher-sculpture — Nasher Sculpture Center Dallas — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/nasher-sculpture.yaml)
+- Action: new
+- Scope: Collection of more than 300 modern and contemporary sculptures, public displays and garden; separate from Dallas Museum of Art.
+- Representative coordinates: 32.787, -96.801; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.1 / 8.9 / 9.0 / 8.9.
+- Categories: culture:9.4 architecture:9.1 photography:9.2.
+- Overall: 89.65/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nashersculpturecenter.org/visit/about-the-nasher; https://www.nashersculpturecenter.org/art/exhibitions/exhibition/id/2314.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/storm-king](../../../countries/US/sights/storm-king.yaml) | 9.1 / 9.2 / 8.9 / 9.2 / 9.0 | impact: -0.2 vs peer; experience: -0.2 vs peer |
+| [US/walker-art-center](../../../countries/US/sights/walker-art-center.yaml) | 8.8 / 8.9 / 8.8 / 9.0 / 8.9 | uniqueness: +0.2 vs peer; impact: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-modern-fort-worth — Modern Art Museum of Fort Worth — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/modern-fort-worth.yaml)
+- Action: new
+- Scope: Modern and contemporary collections of nearly 3,000 objects and distinctive Tadao Ando building; independent from Kimbell and Amon Carter.
+- Representative coordinates: 32.749, -97.364; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.9 / 9.0 / 9.0 / 9.0.
+- Categories: culture:9.3 architecture:9.4 photography:9.1.
+- Overall: 89.45/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.themodern.org/mission; https://www.themodern.org/about-modern.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/kimbell-art-museum](../../../countries/US/sights/kimbell-art-museum.yaml) | 8.9 / 9.2 / 9.0 / 9.0 / 8.9 | uniqueness: -0.3 vs peer; depth: +0.1 vs peer |
+| [US/the-broad](../../../countries/US/sights/the-broad.yaml) | 8.9 / 9.1 / 8.9 / 9.1 / 8.8 | uniqueness: -0.2 vs peer; depth: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-georgia-okeeffe — Georgia O'Keeffe Museum Santa Fe — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/georgia-okeeffe.yaml)
+- Action: new
+- Scope: Santa Fe galleries only; excludes separately located Abiquiu studio and future building assumptions.
+- Representative coordinates: 35.689, -105.94; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 9.1 / 9.1 / 8.8 / 8.8.
+- Categories: culture:9.4 history:9.1 photography:8.8.
+- Overall: 89.35/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.okeeffemuseum.org/hours-and-locations/; https://www.okeeffemuseum.org/news/homecoming-museums-entire-collection-returns-to-santa-fe-in-preparation-for-the-future/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/andy-warhol-museum](../../../countries/US/sights/andy-warhol-museum.yaml) | 9.0 / 9.4 / 9.3 / 9.0 / 9.1 | uniqueness: -0.3 vs peer; depth: -0.3 vs peer |
+| [US/heard-museum](../../../countries/US/sights/heard-museum.yaml) | 8.9 / 9.2 / 9.3 / 9.0 / 9.1 | depth: -0.3 vs peer; significance: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-san-antonio-riverwalk — San Antonio Downtown River Walk — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/san-antonio-riverwalk.yaml)
+- Action: new
+- Scope: Downtown pedestrian river corridor and boat ride; excludes mission trail and Alamo already represented by San Antonio Missions.
+- Representative coordinates: 29.424, -98.489; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.6 / 9.2 / 8.8.
+- Categories: culture:9.1 photography:9.2 relaxation:9.1.
+- Overall: 87.95/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/chicago-architecture-cruise](../../../countries/US/sights/chicago-architecture-cruise.yaml) | 9.1 / 9.2 / 9.1 / 9.2 / 8.9 | uniqueness: -0.5 vs peer; significance: -0.5 vs peer |
+| [US/savannah-historic-district](../../../countries/US/sights/savannah-historic-district.yaml) | 8.9 / 9.0 / 9.1 / 9.0 / 9.0 | significance: -0.5 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-new-orleans-garden-district — New Orleans Garden District Historic Architecture and Streetcar — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/new-orleans-garden-district.yaml)
+- Action: new
+- Scope: Historic neighborhood and public streetcar experience outside French Quarter; no private mansion interior assumed.
+- Representative coordinates: 29.929, -90.084; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.8 / 8.9 / 8.7.
+- Categories: architecture:9.2 history:9.1 photography:9.2.
+- Overall: 87.50/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/new-orleans-french-quarter](../../../countries/US/sights/new-orleans-french-quarter.yaml) | 9.0 / 9.1 / 9.2 / 9.1 / 9.0 | uniqueness: -0.4 vs peer; significance: -0.4 vs peer |
+| [US/charleston-historic-district](../../../countries/US/sights/charleston-historic-district.yaml) | 9.0 / 9.0 / 9.2 / 9.1 / 9.1 | significance: -0.4 vs peer; depth: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-miami-art-deco — Miami Beach Art Deco Historic District and Ocean Drive — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/miami-art-deco.yaml)
+- Action: new
+- Scope: Historic district architecture and streetscape; excludes separate beach-only attraction and nightlife events.
+- Representative coordinates: 25.78, -80.131; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.8 / 9.0 / 8.7.
+- Categories: architecture:9.3 photography:9.3 culture:9.1.
+- Overall: 88.75/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/savannah-historic-district](../../../countries/US/sights/savannah-historic-district.yaml) | 8.9 / 9.0 / 9.1 / 9.0 / 9.0 | significance: -0.3 vs peer; depth: -0.3 vs peer |
+| [US/charleston-historic-district](../../../countries/US/sights/charleston-historic-district.yaml) | 9.0 / 9.0 / 9.2 / 9.1 / 9.1 | significance: -0.4 vs peer; depth: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-santa-monica-pier — Santa Monica Pier and Oceanfront Promenade — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/santa-monica-pier.yaml)
+- Action: new
+- Scope: Historic pier and adjacent public promenade, excludes Venice Beach and unrelated amusement parks.
+- Representative coordinates: 34.009, -118.497; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.5 / 8.5 / 9.0 / 8.5.
+- Categories: family:9.1 photography:9.1 beaches:9.
+- Overall: 86.05/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/waikiki](../../../countries/US/sights/waikiki.yaml) | 8.8 / 8.5 / 8.5 / 9.0 / 8.5 | impact: -0.2 vs peer; uniqueness: +0.0 vs peer |
+| [US/pike-place-market](../../../countries/US/sights/pike-place-market.yaml) | 8.6 / 8.7 / 8.6 / 8.9 / 8.8 | depth: -0.3 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+## sight-us-lincoln-presidential-museum — Abraham Lincoln Presidential Library and Museum Springfield Illinois — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/lincoln-presidential-museum.yaml)
+- Action: new
+- Scope: Permanent historical exhibitions and immersive interpretation of Lincoln's life and presidency; library research holdings not equated with public displays.
+- Representative coordinates: 39.803, -89.648; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.2 / 9.4 / 9.2 / 9.2.
+- Categories: history:9.4 culture:9.3 family:9.1.
+- Overall: 92.10/100.
+- Decision: Source-informed provisional assessment from official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://presidentlincoln.illinois.gov/exhibits/; https://presidentlincoln.illinois.gov/exhibits/museum/; https://www.visitspringfieldillinois.com/LocationDetails/?id=Abraham-Lincoln-Presidential-Museum.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-museum-american-history](../../../countries/US/sights/national-museum-american-history.yaml) | 9.1 / 9.2 / 9.4 / 9.1 / 9.4 | depth: -0.2 vs peer; experience: +0.1 vs peer |
+| [US/national-archives](../../../countries/US/sights/national-archives.yaml) | 9.0 / 9.4 / 9.4 / 8.7 / 8.9 | experience: +0.5 vs peer; depth: +0.3 vs peer |
+| [US/national-civil-rights-museum](../../../countries/US/sights/national-civil-rights-museum.yaml) | 9.1 / 9.3 / 9.4 / 9.0 / 9.3 | experience: +0.2 vs peer; uniqueness: -0.1 vs peer |
+| [US/national-wwii-museum](../../../countries/US/sights/national-wwii-museum.yaml) | 9.1 / 9.2 / 9.3 / 9.2 / 9.4 | depth: -0.2 vs peer; significance: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-fdr-hyde-park — Franklin D Roosevelt Presidential Library Museum and Springwood Home Hyde Park — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/fdr-hyde-park.yaml)
+- Action: new
+- Scope: First presidential library, historic Springwood residence, grounds and public museum exhibitions grouped; excludes separately located Val-Kill and Vanderbilt Mansion.
+- Representative coordinates: 41.766, -73.936; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.4 / 9.0 / 9.2.
+- Categories: history:9.4 culture:9.2 architecture:9.
+- Overall: 91.50/100.
+- Decision: Source-informed provisional assessment from official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/places/franklin-d-roosevelt-presidential-library-and-museum.htm; https://www.fdrlibrary.org/roosevelt-homes; https://www.hydeparkny.gov/325/Franklin-D-Roosevelt-Home.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-archives](../../../countries/US/sights/national-archives.yaml) | 9.0 / 9.4 / 9.4 / 8.7 / 8.9 | experience: +0.3 vs peer; depth: +0.3 vs peer |
+| [US/national-museum-american-history](../../../countries/US/sights/national-museum-american-history.yaml) | 9.1 / 9.2 / 9.4 / 9.1 / 9.4 | depth: -0.2 vs peer; impact: -0.1 vs peer |
+| [US/lincoln-presidential-museum](../../../countries/US/sights/lincoln-presidential-museum.yaml) | 9.1 / 9.2 / 9.4 / 9.2 / 9.2 | experience: -0.2 vs peer; impact: -0.1 vs peer |
+| [US/monticello](../../../countries/US/sights/monticello.yaml) | 8.2 / 8.7 / 9.0 / 8.5 / 8.0 | depth: +1.2 vs peer; impact: +0.8 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-reagan-presidential-library — Ronald Reagan Presidential Library and Museum Simi Valley — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/reagan-presidential-library.yaml)
+- Action: new
+- Scope: Presidential history exhibits and Air Force One Pavilion grouped; historically used presidential aircraft accessible on museum terms.
+- Representative coordinates: 34.26, -118.82; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.1 / 9.1 / 9.1.
+- Categories: history:9.3 culture:9.1 family:9.1.
+- Overall: 90.95/100.
+- Decision: Source-informed provisional assessment from official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://reaganlibrary.archives.gov/permanent-exhibits/air-force-one-pavilion; https://www.reaganlibrary.gov/frequently-asked-questions.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-museum-american-history](../../../countries/US/sights/national-museum-american-history.yaml) | 9.1 / 9.2 / 9.4 / 9.1 / 9.4 | significance: -0.3 vs peer; depth: -0.3 vs peer |
+| [US/lincoln-presidential-museum](../../../countries/US/sights/lincoln-presidential-museum.yaml) | 9.1 / 9.2 / 9.4 / 9.2 / 9.2 | significance: -0.3 vs peer; impact: -0.1 vs peer |
+| [US/fdr-hyde-park](../../../countries/US/sights/fdr-hyde-park.yaml) | 9.0 / 9.2 / 9.4 / 9.0 / 9.2 | significance: -0.3 vs peer; experience: +0.1 vs peer |
+| [US/museum-of-flight](../../../countries/US/sights/museum-of-flight.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.3 | impact: -0.2 vs peer; significance: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-national-army-museum — National Museum of the United States Army Fort Belvoir Virginia — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/national-army-museum.yaml)
+- Action: new
+- Scope: Public military history museum, permanent galleries covering service across periods and society; no access assumed to restricted installations.
+- Representative coordinates: 38.724, -77.168; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.0 / 9.3 / 9.1 / 9.2.
+- Categories: history:9.4 culture:9.1 family:9.
+- Overall: 90.65/100.
+- Decision: Source-informed provisional assessment from official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.thenmusa.org/exhibits/; https://history.army.mil/Army-Museum-Enterprise/Find-an-Army-Museum/National-Museum-of-the-United-States-Army/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-wwii-museum](../../../countries/US/sights/national-wwii-museum.yaml) | 9.1 / 9.2 / 9.3 / 9.2 / 9.4 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+| [US/national-wwi-museum](../../../countries/US/sights/national-wwi-museum.yaml) | 9.1 / 9.1 / 9.4 / 9.0 / 9.2 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer |
+| [US/marine-corps-museum](../../../countries/US/sights/marine-corps-museum.yaml) | 8.9 / 8.9 / 9.1 / 9.0 / 9.1 | significance: +0.2 vs peer; uniqueness: +0.1 vs peer |
+| [US/national-museum-american-history](../../../countries/US/sights/national-museum-american-history.yaml) | 9.1 / 9.2 / 9.4 / 9.1 / 9.4 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-charles-wright-museum — Charles H Wright Museum of African American History Detroit — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/charles-wright-museum.yaml)
+- Action: new
+- Scope: Long-term And Still We Rise exhibition and complementary public galleries; independent of nearby Detroit Institute of Arts.
+- Representative coordinates: 42.359, -83.062; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.1 / 9.3 / 9.0 / 9.2.
+- Categories: history:9.4 culture:9.3 architecture:8.8.
+- Overall: 90.75/100.
+- Decision: Source-informed provisional assessment from official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.thewright.org/exhibitions/and-still-we-rise; https://www.thewright.org/visit.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-civil-rights-museum](../../../countries/US/sights/national-civil-rights-museum.yaml) | 9.1 / 9.3 / 9.4 / 9.0 / 9.3 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+| [US/national-museum-american-history](../../../countries/US/sights/national-museum-american-history.yaml) | 9.1 / 9.2 / 9.4 / 9.1 / 9.4 | impact: -0.2 vs peer; depth: -0.2 vs peer |
+| [US/national-underground-railroad](../../../countries/US/sights/national-underground-railroad.yaml) | 8.8 / 8.9 / 9.1 / 8.8 / 8.9 | depth: +0.3 vs peer; uniqueness: +0.2 vs peer |
+| [US/montgomery-legacy-sites](../../../countries/US/sights/montgomery-legacy-sites.yaml) | 9.3 / 9.3 / 9.4 / 9.0 / 9.1 | impact: -0.4 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-tennessee-aquarium — Tennessee Aquarium River Journey and Ocean Journey Chattanooga — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/tennessee-aquarium.yaml)
+- Action: new
+- Scope: Two aquarium buildings grouped, with substantial freshwater and marine collections; distinctive river ecology interpretation.
+- Representative coordinates: 35.055, -85.311; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.0 / 8.9 / 9.3 / 9.2.
+- Categories: wildlife:9.4 family:9.3 nature:9.2.
+- Overall: 90.45/100.
+- Decision: Source-informed provisional assessment from official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://tnaqua.org/explore/; https://tnaqua.org/visitor-information/; https://tnaqua.org/exhibit/tennessee-river/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-aquarium](../../../countries/US/sights/national-aquarium.yaml) | 9.0 / 8.9 / 9.0 / 9.3 / 9.1 | uniqueness: +0.1 vs peer; significance: -0.1 vs peer |
+| [US/shedd-aquarium](../../../countries/US/sights/shedd-aquarium.yaml) | 8.9 / 8.7 / 8.9 / 9.1 / 9.0 | uniqueness: +0.3 vs peer; experience: +0.2 vs peer |
+| [US/new-england-aquarium](../../../countries/US/sights/new-england-aquarium.yaml) | 8.8 / 8.6 / 8.7 / 9.0 / 8.8 | uniqueness: +0.4 vs peer; depth: +0.4 vs peer |
+| [US/arizona-sonora-desert](../../../countries/US/sights/arizona-sonora-desert.yaml) | 9.1 / 9.2 / 8.9 / 9.2 / 9.2 | uniqueness: -0.2 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-truman-presidential-library — Harry S Truman Presidential Library and Museum Independence Missouri — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/truman-presidential-library.yaml)
+- Action: new
+- Scope: Presidential museum with interactive interpretation and replica Oval Office; separate from Truman's residence.
+- Representative coordinates: 39.104, -94.421; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.7 / 8.9 / 9.2 / 8.9 / 9.1.
+- Categories: history:9.3 culture:9.1 family:8.8.
+- Overall: 89.20/100.
+- Decision: Source-informed provisional assessment from official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.trumanlibraryinstitute.org/library-museum/museum-exhibits/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/lincoln-presidential-museum](../../../countries/US/sights/lincoln-presidential-museum.yaml) | 9.1 / 9.2 / 9.4 / 9.2 / 9.2 | impact: -0.4 vs peer; uniqueness: -0.3 vs peer |
+| [US/fdr-hyde-park](../../../countries/US/sights/fdr-hyde-park.yaml) | 9.0 / 9.2 / 9.4 / 9.0 / 9.2 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-eisenhower-presidential-library — Dwight D Eisenhower Presidential Library Museum and Boyhood Home Abilene — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/eisenhower-presidential-library.yaml)
+- Action: new
+- Scope: Presidential museum and childhood residence on one campus; separate from other presidential sites.
+- Representative coordinates: 38.911, -97.212; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.7 / 8.9 / 9.2 / 8.8 / 9.0.
+- Categories: history:9.3 culture:9.1 architecture:8.8.
+- Overall: 88.95/100.
+- Decision: Source-informed provisional assessment from official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.archives.gov/presidential-libraries/visit/eisenhower.html; https://www.archives.gov/about/speeches/ferriero/eisenhower-leader-free-world.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/lincoln-presidential-museum](../../../countries/US/sights/lincoln-presidential-museum.yaml) | 9.1 / 9.2 / 9.4 / 9.2 / 9.2 | impact: -0.4 vs peer; experience: -0.4 vs peer |
+| [US/national-wwii-museum](../../../countries/US/sights/national-wwii-museum.yaml) | 9.1 / 9.2 / 9.3 / 9.2 / 9.4 | impact: -0.4 vs peer; experience: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-national-civil-war-museum — National Civil War Museum Harrisburg Pennsylvania — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/national-civil-war-museum.yaml)
+- Action: new
+- Scope: Public Civil War exhibitions, artifacts and interpretation; geographically separate from Gettysburg and Vicksburg.
+- Representative coordinates: 40.271, -76.855; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.6 / 8.7 / 9.1 / 8.8 / 8.9.
+- Categories: history:9.3 culture:9 family:8.8.
+- Overall: 87.85/100.
+- Decision: Source-informed provisional assessment from official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nationalcivilwarmuseum.org/events-exhibits/exhibits/; https://www.nationalcivilwarmuseum.org/visit/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/gettysburg](../../../countries/US/sights/gettysburg.yaml) | 9.1 / 9.1 / 9.4 / 9.0 / 9.3 | impact: -0.5 vs peer; uniqueness: -0.4 vs peer |
+| [US/vicksburg](../../../countries/US/sights/vicksburg.yaml) | 8.9 / 9.1 / 9.4 / 8.9 / 9.2 | uniqueness: -0.4 vs peer; impact: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-lincoln-park-zoo — Lincoln Park Zoo Chicago — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/lincoln-park-zoo.yaml)
+- Action: new
+- Scope: Urban zoo with approximately 200 species, diverse habitats and conservation interpretation; excludes surrounding general park.
+- Representative coordinates: 41.921, -87.633; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.7 / 8.6 / 8.7 / 9.0 / 8.9.
+- Categories: wildlife:9.2 family:9.3 nature:8.9.
+- Overall: 87.40/100.
+- Decision: Source-informed provisional assessment from official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.lpzoo.org/animals-gardens/animals-exhibits/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/bronx-zoo](../../../countries/US/sights/bronx-zoo.yaml) | 9.0 / 8.9 / 9.1 / 9.2 / 9.3 | significance: -0.4 vs peer; depth: -0.4 vs peer |
+| [US/national-zoo](../../../countries/US/sights/national-zoo.yaml) | 8.8 / 8.7 / 8.9 / 9.0 / 8.9 | significance: -0.2 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-balloon-museum — Anderson Abruzzo Albuquerque International Balloon Museum — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/balloon-museum.yaml)
+- Action: new
+- Scope: Permanent ballooning history museum and exhibits only; annual Balloon Fiesta deferred for recurring-event inclusion policy.
+- Representative coordinates: 35.189, -106.598; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.5 / 8.9 / 8.7 / 8.8 / 8.7.
+- Categories: history:9.1 culture:9 family:9.
+- Overall: 87.05/100.
+- Decision: Source-informed provisional assessment from official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://balloonmuseum.com/; https://balloonmuseum.com/admissions/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-air-and-space-museum-dc](../../../countries/US/sights/national-air-and-space-museum-dc.yaml) | 9.1 / 9.3 / 9.4 / 9.1 / 9.1 | significance: -0.7 vs peer; impact: -0.6 vs peer |
+| [US/wright-brothers-memorial](../../../countries/US/sights/wright-brothers-memorial.yaml) | 8.8 / 9.2 / 9.4 / 8.8 / 8.8 | significance: -0.7 vs peer; impact: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+### Pass 199 scope decisions
+
+Chincoteague refuge not separately added: NPS identifies the Virginia district and beach inside the refuge, covered by existing Assateague island and horse experience (https://www.nps.gov/asis/planyourvisit/basicinfo.htm). USS Constitution confirmed as Freedom Trail component (https://www.thefreedomtrail.org/trail-sites/uss-constitution), no new row; independent ship museum scope remains a potential future split. Ford's Theatre deferred for National Mall parent-scope review (https://www.nps.gov/foth/planyourvisit/index.htm); temporary museum/theatre closure notice not used as an intrinsic score deduction. Balloon Fiesta deferred pending consistent worldwide recurring-event inclusion policy despite official documentation of more than 500 balloons (https://www.balloonfiesta.com/plan-your-visit/faqs/).
+
+## sight-us-harvard-natural-history — Harvard Museum of Natural History and Glass Flowers Cambridge — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/harvard-natural-history.yaml)
+- Action: new
+- Scope: Natural history galleries include the exceptional Blaschka Glass Flowers, representing 847 plant species; adjacent archaeology museum excluded.
+- Representative coordinates: 42.379, -71.115; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.4 / 9.2 / 9.1 / 9.2.
+- Categories: history:9.2 nature:9.3 culture:9.3.
+- Overall: 92.05/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.hmnh.harvard.edu/glass-flowers; https://www.hmnh.harvard.edu/exhibitions.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/carnegie-natural-history](../../../countries/US/sights/carnegie-natural-history.yaml) | 9.3 / 9.3 / 9.4 / 9.2 / 9.4 | impact: -0.2 vs peer; significance: -0.2 vs peer |
+| [US/corning-glass](../../../countries/US/sights/corning-glass.yaml) | 9.1 / 9.4 / 9.2 / 9.2 / 9.3 | experience: -0.1 vs peer; depth: -0.1 vs peer |
+| [US/american-museum-of-natural-history](../../../countries/US/sights/american-museum-of-natural-history.yaml) | 9.2 / 9.2 / 9.3 / 9.2 / 9.4 | uniqueness: +0.2 vs peer; depth: -0.2 vs peer |
+| [US/field-museum](../../../countries/US/sights/field-museum.yaml) | 9.2 / 9.2 / 9.3 / 9.2 / 9.4 | uniqueness: +0.2 vs peer; depth: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-yale-peabody — Yale Peabody Museum of Natural History New Haven — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/yale-peabody.yaml)
+- Action: new
+- Scope: Reopened after major renovation in 2024; original dinosaur fossils, minerals, scientific instruments and anthropological exhibits; 21 galleries documented at reopening.
+- Representative coordinates: 41.317, -72.921; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.2 / 9.3 / 9.2 / 9.3.
+- Categories: nature:9.3 history:9.3 family:9.3.
+- Overall: 92.30/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://peabody.yale.edu/explore/exhibitions; https://news.yale.edu/2024/03/26/inspiring-wonder-again-peabody-museum-reopens.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/carnegie-natural-history](../../../countries/US/sights/carnegie-natural-history.yaml) | 9.3 / 9.3 / 9.4 / 9.2 / 9.4 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [US/field-museum](../../../countries/US/sights/field-museum.yaml) | 9.2 / 9.2 / 9.3 / 9.2 / 9.4 | depth: -0.1 vs peer; impact: +0.0 vs peer |
+| [US/museum-of-rockies](../../../countries/US/sights/museum-of-rockies.yaml) | 9.0 / 9.2 / 9.2 / 9.1 / 9.1 | impact: +0.2 vs peer; depth: +0.2 vs peer |
+| [US/american-museum-of-natural-history](../../../countries/US/sights/american-museum-of-natural-history.yaml) | 9.2 / 9.2 / 9.3 / 9.2 / 9.4 | depth: -0.1 vs peer; impact: +0.0 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-childrens-museum-indianapolis — The Children's Museum of Indianapolis — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/childrens-museum-indianapolis.yaml)
+- Action: new
+- Scope: Five floors of learning experiences including original dinosaur fossils, interactive exhibits and outdoor campus; Visit Indy identifies it as world's largest children's museum.
+- Representative coordinates: 39.811, -86.157; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.2 / 9.0 / 9.4 / 9.4.
+- Categories: family:9.4 culture:9.1 history:9.2.
+- Overall: 92.10/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.childrensmuseum.org/visit/experiences/exhibits; https://www.visitindy.com/things-to-do/museums-attractions/the-childrens-museum/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/strong-museum-play](../../../countries/US/sights/strong-museum-play.yaml) | 9.2 / 9.4 / 9.2 / 9.4 / 9.2 | uniqueness: -0.2 vs peer; significance: -0.2 vs peer |
+| [US/exploratorium](../../../countries/US/sights/exploratorium.yaml) | 9.0 / 9.3 / 8.9 / 9.4 / 9.3 | impact: +0.2 vs peer; uniqueness: -0.1 vs peer |
+| [US/griffin-msi](../../../countries/US/sights/griffin-msi.yaml) | 9.3 / 9.4 / 9.3 / 9.4 / 9.4 | significance: -0.3 vs peer; uniqueness: -0.2 vs peer |
+| [US/franklin-institute](../../../countries/US/sights/franklin-institute.yaml) | 9.1 / 9.1 / 9.1 / 9.4 / 9.3 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-yale-art-gallery — Yale University Art Gallery New Haven — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/yale-art-gallery.yaml)
+- Action: new
+- Scope: Encyclopedic collection of roughly 300,000 works across cultures and periods; public gallery selection rather than all holdings.
+- Representative coordinates: 41.308, -72.931; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.1 / 9.3 / 9.1 / 9.3.
+- Categories: culture:9.4 history:9.3 architecture:9.1.
+- Overall: 91.60/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://catalog.yale.edu/art/art-resources-collections/yale-university-art-gallery/; https://news.yale.edu/2025/01/10/still-life-einstein-physics-class-way-art-gallery.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/cleveland-art-museum](../../../countries/US/sights/cleveland-art-museum.yaml) | 9.1 / 9.2 / 9.3 / 9.2 / 9.3 | uniqueness: -0.1 vs peer; experience: -0.1 vs peer |
+| [US/nelson-atkins](../../../countries/US/sights/nelson-atkins.yaml) | 9.0 / 9.1 / 9.2 / 9.2 / 9.3 | impact: +0.1 vs peer; significance: +0.1 vs peer |
+| [US/brooklyn-museum](../../../countries/US/sights/brooklyn-museum.yaml) | 9.1 / 9.1 / 9.3 / 9.1 / 9.3 | impact: +0.0 vs peer; uniqueness: +0.0 vs peer |
+| [US/mfa-boston](../../../countries/US/sights/mfa-boston.yaml) | 9.3 / 9.3 / 9.4 / 9.3 / 9.4 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-yale-british-art — Yale Center for British Art New Haven — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/yale-british-art.yaml)
+- Action: new
+- Scope: Distinct museum and Louis Kahn building; largest British art collection outside UK, reopened March 2025.
+- Representative coordinates: 41.308, -72.931; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.2 / 9.1 / 9.2.
+- Categories: culture:9.4 history:9.3 architecture:9.3.
+- Overall: 91.50/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://britishart.yale.edu/about-yale-center-british-art; https://britishart.yale.edu/museum-reopens-march-29.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/yale-art-gallery](../../../countries/US/sights/yale-art-gallery.yaml) | 9.1 / 9.1 / 9.3 / 9.1 / 9.3 | uniqueness: +0.2 vs peer; impact: -0.1 vs peer |
+| [US/frick-collection](../../../countries/US/sights/frick-collection.yaml) | 9.3 / 9.2 / 9.4 / 9.2 / 9.3 | impact: -0.3 vs peer; significance: -0.2 vs peer |
+| [US/barnes-foundation](../../../countries/US/sights/barnes-foundation.yaml) | 9.1 / 9.4 / 9.3 / 9.2 / 9.2 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [US/kimbell-art-museum](../../../countries/US/sights/kimbell-art-museum.yaml) | 8.9 / 9.2 / 9.0 / 9.0 / 8.9 | depth: +0.3 vs peer; significance: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-harvard-art-museums — Harvard Art Museums Cambridge — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/harvard-art-museums.yaml)
+- Action: new
+- Scope: Three art museums unified in one building; approximately 250,000 objects in collection, not all publicly displayed.
+- Representative coordinates: 42.374, -71.114; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.1 / 9.3 / 9.0 / 9.2.
+- Categories: culture:9.4 history:9.3 architecture:9.1.
+- Overall: 91.05/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://news.harvard.edu/gazette/story/2016/03/harvard-art-museums-director-named/; https://hbr.org/podcast/2026/07/how-a-museum-marketing-team-used-ai-to-bring-people-closer-to-art.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/yale-art-gallery](../../../countries/US/sights/yale-art-gallery.yaml) | 9.1 / 9.1 / 9.3 / 9.1 / 9.3 | impact: -0.1 vs peer; experience: -0.1 vs peer |
+| [US/mfa-boston](../../../countries/US/sights/mfa-boston.yaml) | 9.3 / 9.3 / 9.4 / 9.3 / 9.4 | impact: -0.3 vs peer; experience: -0.3 vs peer |
+| [US/frick-collection](../../../countries/US/sights/frick-collection.yaml) | 9.3 / 9.2 / 9.4 / 9.2 / 9.3 | impact: -0.3 vs peer; experience: -0.2 vs peer |
+| [US/brooklyn-museum](../../../countries/US/sights/brooklyn-museum.yaml) | 9.1 / 9.1 / 9.3 / 9.1 / 9.3 | impact: -0.1 vs peer; experience: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-milwaukee-art-museum — Milwaukee Art Museum and Quadracci Pavilion — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/milwaukee-art-museum.yaml)
+- Action: new
+- Scope: More than 35,000 collection works and distinctive Quadracci Pavilion; museum and building grouped.
+- Representative coordinates: 43.04, -87.897; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.2 / 9.0 / 9.1 / 9.2.
+- Categories: culture:9.3 architecture:9.4 photography:9.3.
+- Overall: 91.15/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://mam.org/info/pressroom/2026/10/milwaukee-art-museum-announces-10-million-gift-to-support-the-quadracci-pavilions-future/; https://mam.org/exhibitions/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/modern-fort-worth](../../../countries/US/sights/modern-fort-worth.yaml) | 8.9 / 8.9 / 9.0 / 9.0 / 9.0 | uniqueness: +0.3 vs peer; impact: +0.2 vs peer |
+| [US/denver-art-museum](../../../countries/US/sights/denver-art-museum.yaml) | 8.8 / 8.8 / 8.9 / 8.8 / 9.1 | uniqueness: +0.4 vs peer; impact: +0.3 vs peer |
+| [US/cleveland-art-museum](../../../countries/US/sights/cleveland-art-museum.yaml) | 9.1 / 9.2 / 9.3 / 9.2 / 9.3 | significance: -0.3 vs peer; experience: -0.1 vs peer |
+| [US/kimbell-art-museum](../../../countries/US/sights/kimbell-art-museum.yaml) | 8.9 / 9.2 / 9.0 / 9.0 / 8.9 | depth: +0.3 vs peer; impact: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-baltimore-art-museum — Baltimore Museum of Art — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/baltimore-art-museum.yaml)
+- Action: new
+- Scope: Distinct art museum with the Cone Collection, including over 600 works by Matisse; separate from Walters.
+- Representative coordinates: 39.326, -76.619; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.2 / 9.0 / 9.2.
+- Categories: culture:9.4 history:9.2 architecture:8.9.
+- Overall: 91.10/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://artbma.org/art-by-theme/the-cone-collection/; https://artbma.org/plan-your-visit/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/walters-art-museum](../../../countries/US/sights/walters-art-museum.yaml) | 8.7 / 8.8 / 9.0 / 8.8 / 9.0 | uniqueness: +0.4 vs peer; impact: +0.3 vs peer |
+| [US/barnes-foundation](../../../countries/US/sights/barnes-foundation.yaml) | 9.1 / 9.4 / 9.3 / 9.2 / 9.2 | uniqueness: -0.2 vs peer; experience: -0.2 vs peer |
+| [US/cleveland-art-museum](../../../countries/US/sights/cleveland-art-museum.yaml) | 9.1 / 9.2 / 9.3 / 9.2 / 9.3 | experience: -0.2 vs peer; impact: -0.1 vs peer |
+| [US/brooklyn-museum](../../../countries/US/sights/brooklyn-museum.yaml) | 9.1 / 9.1 / 9.3 / 9.1 / 9.3 | impact: -0.1 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-busch-gardens-tampa — Busch Gardens Tampa Bay Theme Park and Zoo — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/busch-gardens-tampa.yaml)
+- Action: new
+- Scope: Combined coaster park and zoo with more than 200 species per operator; excludes separate Adventure Island waterpark.
+- Representative coordinates: 28.037, -82.419; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.1 / 8.7 / 9.4 / 9.2.
+- Categories: family:9.4 adventure:9.3 wildlife:9.2.
+- Overall: 90.75/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://buschgardens.com/en/tampa/; https://buschgardens.com/tampa/rides/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/cedar-point](../../../countries/US/sights/cedar-point.yaml) | 9.2 / 9.3 / 8.8 / 9.4 / 9.2 | uniqueness: -0.2 vs peer; impact: -0.1 vs peer |
+| [US/dollywood](../../../countries/US/sights/dollywood.yaml) | 9.1 / 9.2 / 8.8 / 9.4 / 9.2 | uniqueness: -0.1 vs peer; significance: -0.1 vs peer |
+| [US/islands-of-adventure](../../../countries/US/sights/islands-of-adventure.yaml) | 9.1 / 9.0 / 8.7 / 9.4 / 9.1 | uniqueness: +0.1 vs peer; depth: +0.1 vs peer |
+| [US/san-diego-zoo](../../../countries/US/sights/san-diego-zoo.yaml) | 9.0 / 8.9 / 8.5 / 9.3 / 9.4 | uniqueness: +0.2 vs peer; significance: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-hirshhorn — Hirshhorn Museum and Sculpture Garden Washington DC — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/hirshhorn.yaml)
+- Action: new
+- Scope: Modern/contemporary art museum and sculpture garden reopened 31 October 2026 after four-year revitalization; not generic Mall walk.
+- Representative coordinates: 38.888, -77.023; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.2 / 9.1 / 9.1 / 9.2.
+- Categories: culture:9.4 architecture:9.2 photography:9.1.
+- Overall: 91.35/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.si.edu/museums/hirshhorn-museum-and-sculpture-garden; https://www.si.edu/newsdesk/releases/hirshhorn-sculpture-garden-reopens-national-mall.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/the-broad](../../../countries/US/sights/the-broad.yaml) | 8.9 / 9.1 / 8.9 / 9.1 / 8.8 | depth: +0.4 vs peer; impact: +0.2 vs peer |
+| [US/dia-beacon](../../../countries/US/sights/dia-beacon.yaml) | 9.0 / 9.3 / 9.1 / 9.1 / 9.0 | depth: +0.2 vs peer; impact: +0.1 vs peer |
+| [US/storm-king](../../../countries/US/sights/storm-king.yaml) | 9.1 / 9.2 / 8.9 / 9.2 / 9.0 | significance: +0.2 vs peer; depth: +0.2 vs peer |
+| [US/walker-art-center](../../../countries/US/sights/walker-art-center.yaml) | 8.8 / 8.9 / 8.8 / 9.0 / 8.9 | impact: +0.3 vs peer; uniqueness: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-menil-collection — Menil Collection Houston Art Museum Campus — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/menil-collection.yaml)
+- Action: new
+- Scope: Permanent collection of more than 25,000 works; main museum and affiliated campus galleries grouped, independently operated Rothko Chapel excluded.
+- Representative coordinates: 29.737, -95.398; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.1 / 9.0 / 9.2.
+- Categories: culture:9.4 architecture:9.2 history:9.
+- Overall: 90.90/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.menil.org/collection; https://www.menil.org/visit.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/mfah](../../../countries/US/sights/mfah.yaml) | 9.1 / 9.2 / 9.3 / 9.2 / 9.4 | significance: -0.2 vs peer; experience: -0.2 vs peer |
+| [US/barnes-foundation](../../../countries/US/sights/barnes-foundation.yaml) | 9.1 / 9.4 / 9.3 / 9.2 / 9.2 | uniqueness: -0.2 vs peer; significance: -0.2 vs peer |
+| [US/the-broad](../../../countries/US/sights/the-broad.yaml) | 8.9 / 9.1 / 8.9 / 9.1 / 8.8 | depth: +0.4 vs peer; significance: +0.2 vs peer |
+| [US/kimbell-art-museum](../../../countries/US/sights/kimbell-art-museum.yaml) | 8.9 / 9.2 / 9.0 / 9.0 / 8.9 | depth: +0.3 vs peer; impact: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-mlk-historical-park — Martin Luther King Jr National Historical Park and King Center Atlanta — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/mlk-historical-park.yaml)
+- Action: new
+- Scope: Historic Ebenezer Baptist Church, King Center, birth home and memorial heritage grouped; birth home access subject to renovation and conflicting tour notices.
+- Representative coordinates: 33.756, -84.373; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.4 / 9.0 / 9.1.
+- Categories: history:9.4 culture:9.3 architecture:8.8.
+- Overall: 91.40/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/places/crkinghome.htm; https://www.nps.gov/malu/planyourvisit/basicinfo.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-civil-rights-museum](../../../countries/US/sights/national-civil-rights-museum.yaml) | 9.1 / 9.3 / 9.4 / 9.0 / 9.3 | depth: -0.2 vs peer; impact: -0.1 vs peer |
+| [US/montgomery-legacy-sites](../../../countries/US/sights/montgomery-legacy-sites.yaml) | 9.3 / 9.3 / 9.4 / 9.0 / 9.1 | impact: -0.3 vs peer; uniqueness: -0.1 vs peer |
+| [US/little-rock-central-high](../../../countries/US/sights/little-rock-central-high.yaml) | 8.5 / 8.8 / 9.3 / 8.6 / 8.5 | depth: +0.6 vs peer; impact: +0.5 vs peer |
+| [US/birmingham-civil-rights-monument](../../../countries/US/sights/birmingham-civil-rights-monument.yaml) | 8.0 / 8.7 / 9.3 / 8.3 / 8.1 | impact: +1.0 vs peer; depth: +1.0 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-thomas-edison-park — Thomas Edison National Historical Park Laboratory and Glenmont Estate New Jersey — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/thomas-edison-park.yaml)
+- Action: new
+- Scope: Preserved industrial laboratory and home, extensive original Edison-related collections; public areas only.
+- Representative coordinates: 40.805, -74.234; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.4 / 9.4 / 8.9 / 9.1.
+- Categories: history:9.4 culture:9.2 family:9.
+- Overall: 91.45/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://home.nps.gov/edis/learn/historyculture/index.htm; https://www.nps.gov/edis/planyourvisit/index.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/computer-history-museum](../../../countries/US/sights/computer-history-museum.yaml) | 9.1 / 9.4 / 9.3 / 9.1 / 9.3 | impact: -0.2 vs peer; experience: -0.2 vs peer |
+| [US/henry-ford-museum](../../../countries/US/sights/henry-ford-museum.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.4 | impact: -0.3 vs peer; experience: -0.3 vs peer |
+| [US/wright-brothers-memorial](../../../countries/US/sights/wright-brothers-memorial.yaml) | 8.8 / 9.2 / 9.4 / 8.8 / 8.8 | depth: +0.3 vs peer; uniqueness: +0.2 vs peer |
+| [US/national-museum-american-history](../../../countries/US/sights/national-museum-american-history.yaml) | 9.1 / 9.2 / 9.4 / 9.1 / 9.4 | depth: -0.3 vs peer; impact: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-appalachian-thru-hike — Appalachian Trail Long-Distance Thru-Hiking Experience — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/appalachian-thru-hike.yaml)
+- Action: new
+- Scope: Distinct continuous long-distance trek from Springer Mountain to Katahdin, 2197.9 miles in 2026; does not rank individual national park hikes again. Representative southern terminus.
+- Representative coordinates: 34.627, -84.193; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.4 / 9.2 / 9.2 / 9.4.
+- Categories: adventure:9.4 nature:9.3 photography:9.2.
+- Overall: 93.00/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://appalachiantrail.org/experience/hike-the-trail/at-basics/; https://appalachiantrail.org/experience/hike-the-trail/thru-hiking/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/boundary-waters](../../../countries/US/sights/boundary-waters.yaml) | 9.1 / 9.3 / 9.1 / 9.1 / 9.2 | impact: +0.2 vs peer; depth: +0.2 vs peer |
+| [US/blue-ridge-parkway](../../../countries/US/sights/blue-ridge-parkway.yaml) | 9.1 / 9.1 / 9.1 / 9.2 / 9.3 | uniqueness: +0.3 vs peer; impact: +0.2 vs peer |
+| [US/adirondack-high-peaks](../../../countries/US/sights/adirondack-high-peaks.yaml) | 8.9 / 8.8 / 8.6 / 9.0 / 9.0 | uniqueness: +0.6 vs peer; significance: +0.6 vs peer |
+| [US/lost-coast](../../../countries/US/sights/lost-coast.yaml) | 9.0 / 9.0 / 8.6 / 8.8 / 8.9 | significance: +0.6 vs peer; depth: +0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-pacific-crest-thru-hike — Pacific Crest Trail Long-Distance Thru-Hiking Experience — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/pacific-crest-thru-hike.yaml)
+- Action: new
+- Scope: Distinct continuous multi-month trek across California, Oregon and Washington, about 2650 miles; excludes separate short national park visits; representative southern terminus.
+- Representative coordinates: 32.607, -116.466; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.4 / 9.4 / 9.1 / 9.2 / 9.4.
+- Categories: adventure:9.4 nature:9.4 photography:9.4.
+- Overall: 93.10/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.pcta.org/discover-the-trail/; https://www.pcta.org/about-us/media/media-fact-sheet/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/appalachian-thru-hike](../../../countries/US/sights/appalachian-thru-hike.yaml) | 9.3 / 9.4 / 9.2 / 9.2 / 9.4 | impact: +0.1 vs peer; significance: -0.1 vs peer |
+| [US/boundary-waters](../../../countries/US/sights/boundary-waters.yaml) | 9.1 / 9.3 / 9.1 / 9.1 / 9.2 | impact: +0.3 vs peer; depth: +0.2 vs peer |
+| [US/lost-coast](../../../countries/US/sights/lost-coast.yaml) | 9.0 / 9.0 / 8.6 / 8.8 / 8.9 | significance: +0.5 vs peer; depth: +0.5 vs peer |
+| [US/enchantments](../../../countries/US/sights/enchantments.yaml) | 9.2 / 9.1 / 8.7 / 9.1 / 9.1 | significance: +0.4 vs peer; uniqueness: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-ocmulgee-mounds — Ocmulgee Mounds National Historical Park Georgia — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/ocmulgee-mounds.yaml)
+- Action: new
+- Scope: Mississippian mounds, earth lodge and archaeological interpretation; no presumed access to sacred or restricted features.
+- Representative coordinates: 32.838, -83.603; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.5 / 8.8 / 9.1 / 8.7 / 8.7.
+- Categories: history:9.3 culture:9.2 nature:8.8.
+- Overall: 87.45/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/ocmu/index.htm; https://www.nps.gov/articles/ocmulgee.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/cahokia-mounds](../../../countries/US/sights/cahokia-mounds.yaml) | 7.9 / 8.8 / 9.3 / 8.1 / 8.2 | impact: +0.6 vs peer; experience: +0.6 vs peer |
+| [US/hopewell-ceremonial-earthworks](../../../countries/US/sights/hopewell-ceremonial-earthworks.yaml) | 7.9 / 8.9 / 9.3 / 8.0 / 8.3 | experience: +0.7 vs peer; impact: +0.6 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-little-bighorn — Little Bighorn Battlefield National Monument Montana — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/little-bighorn.yaml)
+- Action: new
+- Scope: Historic battlefield, Indian Memorial and Indigenous-led interpretation where offered.
+- Representative coordinates: 45.57, -107.43; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.5 / 8.8 / 9.2 / 8.7 / 8.7.
+- Categories: history:9.3 culture:9.1 photography:8.9.
+- Overall: 87.65/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/libi/planyourvisit/index.htm; https://www.nps.gov/libi/planyourvisit/guidedtours.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/gettysburg](../../../countries/US/sights/gettysburg.yaml) | 9.1 / 9.1 / 9.4 / 9.0 / 9.3 | impact: -0.6 vs peer; depth: -0.6 vs peer |
+| [US/vicksburg](../../../countries/US/sights/vicksburg.yaml) | 8.9 / 9.1 / 9.4 / 8.9 / 9.2 | depth: -0.5 vs peer; impact: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-big-cypress — Big Cypress National Preserve Florida Swamp and Wildlife — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/big-cypress.yaml)
+- Action: new
+- Scope: Distinct preserve and swamp habitats outside Everglades National Park, authorized viewing and trails.
+- Representative coordinates: 25.86, -81.03; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.6 / 8.9 / 8.8.
+- Categories: nature:9.3 wildlife:9.2 adventure:9.1.
+- Overall: 87.75/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/bicy/planyourvisit/basicinfo.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/everglades-national-park](../../../countries/US/sights/everglades-national-park.yaml) | 8.7 / 9.2 / 9.4 / 8.8 / 9.0 | significance: -0.8 vs peer; uniqueness: -0.4 vs peer |
+| [US/okefenokee](../../../countries/US/sights/okefenokee.yaml) | 8.7 / 8.9 / 9.2 / 8.5 / 8.7 | significance: -0.6 vs peer; experience: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-golden-spike — Golden Spike National Historical Park Utah — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/golden-spike.yaml)
+- Action: new
+- Scope: Transcontinental railroad completion site and heritage interpretation; no guarantee of locomotive demonstrations.
+- Representative coordinates: 41.618, -112.551; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.3 / 8.8 / 9.1 / 8.6 / 8.5.
+- Categories: history:9.3 culture:9.0 photography:8.8.
+- Overall: 86.50/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/wright-brothers-memorial](../../../countries/US/sights/wright-brothers-memorial.yaml) | 8.8 / 9.2 / 9.4 / 8.8 / 8.8 | impact: -0.5 vs peer; uniqueness: -0.4 vs peer |
+| [US/dayton-aviation-heritage](../../../countries/US/sights/dayton-aviation-heritage.yaml) | 7.9 / 8.6 / 9.1 / 8.3 / 8.3 | impact: +0.4 vs peer; experience: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-hovenweep — Hovenweep National Monument Colorado Utah — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/hovenweep.yaml)
+- Action: new
+- Scope: Ancestral Puebloan towers and canyon archaeological sites, separate from Mesa Verde.
+- Representative coordinates: 37.385, -109.077; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.9 / 8.9 / 8.6 / 8.6.
+- Categories: history:9.2 architecture:9.1 photography:9.1.
+- Overall: 87.05/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/mesa-verde](../../../countries/US/sights/mesa-verde.yaml) | 8.9 / 9.2 / 9.3 / 8.8 / 8.7 | impact: -0.4 vs peer; significance: -0.4 vs peer |
+| [US/chaco-culture](../../../countries/US/sights/chaco-culture.yaml) | 8.5 / 9.0 / 9.3 / 8.3 / 8.6 | significance: -0.4 vs peer; experience: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-valles-caldera — Valles Caldera National Preserve New Mexico — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/valles-caldera.yaml)
+- Action: new
+- Scope: Volcanic caldera meadows, mountain landscapes and public trails separate from Bandelier.
+- Representative coordinates: 35.858, -106.52; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.5 / 8.8 / 8.8.
+- Categories: nature:9.3 photography:9.2 wildlife:9.0.
+- Overall: 87.65/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/craters-of-the-moon](../../../countries/US/sights/craters-of-the-moon.yaml) | 9.0 / 9.3 / 9.1 / 9.0 / 9.1 | significance: -0.6 vs peer; uniqueness: -0.4 vs peer |
+| [US/mount-st-helens](../../../countries/US/sights/mount-st-helens.yaml) | 9.3 / 9.4 / 9.4 / 9.0 / 9.2 | significance: -0.9 vs peer; impact: -0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-petroglyph-monument — Petroglyph National Monument Albuquerque — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/petroglyph-monument.yaml)
+- Action: new
+- Scope: Rock art landscape, designated trails and cultural interpretation; excludes climbing on protected features.
+- Representative coordinates: 35.137, -106.716; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.7 / 8.9 / 8.6 / 8.5.
+- Categories: history:9.2 culture:9.1 photography:8.9.
+- Overall: 86.15/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/el-morro](../../../countries/US/sights/el-morro.yaml) | 8.6 / 9.0 / 9.0 / 8.7 / 8.6 | uniqueness: -0.3 vs peer; impact: -0.2 vs peer |
+| [US/canyon-de-chelly](../../../countries/US/sights/canyon-de-chelly.yaml) | 9.2 / 9.3 / 9.4 / 9.0 / 9.1 | impact: -0.8 vs peer; uniqueness: -0.6 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+### Pass 200 coverage and scope decisions
+
+NPS 64 designated national parks inventory (https://www.nps.gov/aboutus/national-park-system.htm) checked against ranking; all 62 in the 50 states represented; American Samoa and US Virgin Islands belong to separate territory queues. Not a check of every one of 434 NPS units. Ford's Theatre confirmed part of NAMA administrative umbrella (https://www.nps.gov/foth/planyourvisit/index.htm); no duplicate pending experiential scope. Tracy Arm remains deferred: USGS documents lasting 2025 landslide and glacier-related damage (https://www.usgs.gov/programs/landslide-hazards/science/2025-tracy-arm-landslide-generated-tsunami), NOAA 2026 reassessment (https://www.nesdis.noaa.gov/news/noaa-scientists-gain-key-insights-alaska-tsunami-one-year-later) and 2026 cruise diversions (https://alaskapublic.org/news/alaska-desk/2026-04-10/after-last-years-historic-tsunami-some-cruise-lines-say-theyll-avoid-tracy-arm-this-year); no assumption of restored condition or safe passage. Recurring-event policy and legacy overlaps remain unresolved. Long-distance trails rated for continuous journey, not individual park hikes. Current US queue PAUSED, not DONE; remaining known candidates include Continental Divide Trail and other heritage sites; move to other underrepresented areas before another US expansion. No quota.

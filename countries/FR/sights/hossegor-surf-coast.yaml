@@ -1,0 +1,17 @@
+id: sight-fr-hossegor-surf-coast
+name: "Hossegor Atlantic Surf Beaches and Dune Walks"
+location:
+  country_code: FR
+  latitude: 43.665
+  longitude: -1.443
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 8.4
+  experience: 9.0
+  depth: 8.8
+  categories:
+    beaches: 9.3
+    adventure: 9.3
+    photography: 9.1
+    relaxation: 9.1

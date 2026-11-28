@@ -3405,3 +3405,146 @@
 - [Dated worldwide reassessment pass 59 — 2026-11-26](worldwide-deferred-pass59-2026-11-26.md)
 
 - [Dated worldwide reassessment pass 61 — 2026-11-26](worldwide-deferred-pass61-2026-11-26.md)
+
+
+## sight-de-rakotzbrucke — Rakotzbrücke (Kromlau Devil's Bridge) — 2026-11-26
+
+- YAML: [source](../../../countries/DE/sights/rakotzbrucke.yaml)
+- Action: new
+- Precise subject and factual basis: Nineteenth-century landscape-garden bridge and reflection views, not a crossing recommendation or entire park. [Visitor information](https://www.sachsen-tourismus.de/poi/rhododendronpark-kromlau-mit-rakotzbruecke); source excerpts inspected 2026-11-26.
+- Location check: 51.53637, 14.64051; [published reference](https://mapcarta.com/34882240); approximate representative point rather than guaranteed entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinate values checked; independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [DE/bastei](../../../countries/DE/sights/bastei.yaml) | More dramatic rock landscape |
+| [DE/muskauer-park](../../../countries/DE/sights/muskauer-park.yaml) | Much broader garden heritage |
+| [GB/forth-bridge](../../../countries/GB/sights/forth-bridge.yaml) | Greater engineering significance |
+| [PT/ponta-piedade](../../../countries/PT/sights/ponta-piedade.yaml) | Different natural photographic attraction |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Distinctive circular reflection |
+| Uniqueness | 8.5 | Other romantic bridges exist |
+| Significance | 7.8 | Regional garden-design heritage |
+| Experience | 8.1 | Focused viewing experience |
+| Depth | 7.3 | Single structure |
+
+- Applicable categories: photography:9.1, architecture:8.6, nature:8.3.
+- Computed worldwide overall: 82.10/100.
+- High-score challenge: Below 90 overall. No 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access checks.
+
+## sight-de-neues-museum — Neues Museum (Berlin) — 2026-11-26
+
+- YAML: [source](../../../countries/DE/sights/neues-museum.yaml)
+- Action: new
+- Precise subject: Individual Museum Island institution, excluding other museums.
+- Location check: 52.52018, 13.39774; [published representative point](https://mapcarta.com/28168070), accessed 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Checked visitor evidence: Nefertiti, papyrus and European prehistory collections spanning multiple floors. [Reference 1](https://www.smb.museum/en/museums-institutions/neues-museum/exhibitions/detail/ancient-egypt/); [Reference 2](https://www.smb.museum/en/museums-institutions/neues-museum/exhibitions/detail/prehistory-and-early-history/); [Reference 3](https://www.berlin.de/en/museums/3109123-3104050-neues-museum.en.html); inspected 2026-11-26. Sources support visitor scope, not numerical scores.
+- Missing or uncertain facts: complete independent corroboration and current gallery/object availability.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [FR/louvre](../../../countries/FR/sights/louvre.yaml) | Greater encyclopedic breadth. |
+| [IT/museo-egizio](../../../countries/IT/sights/museo-egizio.yaml) | Turin has deeper specialist Egyptology; Berlin adds European prehistory. |
+| [TR/istanbul-archaeological-museums](../../../countries/TR/sights/istanbul-archaeological-museums.yaml) | Comparable archaeology with different civilizations. |
+| [DE/museum-island](../../../countries/DE/sights/museum-island.yaml) | Parent ensemble has greater scope; no inheritance. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Major original antiquities create exceptional impact. |
+| Uniqueness | 9.3 | Nefertiti and mixed Egyptian/European archaeology distinguish the collection. |
+| Significance | 9.3 | Internationally important archaeological holdings. |
+| Experience | 9.0 | Object-centered galleries reward a sustained visit. |
+| Depth | 9.1 | Several floors provide depth without counting other island museums. |
+
+- Applicable categories: history:9.4, culture:9.4, architecture:8.9.
+- Computed worldwide overall: 91.75/100.
+- High-score challenge: Above 90 based on the specific significance and experience described above; lower than world-leading broad collections in the comparisons. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.
+
+## sight-de-jewish-museum-berlin — Jewish Museum Berlin — 2026-11-26
+
+- YAML: [source](../../../countries/DE/sights/jewish-museum-berlin.yaml)
+- Action: new
+- Precise subject: Main museum and Libeskind building, excluding other institutions.
+- Location check: 52.50228, 13.39542; [published representative point](https://mapcarta.com/26233828), accessed 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Checked visitor evidence: Core exhibition covers 3,500 square metres of German-Jewish history; architecture interprets that history. [Reference 1](https://www.jmberlin.de/en/core-exhibition); [Reference 2](https://www.jmberlin.de/en/libeskind-building); [Reference 3](https://www.berlin.de/en/museums/3108776-3104050-jewish-museum-berlin.en.html); inspected 2026-11-26. Sources support visitor scope, not numerical scores.
+- Missing or uncertain facts: complete independent corroboration and current gallery/object availability.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/national-museum-of-african-american-history-and-culture](../../../countries/US/sights/national-museum-of-african-american-history-and-culture.yaml) | Comparable cultural history with a different community scope. |
+| [KR/seodaemun-prison-history-hall](../../../countries/KR/sights/seodaemun-prison-history-hall.yaml) | Historic prison differs from purpose-designed narrative architecture. |
+| [KR/war-memorial-of-korea](../../../countries/KR/sights/war-memorial-of-korea.yaml) | Broader military history contrasts with cultural history. |
+| [HK/m-plus-museum](../../../countries/HK/sights/m-plus-museum.yaml) | Contemporary visual culture rather than historical identity. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Architecture and historical interpretation give profound emotional impact. |
+| Uniqueness | 9.3 | Purpose-designed narrative architecture and Jewish cultural history form a distinctive combination. |
+| Significance | 9.3 | German-Jewish history has international consequence beyond persecution alone. |
+| Experience | 9.0 | Reflective and interactive interpretation is meaningful, not entertainment. |
+| Depth | 9.2 | Large exhibition spanning centuries supports sustained exploration. |
+
+- Applicable categories: history:9.4, culture:9.4, architecture:9.3.
+- Computed worldwide overall: 91.85/100.
+- High-score challenge: Above 90 based on the specific significance and experience described above; lower than world-leading broad collections in the comparisons. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.
+
+## sight-de-topography-of-terror — Topography of Terror Documentation Centre — 2026-11-26
+
+- YAML: [source](../../../countries/DE/sights/topography-of-terror.yaml)
+- Action: new
+- Precise subject: Documentation centre and historic outdoor grounds, excluding separate memorials.
+- Location check: 52.50619, 13.38434; [published representative point](https://mapcarta.com/W24368681), accessed 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Checked visitor evidence: Permanent exhibition documents Nazi crimes; 15-station site tour supplements indoor displays. [Reference 1](https://www.topographie.de/en/exhibitions/topography-of-terror); [Reference 2](https://www.topographie.de/en/exhibitions/site-tour); [Reference 3](https://www.visitberlin.de/en/topography-terror); inspected 2026-11-26. Sources support visitor scope, not numerical scores.
+- Missing or uncertain facts: complete independent corroboration and current gallery/object availability.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/national-museum-of-african-american-history-and-culture](../../../countries/US/sights/national-museum-of-african-american-history-and-culture.yaml) | Broader multi-century history. |
+| [KR/seodaemun-prison-history-hall](../../../countries/KR/sights/seodaemun-prison-history-hall.yaml) | Comparable authentic setting for documentation of persecution. |
+| [KR/war-memorial-of-korea](../../../countries/KR/sights/war-memorial-of-korea.yaml) | Larger collection breadth; Berlin focuses on documentation. |
+| [DE/jewish-museum-berlin](../../../countries/DE/sights/jewish-museum-berlin.yaml) | Broader Jewish culture versus specific documentation of Nazi crimes. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Documentary interpretation at an authentic site creates solemn impact. |
+| Uniqueness | 9.1 | Site-based focus on institutions of persecution is distinctive. |
+| Significance | 9.4 | Internationally consequential history supports significance. |
+| Experience | 9.0 | Detailed interpretation offers meaningful reflection. |
+| Depth | 8.5 | Indoor and outdoor exhibitions have substantial but bounded depth. |
+
+- Applicable categories: history:9.4, culture:9.0.
+- Computed worldwide overall: 90.25/100.
+- High-score challenge: Above 90 based on the specific significance and experience described above; lower than world-leading broad collections in the comparisons. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.

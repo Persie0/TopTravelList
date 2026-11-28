@@ -1,0 +1,17 @@
+id: sight-fr-sept-iles-wildlife-cruises
+name: "Sept-Îles Nature Reserve Wildlife Cruises"
+location:
+  country_code: FR
+  latitude: 48.89921
+  longitude: -3.43788
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.8
+  depth: 8.5
+  categories:
+    wildlife: 9.4
+    nature: 9.3
+    photography: 9.1
+    adventure: 8.8

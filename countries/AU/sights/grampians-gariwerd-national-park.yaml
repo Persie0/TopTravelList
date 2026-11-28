@@ -1,0 +1,17 @@
+id: sight-au-grampians-gariwerd-national-park
+name: "Grampians (Gariwerd) National Park"
+location:
+  country_code: AU
+  latitude: -37.2089
+  longitude: 142.3981
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.8
+  depth: 9.0
+  categories:
+    nature: 9.1
+    adventure: 9.1
+    culture: 8.8
+    photography: 9.0

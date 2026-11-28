@@ -1,0 +1,17 @@
+id: sight-es-basilica-del-pilar
+name: "Basilica of Our Lady of the Pillar Zaragoza"
+location:
+  country_code: ES
+  latitude: 41.65676
+  longitude: -0.87853
+scores:
+  impact: 9.2
+  uniqueness: 8.8
+  significance: 9.2
+  experience: 8.8
+  depth: 8.8
+  categories:
+    architecture: 9.4
+    history: 9.3
+    culture: 9.3
+    photography: 9.2

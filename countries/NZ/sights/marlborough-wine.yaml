@@ -1,0 +1,16 @@
+id: sight-nz-marlborough-wine
+name: "Marlborough Wine Heritage and Cellar Door Route"
+location:
+  country_code: NZ
+  latitude: -41.51
+  longitude: 173.85
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 9.0
+  depth: 8.9
+  categories:
+    food: 9.4
+    culture: 9.2
+    relaxation: 9.2

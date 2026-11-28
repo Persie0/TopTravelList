@@ -761,3 +761,231 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Bahrain Authority for Culture and Antiquities search excerpt; possible named-site context, full page timed out](https://culture.gov.bh/en/visitingbahrain/CulturalTourism/Destinations/), accessed or excerpt inspected 2026-11-25; individual claims and GPS not fully checked.
 - Remaining gaps: Independent factual, GPS, peer and category verification.
+
+## sight-bh-marassi-aquarium — Marassi Aquarium and Underwater Zoo — 2026-11-26
+
+- YAML: [source](../../../countries/BH/sights/marassi-aquarium.yaml)
+- Action: new
+- Precise subject and limitations: Dedicated aquarium and underwater zoo exhibits in Marassi Galleria, not beach or mall. Government landmark coordinates used. No independent animal welfare or conservation outcomes assessed.
+- Location check: 26.30271554, 50.64461133; [representative point source](https://www.data.gov.bh/explore/dataset/geographical-locations-of-landmarks/), source or indexed excerpt inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.marassiaquarium.bh/about-us/); source or indexed excerpt inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [AE/national-aquarium-abu-dhabi](../../../countries/AE/sights/national-aquarium-abu-dhabi.yaml) | 8.6 / 8.3 / 7.6 / 8.8 / 8.8 | Broader aquarium scope. |
+| [AE/dubai-mall-aquarium-and-underwater-zoo](../../../countries/AE/sights/dubai-mall-aquarium-and-underwater-zoo.yaml) | 8.0 / 7.6 / 6.2 / 8.4 / 7.6 | Comparable mall-based aquarium. |
+| [SG/singapore-oceanarium](../../../countries/SG/sights/singapore-oceanarium.yaml) | 8.9 / 8.7 / 7.6 / 9.1 / 8.8 | Larger and broader marine collection. |
+| [BH/al-areen-wildlife-park](../../../countries/BH/sights/al-areen-wildlife-park.yaml) | 7.5 / 7.8 / 8.2 / 8.0 / 7.6 | Different land-based wildlife experience. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.2 | Engaging aquarium displays. |
+| Uniqueness | 8.0 | Regional aquarium with familiar exhibit format. |
+| Significance | 7.1 | Regional educational relevance. |
+| Experience | 8.6 | Varied family-oriented marine exhibits. |
+| Depth | 8.4 | Multiple themed environments. |
+
+- Applicable categories: family:8.9, wildlife:8.7, nature:8.3.
+- Computed worldwide overall: 80.10/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-bh-al-dana-amphitheatre — Beyon Al Dana Amphitheatre — 2026-11-26
+
+- YAML: [source](../../../countries/BH/sights/al-dana-amphitheatre.yaml)
+- Action: new
+- Precise subject and limitations: Distinct concert venue near Bahrain International Circuit, only ticketed public event experience, not general guaranteed admission. Operator calendar https://www.beyonaldana.com.bh/ confirms public programming. Coordinate converted from Wikidata DMS, entry lacks cited coordinate provenance.
+- Location check: 26.037206111, 50.514681111; [representative point source](https://www.wikidata.org/wiki/Q112153416), source or indexed excerpt inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.bahrain.com/en/beyon-aldana-amphitheatre); source or indexed excerpt inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [BH/bahrain-national-theatre](../../../countries/BH/sights/bahrain-national-theatre.yaml) | 7.7 / 7.7 / 7.5 / 8.0 / 7.1 | Different national indoor performing arts institution. |
+| [BH/bahrain-international-circuit](../../../countries/BH/sights/bahrain-international-circuit.yaml) | 8.2 / 7.8 / 8.0 / 8.5 / 7.8 | Separate sporting venue nearby. |
+| [QA/katara-cultural-village](../../../countries/QA/sights/katara-cultural-village.yaml) | 8.3 / 8.1 / 7.8 / 8.6 / 8.3 | Broader cultural district. |
+| [QA/lusail-international-circuit](../../../countries/QA/sights/lusail-international-circuit.yaml) | 8.5 / 8.2 / 8.2 / 8.7 / 8.1 | Separate event-dependent sporting experience. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.3 | Distinctive outdoor performance setting. |
+| Uniqueness | 8.4 | Amphitheatre in desert setting. |
+| Significance | 7.4 | Contemporary regional performing arts venue. |
+| Experience | 8.6 | Potentially strong live events, programme dependent. |
+| Depth | 7.7 | Focused concert venue rather than cultural complex. |
+
+- Applicable categories: culture:8.8, architecture:8.6, nightlife:8.8.
+- Computed worldwide overall: 81.30/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-bh-bahrain-pearl-diving — Bahrain Pearl Diving and Snorkelling (Bu Maher Departure) — 2026-11-26
+
+- YAML: [source](../../../countries/BH/sights/bahrain-pearl-diving.yaml)
+- Action: new
+- Precise subject and limitations: Licensed pearl-diving or snorkelling excursion, not historic Pearling Path buildings or fort visit. Tourism authority identifies Saada and Bu Maher marinas as departures; coordinate is government-listed Bu Maher Fort vicinity as representative departure marker, not offshore dive site or exact berth. Licensed operators only; eligibility, sea conditions and pearl discoveries vary. Government fort coordinate differs from existing fort YAML; note discrepancy for location verification without modifying existing record.
+- Location check: 26.24078112, 50.61397505; [representative point source](https://www.data.gov.bh/explore/dataset/geographical-locations-of-historical-sites/?flg=en-gb), source or indexed excerpt inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.bahrain.com/en/the-pearl-snorkelling-and-diving); source or indexed excerpt inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [BH/pearling-path-muharraq](../../../countries/BH/sights/pearling-path-muharraq.yaml) | 8.4 / 9.1 / 9.3 / 8.6 / 8.6 | Broader tangible built heritage, distinct land-based scope. |
+| [BH/bu-maher-fort](../../../countries/BH/sights/bu-maher-fort.yaml) | 7.2 / 7.6 / 8.2 / 7.4 / 6.4 | Historic departure setting rather than marine activity. |
+| [AE/snoopy-island-reef](../../../countries/AE/sights/snoopy-island-reef.yaml) | 8.4 / 8.4 / 7.7 / 8.6 / 7.8 | Different wildlife and reef snorkelling focus. |
+| [QA/al-thakhira-mangrove-reserve](../../../countries/QA/sights/al-thakhira-mangrove-reserve.yaml) | 8.0 / 8.2 / 8.5 / 8.3 / 7.8 | Different guided marine nature experience. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.1 | Distinct hands-on marine heritage experience. |
+| Uniqueness | 9.0 | Direct participation in traditional pearling. |
+| Significance | 8.8 | Strong regional maritime heritage connection. |
+| Experience | 8.5 | Guided excursion with conditions and eligibility limits. |
+| Depth | 7.9 | Focused activity rather than full heritage trail. |
+
+- Applicable categories: culture:9.1, history:9.0, adventure:8.9.
+- Computed worldwide overall: 85.05/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-bh-al-dar-islands — Al Dar Islands — 2026-11-26
+
+- YAML: [source](../../../countries/BH/sights/al-dar-islands.yaml)
+- Action: new
+- Precise subject and limitations: Boat-access island beach and permitted lagoon recreation; excludes overnight accommodation and separate pearl-diving tours. Operator describes artificial snorkelling reef, not pristine natural reef; crossing and activities depend on weather.
+- Location check: 26.12953946, 50.65780777; [representative point source](https://www.data.gov.bh/explore/dataset/geographical-locations-of-landmarks/), source or indexed excerpt inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.aldarislands.com/welcome); source or indexed excerpt inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [BH/jarada-island-sandbar](../../../countries/BH/sights/jarada-island-sandbar.yaml) | 8.3 / 8.5 / 6.2 / 8.3 / 6.4 | More tidal and undeveloped sandbar experience. |
+| [BH/hawar-island-resort-shore](../../../countries/BH/sights/hawar-island-resort-shore.yaml) | 7.7 / 7.5 / 6.0 / 8.1 / 6.9 | Different and more remote resort shore. |
+| [QA/al-safliya-island](../../../countries/QA/sights/al-safliya-island.yaml) | 7.5 / 7.5 / 6.3 / 8.1 / 6.5 | Comparable nearby boat-access island. |
+| [AE/snoopy-island-reef](../../../countries/AE/sights/snoopy-island-reef.yaml) | 8.4 / 8.4 / 7.7 / 8.6 / 7.8 | Stronger natural reef focus. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.1 | Attractive island shore. |
+| Uniqueness | 8.0 | Compact island escape near Sitra. |
+| Significance | 6.8 | Mainly recreational significance. |
+| Experience | 8.5 | Beach and snorkelling under suitable conditions. |
+| Depth | 7.6 | Several activities but compact area. |
+
+- Applicable categories: beaches:8.8, relaxation:8.8, adventure:8.3.
+- Computed worldwide overall: 78.25/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-bh-al-riwaq-art-space — Al Riwaq Art Space — 2026-11-26
+
+- YAML: [source](../../../countries/BH/sights/al-riwaq-art-space.yaml)
+- Action: new
+- Precise subject and limitations: Contemporary art exhibitions, public programmes and historic Bank House in Al Gufool; relocated in 2022 (https://www.alriwaqartspace.com/pages/about). Excludes ordinary café or retail activity. Exhibition schedule changes; public rotating artworks documented even outside particular exhibitions.
+- Location check: 26.22329, 50.56619; [representative point source](https://mapcarta.com/W1114705723), source or indexed excerpt inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.alriwaqartspace.com/pages/your-visit); source or indexed excerpt inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [QA/fire-station-artist-in-residence](../../../countries/QA/sights/fire-station-artist-in-residence.yaml) | 7.3 / 7.7 / 7.5 / 7.8 / 7.4 | Similar contemporary arts programme. |
+| [QA/mathaf-arab-museum-of-modern-art](../../../countries/QA/sights/mathaf-arab-museum-of-modern-art.yaml) | 8.3 / 8.8 / 8.9 / 8.4 / 8.3 | Much broader museum collection. |
+| [BH/bahrain-national-museum](../../../countries/BH/sights/bahrain-national-museum.yaml) | 8.3 / 8.4 / 8.9 / 8.6 / 8.5 | Broader national historic narrative. |
+| [AE/teamlab-phenomena-abu-dhabi](../../../countries/AE/sights/teamlab-phenomena-abu-dhabi.yaml) | 8.9 / 9.0 / 7.8 / 9.0 / 8.7 | Different immersive digital art experience. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 7.6 | Historic building and contemporary displays. |
+| Uniqueness | 8.4 | Nonprofit regional arts campus. |
+| Significance | 8.2 | Established regional contemporary art institution. |
+| Experience | 8.3 | Public exhibitions and workshops. |
+| Depth | 7.9 | Several cultural spaces, rotating content. |
+
+- Applicable categories: culture:8.9, architecture:8.3.
+- Computed worldwide overall: 80.55/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-bh-la-fontaine-contemporary-art-centre — La Fontaine Centre of Contemporary Art — 2026-11-26
+
+- YAML: [source](../../../countries/BH/sights/la-fontaine-contemporary-art-centre.yaml)
+- Action: new
+- Precise subject and limitations: Historic courtyard building and art programme, not restaurant or spa. Mapcarta classifies the co-located restaurant, so point is venue representative rather than gallery entrance. Tourism board confirms architectural and arts significance. Specific current exhibition and independent gallery access not guaranteed.
+- Location check: 26.23263, 50.58519; [representative point source](https://mapcarta.com/N7485660533), source or indexed excerpt inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.bahrain.com/en/la-fontaine); source or indexed excerpt inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [BH/shaikh-isa-bin-ali-house](../../../countries/BH/sights/shaikh-isa-bin-ali-house.yaml) | 8.0 / 8.3 / 8.4 / 8.1 / 7.6 | Stronger historic domestic heritage. |
+| [BH/al-jasra-house](../../../countries/BH/sights/al-jasra-house.yaml) | 7.3 / 7.8 / 8.0 / 7.6 / 6.8 | Different historic house experience. |
+| [QA/fire-station-artist-in-residence](../../../countries/QA/sights/fire-station-artist-in-residence.yaml) | 7.3 / 7.7 / 7.5 / 7.8 / 7.4 | Larger contemporary art programme. |
+| [AE/al-fahidi-historical-neighbourhood](../../../countries/AE/sights/al-fahidi-historical-neighbourhood.yaml) | 8.2 / 8.5 / 8.2 / 8.5 / 7.8 | Broader historic district. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 7.9 | Restored traditional courtyard architecture. |
+| Uniqueness | 8.4 | Distinct historic building with contemporary art. |
+| Significance | 7.8 | Regional architectural and arts significance. |
+| Experience | 8.1 | Focused cultural visit, programme dependent. |
+| Depth | 7.3 | Compact complex. |
+
+- Applicable categories: architecture:8.8, culture:8.5, photography:8.5.
+- Computed worldwide overall: 79.75/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.

@@ -1,0 +1,16 @@
+id: sight-es-reina-sofia-museum
+name: "Reina Sofía Museum"
+location:
+  country_code: ES
+  latitude: 40.40805
+  longitude: -3.6946
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 9.0
+  depth: 9.1
+  categories:
+    culture: 9.4
+    history: 9.2
+    architecture: 8.5

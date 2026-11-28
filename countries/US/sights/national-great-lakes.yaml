@@ -1,0 +1,16 @@
+id: sight-us-national-great-lakes
+name: "National Museum of the Great Lakes Toledo"
+location:
+  country_code: US
+  latitude: 41.649
+  longitude: -83.515
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.9
+  depth: 8.8
+  categories:
+    history: 9.2
+    culture: 9.0
+    family: 9.0

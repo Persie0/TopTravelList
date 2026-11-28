@@ -1,0 +1,16 @@
+id: sight-au-australian-maritime-museum
+name: "Australian National Maritime Museum Sydney"
+location:
+  country_code: AU
+  latitude: -33.869
+  longitude: 151.199
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 9.1
+  depth: 9.2
+  categories:
+    history: 9.3
+    culture: 9.2
+    family: 9.3

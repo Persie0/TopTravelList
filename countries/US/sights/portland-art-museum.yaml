@@ -1,0 +1,16 @@
+id: sight-us-portland-art-museum
+name: "Portland Art Museum Oregon"
+location:
+  country_code: US
+  latitude: 45.516
+  longitude: -122.683
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.9
+  depth: 9.1
+  categories:
+    culture: 9.3
+    history: 9.2
+    architecture: 8.9

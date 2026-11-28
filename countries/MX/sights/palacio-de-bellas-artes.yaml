@@ -1,0 +1,16 @@
+id: sight-mx-palacio-de-bellas-artes
+name: "Palacio de Bellas Artes (Museum and architecture)"
+location:
+  country_code: MX
+  latitude: 19.43547
+  longitude: -99.14128
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 8.8
+  depth: 8.5
+  categories:
+    architecture: 9.3
+    culture: 9.4
+    history: 9.1

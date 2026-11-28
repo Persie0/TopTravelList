@@ -1,0 +1,16 @@
+id: sight-au-qagoma
+name: "Queensland Art Gallery and Gallery of Modern Art Brisbane"
+location:
+  country_code: AU
+  latitude: -27.471
+  longitude: 153.017
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 9.1
+  depth: 9.3
+  categories:
+    culture: 9.4
+    architecture: 9.2
+    history: 9.1

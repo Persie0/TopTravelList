@@ -1,0 +1,16 @@
+id: sight-ca-churchill-polar-bears
+name: "Churchill Wildlife Management Area Guided Polar Bear Viewing"
+location:
+  country_code: CA
+  latitude: 58.68
+  longitude: -93.65
+scores:
+  impact: 9.6
+  uniqueness: 9.6
+  significance: 9.2
+  experience: 9.4
+  depth: 9.2
+  categories:
+    wildlife: 9.6
+    nature: 9.5
+    photography: 9.5

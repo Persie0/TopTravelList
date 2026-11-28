@@ -1,0 +1,16 @@
+id: sight-us-vicksburg
+name: "Vicksburg National Military Park Battlefield and USS Cairo Museum"
+location:
+  country_code: US
+  latitude: 32.347
+  longitude: -90.851
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 9.4
+  experience: 8.9
+  depth: 9.2
+  categories:
+    history: 9.4
+    culture: 9.1
+    photography: 8.9

@@ -1,0 +1,15 @@
+id: sight-fr-saint-die-cathedral
+name: "Saint-Dié-des-Vosges Cathedral and Cloister"
+location:
+  country_code: FR
+  latitude: 48.286
+  longitude: 6.949
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.7
+  depth: 8.6
+  categories:
+    architecture: 9.3
+    history: 9.2

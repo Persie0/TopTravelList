@@ -1,0 +1,16 @@
+id: sight-us-st-louis-city-museum
+name: "City Museum St Louis"
+location:
+  country_code: US
+  latitude: 38.6336
+  longitude: -90.2003
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 8.3
+  experience: 9.3
+  depth: 8.8
+  categories:
+    family: 9.4
+    adventure: 9.3
+    architecture: 9.2

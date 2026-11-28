@@ -1,0 +1,16 @@
+id: sight-au-kiama-blowhole
+name: "Kiama Blowhole and Coastal Viewpoints"
+location:
+  country_code: AU
+  latitude: -34.672
+  longitude: 150.865
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.2
+  experience: 8.7
+  depth: 8.3
+  categories:
+    nature: 9.2
+    photography: 9.3
+    family: 9.0

@@ -1,0 +1,16 @@
+id: sight-us-oregon-museum-science
+name: "Oregon Museum of Science and Industry Portland"
+location:
+  country_code: US
+  latitude: 45.508
+  longitude: -122.665
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 9.1
+  depth: 9.0
+  categories:
+    family: 9.3
+    history: 9.0
+    culture: 8.9

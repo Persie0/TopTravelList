@@ -1,0 +1,16 @@
+id: sight-fr-aquarium-biarritz
+name: "Aquarium de Biarritz Marine Discovery Museum"
+location:
+  country_code: FR
+  latitude: 43.483
+  longitude: -1.569
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.3
+  experience: 8.9
+  depth: 8.8
+  categories:
+    family: 9.3
+    wildlife: 9.1
+    nature: 9.0

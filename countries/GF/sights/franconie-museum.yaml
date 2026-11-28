@@ -1,0 +1,16 @@
+id: sight-gf-franconie-museum
+name: "Musée Alexandre Franconie Cayenne Natural and Cultural History"
+location:
+  country_code: GF
+  latitude: 4.93829
+  longitude: -52.33443
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.6
+  depth: 8.8
+  categories:
+    culture: 9.3
+    history: 9.3
+    nature: 9.2

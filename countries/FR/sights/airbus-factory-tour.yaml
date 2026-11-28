@@ -1,0 +1,16 @@
+id: sight-fr-airbus-factory-tour
+name: "Airbus Toulouse Aircraft Assembly Guided Tour"
+location:
+  country_code: FR
+  latitude: 43.655
+  longitude: 1.367
+scores:
+  impact: 8.9
+  uniqueness: 9.4
+  significance: 9.0
+  experience: 8.8
+  depth: 8.5
+  categories:
+    culture: 9.2
+    history: 9.1
+    family: 8.9

@@ -1,0 +1,16 @@
+id: sight-kr-leeum-museum-of-art
+name: "Leeum Museum of Art"
+location:
+  country_code: KR
+  latitude: 37.53833
+  longitude: 126.99902
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.9
+  depth: 8.8
+  categories:
+    culture: 9.2
+    history: 8.8
+    architecture: 8.8

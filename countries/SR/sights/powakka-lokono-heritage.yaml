@@ -1,0 +1,16 @@
+id: sight-sr-powakka-lokono-heritage
+name: "Powakka Lokono Community Guided Cultural Heritage"
+location:
+  country_code: SR
+  latitude: 5.42
+  longitude: -55.15
+scores:
+  impact: 8.2
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 8.4
+  depth: 8.5
+  categories:
+    culture: 9.3
+    history: 9.0
+    nature: 8.9

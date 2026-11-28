@@ -1,0 +1,16 @@
+id: sight-au-immigration-museum-melbourne
+name: "Immigration Museum Melbourne Old Customs House"
+location:
+  country_code: AU
+  latitude: -37.819
+  longitude: 144.961
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.8
+  depth: 8.8
+  categories:
+    history: 9.2
+    culture: 9.3
+    architecture: 9.0

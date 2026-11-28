@@ -1,0 +1,16 @@
+id: sight-nc-prony-needle
+name: "Aiguille de Prony Hydrothermal Chimney Scuba Diving"
+location:
+  country_code: NC
+  latitude: -22.35
+  longitude: 166.82
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 9.1
+  depth: 9.0
+  categories:
+    adventure: 9.4
+    nature: 9.4
+    wildlife: 9.3

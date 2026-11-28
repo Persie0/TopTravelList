@@ -1,0 +1,16 @@
+id: sight-nz-northern-explorer
+name: "Northern Explorer Scenic Railway Auckland to Wellington"
+location:
+  country_code: NZ
+  latitude: -39.17
+  longitude: 175.4
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 9.0
+  depth: 9.1
+  categories:
+    nature: 9.2
+    photography: 9.3
+    history: 9.2

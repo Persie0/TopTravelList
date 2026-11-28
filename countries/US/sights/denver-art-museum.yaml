@@ -1,0 +1,16 @@
+id: sight-us-denver-art-museum
+name: "Denver Art Museum"
+location:
+  country_code: US
+  latitude: 39.737
+  longitude: -104.989
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.8
+  depth: 9.1
+  categories:
+    culture: 9.3
+    architecture: 9.2
+    history: 9.0

@@ -1,0 +1,16 @@
+id: sight-us-hersheypark
+name: "Hersheypark Pennsylvania"
+location:
+  country_code: US
+  latitude: 40.288
+  longitude: -76.654
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 9.2
+  depth: 8.9
+  categories:
+    family: 9.3
+    adventure: 9.3
+    culture: 8.7

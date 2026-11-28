@@ -1,0 +1,16 @@
+id: sight-us-kachemak-bay
+name: "Kachemak Bay State Park Coastal Wilderness and Kayaking"
+location:
+  country_code: US
+  latitude: 59.58
+  longitude: -151.24
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.6
+  experience: 9.0
+  depth: 8.8
+  categories:
+    nature: 9.3
+    wildlife: 9.3
+    adventure: 9.3

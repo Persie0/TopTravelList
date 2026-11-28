@@ -1,0 +1,16 @@
+id: sight-fr-grasse-perfume-museum
+name: "Musée International de la Parfumerie Grasse"
+location:
+  country_code: FR
+  latitude: 43.658
+  longitude: 6.922
+scores:
+  impact: 8.9
+  uniqueness: 9.4
+  significance: 9.1
+  experience: 9.1
+  depth: 9.1
+  categories:
+    culture: 9.4
+    history: 9.3
+    family: 9.1

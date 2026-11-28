@@ -1281,3 +1281,1034 @@
 | [Phat Diem Stone Cathedral](../../../countries/VN/sights/phat-diem-cathedral.yaml) | 8.6 / 9.3 / 9.0 / 8.9 / 8.4 | 88.80/100 | Strong fusion architecture with a broader compound. |
 | [St. Peter's Abbey Salzburg](../../../countries/AT/sights/st-peters-abbey-salzburg.yaml) | 8.1 / 8.5 / 9.1 / 8.2 / 7.8 | 83.85/100 | Smaller historic sacred experience, different engineering contribution. |
 
+
+
+## sight-uy-montevideo-carnival — Montevideo Carnival Tablados and Official Stage Competition — 2026-11-27
+
+- YAML: [source](../../../countries/UY/sights/montevideo-carnival.yaml)
+- Action: new
+- Scope: Municipality documents official competition and neighborhood stages, including distinct performance traditions. Scope stage shows and opening parade, excludes separate Llamadas parade; no guarantee of particular performances. Uniqueness 9.5 and culture 9.5 justified by sustained distinctive multi-category stage traditions across neighborhoods, no perfect score.
+- Representative coordinates: -34.916, -56.167; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.4 / 9.5 / 9.4 / 9.4 / 9.3.
+- Categories: culture:9.5 history:9.4 photography:9.4 nightlife:9.3.
+- Overall: 94.15/100.
+- Source: https://montevideo.gub.uy/area-tematica/cultura-y-tiempo-libre/carnaval-y-llamadas/concurso-oficial
+- Source: https://www.montevideo.gub.uy/noticias/el-carnaval-ya-tiene-fechas-0
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: documented distinct public experience, assess scale, significance and depth against regional peers; broader calibration pending. High dimension rationale in scope above.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/museo-del-carnaval](../../../countries/UY/sights/museo-del-carnaval.yaml) | 7.5 / 8.2 / 8.1 / 8.0 / 7.3 | impact: +1.9; uniqueness: +1.3 vs peer |
+| [UY/teatro-solis](../../../countries/UY/sights/teatro-solis.yaml) | 8.2 / 7.9 / 8.6 / 8.4 / 7.5 | impact: +1.2; uniqueness: +1.6 vs peer |
+| [BO/oruro-carnival](../../../countries/BO/sights/oruro-carnival.yaml) | 9.6 / 9.5 / 9.5 / 9.4 / 9.2 | impact: -0.2; uniqueness: +0.0 vs peer |
+| [PY/encarnacion-carnival](../../../countries/PY/sights/encarnacion-carnival.yaml) | 9.2 / 9.0 / 9.1 / 9.3 / 9.0 | impact: +0.2; uniqueness: +0.5 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-uy-montevideo-llamadas — Montevideo Candombe Desfile de Llamadas Public Parade — 2026-11-27
+
+- YAML: [source](../../../countries/UY/sights/montevideo-llamadas.yaml)
+- Action: new
+- Scope: UNESCO inscribed Candombe community practice in 2009; municipality identifies Llamadas as prominent public manifestation, 2027 scheduled February 5–6. Parade only, no private gatherings or separate rating for same parade within carnival itinerary. 9.5 uniqueness, significance and culture reflect distinct living Afro-Uruguayan drum traditions and internationally recognized community heritage; no perfect score.
+- Representative coordinates: -34.915, -56.18; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.4 / 9.5 / 9.5 / 9.3 / 9.1.
+- Categories: culture:9.5 history:9.4 photography:9.4.
+- Overall: 94.00/100.
+- Source: https://ich.unesco.org/en/RL/candombe-and-its-socio-cultural-space-a-community-practice-00182
+- Source: https://montevideo.gub.uy/noticias/desfile-de-llamadas-2026
+- Source: https://www.montevideo.gub.uy/noticias/el-carnaval-ya-tiene-fechas-0
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: documented distinct public experience, assess scale, significance and depth against regional peers; broader calibration pending. High dimension rationale in scope above.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/museo-del-carnaval](../../../countries/UY/sights/museo-del-carnaval.yaml) | 7.5 / 8.2 / 8.1 / 8.0 / 7.3 | impact: +1.9; uniqueness: +1.3 vs peer |
+| [UY/ciudad-vieja-montevideo](../../../countries/UY/sights/ciudad-vieja-montevideo.yaml) | 8.2 / 8.2 / 8.6 / 8.5 / 8.4 | impact: +1.2; uniqueness: +1.3 vs peer |
+| [PY/kamba-kua-san-baltasar](../../../countries/PY/sights/kamba-kua-san-baltasar.yaml) | 9.0 / 9.4 / 9.4 / 9.0 / 9.0 | impact: +0.4; uniqueness: +0.1 vs peer |
+| [EC/esmeraldas-marimba](../../../countries/EC/sights/esmeraldas-marimba.yaml) | 8.8 / 9.2 / 9.4 / 8.7 / 8.8 | impact: +0.6; uniqueness: +0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-uy-montevideo-tango-milongas — Montevideo Public Tango Milongas and Dance Heritage Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/UY/sights/montevideo-tango-milongas.yaml)
+- Action: new
+- Scope: Municipal tourism lists public milongas and classes; UNESCO tango inscription shared with Argentina since 2009; scope consenting public dance and performances, not claim of exclusive national origin or guaranteed venue hours.
+- Representative coordinates: -34.905, -56.19; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.4 / 9.3 / 9.1.
+- Categories: culture:9.4 history:9.3 nightlife:9.3.
+- Overall: 92.40/100.
+- Source: https://www.descubrimontevideo.uy/tango-milongas
+- Source: https://ich.unesco.org/en/RL/tango-00258
+- Source: https://montevideo.gub.uy/noticias/proyectos-seleccionados-de-la-convocatoria-de-tango
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: documented distinct public experience, assess scale, significance and depth against regional peers; broader calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/teatro-solis](../../../countries/UY/sights/teatro-solis.yaml) | 8.2 / 7.9 / 8.6 / 8.4 / 7.5 | impact: +0.9; uniqueness: +1.4 vs peer |
+| [UY/ciudad-vieja-montevideo](../../../countries/UY/sights/ciudad-vieja-montevideo.yaml) | 8.2 / 8.2 / 8.6 / 8.5 / 8.4 | impact: +0.9; uniqueness: +1.1 vs peer |
+| [PY/asuncion-guarania-week](../../../countries/PY/sights/asuncion-guarania-week.yaml) | 9.0 / 9.3 / 9.4 / 9.1 / 9.2 | impact: +0.1; uniqueness: +0.0 vs peer |
+| [PY/asuncion-world-harp-festival](../../../countries/PY/sights/asuncion-world-harp-festival.yaml) | 9.1 / 9.3 / 9.2 / 9.2 / 9.1 | impact: +0.0; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-uy-tacuarembo-patria-gaucha — Tacuarembó Fiesta de la Patria Gaucha Public Heritage and Music Programme — 2026-11-27
+
+- YAML: [source](../../../countries/UY/sights/tacuarembo-patria-gaucha.yaml)
+- Action: new
+- Scope: Tourism ministry describes living gaucho heritage celebration; municipality announces 40th edition February 27–March 7 2027. Public music, crafts and historical recreation only; animal handling and rodeo events excluded from assessed experience.
+- Representative coordinates: -31.71, -55.98; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.2 / 9.2 / 9.3 / 9.2 / 9.2.
+- Categories: culture:9.4 history:9.4 photography:9.3.
+- Overall: 92.20/100.
+- Source: https://www.gub.uy/ministerio-turismo/comunicacion/noticias/lanzamiento-39a-edicion-fiesta-patria-gaucha
+- Source: https://tacuarembo.gub.uy/?p=37367
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: documented distinct public experience, assess scale, significance and depth against regional peers; broader calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/meseta-de-artigas](../../../countries/UY/sights/meseta-de-artigas.yaml) | 7.5 / 7.6 / 8.2 / 7.7 / 6.8 | impact: +1.7; uniqueness: +1.6 vs peer |
+| [UY/fray-bentos-industrial-landscape](../../../countries/UY/sights/fray-bentos-industrial-landscape.yaml) | 8.3 / 9.2 / 9.3 / 8.4 / 8.7 | impact: +0.9; uniqueness: +0.0 vs peer |
+| [EC/machachi-chagra-parade](../../../countries/EC/sights/machachi-chagra-parade.yaml) | 9.0 / 9.2 / 9.2 / 9.1 / 9.0 | impact: +0.2; uniqueness: +0.0 vs peer |
+| [PY/piribebuy-poncho-festival](../../../countries/PY/sights/piribebuy-poncho-festival.yaml) | 8.9 / 9.4 / 9.4 / 9.0 / 9.0 | impact: +0.3; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-uy-montevideo-clasico-football — Montevideo Nacional Peñarol Clásico Football Spectator Experience — 2026-11-27
+
+- YAML: [source](../../../countries/UY/sights/montevideo-clasico-football.yaml)
+- Action: new
+- Scope: Historical sporting rivalry dating to early twentieth century; exact founding continuity disputed, do not claim uncontested oldest derby. Ticketed spectator experience, not fixed venue or future fixture, safety and ticket availability unverified. Separate from Centenario museum.
+- Representative coordinates: -34.88, -56.16; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.2 / 9.1 / 9.3 / 9.1 / 9.0.
+- Categories: culture:9.4 history:9.3 photography:9.1.
+- Overall: 91.60/100.
+- Source: https://www.rsssf.org/tablesu/uru-derbies.html
+- Source: https://www.fourfourtwo.com/features/fourfourtwos-50-biggest-derbies-world-no4-nacional-vs-penarol
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: documented distinct public experience, assess scale, significance and depth against regional peers; broader calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/estadio-centenario-and-football-museum](../../../countries/UY/sights/estadio-centenario-and-football-museum.yaml) | 7.9 / 8.8 / 9.2 / 8.2 / 7.5 | impact: +1.3; uniqueness: +0.3 vs peer |
+| [UY/penarol-historic-railway-district](../../../countries/UY/sights/penarol-historic-railway-district.yaml) | 7.2 / 8.3 / 8.3 / 7.5 / 7.5 | impact: +2.0; uniqueness: +0.8 vs peer |
+| [PY/itapua-wrc-rally](../../../countries/PY/sights/itapua-wrc-rally.yaml) | 9.2 / 9.1 / 9.3 / 9.3 / 9.0 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [BO/el-alto-cholitas-wrestling](../../../countries/BO/sights/el-alto-cholitas-wrestling.yaml) | 8.9 / 9.4 / 8.8 / 9.2 / 8.7 | impact: +0.3; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-uy-durazno-folklore-festival — Durazno National and International Folklore Festival — 2026-11-27
+
+- YAML: [source](../../../countries/UY/sights/durazno-folklore-festival.yaml)
+- Action: new
+- Scope: Official department announces 53rd edition February 5–7 2027; embassy records festival since 1973. Public music and dance programme only, no future artist lineup guarantee.
+- Representative coordinates: -33.39, -56.52; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.0 / 9.2 / 9.2 / 9.1.
+- Categories: culture:9.4 history:9.2 photography:9.0.
+- Overall: 90.80/100.
+- Source: https://durazno.uy/noticias/abren-las-inscripciones-para-las-preclasificatorias-del-53-o-festival-nacional-e-internacional-de-folclore-de-durazno
+- Source: https://www.embajadadeuruguay.org/pages/departamentos/durazno/cultura.php
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: documented distinct public experience, assess scale, significance and depth against regional peers; broader calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/teatro-solis](../../../countries/UY/sights/teatro-solis.yaml) | 8.2 / 7.9 / 8.6 / 8.4 / 7.5 | impact: +0.8; uniqueness: +1.1 vs peer |
+| [UY/museo-del-carnaval](../../../countries/UY/sights/museo-del-carnaval.yaml) | 7.5 / 8.2 / 8.1 / 8.0 / 7.3 | impact: +1.5; uniqueness: +0.8 vs peer |
+| [BO/aiquile-charango-festival](../../../countries/BO/sights/aiquile-charango-festival.yaml) | 9.1 / 9.4 / 9.3 / 9.1 / 9.2 | impact: -0.1; uniqueness: -0.4 vs peer |
+| [PY/ypacarai-lake-festival](../../../countries/PY/sights/ypacarai-lake-festival.yaml) | 9.0 / 9.1 / 9.2 / 9.0 / 9.0 | impact: +0.0; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-uy-rocha-whale-watching — Rocha Southern Right Whale Shore Watching Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/UY/sights/rocha-whale-watching.yaml)
+- Action: new
+- Scope: Rocha tourism documents seasonal southern right whales along coast; scope shore-based observation from authorized public viewpoints, grouped rather than every beach; no guaranteed sightings or boat approach. La Paloma reference.
+- Representative coordinates: -34.66, -54.16; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.0 / 8.9 / 8.8 / 8.6.
+- Categories: wildlife:9.4 nature:9.2 photography:9.3.
+- Overall: 89.10/100.
+- Source: https://turismorocha.gub.uy/en/attractions/adventures/whale-watching-on-the-beaches-of-rocha-to-the-east-of-uruguay
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/isla-de-lobos-marine-protected-area](../../../countries/UY/sights/isla-de-lobos-marine-protected-area.yaml) | 8.2 / 8.8 / 8.8 / 8.0 / 6.7 | impact: +0.8; uniqueness: +0.2 vs peer |
+| [UY/cerro-verde-and-la-coronilla-islands](../../../countries/UY/sights/cerro-verde-and-la-coronilla-islands.yaml) | 8.0 / 8.5 / 8.6 / 7.9 / 7.5 | impact: +1.0; uniqueness: +0.5 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-uy-paysandu-semana-cerveza — Paysandú Semana de la Cerveza Public Music and Artisan Festival — 2026-11-27
+
+- YAML: [source](../../../countries/UY/sights/paysandu-semana-cerveza.yaml)
+- Action: new
+- Scope: Tourism ministry documents 59th edition March 28–April 5 2026; music, crafts, food and family programming assessed, no alcohol consumption required.
+- Representative coordinates: -32.32, -58.09; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.9 / 8.7 / 8.8 / 9.1 / 8.8.
+- Categories: culture:9.2 food:9.1 nightlife:9.1.
+- Overall: 88.50/100.
+- Source: https://www.gub.uy/ministerio-turismo/comunicacion/noticias/lanzamiento-59a-semana-cerveza-paysandu
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/teatro-solis](../../../countries/UY/sights/teatro-solis.yaml) | 8.2 / 7.9 / 8.6 / 8.4 / 7.5 | impact: +0.7; uniqueness: +0.8 vs peer |
+| [UY/mercado-del-puerto](../../../countries/UY/sights/mercado-del-puerto.yaml) | 7.8 / 8.1 / 7.8 / 8.6 / 7.4 | impact: +1.1; uniqueness: +0.6 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-uy-paso-centurion-sierra-rios — Paso Centurión and Sierra de Ríos Protected Landscape Guided Nature Visits — 2026-11-27
+
+- YAML: [source](../../../countries/UY/sights/paso-centurion-sierra-rios.yaml)
+- Action: new
+- Scope: Environment ministry describes landscape and visitor suggestions; educational reserve visits by arrangement. Broad area point; no unrestricted access to private properties or wildlife guarantees.
+- Representative coordinates: -32.08, -53.76; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.6 / 8.8 / 8.9 / 8.4 / 8.7.
+- Categories: nature:9.2 wildlife:9.2 adventure:8.9.
+- Overall: 86.90/100.
+- Source: https://www.ambiente.gub.uy/oan/snap/paso-centurion-y-sierra-de-rios/
+- Source: https://biodiversidad.upm.uy/reservas/sierra-de-rios
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/valle-del-lunarejo](../../../countries/UY/sights/valle-del-lunarejo.yaml) | 8.3 / 8.4 / 8.5 / 8.4 / 8.2 | impact: +0.3; uniqueness: +0.4 vs peer |
+| [UY/quebrada-de-los-cuervos-and-sierras-del-yerbal](../../../countries/UY/sights/quebrada-de-los-cuervos-and-sierras-del-yerbal.yaml) | 8.4 / 8.4 / 8.5 / 8.5 / 8.3 | impact: +0.2; uniqueness: +0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-uy-piriapolis-waterfront — Piriápolis Historic Waterfront and Argentino Hotel Exterior — 2026-11-27
+
+- YAML: [source](../../../countries/UY/sights/piriapolis-waterfront.yaml)
+- Action: new
+- Scope: Desk-based public promenade and resort architecture, excludes Cerro San Antonio and Castillo de Piria; no hotel admission claim.
+- Representative coordinates: -34.87, -55.28; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.2 / 8.3 / 8.5 / 8.6 / 8.3.
+- Categories: architecture:9.0 photography:8.9 relaxation:9.0.
+- Overall: 83.55/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/cerro-san-antonio](../../../countries/UY/sights/cerro-san-antonio.yaml) | 7.9 / 7.4 / 6.5 / 8.1 / 6.7 | impact: +0.3; uniqueness: +0.9 vs peer |
+| [UY/montevideo-rambla](../../../countries/UY/sights/montevideo-rambla.yaml) | 8.4 / 8.7 / 7.9 / 8.9 / 8.7 | impact: -0.2; uniqueness: -0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-uy-punta-del-diablo — Punta del Diablo Fishing Village and Coastal Walks — 2026-11-27
+
+- YAML: [source](../../../countries/UY/sights/punta-del-diablo.yaml)
+- Action: new
+- Scope: Desk-based coastal village and public beaches; separate from Santa Teresa and Cabo Polonio, no swimming safety or commercial opening claim.
+- Representative coordinates: -34.045, -53.54; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.5 / 7.9 / 8.9 / 8.5.
+- Categories: beaches:9.2 photography:9.1 relaxation:9.1.
+- Overall: 84.70/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/cabo-polonio-national-park](../../../countries/UY/sights/cabo-polonio-national-park.yaml) | 8.9 / 8.9 / 8.6 / 8.8 / 8.4 | impact: -0.3; uniqueness: -0.4 vs peer |
+| [UY/playa-brava-and-la-mano](../../../countries/UY/sights/playa-brava-and-la-mano.yaml) | 8.0 / 8.0 / 6.5 / 8.3 / 7.4 | impact: +0.6; uniqueness: +0.5 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-uy-la-paloma-lighthouse-coast — La Paloma Cabo Santa María Lighthouse and Coastal Walk — 2026-11-27
+
+- YAML: [source](../../../countries/UY/sights/la-paloma-lighthouse-coast.yaml)
+- Action: new
+- Scope: Desk-based lighthouse exterior and coastal village walk, excludes seasonal whale watching as separately scoped experience; admission unverified.
+- Representative coordinates: -34.66, -54.15; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.2 / 8.3 / 8.2 / 8.6 / 8.2.
+- Categories: photography:9.0 beaches:8.9 history:8.7.
+- Overall: 82.85/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/colonia-lighthouse](../../../countries/UY/sights/colonia-lighthouse.yaml) | 7.6 / 7.4 / 7.6 / 7.8 / 6.5 | impact: +0.6; uniqueness: +0.9 vs peer |
+| [UY/punta-ballena-headland](../../../countries/UY/sights/punta-ballena-headland.yaml) | 8.2 / 7.6 / 6.6 / 8.2 / 6.8 | impact: +0.0; uniqueness: +0.7 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-uy-jose-ignacio-coastal-village — José Ignacio Coastal Village and Lighthouse Landscape — 2026-11-27
+
+- YAML: [source](../../../countries/UY/sights/jose-ignacio-coastal-village.yaml)
+- Action: new
+- Scope: Desk-based public coast and lighthouse exterior, distinct from Laguna Garzón and Punta del Este; no private property access, venue or swimming conditions guaranteed.
+- Representative coordinates: -34.84, -54.64; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.3 / 8.3 / 7.7 / 8.8 / 8.1.
+- Categories: photography:9.1 beaches:9.0 relaxation:9.1.
+- Overall: 82.35/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/punta-ballena-headland](../../../countries/UY/sights/punta-ballena-headland.yaml) | 8.2 / 7.6 / 6.6 / 8.2 / 6.8 | impact: +0.1; uniqueness: +0.7 vs peer |
+| [UY/laguna-garzon](../../../countries/UY/sights/laguna-garzon.yaml) | 8.0 / 8.3 / 8.3 / 8.1 / 7.9 | impact: +0.3; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+### Pass 293 scope decisions
+
+13 additions, 9 source-linked provisional, 4 desk-based provisional, 6 90+, 38 ranking-row comparisons (12 international). UY 74 ranked / 74 total, +13 since baseline 61. UNESCO official country page https://whc.unesco.org/en/statesparties/uy lists 3 inscribed, all already represented, and 6 tentative: Chamangá, Rambla, Peñarol and Isla de Flores direct existing matches; twentieth-century modern architecture partial existing coverage (Rambla and sports facilities, https://whc.unesco.org/en/tentativelists/5595/), Colonia bay and islands unresolved separate visitor scope (https://whc.unesco.org/en/tentativelists/2034/). No serial boundary verification. Carnival stage competition and Llamadas individually scoped, non-additive if bundled as one Carnival experience; tango shared intangible heritage, public consenting experiences only. Gaucho festival excludes animal handling/rodeo, Clásico spectator only; fixtures and safety unverified. Shore-based whale viewing only. Existing scores preserved. OPEN for further cultural programmes, protected areas and architecture. Coordinates approximate; future dates and permissions not guaranteed.
+
+
+## sight-uy-montevideo-noche-nostalgia — Montevideo Noche de la Nostalgia Public Retro Music and Dance Events — 2026-11-27
+
+- YAML: [source](../../../countries/UY/sights/montevideo-noche-nostalgia.yaml)
+- Action: new
+- Scope: Annual August 24 music and dance night; national tourism recognition and 2026 government public safety campaign confirm large public events. Montevideo public ticketed events only, no guaranteed venue, alcohol or future programme.
+- Representative coordinates: -34.905, -56.19; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.1 / 9.4 / 8.9.
+- Categories: nightlife:9.4 culture:9.3 photography:8.8.
+- Overall: 91.45/100.
+- Source: https://www.gub.uy/presidencia/comunicacion/noticias/noche-nostalgia-trabajo-interinstitucional-promovera-eventos-cuidados
+- Source: https://www.elpais.com.uy/informacion/servicios/cuando-es-la-noche-de-la-nostalgia-en-uruguay-que-dia-cae-la-celebracion-en-2026-y-la-historia-detras
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: distinct documented recurring public culture, scale and depth compared with peers below; wider calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/montevideo-tango-milongas](../../../countries/UY/sights/montevideo-tango-milongas.yaml) | 9.1 / 9.3 / 9.4 / 9.3 / 9.1 | impact: -0.1; uniqueness: +0.0 vs peer |
+| [UY/montevideo-carnival](../../../countries/UY/sights/montevideo-carnival.yaml) | 9.4 / 9.5 / 9.4 / 9.4 / 9.3 | impact: -0.4; uniqueness: -0.2 vs peer |
+| [PY/encarnacion-carnival](../../../countries/PY/sights/encarnacion-carnival.yaml) | 9.2 / 9.0 / 9.1 / 9.3 / 9.0 | impact: -0.2; uniqueness: +0.3 vs peer |
+| [BO/el-alto-cholitas-wrestling](../../../countries/BO/sights/el-alto-cholitas-wrestling.yaml) | 8.9 / 9.4 / 8.8 / 9.2 / 8.7 | impact: +0.1; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-uy-montevideo-semana-criolla — Montevideo Prado Semana Criolla Public Music and Gaucho Heritage Fair — 2026-11-27
+
+- YAML: [source](../../../countries/UY/sights/montevideo-semana-criolla.yaml)
+- Action: new
+- Scope: Municipality documents 99th edition in 2026, urban-rural heritage and public performances. Scope music, artisan fair and cultural interpretation; rodeo and animal handling excluded.
+- Representative coordinates: -34.857, -56.207; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.2 / 9.2 / 9.3 / 9.2 / 9.1.
+- Categories: culture:9.4 history:9.3 photography:9.2.
+- Overall: 92.10/100.
+- Source: https://www.montevideo.gub.uy/noticias/se-viene-la-99a-edicion-de-la-semana-criolla
+- Source: https://montevideo.gub.uy/area-tematica/cultura-y-tiempo-libre/semana-criolla
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: distinct documented recurring public culture, scale and depth compared with peers below; wider calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/tacuarembo-patria-gaucha](../../../countries/UY/sights/tacuarembo-patria-gaucha.yaml) | 9.2 / 9.2 / 9.3 / 9.2 / 9.2 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [UY/durazno-folklore-festival](../../../countries/UY/sights/durazno-folklore-festival.yaml) | 9.0 / 9.0 / 9.2 / 9.2 / 9.1 | impact: +0.2; uniqueness: +0.2 vs peer |
+| [EC/machachi-chagra-parade](../../../countries/EC/sights/machachi-chagra-parade.yaml) | 9.0 / 9.2 / 9.2 / 9.1 / 9.0 | impact: +0.2; uniqueness: +0.0 vs peer |
+| [BO/tarabuco-pujllay](../../../countries/BO/sights/tarabuco-pujllay.yaml) | 9.0 / 9.3 / 9.3 / 9.0 / 9.1 | impact: +0.2; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-uy-punta-del-este-jazz-festival — Punta del Este International Jazz Festival Public Concerts — 2026-11-27
+
+- YAML: [source](../../../countries/UY/sights/punta-del-este-jazz-festival.yaml)
+- Action: new
+- Scope: Presidency declares 30th and 31st editions of national interest; Maldonado council records January 4–11 2027 planned dates. Event area anchor, not exact venue; future programme unverified.
+- Representative coordinates: -34.84, -55.02; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.0 / 9.2 / 9.2 / 9.0.
+- Categories: culture:9.4 nightlife:9.1 history:9.0.
+- Overall: 90.70/100.
+- Source: https://www.gub.uy/presidencia/institucional/normativa/resolucion-sn026-se-declara-interes-nacional-realizacion-del-31-festival
+- Source: https://www.juntamaldonado.gub.uy/index.php/documentos/versiones-taquigraficas/versiones-2026/sesion-ordinaria-10-de-marzo-de-2026
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: distinct documented recurring public culture, scale and depth compared with peers below; wider calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/durazno-folklore-festival](../../../countries/UY/sights/durazno-folklore-festival.yaml) | 9.0 / 9.0 / 9.2 / 9.2 / 9.1 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [UY/teatro-solis](../../../countries/UY/sights/teatro-solis.yaml) | 8.2 / 7.9 / 8.6 / 8.4 / 7.5 | impact: +0.8; uniqueness: +1.1 vs peer |
+| [BO/chiquitos-baroque-festival](../../../countries/BO/sights/chiquitos-baroque-festival.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.3 | impact: -0.2; uniqueness: -0.4 vs peer |
+| [PY/asuncion-world-harp-festival](../../../countries/PY/sights/asuncion-world-harp-festival.yaml) | 9.1 / 9.3 / 9.2 / 9.2 / 9.1 | impact: -0.1; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-uy-minas-y-abril — Minas y Abril Public Folk Music and Heritage Festival — 2026-11-27
+
+- YAML: [source](../../../countries/UY/sights/minas-y-abril.yaml)
+- Action: new
+- Scope: Ministry of Education and Culture confirms 2026 festival held April 10–12, regional music and tradition; 39th edition. Public music and craft scope excludes rodeo and animal handling.
+- Representative coordinates: -34.38, -55.23; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.0 / 9.1 / 9.1 / 9.0.
+- Categories: culture:9.3 history:9.1 photography:9.0.
+- Overall: 90.35/100.
+- Source: https://www.gub.uy/ministerio-educacion-cultura/comunicacion/noticias/mahia-participo-del-festival-minas-abril-ceremonia-del-premio-nacional
+- Source: https://www.gub.uy/intendencia-lavalleja/institucional/normativa/resolucion-n-1017026
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: distinct documented recurring public culture, scale and depth compared with peers below; wider calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/durazno-folklore-festival](../../../countries/UY/sights/durazno-folklore-festival.yaml) | 9.0 / 9.0 / 9.2 / 9.2 / 9.1 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [UY/tacuarembo-patria-gaucha](../../../countries/UY/sights/tacuarembo-patria-gaucha.yaml) | 9.2 / 9.2 / 9.3 / 9.2 / 9.2 | impact: -0.2; uniqueness: -0.2 vs peer |
+| [PY/caazapa-ykua-bolanos-festival](../../../countries/PY/sights/caazapa-ykua-bolanos-festival.yaml) | 9.1 / 9.0 / 9.1 / 9.2 / 8.9 | impact: -0.1; uniqueness: +0.0 vs peer |
+| [BO/aiquile-charango-festival](../../../countries/BO/sights/aiquile-charango-festival.yaml) | 9.1 / 9.4 / 9.3 / 9.1 / 9.2 | impact: -0.1; uniqueness: -0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-uy-canelones-wine-heritage — Canelones Vineyard Heritage and Museo de la Uva y el Vino Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/UY/sights/canelones-wine-heritage.yaml)
+- Action: new
+- Scope: Departmental museum describes vineyard heritage and links to wineries; regional tourism routes connect visitor-facing wineries. Group public museum and arranged vineyard tours, no consumption required; seasonal Vendimia fair not separately rated yet.
+- Representative coordinates: -34.72, -56.24; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.8 / 8.9 / 9.0 / 8.9 / 9.0.
+- Categories: food:9.3 culture:9.2 history:9.1.
+- Overall: 89.00/100.
+- Source: https://www.imcanelones.gub.uy/disfrutamos/lugares/museo-uva-vino
+- Source: https://atccanelones.com.uy/rutas/
+- Source: https://www.inavi.com.uy/evento/vendimia-con-turismo-canelones/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/mercado-del-puerto](../../../countries/UY/sights/mercado-del-puerto.yaml) | 7.8 / 8.1 / 7.8 / 8.6 / 7.4 | impact: +1.0; uniqueness: +0.8 vs peer |
+| [UY/fray-bentos-industrial-landscape](../../../countries/UY/sights/fray-bentos-industrial-landscape.yaml) | 8.3 / 9.2 / 9.3 / 8.4 / 8.7 | impact: +0.5; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-uy-quebrada-de-laureles — Quebrada de Laureles and Cañas Guided Nature Walks — 2026-11-27
+
+- YAML: [source](../../../countries/UY/sights/quebrada-de-laureles.yaml)
+- Action: new
+- Scope: Tourism ministry and Tacuarembó tourism identify Bichadero guided walks in northern ravines. Distinct from Lunarejo, group neighboring ravines rather than duplicate; broad locality reference and permissions unverified.
+- Representative coordinates: -31.3, -55.96; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.7 / 8.7 / 8.8.
+- Categories: nature:9.3 photography:9.2 adventure:9.0 wildlife:9.1.
+- Overall: 87.90/100.
+- Source: https://uruguaynatural.com/es/experiences/quebrada-de-laureles/
+- Source: https://www.tacuaremboturismo.gub.uy/operadores/establecimiento-bichadero-2/
+- Source: https://ppduruguay.undp.org.uy/portfolio-items/consolidando-el-corredor-turistico-de-las-quebradas-del-norte-de-tacuarembo/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/valle-del-lunarejo](../../../countries/UY/sights/valle-del-lunarejo.yaml) | 8.3 / 8.4 / 8.5 / 8.4 / 8.2 | impact: +0.5; uniqueness: +0.5 vs peer |
+| [UY/quebrada-de-los-cuervos-and-sierras-del-yerbal](../../../countries/UY/sights/quebrada-de-los-cuervos-and-sierras-del-yerbal.yaml) | 8.4 / 8.4 / 8.5 / 8.5 / 8.3 | impact: +0.4; uniqueness: +0.5 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-uy-montevideo-casa-vilamajo — Montevideo Museo Casa Vilamajó Modern Architecture — 2026-11-27
+
+- YAML: [source](../../../countries/UY/sights/montevideo-casa-vilamajo.yaml)
+- Action: new
+- Scope: University faculty documents guided house museum; architect named in UNESCO modern architecture tentative dossier, no individually inscribed status claimed. Public museum only, reservations unverified.
+- Representative coordinates: -34.912, -56.164; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.4 / 8.9 / 9.1 / 8.5 / 8.4.
+- Categories: architecture:9.4 history:9.0 culture:9.0.
+- Overall: 86.80/100.
+- Source: https://www.fadu.edu.uy/museo-casa-vilamajo/
+- Source: https://www.descubrimontevideo.uy/museo-casa-vilamajo
+- Source: https://whc.unesco.org/en/tentativelists/5595/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/church-of-atlantida-eladio-dieste](../../../countries/UY/sights/church-of-atlantida-eladio-dieste.yaml) | 8.5 / 9.4 / 9.1 / 8.1 / 6.6 | impact: -0.1; uniqueness: -0.5 vs peer |
+| [UY/palacio-salvo](../../../countries/UY/sights/palacio-salvo.yaml) | 8.3 / 8.5 / 8.5 / 8.0 / 7.1 | impact: +0.1; uniqueness: +0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-uy-montevideo-casa-cravotto — Montevideo Casa Cravotto Architecture Heritage Centre — 2026-11-27
+
+- YAML: [source](../../../countries/UY/sights/montevideo-casa-cravotto.yaml)
+- Action: new
+- Scope: University identifies separate heritage house managed by architecture faculty; tentative dossier names architect. Current public programme and exact location unverified; authorized visits only.
+- Representative coordinates: -34.91, -56.16; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.1 / 8.7 / 8.9 / 8.2 / 8.3.
+- Categories: architecture:9.3 history:9.0 culture:8.9.
+- Overall: 84.45/100.
+- Source: https://www.fadu.edu.uy/museos/
+- Source: https://whc.unesco.org/en/tentativelists/5595/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/church-of-atlantida-eladio-dieste](../../../countries/UY/sights/church-of-atlantida-eladio-dieste.yaml) | 8.5 / 9.4 / 9.1 / 8.1 / 6.6 | impact: -0.4; uniqueness: -0.7 vs peer |
+| [UY/palacio-taranco-museum](../../../countries/UY/sights/palacio-taranco-museum.yaml) | 7.6 / 7.7 / 7.9 / 7.8 / 7.3 | impact: +0.5; uniqueness: +1.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-uy-semana-lavalleja — Minas and Lavalleja Semana de Lavalleja Public Cultural Festival — 2026-11-27
+
+- YAML: [source](../../../countries/UY/sights/semana-lavalleja.yaml)
+- Action: new
+- Scope: Tourism ministry announces 53rd edition October 2026 across department. Group programme around Minas; distinct dates and programme from Minas y Abril.
+- Representative coordinates: -34.38, -55.24; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.8 / 8.9 / 8.8.
+- Categories: culture:9.2 history:9.0 photography:8.9.
+- Overall: 87.60/100.
+- Source: https://www.gub.uy/ministerio-turismo/comunicacion/noticias/semana-lavalleja-vuelve-convocar-pais-propuesta-celebra-identidad-sus-pueblos
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/durazno-folklore-festival](../../../countries/UY/sights/durazno-folklore-festival.yaml) | 9.0 / 9.0 / 9.2 / 9.2 / 9.1 | impact: -0.3; uniqueness: -0.3 vs peer |
+| [UY/paysandu-semana-cerveza](../../../countries/UY/sights/paysandu-semana-cerveza.yaml) | 8.9 / 8.7 / 8.8 / 9.1 / 8.8 | impact: -0.2; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-uy-montevideo-museo-blanes — Montevideo Juan Manuel Blanes Museum and Japanese Garden — 2026-11-27
+
+- YAML: [source](../../../countries/UY/sights/montevideo-museo-blanes.yaml)
+- Action: new
+- Scope: Desk-based grouped art museum, grounds and garden, distinct from botanical garden; verify opening and exhibitions.
+- Representative coordinates: -34.857, -56.203; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.2 / 8.4 / 8.8 / 8.5 / 8.5.
+- Categories: culture:9.2 architecture:9.0 photography:9.0.
+- Overall: 84.45/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/national-museum-of-visual-arts](../../../countries/UY/sights/national-museum-of-visual-arts.yaml) | 7.7 / 7.7 / 8.0 / 8.0 / 7.9 | impact: +0.5; uniqueness: +0.7 vs peer |
+| [UY/jardin-botanico-de-montevideo](../../../countries/UY/sights/jardin-botanico-de-montevideo.yaml) | 7.0 / 6.8 / 6.8 / 7.6 / 7.3 | impact: +1.2; uniqueness: +1.6 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-uy-cerro-pan-de-azucar — Cerro Pan de Azúcar Hill and Authorized Hiking Routes — 2026-11-27
+
+- YAML: [source](../../../countries/UY/sights/cerro-pan-de-azucar.yaml)
+- Action: new
+- Scope: Desk-based hill trail and views; excludes captive wildlife facility, summit permissions and conditions unverified.
+- Representative coordinates: -34.81, -55.27; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.3 / 7.9 / 8.6 / 8.2.
+- Categories: nature:9.0 adventure:9.1 photography:9.2.
+- Overall: 83.45/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/cerro-arequita](../../../countries/UY/sights/cerro-arequita.yaml) | 8.0 / 8.1 / 7.6 / 8.2 / 7.5 | impact: +0.6; uniqueness: +0.2 vs peer |
+| [UY/cerro-san-antonio](../../../countries/UY/sights/cerro-san-antonio.yaml) | 7.9 / 7.4 / 6.5 / 8.1 / 6.7 | impact: +0.7; uniqueness: +0.9 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-uy-valle-eden — Valle Edén Railway Heritage and Rural Landscape — 2026-11-27
+
+- YAML: [source](../../../countries/UY/sights/valle-eden.yaml)
+- Action: new
+- Scope: Tourism department lists railway tunnel area and rural itinerary. Public heritage walks only, no active track or tunnel entry, no claims about disputed Gardel birthplace.
+- Representative coordinates: -31.81, -56.14; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.2 / 8.6 / 8.6 / 8.4 / 8.5.
+- Categories: history:9.1 culture:9.0 nature:8.9.
+- Overall: 84.40/100.
+- Source: https://www.tacuaremboturismo.gub.uy/itinerarios-10-dias/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/penarol-historic-railway-district](../../../countries/UY/sights/penarol-historic-railway-district.yaml) | 7.2 / 8.3 / 8.3 / 7.5 / 7.5 | impact: +1.0; uniqueness: +0.3 vs peer |
+| [UY/valle-del-lunarejo](../../../countries/UY/sights/valle-del-lunarejo.yaml) | 8.3 / 8.4 / 8.5 / 8.4 / 8.2 | impact: -0.1; uniqueness: +0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-uy-maldonado-historic-centre — Maldonado Historic Centre and Public Heritage Buildings — 2026-11-27
+
+- YAML: [source](../../../countries/UY/sights/maldonado-historic-centre.yaml)
+- Action: new
+- Scope: Desk-based permanent urban heritage; no church or museum admission guarantee.
+- Representative coordinates: -34.91, -54.96; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 7.9 / 8.1 / 8.6 / 8.3 / 8.2.
+- Categories: history:9.0 architecture:8.9 culture:8.8.
+- Overall: 81.80/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/ciudad-vieja-montevideo](../../../countries/UY/sights/ciudad-vieja-montevideo.yaml) | 8.2 / 8.2 / 8.6 / 8.5 / 8.4 | impact: -0.3; uniqueness: -0.1 vs peer |
+| [UY/plaza-independencia](../../../countries/UY/sights/plaza-independencia.yaml) | 7.9 / 7.7 / 8.6 / 8.1 / 7.4 | impact: +0.0; uniqueness: +0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+### Pass 294 scope decisions
+
+13 additions, 10 source-linked provisional, 3 desk-based provisional, 4 90+, 34 ranking-row comparisons (8 international). UY 87 ranked / 87 total, +26 since baseline 61. Prior 3 inscribed properties represented; 6 tentative screened, 4 direct matches and modern architecture partial (Vilamajó and Cravotto now additional representative houses; no formal boundary claim). Colonia island/bay extension deferred: October 2026 government agreement establishes future public-use planning for San Gabriel, not an established new visitor route (https://www.gub.uy/presidencia/comunicacion/noticias/turismo-colonia-isla-san-gabriel-acuerdo-ministerios-intendencias). Environment ministry directory lists 22 areas (https://www.gub.uy/ministerio-ambiente/nuestras-areas-protegidas); Esteros y Algarrobales, Humedales e Islas del Hum and Islas del Queguay require specific visitor scope and overlap screening. Arequita existing hill entry, not new park-wide duplicate. Canelones grouped museum and vineyard circuit, Vendimia not separately rated; Semana Criolla and Minas y Abril exclude rodeo. Existing scores preserved. OPEN for remaining SNAP scopes, coastal/river routes, museums and events. Coordinates approximate; future schedules and permissions unverified.
+
+
+## sight-uy-artigas-amethyst-mines — Artigas Los Catalanes Amethyst Geodes Guided Mining Heritage Tour — 2026-11-27
+
+- YAML: [source](../../../countries/UY/sights/artigas-amethyst-mines.yaml)
+- Action: new
+- Scope: IUGS identifies internationally important amethyst deposits and giant geodes; tourism ministry documents specially prepared tourist tunnels, and operator lists Artigas tour. Town anchor, not mine entrance. Authorized guided visitor workings only, not active industrial mines or unrestricted collecting. Distinct geological experience from Grutas del Palacio.
+- Representative coordinates: -30.4, -56.47; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public search excerpts inspected**
+- Core I/U/S/E/D: 9.3 / 9.4 / 9.3 / 9.0 / 9.1.
+- Categories: nature:9.4 photography:9.4 history:9.0 adventure:9.1.
+- Overall: 92.60/100.
+- Source: https://iugs-geoheritage.org/geoheritage_sites/deposits-of-amethysts-of-los-catalanes-gemological-district/
+- Source: https://www.gub.uy/ministerio-turismo/comunicacion/noticias/ministerio-turismo-apoyo-fam-press-turismo-minero-norte-del-pais
+- Source: https://safariminero.com/
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: distinctive documented named experience, dimensions compared with regional ranking peers below; broader same-type calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/grutas-del-palacio](../../../countries/UY/sights/grutas-del-palacio.yaml) | 8.0 / 8.7 / 8.3 / 7.9 / 7.0 | impact: +1.3; uniqueness: +0.7 vs peer |
+| [UY/fray-bentos-industrial-landscape](../../../countries/UY/sights/fray-bentos-industrial-landscape.yaml) | 8.3 / 9.2 / 9.3 / 8.4 / 8.7 | impact: +1.0; uniqueness: +0.2 vs peer |
+| [BO/iskanwaya-archaeological-site](../../../countries/BO/sights/iskanwaya-archaeological-site.yaml) | 8.9 / 9.2 / 9.3 / 8.4 / 8.9 | impact: +0.4; uniqueness: +0.2 vs peer |
+| [BO/tupiza-geoforms](../../../countries/BO/sights/tupiza-geoforms.yaml) | 9.3 / 9.1 / 8.5 / 9.2 / 8.8 | impact: +0.0; uniqueness: +0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-uy-artigas-samba-carnival — Artigas Carnival Public Samba School Parades — 2026-11-27
+
+- YAML: [source](../../../countries/UY/sights/artigas-samba-carnival.yaml)
+- Action: new
+- Scope: Tourism ministry lists nine schools and approximately 6500 participants planned for 2026, February 14–16. Distinct border-city samba event from Montevideo's stage and candombe traditions; public performances only.
+- Representative coordinates: -30.4, -56.47; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public search excerpts inspected**
+- Core I/U/S/E/D: 9.2 / 9.1 / 9.2 / 9.3 / 9.1.
+- Categories: culture:9.4 photography:9.4 nightlife:9.2.
+- Overall: 91.80/100.
+- Source: https://www.gub.uy/ministerio-turismo/comunicacion/noticias/artigas-se-prepara-para-vivir-carnaval-2026
+- Source: https://www.gub.uy/ministerio-turismo/comunicacion/calendario-actividades/lanzamiento-carnaval-artigas
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: distinctive documented named experience, dimensions compared with regional ranking peers below; broader same-type calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/montevideo-carnival](../../../countries/UY/sights/montevideo-carnival.yaml) | 9.4 / 9.5 / 9.4 / 9.4 / 9.3 | impact: -0.2; uniqueness: -0.4 vs peer |
+| [UY/montevideo-llamadas](../../../countries/UY/sights/montevideo-llamadas.yaml) | 9.4 / 9.5 / 9.5 / 9.3 / 9.1 | impact: -0.2; uniqueness: -0.4 vs peer |
+| [BO/santa-cruz-carnival](../../../countries/BO/sights/santa-cruz-carnival.yaml) | 9.3 / 9.1 / 9.3 / 9.3 / 9.1 | impact: -0.1; uniqueness: +0.0 vs peer |
+| [PY/encarnacion-carnival](../../../countries/PY/sights/encarnacion-carnival.yaml) | 9.2 / 9.0 / 9.1 / 9.3 / 9.0 | impact: +0.0; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-uy-treinta-y-tres-olimar-festival — Treinta y Tres Festival del Olimar Public Folk Music Programme — 2026-11-27
+
+- YAML: [source](../../../countries/UY/sights/treinta-y-tres-olimar-festival.yaml)
+- Action: new
+- Scope: Tourism ministry confirms 52nd edition in 2026, attracting thousands annually; heritage directory traces event to 1973. Named public riverside concerts distinct from other regional festivals, future dates unverified.
+- Representative coordinates: -33.23, -54.38; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public search excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.1 / 9.2 / 9.2 / 9.1.
+- Categories: culture:9.4 history:9.2 photography:9.0.
+- Overall: 91.05/100.
+- Source: https://www.gub.uy/ministerio-turismo/comunicacion/noticias/lanzamiento-52a-edicion-del-festival-del-olimar
+- Source: https://patrimoniouruguay.net/fiestas-tradiciones/festival-olimar/
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: distinctive documented named experience, dimensions compared with regional ranking peers below; broader same-type calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/durazno-folklore-festival](../../../countries/UY/sights/durazno-folklore-festival.yaml) | 9.0 / 9.0 / 9.2 / 9.2 / 9.1 | impact: +0.0; uniqueness: +0.1 vs peer |
+| [UY/minas-y-abril](../../../countries/UY/sights/minas-y-abril.yaml) | 9.0 / 9.0 / 9.1 / 9.1 / 9.0 | impact: +0.0; uniqueness: +0.1 vs peer |
+| [PY/caazapa-ykua-bolanos-festival](../../../countries/PY/sights/caazapa-ykua-bolanos-festival.yaml) | 9.1 / 9.0 / 9.1 / 9.2 / 8.9 | impact: -0.1; uniqueness: +0.1 vs peer |
+| [BO/aiquile-charango-festival](../../../countries/BO/sights/aiquile-charango-festival.yaml) | 9.1 / 9.4 / 9.3 / 9.1 / 9.2 | impact: -0.1; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-uy-las-piedras-vendimia — Las Piedras National Vendimia Harvest Festival — 2026-11-27
+
+- YAML: [source](../../../countries/UY/sights/las-piedras-vendimia.yaml)
+- Action: new
+- Scope: Department identifies national harvest festival in Las Piedras and Law 18088 gives national tourism recognition. Scope public seasonal celebration, not routine museum/vineyard tours; non-additive when same event includes prior circuit. No alcohol consumption required, future dates unverified.
+- Representative coordinates: -34.73, -56.22; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public search excerpts inspected**
+- Core I/U/S/E/D: 8.9 / 9.0 / 9.2 / 9.2 / 9.0.
+- Categories: culture:9.3 food:9.3 history:9.1.
+- Overall: 90.40/100.
+- Source: https://turismo.imcanelones.gub.uy/visita-canelones/que-hacer/fiestas/fiesta-vendimia-dia-nacional-vendimia
+- Source: https://www.impo.com.uy/bases/leyes/18088-2007
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: distinctive documented named experience, dimensions compared with regional ranking peers below; broader same-type calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/canelones-wine-heritage](../../../countries/UY/sights/canelones-wine-heritage.yaml) | 8.8 / 8.9 / 9.0 / 8.9 / 9.0 | impact: +0.1; uniqueness: +0.1 vs peer |
+| [UY/paysandu-semana-cerveza](../../../countries/UY/sights/paysandu-semana-cerveza.yaml) | 8.9 / 8.7 / 8.8 / 9.1 / 8.8 | impact: +0.0; uniqueness: +0.3 vs peer |
+| [PY/yataity-ao-poi](../../../countries/PY/sights/yataity-ao-poi.yaml) | 8.9 / 9.3 / 9.3 / 9.1 / 9.1 | impact: +0.0; uniqueness: -0.3 vs peer |
+| [PY/san-juan-bautista-food-festival](../../../countries/PY/sights/san-juan-bautista-food-festival.yaml) | 9.0 / 9.0 / 9.1 / 9.2 / 9.0 | impact: -0.1; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-uy-punta-del-este-film-festival — Punta del Este International Film Festival Public Screenings — 2026-11-27
+
+- YAML: [source](../../../countries/UY/sights/punta-del-este-film-festival.yaml)
+- Action: new
+- Scope: Maldonado announces 29th edition February 20–26 2027; festival programme includes Ibero-American competition, international films and special screenings. Public programme only, future access and lineup not guaranteed.
+- Representative coordinates: -34.96, -54.94; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public search excerpts inspected**
+- Core I/U/S/E/D: 8.9 / 9.0 / 9.1 / 9.2 / 9.1.
+- Categories: culture:9.4 nightlife:9.0 history:9.0.
+- Overall: 90.30/100.
+- Source: https://www.maldonado.gub.uy/noticias/idm-abrio-convocatoria-29deg-festival-internacional-cine-punta-del-este
+- Source: https://cinepunta.uy/
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: distinctive documented named experience, dimensions compared with regional ranking peers below; broader same-type calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/punta-del-este-jazz-festival](../../../countries/UY/sights/punta-del-este-jazz-festival.yaml) | 9.0 / 9.0 / 9.2 / 9.2 / 9.0 | impact: -0.1; uniqueness: +0.0 vs peer |
+| [UY/teatro-solis](../../../countries/UY/sights/teatro-solis.yaml) | 8.2 / 7.9 / 8.6 / 8.4 / 7.5 | impact: +0.7; uniqueness: +1.1 vs peer |
+| [PY/asuncion-world-harp-festival](../../../countries/PY/sights/asuncion-world-harp-festival.yaml) | 9.1 / 9.3 / 9.2 / 9.2 / 9.1 | impact: -0.2; uniqueness: -0.3 vs peer |
+| [BO/chiquitos-baroque-festival](../../../countries/BO/sights/chiquitos-baroque-festival.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.3 | impact: -0.3; uniqueness: -0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-uy-san-javier-sunflower-festival — San Javier Fiesta del Girasol Russian Uruguayan Cultural Festival — 2026-11-27
+
+- YAML: [source](../../../countries/UY/sights/san-javier-sunflower-festival.yaml)
+- Action: new
+- Scope: Río Negro department reports April 2026 event and Russian and criollo food fair; public event separate from Farrapos nature visits, no private homes or ceremonies.
+- Representative coordinates: -32.67, -58.13; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public search excerpts inspected**
+- Core I/U/S/E/D: 8.6 / 9.1 / 8.8 / 8.9 / 8.7.
+- Categories: culture:9.3 food:9.2 history:9.1.
+- Overall: 88.20/100.
+- Source: https://www.rionegro.gub.uy/muy-buena-convocatoria-en-la-fiesta-del-girasol-en-san-javier/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/canelones-wine-heritage](../../../countries/UY/sights/canelones-wine-heritage.yaml) | 8.8 / 8.9 / 9.0 / 8.9 / 9.0 | impact: -0.2; uniqueness: +0.2 vs peer |
+| [UY/esteros-de-farrapos-national-park](../../../countries/UY/sights/esteros-de-farrapos-national-park.yaml) | 7.9 / 8.5 / 8.6 / 8.0 / 8.1 | impact: +0.7; uniqueness: +0.6 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-uy-cardal-milk-festival — Cardal National Dairy Festival Public Gastronomy and Music — 2026-11-27
+
+- YAML: [source](../../../countries/UY/sights/cardal-milk-festival.yaml)
+- Action: new
+- Scope: Tourism ministry announced 17th edition November 6–8 2026, dairy heritage and public food/music programme. Scope public fair, no assumption of farm access or animal interactions.
+- Representative coordinates: -34.29, -56.39; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public search excerpts inspected**
+- Core I/U/S/E/D: 8.6 / 8.8 / 8.7 / 9.0 / 8.7.
+- Categories: food:9.3 culture:9.2 family:9.1.
+- Overall: 87.40/100.
+- Source: https://www.gub.uy/ministerio-turismo/comunicacion/noticias/fiesta-nacional-leche-se-realizara-del-6-8-noviembre-cardal
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/canelones-wine-heritage](../../../countries/UY/sights/canelones-wine-heritage.yaml) | 8.8 / 8.9 / 9.0 / 8.9 / 9.0 | impact: -0.2; uniqueness: -0.1 vs peer |
+| [UY/paysandu-semana-cerveza](../../../countries/UY/sights/paysandu-semana-cerveza.yaml) | 8.9 / 8.7 / 8.8 / 9.1 / 8.8 | impact: -0.3; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-uy-piriapolis-film-festival — Piriápolis de Película International Independent Film Festival — 2026-11-27
+
+- YAML: [source](../../../countries/UY/sights/piriapolis-film-festival.yaml)
+- Action: new
+- Scope: Organizer documents 23rd edition October 16–18 2026 at Argentino Hotel. Distinct event from Punta del Este film festival; no future screenings guaranteed.
+- Representative coordinates: -34.87, -55.28; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public search excerpts inspected**
+- Core I/U/S/E/D: 8.6 / 8.8 / 8.7 / 8.9 / 8.7.
+- Categories: culture:9.2 nightlife:8.8 history:8.8.
+- Overall: 87.25/100.
+- Source: https://www.piriapolisdepelicula.com.uy/edicion-2026/
+- Source: https://eventurismo.com.uy/piriapolis-una-pantalla-abierta-al-mundo/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/punta-del-este-jazz-festival](../../../countries/UY/sights/punta-del-este-jazz-festival.yaml) | 9.0 / 9.0 / 9.2 / 9.2 / 9.0 | impact: -0.4; uniqueness: -0.2 vs peer |
+| [UY/piriapolis-waterfront](../../../countries/UY/sights/piriapolis-waterfront.yaml) | 8.2 / 8.3 / 8.5 / 8.6 / 8.3 | impact: +0.4; uniqueness: +0.5 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-uy-minas-de-corrales-gold-route — Minas de Corrales Ruta del Oro Mining Heritage Tour — 2026-11-27
+
+- YAML: [source](../../../countries/UY/sights/minas-de-corrales-gold-route.yaml)
+- Action: new
+- Scope: Tourism ministry describes Ruta del Oro as part of northern mining tourism. Scope public guided historical interpretation only, not active mining, tunnels or unapproved industrial access; exact route and availability pending.
+- Representative coordinates: -31.58, -55.47; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public search excerpts inspected**
+- Core I/U/S/E/D: 8.5 / 8.8 / 8.9 / 8.6 / 8.6.
+- Categories: history:9.2 culture:9.0 photography:8.9.
+- Overall: 86.80/100.
+- Source: https://www.gub.uy/ministerio-turismo/comunicacion/noticias/ministerio-turismo-apoyo-fam-press-turismo-minero-norte-del-pais
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/fray-bentos-industrial-landscape](../../../countries/UY/sights/fray-bentos-industrial-landscape.yaml) | 8.3 / 9.2 / 9.3 / 8.4 / 8.7 | impact: +0.2; uniqueness: -0.4 vs peer |
+| [UY/valle-eden](../../../countries/UY/sights/valle-eden.yaml) | 8.2 / 8.6 / 8.6 / 8.4 / 8.5 | impact: +0.3; uniqueness: +0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-uy-san-javier-russian-heritage — San Javier Russian Settlement Heritage and Public Streets — 2026-11-27
+
+- YAML: [source](../../../countries/UY/sights/san-javier-russian-heritage.yaml)
+- Action: new
+- Scope: Desk-based permanent settlement heritage, separate from seasonal sunflower festival and wetland visit. No private or museum admission guarantee.
+- Representative coordinates: -32.67, -58.13; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.0 / 8.7 / 8.7 / 8.4 / 8.5.
+- Categories: culture:9.2 history:9.1 architecture:8.7.
+- Overall: 84.25/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/penarol-historic-railway-district](../../../countries/UY/sights/penarol-historic-railway-district.yaml) | 7.2 / 8.3 / 8.3 / 7.5 / 7.5 | impact: +0.8; uniqueness: +0.4 vs peer |
+| [UY/esteros-de-farrapos-national-park](../../../countries/UY/sights/esteros-de-farrapos-national-park.yaml) | 7.9 / 8.5 / 8.6 / 8.0 / 8.1 | impact: +0.1; uniqueness: +0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-uy-mercedes-rio-negro-waterfront — Mercedes Río Negro Historic Waterfront and Public Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/UY/sights/mercedes-rio-negro-waterfront.yaml)
+- Action: new
+- Scope: Desk-based permanent public waterfront and city streets; no claim of access to Hum national park or boat trips.
+- Representative coordinates: -33.25, -58.03; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.1 / 8.3 / 8.5 / 8.6 / 8.5.
+- Categories: photography:9.0 architecture:8.9 relaxation:9.0.
+- Overall: 83.45/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/montevideo-rambla](../../../countries/UY/sights/montevideo-rambla.yaml) | 8.4 / 8.7 / 7.9 / 8.9 / 8.7 | impact: -0.3; uniqueness: -0.4 vs peer |
+| [UY/maldonado-historic-centre](../../../countries/UY/sights/maldonado-historic-centre.yaml) | 7.9 / 8.1 / 8.6 / 8.3 / 8.2 | impact: +0.2; uniqueness: +0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-uy-villa-serrana — Villa Serrana Highland Village and Public Landscape Viewpoints — 2026-11-27
+
+- YAML: [source](../../../countries/UY/sights/villa-serrana.yaml)
+- Action: new
+- Scope: Desk-based planned hill village and landscape views, public areas only; no private lodge admission or guaranteed routes.
+- Representative coordinates: -34.32, -54.98; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.6 / 8.1 / 8.7 / 8.5.
+- Categories: nature:9.0 architecture:9.0 photography:9.2 relaxation:9.1.
+- Overall: 84.75/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/cerro-arequita](../../../countries/UY/sights/cerro-arequita.yaml) | 8.0 / 8.1 / 7.6 / 8.2 / 7.5 | impact: +0.5; uniqueness: +0.5 vs peer |
+| [UY/valle-del-lunarejo](../../../countries/UY/sights/valle-del-lunarejo.yaml) | 8.3 / 8.4 / 8.5 / 8.4 / 8.2 | impact: +0.2; uniqueness: +0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+### Pass 295 scope decisions
+
+12 additions, 9 source-linked provisional, 3 desk-based provisional, 5 90+, 34 ranking-row comparisons (10 international). UY 99 ranked / 99 total, +38 since baseline 61. Prior 3 inscribed properties represented, 6 tentative screened (4 direct matches, modern architecture partial, Colonia island extension deferred); no new boundary mapping. Los Catalanes internationally recognized geological heritage, guided prepared visitor tunnels only. Vendimia seasonal public festival separate from routine winery circuit, non-additive when bundled. San Javier public sunflower festival separate from permanent settlement and Farrapos. Hum and Islas del Queguay protected status confirmed (https://www.gub.uy/ministerio-ambiente/politicas-y-gestion/humedales-islas-del-hum-soriano ; https://www.gub.uy/ministerio-ambiente/politicas-y-gestion/area-protegida-manejo-habitat-yo-especies-islas-del-queguay), visitor routes insufficiently confirmed, deferred; Esteros y Algarrobales official general trail guidance but distinct scope/overlap with Farrapos remains unresolved (https://www.ambiente.gub.uy/oan/snap/esteros-y-algarrobales-del-rio-uruguay/). Existing scores preserved. OPEN for final bounded regional screen. Coordinates approximate; future schedules, access and permissions unverified.
+
+
+## Pass 296 — Uruguay final bounded regional screen (2026-11-28)
+
+Discovery sources: https://uruguaynatural.com/es/destinos-regiones/ ; https://uruguaynatural.com/es/masqueunpais/fiestas-tradicionales/ ; https://www.gub.uy/comunicacion/publicaciones/fiestas-tradicionales-del-uruguay .
+
+## sight-uy-dolores-spring-festival — Dolores National Spring Festival Public Student Parades — 2026-11-28
+
+- YAML: [source](../../../countries/UY/sights/dolores-spring-festival.yaml)
+- Action: new
+- Scope: Public student floats, music and choreography; national intangible cultural heritage recognition, not UNESCO inscription. Recurring event since 1960.
+- Representative coordinates: -33.53, -58.22; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.impo.com.uy/bases/resoluciones/52-2026 ; https://www.gub.uy/ministerio-turismo/comunicacion/noticias/dolores-vuelve-vestirse-primavera-64-anos-fiesta-ya-es-patrimonio-cultural
+- Core I/U/S/E/D: 9.0 / 9.1 / 9.3 / 9.2 / 8.9.
+- Categories: culture:9.4 photography:9.3 family:9.1.
+- Overall: 91.05/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/artigas-samba-carnival](../../../countries/UY/sights/artigas-samba-carnival.yaml) | 9.2 / 9.1 / 9.2 / 9.3 / 9.1 | impact: -0.2; uniqueness: 0.0 vs peer |
+| [UY/san-javier-sunflower-festival](../../../countries/UY/sights/san-javier-sunflower-festival.yaml) | 8.6 / 9.1 / 8.8 / 8.9 / 8.7 | impact: 0.4; uniqueness: 0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-uy-florida-san-cono-pilgrimage — Florida San Cono Annual Pilgrimage and Public Festival — 2026-11-28
+
+- YAML: [source](../../../countries/UY/sights/florida-san-cono-pilgrimage.yaml)
+- Action: new
+- Scope: Italian immigrant devotional tradition, public procession and associated fair; shrine and offerings museum not separate in this scope.
+- Representative coordinates: -34.1, -56.22; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.gub.uy/intendencia-florida/comunicacion/noticias/miles-personas-participaron-celebraciones-san-cono-florida ; https://www.gub.uy/ministerio-turismo/comunicacion/noticias/san-cono-regreso-procesion-varios-proyectos-torno-santo-oriundo-teggiano
+- Core I/U/S/E/D: 9.0 / 9.1 / 9.3 / 9.0 / 9.0.
+- Categories: culture:9.4 history:9.3 photography:9.0.
+- Overall: 90.85/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/tacuarembo-patria-gaucha](../../../countries/UY/sights/tacuarembo-patria-gaucha.yaml) | 9.2 / 9.2 / 9.3 / 9.2 / 9.2 | impact: -0.2; uniqueness: -0.1 vs peer |
+| [UY/las-piedras-vendimia](../../../countries/UY/sights/las-piedras-vendimia.yaml) | 8.9 / 9.0 / 9.2 / 9.2 / 9.0 | impact: 0.1; uniqueness: 0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-uy-melo-carnival — Melo Carnival Public Samba Candombe and Murga Parades — 2026-11-28
+
+- YAML: [source](../../../countries/UY/sights/melo-carnival.yaml)
+- Action: new
+- Scope: Recurring border-region public parades, distinct from Artigas and Montevideo; includes samba, candombe and murga, not individual parade nights.
+- Representative coordinates: -32.37, -54.18; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.gub.uy/ministerio-turismo/comunicacion/noticias/carnaval-melo-fue-presentado-fiesta-popular-participativo-diverso-su ; https://www.gub.uy/ministerio-turismo/comunicacion/noticias/cerro-largo-presento-cuatro-eventos-integran-su-agenda-turistica-para
+- Core I/U/S/E/D: 9.0 / 8.9 / 9.0 / 9.3 / 9.0.
+- Categories: culture:9.3 photography:9.3 nightlife:9.2.
+- Overall: 90.20/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/artigas-samba-carnival](../../../countries/UY/sights/artigas-samba-carnival.yaml) | 9.2 / 9.1 / 9.2 / 9.3 / 9.1 | impact: -0.2; uniqueness: -0.2 vs peer |
+| [UY/montevideo-llamadas](../../../countries/UY/sights/montevideo-llamadas.yaml) | 9.4 / 9.5 / 9.5 / 9.3 / 9.1 | impact: -0.4; uniqueness: -0.6 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-uy-florida-virgen-treinta-tres — Florida Virgen de los Treinta y Tres National Pilgrimage — 2026-11-28
+
+- YAML: [source](../../../countries/UY/sights/florida-virgen-treinta-tres.yaml)
+- Action: new
+- Scope: Recurring pilgrimage to national patroness at cathedral; ordinary cathedral visit, accompanying concert and exceptional papal events not separately counted.
+- Representative coordinates: -34.1, -56.22; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.gub.uy/intendencia-florida/comunicacion/calendario-actividades/peregrinacion-nacional-virgen-treinta-tres-2 ; https://www.gub.uy/ministerio-turismo/comunicacion/calendario-actividades/uruguay-le-canta-virgen-treinta-tres-0
+- Core I/U/S/E/D: 8.9 / 9.0 / 9.3 / 9.0 / 9.0.
+- Categories: culture:9.3 history:9.3 photography:8.9.
+- Overall: 90.30/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/florida-san-cono-pilgrimage](../../../countries/UY/sights/florida-san-cono-pilgrimage.yaml) | 9.0 / 9.1 / 9.3 / 9.0 / 9.0 | impact: -0.1; uniqueness: -0.1 vs peer |
+| [UY/tacuarembo-patria-gaucha](../../../countries/UY/sights/tacuarembo-patria-gaucha.yaml) | 9.2 / 9.2 / 9.3 / 9.2 / 9.2 | impact: -0.3; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-uy-durazno-san-pedro-church — Durazno San Pedro Church (Eladio Dieste) — 2026-11-28
+
+- YAML: [source](../../../countries/UY/sights/durazno-san-pedro-church.yaml)
+- Action: new
+- Scope: National historical monument, reconstructed interior by Dieste; independent site, not a duplicate of Atlántida church. No claim of UNESCO inscription.
+- Representative coordinates: -33.38, -56.52; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Sources: https://uruguaynatural.com/es/places/durazno-corazon-geografico-arte-y-pionerismo-historico/ ; https://durazno.travel/turismo/iglesia-san-pedro
+- Core I/U/S/E/D: 8.4 / 9.0 / 9.0 / 8.3 / 7.9.
+- Categories: architecture:9.4 history:9.0 culture:8.7.
+- Overall: 86.05/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/church-of-atlantida-eladio-dieste](../../../countries/UY/sights/church-of-atlantida-eladio-dieste.yaml) | 8.5 / 9.4 / 9.1 / 8.1 / 6.6 | impact: -0.1; uniqueness: -0.4 vs peer |
+| [UY/montevideo-casa-vilamajo](../../../countries/UY/sights/montevideo-casa-vilamajo.yaml) | 8.4 / 8.9 / 9.1 / 8.5 / 8.4 | impact: 0.0; uniqueness: 0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-uy-villa-soriano-heritage — Villa Soriano Historic Village and Chapel Heritage — 2026-11-28
+
+- YAML: [source](../../../countries/UY/sights/villa-soriano-heritage.yaml)
+- Action: new
+- Scope: Historic settlement, chapel and local museums as one visitor circuit; no separate wetland access claim.
+- Representative coordinates: -33.4, -58.32; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Sources: https://uruguaynatural.com/es/places/villa-soriano/
+- Core I/U/S/E/D: 8.1 / 8.6 / 8.8 / 8.3 / 8.3.
+- Categories: history:9.2 culture:9.0 architecture:8.9.
+- Overall: 84.15/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/san-javier-russian-heritage](../../../countries/UY/sights/san-javier-russian-heritage.yaml) | 8.0 / 8.7 / 8.7 / 8.4 / 8.5 | impact: 0.1; uniqueness: -0.1 vs peer |
+| [UY/maldonado-historic-centre](../../../countries/UY/sights/maldonado-historic-centre.yaml) | 7.9 / 8.1 / 8.6 / 8.3 / 8.2 | impact: 0.2; uniqueness: 0.5 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-uy-salto-grande-dam — Salto Grande Binational Hydroelectric Dam Visitor Experience — 2026-11-28
+
+- YAML: [source](../../../countries/UY/sights/salto-grande-dam.yaml)
+- Action: new
+- Scope: Uruguayan designated visitor facilities and guided interpretation, subject to operator restrictions; no operational or restricted-area access.
+- Representative coordinates: -31.27, -57.94; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Sources: https://turismo.salto.gub.uy/sitios-de-interes/represa-de-salto-grande
+- Core I/U/S/E/D: 8.4 / 8.6 / 8.8 / 8.2 / 8.2.
+- Categories: history:9.0 architecture:8.8 family:8.8.
+- Overall: 84.80/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/fray-bentos-industrial-landscape](../../../countries/UY/sights/fray-bentos-industrial-landscape.yaml) | 8.3 / 9.2 / 9.3 / 8.4 / 8.7 | impact: 0.1; uniqueness: -0.6 vs peer |
+| [UY/minas-de-corrales-gold-route](../../../countries/UY/sights/minas-de-corrales-gold-route.yaml) | 8.5 / 8.8 / 8.9 / 8.6 / 8.6 | impact: -0.1; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-uy-salto-historic-circuit — Salto Historic Centre and Literary Heritage Circuit — 2026-11-28
+
+- YAML: [source](../../../countries/UY/sights/salto-historic-circuit.yaml)
+- Action: new
+- Scope: Municipal historic circuit, Larrañaga theatre and Quiroga-related heritage grouped, not separate component rows.
+- Representative coordinates: -31.39, -57.96; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Sources: https://turismo.salto.gub.uy/actividades/historico-y-cultural ; https://salto.gub.uy/cultura/museo-casa-de-horacio-quiroga
+- Core I/U/S/E/D: 8.1 / 8.2 / 8.8 / 8.4 / 8.6.
+- Categories: history:9.1 culture:9.1 architecture:8.9.
+- Overall: 83.60/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/maldonado-historic-centre](../../../countries/UY/sights/maldonado-historic-centre.yaml) | 7.9 / 8.1 / 8.6 / 8.3 / 8.2 | impact: 0.2; uniqueness: 0.1 vs peer |
+| [UY/mercedes-rio-negro-waterfront](../../../countries/UY/sights/mercedes-rio-negro-waterfront.yaml) | 8.1 / 8.3 / 8.5 / 8.6 / 8.5 | impact: 0.0; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-uy-florida-piedra-alta — Florida Piedra Alta and Independence Civic Heritage — 2026-11-28
+
+- YAML: [source](../../../countries/UY/sights/florida-piedra-alta.yaml)
+- Action: new
+- Scope: Public civic landmark associated with independence declarations; excludes separate seasonal pilgrimages.
+- Representative coordinates: -34.1, -56.23; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.gub.uy/intendencia-florida/comunicacion/publicaciones/sitios-interes
+- Core I/U/S/E/D: 7.9 / 8.4 / 9.0 / 8.0 / 7.9.
+- Categories: history:9.3 culture:8.8 photography:8.5.
+- Overall: 82.60/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/meseta-de-artigas](../../../countries/UY/sights/meseta-de-artigas.yaml) | 7.5 / 7.6 / 8.2 / 7.7 / 6.8 | impact: 0.4; uniqueness: 0.8 vs peer |
+| [UY/plaza-independencia](../../../countries/UY/sights/plaza-independencia.yaml) | 7.9 / 7.7 / 8.6 / 8.1 / 7.4 | impact: 0.0; uniqueness: 0.7 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-uy-nueva-helvecia-cheese-festival — Nueva Helvecia Cheese Festival Public Gastronomy Programme — 2026-11-28
+
+- YAML: [source](../../../countries/UY/sights/nueva-helvecia-cheese-festival.yaml)
+- Action: new
+- Scope: Recurring public cheese festival, grouped with its associated festival programme rather than ordinary regional cheese-route visits; future dates not assumed.
+- Representative coordinates: -34.29, -57.23; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.gub.uy/ministerio-turismo/comunicacion/noticias/2a-fiesta-quesos-del-uruguay-tradicion-sabor-turismo-colonia ; https://helvecia.com.uy/2026/10/08/fue-presentada-en-montevideo-la-tercera-fiesta-de-quesos-del-uruguay/
+- Core I/U/S/E/D: 8.3 / 8.6 / 8.5 / 8.8 / 8.5.
+- Categories: food:9.3 culture:9.0 family:8.8.
+- Overall: 85.10/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/cardal-milk-festival](../../../countries/UY/sights/cardal-milk-festival.yaml) | 8.6 / 8.8 / 8.7 / 9.0 / 8.7 | impact: -0.3; uniqueness: -0.2 vs peer |
+| [UY/san-javier-sunflower-festival](../../../countries/UY/sights/san-javier-sunflower-festival.yaml) | 8.6 / 9.1 / 8.8 / 8.9 / 8.7 | impact: -0.3; uniqueness: -0.5 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+### Pass 296 scope decisions
+
+10 source-linked provisional additions, 4 scoring 90+, 20 domestic ranking-row comparisons. UY 109 ranked / 109 total, +48 since baseline 61; 19 new 90+ across four passes. Bounded current discovery queue closed after passes 293–296, not exhaustive. Prior UNESCO inventory (3 inscribed represented; 6 tentative screened, 4 direct, modern architecture partial, Colonia island extension deferred) carried forward without remapping. Dolores nationally recognized intangible heritage, not UNESCO inscription. San Cono and Virgen de los Treinta y Tres separate recurring pilgrimages, associated shrine/concert grouped; exceptional papal events excluded. Salto literary and historic circuit grouped; dam separate. Durazno San Pedro distinct from Atlántida, no new World Heritage claim. Hum, Islas del Queguay and Esteros y Algarrobales remain deferred pending distinct authorized visitor scope; prior deferrals retained. Regional screen used national tourism destination and festival inventories and targeted official sources; smaller local sites not exhaustively checked. Existing scores preserved; coordinates approximate, access and future schedules unverified. Reopen on concrete significant omission. Independent peer YAML/coordinate checks, international calibration, historical evidence labels and full Python validation pending. Next proposed country Venezuela.

@@ -1,0 +1,16 @@
+id: sight-ae-jumeirah-mosque
+name: "Jumeirah Mosque"
+location:
+  country_code: AE
+  latitude: 25.234
+  longitude: 55.2655
+scores:
+  impact: 8.1
+  uniqueness: 8.3
+  significance: 8.0
+  experience: 8.5
+  depth: 7.5
+  categories:
+    architecture: 8.8
+    culture: 8.9
+    photography: 8.5

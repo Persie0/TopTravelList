@@ -1,0 +1,16 @@
+id: sight-br-imperial-museum-petropolis
+name: "Imperial Museum Petrópolis Historic Palace and Collections"
+location:
+  country_code: BR
+  latitude: -22.51
+  longitude: -43.18
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.8
+  depth: 8.9
+  categories:
+    history: 9.3
+    architecture: 9.3
+    culture: 9.2

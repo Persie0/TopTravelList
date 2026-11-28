@@ -1,0 +1,16 @@
+id: sight-ca-fort-rodd-hill-fisgard
+name: "Fort Rodd Hill and Fisgard Lighthouse National Historic Sites"
+location:
+  country_code: CA
+  latitude: 48.431
+  longitude: -123.448
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.8
+  depth: 8.7
+  categories:
+    history: 9.3
+    architecture: 9.2
+    photography: 9.3

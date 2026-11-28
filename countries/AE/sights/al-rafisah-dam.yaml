@@ -1,0 +1,17 @@
+id: sight-ae-al-rafisah-dam
+name: "Al Rafisah Dam"
+location:
+  country_code: AE
+  latitude: 25.34886
+  longitude: 56.31124
+scores:
+  impact: 8.4
+  uniqueness: 7.9
+  significance: 6.7
+  experience: 8.5
+  depth: 7.9
+  categories:
+    nature: 8.5
+    photography: 8.8
+    relaxation: 8.8
+    adventure: 8.4

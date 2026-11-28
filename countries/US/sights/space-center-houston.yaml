@@ -1,0 +1,16 @@
+id: sight-us-space-center-houston
+name: "Space Center Houston and Johnson Space Center Visitor Tours"
+location:
+  country_code: US
+  latitude: 29.5518
+  longitude: -95.0981
+scores:
+  impact: 9.2
+  uniqueness: 9.4
+  significance: 9.4
+  experience: 9.2
+  depth: 9.3
+  categories:
+    history: 9.4
+    family: 9.4
+    culture: 9.2

@@ -1,0 +1,16 @@
+id: sight-us-blackwater-falls
+name: "Blackwater Falls State Park West Virginia"
+location:
+  country_code: US
+  latitude: 39.113
+  longitude: -79.482
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.3
+  experience: 8.9
+  depth: 8.6
+  categories:
+    nature: 9.2
+    photography: 9.3
+    adventure: 8.9

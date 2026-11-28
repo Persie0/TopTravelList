@@ -1,0 +1,16 @@
+id: sight-us-stax-museum
+name: "Stax Museum of American Soul Music Memphis"
+location:
+  country_code: US
+  latitude: 35.116
+  longitude: -90.014
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 9.3
+  experience: 9.0
+  depth: 9.1
+  categories:
+    culture: 9.4
+    history: 9.3
+    architecture: 8.6

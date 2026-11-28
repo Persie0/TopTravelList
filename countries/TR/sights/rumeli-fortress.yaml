@@ -1,0 +1,16 @@
+id: sight-tr-rumeli-fortress
+name: "Rumeli Fortress Museum Istanbul"
+location:
+  country_code: TR
+  latitude: 41.084722
+  longitude: 29.056111
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.7
+  depth: 8.6
+  categories:
+    history: 9.3
+    architecture: 9.2
+    photography: 9.3

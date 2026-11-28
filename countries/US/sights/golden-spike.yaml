@@ -1,0 +1,16 @@
+id: sight-us-golden-spike
+name: "Golden Spike National Historical Park Utah"
+location:
+  country_code: US
+  latitude: 41.618
+  longitude: -112.551
+scores:
+  impact: 8.3
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.6
+  depth: 8.5
+  categories:
+    history: 9.3
+    culture: 9.0
+    photography: 8.8

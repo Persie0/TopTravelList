@@ -1,0 +1,16 @@
+id: sight-us-arizona-sonora-desert
+name: "Arizona-Sonora Desert Museum Tucson"
+location:
+  country_code: US
+  latitude: 32.244
+  longitude: -111.167
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 8.9
+  experience: 9.2
+  depth: 9.2
+  categories:
+    nature: 9.4
+    wildlife: 9.3
+    family: 9.3

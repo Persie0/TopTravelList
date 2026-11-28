@@ -1,0 +1,17 @@
+id: sight-fr-chateau-fougeres
+name: "Château de Fougères Medieval Castle"
+location:
+  country_code: FR
+  latitude: 48.35388
+  longitude: -1.20959
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.9
+  depth: 8.9
+  categories:
+    architecture: 9.3
+    history: 9.3
+    photography: 9.2
+    culture: 9.0

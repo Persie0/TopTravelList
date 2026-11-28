@@ -1,0 +1,16 @@
+id: sight-fr-musee-art-moderne-paris
+name: "Musée d’Art Moderne de Paris"
+location:
+  country_code: FR
+  latitude: 48.86431
+  longitude: 2.29779
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 9.1
+  depth: 9.1
+  categories:
+    culture: 9.4
+    history: 9.2
+    architecture: 8.9

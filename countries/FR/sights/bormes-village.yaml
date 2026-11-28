@@ -1,0 +1,16 @@
+id: sight-fr-bormes-village
+name: "Bormes-les-Mimosas Historic Hill Village"
+location:
+  country_code: FR
+  latitude: 43.151
+  longitude: 6.343
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.7
+  depth: 8.5
+  categories:
+    photography: 9.2
+    architecture: 9.1
+    relaxation: 9.2

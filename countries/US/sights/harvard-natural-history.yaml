@@ -1,0 +1,16 @@
+id: sight-us-harvard-natural-history
+name: "Harvard Museum of Natural History and Glass Flowers Cambridge"
+location:
+  country_code: US
+  latitude: 42.379
+  longitude: -71.115
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 9.2
+  experience: 9.1
+  depth: 9.2
+  categories:
+    history: 9.2
+    nature: 9.3
+    culture: 9.3

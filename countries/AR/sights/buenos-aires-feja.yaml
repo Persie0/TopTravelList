@@ -1,0 +1,15 @@
+id: sight-ar-buenos-aires-feja
+name: "Buenos Aires Festival de Jazz Argentino (FEJA) Public Concert Programme"
+location:
+  country_code: AR
+  latitude: -34.59
+  longitude: -58.42
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 9.0
+  depth: 8.8
+  categories:
+    culture: 9.2
+    nightlife: 9.2

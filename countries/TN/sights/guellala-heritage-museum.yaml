@@ -1,0 +1,16 @@
+id: sight-tn-guellala-heritage-museum
+name: "Guellala Heritage Museum"
+location:
+  country_code: TN
+  latitude: 33.73256
+  longitude: 10.86563
+scores:
+  impact: 8.3
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.6
+  depth: 8.5
+  categories:
+    culture: 9.2
+    history: 8.8
+    family: 8.8

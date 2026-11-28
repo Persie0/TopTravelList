@@ -1,0 +1,16 @@
+id: sight-us-maroon-bells
+name: "Maroon Bells Scenic Area and Snowmass Wilderness Trails"
+location:
+  country_code: US
+  latitude: 39.07
+  longitude: -106.99
+scores:
+  impact: 9.2
+  uniqueness: 8.9
+  significance: 8.5
+  experience: 9.0
+  depth: 8.8
+  categories:
+    nature: 9.4
+    photography: 9.4
+    adventure: 9.3

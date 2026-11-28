@@ -1,0 +1,15 @@
+id: sight-fr-calais-beaux-arts
+name: "Musée des Beaux-Arts Calais Rodin and Fine Arts Collections"
+location:
+  country_code: FR
+  latitude: 50.957
+  longitude: 1.85
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.7
+  depth: 8.8
+  categories:
+    culture: 9.3
+    history: 9.2

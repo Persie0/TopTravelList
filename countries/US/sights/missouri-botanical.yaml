@@ -1,0 +1,16 @@
+id: sight-us-missouri-botanical
+name: "Missouri Botanical Garden St Louis"
+location:
+  country_code: US
+  latitude: 38.615
+  longitude: -90.259
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 9.1
+  depth: 9.1
+  categories:
+    nature: 9.4
+    photography: 9.3
+    relaxation: 9.2

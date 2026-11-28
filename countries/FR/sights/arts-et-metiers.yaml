@@ -1,0 +1,17 @@
+id: sight-fr-arts-et-metiers
+name: "Musée des Arts et Métiers Paris"
+location:
+  country_code: FR
+  latitude: 48.8661
+  longitude: 2.35541
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 9.0
+  depth: 9.3
+  categories:
+    history: 9.4
+    culture: 9.2
+    family: 9.2
+    architecture: 9.0

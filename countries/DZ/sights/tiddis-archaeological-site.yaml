@@ -1,0 +1,16 @@
+id: sight-dz-tiddis-archaeological-site
+name: "Tiddis Archaeological Site"
+location:
+  country_code: DZ
+  latitude: 36.462806
+  longitude: 6.483903
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.5
+  depth: 8.4
+  categories:
+    history: 9.2
+    architecture: 8.9
+    photography: 9.1

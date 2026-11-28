@@ -1,0 +1,16 @@
+id: sight-it-ostia-antica
+name: "Ostia Antica Archaeological Park"
+location:
+  country_code: IT
+  latitude: 41.75335
+  longitude: 12.28632
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 9.0
+  depth: 9.2
+  categories:
+    history: 9.4
+    architecture: 9.2
+    photography: 9.1

@@ -1,0 +1,16 @@
+id: sight-us-empire-state-building
+name: "Empire State Building"
+location:
+  country_code: US
+  latitude: 40.74844
+  longitude: -73.98566
+scores:
+  impact: 9.1
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.8
+  depth: 8.0
+  categories:
+    architecture: 9.3
+    history: 9.0
+    photography: 9.2

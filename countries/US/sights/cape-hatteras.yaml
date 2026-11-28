@@ -1,0 +1,16 @@
+id: sight-us-cape-hatteras
+name: "Cape Hatteras National Seashore and Lighthouse Heritage"
+location:
+  country_code: US
+  latitude: 35.25
+  longitude: -75.53
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.9
+  depth: 8.8
+  categories:
+    beaches: 9.3
+    history: 9.3
+    photography: 9.2

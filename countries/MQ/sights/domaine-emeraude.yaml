@@ -1,0 +1,16 @@
+id: sight-mq-domaine-emeraude
+name: "Domaine d’Émeraude Rainforest Botanical Interpretation"
+location:
+  country_code: MQ
+  latitude: 14.741
+  longitude: -61.113
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.3
+    family: 9.2
+    photography: 9.2

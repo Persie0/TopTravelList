@@ -1,0 +1,16 @@
+id: sight-eg-meidum-pyramid
+name: "Meidum Pyramid and Necropolis"
+location:
+  country_code: EG
+  latitude: 29.38837
+  longitude: 31.15713
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 9.3
+  experience: 8.3
+  depth: 8.2
+  categories:
+    history: 9.4
+    architecture: 9.2
+    photography: 9.0

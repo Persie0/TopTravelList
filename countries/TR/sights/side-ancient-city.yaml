@@ -1,0 +1,17 @@
+id: sight-tr-side-ancient-city
+name: "Side Ancient City and Museum"
+location:
+  country_code: TR
+  latitude: 36.76803
+  longitude: 31.39063
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.9
+  depth: 9.0
+  categories:
+    history: 9.4
+    architecture: 9.3
+    photography: 9.2
+    culture: 9.0

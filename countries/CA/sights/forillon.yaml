@@ -1,0 +1,16 @@
+id: sight-ca-forillon
+name: "Forillon National Park Sea Cliffs and Coastal Wilderness"
+location:
+  country_code: CA
+  latitude: 48.82
+  longitude: -64.28
+scores:
+  impact: 9.2
+  uniqueness: 9.0
+  significance: 8.9
+  experience: 9.0
+  depth: 9.2
+  categories:
+    nature: 9.4
+    photography: 9.4
+    wildlife: 9.3

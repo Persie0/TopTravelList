@@ -1,0 +1,16 @@
+id: sight-eg-deir-el-medina
+name: "Deir el-Medina (Artisans' Village and Tombs)"
+location:
+  country_code: EG
+  latitude: 25.72807
+  longitude: 32.60136
+scores:
+  impact: 8.7
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 8.8
+  depth: 8.8
+  categories:
+    history: 9.4
+    culture: 9.3
+    architecture: 9.0

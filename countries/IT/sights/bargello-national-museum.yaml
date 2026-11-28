@@ -1,0 +1,16 @@
+id: sight-it-bargello-national-museum
+name: "Bargello National Museum Florence"
+location:
+  country_code: IT
+  latitude: 43.77039
+  longitude: 11.25825
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 8.8
+  depth: 8.9
+  categories:
+    culture: 9.4
+    history: 9.2
+    architecture: 9.0

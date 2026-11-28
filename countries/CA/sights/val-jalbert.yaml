@@ -1,0 +1,16 @@
+id: sight-ca-val-jalbert
+name: "Historic Village of Val-Jalbert Québec Industrial Heritage"
+location:
+  country_code: CA
+  latitude: 48.44
+  longitude: -72.16
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 9.1
+  depth: 9.0
+  categories:
+    history: 9.4
+    culture: 9.3
+    photography: 9.3

@@ -1,0 +1,17 @@
+id: sight-es-nerja-cave
+name: "Nerja Cave"
+location:
+  country_code: ES
+  latitude: 36.76175
+  longitude: -3.84484
+scores:
+  impact: 9.1
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.9
+  depth: 8.7
+  categories:
+    nature: 9.3
+    photography: 9.2
+    history: 9.0
+    adventure: 8.8

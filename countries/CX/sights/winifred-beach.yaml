@@ -1,15 +1,15 @@
 id: sight-cx-winifred-beach
-name: "Winifred's Beach (closed beach access)"
+name: "Winifred's Beach (boat access only)"
 location:
   country_code: CX
   latitude: -10.481
   longitude: 105.566
 scores:
-  impact: null
+  impact: 8.3
   uniqueness: 8.0
   significance: 7.5
-  experience: null
-  depth: null
+  experience: 8.2
+  depth: 7.4
   categories:
     nature: 8.2
     beaches: 8.4

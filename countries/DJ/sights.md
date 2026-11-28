@@ -2,7 +2,7 @@
 
 # Djibouti (DJ) — Sights & attractions ranking
 
-**24 ranked** · **1 unassessed** · **25 total** · Worldwide scoring **v2**
+**25 ranked** · **0 unassessed** · **25 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (24)
+## Complete ranked list (25)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -29,23 +29,16 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 13 | [Mabla Mountains](sights/mabla-mountains.yaml) | Mountain / peak | **82.45** | **Nature 8.9**, **Photography 8.8**, **Wildlife 8.7**, Adventure 8.6 | 8.5 / 8.5 / 8.2 / 7.8 / 7.6 | [11.97, 43.03](https://www.google.com/maps/search/?api=1&query=11.97,43.03) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mabla%20Mountains%2C%20Djibouti) |
 | 14 | [Arta Beach](sights/arta-beach.yaml) | Beach / bay | **79.80** | **Adventure 9.2**, **Wildlife 9.0**, **Nature 8.8**, Beaches 8.5 | 8.5 / 8.2 / 6.5 / 8.8 / 7.6 | [11.577, 42.8](https://www.google.com/maps/search/?api=1&query=11.577,42.8) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Arta%20Beach%2C%20Djibouti) |
 | 15 | [Sables Blancs Beach](sights/sables-blancs-beach.yaml) | Beach / bay | **79.15** | **Beaches 9.0**, **Photography 9.0**, **Relaxation 8.7** | 8.7 / 8.3 / 6.1 / 8.6 / 7.2 | [11.803, 42.95](https://www.google.com/maps/search/?api=1&query=11.803,42.95) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sables%20Blancs%20Beach%2C%20Djibouti) |
-| 16 | [Djibouti Historic Urban Landscape](sights/djibouti-historic-urban-landscape.yaml) | Coast | **78.05** | **History 8.6**, **Culture 8.5**, **Architecture 8.4** | 7.5 / 8.0 / 8.3 / 7.7 / 7.4 | [11.592, 43.145](https://www.google.com/maps/search/?api=1&query=11.592,43.145) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Djibouti%20Historic%20Urban%20Landscape%2C%20Djibouti) |
-| 17 | [Grand Bara Desert](sights/grand-bara-desert.yaml) | Desert | **77.80** | **Photography 8.8**, **Nature 8.6**, **Adventure 8.3** | 8.3 / 8.2 / 6.6 / 8.0 / 7.2 | [11.25, 42.71](https://www.google.com/maps/search/?api=1&query=11.25,42.71) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Grand%20Bara%20Desert%2C%20Djibouti) |
-| 18 | [Khor Ambado Beach](sights/khor-ambado-beach.yaml) | Beach / bay | **75.95** | **Beaches 8.6**, **Photography 8.6**, **Relaxation 8.4** | 8.3 / 7.9 / 5.9 / 8.4 / 6.9 | [11.592, 43.04](https://www.google.com/maps/search/?api=1&query=11.592,43.04) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Khor%20Ambado%20Beach%2C%20Djibouti) |
-| 19 | [Al-Hamoudi Mosque](sights/al-hamoudi-mosque.yaml) | Religious site | **74.35** | **Culture 8.5**, **Architecture 8.3**, **History 8.3** | 7.3 / 7.7 / 8.0 / 7.4 / 6.1 | [11.59, 43.147](https://www.google.com/maps/search/?api=1&query=11.59,43.147) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Al-Hamoudi%20Mosque%2C%20Djibouti) |
-| 20 | [Place Mahmoud Harbi and Central Market](sights/place-mahmoud-harbi-and-central-market.yaml) | Market | **72.55** | **Culture 8.5**, **Food 8.3** | 7.0 / 7.6 / 6.7 / 8.1 / 7.0 | [11.59, 43.147](https://www.google.com/maps/search/?api=1&query=11.59,43.147) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Place%20Mahmoud%20Harbi%20and%20Central%20Market%2C%20Djibouti) |
-| 21 | [Place du 27 Juin](sights/place-du-27-juin.yaml) | Attraction | **72.40** | **Architecture 8.1**, **History 8.1**, **Culture 7.9** | 6.8 / 7.6 / 7.7 / 7.6 / 6.2 | [11.593, 43.146](https://www.google.com/maps/search/?api=1&query=11.593,43.146) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Place%20du%2027%20Juin%2C%20Djibouti) |
-| 22 | [Heron Beach](sights/heron-beach.yaml) | Beach / bay | **69.55** | **Beaches 8.0**, **Relaxation 8.0** | 7.5 / 7.0 / 5.6 / 7.9 / 6.5 | [11.614, 43.154](https://www.google.com/maps/search/?api=1&query=11.614,43.154) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Heron%20Beach%2C%20Djibouti) |
-| 23 | [Siesta Beach](sights/siesta-beach.yaml) | Beach / bay | **68.10** | **Relaxation 7.9**, **Beaches 7.7** | 7.3 / 6.9 / 5.5 / 7.7 / 6.4 | [11.608, 43.15](https://www.google.com/maps/search/?api=1&query=11.608,43.15) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Siesta%20Beach%2C%20Djibouti) |
-| 24 | [Ambouli Gardens](sights/ambouli-gardens.yaml) | Garden | **67.20** | **Nature 7.7**, **Relaxation 7.5** | 6.5 / 7.2 / 6.4 / 7.2 / 6.1 | [11.567, 43.13](https://www.google.com/maps/search/?api=1&query=11.567,43.13) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ambouli%20Gardens%2C%20Djibouti) |
-
-## Not yet fully assessed (1)
-
-These destinations have no rank until all five core scores are assessed.
-
-| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
-| ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Awellos Tumulus Landscape (Randa region)](sights/awellos-tumulus-landscape-randa-region.yaml) | Coast | **—** | **History 9.0**, **Culture 8.6** | — / — / 8.6 / — / — | [11.849, 42.663](https://www.google.com/maps/search/?api=1&query=11.849,42.663) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Awellos%20Tumulus%20Landscape%20%28Randa%20region%29%2C%20Djibouti) |
+| 16 | [Awellos Tumulus Landscape (Randa region)](sights/awellos-tumulus-landscape-randa-region.yaml) | Coast | **79.00** | **History 9.0**, **Culture 8.6** | 7.3 / 8.4 / 8.6 / 7.4 / 7.8 | [11.849, 42.663](https://www.google.com/maps/search/?api=1&query=11.849,42.663) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Awellos%20Tumulus%20Landscape%20%28Randa%20region%29%2C%20Djibouti) |
+| 17 | [Djibouti Historic Urban Landscape](sights/djibouti-historic-urban-landscape.yaml) | Coast | **78.05** | **History 8.6**, **Culture 8.5**, **Architecture 8.4** | 7.5 / 8.0 / 8.3 / 7.7 / 7.4 | [11.592, 43.145](https://www.google.com/maps/search/?api=1&query=11.592,43.145) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Djibouti%20Historic%20Urban%20Landscape%2C%20Djibouti) |
+| 18 | [Grand Bara Desert](sights/grand-bara-desert.yaml) | Desert | **77.80** | **Photography 8.8**, **Nature 8.6**, **Adventure 8.3** | 8.3 / 8.2 / 6.6 / 8.0 / 7.2 | [11.25, 42.71](https://www.google.com/maps/search/?api=1&query=11.25,42.71) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Grand%20Bara%20Desert%2C%20Djibouti) |
+| 19 | [Khor Ambado Beach](sights/khor-ambado-beach.yaml) | Beach / bay | **75.95** | **Beaches 8.6**, **Photography 8.6**, **Relaxation 8.4** | 8.3 / 7.9 / 5.9 / 8.4 / 6.9 | [11.592, 43.04](https://www.google.com/maps/search/?api=1&query=11.592,43.04) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Khor%20Ambado%20Beach%2C%20Djibouti) |
+| 20 | [Al-Hamoudi Mosque](sights/al-hamoudi-mosque.yaml) | Religious site | **74.35** | **Culture 8.5**, **Architecture 8.3**, **History 8.3** | 7.3 / 7.7 / 8.0 / 7.4 / 6.1 | [11.59, 43.147](https://www.google.com/maps/search/?api=1&query=11.59,43.147) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Al-Hamoudi%20Mosque%2C%20Djibouti) |
+| 21 | [Place Mahmoud Harbi and Central Market](sights/place-mahmoud-harbi-and-central-market.yaml) | Market | **72.55** | **Culture 8.5**, **Food 8.3** | 7.0 / 7.6 / 6.7 / 8.1 / 7.0 | [11.59, 43.147](https://www.google.com/maps/search/?api=1&query=11.59,43.147) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Place%20Mahmoud%20Harbi%20and%20Central%20Market%2C%20Djibouti) |
+| 22 | [Place du 27 Juin](sights/place-du-27-juin.yaml) | Attraction | **72.40** | **Architecture 8.1**, **History 8.1**, **Culture 7.9** | 6.8 / 7.6 / 7.7 / 7.6 / 6.2 | [11.593, 43.146](https://www.google.com/maps/search/?api=1&query=11.593,43.146) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Place%20du%2027%20Juin%2C%20Djibouti) |
+| 23 | [Heron Beach](sights/heron-beach.yaml) | Beach / bay | **69.55** | **Beaches 8.0**, **Relaxation 8.0** | 7.5 / 7.0 / 5.6 / 7.9 / 6.5 | [11.614, 43.154](https://www.google.com/maps/search/?api=1&query=11.614,43.154) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Heron%20Beach%2C%20Djibouti) |
+| 24 | [Siesta Beach](sights/siesta-beach.yaml) | Beach / bay | **68.10** | **Relaxation 7.9**, **Beaches 7.7** | 7.3 / 6.9 / 5.5 / 7.7 / 6.4 | [11.608, 43.15](https://www.google.com/maps/search/?api=1&query=11.608,43.15) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Siesta%20Beach%2C%20Djibouti) |
+| 25 | [Ambouli Gardens](sights/ambouli-gardens.yaml) | Garden | **67.20** | **Nature 7.7**, **Relaxation 7.5** | 6.5 / 7.2 / 6.4 / 7.2 / 6.1 | [11.567, 43.13](https://www.google.com/maps/search/?api=1&query=11.567,43.13) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ambouli%20Gardens%2C%20Djibouti) |
 
 ---
 

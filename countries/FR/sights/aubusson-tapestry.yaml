@@ -1,0 +1,16 @@
+id: sight-fr-aubusson-tapestry
+name: "Cité internationale de la tapisserie Aubusson"
+location:
+  country_code: FR
+  latitude: 45.95435
+  longitude: 2.166709
+scores:
+  impact: 8.7
+  uniqueness: 9.2
+  significance: 9.0
+  experience: 8.9
+  depth: 8.9
+  categories:
+    culture: 9.4
+    history: 9.2
+    family: 8.8

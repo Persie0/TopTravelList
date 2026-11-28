@@ -1,0 +1,16 @@
+id: sight-co-el-dorado-proaves
+name: "El Dorado ProAves Cloud Forest Reserve Endemic Birdwatching"
+location:
+  country_code: CO
+  latitude: 11.107
+  longitude: -74.075
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 8.8
+  depth: 9.0
+  categories:
+    wildlife: 9.4
+    nature: 9.4
+    photography: 9.3

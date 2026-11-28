@@ -1,0 +1,16 @@
+id: sight-it-frasassi-caves
+name: "Frasassi Cave System"
+location:
+  country_code: IT
+  latitude: 43.3983612061
+  longitude: 12.9621305466
+scores:
+  impact: 9.3
+  uniqueness: 9.1
+  significance: 8.6
+  experience: 9.0
+  depth: 8.7
+  categories:
+    nature: 9.4
+    photography: 9.3
+    adventure: 9.1

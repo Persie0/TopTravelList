@@ -1,0 +1,16 @@
+id: sight-fr-peyre-village
+name: "Peyre Cliffside Village and Troglodyte Church"
+location:
+  country_code: FR
+  latitude: 44.089
+  longitude: 2.995
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.4
+  experience: 8.7
+  depth: 8.3
+  categories:
+    photography: 9.2
+    architecture: 9.1
+    history: 9.0

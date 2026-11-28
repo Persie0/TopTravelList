@@ -1,0 +1,16 @@
+id: sight-tr-lake-salda
+name: "Lake Salda Protected Shoreline Landscape"
+location:
+  country_code: TR
+  latitude: 37.55
+  longitude: 29.6833
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 8.6
+  experience: 8.6
+  depth: 8.5
+  categories:
+    nature: 9.4
+    photography: 9.4
+    relaxation: 8.8

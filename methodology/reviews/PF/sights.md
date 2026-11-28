@@ -480,3 +480,687 @@ Core values I/U/S/E/D from territory branch YAML; prior comparisons retained. Ed
 - Final decision: provisional worldwide V2 assessment; Several stalls and offerings but limited independent scope.
 - Earlier decision: none.
 - Verification still needed: claim-level and representative coordinate checks.
+
+
+## sight-pf-maupiti-lagoon — Maupiti Lagoon Motu and Mount Teurafaatiu Trails — 2026-11-27
+
+- YAML: [source](../../../countries/PF/sights/maupiti-lagoon.yaml)
+- Action: new
+- Scope: Lagoon, motu and mountain viewpoint as integrated island experience.
+- Representative coordinates: -16.445, -152.25; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.1 / 8.8 / 9.3 / 9.2.
+- Categories: nature:9.4,beaches:9.4,photography:9.4,adventure:9.3.
+- Overall: 91.40/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+
+## sight-pf-museum-tahiti-islands — Te Fare Iamanaha Museum of Tahiti and the Islands — 2026-11-27
+
+- YAML: [source](../../../countries/PF/sights/museum-tahiti-islands.yaml)
+- Action: new
+- Scope: Permanent Polynesian cultural and natural history exhibitions; loans not assumed owned.
+- Representative coordinates: -17.633, -149.612; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.4 / 9.1 / 9.3.
+- Categories: history:9.4,culture:9.4.
+- Overall: 92.30/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+
+## sight-pf-rangiroa-blue-lagoon — Rangiroa Blue Lagoon and Reef Island Excursions — 2026-11-27
+
+- YAML: [source](../../../countries/PF/sights/rangiroa-blue-lagoon.yaml)
+- Action: new
+- Scope: Western atoll lagoon and Reef Island excursions; excludes Tiputa Pass.
+- Representative coordinates: -15.19, -147.97; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.2 / 8.6 / 9.3 / 9.0.
+- Categories: nature:9.4,beaches:9.4,photography:9.4,wildlife:9.3.
+- Overall: 91.05/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+
+## sight-pf-tahaa-coral-garden — Taha’a Coral Garden and Lagoon Snorkelling — 2026-11-27
+
+- YAML: [source](../../../countries/PF/sights/tahaa-coral-garden.yaml)
+- Action: new
+- Scope: Coral garden and neighbouring Taha’a lagoon only, excludes Taputapuātea.
+- Representative coordinates: -16.608, -151.556; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.1 / 8.7 / 9.3 / 9.0.
+- Categories: nature:9.4,wildlife:9.4,adventure:9.3.
+- Overall: 90.70/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+
+## sight-pf-tetiaroa-atoll — Tetiaroa Atoll Lagoon and Bird Island Nature Excursions — 2026-11-27
+
+- YAML: [source](../../../countries/PF/sights/tetiaroa-atoll.yaml)
+- Action: new
+- Scope: Lagoon nature experience and bird observation; no resort score.
+- Representative coordinates: -17.002, -149.565; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.2 / 8.9 / 9.1 / 9.1.
+- Categories: wildlife:9.4,nature:9.4,photography:9.4.
+- Overall: 90.85/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+
+## sight-pf-maeva-marae — Maeva Huahine Marae Archaeological Sites and Fare Pote’e Museum — 2026-11-27
+
+- YAML: [source](../../../countries/PF/sights/maeva-marae.yaml)
+- Action: new
+- Scope: Linked archaeology and museum.
+- Representative coordinates: -16.712, -151.006; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 9.1 / 9.2 / 8.8 / 8.9.
+- Categories: history:9.4,culture:9.4.
+- Overall: 89.65/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+
+## sight-pf-teahupoo-coast — Teahupo’o Reef Surf Break and Tahiti Iti Coastal Scenery — 2026-11-27
+
+- YAML: [source](../../../countries/PF/sights/teahupoo-coast.yaml)
+- Action: new
+- Scope: Reef-break scenery and coastal experience; surf conditions variable, no guaranteed event.
+- Representative coordinates: -17.854, -149.254; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 9.1 / 8.5 / 8.9 / 8.7.
+- Categories: adventure:9.4,photography:9.3,nature:9.2.
+- Overall: 88.50/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+
+### Source and calibration follow-up: maupiti-lagoon
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.tahititourisme.com/islands/maupiti/activities-in-maupiti/ ; https://www.tahititourisme.com/preparing-you-trip/itinerary-suggestions/escape-to-maupiti/.
+- Research rationale: Lagoon excursions, rays, hiking and panoramic mountain views.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PF/bora-bora-lagoon](../../../countries/PF/sights/bora-bora-lagoon.yaml) | 9.5 / 9.2 / 8.0 / 9.3 / 8.8 | significance: +0.8 vs peer; depth: +0.4 vs peer |
+| [PF/moorea-lagoon](../../../countries/PF/sights/moorea-lagoon.yaml) | 9.1 / 8.7 / 8.0 / 9.1 / 8.6 | significance: +0.8 vs peer; depth: +0.6 vs peer |
+| [NC/poe-lagoon](../../../countries/NC/sights/poe-lagoon.yaml) | 9.0 / 8.7 / 8.8 / 9.0 / 8.5 | depth: +0.7 vs peer; uniqueness: +0.4 vs peer |
+| [GP/petite-terre](../../../countries/GP/sights/petite-terre.yaml) | 9.0 / 9.0 / 8.9 / 8.7 / 8.2 | depth: +1.0 vs peer; experience: +0.6 vs peer |
+
+Ranking rows checked; peer YAML and independent factual/coordinate verification pending.
+
+### Source and calibration follow-up: museum-tahiti-islands
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.museetahiti.pf/evenements/ouverture-de-te-fare-iamanaha/?lang=en ; https://www.museetahiti.pf/the-museum-of-tahiti-and-her-islands/?lang=en.
+- Research rationale: 1,400 m² permanent exhibition opened 2023 with Polynesian collections and international loans.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NC/tjibaou-cultural-centre](../../../countries/NC/sights/tjibaou-cultural-centre.yaml) | 8.7 / 9.1 / 8.8 / 8.7 / 8.6 | depth: +0.7 vs peer; significance: +0.6 vs peer |
+| [FR/musee-guimet](../../../countries/FR/sights/musee-guimet.yaml) | 9.0 / 9.2 / 9.3 / 8.9 / 9.2 | experience: +0.2 vs peer; impact: +0.1 vs peer |
+| [FR/metz-cour-or](../../../countries/FR/sights/metz-cour-or.yaml) | 9.2 / 9.3 / 9.4 / 9.1 / 9.3 | impact: -0.1 vs peer; uniqueness: +0.0 vs peer |
+| [FR/cncs-moulins](../../../countries/FR/sights/cncs-moulins.yaml) | 9.2 / 9.4 / 9.3 / 9.1 / 9.3 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows checked; peer YAML and independent factual/coordinate verification pending.
+
+### Source and calibration follow-up: rangiroa-blue-lagoon
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.tahititourisme.com/natural-heritage/le-lagon-bleu-de-rangiroa/ ; https://www.tahititourisme.com/preparing-you-trip/itinerary-suggestions/escape-rangiroa/.
+- Research rationale: Distinct western lagoon and motu landscape, separate from eastern pass diving.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PF/bora-bora-lagoon](../../../countries/PF/sights/bora-bora-lagoon.yaml) | 9.5 / 9.2 / 8.0 / 9.3 / 8.8 | significance: +0.6 vs peer; impact: -0.2 vs peer |
+| [PF/tiputa-pass](../../../countries/PF/sights/tiputa-pass.yaml) | 9.2 / 9.0 / 8.5 / 9.2 / 8.6 | depth: +0.4 vs peer; uniqueness: +0.2 vs peer |
+| [PF/maupiti-lagoon](../../../countries/PF/sights/maupiti-lagoon.yaml) | 9.3 / 9.1 / 8.8 / 9.3 / 9.2 | significance: -0.2 vs peer; depth: -0.2 vs peer |
+| [NC/poe-lagoon](../../../countries/NC/sights/poe-lagoon.yaml) | 9.0 / 8.7 / 8.8 / 9.0 / 8.5 | uniqueness: +0.5 vs peer; depth: +0.5 vs peer |
+
+Ranking rows checked; peer YAML and independent factual/coordinate verification pending.
+
+### Source and calibration follow-up: tahaa-coral-garden
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.tahititourisme.com/islands/tahaa/ ; https://www.tahititourisme.com/natural-heritage/jardin-de-corail/.
+- Research rationale: Distinct current-assisted coral garden snorkeling and lagoon biodiversity.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PF/moorea-lagoon](../../../countries/PF/sights/moorea-lagoon.yaml) | 9.1 / 8.7 / 8.0 / 9.1 / 8.6 | significance: +0.7 vs peer; uniqueness: +0.4 vs peer |
+| [PF/fakarava-south-pass](../../../countries/PF/sights/fakarava-south-pass.yaml) | 9.4 / 9.2 / 8.7 / 9.3 / 8.6 | depth: +0.4 vs peer; impact: -0.2 vs peer |
+| [GP/pigeon-islets-cousteau](../../../countries/GP/sights/pigeon-islets-cousteau.yaml) | 9.0 / 8.8 / 8.8 / 9.1 / 8.6 | depth: +0.4 vs peer; uniqueness: +0.3 vs peer |
+| [YT/passe-en-s](../../../countries/YT/sights/passe-en-s.yaml) | 9.0 / 9.1 / 8.9 / 9.0 / 8.6 | depth: +0.4 vs peer; experience: +0.3 vs peer |
+
+Ranking rows checked; peer YAML and independent factual/coordinate verification pending.
+
+### Source and calibration follow-up: tetiaroa-atoll
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.tahititourisme.com/islands/tetiaroa/ ; https://www.tahititourisme.com/discover-bird-island-in-tetiaroa/.
+- Research rationale: Atoll bird habitat, lagoon and conservation interpretation.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PF/rangiroa-blue-lagoon](../../../countries/PF/sights/rangiroa-blue-lagoon.yaml) | 9.3 / 9.2 / 8.6 / 9.3 / 9.0 | significance: +0.3 vs peer; impact: -0.2 vs peer |
+| [GP/petite-terre](../../../countries/GP/sights/petite-terre.yaml) | 9.0 / 9.0 / 8.9 / 8.7 / 8.2 | depth: +0.9 vs peer; experience: +0.4 vs peer |
+| [GP/grand-cul-de-sac-marin](../../../countries/GP/sights/grand-cul-de-sac-marin.yaml) | 8.9 / 8.8 / 9.0 / 8.6 / 8.7 | experience: +0.5 vs peer; uniqueness: +0.4 vs peer |
+| [NC/new-caledonia-lagoons](../../../countries/NC/sights/new-caledonia-lagoons.yaml) | 9.4 / 9.4 / 9.5 / 9.3 / 9.2 | significance: -0.6 vs peer; impact: -0.3 vs peer |
+
+Ranking rows checked; peer YAML and independent factual/coordinate verification pending.
+
+### Source and calibration follow-up: maeva-marae
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.tahititourisme.com/preparing-you-trip/itinerary-suggestions/escape-to-huahine/ ; https://www.tahititourisme.com/cultural-heritage/fare-potee-de-maeva/.
+- Research rationale: Ancient ceremonial sites and small traditional heritage museum.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PF/taputapuatea](../../../countries/PF/sights/taputapuatea.yaml) | 8.8 / 9.3 / 9.4 / 8.6 / 8.5 | depth: +0.4 vs peer; uniqueness: -0.2 vs peer |
+| [PF/museum-tahiti-islands](../../../countries/PF/sights/museum-tahiti-islands.yaml) | 9.1 / 9.3 / 9.4 / 9.1 / 9.3 | depth: -0.4 vs peer; impact: -0.3 vs peer |
+| [FR/filitosa](../../../countries/FR/sights/filitosa.yaml) | 9.0 / 9.4 / 9.3 / 9.0 / 9.2 | uniqueness: -0.3 vs peer; depth: -0.3 vs peer |
+| [FR/bibracte](../../../countries/FR/sights/bibracte.yaml) | 9.1 / 9.3 / 9.4 / 9.2 / 9.4 | depth: -0.5 vs peer; experience: -0.4 vs peer |
+
+Ranking rows checked; peer YAML and independent factual/coordinate verification pending.
+
+- Pass 166 verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-pf-rurutu-whales — Rurutu Humpback Whale Observation and Coastal Wildlife Excursions — 2026-11-27
+
+- YAML: [source](../../../countries/PF/sights/rurutu-whales.yaml)
+- Action: new
+- Scope: Seasonal whale observation from cliffs and guided boats; no guaranteed encounter.
+- Representative coordinates: -22.45, -151.34; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.4 / 9.0 / 9.3 / 9.2.
+- Categories: wildlife:9.4,nature:9.4,photography:9.4.
+- Overall: 92.25/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+- Sources consulted (indexed excerpts, 2026-11-27): https://tahititourisme.pf/en-pf/activities/underwater-exploration/whale-season/ ; https://tahititourisme.pf/en-pf/islands-and-archipelagos/the-austral-islands/rurutu/what-to-do-in-rurutu/.
+- Research rationale: Official tourism identifies Rurutu as particularly important for whale viewing.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [YT/mayotte-cetaceans](../../../countries/YT/sights/mayotte-cetaceans.yaml) | 9.0 / 9.1 / 8.6 / 8.9 / 8.7 | depth: +0.5 vs peer; significance: +0.4 vs peer |
+| [PF/tetiaroa-atoll](../../../countries/PF/sights/tetiaroa-atoll.yaml) | 9.1 / 9.2 / 8.9 / 9.1 / 9.1 | uniqueness: +0.2 vs peer; experience: +0.2 vs peer |
+| [PF/fakarava-south-pass](../../../countries/PF/sights/fakarava-south-pass.yaml) | 9.4 / 9.2 / 8.7 / 9.3 / 8.6 | depth: +0.6 vs peer; significance: +0.3 vs peer |
+| [PF/tiputa-pass](../../../countries/PF/sights/tiputa-pass.yaml) | 9.2 / 9.0 / 8.5 / 9.2 / 8.6 | depth: +0.6 vs peer; significance: +0.5 vs peer |
+
+Ranking rows checked; peer YAML verification pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-pf-raivavae-lagoon — Raivavae Lagoon Motu and Mount Hiro Hiking — 2026-11-27
+
+- YAML: [source](../../../countries/PF/sights/raivavae-lagoon.yaml)
+- Action: new
+- Scope: Integrated lagoon and mountain experience.
+- Representative coordinates: -23.87, -147.65; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.1 / 8.7 / 9.2 / 9.1.
+- Categories: nature:9.4,photography:9.4,adventure:9.3,beaches:9.3.
+- Overall: 90.65/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+- Sources consulted (indexed excerpts, 2026-11-27): https://tahititourisme.pf/en-pf/islands-and-archipelagos/the-austral-islands/raivavae/what-to-do-in-raivavae/ ; https://tahititourisme.pf/en-pf/islands-and-archipelagos/the-austral-islands/raivavae/escape-to-raivavae/.
+- Research rationale: Official tourism identifies lagoon excursions, archaeological remains and summit hiking.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PF/maupiti-lagoon](../../../countries/PF/sights/maupiti-lagoon.yaml) | 9.3 / 9.1 / 8.8 / 9.3 / 9.2 | impact: -0.1 vs peer; significance: -0.1 vs peer |
+| [PF/bora-bora-lagoon](../../../countries/PF/sights/bora-bora-lagoon.yaml) | 9.5 / 9.2 / 8.0 / 9.3 / 8.8 | significance: +0.7 vs peer; impact: -0.3 vs peer |
+| [PF/tetiaroa-atoll](../../../countries/PF/sights/tetiaroa-atoll.yaml) | 9.1 / 9.2 / 8.9 / 9.1 / 9.1 | significance: -0.2 vs peer; impact: +0.1 vs peer |
+| [PF/moorea-lagoon](../../../countries/PF/sights/moorea-lagoon.yaml) | 9.1 / 8.7 / 8.0 / 9.1 / 8.6 | significance: +0.7 vs peer; depth: +0.5 vs peer |
+
+Ranking rows checked; peer YAML verification pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-pf-fautaua-valley — Fautaua Valley Waterfall and Rainforest Hiking — 2026-11-27
+
+- YAML: [source](../../../countries/PF/sights/fautaua-valley.yaml)
+- Action: new
+- Scope: Valley and waterfall walks together, not Papenoo Valley.
+- Representative coordinates: -17.58, -149.53; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.0 / 8.6 / 9.2 / 9.1.
+- Categories: nature:9.4,adventure:9.3,photography:9.4.
+- Overall: 89.90/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+- Sources consulted (indexed excerpts, 2026-11-27): https://tahititourisme.pf/en-pf/activities/points-of-interest/vallee-de-la-fautaua-pirae-en-en-pf-3337319/.
+- Research rationale: Official trail description documents routes toward the waterfall from below and above.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PF/papenoo-valley](../../../countries/PF/sights/papenoo-valley.yaml) | 8.8 / 8.4 / 7.6 / 8.7 / 8.5 | significance: +1.0 vs peer; uniqueness: +0.6 vs peer |
+| [PF/faarumai-waterfalls](../../../countries/PF/sights/faarumai-waterfalls.yaml) | 8.2 / 7.5 / 6.7 / 8.0 / 7.3 | significance: +1.9 vs peer; depth: +1.8 vs peer |
+| [PF/maupiti-lagoon](../../../countries/PF/sights/maupiti-lagoon.yaml) | 9.3 / 9.1 / 8.8 / 9.3 / 9.2 | impact: -0.2 vs peer; significance: -0.2 vs peer |
+| [NC/grandes-fougeres](../../../countries/NC/sights/grandes-fougeres.yaml) | 9.0 / 9.3 / 9.2 / 9.0 / 9.2 | significance: -0.6 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows checked; peer YAML verification pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-pf-aorai-mountain — Mont Aorai Tahiti Mountain Ridge Trek — 2026-11-27
+
+- YAML: [source](../../../countries/PF/sights/aorai-mountain.yaml)
+- Action: new
+- Scope: Mountain ridge trek only; no valley waterfall overlap.
+- Representative coordinates: -17.61, -149.51; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.0 / 8.6 / 9.2 / 9.2.
+- Categories: nature:9.4,adventure:9.4,photography:9.3.
+- Overall: 90.00/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+- Sources consulted (indexed excerpts, 2026-11-27): https://tahititourisme.pf/en-pf/activities/points-of-interest/mont-aorai-pirae-en-en-pf-3347583/.
+- Research rationale: Official tourism identifies mountain trekking and extensive views.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PF/fautaua-valley](../../../countries/PF/sights/fautaua-valley.yaml) | 9.1 / 9.0 / 8.6 / 9.2 / 9.1 | depth: +0.1 vs peer; impact: +0.0 vs peer |
+| [PF/papenoo-valley](../../../countries/PF/sights/papenoo-valley.yaml) | 8.8 / 8.4 / 7.6 / 8.7 / 8.5 | significance: +1.0 vs peer; depth: +0.7 vs peer |
+| [PF/maupiti-lagoon](../../../countries/PF/sights/maupiti-lagoon.yaml) | 9.3 / 9.1 / 8.8 / 9.3 / 9.2 | impact: -0.2 vs peer; significance: -0.2 vs peer |
+| [NC/grandes-fougeres](../../../countries/NC/sights/grandes-fougeres.yaml) | 9.0 / 9.3 / 9.2 / 9.0 / 9.2 | significance: -0.6 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows checked; peer YAML verification pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-pf-tubuai-taitaa — Tubuai Mount Taita’a and Lagoon Motu Excursions — 2026-11-27
+
+- YAML: [source](../../../countries/PF/sights/tubuai-taitaa.yaml)
+- Action: new
+- Scope: Integrated island hiking and lagoon excursions.
+- Representative coordinates: -23.37, -149.48; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.5 / 9.0 / 8.9.
+- Categories: nature:9.3,adventure:9.3,beaches:9.3.
+- Overall: 88.10/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+- Sources consulted (indexed excerpts, 2026-11-27): https://tahititourisme.pf/en-pf/islands-and-archipelagos/the-austral-islands/tubuai/ ; https://tahititourisme.pf/en-pf/activities/points-of-interest/mont-taitaa-tubuai-en-en-pf-5464106/.
+- Research rationale: Tourism sources document summit panorama and eight lagoon motu.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PF/raivavae-lagoon](../../../countries/PF/sights/raivavae-lagoon.yaml) | 9.2 / 9.1 / 8.7 / 9.2 / 9.1 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer |
+| [PF/maupiti-lagoon](../../../countries/PF/sights/maupiti-lagoon.yaml) | 9.3 / 9.1 / 8.8 / 9.3 / 9.2 | impact: -0.4 vs peer; uniqueness: -0.3 vs peer |
+| [PF/moorea-lagoon](../../../countries/PF/sights/moorea-lagoon.yaml) | 9.1 / 8.7 / 8.0 / 9.1 / 8.6 | significance: +0.5 vs peer; depth: +0.3 vs peer |
+| [PF/tetiaroa-atoll](../../../countries/PF/sights/tetiaroa-atoll.yaml) | 9.1 / 9.2 / 8.9 / 9.1 / 9.1 | uniqueness: -0.4 vs peer; significance: -0.4 vs peer |
+
+Ranking rows checked; peer YAML verification pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-pf-marae-arahurahu — Marae Arahurahu Tahiti Archaeological and Ceremonial Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/PF/sights/marae-arahurahu.yaml)
+- Action: new
+- Scope: Restored ceremonial site and interpretation.
+- Representative coordinates: -17.766, -149.482; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 9.0 / 9.1 / 8.8 / 8.6.
+- Categories: history:9.4,culture:9.3.
+- Overall: 88.30/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-pf-vaipahi-garden — Jardins d’Eau de Vaipahi Tahiti Botanical and Waterfall Trails — 2026-11-27
+
+- YAML: [source](../../../countries/PF/sights/vaipahi-garden.yaml)
+- Action: new
+- Scope: Botanical garden and water trails.
+- Representative coordinates: -17.764, -149.419; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.3 / 8.9 / 8.7.
+- Categories: nature:9.3,photography:9.3,relaxation:9.2.
+- Overall: 86.50/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+## sight-pf-tikehau-lagoon — Tikehau Lagoon Pink Sand Motu and Tuheiava Pass Diving — 2026-11-27
+
+- YAML: [source](../../../countries/PF/sights/tikehau-lagoon.yaml)
+- Action: new
+- Scope: Atoll lagoon, pink sand motu, manta observation and pass diving combined; no individual motu or manta site duplicates. Representative atoll coordinate.
+- Representative coordinates: -15.03, -148.27; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.3 / 8.8 / 9.3 / 9.2.
+- Categories: nature:9.4,beaches:9.4,wildlife:9.4,adventure:9.3.
+- Overall: 91.90/100.
+- Decision: Source-informed provisional assessment from indexed tourism/conservation excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.tahititourisme.com/preparing-you-trip/itinerary-suggestions/escape-to-tikehau/ ; https://www.tahititourisme.com/activities/diving/tikehau/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PF/rangiroa-blue-lagoon](../../../countries/PF/sights/rangiroa-blue-lagoon.yaml) | 9.3 / 9.2 / 8.6 / 9.3 / 9.0 | significance: +0.2 vs peer; depth: +0.2 vs peer |
+| [PF/fakarava-south-pass](../../../countries/PF/sights/fakarava-south-pass.yaml) | 9.4 / 9.2 / 8.7 / 9.3 / 8.6 | depth: +0.6 vs peer; impact: -0.1 vs peer |
+| [PF/tahaa-coral-garden](../../../countries/PF/sights/tahaa-coral-garden.yaml) | 9.2 / 9.1 / 8.7 / 9.3 / 9.0 | uniqueness: +0.2 vs peer; depth: +0.2 vs peer |
+| [PF/maupiti-lagoon](../../../countries/PF/sights/maupiti-lagoon.yaml) | 9.3 / 9.1 / 8.8 / 9.3 / 9.2 | uniqueness: +0.2 vs peer; impact: +0.0 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-pf-fakarava-north-pass — Fakarava North Pass Garuae Drift Diving — 2026-11-27
+
+- YAML: [source](../../../countries/PF/sights/fakarava-north-pass.yaml)
+- Action: new
+- Scope: Northern pass only, physically separate from Tumakohua southern pass; large current-driven reef and pelagic dive experience, qualified divers only.
+- Representative coordinates: -16.065, -145.716; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.3 / 8.7 / 9.2 / 9.0.
+- Categories: adventure:9.4,wildlife:9.4,nature:9.3.
+- Overall: 91.35/100.
+- Decision: Source-informed provisional assessment from indexed tourism/conservation excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.tahititourisme.com/activities/diving/fakarava/ ; https://www.tahititourisme.com/the-best-diving-spots-in-fakarava/ ; https://www.tahititourisme.com/islands/fakarava/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PF/fakarava-south-pass](../../../countries/PF/sights/fakarava-south-pass.yaml) | 9.4 / 9.2 / 8.7 / 9.3 / 8.6 | depth: +0.4 vs peer; impact: -0.1 vs peer |
+| [PF/tiputa-pass](../../../countries/PF/sights/tiputa-pass.yaml) | 9.2 / 9.0 / 8.5 / 9.2 / 8.6 | depth: +0.4 vs peer; uniqueness: +0.3 vs peer |
+| [PF/tahaa-coral-garden](../../../countries/PF/sights/tahaa-coral-garden.yaml) | 9.2 / 9.1 / 8.7 / 9.3 / 9.0 | uniqueness: +0.2 vs peer; impact: +0.1 vs peer |
+| [PF/rangiroa-blue-lagoon](../../../countries/PF/sights/rangiroa-blue-lagoon.yaml) | 9.3 / 9.2 / 8.6 / 9.3 / 9.0 | uniqueness: +0.1 vs peer; significance: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-pf-gambier-lagoon — Gambier Lagoon Motu Excursions and Mount Duff Hiking — 2026-11-27
+
+- YAML: [source](../../../countries/PF/sights/gambier-lagoon.yaml)
+- Action: new
+- Scope: Gambier lagoon and mountain scenery combined; excludes religious heritage and pearl-production interpretation.
+- Representative coordinates: -23.125, -134.977; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.1 / 8.7 / 9.2 / 9.1.
+- Categories: nature:9.4,photography:9.4,adventure:9.3,beaches:9.3.
+- Overall: 90.65/100.
+- Decision: Source-informed provisional assessment from indexed tourism/conservation excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.tahititourisme.com/islands/gambier-islands/ ; https://www.tahititourisme.com/natural-heritage/mont-duff/ ; https://www.tahititourisme.com/an-unforgettable-voyage-to-the-gambier-islands/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PF/maupiti-lagoon](../../../countries/PF/sights/maupiti-lagoon.yaml) | 9.3 / 9.1 / 8.8 / 9.3 / 9.2 | impact: -0.1 vs peer; significance: -0.1 vs peer |
+| [PF/raivavae-lagoon](../../../countries/PF/sights/raivavae-lagoon.yaml) | 9.2 / 9.1 / 8.7 / 9.2 / 9.1 | impact: +0.0 vs peer; uniqueness: +0.0 vs peer |
+| [PF/bora-bora-lagoon](../../../countries/PF/sights/bora-bora-lagoon.yaml) | 9.5 / 9.2 / 8.0 / 9.3 / 8.8 | significance: +0.7 vs peer; impact: -0.3 vs peer |
+| [PF/tubuai-taitaa](../../../countries/PF/sights/tubuai-taitaa.yaml) | 8.9 / 8.8 / 8.5 / 9.0 / 8.9 | impact: +0.3 vs peer; uniqueness: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-pf-hitiaa-lavatubes — Hitia’a Lava Tubes and Guided Subterranean Hiking — 2026-11-27
+
+- YAML: [source](../../../countries/PF/sights/hitiaa-lavatubes.yaml)
+- Action: new
+- Scope: Guided subterranean river/cave experience in Hitia’a; distinct from surface waterfalls and Papenoo valley. Representative locality, not entrance.
+- Representative coordinates: -17.618, -149.342; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.3 / 8.8 / 9.1 / 9.0.
+- Categories: adventure:9.4,nature:9.4,photography:9.3.
+- Overall: 90.80/100.
+- Decision: Source-informed provisional assessment from indexed tourism/conservation excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.tahititourisme.com/natural-heritage/lavatubes-de-hitiaa/ ; https://www.tahititourisme.com/equipment/lavatubes/ ; https://www.tahititourisme.com/top-10-of-tahitis-most-beautiful-landscapes/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PF/fautaua-valley](../../../countries/PF/sights/fautaua-valley.yaml) | 9.1 / 9.0 / 8.6 / 9.2 / 9.1 | uniqueness: +0.3 vs peer; significance: +0.2 vs peer |
+| [PF/papenoo-valley](../../../countries/PF/sights/papenoo-valley.yaml) | 8.8 / 8.4 / 7.6 / 8.7 / 8.5 | significance: +1.2 vs peer; uniqueness: +0.9 vs peer |
+| [PF/aorai-mountain](../../../countries/PF/sights/aorai-mountain.yaml) | 9.1 / 9.0 / 8.6 / 9.2 / 9.2 | uniqueness: +0.3 vs peer; significance: +0.2 vs peer |
+| [PF/faarumai-waterfalls](../../../countries/PF/sights/faarumai-waterfalls.yaml) | 8.2 / 7.5 / 6.7 / 8.0 / 7.3 | significance: +2.1 vs peer; uniqueness: +1.8 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-pf-moorea-whale-watching — Moorea and Tahiti Offshore Humpback Whale Watching — 2026-11-27
+
+- YAML: [source](../../../countries/PF/sights/moorea-whale-watching.yaml)
+- Action: new
+- Scope: Combined nearby Society Islands boat-based whale observation; geographically separate from Rurutu; excludes lagoon tours, swimming with whales and guaranteed sightings.
+- Representative coordinates: -17.49, -149.87; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.2 / 8.8 / 9.2 / 8.9.
+- Categories: wildlife:9.4,nature:9.4,photography:9.3.
+- Overall: 90.60/100.
+- Decision: Source-informed provisional assessment from indexed tourism/conservation excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.tahititourisme.com/activities/diving/moorea/ ; https://www.tahititourisme.com/service/mobydick-tahiti-whale-watching-tours/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PF/rurutu-whales](../../../countries/PF/sights/rurutu-whales.yaml) | 9.2 / 9.4 / 9.0 / 9.3 / 9.2 | depth: -0.3 vs peer; uniqueness: -0.2 vs peer |
+| [PF/moorea-lagoon](../../../countries/PF/sights/moorea-lagoon.yaml) | 9.1 / 8.7 / 8.0 / 9.1 / 8.6 | significance: +0.8 vs peer; uniqueness: +0.5 vs peer |
+| [PF/tiputa-pass](../../../countries/PF/sights/tiputa-pass.yaml) | 9.2 / 9.0 / 8.5 / 9.2 / 8.6 | significance: +0.3 vs peer; depth: +0.3 vs peer |
+| [PF/tetiaroa-atoll](../../../countries/PF/sights/tetiaroa-atoll.yaml) | 9.1 / 9.2 / 8.9 / 9.1 / 9.1 | depth: -0.2 vs peer; significance: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-pf-rikitea-religious-heritage — Rikitea Saint-Michel Cathedral and Gambier Missionary Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/PF/sights/rikitea-religious-heritage.yaml)
+- Action: new
+- Scope: Cathedral and related religious heritage circuit centered in Rikitea; distinct from landscape outings, not separate church entries.
+- Representative coordinates: -23.12, -134.969; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.3 / 9.3 / 8.8 / 9.0.
+- Categories: history:9.4,culture:9.4,architecture:9.3.
+- Overall: 90.75/100.
+- Decision: Source-informed provisional assessment from indexed tourism/conservation excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.tahititourisme.com/islands/gambier-islands/ ; https://www.tahititourisme.com/visit-saint-michel-cathedral-and-its-surroundings/ ; https://www.tahititourisme.com/preparing-you-trip/itinerary-suggestions/four-days-in-mangareva/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PF/taputapuatea](../../../countries/PF/sights/taputapuatea.yaml) | 8.8 / 9.3 / 9.4 / 8.6 / 8.5 | depth: +0.5 vs peer; experience: +0.2 vs peer |
+| [PF/maeva-marae](../../../countries/PF/sights/maeva-marae.yaml) | 8.8 / 9.1 / 9.2 / 8.8 / 8.9 | uniqueness: +0.2 vs peer; impact: +0.1 vs peer |
+| [PF/marae-arahurahu](../../../countries/PF/sights/marae-arahurahu.yaml) | 8.6 / 9.0 / 9.1 / 8.8 / 8.6 | depth: +0.4 vs peer; impact: +0.3 vs peer |
+| [PF/museum-tahiti-islands](../../../countries/PF/sights/museum-tahiti-islands.yaml) | 9.1 / 9.3 / 9.4 / 9.1 / 9.3 | experience: -0.3 vs peer; depth: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-pf-orohena-summit — Mount Orohena Highest Summit Guided Trek — 2026-11-27
+
+- YAML: [source](../../../countries/PF/sights/orohena-summit.yaml)
+- Action: new
+- Scope: Distinct 2241-metre summit route; separate from Aorai ridge and valley tours. Guide recommended; access not assumed.
+- Representative coordinates: -17.609, -149.477; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.0 / 8.8 / 9.0 / 9.1.
+- Categories: adventure:9.4,nature:9.4,photography:9.3.
+- Overall: 90.30/100.
+- Decision: Source-informed provisional assessment from indexed tourism/conservation excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.tahititourisme.com/natural-heritage/mont-orohena/ ; https://www.tahititourisme.com/islands/tahiti/what-to-do-in-tahiti/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PF/aorai-mountain](../../../countries/PF/sights/aorai-mountain.yaml) | 9.1 / 9.0 / 8.6 / 9.2 / 9.2 | significance: +0.2 vs peer; experience: -0.2 vs peer |
+| [PF/fautaua-valley](../../../countries/PF/sights/fautaua-valley.yaml) | 9.1 / 9.0 / 8.6 / 9.2 / 9.1 | significance: +0.2 vs peer; experience: -0.2 vs peer |
+| [PF/papenoo-valley](../../../countries/PF/sights/papenoo-valley.yaml) | 8.8 / 8.4 / 7.6 / 8.7 / 8.5 | significance: +1.2 vs peer; uniqueness: +0.6 vs peer |
+| [PF/maupiti-lagoon](../../../countries/PF/sights/maupiti-lagoon.yaml) | 9.3 / 9.1 / 8.8 / 9.3 / 9.2 | experience: -0.3 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-pf-temehani-plateau — Mount Temehani Raiatea Endemic Flora and Guided Plateau Trek — 2026-11-27
+
+- YAML: [source](../../../countries/PF/sights/temehani-plateau.yaml)
+- Action: new
+- Scope: Guided plateau hike with endemic flora, no guaranteed sighting or entry into restricted conservation areas; not Taputapuātea ceremonial landscape visit.
+- Representative coordinates: -16.813, -151.462; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.1 / 8.8 / 9.0.
+- Categories: nature:9.4,adventure:9.3,photography:9.3.
+- Overall: 90.65/100.
+- Decision: Source-informed provisional assessment from indexed tourism/conservation excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.tahititourisme.com/itinerary/mont-temehani/ ; https://www.tahititourisme.com/natural-heritage/tiare-apetahi/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PF/aorai-mountain](../../../countries/PF/sights/aorai-mountain.yaml) | 9.1 / 9.0 / 8.6 / 9.2 / 9.2 | significance: +0.5 vs peer; experience: -0.4 vs peer |
+| [PF/taputapuatea](../../../countries/PF/sights/taputapuatea.yaml) | 8.8 / 9.3 / 9.4 / 8.6 / 8.5 | depth: +0.5 vs peer; significance: -0.3 vs peer |
+| [PF/maupiti-lagoon](../../../countries/PF/sights/maupiti-lagoon.yaml) | 9.3 / 9.1 / 8.8 / 9.3 / 9.2 | experience: -0.5 vs peer; impact: -0.3 vs peer |
+| [PF/fautaua-valley](../../../countries/PF/sights/fautaua-valley.yaml) | 9.1 / 9.0 / 8.6 / 9.2 / 9.1 | significance: +0.5 vs peer; experience: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-pf-rimatara-birdwatching — Rimatara Native Birdwatching and Conservation Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/PF/sights/rimatara-birdwatching.yaml)
+- Action: new
+- Scope: Community-guided native bird observation, including threatened Kuhl’s lorikeet and reed warbler; no nest access or guaranteed sightings.
+- Representative coordinates: -22.65, -152.805; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 9.3 / 9.2 / 8.7 / 8.9.
+- Categories: wildlife:9.4,nature:9.4,culture:9.2.
+- Overall: 90.00/100.
+- Decision: Source-informed provisional assessment from indexed tourism/conservation excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.tahititourisme.com/islands/austral-islands/what-to-do-in-the-austral-islands/ ; https://parrots.org/projects/kuhls-lorikeet-conservation-and-research/ ; https://www.airtahiti.com/en/archipel-des-australes.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PF/tetiaroa-atoll](../../../countries/PF/sights/tetiaroa-atoll.yaml) | 9.1 / 9.2 / 8.9 / 9.1 / 9.1 | experience: -0.4 vs peer; impact: -0.3 vs peer |
+| [PF/rurutu-whales](../../../countries/PF/sights/rurutu-whales.yaml) | 9.2 / 9.4 / 9.0 / 9.3 / 9.2 | experience: -0.6 vs peer; impact: -0.4 vs peer |
+| [PF/fakarava-south-pass](../../../countries/PF/sights/fakarava-south-pass.yaml) | 9.4 / 9.2 / 8.7 / 9.3 / 8.6 | impact: -0.6 vs peer; experience: -0.6 vs peer |
+| [PF/marquesas](../../../countries/PF/sights/marquesas.yaml) | 9.4 / 9.4 / 9.3 / 9.0 / 9.2 | impact: -0.6 vs peer; experience: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-pf-manihi-lagoon — Manihi Turipaoa Pass Reef Diving and Lagoon Excursions — 2026-11-27
+
+- YAML: [source](../../../countries/PF/sights/manihi-lagoon.yaml)
+- Action: new
+- Scope: Separate atoll and pass diving experience; no standalone pearl farm or motu entries.
+- Representative coordinates: -14.46, -146.07; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.0 / 8.5 / 9.0 / 8.8.
+- Categories: wildlife:9.3,nature:9.3,adventure:9.3.
+- Overall: 88.50/100.
+- Decision: Source-informed provisional assessment from indexed tourism/conservation excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.tahititourisme.com/activities/diving/manihi/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PF/tiputa-pass](../../../countries/PF/sights/tiputa-pass.yaml) | 9.2 / 9.0 / 8.5 / 9.2 / 8.6 | impact: -0.3 vs peer; experience: -0.2 vs peer |
+| [PF/fakarava-south-pass](../../../countries/PF/sights/fakarava-south-pass.yaml) | 9.4 / 9.2 / 8.7 / 9.3 / 8.6 | impact: -0.5 vs peer; experience: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-pf-huahine-lagoon — Huahine Lagoon Motu and Coral Garden Excursions — 2026-11-27
+
+- YAML: [source](../../../countries/PF/sights/huahine-lagoon.yaml)
+- Action: new
+- Scope: Lagoon and motu outings combined, separate from Maeva terrestrial archaeology.
+- Representative coordinates: -16.76, -151.01; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 9.0 / 8.9 / 8.4 / 9.1 / 8.8.
+- Categories: nature:9.3,beaches:9.3,photography:9.3.
+- Overall: 88.50/100.
+- Decision: Desk-based provisional estimate from regional overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PF/moorea-lagoon](../../../countries/PF/sights/moorea-lagoon.yaml) | 9.1 / 8.7 / 8.0 / 9.1 / 8.6 | significance: +0.4 vs peer; uniqueness: +0.2 vs peer |
+| [PF/tahaa-coral-garden](../../../countries/PF/sights/tahaa-coral-garden.yaml) | 9.2 / 9.1 / 8.7 / 9.3 / 9.0 | significance: -0.3 vs peer; impact: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-pf-faaroa-river — Faaroa River Raiatea Rainforest Kayaking — 2026-11-27
+
+- YAML: [source](../../../countries/PF/sights/faaroa-river.yaml)
+- Action: new
+- Scope: River paddling and rainforest observation, not broader island landscape.
+- Representative coordinates: -16.819, -151.414; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.8 / 8.5 / 8.9 / 8.7.
+- Categories: nature:9.3,adventure:9.2,photography:9.2.
+- Overall: 86.85/100.
+- Decision: Desk-based provisional estimate from regional overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PF/papenoo-valley](../../../countries/PF/sights/papenoo-valley.yaml) | 8.8 / 8.4 / 7.6 / 8.7 / 8.5 | significance: +0.9 vs peer; uniqueness: +0.4 vs peer |
+| [PF/moorea-lagoon](../../../countries/PF/sights/moorea-lagoon.yaml) | 9.1 / 8.7 / 8.0 / 9.1 / 8.6 | impact: -0.5 vs peer; significance: +0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-pf-tahaa-vanilla — Taha’a Vanilla Plantation and Cultivation Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/PF/sights/tahaa-vanilla.yaml)
+- Action: new
+- Scope: Named island agricultural visitor experience, representative inland area; no duplication of coral garden.
+- Representative coordinates: -16.62, -151.49; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 9.0 / 8.8 / 8.8 / 8.8.
+- Categories: culture:9.3,food:9.3,history:9.2.
+- Overall: 87.90/100.
+- Decision: Desk-based provisional estimate from regional overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PF/papeete-market](../../../countries/PF/sights/papeete-market.yaml) | 7.4 / 7.8 / 7.3 / 8.0 / 7.3 | significance: +1.5 vs peer; depth: +1.5 vs peer |
+| [PF/museum-tahiti-islands](../../../countries/PF/sights/museum-tahiti-islands.yaml) | 9.1 / 9.3 / 9.4 / 9.1 / 9.3 | significance: -0.6 vs peer; impact: -0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-pf-pointe-venus — Pointe Vénus Mahina Lighthouse and Historic Black Sand Beach — 2026-11-27
+
+- YAML: [source](../../../countries/PF/sights/pointe-venus.yaml)
+- Action: new
+- Scope: Historic transit-of-Venus location, lighthouse and adjacent beach combined.
+- Representative coordinates: -17.495, -149.495; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 9.0 / 8.7 / 8.6.
+- Categories: history:9.3,photography:9.2,beaches:9.1.
+- Overall: 87.75/100.
+- Decision: Desk-based provisional estimate from regional overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PF/matira-beach](../../../countries/PF/sights/matira-beach.yaml) | 8.6 / 7.8 / 6.4 / 8.7 / 6.8 | significance: +2.6 vs peer; depth: +1.8 vs peer |
+| [PF/marae-arahurahu](../../../countries/PF/sights/marae-arahurahu.yaml) | 8.6 / 9.0 / 9.1 / 8.8 / 8.6 | uniqueness: -0.2 vs peer; impact: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-pf-rurutu-caves — Rurutu Ana Aeo and Ana Taupee Limestone Caves — 2026-11-27
+
+- YAML: [source](../../../countries/PF/sights/rurutu-caves.yaml)
+- Action: new
+- Scope: Guided cave interiors and limestone formations only; no overlap credit for coastal whale excursions. Representative island location pending exact cave coordinates.
+- Representative coordinates: -22.45, -151.35; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 9.0 / 8.7 / 8.8 / 8.8.
+- Categories: nature:9.3,adventure:9.2,photography:9.3.
+- Overall: 88.30/100.
+- Decision: Desk-based provisional estimate from regional overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PF/fautaua-valley](../../../countries/PF/sights/fautaua-valley.yaml) | 9.1 / 9.0 / 8.6 / 9.2 / 9.1 | experience: -0.4 vs peer; impact: -0.3 vs peer |
+| [PF/faarumai-waterfalls](../../../countries/PF/sights/faarumai-waterfalls.yaml) | 8.2 / 7.5 / 6.7 / 8.0 / 7.3 | significance: +2.0 vs peer; uniqueness: +1.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+

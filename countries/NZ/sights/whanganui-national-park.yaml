@@ -1,0 +1,17 @@
+id: sight-nz-whanganui-national-park
+name: "Whanganui National Park"
+location:
+  country_code: NZ
+  latitude: -39.313889
+  longitude: 174.968333
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 8.9
+  experience: 8.9
+  depth: 9.1
+  categories:
+    nature: 9.1
+    adventure: 9.2
+    culture: 8.8
+    photography: 8.9

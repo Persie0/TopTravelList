@@ -1,0 +1,16 @@
+id: sight-fr-musee-renoir-cagnes
+name: "Musée Renoir Cagnes-sur-Mer House and Gardens"
+location:
+  country_code: FR
+  latitude: 43.664
+  longitude: 7.156
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 8.9
+  experience: 8.8
+  depth: 8.7
+  categories:
+    culture: 9.3
+    history: 9.2
+    relaxation: 9.0

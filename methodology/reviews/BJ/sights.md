@@ -662,3 +662,6 @@
 | [Seri Menanti Old Palace](../../../countries/MY/sights/seri-menanti-old-palace.yaml) | 8.4 / 8.8 / 8.6 / 8.3 / 7.8 | 84.65/100 | Smaller royal palace is less broad but closer material heritage comparator. |
 | [Hohensalzburg Fortress](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | 9.1 / 9.1 / 9.3 / 9.4 / 8.9 | 91.65/100 | Strong historic defensive and civic ensemble with more established visitor circuit. |
 
+### 2026-11-27 reassessment — Dantokpa Market
+
+See [pass 219 individual decision](../worldwide-restored-access-pass219-2026-11-27.md#bjdantokpa-market--dantokpa-market) for source details, four peers, and current provisional rating 81.85. Replaces earlier deferral, not earlier review history.

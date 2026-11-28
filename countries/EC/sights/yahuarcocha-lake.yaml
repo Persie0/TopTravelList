@@ -1,0 +1,16 @@
+id: sight-ec-yahuarcocha-lake
+name: "Yahuarcocha Lake Landscape and Historical Interpretation"
+location:
+  country_code: EC
+  latitude: 0.38
+  longitude: -78.1
+scores:
+  impact: 8.1
+  uniqueness: 8.3
+  significance: 8.8
+  experience: 8.4
+  depth: 8.2
+  categories:
+    nature: 8.9
+    history: 9.0
+    photography: 8.9

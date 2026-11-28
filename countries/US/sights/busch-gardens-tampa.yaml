@@ -1,0 +1,16 @@
+id: sight-us-busch-gardens-tampa
+name: "Busch Gardens Tampa Bay Theme Park and Zoo"
+location:
+  country_code: US
+  latitude: 28.037
+  longitude: -82.419
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 8.7
+  experience: 9.4
+  depth: 9.2
+  categories:
+    family: 9.4
+    adventure: 9.3
+    wildlife: 9.2

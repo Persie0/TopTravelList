@@ -1,0 +1,16 @@
+id: sight-nc-southern-whales
+name: "Great South Seasonal Humpback Whale Watching"
+location:
+  country_code: NC
+  latitude: -22.35
+  longitude: 166.82
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 8.8
+  experience: 9.2
+  depth: 8.9
+  categories:
+    wildlife: 9.4
+    nature: 9.3
+    photography: 9.3

@@ -1,0 +1,16 @@
+id: sight-re-kelonia
+name: "Kélonia Saint-Leu Sea Turtle Observatory and Rehabilitation Centre"
+location:
+  country_code: RE
+  latitude: -21.151
+  longitude: 55.283
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 8.9
+  depth: 8.6
+  categories:
+    wildlife: 9.3
+    nature: 9.2
+    family: 9.3

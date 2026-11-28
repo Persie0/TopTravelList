@@ -2,7 +2,7 @@
 
 # Belarus (BY) — Sights & attractions ranking
 
-**34 ranked** · **1 unassessed** · **35 total** · Worldwide scoring **v2**
+**35 ranked** · **0 unassessed** · **35 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (34)
+## Complete ranked list (35)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -41,21 +41,14 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 25 | [Church of St John the Baptist, Kamai](sights/kamai-church.yaml) | Religious site | **83.05** | **Architecture 9.0**, **History 9.0** | 8.2 / 8.6 / 8.7 / 8.1 / 7.4 | [55.04, 26.86](https://www.google.com/maps/search/?api=1&query=55.04,26.86) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Church%20of%20St%20John%20the%20Baptist%2C%20Kamai%2C%20Belarus) |
 | 26 | [St Nikita wooden church, Zditovo](sights/zditovo-church.yaml) | Religious site | **82.85** | **Architecture 9.1**, **History 9.0** | 8.1 / 8.7 / 8.8 / 8.0 / 7.2 | [52.18, 24.05](https://www.google.com/maps/search/?api=1&query=52.18,24.05) | [Google Maps](https://www.google.com/maps/search/?api=1&query=St%20Nikita%20wooden%20church%2C%20Zditovo%2C%20Belarus) |
 | 27 | [Marc Chagall House Museum, Vitebsk](sights/chagall-museum.yaml) | Museum / heritage | **82.80** | **Culture 9.1**, **History 8.8** | 7.9 / 8.6 / 8.9 / 8.2 / 7.5 | [55.199, 30.19](https://www.google.com/maps/search/?api=1&query=55.199,30.19) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Marc%20Chagall%20House%20Museum%2C%20Vitebsk%2C%20Belarus) |
-| 28 | [Novogrudok Castle ruins](sights/novogrudok-castle.yaml) | Museum / heritage | **81.20** | **History 9.0**, **Photography 8.6** | 8.0 / 8.2 / 8.7 / 8.0 / 7.3 | [53.598, 25.829](https://www.google.com/maps/search/?api=1&query=53.598,25.829) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Novogrudok%20Castle%20ruins%2C%20Belarus) |
-| 29 | [Dudutki traditional crafts museum](sights/dudutki.yaml) | Museum / heritage | **80.15** | **Culture 8.8**, **Family 8.6**, **History 8.5** | 7.8 / 8.0 / 7.9 / 8.5 / 8.2 | [53.548, 27.681](https://www.google.com/maps/search/?api=1&query=53.548,27.681) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dudutki%20traditional%20crafts%20museum%2C%20Belarus) |
-| 30 | [Struve Geodetic Arc – Chekutsk](sights/struve-chekutsk.yaml) | Attraction | **74.00** | **History 8.6** | 6.7 / 8.0 / 8.6 / 7.2 / 5.9 | [52.207778, 25.556389](https://www.google.com/maps/search/?api=1&query=52.207778,25.556389) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Struve%20Geodetic%20Arc%20%E2%80%93%20Chekutsk%2C%20Belarus) |
-| 30 | [Struve Geodetic Arc – Tupishki](sights/struve-tupishki.yaml) | Attraction | **74.00** | **History 8.6** | 6.7 / 8.0 / 8.6 / 7.2 / 5.9 | [54.291667, 26.045278](https://www.google.com/maps/search/?api=1&query=54.291667,26.045278) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Struve%20Geodetic%20Arc%20%E2%80%93%20Tupishki%2C%20Belarus) |
-| 32 | [Struve Geodetic Arc – Ossovnitsa](sights/struve-ossovnitsa.yaml) | Attraction | **73.55** | **History 8.6** | 6.6 / 8.0 / 8.6 / 7.1 / 5.9 | [52.289444, 25.649444](https://www.google.com/maps/search/?api=1&query=52.289444,25.649444) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Struve%20Geodetic%20Arc%20%E2%80%93%20Ossovnitsa%2C%20Belarus) |
-| 33 | [Struve Geodetic Arc – Lopaty](sights/struve-lopaty.yaml) | Attraction | **73.45** | **History 8.6** | 6.6 / 8.0 / 8.6 / 7.1 / 5.8 | [53.560556, 24.869722](https://www.google.com/maps/search/?api=1&query=53.560556,24.869722) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Struve%20Geodetic%20Arc%20%E2%80%93%20Lopaty%2C%20Belarus) |
-| 34 | [Struve Geodetic Arc – Leskovichi](sights/struve-leskovichi.yaml) | Attraction | **73.00** | **History 8.6** | 6.5 / 8.0 / 8.6 / 7.0 / 5.8 | [52.160833, 25.571389](https://www.google.com/maps/search/?api=1&query=52.160833,25.571389) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Struve%20Geodetic%20Arc%20%E2%80%93%20Leskovichi%2C%20Belarus) |
-
-## Not yet fully assessed (1)
-
-These destinations have no rank until all five core scores are assessed.
-
-| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
-| ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Wooden worship architecture of Polesye (tentative series)](sights/polesye-wooden-churches.yaml) | Attraction | **—** | **Architecture 9.1**, **Culture 9.0** | 8.1 / 8.8 / 8.8 / — / — | [52.2, 25.5](https://www.google.com/maps/search/?api=1&query=52.2,25.5) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Wooden%20worship%20architecture%20of%20Polesye%20%28tentative%20series%29%2C%20Belarus) |
+| 27 | [Wooden worship architecture of Polesye (tentative series)](sights/polesye-wooden-churches.yaml) | Attraction | **82.80** | **Architecture 9.1**, **Culture 9.0** | 8.1 / 8.8 / 8.8 / 7.4 / 7.8 | [52.2, 25.5](https://www.google.com/maps/search/?api=1&query=52.2,25.5) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Wooden%20worship%20architecture%20of%20Polesye%20%28tentative%20series%29%2C%20Belarus) |
+| 29 | [Novogrudok Castle ruins](sights/novogrudok-castle.yaml) | Museum / heritage | **81.20** | **History 9.0**, **Photography 8.6** | 8.0 / 8.2 / 8.7 / 8.0 / 7.3 | [53.598, 25.829](https://www.google.com/maps/search/?api=1&query=53.598,25.829) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Novogrudok%20Castle%20ruins%2C%20Belarus) |
+| 30 | [Dudutki traditional crafts museum](sights/dudutki.yaml) | Museum / heritage | **80.15** | **Culture 8.8**, **Family 8.6**, **History 8.5** | 7.8 / 8.0 / 7.9 / 8.5 / 8.2 | [53.548, 27.681](https://www.google.com/maps/search/?api=1&query=53.548,27.681) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dudutki%20traditional%20crafts%20museum%2C%20Belarus) |
+| 31 | [Struve Geodetic Arc – Chekutsk](sights/struve-chekutsk.yaml) | Attraction | **74.00** | **History 8.6** | 6.7 / 8.0 / 8.6 / 7.2 / 5.9 | [52.207778, 25.556389](https://www.google.com/maps/search/?api=1&query=52.207778,25.556389) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Struve%20Geodetic%20Arc%20%E2%80%93%20Chekutsk%2C%20Belarus) |
+| 31 | [Struve Geodetic Arc – Tupishki](sights/struve-tupishki.yaml) | Attraction | **74.00** | **History 8.6** | 6.7 / 8.0 / 8.6 / 7.2 / 5.9 | [54.291667, 26.045278](https://www.google.com/maps/search/?api=1&query=54.291667,26.045278) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Struve%20Geodetic%20Arc%20%E2%80%93%20Tupishki%2C%20Belarus) |
+| 33 | [Struve Geodetic Arc – Ossovnitsa](sights/struve-ossovnitsa.yaml) | Attraction | **73.55** | **History 8.6** | 6.6 / 8.0 / 8.6 / 7.1 / 5.9 | [52.289444, 25.649444](https://www.google.com/maps/search/?api=1&query=52.289444,25.649444) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Struve%20Geodetic%20Arc%20%E2%80%93%20Ossovnitsa%2C%20Belarus) |
+| 34 | [Struve Geodetic Arc – Lopaty](sights/struve-lopaty.yaml) | Attraction | **73.45** | **History 8.6** | 6.6 / 8.0 / 8.6 / 7.1 / 5.8 | [53.560556, 24.869722](https://www.google.com/maps/search/?api=1&query=53.560556,24.869722) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Struve%20Geodetic%20Arc%20%E2%80%93%20Lopaty%2C%20Belarus) |
+| 35 | [Struve Geodetic Arc – Leskovichi](sights/struve-leskovichi.yaml) | Attraction | **73.00** | **History 8.6** | 6.5 / 8.0 / 8.6 / 7.0 / 5.8 | [52.160833, 25.571389](https://www.google.com/maps/search/?api=1&query=52.160833,25.571389) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Struve%20Geodetic%20Arc%20%E2%80%93%20Leskovichi%2C%20Belarus) |
 
 ---
 

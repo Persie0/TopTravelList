@@ -1,0 +1,16 @@
+id: sight-eg-black-desert
+name: "Black Desert (Bahariya)"
+location:
+  country_code: EG
+  latitude: 28.150711
+  longitude: 28.728561
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.0
+  experience: 8.4
+  depth: 8.1
+  categories:
+    nature: 9.0
+    photography: 9.2
+    adventure: 8.8

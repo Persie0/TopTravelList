@@ -1,0 +1,16 @@
+id: sight-it-baths-caracalla
+name: "Baths of Caracalla Rome"
+location:
+  country_code: IT
+  latitude: 41.87924
+  longitude: 12.49303
+scores:
+  impact: 9.1
+  uniqueness: 8.9
+  significance: 9.3
+  experience: 8.8
+  depth: 8.8
+  categories:
+    history: 9.4
+    architecture: 9.3
+    photography: 9.1

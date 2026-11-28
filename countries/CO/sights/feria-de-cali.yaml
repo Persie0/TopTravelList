@@ -1,0 +1,16 @@
+id: sight-co-feria-de-cali
+name: "Feria de Cali Salsódromo Salsa Dance and Music Festival"
+location:
+  country_code: CO
+  latitude: 3.451
+  longitude: -76.532
+scores:
+  impact: 9.2
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 9.4
+  depth: 9.1
+  categories:
+    culture: 9.4
+    nightlife: 9.4
+    photography: 9.3

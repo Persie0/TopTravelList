@@ -1,0 +1,16 @@
+id: sight-py-san-bernardino-historic-town
+name: "San Bernardino Historic Town and Lakeside Public Promenade"
+location:
+  country_code: PY
+  latitude: -25.31
+  longitude: -57.3
+scores:
+  impact: 8.0
+  uniqueness: 8.1
+  significance: 8.3
+  experience: 8.6
+  depth: 8.2
+  categories:
+    architecture: 8.8
+    relaxation: 9.0
+    culture: 8.8

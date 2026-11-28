@@ -2,7 +2,7 @@
 
 # Western Sahara (EH) — Cities, towns & villages ranking
 
-**3 ranked** · **1 unassessed** · **4 total** · Worldwide scoring **v2**
+**4 ranked** · **0 unassessed** · **4 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,21 +10,14 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (3)
+## Complete ranked list (4)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | 1 | [Dakhla](cities/dakhla.yaml) | City / town | **76.30** | **Food 8.1**, **Culture 7.8** | 7.6 / 7.8 / 7.5 / 7.8 / 7.3 | [23.71, -15.94](https://www.google.com/maps/search/?api=1&query=23.71,-15.94) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dakhla%2C%20Western%20Sahara) |
-| 2 | [Laâyoune (El Aaiún)](cities/laayoune.yaml) | City / town | **74.15** | **History 8.0**, **Culture 7.9** | 7.0 / 7.5 / 8.0 / 7.2 / 7.6 | [27.1536, -13.2033](https://www.google.com/maps/search/?api=1&query=27.1536,-13.2033) | [Google Maps](https://www.google.com/maps/search/?api=1&query=La%C3%A2youne%20%28El%20Aai%C3%BAn%29%2C%20Western%20Sahara) |
-| 3 | [Boujdour](cities/boujdour.yaml) | City / town | **68.40** | **Food 7.3**, **Culture 7.1** | 6.7 / 7.0 / 6.9 / 7.0 / 6.5 | [26.13, -14.49](https://www.google.com/maps/search/?api=1&query=26.13,-14.49) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Boujdour%2C%20Western%20Sahara) |
-
-## Not yet fully assessed (1)
-
-These destinations have no rank until all five core scores are assessed.
-
-| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
-| ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Smara (Es Semara)](cities/smara.yaml) | City / town | **—** | **History 8.2** | — / 7.7 / 8.1 / — / — | [26.74, -11.68](https://www.google.com/maps/search/?api=1&query=26.74,-11.68) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Smara%20%28Es%20Semara%29%2C%20Western%20Sahara) |
+| 2 | [Smara (Es Semara)](cities/smara.yaml) | City / town | **76.15** | **History 8.2** | 7.3 / 7.7 / 8.1 / 7.4 / 7.7 | [26.74, -11.68](https://www.google.com/maps/search/?api=1&query=26.74,-11.68) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Smara%20%28Es%20Semara%29%2C%20Western%20Sahara) |
+| 3 | [Laâyoune (El Aaiún)](cities/laayoune.yaml) | City / town | **74.15** | **History 8.0**, **Culture 7.9** | 7.0 / 7.5 / 8.0 / 7.2 / 7.6 | [27.1536, -13.2033](https://www.google.com/maps/search/?api=1&query=27.1536,-13.2033) | [Google Maps](https://www.google.com/maps/search/?api=1&query=La%C3%A2youne%20%28El%20Aai%C3%BAn%29%2C%20Western%20Sahara) |
+| 4 | [Boujdour](cities/boujdour.yaml) | City / town | **68.40** | **Food 7.3**, **Culture 7.1** | 6.7 / 7.0 / 6.9 / 7.0 / 6.5 | [26.13, -14.49](https://www.google.com/maps/search/?api=1&query=26.13,-14.49) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Boujdour%2C%20Western%20Sahara) |
 
 ---
 

@@ -1,0 +1,16 @@
+id: sight-cl-francisco-coloane-whale-watching
+name: "Francisco Coloane Marine Park Guided Whale Watching"
+location:
+  country_code: CL
+  latitude: -53.88
+  longitude: -72.32
+scores:
+  impact: 9.4
+  uniqueness: 9.2
+  significance: 9.0
+  experience: 9.0
+  depth: 8.8
+  categories:
+    wildlife: 9.4
+    nature: 9.3
+    photography: 9.4

@@ -1,0 +1,16 @@
+id: sight-us-spearfish-canyon
+name: "Black Hills Spearfish Canyon Scenic Byway"
+location:
+  country_code: US
+  latitude: 44.35
+  longitude: -103.93
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.4
+  experience: 8.8
+  depth: 8.6
+  categories:
+    nature: 9.2
+    photography: 9.3
+    relaxation: 9.1

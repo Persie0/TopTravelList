@@ -1,0 +1,16 @@
+id: sight-us-cumberland-island
+name: "Cumberland Island National Seashore and Dungeness Ruins"
+location:
+  country_code: US
+  latitude: 30.78
+  longitude: -81.46
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.3
+    history: 9.2
+    wildlife: 9.3

@@ -1,0 +1,16 @@
+id: sight-tr-kultepe-kanesh
+name: "Kültepe-Kanesh Archaeological Site and Karum"
+location:
+  country_code: TR
+  latitude: 38.85061
+  longitude: 35.63457
+scores:
+  impact: 8.1
+  uniqueness: 9.1
+  significance: 9.4
+  experience: 8.2
+  depth: 8.4
+  categories:
+    history: 9.4
+    culture: 9.1
+    architecture: 8.7

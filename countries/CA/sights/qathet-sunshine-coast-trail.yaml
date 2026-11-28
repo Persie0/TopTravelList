@@ -1,0 +1,16 @@
+id: sight-ca-qathet-sunshine-coast-trail
+name: "Sunshine Coast Trail qathet Multi-day Hiking"
+location:
+  country_code: CA
+  latitude: 49.96
+  longitude: -124.55
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 9.0
+  depth: 9.0
+  categories:
+    adventure: 9.3
+    nature: 9.3
+    photography: 9.2

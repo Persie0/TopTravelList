@@ -1,0 +1,17 @@
+id: sight-fr-lac-annecy
+name: "Lac d’Annecy Lake and Lakeside Recreation"
+location:
+  country_code: FR
+  latitude: 45.855
+  longitude: 6.17
+scores:
+  impact: 9.3
+  uniqueness: 9.0
+  significance: 8.7
+  experience: 9.4
+  depth: 9.2
+  categories:
+    nature: 9.4
+    photography: 9.4
+    relaxation: 9.4
+    adventure: 9.2

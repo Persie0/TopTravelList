@@ -1,0 +1,16 @@
+id: sight-us-shenandoah
+name: "Shenandoah National Park"
+location:
+  country_code: US
+  latitude: 38.53
+  longitude: -78.35
+scores:
+  impact: 8.7
+  uniqueness: 8.5
+  significance: 8.6
+  experience: 8.9
+  depth: 8.9
+  categories:
+    nature: 9.2
+    adventure: 9.1
+    photography: 9.2

@@ -1,0 +1,16 @@
+id: sight-us-sun-studio
+name: "Sun Studio Memphis Historic Recording Studio Tour"
+location:
+  country_code: US
+  latitude: 35.139
+  longitude: -90.037
+scores:
+  impact: 8.8
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 9.0
+  depth: 8.6
+  categories:
+    culture: 9.4
+    history: 9.3
+    architecture: 8.5

@@ -1,0 +1,16 @@
+id: sight-ca-cathedral-provincial-park
+name: "Cathedral Provincial Park Alpine Lakes and Ridge Trails"
+location:
+  country_code: CA
+  latitude: 49.07
+  longitude: -120.2
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.5
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.3
+    adventure: 9.3
+    photography: 9.3

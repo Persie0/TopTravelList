@@ -1,0 +1,16 @@
+id: sight-ve-ciudad-bolivar-historic-centre
+name: "Ciudad Bolívar Historic Centre and Orinoco Waterfront"
+location:
+  country_code: VE
+  latitude: 8.13
+  longitude: -63.55
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.5
+  depth: 8.7
+  categories:
+    history: 9.3
+    architecture: 9.1
+    photography: 9.1

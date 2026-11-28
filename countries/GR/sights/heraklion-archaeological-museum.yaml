@@ -1,0 +1,16 @@
+id: sight-gr-heraklion-archaeological-museum
+name: "Heraklion Archaeological Museum"
+location:
+  country_code: GR
+  latitude: 35.3392
+  longitude: 25.1375
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 9.0
+  depth: 9.2
+  categories:
+    history: 9.4
+    culture: 9.4
+    architecture: 8.8

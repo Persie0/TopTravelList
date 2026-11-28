@@ -1,0 +1,16 @@
+id: sight-ca-science-world
+name: "Science World Vancouver"
+location:
+  country_code: CA
+  latitude: 49.273
+  longitude: -123.103
+scores:
+  impact: 8.5
+  uniqueness: 8.4
+  significance: 8.6
+  experience: 8.9
+  depth: 8.8
+  categories:
+    family: 9.3
+    architecture: 9.1
+    culture: 9.0

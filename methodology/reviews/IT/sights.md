@@ -4701,3 +4701,1592 @@
 - [Dated worldwide reassessment pass 57 — 2026-11-26](worldwide-deferred-pass57-2026-11-26.md)
 
 - [Dated worldwide reassessment pass 62 — 2026-11-26](worldwide-deferred-pass62-2026-11-26.md)
+
+
+## sight-it-blue-grotto-capri — Blue Grotto (Grotta Azzurra, Capri) — 2026-11-26
+
+- YAML: [source](../../../countries/IT/sights/blue-grotto-capri.yaml)
+- Action: new
+- Precise subject and factual basis: Sea cave known for blue light; short boat visit subject to weather, sea conditions and access; distinct from Capri island aggregate. Cultural context https://museicapri.cultura.gov.it/en/grotta-azzurra-en/. [Visitor information](https://corporate.coopculture.it/en/poi/blue-grotto/); source excerpts inspected 2026-11-26.
+- Location check: 40.56094, 14.20574; [published reference](https://mapcarta.com/33098174); approximate representative point rather than guaranteed entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinate values checked; independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [IT/capri](../../../countries/IT/sights/capri.yaml) | Parent island broader |
+| [PT/benagil](../../../countries/PT/sights/benagil.yaml) | Different sea cave and light |
+| [NZ/waitomo-glowworm-caves](../../../countries/NZ/sights/waitomo-glowworm-caves.yaml) | Different distinctive cave light |
+| [FR/calanques](../../../countries/FR/sights/calanques.yaml) | Greater coastal landscape breadth |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Remarkable blue light |
+| Uniqueness | 8.8 | Unusual optical cave experience with analogues |
+| Significance | 8.2 | Geological and historical interest |
+| Experience | 8.5 | Short condition-dependent boat experience |
+| Depth | 7.3 | Single cave |
+
+- Applicable categories: nature:9.0, photography:9.1, adventure:8.5.
+- Computed worldwide overall: 85.45/100.
+- High-score challenge: Below 90 overall. No 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access checks.
+
+## sight-it-museo-egizio — Museo Egizio (Egyptian Museum, Turin) — 2026-11-26
+
+- YAML: [source](../../../countries/IT/sights/museo-egizio.yaml)
+- Action: new
+- Precise subject: Turin museum's Egyptian archaeological collection and galleries, excluding other collections in Turin.
+- Location check: 45.06844, 7.68435; [published representative point](https://mapcarta.com/25741450), checked 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Checked visitor evidence: Museum's visitor map documents four exhibition floors; its collection catalogue states approximately 40,000 objects (https://collezioni.museoegizio.it/en-GB). [Primary visitor reference](https://www.museoegizio.it/en/explore/map/), accessed 2026-11-26. Sources support visitor scope, not numerical ratings.
+- Missing or uncertain facts: full independent corroboration and current availability of individual attractions or galleries.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [EG/grand-egyptian-museum](../../../countries/EG/sights/grand-egyptian-museum.yaml) | Giza holds more globally exceptional Egyptian heritage and monumental objects. |
+| [EG/egyptian-museum-cairo](../../../countries/EG/sights/egyptian-museum-cairo.yaml) | Cairo has exceptional direct Egyptian heritage holdings; Turin offers unusually extensive specialist interpretation abroad. |
+| [FR/louvre](../../../countries/FR/sights/louvre.yaml) | Louvre has broader encyclopedic collections; Turin's strength is concentrated Egyptology. |
+| [TR/istanbul-archaeological-museums](../../../countries/TR/sights/istanbul-archaeological-museums.yaml) | Istanbul spans more cultures; Turin is stronger in its specialist Egyptian focus. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Extensive original Egyptian objects create powerful material encounters. |
+| Uniqueness | 9.3 | Specialized Egyptian collection is unusually deep outside Egypt. |
+| Significance | 9.4 | Research and archaeological collection give major international historical importance. |
+| Experience | 9.1 | Multiple curated floors reward sustained engagement. |
+| Depth | 9.4 | Four floors and specialized holdings provide substantial depth. |
+
+- Applicable categories: history:9.4, culture:9.4, architecture:8.4.
+- Computed worldwide overall: 92.40/100.
+- High-score challenge: Above 90 because of the documented collection's international significance and visitor breadth; remains below world-leading broad collections in the comparison table. No 9.5+ scores.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.
+
+## sight-it-accademia-gallery-florence — Accademia Gallery (Florence) — 2026-11-26
+
+- YAML: [source](../../../countries/IT/sights/accademia-gallery-florence.yaml)
+- Action: new
+- Precise subject: Individual Florence museum; excludes the Uffizi and the wider historic centre.
+- Location check: 43.77692, 11.25876; [published representative point](https://mapcarta.com/36020978), accessed 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Checked visitor evidence: Michelangelo's David and other sculptures, Florentine gold-ground painting and plaster casts. [Reference 1](https://www.galleriaaccademiafirenze.it/en/); [Reference 2](https://tour.florence.it/florence/what-to-see/details/galleria-dell-accademia-david-di-michelangelo); inspected 2026-11-26. Sources support visitor scope, not numerical scores.
+- Missing or uncertain facts: complete independent corroboration and current gallery/object availability.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [FR/louvre](../../../countries/FR/sights/louvre.yaml) | Much broader collection and historical range. |
+| [IT/uffizi](../../../countries/IT/sights/uffizi.yaml) | Uffizi has greater painting breadth; Accademia has a distinctive sculpture focus. |
+| [ES/reina-sofia-museum](../../../countries/ES/sights/reina-sofia-museum.yaml) | Both anchor a focused visit around internationally consequential art, in different periods. |
+| [AT/albertina-museum](../../../countries/AT/sights/albertina-museum.yaml) | Albertina has wider exhibition variety; Accademia has a more singular Renaissance anchor. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.3 | The monumental original David provides exceptional artistic impact. |
+| Uniqueness | 9.4 | The original sculpture and accompanying Michelangelo works are difficult to substitute. |
+| Significance | 9.4 | Renaissance sculpture and painting have major international importance. |
+| Experience | 8.9 | Focused sculpture galleries provide a meaningful encounter. |
+| Depth | 8.4 | Smaller collection scope than encyclopedic art museums limits breadth. |
+
+- Applicable categories: culture:9.4, history:9.3, photography:8.4.
+- Computed worldwide overall: 91.95/100.
+- High-score challenge: Above 90 based on the particular significance, impact and experience explained above; comparison with broader worldwide leaders limits the rating. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.
+
+
+## sight-it-borghese-gallery — Borghese Gallery Rome — 2026-11-27
+
+- YAML: [source](../../../countries/IT/sights/borghese-gallery.yaml)
+- Action: new
+- Precise subject and limitations: Independent museum collection, not Villa Borghese park or Rome street ensemble.
+- Location check: 41.9142, 12.4922; [published representative point](https://en.wikipedia.org/wiki/Galleria_Borghese), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://galleriaborghese.cultura.gov.it/en/il-museo/); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/uffizi](../../../countries/IT/sights/uffizi.yaml) | 9.4 / 9.4 / 9.7 / 9.2 / 9.5 | depth: -0.8 vs peer; significance: -0.4 vs peer. |
+| [IT/accademia-gallery-florence](../../../countries/IT/sights/accademia-gallery-florence.yaml) | 9.3 / 9.4 / 9.4 / 8.9 / 8.4 | depth: +0.3 vs peer; impact: -0.2 vs peer. |
+| [IT/museo-egizio](../../../countries/IT/sights/museo-egizio.yaml) | 9.1 / 9.3 / 9.4 / 9.1 / 9.4 | depth: -0.7 vs peer; uniqueness: -0.1 vs peer. |
+| [PT/national-coach-museum](../../../countries/PT/sights/national-coach-museum.yaml) | 8.6 / 9.0 / 8.9 / 8.7 / 8.7 | impact: +0.5 vs peer; significance: +0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Exceptional sculpture and painting display. |
+| Uniqueness | 9.2 | Concentrated Bernini and Caravaggio collections. |
+| Significance | 9.3 | Major European art historical importance. |
+| Experience | 9.0 | Focused gallery visit. |
+| Depth | 8.7 | Two main exhibition floors rather than encyclopedic museum. |
+
+- Applicable categories: culture:9.4, history:9.1, architecture:9.0.
+- Computed worldwide overall: 91.10/100.
+- High-score challenge: 90+ provisional; comparative dimensions documented, below strongest existing Italian museum/archaeology anchors as applicable; further global calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-it-naples-archaeological-museum — National Archaeological Museum of Naples — 2026-11-27
+
+- YAML: [source](../../../countries/IT/sights/naples-archaeological-museum.yaml)
+- Action: new
+- Precise subject and limitations: Museum collections distinct from Pompeii ruins and Naples streets.
+- Location check: 40.85338, 14.25049; [published representative point](https://mapcarta.com/26953622), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.italia.it/en/campania/naples/national-archaeological-museum-naples); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/museo-egizio](../../../countries/IT/sights/museo-egizio.yaml) | 9.1 / 9.3 / 9.4 / 9.1 / 9.4 | experience: -0.2 vs peer; depth: -0.2 vs peer. |
+| [IT/pompeii](../../../countries/IT/sights/pompeii.yaml) | 9.6 / 9.7 / 9.7 / 9.3 / 9.5 | uniqueness: -0.5 vs peer; impact: -0.4 vs peer. |
+| [IT/uffizi](../../../countries/IT/sights/uffizi.yaml) | 9.4 / 9.4 / 9.7 / 9.2 / 9.5 | significance: -0.3 vs peer; experience: -0.3 vs peer. |
+| [PT/conimbriga-roman-ruins](../../../countries/PT/sights/conimbriga-roman-ruins.yaml) | 8.8 / 8.8 / 9.1 / 8.8 / 8.9 | impact: +0.4 vs peer; uniqueness: +0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Outstanding classical sculpture and mosaics. |
+| Uniqueness | 9.2 | Concentrated Vesuvian material and classical collections. |
+| Significance | 9.4 | Internationally important archaeological holdings. |
+| Experience | 8.9 | Extensive indoor galleries. |
+| Depth | 9.2 | Multiple substantial collections. |
+
+- Applicable categories: history:9.4, culture:9.4, architecture:8.8.
+- Computed worldwide overall: 91.95/100.
+- High-score challenge: 90+ provisional; comparative dimensions documented, below strongest existing Italian museum/archaeology anchors as applicable; further global calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-it-ostia-antica — Ostia Antica Archaeological Park — 2026-11-27
+
+- YAML: [source](../../../countries/IT/sights/ostia-antica.yaml)
+- Action: new
+- Precise subject and limitations: Extensive ancient port city ruins outside central Rome; museum grouped with site.
+- Location check: 41.75335, 12.28632; [published representative point](https://mapcarta.com/18689270), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.italia.it/en/lazio/rome/archaeological-park-of-ostia-antica); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/pompeii](../../../countries/IT/sights/pompeii.yaml) | 9.6 / 9.7 / 9.7 / 9.3 / 9.5 | uniqueness: -0.7 vs peer; impact: -0.5 vs peer. |
+| [IT/herculaneum](../../../countries/IT/sights/herculaneum.yaml) | 9.2 / 9.5 / 9.5 / 9.1 / 8.8 | uniqueness: -0.5 vs peer; depth: +0.4 vs peer. |
+| [ES/merida](../../../countries/ES/sights/merida.yaml) | 9.0 / 9.1 / 9.4 / 9.0 / 9.2 | significance: -0.2 vs peer; impact: +0.1 vs peer. |
+| [PT/conimbriga-roman-ruins](../../../countries/PT/sights/conimbriga-roman-ruins.yaml) | 8.8 / 8.8 / 9.1 / 8.8 / 8.9 | impact: +0.3 vs peer; depth: +0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Large preserved urban fabric. |
+| Uniqueness | 9.0 | Ancient port and apartment buildings. |
+| Significance | 9.2 | Important Roman urban archaeology. |
+| Experience | 9.0 | Walkable extensive excavations. |
+| Depth | 9.2 | Multiple streets, theatre and baths. |
+
+- Applicable categories: history:9.4, architecture:9.2, photography:9.1.
+- Computed worldwide overall: 90.90/100.
+- High-score challenge: 90+ provisional; comparative dimensions documented, below strongest existing Italian museum/archaeology anchors as applicable; further global calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-it-frasassi-caves — Frasassi Cave System — 2026-11-27
+
+- YAML: [source](../../../countries/IT/sights/frasassi-caves.yaml)
+- Action: new
+- Precise subject and limitations: Established show cave circuit and large chambers; excludes nearby sanctuary.
+- Location check: 43.3983612061, 12.9621305466; [published representative point](https://www.i-s-c-a.org/show-cave/75-grotte-di-frasassi), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.italia.it/en/marche/ancona/caves-of-frasassi); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/nerja-cave](../../../countries/ES/sights/nerja-cave.yaml) | 9.1 / 8.9 / 8.8 / 8.9 / 8.7 | impact: +0.2 vs peer; uniqueness: +0.2 vs peer. |
+| [ES/drach-caves](../../../countries/ES/sights/drach-caves.yaml) | 9.0 / 8.9 / 8.5 / 8.9 / 8.5 | impact: +0.3 vs peer; uniqueness: +0.2 vs peer. |
+| [PT/gruta-das-torres](../../../countries/PT/sights/gruta-das-torres.yaml) | 8.8 / 8.9 / 8.6 / 8.6 / 8.3 | impact: +0.5 vs peer; experience: +0.4 vs peer. |
+| [IT/evaporitic-karst](../../../countries/IT/sights/evaporitic-karst.yaml) | 8.7 / 9.3 / 9.4 / 8.6 / 8.7 | significance: -0.8 vs peer; impact: +0.6 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.3 | Exceptional chamber scale. |
+| Uniqueness | 9.1 | Distinct karst formations. |
+| Significance | 8.6 | Notable regional geological heritage. |
+| Experience | 9.0 | Established guided underground routes. |
+| Depth | 8.7 | Multiple chambers and formations. |
+
+- Applicable categories: nature:9.4, photography:9.3, adventure:9.1.
+- Computed worldwide overall: 90.05/100.
+- High-score challenge: 90+ provisional; comparative dimensions documented, below strongest existing Italian museum/archaeology anchors as applicable; further global calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-it-castellana-caves — Castellana Cave System — 2026-11-27
+
+- YAML: [source](../../../countries/IT/sights/castellana-caves.yaml)
+- Action: new
+- Precise subject and limitations: Show cave route including White Cave on extended circuit.
+- Location check: 40.8754234314, 17.1491451263; [published representative point](https://www.i-s-c-a.org/show-cave/74-grotte-di-castellana), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.italia.it/en/puglia/castellana-grotte/cultural-places/grotte-di-castellana); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/nerja-cave](../../../countries/ES/sights/nerja-cave.yaml) | 9.1 / 8.9 / 8.8 / 8.9 / 8.7 | significance: -0.3 vs peer; impact: -0.1 vs peer. |
+| [ES/drach-caves](../../../countries/ES/sights/drach-caves.yaml) | 9.0 / 8.9 / 8.5 / 8.9 / 8.5 | depth: +0.2 vs peer; impact: +0.0 vs peer. |
+| [PT/gruta-das-torres](../../../countries/PT/sights/gruta-das-torres.yaml) | 8.8 / 8.9 / 8.6 / 8.6 / 8.3 | depth: +0.4 vs peer; experience: +0.3 vs peer. |
+| [PT/sao-vicente-caves](../../../countries/PT/sights/sao-vicente-caves.yaml) | 8.5 / 8.7 / 8.4 / 8.6 / 8.3 | impact: +0.5 vs peer; depth: +0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Impressive chambers and white calcite. |
+| Uniqueness | 8.9 | Distinctive White Cave formations. |
+| Significance | 8.5 | Regional karst heritage. |
+| Experience | 8.9 | Guided extended underground route. |
+| Depth | 8.7 | Several connected chambers. |
+
+- Applicable categories: nature:9.2, photography:9.2, adventure:9.0.
+- Computed worldwide overall: 88.30/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-it-mole-antonelliana — Mole Antonelliana and National Cinema Museum — 2026-11-27
+
+- YAML: [source](../../../countries/IT/sights/mole-antonelliana.yaml)
+- Action: new
+- Precise subject and limitations: Museum and landmark architecture plus conditional panoramic lift grouped.
+- Location check: 45.06899, 7.69324; [published representative point](https://mapcarta.com/18711716), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.italia.it/en/piedmont/turin/national-museum-of-cinema); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/museo-egizio](../../../countries/IT/sights/museo-egizio.yaml) | 9.1 / 9.3 / 9.4 / 9.1 / 9.4 | significance: -0.7 vs peer; depth: -0.6 vs peer. |
+| [PT/clerigos-church-tower](../../../countries/PT/sights/clerigos-church-tower.yaml) | 8.7 / 8.6 / 8.7 / 8.8 / 8.2 | depth: +0.6 vs peer; uniqueness: +0.4 vs peer. |
+| [PT/maat-lisbon](../../../countries/PT/sights/maat-lisbon.yaml) | 8.7 / 8.9 / 8.7 / 8.8 / 8.8 | impact: +0.2 vs peer; experience: +0.2 vs peer. |
+| [ES/tower-hercules](../../../countries/ES/sights/tower-hercules.yaml) | 8.8 / 9.1 / 9.3 / 8.7 / 7.9 | depth: +0.9 vs peer; significance: -0.6 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Distinctive soaring interior. |
+| Uniqueness | 9.0 | Cinema collection integrated into unusual tower. |
+| Significance | 8.7 | Important Turin and film heritage. |
+| Experience | 9.0 | Exhibits and panorama. |
+| Depth | 8.8 | Substantial themed collections. |
+
+- Applicable categories: architecture:9.3, culture:9.2, photography:9.2, family:9.0.
+- Computed worldwide overall: 88.90/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-it-isola-bella-palace — Isola Bella Borromeo Palace and Gardens — 2026-11-27
+
+- YAML: [source](../../../countries/IT/sights/isola-bella-palace.yaml)
+- Action: new
+- Precise subject and limitations: Ticketed palace interiors and terraced gardens, distinct from general Maggiore-Orta lakeland experience.
+- Location check: 45.895326, 8.527166; [published representative point](https://www.outdooractive.com/en/poi/distretto-turistico-dei-laghi/isola-bella/67657796/), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://terreborromeo.it/en/isola-bella); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/maggiore-orta](../../../countries/IT/sights/maggiore-orta.yaml) | 9.2 / 9.0 / 8.7 / 9.2 / 9.2 | depth: -0.5 vs peer; experience: -0.3 vs peer. |
+| [IT/villa-este](../../../countries/IT/sights/villa-este.yaml) | 9.3 / 9.3 / 9.3 / 9.1 / 8.8 | significance: -0.6 vs peer; uniqueness: -0.3 vs peer. |
+| [PT/queluz-national-palace](../../../countries/PT/sights/queluz-national-palace.yaml) | 8.9 / 8.7 / 8.9 / 8.9 / 8.8 | uniqueness: +0.3 vs peer; impact: +0.2 vs peer. |
+| [ES/alcazar-seville](../../../countries/ES/sights/alcazar-seville.yaml) | 9.4 / 9.3 / 9.3 / 9.2 / 9.0 | significance: -0.6 vs peer; impact: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Dramatic island garden and palace setting. |
+| Uniqueness | 9.0 | Unusual terraced island estate. |
+| Significance | 8.7 | Significant Baroque aristocratic heritage. |
+| Experience | 8.9 | Combined palace and garden visit. |
+| Depth | 8.7 | Substantial but bounded estate. |
+
+- Applicable categories: architecture:9.3, photography:9.4, culture:9.0, nature:8.9.
+- Computed worldwide overall: 89.25/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-it-genoa-aquarium — Aquarium of Genoa — 2026-11-27
+
+- YAML: [source](../../../countries/IT/sights/genoa-aquarium.yaml)
+- Action: new
+- Precise subject and limitations: Aquarium exhibits, not historic Genoa palaces or general harbour walk.
+- Location check: 44.41015, 8.92629; [published representative point](https://mapcarta.com/28612424), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.acquariodigenova.it/en/route-map); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [PT/oceanario-de-lisboa](../../../countries/PT/sights/oceanario-de-lisboa.yaml) | 8.8 / 8.6 / 8.6 / 9.0 / 8.8 | significance: -0.3 vs peer; uniqueness: -0.2 vs peer. |
+| [PT/maat-lisbon](../../../countries/PT/sights/maat-lisbon.yaml) | 8.7 / 8.9 / 8.7 / 8.8 / 8.8 | uniqueness: -0.5 vs peer; significance: -0.4 vs peer. |
+| [IT/museo-egizio](../../../countries/IT/sights/museo-egizio.yaml) | 9.1 / 9.3 / 9.4 / 9.1 / 9.4 | significance: -1.1 vs peer; uniqueness: -0.9 vs peer. |
+| [PT/national-coach-museum](../../../countries/PT/sights/national-coach-museum.yaml) | 8.6 / 9.0 / 8.9 / 8.7 / 8.7 | uniqueness: -0.6 vs peer; significance: -0.6 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Large aquatic displays. |
+| Uniqueness | 8.4 | Strong but familiar aquarium format. |
+| Significance | 8.3 | Regional educational importance. |
+| Experience | 9.0 | Extensive visitor route. |
+| Depth | 8.9 | Multiple themed habitats. |
+
+- Applicable categories: family:9.3, wildlife:9.0, relaxation:8.8.
+- Computed worldwide overall: 86.10/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-it-sansevero-chapel — Sansevero Chapel Museum — 2026-11-27
+
+- YAML: [source](../../../countries/IT/sights/sansevero-chapel.yaml)
+- Action: new
+- Precise subject and limitations: Veiled Christ, other sculptures and anatomical machines; distinct interior collection, not Naples streets.
+- Location check: 40.8493, 14.2549; [published representative point](https://tourshoponhopoff.com/naples-tourist-map/), inspected via page or indexed excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.museosansevero.it/en/la-cappella-e-il-cristo-velato/sansevero-chapel-museum); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/borghese-gallery](../../../countries/IT/sights/borghese-gallery.yaml) | 9.1 / 9.2 / 9.3 / 9.0 / 8.7 | depth: -0.7 vs peer; significance: -0.3 vs peer. |
+| [IT/accademia-gallery-florence](../../../countries/IT/sights/accademia-gallery-florence.yaml) | 9.3 / 9.4 / 9.4 / 8.9 / 8.4 | significance: -0.4 vs peer; depth: -0.4 vs peer. |
+| [IT/last-supper](../../../countries/IT/sights/last-supper.yaml) | 9.0 / 9.5 / 9.6 / 8.7 / 7.3 | depth: +0.7 vs peer; significance: -0.6 vs peer. |
+| [IT/naples-archaeological-museum](../../../countries/IT/sights/naples-archaeological-museum.yaml) | 9.2 / 9.2 / 9.4 / 8.9 / 9.2 | depth: -1.2 vs peer; significance: -0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Exceptional marble sculpture. |
+| Uniqueness | 9.3 | Unusual sculptural illusion and ensemble. |
+| Significance | 9.0 | Important Baroque artistic heritage. |
+| Experience | 8.7 | Focused interior visit. |
+| Depth | 8.0 | Compact chapel and chamber. |
+
+- Applicable categories: culture:9.4, architecture:9.1, history:9.0.
+- Computed worldwide overall: 89.60/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-it-naples-underground — Naples Underground (Piazza San Gaetano) — 2026-11-27
+
+- YAML: [source](../../../countries/IT/sights/naples-underground.yaml)
+- Action: new
+- Precise subject and limitations: Specific authorized tour starting Piazza San Gaetano 68, cisterns and excavated spaces; excludes other underground operators and catacombs.
+- Location check: 40.8511, 14.2568; [published representative point](https://tourshoponhopoff.com/naples-tourist-map/), inspected via page or indexed excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.napolisotterranea.org/en/faq/); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/ostia-antica](../../../countries/IT/sights/ostia-antica.yaml) | 9.1 / 9.0 / 9.2 / 9.0 / 9.2 | depth: -0.6 vs peer; significance: -0.4 vs peer. |
+| [IT/herculaneum](../../../countries/IT/sights/herculaneum.yaml) | 9.2 / 9.5 / 9.5 / 9.1 / 8.8 | significance: -0.7 vs peer; uniqueness: -0.5 vs peer. |
+| [PT/aguas-livres](../../../countries/PT/sights/aguas-livres.yaml) | 8.7 / 8.8 / 9.0 / 8.5 / 8.2 | depth: +0.4 vs peer; experience: +0.3 vs peer. |
+| [IT/frasassi-caves](../../../countries/IT/sights/frasassi-caves.yaml) | 9.3 / 9.1 / 8.6 / 9.0 / 8.7 | impact: -0.5 vs peer; significance: +0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Evocative underground spaces. |
+| Uniqueness | 9.0 | Layered urban subterranean heritage. |
+| Significance | 8.8 | Greek and Roman engineering history. |
+| Experience | 8.8 | Established guided route. |
+| Depth | 8.6 | Multiple underground environments. |
+
+- Applicable categories: history:9.2, adventure:9.1, culture:9.0.
+- Computed worldwide overall: 88.30/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-it-capitoline-museums — Capitoline Museums Rome — 2026-11-27
+
+- YAML: [source](../../../countries/IT/sights/capitoline-museums.yaml)
+- Action: new
+- Precise subject and limitations: Palazzo dei Conservatori and Palazzo Nuovo collections; excludes urban piazza as separate attraction and Centrale Montemartini.
+- Location check: 41.89302, 12.48259; [published representative point](https://mapcarta.com/28375738), inspected via page or indexed excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.turismoroma.it/en/places/capitoline-museums); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/naples-archaeological-museum](../../../countries/IT/sights/naples-archaeological-museum.yaml) | 9.2 / 9.2 / 9.4 / 8.9 / 9.2 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer. |
+| [IT/borghese-gallery](../../../countries/IT/sights/borghese-gallery.yaml) | 9.1 / 9.2 / 9.3 / 9.0 / 8.7 | depth: +0.5 vs peer; uniqueness: -0.1 vs peer. |
+| [IT/museo-egizio](../../../countries/IT/sights/museo-egizio.yaml) | 9.1 / 9.3 / 9.4 / 9.1 / 9.4 | uniqueness: -0.2 vs peer; experience: -0.2 vs peer. |
+| [IT/uffizi](../../../countries/IT/sights/uffizi.yaml) | 9.4 / 9.4 / 9.7 / 9.2 / 9.5 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Outstanding ancient art and historic rooms. |
+| Uniqueness | 9.1 | Distinct Roman civic collections. |
+| Significance | 9.4 | Internationally significant classical art. |
+| Experience | 8.9 | Extensive museum circuits. |
+| Depth | 9.2 | Multiple collections and buildings. |
+
+- Applicable categories: history:9.4, culture:9.4, architecture:9.2.
+- Computed worldwide overall: 91.40/100.
+- High-score challenge: 90+ provisional; compared with existing international and Italian anchors; further global calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-it-castel-sant-angelo — Castel Sant'Angelo National Museum — 2026-11-27
+
+- YAML: [source](../../../countries/IT/sights/castel-sant-angelo.yaml)
+- Action: new
+- Precise subject and limitations: Hadrian's mausoleum, later fortress and museum interiors with terrace; excludes standalone bridge and Vatican.
+- Location check: 41.90308, 12.46618; [published representative point](https://mapcarta.com/N6499816579), inspected via page or indexed excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://direzionemuseiroma.cultura.gov.it/en/museo-nazionale-di-castel-santangelo/); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/pantheon](../../../countries/IT/sights/pantheon.yaml) | 9.4 / 9.5 / 9.6 / 9.0 / 8.0 | depth: +0.9 vs peer; uniqueness: -0.5 vs peer. |
+| [PT/sao-jorge-castle](../../../countries/PT/sights/sao-jorge-castle.yaml) | 9.0 / 8.7 / 8.9 / 8.9 / 8.7 | uniqueness: +0.3 vs peer; significance: +0.3 vs peer. |
+| [ES/alcazar-seville](../../../countries/ES/sights/alcazar-seville.yaml) | 9.4 / 9.3 / 9.3 / 9.2 / 9.0 | impact: -0.4 vs peer; uniqueness: -0.3 vs peer. |
+| [IT/castel-del-monte](../../../countries/IT/sights/castel-del-monte.yaml) | 9.1 / 9.3 / 9.3 / 8.7 / 8.0 | depth: +0.9 vs peer; uniqueness: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Monumental cylindrical structure and views. |
+| Uniqueness | 9.0 | Layered mausoleum and fortress form. |
+| Significance | 9.2 | Important Roman and papal history. |
+| Experience | 8.9 | Interior route and rooftop panorama. |
+| Depth | 8.9 | Multiple historical layers. |
+
+- Applicable categories: history:9.4, architecture:9.3, photography:9.2.
+- Computed worldwide overall: 90.15/100.
+- High-score challenge: 90+ provisional; compared with existing international and Italian anchors; further global calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-it-neptunes-grotto — Neptune's Grotto Sardinia — 2026-11-27
+
+- YAML: [source](../../../countries/IT/sights/neptunes-grotto.yaml)
+- Action: new
+- Precise subject and limitations: Marine cave with underground lake and formations; cliff staircase or boat approach conditional.
+- Location check: 40.5648486, 8.1601399; [published representative point](https://en.wikipedia.org/wiki/Neptune%27s_Grotto), inspected via page or indexed excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://sardegnaturismo.it/en/explore/neptunes-grotto-grotta-di-nettuno); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/frasassi-caves](../../../countries/IT/sights/frasassi-caves.yaml) | 9.3 / 9.1 / 8.6 / 9.0 / 8.7 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer. |
+| [IT/castellana-caves](../../../countries/IT/sights/castellana-caves.yaml) | 9.0 / 8.9 / 8.5 / 8.9 / 8.7 | depth: -0.2 vs peer; impact: +0.1 vs peer. |
+| [ES/drach-caves](../../../countries/ES/sights/drach-caves.yaml) | 9.0 / 8.9 / 8.5 / 8.9 / 8.5 | impact: +0.1 vs peer; experience: -0.1 vs peer. |
+| [IT/blue-grotto-capri](../../../countries/IT/sights/blue-grotto-capri.yaml) | 9.0 / 8.8 / 8.2 / 8.5 / 7.3 | depth: +1.2 vs peer; significance: +0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Striking coastal cavern and formations. |
+| Uniqueness | 8.9 | Distinct marine cave setting. |
+| Significance | 8.5 | Regional geological heritage. |
+| Experience | 8.8 | Established cave circuit and approach. |
+| Depth | 8.5 | Several chambers but bounded route. |
+
+- Applicable categories: nature:9.3, photography:9.3, adventure:9.1.
+- Computed worldwide overall: 88.25/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-it-gardaland — Gardaland Theme Park — 2026-11-27
+
+- YAML: [source](../../../countries/IT/sights/gardaland.yaml)
+- Action: new
+- Precise subject and limitations: Main theme park rides and shows; excludes separately ticketed aquarium and water park, hotels and Lake Garda scenery.
+- Location check: 45.45399, 10.71412; [published representative point](https://mapcarta.com/26952136), inspected via page or indexed excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.gardaland.it/en/explore-gardaland/gardaland-park/rides/); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/siam-park-tenerife](../../../countries/ES/sights/siam-park-tenerife.yaml) | 8.9 / 8.8 / 7.8 / 9.3 / 8.9 | uniqueness: -0.5 vs peer; depth: +0.2 vs peer. |
+| [ES/tibidabo-amusement-park](../../../countries/ES/sights/tibidabo-amusement-park.yaml) | 8.7 / 8.8 / 8.3 / 9.0 / 8.6 | uniqueness: -0.5 vs peer; depth: +0.5 vs peer. |
+| [IT/genoa-aquarium](../../../countries/IT/sights/genoa-aquarium.yaml) | 8.7 / 8.4 / 8.3 / 9.0 / 8.9 | significance: -0.4 vs peer; experience: +0.3 vs peer. |
+| [PT/oceanario-de-lisboa](../../../countries/PT/sights/oceanario-de-lisboa.yaml) | 8.8 / 8.6 / 8.6 / 9.0 / 8.8 | significance: -0.7 vs peer; uniqueness: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Large themed rides and scenery. |
+| Uniqueness | 8.3 | Varied but internationally familiar theme park. |
+| Significance | 7.9 | Regional leisure significance. |
+| Experience | 9.3 | Extensive ride and show programme. |
+| Depth | 9.1 | Multiple themed areas and attractions. |
+
+- Applicable categories: family:9.4, adventure:9.2, relaxation:8.6.
+- Computed worldwide overall: 86.00/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-it-san-fruttuoso-abbey — San Fruttuoso Abbey and Cove — 2026-11-27
+
+- YAML: [source](../../../countries/IT/sights/san-fruttuoso-abbey.yaml)
+- Action: new
+- Precise subject and limitations: Abbey interior and immediate cove with walking or ferry approach; excludes broad provisional Portofino park landscape and diving sites.
+- Location check: 44.31649, 9.17519; [published representative point](https://mapcarta.com/W204693123), inspected via page or indexed excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://fondoambiente.it/abbazia-di-san-fruttuoso-eng/); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/isola-bella-palace](../../../countries/IT/sights/isola-bella-palace.yaml) | 9.1 / 9.0 / 8.7 / 8.9 / 8.7 | depth: -0.3 vs peer; impact: -0.2 vs peer. |
+| [IT/blue-grotto-capri](../../../countries/IT/sights/blue-grotto-capri.yaml) | 9.0 / 8.8 / 8.2 / 8.5 / 7.3 | depth: +1.1 vs peer; significance: +0.4 vs peer. |
+| [PT/berlengas-reserve](../../../countries/PT/sights/berlengas-reserve.yaml) | 9.0 / 8.9 / 8.7 / 8.6 / 8.7 | experience: +0.3 vs peer; depth: -0.3 vs peer. |
+| [IT/cinque-terre-heritage](../../../countries/IT/sights/cinque-terre-heritage.yaml) | 9.5 / 9.3 / 9.0 / 9.2 / 9.3 | depth: -0.9 vs peer; impact: -0.6 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Striking abbey and secluded coast. |
+| Uniqueness | 8.8 | Unusual architecture integrated with bay. |
+| Significance | 8.6 | Notable medieval and Doria heritage. |
+| Experience | 8.9 | Distinct visit by sea or trail. |
+| Depth | 8.4 | Compact abbey and cove. |
+
+- Applicable categories: architecture:9.1, photography:9.3, history:8.9, nature:9.0.
+- Computed worldwide overall: 87.65/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-it-naples-catacombs — Catacombs of San Gennaro and San Gaudioso Naples — 2026-11-27
+
+- YAML: [source](../../../countries/IT/sights/naples-catacombs.yaml)
+- Action: new
+- Precise subject and limitations: Two separately located catacombs grouped because the San Gennaro admission includes San Gaudioso; representative San Gennaro point. Excludes Piazza San Gaetano underground route.
+- Location check: 40.86378, 14.24706; [published representative point](https://mapcarta.com/31909612), inspected via page or indexed excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://catacombedisangennaro.napoli.it/en/); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/etruscan-necropolises](../../../countries/IT/sights/etruscan-necropolises.yaml) | 8.9 / 9.3 / 9.4 / 8.8 / 9.0 | uniqueness: -0.3 vs peer; significance: -0.3 vs peer. |
+| [IT/domus-de-janas](../../../countries/IT/sights/domus-de-janas.yaml) | 8.4 / 9.3 / 9.4 / 8.5 / 8.8 | impact: +0.4 vs peer; uniqueness: -0.3 vs peer. |
+| [IT/ravenna-mosaics](../../../countries/IT/sights/ravenna-mosaics.yaml) | 9.3 / 9.5 / 9.6 / 9.0 / 9.2 | impact: -0.5 vs peer; uniqueness: -0.5 vs peer. |
+| [IT/ostia-antica](../../../countries/IT/sights/ostia-antica.yaml) | 9.1 / 9.0 / 9.2 / 9.0 / 9.2 | depth: -0.4 vs peer; impact: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Impressive early Christian burial spaces. |
+| Uniqueness | 9.0 | Distinct tuff-cut complexes and paintings. |
+| Significance | 9.1 | Important early Christian heritage. |
+| Experience | 8.8 | Established guided tours. |
+| Depth | 8.8 | Two distinct connected-by-ticket sites. |
+
+- Applicable categories: history:9.4, culture:9.2, architecture:9.0.
+- Computed worldwide overall: 89.10/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-it-pinacoteca-brera — Pinacoteca di Brera Milan — 2026-11-27
+
+- YAML: [source](../../../countries/IT/sights/pinacoteca-brera.yaml)
+- Action: new
+- Precise subject and limitations: Gallery of Italian and European painting in Palazzo Brera; excludes wider Brera district.
+- Location check: 45.47224, 9.18841; [published representative point](https://mapcarta.com/26244550/Map), inspected via page or indexed excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://pinacotecabrera.org/en/); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/uffizi](../../../countries/IT/sights/uffizi.yaml) | 9.4 / 9.4 / 9.7 / 9.2 / 9.5 | significance: -0.5 vs peer; depth: -0.5 vs peer. |
+| [IT/borghese-gallery](../../../countries/IT/sights/borghese-gallery.yaml) | 9.1 / 9.2 / 9.3 / 9.0 / 8.7 | depth: +0.3 vs peer; uniqueness: -0.2 vs peer. |
+| [IT/accademia-gallery-florence](../../../countries/IT/sights/accademia-gallery-florence.yaml) | 9.3 / 9.4 / 9.4 / 8.9 / 8.4 | depth: +0.6 vs peer; uniqueness: -0.4 vs peer. |
+| [IT/capitoline-museums](../../../countries/IT/sights/capitoline-museums.yaml) | 9.1 / 9.1 / 9.4 / 8.9 / 9.2 | significance: -0.2 vs peer; depth: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Exceptional painting collection. |
+| Uniqueness | 9.0 | Distinct Italian painting holdings. |
+| Significance | 9.2 | Important national collection. |
+| Experience | 8.9 | Dedicated gallery route. |
+| Depth | 9.0 | Multiple substantial galleries. |
+
+- Applicable categories: culture:9.4, history:9.2, architecture:8.9.
+- Computed worldwide overall: 90.25/100.
+- High-score challenge: 90+ provisional; compared with established anchors; further global calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-it-sforza-castle — Sforza Castle and Museums Milan — 2026-11-27
+
+- YAML: [source](../../../countries/IT/sights/sforza-castle.yaml)
+- Action: new
+- Precise subject and limitations: Castle courtyards and eight museums as one ensemble; excludes separate Sempione park.
+- Location check: 45.4706, 9.1797; [published representative point](https://castello-sforzesco.milano.it/en/come-arrivare/), inspected via page or indexed excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.milanocastello.it/i-musei/i-musei-del-castello-sforzesco); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/castel-sant-angelo](../../../countries/IT/sights/castel-sant-angelo.yaml) | 9.0 / 9.0 / 9.2 / 8.9 / 8.9 | depth: +0.3 vs peer; uniqueness: -0.2 vs peer. |
+| [PT/sao-jorge-castle](../../../countries/PT/sights/sao-jorge-castle.yaml) | 9.0 / 8.7 / 8.9 / 8.9 / 8.7 | depth: +0.5 vs peer; significance: +0.3 vs peer. |
+| [IT/castel-del-monte](../../../countries/IT/sights/castel-del-monte.yaml) | 9.1 / 9.3 / 9.3 / 8.7 / 8.0 | depth: +1.2 vs peer; uniqueness: -0.5 vs peer. |
+| [ES/alcazar-seville](../../../countries/ES/sights/alcazar-seville.yaml) | 9.4 / 9.3 / 9.3 / 9.2 / 9.0 | uniqueness: -0.5 vs peer; impact: -0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Monumental brick fortress. |
+| Uniqueness | 8.8 | Distinct Renaissance complex. |
+| Significance | 9.2 | Important Milanese heritage. |
+| Experience | 9.0 | Courtyard and museum circuits. |
+| Depth | 9.2 | Multiple museum collections. |
+
+- Applicable categories: history:9.3, architecture:9.3, culture:9.2, photography:9.1.
+- Computed worldwide overall: 90.10/100.
+- High-score challenge: 90+ provisional; compared with established anchors; further global calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-it-turin-automobile-museum — National Automobile Museum Turin — 2026-11-27
+
+- YAML: [source](../../../countries/IT/sights/turin-automobile-museum.yaml)
+- Action: new
+- Precise subject and limitations: Automotive history and design galleries, not Turin industrial heritage landscape.
+- Location check: 45.03186, 7.67349; [published representative point](https://mapcarta.com/36025284), inspected via page or indexed excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.museoauto.com/en/); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/mole-antonelliana](../../../countries/IT/sights/mole-antonelliana.yaml) | 8.9 / 9.0 / 8.7 / 9.0 / 8.8 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer. |
+| [IT/museo-egizio](../../../countries/IT/sights/museo-egizio.yaml) | 9.1 / 9.3 / 9.4 / 9.1 / 9.4 | significance: -0.6 vs peer; depth: -0.5 vs peer. |
+| [PT/national-coach-museum](../../../countries/PT/sights/national-coach-museum.yaml) | 8.6 / 9.0 / 8.9 / 8.7 / 8.7 | experience: +0.3 vs peer; depth: +0.2 vs peer. |
+| [IT/genoa-aquarium](../../../countries/IT/sights/genoa-aquarium.yaml) | 8.7 / 8.4 / 8.3 / 9.0 / 8.9 | uniqueness: +0.5 vs peer; significance: +0.5 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Strong vehicle displays. |
+| Uniqueness | 8.9 | Distinct automotive history collection. |
+| Significance | 8.8 | Important industrial design heritage. |
+| Experience | 9.0 | Engaging museum route. |
+| Depth | 8.9 | Extensive historical and technical exhibits. |
+
+- Applicable categories: culture:9.2, history:9.1, family:9.0.
+- Computed worldwide overall: 88.35/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-it-pitti-palace-museums — Pitti Palace Museums Florence — 2026-11-27
+
+- YAML: [source](../../../countries/IT/sights/pitti-palace-museums.yaml)
+- Action: new
+- Precise subject and limitations: Royal palace interiors, Palatine Gallery and other palace collections; excludes Boboli Gardens already in Medici serial property (https://whc.unesco.org/en/list/0175/maps/) and separately rated Uffizi.
+- Location check: 43.76506, 11.24982; [published representative point](https://mapcarta.com/25741578), inspected via page or indexed excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.uffizi.it/en/pitti-palace); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/uffizi](../../../countries/IT/sights/uffizi.yaml) | 9.4 / 9.4 / 9.7 / 9.2 / 9.5 | uniqueness: -0.4 vs peer; significance: -0.4 vs peer. |
+| [IT/borghese-gallery](../../../countries/IT/sights/borghese-gallery.yaml) | 9.1 / 9.2 / 9.3 / 9.0 / 8.7 | depth: +0.5 vs peer; uniqueness: -0.2 vs peer. |
+| [IT/caserta](../../../countries/IT/sights/caserta.yaml) | 9.4 / 9.2 / 9.3 / 9.1 / 9.4 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer. |
+| [PT/ajuda-national-palace](../../../countries/PT/sights/ajuda-national-palace.yaml) | 8.7 / 8.5 / 8.9 / 8.7 / 8.8 | impact: +0.5 vs peer; uniqueness: +0.5 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Exceptional furnished rooms and paintings. |
+| Uniqueness | 9.0 | Distinct royal collection display. |
+| Significance | 9.3 | Major Florentine and Italian royal history. |
+| Experience | 9.0 | Multiple museum circuits. |
+| Depth | 9.2 | Extensive palace collections. |
+
+- Applicable categories: culture:9.4, architecture:9.3, history:9.3.
+- Computed worldwide overall: 91.40/100.
+- High-score challenge: 90+ provisional; compared with established anchors; further global calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-it-bologna-two-towers — Two Towers of Bologna (Asinelli and Garisenda) — 2026-11-27
+
+- YAML: [source](../../../countries/IT/sights/bologna-two-towers.yaml)
+- Action: new
+- Precise subject and limitations: Paired medieval towers and established Asinelli ascent (currently closed for maintenance per official tourism notice); no reopening assumed. Separate from portico network.
+- Location check: 44.4925, 11.346667; [published representative point](https://www.wikidata.org/wiki/Q16902146), inspected via page or indexed excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.bolognawelcome.com/en/places/towers-historic-buildings/the-two-towers-garisenda-and-degli-asinelli-eng); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [PT/clerigos-church-tower](../../../countries/PT/sights/clerigos-church-tower.yaml) | 8.7 / 8.6 / 8.7 / 8.8 / 8.2 | uniqueness: +0.3 vs peer; significance: +0.2 vs peer. |
+| [ES/tower-hercules](../../../countries/ES/sights/tower-hercules.yaml) | 8.8 / 9.1 / 9.3 / 8.7 / 7.9 | significance: -0.4 vs peer; uniqueness: -0.2 vs peer. |
+| [IT/bologna-porticoes](../../../countries/IT/sights/bologna-porticoes.yaml) | 9.0 / 9.3 / 9.2 / 9.1 / 9.1 | depth: -1.1 vs peer; experience: -0.5 vs peer. |
+| [IT/mole-antonelliana](../../../countries/IT/sights/mole-antonelliana.yaml) | 8.9 / 9.0 / 8.7 / 9.0 / 8.8 | depth: -0.8 vs peer; experience: -0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Striking medieval skyline. |
+| Uniqueness | 8.9 | Distinct leaning paired towers. |
+| Significance | 8.9 | Important medieval city heritage. |
+| Experience | 8.6 | Established ascent and exterior landmark. |
+| Depth | 8.0 | Compact tower experience. |
+
+- Applicable categories: architecture:9.2, history:9.1, photography:9.1.
+- Computed worldwide overall: 87.35/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-it-segesta-archaeological-park — Segesta Archaeological Park — 2026-11-27
+
+- YAML: [source](../../../countries/IT/sights/segesta-archaeological-park.yaml)
+- Action: new
+- Precise subject and limitations: Doric temple, theatre and acropolis grouped; separate ancient city from Selinunte and Agrigento.
+- Location check: 37.94148, 12.83511; [published representative point](https://mapcarta.com/N6379006586), inspected via page or indexed excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://parchiarcheologici.regione.sicilia.it/en/parco-archeologico-segesta/); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/agrigento](../../../countries/IT/sights/agrigento.yaml) | 9.4 / 9.3 / 9.4 / 9.1 / 9.2 | depth: -0.5 vs peer; impact: -0.4 vs peer. |
+| [IT/ostia-antica](../../../countries/IT/sights/ostia-antica.yaml) | 9.1 / 9.0 / 9.2 / 9.0 / 9.2 | depth: -0.5 vs peer; experience: -0.2 vs peer. |
+| [IT/aquileia](../../../countries/IT/sights/aquileia.yaml) | 8.7 / 9.0 / 9.3 / 8.7 / 8.6 | impact: +0.3 vs peer; significance: -0.2 vs peer. |
+| [PT/conimbriga-roman-ruins](../../../countries/PT/sights/conimbriga-roman-ruins.yaml) | 8.8 / 8.8 / 9.1 / 8.8 / 8.9 | impact: +0.2 vs peer; depth: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Exceptional temple in rural setting. |
+| Uniqueness | 8.9 | Distinct temple and theatre landscape. |
+| Significance | 9.1 | Important ancient Sicilian history. |
+| Experience | 8.8 | Walkable archaeological visit. |
+| Depth | 8.7 | Multiple monuments within a bounded site. |
+
+- Applicable categories: history:9.3, architecture:9.3, photography:9.2.
+- Computed worldwide overall: 89.35/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-it-selinunte-archaeological-park — Selinunte Archaeological Park — 2026-11-27
+
+- YAML: [source](../../../countries/IT/sights/selinunte-archaeological-park.yaml)
+- Action: new
+- Precise subject and limitations: Acropolis, temples and ancient city remains; excludes separate Cave di Cusa quarry and Pantelleria despite shared administration.
+- Location check: 37.5889, 12.8246; [published representative point](https://mapcarta.com/Selinunte), inspected via page or indexed excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitsicily.info/en/attrazione/selinunte/); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/agrigento](../../../countries/IT/sights/agrigento.yaml) | 9.4 / 9.3 / 9.4 / 9.1 / 9.2 | impact: -0.4 vs peer; uniqueness: -0.3 vs peer. |
+| [IT/ostia-antica](../../../countries/IT/sights/ostia-antica.yaml) | 9.1 / 9.0 / 9.2 / 9.0 / 9.2 | experience: -0.2 vs peer; impact: -0.1 vs peer. |
+| [IT/villa-adriana](../../../countries/IT/sights/villa-adriana.yaml) | 9.2 / 9.3 / 9.5 / 9.0 / 9.2 | uniqueness: -0.3 vs peer; significance: -0.3 vs peer. |
+| [IT/etruscan-necropolises](../../../countries/IT/sights/etruscan-necropolises.yaml) | 8.9 / 9.3 / 9.4 / 8.8 / 9.0 | uniqueness: -0.3 vs peer; significance: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Extensive monumental ruins. |
+| Uniqueness | 9.0 | Distinct coastal Greek urban setting. |
+| Significance | 9.2 | Major ancient Greek colonial heritage. |
+| Experience | 8.8 | Substantial open-air visit. |
+| Depth | 9.1 | Large multi-zone archaeological precinct. |
+
+- Applicable categories: history:9.4, architecture:9.3, photography:9.2.
+- Computed worldwide overall: 90.20/100.
+- High-score challenge: 90+ provisional; compared with established anchors; further global calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-it-saturnia-mulino-springs — Saturnia Cascate del Mulino Thermal Pools — 2026-11-27
+
+- YAML: [source](../../../countries/IT/sights/saturnia-mulino-springs.yaml)
+- Action: new
+- Precise subject and limitations: Natural travertine terraces and public bathing pools; excludes separate paid spa resort.
+- Location check: 42.6485, 11.5129; [published representative point](https://www.hotspringsguides.com/hot-springs/cascate-del-mulino-saturnia-italy), inspected via page or indexed excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visittuscany.com/en/attractions/cascate-del-mulino-hot-springs/); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [PT/caldeira-velha](../../../countries/PT/sights/caldeira-velha.yaml) | 8.8 / 8.7 / 8.4 / 8.8 / 8.3 | depth: -0.3 vs peer; significance: -0.2 vs peer. |
+| [PT/furnas](../../../countries/PT/sights/furnas.yaml) | 9.0 / 9.2 / 8.8 / 9.2 / 9.0 | depth: -1.0 vs peer; significance: -0.6 vs peer. |
+| [PT/porto-moniz-lava-pools](../../../countries/PT/sights/porto-moniz-lava-pools.yaml) | 8.8 / 8.9 / 8.1 / 9.0 / 8.3 | depth: -0.3 vs peer; impact: +0.1 vs peer. |
+| [IT/spa-towns](../../../countries/IT/sights/spa-towns.yaml) | 8.5 / 8.8 / 9.0 / 8.6 / 8.5 | significance: -0.8 vs peer; depth: -0.5 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Distinct cascading travertine pools. |
+| Uniqueness | 8.8 | Unusual thermal landscape. |
+| Significance | 8.2 | Regional geological and bathing heritage. |
+| Experience | 9.0 | Established open-air bathing experience. |
+| Depth | 8.0 | Compact natural precinct. |
+
+- Applicable categories: nature:9.2, relaxation:9.3, photography:9.2.
+- Computed worldwide overall: 86.60/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-it-milan-science-technology-museum — Leonardo da Vinci National Museum of Science and Technology Milan — 2026-11-27
+
+- YAML: [source](../../../countries/IT/sights/milan-science-technology-museum.yaml)
+- Action: new
+- Precise subject and limitations: Science, technology and Leonardo galleries, transportation and interactive exhibits; separate from Last Supper site. Regional tourism describes Leonardo galleries and laboratory themes: https://www.in-lombardia.it/en/tourism-in-lombardy/tourism-milan/museo-nazionale-scienza-e-tecnologia-leonardo-da-vinci.
+- Location check: 45.46179, 9.17097; [published representative point](https://mapcarta.com/28612998), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.yesmilano.it/en/see-and-do/venues/national-museum-science-and-technology-leonardo-da-vinci); inspected via page or indexed excerpt 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/turin-automobile-museum](../../../countries/IT/sights/turin-automobile-museum.yaml) | 8.7 / 8.9 / 8.8 / 9.0 / 8.9 | depth: +0.4 vs peer; significance: +0.2 vs peer. |
+| [IT/mole-antonelliana](../../../countries/IT/sights/mole-antonelliana.yaml) | 8.9 / 9.0 / 8.7 / 9.0 / 8.8 | depth: +0.5 vs peer; significance: +0.3 vs peer. |
+| [IT/museo-egizio](../../../countries/IT/sights/museo-egizio.yaml) | 9.1 / 9.3 / 9.4 / 9.1 / 9.4 | significance: -0.4 vs peer; impact: -0.3 vs peer. |
+| [PT/national-coach-museum](../../../countries/PT/sights/national-coach-museum.yaml) | 8.6 / 9.0 / 8.9 / 8.7 / 8.7 | depth: +0.6 vs peer; experience: +0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Large technical objects and exhibition spaces. |
+| Uniqueness | 9.0 | Distinct Leonardo and engineering collections. |
+| Significance | 9.0 | Important Italian scientific and industrial heritage. |
+| Experience | 9.1 | Varied exhibits and interactive activities. |
+| Depth | 9.3 | Many thematic galleries across disciplines. |
+
+- Applicable categories: culture:9.3, history:9.1, family:9.4.
+- Computed worldwide overall: 89.85/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-it-basilica-superga — Basilica of Superga and Royal Tombs — 2026-11-27
+
+- YAML: [source](../../../countries/IT/sights/basilica-superga.yaml)
+- Action: new
+- Precise subject and limitations: Hilltop basilica, crypt and dome ascent as a single religious monument experience; distinct from UNESCO-listed palace and villa components of Savoy residences (https://whc.unesco.org/en/list/0823/maps). Operator publishes winter visitor hours: https://en.basilicadisuperga.org/organise-your-visit/opening-hours.html.
+- Location check: 45.0807, 7.76751; [published representative point](https://mapcarta.com/18677732), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.italia.it/en/piedmont/turin/basilica-di-superga); inspected via page or indexed excerpt 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/savoy-residences](../../../countries/IT/sights/savoy-residences.yaml) | 9.2 / 9.2 / 9.4 / 9.1 / 9.5 | depth: -1.0 vs peer; uniqueness: -0.5 vs peer. |
+| [PT/bom-jesus](../../../countries/PT/sights/bom-jesus.yaml) | 9.0 / 9.1 / 9.1 / 9.0 / 8.6 | uniqueness: -0.4 vs peer; impact: -0.2 vs peer. |
+| [IT/castel-sant-angelo](../../../countries/IT/sights/castel-sant-angelo.yaml) | 9.0 / 9.0 / 9.2 / 8.9 / 8.9 | depth: -0.4 vs peer; uniqueness: -0.3 vs peer. |
+| [IT/bologna-two-towers](../../../countries/IT/sights/bologna-two-towers.yaml) | 8.8 / 8.9 / 8.9 / 8.6 / 8.0 | depth: +0.5 vs peer; uniqueness: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Monumental hilltop composition and views. |
+| Uniqueness | 8.7 | Distinct combination of basilica and royal crypt. |
+| Significance | 8.9 | Significant Savoy dynastic heritage. |
+| Experience | 8.8 | Guided tomb visit and dome ascent. |
+| Depth | 8.5 | Several connected spaces, bounded site. |
+
+- Applicable categories: architecture:9.2, history:9.1, photography:9.2.
+- Computed worldwide overall: 87.65/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-it-archiginnasio-bologna — Archiginnasio Palace and Anatomical Theatre Bologna — 2026-11-27
+
+- YAML: [source](../../../countries/IT/sights/archiginnasio-bologna.yaml)
+- Action: new
+- Precise subject and limitations: University palace interior, historic anatomical theatre and Stabat Mater Hall when accessible; excludes surrounding porticoes. Online reservations required for rooms per https://www.archiginnasio.it/lang/en/palazzo-dell-archiginnasio.
+- Location check: 44.49191, 11.34341; [published representative point](https://mapcarta.com/36025352), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.bolognawelcome.com/en/places/towers-historic-buildings/archiginnasio-eng); inspected via page or indexed excerpt 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/bologna-porticoes](../../../countries/IT/sights/bologna-porticoes.yaml) | 9.0 / 9.3 / 9.2 / 9.1 / 9.1 | depth: -0.8 vs peer; experience: -0.5 vs peer. |
+| [IT/sansevero-chapel](../../../countries/IT/sights/sansevero-chapel.yaml) | 9.1 / 9.3 / 9.0 / 8.7 / 8.0 | impact: -0.4 vs peer; uniqueness: -0.3 vs peer. |
+| [IT/padua-frescoes](../../../countries/IT/sights/padua-frescoes.yaml) | 9.2 / 9.4 / 9.5 / 9.0 / 9.0 | depth: -0.7 vs peer; impact: -0.5 vs peer. |
+| [PT/coimbra-university](../../../countries/PT/sights/coimbra-university.yaml) | 9.0 / 9.1 / 9.4 / 8.9 / 9.1 | depth: -0.8 vs peer; significance: -0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Rich heraldic interiors and timber theatre. |
+| Uniqueness | 9.0 | Distinct early modern anatomy teaching hall. |
+| Significance | 9.0 | Important university and medical history. |
+| Experience | 8.6 | Focused reserved interior visit. |
+| Depth | 8.3 | Limited set of historic rooms. |
+
+- Applicable categories: architecture:9.1, history:9.3, culture:9.2.
+- Computed worldwide overall: 87.80/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-it-bargello-national-museum — Bargello National Museum Florence — 2026-11-27
+
+- YAML: [source](../../../countries/IT/sights/bargello-national-museum.yaml)
+- Action: new
+- Precise subject and limitations: Renaissance sculpture and decorative collections in historic civic building; excludes other separately located Bargello museum network venues and Florence streets.
+- Location check: 43.77039, 11.25825; [published representative point](https://mapcarta.com/32903480), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://bargellomusei.it/en/museum/museo-nazionale-del-bargello/); inspected via page or indexed excerpt 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/borghese-gallery](../../../countries/IT/sights/borghese-gallery.yaml) | 9.1 / 9.2 / 9.3 / 9.0 / 8.7 | impact: -0.2 vs peer; experience: -0.2 vs peer. |
+| [IT/accademia-gallery-florence](../../../countries/IT/sights/accademia-gallery-florence.yaml) | 9.3 / 9.4 / 9.4 / 8.9 / 8.4 | depth: +0.5 vs peer; impact: -0.4 vs peer. |
+| [IT/pinacoteca-brera](../../../countries/IT/sights/pinacoteca-brera.yaml) | 9.0 / 9.0 / 9.2 / 8.9 / 9.0 | impact: -0.1 vs peer; uniqueness: +0.1 vs peer. |
+| [IT/pitti-palace-museums](../../../countries/IT/sights/pitti-palace-museums.yaml) | 9.2 / 9.0 / 9.3 / 9.0 / 9.2 | impact: -0.3 vs peer; depth: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Outstanding sculpture and courtyard. |
+| Uniqueness | 9.1 | Distinct concentration of Renaissance sculpture. |
+| Significance | 9.2 | Major Italian artistic heritage. |
+| Experience | 8.8 | Dedicated museum circuit. |
+| Depth | 8.9 | Substantial sculpture and applied arts collections. |
+
+- Applicable categories: culture:9.4, history:9.2, architecture:9.0.
+- Computed worldwide overall: 89.95/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-it-baths-caracalla — Baths of Caracalla Rome — 2026-11-27
+
+- YAML: [source](../../../countries/IT/sights/baths-caracalla.yaml)
+- Action: new
+- Precise subject and limitations: Monumental ancient thermal complex, distinct ticketed archaeological precinct from central Rome or Appian Way itinerary; underground access conditional and not assumed.
+- Location check: 41.87924, 12.49303; [published representative point](https://mapcarta.com/28375744), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://turismoroma.it/en/places/baths-caracalla); inspected via page or indexed excerpt 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/ostia-antica](../../../countries/IT/sights/ostia-antica.yaml) | 9.1 / 9.0 / 9.2 / 9.0 / 9.2 | depth: -0.4 vs peer; experience: -0.2 vs peer. |
+| [IT/villa-adriana](../../../countries/IT/sights/villa-adriana.yaml) | 9.2 / 9.3 / 9.5 / 9.0 / 9.2 | uniqueness: -0.4 vs peer; depth: -0.4 vs peer. |
+| [IT/colosseum-forum](../../../countries/IT/sights/colosseum-forum.yaml) | 9.7 / 9.6 / 9.8 / 9.3 / 9.5 | uniqueness: -0.7 vs peer; depth: -0.7 vs peer. |
+| [IT/selinunte-archaeological-park](../../../countries/IT/sights/selinunte-archaeological-park.yaml) | 9.0 / 9.0 / 9.2 / 8.8 / 9.1 | depth: -0.3 vs peer; impact: +0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Imposing surviving imperial walls. |
+| Uniqueness | 8.9 | Distinct Roman bathing complex layout. |
+| Significance | 9.3 | Major evidence of imperial public architecture. |
+| Experience | 8.8 | Walkable archaeological precinct. |
+| Depth | 8.8 | Extensive ruins with multiple spaces. |
+
+- Applicable categories: history:9.4, architecture:9.3, photography:9.1.
+- Computed worldwide overall: 90.15/100.
+- High-score challenge: 90+ provisional; compared with established anchors; further global calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-it-zingaro-nature-reserve — Zingaro Nature Reserve Sicily — 2026-11-27
+
+- YAML: [source](../../../countries/IT/sights/zingaro-nature-reserve.yaml)
+- Action: new
+- Precise subject and limitations: Protected coastal hiking routes, coves and natural landscapes; representative reserve point rather than trailhead. Official tourism: https://www.italia.it/en/sicily/trapani/zingaro-reserve. Temporary trail restrictions do not define the score.
+- Location check: 38.127, 12.794; [published representative point](https://mapcarta.com/Zingaro_Nature_Reserve), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.riservazingaro.it/en/home/); inspected via page or indexed excerpt 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/cinque-terre-park](../../../countries/IT/sights/cinque-terre-park.yaml) | 9.4 / 9.2 / 8.9 / 9.1 / 9.1 | impact: -0.4 vs peer; uniqueness: -0.4 vs peer. |
+| [IT/gennargentu](../../../countries/IT/sights/gennargentu.yaml) | 9.3 / 9.1 / 8.9 / 9.0 / 9.2 | depth: -0.5 vs peer; significance: -0.4 vs peer. |
+| [PT/arrabida](../../../countries/PT/sights/arrabida.yaml) | 8.9 / 8.7 / 8.6 / 8.9 / 8.8 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer. |
+| [PT/vicentina](../../../countries/PT/sights/vicentina.yaml) | 9.1 / 8.9 / 8.6 / 9.0 / 9.2 | depth: -0.5 vs peer; impact: -0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Striking limestone coastline and coves. |
+| Uniqueness | 8.8 | Distinct protected Mediterranean coastal setting. |
+| Significance | 8.5 | Important regional conservation heritage. |
+| Experience | 9.0 | Established coastal and inland trails. |
+| Depth | 8.7 | Multiple paths and natural habitats. |
+
+- Applicable categories: nature:9.3, photography:9.3, adventure:9.1, beaches:9.0.
+- Computed worldwide overall: 88.20/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-it-scala-dei-turchi — Scala dei Turchi White Cliffs — 2026-11-27
+
+- YAML: [source](../../../countries/IT/sights/scala-dei-turchi.yaml)
+- Action: new
+- Precise subject and limitations: White marl cliff landform near Realmonte, not Agrigento archaeological area. Viewpoints and controlled designated access only; ticketing https://www.i-ticket.it/en/groups/scala-dei-turchi-biglietteria-online; temporary closures documented by municipality https://comune.realmonte.ag.it/it/news/chiusura-temporanea-della-scala-dei-turchi-nelle-ore-centrali-della-giornata-per-ondata-di-calore-2024388-2042181.
+- Location check: 37.28992, 13.4727; [published representative point](https://mapcarta.com/N305914400), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.italia.it/en/sicily/agrigento/scala-dei-turchi); inspected via page or indexed excerpt 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [PT/ponta-piedade](../../../countries/PT/sights/ponta-piedade.yaml) | 9.2 / 9.0 / 8.5 / 9.1 / 8.4 | experience: -0.7 vs peer; depth: -0.6 vs peer. |
+| [PT/cabo-girao](../../../countries/PT/sights/cabo-girao.yaml) | 9.0 / 8.6 / 8.0 / 8.6 / 7.7 | significance: +0.4 vs peer; uniqueness: +0.3 vs peer. |
+| [PT/seven-hanging-valleys-trail](../../../countries/PT/sights/seven-hanging-valleys-trail.yaml) | 8.9 / 8.6 / 8.1 / 9.0 / 8.7 | depth: -0.9 vs peer; experience: -0.6 vs peer. |
+| [IT/blue-grotto-capri](../../../countries/IT/sights/blue-grotto-capri.yaml) | 9.0 / 8.8 / 8.2 / 8.5 / 7.3 | depth: +0.5 vs peer; significance: +0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Highly distinctive bright white cliff. |
+| Uniqueness | 8.9 | Unusual stepped marl formation. |
+| Significance | 8.4 | Regional geological heritage. |
+| Experience | 8.4 | Scenic observation and regulated access. |
+| Depth | 7.8 | Compact landform. |
+
+- Applicable categories: nature:9.2, photography:9.4, beaches:8.8.
+- Computed worldwide overall: 86.45/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-it-erice-historic-town — Erice Historic Town and Hilltop Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/IT/sights/erice-historic-town.yaml)
+- Action: new
+- Precise subject and limitations: Medieval hilltop street ensemble, Balio garden, churches, views and local heritage; not entire modern municipality. Castle of Venus included in the ensemble rather than counted separately.
+- Location check: 38.0382, 12.5872; [published representative point](https://mapcarta.com/Erice), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.italia.it/en/sicily/trapani/erice); inspected via page or indexed excerpt 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/volterra](../../../countries/IT/sights/volterra.yaml) | 8.9 / 9.0 / 9.1 / 8.8 / 8.8 | significance: -0.3 vs peer; uniqueness: -0.2 vs peer. |
+| [IT/orvieto](../../../countries/IT/sights/orvieto.yaml) | 9.2 / 9.1 / 9.1 / 9.0 / 8.7 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer. |
+| [IT/san-gimignano-core](../../../countries/IT/sights/san-gimignano-core.yaml) | 9.3 / 9.3 / 9.1 / 8.9 / 8.5 | uniqueness: -0.5 vs peer; impact: -0.4 vs peer. |
+| [PT/obidos-walled-town](../../../countries/PT/sights/obidos-walled-town.yaml) | 8.9 / 8.8 / 8.8 / 8.9 / 8.6 | depth: +0.2 vs peer; impact: +0.0 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Dramatic hilltop setting and medieval fabric. |
+| Uniqueness | 8.8 | Distinct Sicilian fortified settlement. |
+| Significance | 8.8 | Important layered regional history. |
+| Experience | 8.9 | Walkable historic streets and monuments. |
+| Depth | 8.8 | Multiple heritage sites within compact town. |
+
+- Applicable categories: architecture:9.2, photography:9.3, history:9.1, culture:9.0.
+- Computed worldwide overall: 88.45/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-it-national-roman-museum-palazzo-massimo — National Roman Museum — Palazzo Massimo — 2026-11-27
+
+- YAML: [source](../../../countries/IT/sights/national-roman-museum-palazzo-massimo.yaml)
+- Action: new
+- Precise subject and limitations: Palazzo Massimo ancient art, coins and jewellery collections only; excludes the other National Roman Museum venues and separately rated Capitoline Museums.
+- Location check: 41.901818, 12.498281; [published representative point](https://www.turismoroma.it/en/places/museo-nazionale-romano-palazzo-massimo-alle-terme), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.turismoroma.it/en/places/museo-nazionale-romano-palazzo-massimo-alle-terme); inspected via page or indexed excerpt 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/capitoline-museums](../../../countries/IT/sights/capitoline-museums.yaml) | 9.1 / 9.1 / 9.4 / 8.9 / 9.2 | depth: -0.2 vs peer; impact: -0.1 vs peer. |
+| [IT/naples-archaeological-museum](../../../countries/IT/sights/naples-archaeological-museum.yaml) | 9.2 / 9.2 / 9.4 / 8.9 / 9.2 | impact: -0.2 vs peer; depth: -0.2 vs peer. |
+| [IT/museo-egizio](../../../countries/IT/sights/museo-egizio.yaml) | 9.1 / 9.3 / 9.4 / 9.1 / 9.4 | depth: -0.4 vs peer; experience: -0.3 vs peer. |
+| [IT/borghese-gallery](../../../countries/IT/sights/borghese-gallery.yaml) | 9.1 / 9.2 / 9.3 / 9.0 / 8.7 | depth: +0.3 vs peer; experience: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Outstanding ancient art and display. |
+| Uniqueness | 9.1 | Distinct Roman collections and numismatic holdings. |
+| Significance | 9.3 | Major classical archaeology collection. |
+| Experience | 8.8 | Dedicated gallery visit. |
+| Depth | 9.0 | Multiple floors and collection types. |
+
+- Applicable categories: history:9.4, culture:9.4, architecture:8.8.
+- Computed worldwide overall: 90.55/100.
+- High-score challenge: 90+ provisional; compared with established anchors; further global calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-it-peggy-guggenheim-collection — Peggy Guggenheim Collection Venice — 2026-11-27
+
+- YAML: [source](../../../countries/IT/sights/peggy-guggenheim-collection.yaml)
+- Action: new
+- Precise subject and limitations: Modern art collection in former Grand Canal residence, not general Venice city experience. Guided presentations documented at https://www.guggenheim-venice.it/en/visit/.
+- Location check: 45.43082, 12.33151; [published representative point](https://mapcarta.com/26951568), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.guggenheim-venice.it/en/the-museum/); inspected via page or indexed excerpt 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/uffizi](../../../countries/IT/sights/uffizi.yaml) | 9.4 / 9.4 / 9.7 / 9.2 / 9.5 | depth: -0.9 vs peer; impact: -0.6 vs peer. |
+| [IT/pinacoteca-brera](../../../countries/IT/sights/pinacoteca-brera.yaml) | 9.0 / 9.0 / 9.2 / 8.9 / 9.0 | depth: -0.4 vs peer; impact: -0.2 vs peer. |
+| [IT/borghese-gallery](../../../countries/IT/sights/borghese-gallery.yaml) | 9.1 / 9.2 / 9.3 / 9.0 / 8.7 | impact: -0.3 vs peer; uniqueness: -0.2 vs peer. |
+| [PT/serralves-art-park](../../../countries/PT/sights/serralves-art-park.yaml) | 8.8 / 8.7 / 8.9 / 8.9 / 9.0 | depth: -0.4 vs peer; uniqueness: +0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Strong modern art displays. |
+| Uniqueness | 9.0 | Distinct personal collection in historic residence. |
+| Significance | 9.1 | International twentieth-century art importance. |
+| Experience | 8.9 | Focused museum and interpretation experience. |
+| Depth | 8.6 | Substantial but compact collection. |
+
+- Applicable categories: culture:9.4, history:9.0, architecture:8.8.
+- Computed worldwide overall: 89.05/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-it-miramare-castle — Miramare Castle and Park Trieste — 2026-11-27
+
+- YAML: [source](../../../countries/IT/sights/miramare-castle.yaml)
+- Action: new
+- Precise subject and limitations: Historic castle museum and adjoining park grouped; excludes separate marine reserve. Council of Europe institutional listing supports scope; operator website timed out, current admission not confirmed.
+- Location check: 45.70253, 13.71245; [published representative point](https://mapcarta.com/18692424), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.coe.int/tr/web/cultural-routes/-/historical-museum-and-castle-park-of-miramare); inspected via page or indexed excerpt 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/isola-bella-palace](../../../countries/IT/sights/isola-bella-palace.yaml) | 9.1 / 9.0 / 8.7 / 8.9 / 8.7 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer. |
+| [IT/caserta](../../../countries/IT/sights/caserta.yaml) | 9.4 / 9.2 / 9.3 / 9.1 / 9.4 | depth: -0.7 vs peer; significance: -0.5 vs peer. |
+| [PT/queluz-national-palace](../../../countries/PT/sights/queluz-national-palace.yaml) | 8.9 / 8.7 / 8.9 / 8.9 / 8.8 | uniqueness: +0.2 vs peer; impact: +0.1 vs peer. |
+| [IT/sforza-castle](../../../countries/IT/sights/sforza-castle.yaml) | 9.0 / 8.8 / 9.2 / 9.0 / 9.2 | depth: -0.5 vs peer; significance: -0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Striking seaside castle and grounds. |
+| Uniqueness | 8.9 | Distinct Habsburg coastal estate. |
+| Significance | 8.8 | Important nineteenth-century dynastic heritage. |
+| Experience | 8.9 | Castle museum and park experience. |
+| Depth | 8.7 | Multiple rooms and landscaped grounds. |
+
+- Applicable categories: architecture:9.2, photography:9.4, history:9.0, nature:8.8.
+- Computed worldwide overall: 88.90/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-it-verona-arena — Verona Arena Amphitheatre — 2026-11-27
+
+- YAML: [source](../../../countries/IT/sights/verona-arena.yaml)
+- Action: new
+- Precise subject and limitations: Dedicated interior amphitheatre visit; excludes general Verona historic streets; performance attendance optional and event-dependent, not guaranteed.
+- Location check: 45.43889, 10.99417; [published representative point](https://mapcarta.com/26952138), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitverona.it/en/poi/arena-amphitheatre); inspected via page or indexed excerpt 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/colosseum-forum](../../../countries/IT/sights/colosseum-forum.yaml) | 9.7 / 9.6 / 9.8 / 9.3 / 9.5 | depth: -0.9 vs peer; impact: -0.6 vs peer. |
+| [IT/baths-caracalla](../../../countries/IT/sights/baths-caracalla.yaml) | 9.1 / 8.9 / 9.3 / 8.8 / 8.8 | depth: -0.2 vs peer; uniqueness: +0.1 vs peer. |
+| [IT/ostia-antica](../../../countries/IT/sights/ostia-antica.yaml) | 9.1 / 9.0 / 9.2 / 9.0 / 9.2 | depth: -0.6 vs peer; experience: -0.1 vs peer. |
+| [IT/verona-core](../../../countries/IT/sights/verona-core.yaml) | 9.2 / 9.1 / 9.3 / 9.0 / 9.0 | depth: -0.4 vs peer; impact: -0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Monumental preserved arena. |
+| Uniqueness | 9.0 | Distinct surviving Roman amphitheatre. |
+| Significance | 9.2 | Major Roman architectural and cultural heritage. |
+| Experience | 8.9 | Dedicated interior circuit. |
+| Depth | 8.6 | Large but single monument. |
+
+- Applicable categories: architecture:9.4, history:9.4, culture:9.2.
+- Computed worldwide overall: 90.15/100.
+- High-score challenge: 90+ provisional; compared with established anchors; further global calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-it-capo-testa — Capo Testa and Valle della Luna Granite Coast — 2026-11-27
+
+- YAML: [source](../../../countries/IT/sights/capo-testa.yaml)
+- Action: new
+- Precise subject and limitations: Sardinian mainland peninsula and granite valley, not Maddalena islands or entire Bonifacio Strait. Published DMS representative peninsula point converted to decimal. Coastal paths and coves; no assumption of unrestricted climbing or marine access.
+- Location check: 41.238611, 9.149167; [published representative point](https://commons.wikimedia.org/wiki/Category:Capo_Testa_(Santa_Teresa_Gallura)), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://idese.cultura.gov.it/en/place/capo-testa-and-the-valle-della-luna/); inspected via page or indexed excerpt 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/zingaro-nature-reserve](../../../countries/IT/sights/zingaro-nature-reserve.yaml) | 9.0 / 8.8 / 8.5 / 9.0 / 8.7 | significance: -0.2 vs peer; uniqueness: +0.1 vs peer. |
+| [IT/gennargentu](../../../countries/IT/sights/gennargentu.yaml) | 9.3 / 9.1 / 8.9 / 9.0 / 9.2 | significance: -0.6 vs peer; depth: -0.5 vs peer. |
+| [PT/ponta-piedade](../../../countries/PT/sights/ponta-piedade.yaml) | 9.2 / 9.0 / 8.5 / 9.1 / 8.4 | depth: +0.3 vs peer; impact: -0.2 vs peer. |
+| [PT/ponta-sao-lourenco](../../../countries/PT/sights/ponta-sao-lourenco.yaml) | 9.1 / 9.0 / 8.5 / 9.0 / 8.5 | significance: -0.2 vs peer; depth: +0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Dramatic weathered granite and sea. |
+| Uniqueness | 8.9 | Distinct sculpted granite terrain. |
+| Significance | 8.3 | Regional geological and quarrying heritage. |
+| Experience | 8.9 | Established coastal walking. |
+| Depth | 8.7 | Multiple coves and rock landscapes. |
+
+- Applicable categories: nature:9.3, photography:9.4, adventure:9.1, beaches:8.9.
+- Computed worldwide overall: 87.90/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-it-bosa-historic-centre — Bosa Historic Centre and Serravalle Castle — 2026-11-27
+
+- YAML: [source](../../../countries/IT/sights/bosa-historic-centre.yaml)
+- Action: new
+- Precise subject and limitations: Historic riverside streets, colourful houses and castle precinct grouped; regional town-centre representative point, not castle entrance. Excludes Bosa Marina and outlying nature reserves.
+- Location check: 40.297, 8.4986; [published representative point](https://mapcarta.com/Bosa), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.sardegnaturismo.it/en/places/nord-ovest/bosa); inspected via page or indexed excerpt 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/erice-historic-town](../../../countries/IT/sights/erice-historic-town.yaml) | 8.9 / 8.8 / 8.8 / 8.9 / 8.8 | significance: -0.3 vs peer; impact: -0.2 vs peer. |
+| [IT/volterra](../../../countries/IT/sights/volterra.yaml) | 8.9 / 9.0 / 9.1 / 8.8 / 8.8 | significance: -0.6 vs peer; uniqueness: -0.3 vs peer. |
+| [PT/obidos-walled-town](../../../countries/PT/sights/obidos-walled-town.yaml) | 8.9 / 8.8 / 8.8 / 8.9 / 8.6 | significance: -0.3 vs peer; impact: -0.2 vs peer. |
+| [PT/monsanto-historic-village](../../../countries/PT/sights/monsanto-historic-village.yaml) | 8.9 / 9.2 / 8.6 / 8.7 / 8.4 | uniqueness: -0.5 vs peer; impact: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Colourful riverside and hilltop setting. |
+| Uniqueness | 8.7 | Distinct Sardinian historic townscape. |
+| Significance | 8.5 | Regional medieval and cultural heritage. |
+| Experience | 8.8 | Walkable historic centre. |
+| Depth | 8.6 | Several connected heritage features. |
+
+- Applicable categories: architecture:9.0, photography:9.2, culture:9.0, history:8.9.
+- Computed worldwide overall: 86.65/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.

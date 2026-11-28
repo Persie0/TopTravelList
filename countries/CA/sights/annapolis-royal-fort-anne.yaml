@@ -1,0 +1,16 @@
+id: sight-ca-annapolis-royal-fort-anne
+name: "Fort Anne National Historic Site Annapolis Royal"
+location:
+  country_code: CA
+  latitude: 44.741
+  longitude: -65.519
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 9.1
+  experience: 8.6
+  depth: 8.8
+  categories:
+    history: 9.4
+    culture: 9.2
+    architecture: 9.1

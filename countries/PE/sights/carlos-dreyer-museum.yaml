@@ -1,0 +1,16 @@
+id: sight-pe-carlos-dreyer-museum
+name: "Carlos Dreyer Museum Puno Archaeology and Andean Art"
+location:
+  country_code: PE
+  latitude: -15.84
+  longitude: -70.029
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 9.0
+  experience: 8.5
+  depth: 8.7
+  categories:
+    history: 9.3
+    culture: 9.2
+    architecture: 8.8

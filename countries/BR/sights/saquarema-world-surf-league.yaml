@@ -1,0 +1,16 @@
+id: sight-br-saquarema-world-surf-league
+name: "Saquarema Itaúna World Surf League Championship Surf Spectator Experience"
+location:
+  country_code: BR
+  latitude: -22.94
+  longitude: -42.48
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.0
+  experience: 9.1
+  depth: 8.9
+  categories:
+    culture: 9.2
+    photography: 9.3
+    adventure: 9.2

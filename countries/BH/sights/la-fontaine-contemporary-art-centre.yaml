@@ -1,0 +1,16 @@
+id: sight-bh-la-fontaine-contemporary-art-centre
+name: "La Fontaine Centre of Contemporary Art"
+location:
+  country_code: BH
+  latitude: 26.23263
+  longitude: 50.58519
+scores:
+  impact: 7.9
+  uniqueness: 8.4
+  significance: 7.8
+  experience: 8.1
+  depth: 7.3
+  categories:
+    architecture: 8.8
+    culture: 8.5
+    photography: 8.5

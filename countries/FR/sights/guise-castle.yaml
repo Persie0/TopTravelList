@@ -1,0 +1,15 @@
+id: sight-fr-guise-castle
+name: "Château Fort de Guise Historic Fortress"
+location:
+  country_code: FR
+  latitude: 49.897
+  longitude: 3.624
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.7
+  depth: 8.7
+  categories:
+    architecture: 9.3
+    history: 9.3

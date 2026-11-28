@@ -1,0 +1,16 @@
+id: sight-br-itaunas-state-park
+name: "Itaúnas State Park Espírito Santo Coastal Dunes and Forest Trails"
+location:
+  country_code: BR
+  latitude: -18.42
+  longitude: -39.69
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.8
+  depth: 8.7
+  categories:
+    nature: 9.2
+    photography: 9.3
+    beaches: 9.2

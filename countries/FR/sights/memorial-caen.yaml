@@ -1,0 +1,15 @@
+id: sight-fr-memorial-caen
+name: "Mémorial de Caen"
+location:
+  country_code: FR
+  latitude: 49.197278
+  longitude: -0.383972
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 9.1
+  depth: 9.3
+  categories:
+    history: 9.4
+    culture: 9.2

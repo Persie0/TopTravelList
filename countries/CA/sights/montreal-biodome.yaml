@@ -1,0 +1,16 @@
+id: sight-ca-montreal-biodome
+name: "Montréal Biodôme Ecosystem Exhibits"
+location:
+  country_code: CA
+  latitude: 45.56
+  longitude: -73.55
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 9.0
+  depth: 8.8
+  categories:
+    nature: 9.3
+    wildlife: 9.3
+    family: 9.3

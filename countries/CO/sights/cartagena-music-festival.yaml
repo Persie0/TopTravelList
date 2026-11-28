@@ -1,0 +1,16 @@
+id: sight-co-cartagena-music-festival
+name: "Cartagena International Music Festival Classical Concerts"
+location:
+  country_code: CO
+  latitude: 10.424
+  longitude: -75.551
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 9.3
+  depth: 9.1
+  categories:
+    culture: 9.4
+    history: 9.1
+    photography: 9.0

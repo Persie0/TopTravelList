@@ -1,0 +1,16 @@
+id: sight-au-magnetic-island
+name: "Magnetic Island National Park Coastal Trails and Koala Habitat"
+location:
+  country_code: AU
+  latitude: -19.13
+  longitude: 146.84
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 8.4
+  experience: 9.0
+  depth: 8.8
+  categories:
+    nature: 9.3
+    wildlife: 9.2
+    beaches: 9.1

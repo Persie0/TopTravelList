@@ -1,0 +1,16 @@
+id: sight-fr-musee-aquitaine-bordeaux
+name: "Musée d’Aquitaine Bordeaux History and Archaeology Museum"
+location:
+  country_code: FR
+  latitude: 44.8354248
+  longitude: -0.5749079
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 8.9
+  depth: 9.2
+  categories:
+    history: 9.4
+    culture: 9.3
+    family: 9.0

@@ -2,7 +2,7 @@
 
 # Liberia (LR) — Sights & attractions ranking
 
-**24 ranked** · **2 unassessed** · **26 total** · Worldwide scoring **v2**
+**26 ranked** · **0 unassessed** · **26 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (24)
+## Complete ranked list (26)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -29,24 +29,17 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 13 | [Mesurado Wetlands](sights/mesurado-wetlands.yaml) | Wetland | **78.30** | **Nature 8.7**, Wildlife unassessed | 7.6 / 7.8 / 8.4 / 7.8 / 7.5 | [6.3, -10.75](https://www.google.com/maps/search/?api=1&query=6.3,-10.75) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mesurado%20Wetlands%2C%20Liberia) |
 | 14 | [Warkolor Rainforest Reserve](sights/warkolor-rainforest-reserve.yaml) | Forest | **78.25** | **Nature 8.5**, **Relaxation 8.4**, **Wildlife 8.4** | 7.8 / 8.1 / 7.5 / 8.2 / 7.3 | [6.73, -11.38](https://www.google.com/maps/search/?api=1&query=6.73,-11.38) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Warkolor%20Rainforest%20Reserve%2C%20Liberia) |
 | 15 | [Kpatawee Waterfalls](sights/kpatawee-waterfalls.yaml) | Waterfall | **78.05** | **Photography 8.7**, **Nature 8.5**, **Relaxation 8.2** | 8.1 / 7.8 / 7.1 / 8.5 / 7.3 | [7.1223, -9.64074](https://www.google.com/maps/search/?api=1&query=7.1223,-9.64074) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kpatawee%20Waterfalls%2C%20Liberia) |
-| 16 | [Blue Lake (East Nimba)](sights/blue-lake-east-nimba.yaml) | Lake | **74.55** | **Photography 8.5**, **Nature 8.0** | 7.8 / 8.0 / 6.4 / 7.9 / 6.5 | [7.56, -8.53](https://www.google.com/maps/search/?api=1&query=7.56,-8.53) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Blue%20Lake%20%28East%20Nimba%29%2C%20Liberia) |
-| 17 | [Centennial Pavilion](sights/centennial-pavilion.yaml) | Attraction | **74.50** | **History 8.9**, **Architecture 8.0** | 7.0 / 7.7 / 8.5 / 7.3 / 6.3 | [6.313, -10.803](https://www.google.com/maps/search/?api=1&query=6.313,-10.803) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Centennial%20Pavilion%2C%20Liberia) |
-| 18 | [Providence Baptist Church](sights/providence-baptist-church.yaml) | Religious site | **73.85** | **History 8.8**, **Culture 8.0**, **Architecture 7.9** | 6.8 / 7.8 / 8.5 / 7.3 / 6.0 | [6.314, -10.803](https://www.google.com/maps/search/?api=1&query=6.314,-10.803) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Providence%20Baptist%20Church%2C%20Liberia) |
-| 19 | [Buchanan Beach](sights/buchanan-beach.yaml) | Beach / bay | **73.50** | **Beaches 8.6**, **Relaxation 8.4** | 7.9 / 7.4 / 6.0 / 8.2 / 7.0 | [5.85, -10.04](https://www.google.com/maps/search/?api=1&query=5.85,-10.04) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Buchanan%20Beach%2C%20Liberia) |
-| 20 | [Waterside Market](sights/waterside-market.yaml) | Market | **73.45** | **Food 8.3**, **Culture 8.2** | 7.2 / 7.7 / 6.7 / 8.0 / 7.2 | [6.318, -10.803](https://www.google.com/maps/search/?api=1&query=6.318,-10.803) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Waterside%20Market%2C%20Liberia) |
-| 21 | [Blue Lake (Bomi)](sights/blue-lake-bomi.yaml) | Lake | **72.55** | **Photography 8.4**, **Relaxation 8.0** | 7.7 / 7.8 / 6.0 / 7.7 / 6.4 | [6.87, -10.82](https://www.google.com/maps/search/?api=1&query=6.87,-10.82) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Blue%20Lake%20%28Bomi%29%2C%20Liberia) |
-| 22 | [Joseph Jenkins Roberts Monument](sights/joseph-jenkins-roberts-monument.yaml) | Attraction | **72.25** | **History 8.7**, **Photography 8.1** | 6.8 / 7.6 / 8.3 / 7.1 / 5.6 | [6.317, -10.81](https://www.google.com/maps/search/?api=1&query=6.317,-10.81) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Joseph%20Jenkins%20Roberts%20Monument%2C%20Liberia) |
-| 23 | [Mount Scott Methodist Church (Harper)](sights/mount-scott-methodist-church-harper.yaml) | Religious site | **72.05** | **History 8.5**, **Architecture 8.0** | 6.6 / 7.7 / 8.2 / 7.2 / 5.8 | [4.376, -7.714](https://www.google.com/maps/search/?api=1&query=4.376,-7.714) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mount%20Scott%20Methodist%20Church%20%28Harper%29%2C%20Liberia) |
-| 24 | [Silver Beach (Monrovia area)](sights/silver-beach-monrovia-area.yaml) | Beach / bay | **70.50** | **Beaches 8.2**, **Relaxation 8.2** | 7.4 / 7.2 / 5.9 / 8.0 / 6.5 | [6.22, -10.69](https://www.google.com/maps/search/?api=1&query=6.22,-10.69) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Silver%20Beach%20%28Monrovia%20area%29%2C%20Liberia) |
-
-## Not yet fully assessed (2)
-
-These destinations have no rank until all five core scores are assessed.
-
-| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
-| ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Ducor Palace Hotel Ruins](sights/ducor-palace-hotel-ruins.yaml) | Museum / heritage | **—** | **Photography 8.6**, **History 8.2** | — / 8.2 / 7.7 / — / — | [6.317, -10.81](https://www.google.com/maps/search/?api=1&query=6.317,-10.81) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ducor%20Palace%20Hotel%20Ruins%2C%20Liberia) |
-| — | [Gbedin Wetlands](sights/gbedin-wetlands.yaml) | Wetland | **—** | **Nature 8.5**, **Wildlife 8.5** | — / 7.6 / 8.2 / — / — | [7.266667, -8.8](https://www.google.com/maps/search/?api=1&query=7.266667,-8.8) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gbedin%20Wetlands%2C%20Liberia) |
+| 16 | [Ducor Palace Hotel Ruins](sights/ducor-palace-hotel-ruins.yaml) | Museum / heritage | **77.10** | **Photography 8.6**, **History 8.2** | 7.7 / 8.2 / 7.7 / 7.4 / 7.0 | [6.317, -10.81](https://www.google.com/maps/search/?api=1&query=6.317,-10.81) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ducor%20Palace%20Hotel%20Ruins%2C%20Liberia) |
+| 17 | [Gbedin Wetlands](sights/gbedin-wetlands.yaml) | Wetland | **77.00** | **Nature 8.5**, **Wildlife 8.5** | 7.5 / 7.6 / 8.2 / 7.6 / 7.7 | [7.266667, -8.8](https://www.google.com/maps/search/?api=1&query=7.266667,-8.8) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gbedin%20Wetlands%2C%20Liberia) |
+| 18 | [Blue Lake (East Nimba)](sights/blue-lake-east-nimba.yaml) | Lake | **74.55** | **Photography 8.5**, **Nature 8.0** | 7.8 / 8.0 / 6.4 / 7.9 / 6.5 | [7.56, -8.53](https://www.google.com/maps/search/?api=1&query=7.56,-8.53) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Blue%20Lake%20%28East%20Nimba%29%2C%20Liberia) |
+| 19 | [Centennial Pavilion](sights/centennial-pavilion.yaml) | Attraction | **74.50** | **History 8.9**, **Architecture 8.0** | 7.0 / 7.7 / 8.5 / 7.3 / 6.3 | [6.313, -10.803](https://www.google.com/maps/search/?api=1&query=6.313,-10.803) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Centennial%20Pavilion%2C%20Liberia) |
+| 20 | [Providence Baptist Church](sights/providence-baptist-church.yaml) | Religious site | **73.85** | **History 8.8**, **Culture 8.0**, **Architecture 7.9** | 6.8 / 7.8 / 8.5 / 7.3 / 6.0 | [6.314, -10.803](https://www.google.com/maps/search/?api=1&query=6.314,-10.803) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Providence%20Baptist%20Church%2C%20Liberia) |
+| 21 | [Buchanan Beach](sights/buchanan-beach.yaml) | Beach / bay | **73.50** | **Beaches 8.6**, **Relaxation 8.4** | 7.9 / 7.4 / 6.0 / 8.2 / 7.0 | [5.85, -10.04](https://www.google.com/maps/search/?api=1&query=5.85,-10.04) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Buchanan%20Beach%2C%20Liberia) |
+| 22 | [Waterside Market](sights/waterside-market.yaml) | Market | **73.45** | **Food 8.3**, **Culture 8.2** | 7.2 / 7.7 / 6.7 / 8.0 / 7.2 | [6.318, -10.803](https://www.google.com/maps/search/?api=1&query=6.318,-10.803) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Waterside%20Market%2C%20Liberia) |
+| 23 | [Blue Lake (Bomi)](sights/blue-lake-bomi.yaml) | Lake | **72.55** | **Photography 8.4**, **Relaxation 8.0** | 7.7 / 7.8 / 6.0 / 7.7 / 6.4 | [6.87, -10.82](https://www.google.com/maps/search/?api=1&query=6.87,-10.82) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Blue%20Lake%20%28Bomi%29%2C%20Liberia) |
+| 24 | [Joseph Jenkins Roberts Monument](sights/joseph-jenkins-roberts-monument.yaml) | Attraction | **72.25** | **History 8.7**, **Photography 8.1** | 6.8 / 7.6 / 8.3 / 7.1 / 5.6 | [6.317, -10.81](https://www.google.com/maps/search/?api=1&query=6.317,-10.81) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Joseph%20Jenkins%20Roberts%20Monument%2C%20Liberia) |
+| 25 | [Mount Scott Methodist Church (Harper)](sights/mount-scott-methodist-church-harper.yaml) | Religious site | **72.05** | **History 8.5**, **Architecture 8.0** | 6.6 / 7.7 / 8.2 / 7.2 / 5.8 | [4.376, -7.714](https://www.google.com/maps/search/?api=1&query=4.376,-7.714) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mount%20Scott%20Methodist%20Church%20%28Harper%29%2C%20Liberia) |
+| 26 | [Silver Beach (Monrovia area)](sights/silver-beach-monrovia-area.yaml) | Beach / bay | **70.50** | **Beaches 8.2**, **Relaxation 8.2** | 7.4 / 7.2 / 5.9 / 8.0 / 6.5 | [6.22, -10.69](https://www.google.com/maps/search/?api=1&query=6.22,-10.69) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Silver%20Beach%20%28Monrovia%20area%29%2C%20Liberia) |
 
 ---
 

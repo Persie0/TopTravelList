@@ -1,0 +1,16 @@
+id: sight-dz-santa-cruz-fort
+name: "Santa Cruz Fort and Hilltop Chapel"
+location:
+  country_code: DZ
+  latitude: 35.70922
+  longitude: -0.66505
+scores:
+  impact: 9.0
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.8
+  depth: 8.5
+  categories:
+    history: 9.2
+    architecture: 9.1
+    photography: 9.3

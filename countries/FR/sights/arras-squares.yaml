@@ -1,0 +1,16 @@
+id: sight-fr-arras-squares
+name: "Arras Grand Place and Place des Héros Flemish Squares"
+location:
+  country_code: FR
+  latitude: 50.291
+  longitude: 2.778
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 9.0
+  depth: 8.7
+  categories:
+    architecture: 9.4
+    photography: 9.4
+    history: 9.2

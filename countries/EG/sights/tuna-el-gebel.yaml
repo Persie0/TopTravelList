@@ -1,0 +1,16 @@
+id: sight-eg-tuna-el-gebel
+name: "Tuna el-Gebel Necropolis"
+location:
+  country_code: EG
+  latitude: 27.73651
+  longitude: 30.70425
+scores:
+  impact: 8.4
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.4
+  depth: 8.5
+  categories:
+    history: 9.4
+    culture: 9.1
+    architecture: 8.9

@@ -1,0 +1,16 @@
+id: sight-au-jervis-bay
+name: "Jervis Bay Booderee National Park Beaches and Coastal Trails"
+location:
+  country_code: AU
+  latitude: -35.133
+  longitude: 150.69
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 9.0
+  depth: 8.8
+  categories:
+    beaches: 9.3
+    nature: 9.2
+    photography: 9.2

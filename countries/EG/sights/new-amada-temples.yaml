@@ -1,0 +1,16 @@
+id: sight-eg-new-amada-temples
+name: "New Amada Temples and Tomb of Pennut"
+location:
+  country_code: EG
+  latitude: 22.731139
+  longitude: 32.262611
+scores:
+  impact: 8.6
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 8.1
+  depth: 8.5
+  categories:
+    history: 9.4
+    architecture: 9.0
+    culture: 9.0

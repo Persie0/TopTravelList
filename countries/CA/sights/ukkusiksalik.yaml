@@ -1,0 +1,16 @@
+id: sight-ca-ukkusiksalik
+name: "Ukkusiksalik National Park Wager Bay"
+location:
+  country_code: CA
+  latitude: 65.85
+  longitude: -89.76
+scores:
+  impact: 8.9
+  uniqueness: 9.2
+  significance: 9.1
+  experience: 8.6
+  depth: 9.0
+  categories:
+    nature: 9.3
+    wildlife: 9.4
+    culture: 9.3

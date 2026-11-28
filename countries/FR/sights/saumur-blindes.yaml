@@ -1,0 +1,15 @@
+id: sight-fr-saumur-blindes
+name: "Musée des Blindés Saumur Armoured Vehicle Historical Collections"
+location:
+  country_code: FR
+  latitude: 47.245
+  longitude: -0.072
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 9.2
+  experience: 9.1
+  depth: 9.3
+  categories:
+    history: 9.4
+    culture: 9.4

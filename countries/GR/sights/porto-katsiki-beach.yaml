@@ -1,0 +1,17 @@
+id: sight-gr-porto-katsiki-beach
+name: "Porto Katsiki Beach Lefkada"
+location:
+  country_code: GR
+  latitude: 38.60092
+  longitude: 20.54996
+scores:
+  impact: 9.2
+  uniqueness: 8.7
+  significance: 8.0
+  experience: 8.8
+  depth: 7.8
+  categories:
+    beaches: 9.3
+    photography: 9.4
+    nature: 9.1
+    relaxation: 8.8

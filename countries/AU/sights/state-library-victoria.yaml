@@ -1,0 +1,16 @@
+id: sight-au-state-library-victoria
+name: "State Library Victoria La Trobe Reading Room and Heritage Galleries"
+location:
+  country_code: AU
+  latitude: -37.81
+  longitude: 144.965
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.8
+  depth: 8.7
+  categories:
+    architecture: 9.3
+    history: 9.2
+    culture: 9.2

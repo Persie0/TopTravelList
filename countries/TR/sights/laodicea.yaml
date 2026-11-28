@@ -1,0 +1,16 @@
+id: sight-tr-laodicea
+name: "Laodicea Archaeological Site Denizli"
+location:
+  country_code: TR
+  latitude: 37.83444
+  longitude: 29.109375
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 8.9
+  depth: 9.2
+  categories:
+    history: 9.4
+    architecture: 9.3
+    photography: 9.1

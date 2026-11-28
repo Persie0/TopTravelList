@@ -1,0 +1,16 @@
+id: sight-fr-fondation-vasarely
+name: "Fondation Vasarely Aix-en-Provence Architectonic Centre"
+location:
+  country_code: FR
+  latitude: 43.522
+  longitude: 5.425
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 9.1
+  experience: 9.2
+  depth: 9.0
+  categories:
+    culture: 9.4
+    architecture: 9.4
+    photography: 9.3

@@ -1,0 +1,16 @@
+id: sight-it-castellana-caves
+name: "Castellana Cave System"
+location:
+  country_code: IT
+  latitude: 40.8754234314
+  longitude: 17.1491451263
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 8.5
+  experience: 8.9
+  depth: 8.7
+  categories:
+    nature: 9.2
+    photography: 9.2
+    adventure: 9.0

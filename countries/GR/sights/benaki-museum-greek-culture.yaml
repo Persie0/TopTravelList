@@ -1,0 +1,16 @@
+id: sight-gr-benaki-museum-greek-culture
+name: "Benaki Museum of Greek Culture Athens"
+location:
+  country_code: GR
+  latitude: 37.975963
+  longitude: 23.740462
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 8.9
+  depth: 9.1
+  categories:
+    culture: 9.4
+    history: 9.3
+    architecture: 8.9

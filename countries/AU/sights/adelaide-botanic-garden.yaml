@@ -1,0 +1,16 @@
+id: sight-au-adelaide-botanic-garden
+name: "Adelaide Botanic Garden and Palm House"
+location:
+  country_code: AU
+  latitude: -34.917
+  longitude: 138.611
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.9
+  depth: 8.8
+  categories:
+    nature: 9.2
+    architecture: 9.1
+    relaxation: 9.2

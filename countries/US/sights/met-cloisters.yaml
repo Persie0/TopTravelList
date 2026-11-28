@@ -1,0 +1,16 @@
+id: sight-us-met-cloisters
+name: "The Met Cloisters Medieval Art Museum and Gardens"
+location:
+  country_code: US
+  latitude: 40.8649
+  longitude: -73.9317
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 9.2
+  experience: 9.1
+  depth: 9.2
+  categories:
+    culture: 9.4
+    architecture: 9.4
+    history: 9.3

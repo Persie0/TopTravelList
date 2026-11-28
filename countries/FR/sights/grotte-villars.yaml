@@ -1,0 +1,16 @@
+id: sight-fr-grotte-villars
+name: "Grotte de Villars Decorated Cave"
+location:
+  country_code: FR
+  latitude: 45.442
+  longitude: 0.796
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 8.8
+  depth: 8.4
+  categories:
+    nature: 9.2
+    history: 9.2
+    adventure: 8.9

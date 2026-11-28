@@ -1,0 +1,15 @@
+id: sight-ar-salta-maam
+name: "Salta Museo de Arqueología de Alta Montaña"
+location:
+  country_code: AR
+  latitude: -24.789
+  longitude: -65.411
+scores:
+  impact: 8.9
+  uniqueness: 9.4
+  significance: 9.4
+  experience: 8.8
+  depth: 9.0
+  categories:
+    history: 9.4
+    culture: 9.3

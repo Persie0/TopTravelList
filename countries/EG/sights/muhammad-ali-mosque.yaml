@@ -1,0 +1,17 @@
+id: sight-eg-muhammad-ali-mosque
+name: "Mosque of Muhammad Ali"
+location:
+  country_code: EG
+  latitude: 30.02779
+  longitude: 31.25816
+scores:
+  impact: 9.0
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.7
+  depth: 8.1
+  categories:
+    architecture: 9.3
+    history: 8.9
+    culture: 8.9
+    photography: 9.1

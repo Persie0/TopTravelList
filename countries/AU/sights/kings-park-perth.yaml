@@ -1,0 +1,16 @@
+id: sight-au-kings-park-perth
+name: "Kings Park and Western Australian Botanic Garden Perth"
+location:
+  country_code: AU
+  latitude: -31.96
+  longitude: 115.837
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.6
+  experience: 9.0
+  depth: 8.8
+  categories:
+    nature: 9.2
+    photography: 9.3
+    relaxation: 9.2

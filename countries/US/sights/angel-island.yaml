@@ -1,0 +1,16 @@
+id: sight-us-angel-island
+name: "Angel Island Immigration Station and State Park"
+location:
+  country_code: US
+  latitude: 37.861
+  longitude: -122.432
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.8
+  depth: 8.7
+  categories:
+    history: 9.2
+    nature: 9.0
+    culture: 9.1

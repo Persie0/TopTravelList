@@ -1,0 +1,16 @@
+id: sight-ca-cape-breton-highlands-national-park
+name: "Cape Breton Highlands National Park"
+location:
+  country_code: CA
+  latitude: 46.646414
+  longitude: -60.950784
+scores:
+  impact: 8.8
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 8.9
+  depth: 8.8
+  categories:
+    nature: 9.0
+    photography: 9.1
+    adventure: 8.8

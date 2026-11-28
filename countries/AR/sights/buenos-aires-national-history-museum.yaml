@@ -1,0 +1,15 @@
+id: sight-ar-buenos-aires-national-history-museum
+name: "Buenos Aires National Historical Museum Public Exhibitions"
+location:
+  country_code: AR
+  latitude: -34.63
+  longitude: -58.37
+scores:
+  impact: 8.1
+  uniqueness: 8.5
+  significance: 9.1
+  experience: 8.4
+  depth: 8.6
+  categories:
+    history: 9.4
+    culture: 9.2

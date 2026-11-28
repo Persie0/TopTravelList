@@ -1,0 +1,16 @@
+id: sight-ca-britannia-mine
+name: "Britannia Mine Museum Underground Mining Heritage"
+location:
+  country_code: CA
+  latitude: 49.624
+  longitude: -123.204
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 9.0
+  depth: 8.8
+  categories:
+    history: 9.3
+    adventure: 9.2
+    family: 9.2

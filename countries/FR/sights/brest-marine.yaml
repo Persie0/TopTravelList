@@ -1,0 +1,16 @@
+id: sight-fr-brest-marine
+name: "Château de Brest and Musée National de la Marine Maritime Collections"
+location:
+  country_code: FR
+  latitude: 48.383
+  longitude: -4.495
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 8.9
+  depth: 9.0
+  categories:
+    history: 9.4
+    architecture: 9.3
+    culture: 9.3

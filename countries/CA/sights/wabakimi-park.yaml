@@ -1,0 +1,16 @@
+id: sight-ca-wabakimi-park
+name: "Wabakimi Provincial Park Remote Canoe Wilderness"
+location:
+  country_code: CA
+  latitude: 50.46
+  longitude: -89.48
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 9.0
+  experience: 9.1
+  depth: 9.3
+  categories:
+    nature: 9.4
+    adventure: 9.4
+    wildlife: 9.3

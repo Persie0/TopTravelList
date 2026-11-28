@@ -1,0 +1,16 @@
+id: sight-nc-deva-forest
+name: "Domaine de Deva Dry Forest and Mountain Trails"
+location:
+  country_code: NC
+  latitude: -21.61
+  longitude: 165.43
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 9.0
+  depth: 9.1
+  categories:
+    nature: 9.3
+    adventure: 9.3
+    wildlife: 9.3

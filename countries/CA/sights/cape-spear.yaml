@@ -1,0 +1,16 @@
+id: sight-ca-cape-spear
+name: "Cape Spear Lighthouse National Historic Site"
+location:
+  country_code: CA
+  latitude: 47.52
+  longitude: -52.62
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.7
+  depth: 8.5
+  categories:
+    history: 9.2
+    photography: 9.3
+    nature: 9.1

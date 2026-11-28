@@ -600,3 +600,143 @@ These pages were inspected 2026-11-25; no unsupported visitor ratings added.
 - Final decision: Provisional worldwide V2 editorial assessment.
 - Earlier decision: none.
 - Verification still needed: current operating conditions, coordinate corroboration, independent claim-level verification; no guaranteed wildlife sightings or unrestricted access.
+
+## sight-fm-yap-day — Yap Day Annual Cultural Festival — 2026-11-27
+
+- YAML: [source](../../../countries/FM/sights/yap-day.yaml)
+- Action: new
+- Scope: Recurring community-hosted event with dance, craft and canoe demonstrations; rotating venue, coordinate is Yap locality, not next festival site. Canoe launching held within 2026 festival; not a separate record.
+- Representative coordinates: 9.52, 138.12; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.4 / 9.3 / 9.1 / 9.1.
+- Categories: culture:9.4 history:9.3 photography:9.3.
+- Overall: 91.85/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.visityap.com/wp/pressrelease/56th-yap-day-festival-february-28-march-02-2026/, https://www.yapstate.gov.fm/post/56th-yap-day-celebration-day-3-1st-annual-canoe-launching-festival, https://southpacificislands.travel/the-2025-yap-day-festival-another-resounding-success/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FM/yap-living-history-museum](../../../countries/FM/sights/yap-living-history-museum.yaml) | 7.3 / 8.4 / 7.9 / 7.8 / 7.3 | depth: +1.8 vs peer; impact: +1.7 vs peer |
+| [FM/mangyol-stone-money-bank](../../../countries/FM/sights/mangyol-stone-money-bank.yaml) | 7.6 / 9.2 / 8.7 / 7.4 / 7.1 | depth: +2.0 vs peer; experience: +1.7 vs peer |
+| [WS/robert-louis-stevenson-museum](../../../countries/WS/sights/robert-louis-stevenson-museum.yaml) | 7.7 / 8.5 / 8.5 / 8.1 / 7.6 | depth: +1.5 vs peer; impact: +1.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-fm-palikir-pass — Palikir Pass Pohnpei Expert Reef Surfing — 2026-11-27
+
+- YAML: [source](../../../countries/FM/sights/palikir-pass.yaml)
+- Action: new
+- Scope: Named expert-level reef surf break, distinct from atoll snorkeling and diving; conditions and ability dependent, point approximate.
+- Representative coordinates: 6.99, 158.12; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.2 / 8.5 / 9.1 / 8.6.
+- Categories: adventure:9.4 nature:9.2 photography:9.3.
+- Overall: 89.85/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://visitpohnpei.travel/adventure/, https://pohnpeiisland.com/diving-and-surfing/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FM/ahnd-atoll](../../../countries/FM/sights/ahnd-atoll.yaml) | 8.9 / 8.8 / 9.0 / 8.8 / 8.5 | significance: -0.5 vs peer; uniqueness: +0.4 vs peer |
+| [FM/miil-channel](../../../countries/FM/sights/miil-channel.yaml) | 9.1 / 9.1 / 8.6 / 9.0 / 7.9 | depth: +0.7 vs peer; impact: +0.1 vs peer |
+| [PW/blue-corner](../../../countries/PW/sights/blue-corner.yaml) | 9.3 / 9.0 / 8.3 / 9.3 / 8.6 | uniqueness: +0.2 vs peer; significance: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-fm-pohnpei-manta-road — Pohnpei Manta Road Guided Marine Encounters — 2026-11-27
+
+- YAML: [source](../../../countries/FM/sights/pohnpei-manta-road.yaml)
+- Action: new
+- Scope: Named Pohnpei dive circuit, excludes Ahnd Atoll and Yap Mi'il Channel; no guaranteed sightings or coral health; coordinate broad regional proxy, not dive point.
+- Representative coordinates: 6.95, 158.3; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.2 / 8.8 / 9.0 / 8.7.
+- Categories: wildlife:9.4 nature:9.3 adventure:9.2.
+- Overall: 90.10/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://visitpohnpei.travel/adventure/, https://visit-micronesia.fm/activities/?tab=nature-activities.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FM/miil-channel](../../../countries/FM/sights/miil-channel.yaml) | 9.1 / 9.1 / 8.6 / 9.0 / 7.9 | depth: +0.8 vs peer; significance: +0.2 vs peer |
+| [FM/ahnd-atoll](../../../countries/FM/sights/ahnd-atoll.yaml) | 8.9 / 8.8 / 9.0 / 8.8 / 8.5 | uniqueness: +0.4 vs peer; impact: +0.2 vs peer |
+| [PW/german-channel](../../../countries/PW/sights/german-channel.yaml) | 8.7 / 8.6 / 7.8 / 8.9 / 7.8 | significance: +1.0 vs peer; depth: +0.9 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-fm-kosrae-outer-reef — Kosrae Northern and Eastern Outer Reef Diving — 2026-11-27
+
+- YAML: [source](../../../countries/FM/sights/kosrae-outer-reef.yaml)
+- Action: new
+- Scope: Established northern/eastern boat dive sites, excludes Utwe-Walung park in south; current habitat not independently assessed.
+- Representative coordinates: 5.36, 163.02; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.6 / 8.9 / 8.8.
+- Categories: nature:9.3 wildlife:9.3 adventure:9.2.
+- Overall: 88.00/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://hpo.kosraestate.gov.fm/visiting-kosrae-kosraean-culture/, https://kosraediving.com/sites.php.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FM/utwe-walung-marine-park](../../../countries/FM/sights/utwe-walung-marine-park.yaml) | 8.3 / 8.6 / 8.8 / 8.8 / 8.5 | impact: +0.5 vs peer; uniqueness: +0.3 vs peer |
+| [FM/ahnd-atoll](../../../countries/FM/sights/ahnd-atoll.yaml) | 8.9 / 8.8 / 9.0 / 8.8 / 8.5 | significance: -0.4 vs peer; depth: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-fm-pohnpei-nanpil — Nanpil River and Liduduhniap Waterfall Walk — 2026-11-27
+
+- YAML: [source](../../../countries/FM/sights/pohnpei-nanpil.yaml)
+- Action: new
+- Scope: Named waterfall and nearby river walk, not Kepirohi waterfall; permitted local access only.
+- Representative coordinates: 6.92, 158.19; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.4 / 8.0 / 8.4 / 8.2.
+- Categories: nature:9.1 photography:9.1 adventure:8.8.
+- Overall: 83.00/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FM/kepirohi-waterfall](../../../countries/FM/sights/kepirohi-waterfall.yaml) | 8.0 / 7.3 / 6.5 / 8.1 / 6.8 | significance: +1.5 vs peer; depth: +1.4 vs peer |
+| [FM/sokehs-rock](../../../countries/FM/sights/sokehs-rock.yaml) | 8.2 / 7.5 / 6.6 / 7.9 / 7.0 | significance: +1.4 vs peer; depth: +1.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 215 scope decisions
+
+Yap Day recurring festival, no future dates assumed, canoe launch included. Palikir expert surf separate from diving. Kosrae excludes Utwe-Walung. Ahnd atoll dives and Chuuk wrecks not duplicated. Pakin atoll deferred pending permission/route evidence.
+
+## sight-fm-pakin-atoll — Pakin Atoll Community-Hosted Lagoon and Island Visit — 2026-11-27
+
+- YAML: [source](../../../countries/FM/sights/pakin-atoll.yaml)
+- Action: new
+- Scope: Weather-dependent boat journey to distinct inhabited atoll; local host and permission necessary, no unrestricted landing or current operator guaranteed.
+- Representative coordinates: 7.05, 157.8; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.6 / 8.8 / 8.5 / 8.5 / 8.5.
+- Categories: nature:9.2 culture:9.2 photography:9.1.
+- Overall: 86.05/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating; lasting damage requires reassessment.
+- Sources consulted (2026-11-27): https://visitpohnpei.travel/pohnpei-outer-atolls/, https://www.pohnpeiisland.com/outer-atolls/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FM/ahnd-atoll](../../../countries/FM/sights/ahnd-atoll.yaml) | 8.9 / 8.8 / 9.0 / 8.8 / 8.5 | significance: -0.5 vs peer; impact: -0.3 vs peer |
+| [FM/utwe-walung-marine-park](../../../countries/FM/sights/utwe-walung-marine-park.yaml) | 8.3 / 8.6 / 8.8 / 8.8 / 8.5 | impact: +0.3 vs peer; significance: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 219 scope decisions
+
+Pakin locally hosted visitor arrangements described by Pohnpei tourism; ocean conditions and host permission required. Two existing unassessed retained. Bounded queue closed.

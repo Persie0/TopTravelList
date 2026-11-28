@@ -1,0 +1,16 @@
+id: sight-tr-izmir-archaeological-museum
+name: "İzmir Archaeological Museum Konak"
+location:
+  country_code: TR
+  latitude: 38.41394
+  longitude: 27.12807
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.7
+  depth: 8.8
+  categories:
+    history: 9.2
+    culture: 9.2
+    architecture: 8.6

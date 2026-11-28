@@ -2,7 +2,7 @@
 
 # Anguilla (AI) — Sights & attractions ranking
 
-**9 ranked** · **1 unassessed** · **10 total** · Worldwide scoring **v2**
+**10 ranked** · **0 unassessed** · **10 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,27 +10,20 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (9)
+## Complete ranked list (10)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
-| 1 | [Prickly Pear Cays (permitted visitor areas)](sights/prickly-pear.yaml) | Attraction | **85.85** | **Beaches 9.1**, **Nature 8.9**, **Wildlife 8.7** | 8.9 / 8.5 / 8.5 / 8.6 / 8.0 | [18.267, -63.186](https://www.google.com/maps/search/?api=1&query=18.267,-63.186) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Prickly%20Pear%20Cays%20%28permitted%20visitor%20areas%29%2C%20Anguilla) |
-| 2 | [Little Bay Marine Park (permitted cove viewing)](sights/little-bay.yaml) | Park / reserve | **84.15** | **Photography 9.0**, **Beaches 8.8**, **Nature 8.7** | 8.8 / 8.6 / 8.0 / 8.5 / 7.5 | [18.228, -63.068](https://www.google.com/maps/search/?api=1&query=18.228,-63.068) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Little%20Bay%20Marine%20Park%20%28permitted%20cove%20viewing%29%2C%20Anguilla) |
-| 3 | [Shoal Bay East Beach](sights/shoal-bay-east.yaml) | Beach / bay | **83.10** | **Beaches 9.3**, **Photography 9.1**, **Relaxation 9.0** | 9.0 / 8.3 / 7.2 / 8.9 / 7.6 | [18.256, -63.034](https://www.google.com/maps/search/?api=1&query=18.256,-63.034) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Shoal%20Bay%20East%20Beach%2C%20Anguilla) |
-| 4 | [Big Spring Heritage Site](sights/big-spring.yaml) | Attraction | **83.05** | **History 9.1**, **Culture 8.8** | 7.9 / 8.8 / 8.9 / 8.1 / 7.4 | [18.254, -63.009](https://www.google.com/maps/search/?api=1&query=18.254,-63.009) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Big%20Spring%20Heritage%20Site%2C%20Anguilla) |
-| 5 | [Sandy Island (permitted visitor area)](sights/sandy-island.yaml) | Island | **82.20** | **Beaches 9.1**, **Photography 9.0**, **Relaxation 8.8** | 8.8 / 8.4 / 7.5 / 8.6 / 6.9 | [18.216, -63.128](https://www.google.com/maps/search/?api=1&query=18.216,-63.128) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sandy%20Island%20%28permitted%20visitor%20area%29%2C%20Anguilla) |
-| 6 | [Rendezvous Bay Beach](sights/rendezvous-bay.yaml) | Beach / bay | **81.90** | **Beaches 9.1**, **Relaxation 9.0**, **Photography 8.9** | 8.8 / 8.2 / 7.0 / 8.8 / 7.8 | [18.177, -63.107](https://www.google.com/maps/search/?api=1&query=18.177,-63.107) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rendezvous%20Bay%20Beach%2C%20Anguilla) |
-| 7 | [Meads Bay Beach](sights/meads-bay.yaml) | Beach / bay | **81.25** | **Beaches 9.1**, **Relaxation 9.0**, **Photography 8.9** | 8.8 / 8.1 / 6.9 / 8.8 / 7.6 | [18.181, -63.137](https://www.google.com/maps/search/?api=1&query=18.181,-63.137) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Meads%20Bay%20Beach%2C%20Anguilla) |
-| 8 | [Road Pond (Sandy Ground salt heritage)](sights/road-pond.yaml) | Attraction | **78.65** | **History 8.5**, **Culture 8.3**, **Nature 8.2** | 7.7 / 8.1 / 8.2 / 7.8 / 7.2 | [18.204, -63.089](https://www.google.com/maps/search/?api=1&query=18.204,-63.089) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Road%20Pond%20%28Sandy%20Ground%20salt%20heritage%29%2C%20Anguilla) |
-| 9 | [Wallblake House (heritage exterior)](sights/wallblake-house.yaml) | Lake | **78.05** | **History 8.7**, **Architecture 8.3**, **Culture 8.2** | 7.6 / 8.1 / 8.4 / 7.6 / 6.8 | [18.212, -63.054](https://www.google.com/maps/search/?api=1&query=18.212,-63.054) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Wallblake%20House%20%28heritage%20exterior%29%2C%20Anguilla) |
-
-## Not yet fully assessed (1)
-
-These destinations have no rank until all five core scores are assessed.
-
-| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
-| ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Fountain Cavern National Park](sights/fountain-cavern.yaml) | Park / reserve | **—** | **History 9.2**, **Culture 8.9** | — / 9.0 / 9.1 / — / — | [18.252, -63.034](https://www.google.com/maps/search/?api=1&query=18.252,-63.034) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fountain%20Cavern%20National%20Park%2C%20Anguilla) |
+| 1 | [Fountain Cavern National Park](sights/fountain-cavern.yaml) | Park / reserve | **85.90** | **History 9.2**, **Culture 8.9** | 8.3 / 9.0 / 9.1 / 8.0 / 8.3 | [18.252, -63.034](https://www.google.com/maps/search/?api=1&query=18.252,-63.034) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fountain%20Cavern%20National%20Park%2C%20Anguilla) |
+| 2 | [Prickly Pear Cays (permitted visitor areas)](sights/prickly-pear.yaml) | Attraction | **85.85** | **Beaches 9.1**, **Nature 8.9**, **Wildlife 8.7** | 8.9 / 8.5 / 8.5 / 8.6 / 8.0 | [18.267, -63.186](https://www.google.com/maps/search/?api=1&query=18.267,-63.186) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Prickly%20Pear%20Cays%20%28permitted%20visitor%20areas%29%2C%20Anguilla) |
+| 3 | [Little Bay Marine Park (permitted cove viewing)](sights/little-bay.yaml) | Park / reserve | **84.15** | **Photography 9.0**, **Beaches 8.8**, **Nature 8.7** | 8.8 / 8.6 / 8.0 / 8.5 / 7.5 | [18.228, -63.068](https://www.google.com/maps/search/?api=1&query=18.228,-63.068) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Little%20Bay%20Marine%20Park%20%28permitted%20cove%20viewing%29%2C%20Anguilla) |
+| 4 | [Shoal Bay East Beach](sights/shoal-bay-east.yaml) | Beach / bay | **83.10** | **Beaches 9.3**, **Photography 9.1**, **Relaxation 9.0** | 9.0 / 8.3 / 7.2 / 8.9 / 7.6 | [18.256, -63.034](https://www.google.com/maps/search/?api=1&query=18.256,-63.034) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Shoal%20Bay%20East%20Beach%2C%20Anguilla) |
+| 5 | [Big Spring Heritage Site](sights/big-spring.yaml) | Attraction | **83.05** | **History 9.1**, **Culture 8.8** | 7.9 / 8.8 / 8.9 / 8.1 / 7.4 | [18.254, -63.009](https://www.google.com/maps/search/?api=1&query=18.254,-63.009) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Big%20Spring%20Heritage%20Site%2C%20Anguilla) |
+| 6 | [Sandy Island (permitted visitor area)](sights/sandy-island.yaml) | Island | **82.20** | **Beaches 9.1**, **Photography 9.0**, **Relaxation 8.8** | 8.8 / 8.4 / 7.5 / 8.6 / 6.9 | [18.216, -63.128](https://www.google.com/maps/search/?api=1&query=18.216,-63.128) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sandy%20Island%20%28permitted%20visitor%20area%29%2C%20Anguilla) |
+| 7 | [Rendezvous Bay Beach](sights/rendezvous-bay.yaml) | Beach / bay | **81.90** | **Beaches 9.1**, **Relaxation 9.0**, **Photography 8.9** | 8.8 / 8.2 / 7.0 / 8.8 / 7.8 | [18.177, -63.107](https://www.google.com/maps/search/?api=1&query=18.177,-63.107) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rendezvous%20Bay%20Beach%2C%20Anguilla) |
+| 8 | [Meads Bay Beach](sights/meads-bay.yaml) | Beach / bay | **81.25** | **Beaches 9.1**, **Relaxation 9.0**, **Photography 8.9** | 8.8 / 8.1 / 6.9 / 8.8 / 7.6 | [18.181, -63.137](https://www.google.com/maps/search/?api=1&query=18.181,-63.137) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Meads%20Bay%20Beach%2C%20Anguilla) |
+| 9 | [Road Pond (Sandy Ground salt heritage)](sights/road-pond.yaml) | Attraction | **78.65** | **History 8.5**, **Culture 8.3**, **Nature 8.2** | 7.7 / 8.1 / 8.2 / 7.8 / 7.2 | [18.204, -63.089](https://www.google.com/maps/search/?api=1&query=18.204,-63.089) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Road%20Pond%20%28Sandy%20Ground%20salt%20heritage%29%2C%20Anguilla) |
+| 10 | [Wallblake House (heritage exterior)](sights/wallblake-house.yaml) | Lake | **78.05** | **History 8.7**, **Architecture 8.3**, **Culture 8.2** | 7.6 / 8.1 / 8.4 / 7.6 / 6.8 | [18.212, -63.054](https://www.google.com/maps/search/?api=1&query=18.212,-63.054) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Wallblake%20House%20%28heritage%20exterior%29%2C%20Anguilla) |
 
 ---
 

@@ -1,0 +1,16 @@
+id: sight-us-gates-of-the-arctic
+name: "Gates of the Arctic National Park and Preserve"
+location:
+  country_code: US
+  latitude: 67.78
+  longitude: -153.3
+scores:
+  impact: 9.3
+  uniqueness: 9.4
+  significance: 9.2
+  experience: 8.6
+  depth: 9.1
+  categories:
+    nature: 9.4
+    adventure: 9.4
+    photography: 9.4

@@ -1,0 +1,10 @@
+# Pass 185 — access-independent reassessment, part 3
+2026-11-27. Provisional editorial estimates based on retrieved source pages/excerpts. No present opening or safety claim; no credit for destroyed fabric as intact. Existing numeric fields and coordinates retained. Peer comparisons qualitative; numerical peer verification pending.
+
+## YE/sights/sayun-palace
+Status: source-linked-unverified. Sources: https://whc.unesco.org/en/tentativelists/6853/ ; https://www.unesco.org/en/fieldoffice/doha/rehabilitation-seiyoun-palace?hub=891. Large earthen palace with historic museum function; historical and hypothetical conserved architectural circuit, museum display conditional on rehabilitation. No present opening claim. Comparisons: Less monumental than Potala Palace; less extensive palace courtyards than Topkapi; less decorative diversity than Alhambra; less varied fortification fabric than Mehrangarh. I/U/S/E/D: 8.4, 8.6, 8.5, 8.7, 8.6. Overall 85.35. 
+
+## YE/sights/socotra-archipelago
+Status: source-linked-unverified. Sources: https://whc.unesco.org/en/list/1263/. Exceptional island biodiversity, endemic plants, mountain and coastal habitats; normal-access assessment restricted to conservation-compatible observation in authorized areas, not blanket access to every island or guaranteed animal sightings. Excludes aggregation of separately rated local sights as additive scores. Comparisons: Less extensive reef system than Great Barrier Reef; less varied visible endemic vertebrate wildlife than Galápagos; less dramatic glacial terrain than Patagonia; distinctive endemic flora relative to the Seychelles. Serial scope and numerical high-score calibration pending. I/U/S/E/D: 9.4, 9.4, 9.4, 9.3, 9.4. Overall 93.85. 90+ numerical benchmark review pending.
+
+4 null-only core fields filled. Total 20 records (7 Syria, 13 Yemen), 46 core fields, 80 qualitative comparisons. Existing scores and coordinates retained. Mari/Dura serial and component overlap flagged. Sixteen Yemen records outside batch. Full validation, numerical benchmarks, ranking regeneration and merge pending. No private Actions manually dispatched.

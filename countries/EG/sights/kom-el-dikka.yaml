@@ -1,0 +1,16 @@
+id: sight-eg-kom-el-dikka
+name: "Kom el-Dikka Archaeological Site"
+location:
+  country_code: EG
+  latitude: 31.19516
+  longitude: 29.90425
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.6
+  depth: 8.5
+  categories:
+    history: 9.3
+    architecture: 9.0
+    photography: 8.8

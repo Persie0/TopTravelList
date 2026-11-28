@@ -1,0 +1,16 @@
+id: sight-fr-four-solaire-odeillo
+name: "Odeillo Solar Furnace and Science Heritage"
+location:
+  country_code: FR
+  latitude: 42.495
+  longitude: 2.03
+scores:
+  impact: 8.5
+  uniqueness: 9.2
+  significance: 8.8
+  experience: 8.3
+  depth: 8.2
+  categories:
+    architecture: 9.1
+    culture: 9.1
+    history: 9.0

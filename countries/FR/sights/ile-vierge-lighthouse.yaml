@@ -1,0 +1,17 @@
+id: sight-fr-ile-vierge-lighthouse
+name: "Île Vierge Lighthouse and Island Boat Visit"
+location:
+  country_code: FR
+  latitude: 48.63885
+  longitude: -4.5675
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 8.8
+  experience: 8.8
+  depth: 8.3
+  categories:
+    architecture: 9.2
+    photography: 9.3
+    history: 9.1
+    adventure: 9.0

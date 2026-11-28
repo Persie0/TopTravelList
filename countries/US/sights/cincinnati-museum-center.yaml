@@ -1,0 +1,16 @@
+id: sight-us-cincinnati-museum-center
+name: "Cincinnati Museum Center at Union Terminal"
+location:
+  country_code: US
+  latitude: 39.11
+  longitude: -84.537
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 9.0
+  depth: 9.1
+  categories:
+    architecture: 9.3
+    history: 9.1
+    family: 9.3

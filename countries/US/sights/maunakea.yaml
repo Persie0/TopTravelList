@@ -1,0 +1,16 @@
+id: sight-us-maunakea
+name: "Maunakea Visitor Information Station Stargazing and Mountain Landscape"
+location:
+  country_code: US
+  latitude: 19.76
+  longitude: -155.456
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 9.3
+  experience: 8.8
+  depth: 9.1
+  categories:
+    nature: 9.4
+    photography: 9.4
+    culture: 9.3

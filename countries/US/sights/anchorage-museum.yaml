@@ -1,0 +1,16 @@
+id: sight-us-anchorage-museum
+name: "Anchorage Museum Alaska Art History and Science"
+location:
+  country_code: US
+  latitude: 61.216
+  longitude: -149.884
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.8
+  depth: 8.9
+  categories:
+    culture: 9.3
+    history: 9.3
+    nature: 9.1

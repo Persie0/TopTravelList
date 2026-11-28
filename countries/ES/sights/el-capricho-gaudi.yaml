@@ -1,0 +1,17 @@
+id: sight-es-el-capricho-gaudi
+name: "El Capricho de Gaudí Comillas"
+location:
+  country_code: ES
+  latitude: 43.38368
+  longitude: -4.29271
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 8.9
+  experience: 8.7
+  depth: 8.2
+  categories:
+    architecture: 9.3
+    culture: 9.0
+    photography: 9.1
+    history: 8.8

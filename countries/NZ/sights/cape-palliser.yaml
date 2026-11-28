@@ -1,0 +1,16 @@
+id: sight-nz-cape-palliser
+name: "Cape Palliser Lighthouse and Fur Seal Coast"
+location:
+  country_code: NZ
+  latitude: -41.61
+  longitude: 175.29
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.4
+  experience: 8.7
+  depth: 8.5
+  categories:
+    nature: 9.2
+    wildlife: 9.2
+    photography: 9.3

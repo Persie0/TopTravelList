@@ -437,3 +437,274 @@ No numerical score or evidence-status changes made by this pass.
 - Final decision: provisional worldwide V2 editorial rating of defined visitor scope.
 - Earlier decision: none.
 - Verification still needed: independent coordinates, material claims and visitor scope checks.
+
+
+## sight-gf-zoo-guyane — Zoo de Guyane Macouria Native Wildlife Park — 2026-11-27
+
+- YAML: [source](../../../countries/GF/sights/zoo-guyane.yaml)
+- Action: new
+- Scope: Native wildlife collections and education.
+- Representative coordinates: 5.026, -52.5; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.7 / 8.5 / 8.8 / 8.7.
+- Categories: wildlife:9.3,family:9.2,nature:9.2.
+- Overall: 86.15/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+
+
+## sight-gf-cacao-village — Cacao Hmong Village and Market Cultural Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/GF/sights/cacao-village.yaml)
+- Action: new
+- Scope: Village and traditional market, not surrounding rainforest.
+- Representative coordinates: 4.573, -52.48; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.8 / 8.8 / 8.7 / 8.5.
+- Categories: culture:9.3,food:9.2,history:9.2.
+- Overall: 86.35/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+
+
+## sight-gf-fort-diamant-remire — Fort Diamant and Rémire-Montjoly Coastal Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/GF/sights/fort-diamant-remire.yaml)
+- Action: new
+- Scope: Historic fort and immediate coastal views.
+- Representative coordinates: 4.884, -52.25; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.6 / 8.8 / 8.6 / 8.5.
+- Categories: history:9.3,architecture:9.1,photography:9.2.
+- Overall: 85.70/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+
+
+## sight-gf-grand-matoury — Mont Grand Matoury Nature Reserve Rainforest Trails — 2026-11-27
+
+- YAML: [source](../../../countries/GF/sights/grand-matoury.yaml)
+- Action: new
+- Scope: Local reserve forest trails distinct from Saül and Amazonian Park.
+- Representative coordinates: 4.851, -52.348; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.7 / 8.7 / 8.8.
+- Categories: nature:9.3,wildlife:9.2,adventure:9.2.
+- Overall: 87.10/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+
+- Pass 166 verification pending: independent factual and coordinate checks, full Python validation.
+
+## sight-gf-maroni-pirogue — Maroni River Pirogue Expedition and Maroon Cultural Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/GF/sights/maroni-pirogue.yaml)
+- Action: new
+- Scope: Guided multiday river journeys and community-led cultural visits; French Guiana bank and legitimate itineraries only, not separate national park forest credit or a Suriname entry. Representative Saint-Laurent departure.
+- Representative coordinates: 5.499, -54.033; approximate, not necessarily entrance.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.2 / 9.1 / 9.2.
+- Categories: culture:9.4,adventure:9.4,nature:9.3.
+- Overall: 91.80/100.
+- Decision: Source-informed provisional assessment from tourism/operator indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.france.fr/fr/article/guyane-descente-fleuve-maroni/ ; https://www.ouestguyane.fr/louest-guyanais/tourisme/visiter-apatou-entre-histoire-et-nature/ ; https://voyage-maroni-sabialiba.fr/excursion-sur-le-fleuve-maroni-de-saint-laurent-a-maripasoula.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GF/kaw-roura](../../../countries/GF/sights/kaw-roura.yaml) | 8.8 / 9.0 / 9.1 / 8.8 / 8.8 | depth: +0.4 vs peer; impact: +0.3 vs peer |
+| [GF/guyane-park](../../../countries/GF/sights/guyane-park.yaml) | 8.8 / 9.2 / 9.3 / 8.3 / 8.6 | experience: +0.8 vs peer; depth: +0.6 vs peer |
+| [GF/cacao-village](../../../countries/GF/sights/cacao-village.yaml) | 8.4 / 8.8 / 8.8 / 8.7 / 8.5 | impact: +0.7 vs peer; depth: +0.7 vs peer |
+| [GF/saul-trails](../../../countries/GF/sights/saul-trails.yaml) | 8.6 / 8.7 / 8.6 / 8.8 / 8.7 | uniqueness: +0.6 vs peer; significance: +0.6 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-gf-camp-canopee — Camp Canopée Kourou River Treetop and Rainforest Expedition — 2026-11-27
+
+- YAML: [source](../../../countries/GF/sights/camp-canopee.yaml)
+- Action: new
+- Scope: Dedicated guided canopy ascent, forest observation and river access; not lodging alone or guaranteed wildlife encounters. Operator describes treetop activities; mapped camp point.
+- Representative coordinates: 4.88642, -52.79746; approximate, not necessarily entrance.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.3 / 8.7 / 9.2 / 9.1.
+- Categories: adventure:9.4,nature:9.4,wildlife:9.3.
+- Overall: 90.55/100.
+- Decision: Source-informed provisional assessment from tourism/operator indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.canopee-guyane.com/ ; https://www.t-airnatureguyane.com/excursion/camp-canopee/ ; https://www.france.fr/en/itinerary/A%20slow%20tourism%20experience%20in%20French%20Guiana%20as%20a%20couple./ ; https://mapcarta.com/fr/N5813432253.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GF/saul-trails](../../../countries/GF/sights/saul-trails.yaml) | 8.6 / 8.7 / 8.6 / 8.8 / 8.7 | uniqueness: +0.6 vs peer; impact: +0.4 vs peer |
+| [GF/grand-matoury](../../../countries/GF/sights/grand-matoury.yaml) | 8.7 / 8.7 / 8.7 / 8.7 / 8.8 | uniqueness: +0.6 vs peer; experience: +0.5 vs peer |
+| [GF/guyane-park](../../../countries/GF/sights/guyane-park.yaml) | 8.8 / 9.2 / 9.3 / 8.3 / 8.6 | experience: +0.9 vs peer; significance: -0.6 vs peer |
+| [GF/montagne-des-singes](../../../countries/GF/sights/montagne-des-singes.yaml) | 8.1 / 8.1 / 7.7 / 8.4 / 7.5 | depth: +1.6 vs peer; uniqueness: +1.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-gf-pripris-yiyi — Pripris de Yiyi Wetlands and Maison de la Nature — 2026-11-27
+
+- YAML: [source](../../../countries/GF/sights/pripris-yiyi.yaml)
+- Action: new
+- Scope: Distinct western coastal freshwater marshes, trails, interpretation and canoe access; no separate visitor centre entry.
+- Representative coordinates: 5.4231, -53.0459; approximate, not necessarily entrance.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.8 / 8.8 / 8.9.
+- Categories: nature:9.3,wildlife:9.4,photography:9.2.
+- Overall: 88.35/100.
+- Decision: Source-informed provisional assessment from tourism/operator indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.cen-guyane.org/les-espaces-naturels-geres-de-guyane/domaines-du-conservatoire-du-littoral-menu/pripri-de-yiyi/ ; https://www.ville-sinnamary.fr/mes-loisirs/les-sites-naturel/centre-dinterpretation-de-leau-et-des-milieux-aquatiques-pripris-de-yiyi/ ; https://mapcarta.com/fr/N1162091500.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GF/kaw-roura](../../../countries/GF/sights/kaw-roura.yaml) | 8.8 / 9.0 / 9.1 / 8.8 / 8.8 | significance: -0.3 vs peer; uniqueness: -0.1 vs peer |
+| [GF/tresor-reserve-trails](../../../countries/GF/sights/tresor-reserve-trails.yaml) | 8.2 / 8.6 / 8.8 / 8.4 / 8.0 | depth: +0.9 vs peer; impact: +0.6 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-gf-ilet-la-mere — Îlet la Mère Island Wildlife and Historic Trails — 2026-11-27
+
+- YAML: [source](../../../countries/GF/sights/ilet-la-mere.yaml)
+- Action: new
+- Scope: Island wildlife and history; no feeding, touching, or guaranteed encounters. Geographically distinct from Salvation Islands.
+- Representative coordinates: 4.892, -52.18441; approximate, not necessarily entrance.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.5 / 8.9 / 8.6.
+- Categories: wildlife:9.3,nature:9.3,photography:9.2.
+- Overall: 87.60/100.
+- Decision: Desk-based provisional estimate from regional overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GF/salvation-islands](../../../countries/GF/sights/salvation-islands.yaml) | 8.8 / 9.0 / 9.0 / 8.7 / 8.7 | significance: -0.5 vs peer; experience: +0.2 vs peer |
+| [GF/zoo-guyane](../../../countries/GF/sights/zoo-guyane.yaml) | 8.5 / 8.7 / 8.5 / 8.8 / 8.7 | impact: +0.3 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-gf-cayenne-historic-centre — Cayenne Historic Centre Place des Palmistes and Fort Cépérou — 2026-11-27
+
+- YAML: [source](../../../countries/GF/sights/cayenne-historic-centre.yaml)
+- Action: new
+- Scope: Creole streets, square and historic fort combined; excludes independent museum collections.
+- Representative coordinates: 4.938, -52.335; approximate, not necessarily entrance.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.7 / 8.9 / 8.7 / 8.8.
+- Categories: architecture:9.2,history:9.3,culture:9.3.
+- Overall: 87.20/100.
+- Decision: Desk-based provisional estimate from regional overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GF/fort-diamant-remire](../../../countries/GF/sights/fort-diamant-remire.yaml) | 8.4 / 8.6 / 8.8 / 8.6 / 8.5 | depth: +0.3 vs peer; impact: +0.2 vs peer |
+| [GF/camp-de-la-transportation](../../../countries/GF/sights/camp-de-la-transportation.yaml) | 8.4 / 8.9 / 9.0 / 8.6 / 8.5 | depth: +0.3 vs peer; impact: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-gf-franconie-museum — Musée Alexandre Franconie Cayenne Natural and Cultural History — 2026-11-27
+
+- YAML: [source](../../../countries/GF/sights/franconie-museum.yaml)
+- Action: new
+- Scope: Natural history, ethnography and historical collections; not historic city streets. Verify current public access separately.
+- Representative coordinates: 4.93829, -52.33443; approximate, not necessarily entrance.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.8 / 8.9 / 8.6 / 8.8.
+- Categories: culture:9.3,history:9.3,nature:9.2.
+- Overall: 87.00/100.
+- Decision: Desk-based provisional estimate from regional overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GF/guyaspace-experience](../../../countries/GF/sights/guyaspace-experience.yaml) | 8.1 / 8.6 / 8.6 / 8.8 / 8.3 | depth: +0.5 vs peer; impact: +0.4 vs peer |
+| [GF/camp-de-la-transportation](../../../countries/GF/sights/camp-de-la-transportation.yaml) | 8.4 / 8.9 / 9.0 / 8.6 / 8.5 | depth: +0.3 vs peer; impact: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-gf-iracoubo-saint-joseph — Église Saint-Joseph Iracoubo Painted Church — 2026-11-27
+
+- YAML: [source](../../../countries/GF/sights/iracoubo-saint-joseph.yaml)
+- Action: new
+- Scope: Protected church interior with painted decoration by Pierre Huguet; distinct heritage stop.
+- Representative coordinates: 5.47934, -53.20661; approximate, not necessarily entrance.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 9.0 / 8.9 / 8.6 / 8.6.
+- Categories: architecture:9.3,culture:9.3,history:9.2.
+- Overall: 87.60/100.
+- Decision: Desk-based provisional estimate from regional overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GF/fort-diamant-remire](../../../countries/GF/sights/fort-diamant-remire.yaml) | 8.4 / 8.6 / 8.8 / 8.6 / 8.5 | uniqueness: +0.4 vs peer; impact: +0.2 vs peer |
+| [GF/camp-de-la-transportation](../../../countries/GF/sights/camp-de-la-transportation.yaml) | 8.4 / 8.9 / 9.0 / 8.6 / 8.5 | impact: +0.2 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-gf-bagne-annamites — Bagne des Annamites Crique Anguille Historic Ruins and Forest Trail — 2026-11-27
+
+- YAML: [source](../../../countries/GF/sights/bagne-annamites.yaml)
+- Action: new
+- Scope: 1930s colonial penal camp ruins with forest interpretation; separate institution and site.
+- Representative coordinates: 4.82656, -52.51616; approximate, not necessarily entrance.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.8 / 8.9 / 8.6 / 8.7.
+- Categories: history:9.3,culture:9.2,nature:9.2.
+- Overall: 86.90/100.
+- Decision: Desk-based provisional estimate from regional overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GF/camp-de-la-transportation](../../../countries/GF/sights/camp-de-la-transportation.yaml) | 8.4 / 8.9 / 9.0 / 8.6 / 8.5 | depth: +0.2 vs peer; impact: +0.1 vs peer |
+| [GF/salvation-islands](../../../countries/GF/sights/salvation-islands.yaml) | 8.8 / 9.0 / 9.0 / 8.7 / 8.7 | impact: -0.3 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-gf-saut-maripa — Saut Maripa Oyapock River Rapids and Botanical Trail — 2026-11-27
+
+- YAML: [source](../../../countries/GF/sights/saut-maripa.yaml)
+- Action: new
+- Scope: French-bank rapids and botanical walk; no river crossing or hazardous rapid descent assumed.
+- Representative coordinates: 3.80085, -51.8842; approximate, not necessarily entrance.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.4 / 8.7 / 8.6.
+- Categories: nature:9.3,photography:9.2,adventure:9.2.
+- Overall: 86.30/100.
+- Decision: Desk-based provisional estimate from regional overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GF/kaw-roura](../../../countries/GF/sights/kaw-roura.yaml) | 8.8 / 9.0 / 9.1 / 8.8 / 8.8 | significance: -0.7 vs peer; uniqueness: -0.3 vs peer |
+| [GF/montagne-des-singes](../../../countries/GF/sights/montagne-des-singes.yaml) | 8.1 / 8.1 / 7.7 / 8.4 / 7.5 | depth: +1.1 vs peer; significance: +0.7 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-gf-ecomusee-approuague-kaw — Écomusée d’Approuague-Kaw Régina Cultural and Industrial History — 2026-11-27
+
+- YAML: [source](../../../countries/GF/sights/ecomusee-approuague-kaw.yaml)
+- Action: new
+- Scope: Independent regional museum, former sawmill and cultural history; not Kaw marsh wildlife.
+- Representative coordinates: 4.31515, -52.12855; approximate, not necessarily entrance.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.8 / 8.8 / 8.6 / 8.7.
+- Categories: culture:9.3,history:9.3.
+- Overall: 86.40/100.
+- Decision: Desk-based provisional estimate from regional overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GF/cacao-village](../../../countries/GF/sights/cacao-village.yaml) | 8.4 / 8.8 / 8.8 / 8.7 / 8.5 | depth: +0.2 vs peer; experience: -0.1 vs peer |
+| [GF/camp-de-la-transportation](../../../countries/GF/sights/camp-de-la-transportation.yaml) | 8.4 / 8.9 / 9.0 / 8.6 / 8.5 | significance: -0.2 vs peer; depth: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+

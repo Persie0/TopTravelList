@@ -1,0 +1,16 @@
+id: sight-py-asuncion-cabildo
+name: "Asunción El Cabildo Cultural Centre and Historic Building"
+location:
+  country_code: PY
+  latitude: -25.281
+  longitude: -57.634
+scores:
+  impact: 7.9
+  uniqueness: 8.3
+  significance: 8.8
+  experience: 8.3
+  depth: 8.4
+  categories:
+    history: 9.2
+    culture: 9.0
+    architecture: 8.8

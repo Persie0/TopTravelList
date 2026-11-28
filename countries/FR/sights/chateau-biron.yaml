@@ -1,0 +1,17 @@
+id: sight-fr-chateau-biron
+name: "Château de Biron Castle"
+location:
+  country_code: FR
+  latitude: 44.632
+  longitude: 0.872
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 8.8
+  depth: 8.8
+  categories:
+    architecture: 9.3
+    history: 9.3
+    photography: 9.2
+    culture: 9.0

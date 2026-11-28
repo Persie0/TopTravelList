@@ -1,0 +1,15 @@
+id: sight-fr-saint-etienne-mamc
+name: "Musée d’Art Moderne et Contemporain Saint-Étienne Métropole"
+location:
+  country_code: FR
+  latitude: 45.465
+  longitude: 4.378
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 9.0
+  depth: 9.3
+  categories:
+    culture: 9.4
+    history: 9.2

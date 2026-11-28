@@ -1,0 +1,16 @@
+id: sight-za-comrades-marathon
+name: "Comrades Marathon Durban Pietermaritzburg Ultramarathon Event"
+location:
+  country_code: ZA
+  latitude: -29.86
+  longitude: 31.02
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 9.0
+  depth: 9.0
+  categories:
+    culture: 9.3
+    history: 9.4
+    adventure: 9.2

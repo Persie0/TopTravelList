@@ -1,0 +1,16 @@
+id: sight-br-museu-arte-rio
+name: "Museu de Arte do Rio Rio de Janeiro Art and Urban Culture"
+location:
+  country_code: BR
+  latitude: -22.896
+  longitude: -43.181
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.7
+  depth: 8.8
+  categories:
+    culture: 9.3
+    architecture: 9.2
+    history: 9.2

@@ -1,0 +1,15 @@
+id: sight-fr-dijon-magnin
+name: "Musée National Magnin Dijon Art Collections"
+location:
+  country_code: FR
+  latitude: 47.321
+  longitude: 5.041
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 8.8
+  depth: 8.9
+  categories:
+    culture: 9.3
+    history: 9.2

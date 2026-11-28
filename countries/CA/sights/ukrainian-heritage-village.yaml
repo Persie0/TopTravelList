@@ -1,0 +1,16 @@
+id: sight-ca-ukrainian-heritage-village
+name: "Ukrainian Cultural Heritage Village Alberta"
+location:
+  country_code: CA
+  latitude: 53.57
+  longitude: -112.82
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.8
+  depth: 8.9
+  categories:
+    history: 9.3
+    culture: 9.3
+    family: 9.2

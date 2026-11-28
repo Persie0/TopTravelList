@@ -1,0 +1,16 @@
+id: sight-ec-vinces-cacao-route
+name: "Vinces Historic Cacao Hacienda and Chocolate Route"
+location:
+  country_code: EC
+  latitude: -1.56
+  longitude: -79.75
+scores:
+  impact: 8.8
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 9.1
+  depth: 9.0
+  categories:
+    food: 9.4
+    culture: 9.4
+    history: 9.3

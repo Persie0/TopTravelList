@@ -1,0 +1,17 @@
+id: sight-es-corralejo-dunes
+name: "Corralejo Dunes Natural Park"
+location:
+  country_code: ES
+  latitude: 28.683827
+  longitude: -13.84878
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 8.5
+  experience: 8.8
+  depth: 8.4
+  categories:
+    nature: 9.1
+    photography: 9.3
+    beaches: 9.2
+    relaxation: 9.0

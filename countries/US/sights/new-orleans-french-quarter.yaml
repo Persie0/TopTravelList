@@ -1,0 +1,18 @@
+id: sight-us-new-orleans-french-quarter
+name: "French Quarter (New Orleans)"
+location:
+  country_code: US
+  latitude: 29.9575
+  longitude: -90.06306
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 9.1
+  depth: 9.0
+  categories:
+    architecture: 9.3
+    culture: 9.4
+    history: 9.2
+    food: 9.1
+    photography: 9.1

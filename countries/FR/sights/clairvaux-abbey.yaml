@@ -1,0 +1,15 @@
+id: sight-fr-clairvaux-abbey
+name: "Abbaye de Clairvaux Historic Cistercian Abbey and Prison Heritage"
+location:
+  country_code: FR
+  latitude: 48.148
+  longitude: 4.789
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 9.3
+  experience: 8.6
+  depth: 8.8
+  categories:
+    history: 9.4
+    architecture: 9.3

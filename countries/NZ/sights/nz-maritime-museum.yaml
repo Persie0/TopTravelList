@@ -1,0 +1,16 @@
+id: sight-nz-nz-maritime-museum
+name: "New Zealand Maritime Museum Auckland"
+location:
+  country_code: NZ
+  latitude: -36.842
+  longitude: 174.763
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.9
+  depth: 9.1
+  categories:
+    history: 9.3
+    culture: 9.3
+    family: 9.2

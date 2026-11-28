@@ -1,0 +1,17 @@
+id: sight-es-hoces-rio-duraton
+name: "Hoces del Río Duratón Natural Park"
+location:
+  country_code: ES
+  latitude: 41.3086
+  longitude: -3.832
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 8.8
+  depth: 8.7
+  categories:
+    nature: 9.2
+    photography: 9.3
+    wildlife: 9.1
+    adventure: 8.9

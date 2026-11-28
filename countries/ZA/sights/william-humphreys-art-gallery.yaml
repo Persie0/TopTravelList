@@ -1,0 +1,16 @@
+id: sight-za-william-humphreys-art-gallery
+name: "William Humphreys Art Gallery Kimberley National Art Collections"
+location:
+  country_code: ZA
+  latitude: -28.743
+  longitude: 24.767
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.6
+  depth: 8.8
+  categories:
+    culture: 9.3
+    history: 9.1
+    architecture: 8.9

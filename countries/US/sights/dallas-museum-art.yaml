@@ -1,0 +1,16 @@
+id: sight-us-dallas-museum-art
+name: "Dallas Museum of Art"
+location:
+  country_code: US
+  latitude: 32.788
+  longitude: -96.801
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 9.0
+  depth: 9.3
+  categories:
+    culture: 9.4
+    history: 9.3
+    architecture: 8.8

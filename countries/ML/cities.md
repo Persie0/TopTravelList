@@ -2,7 +2,7 @@
 
 # Mali (ML) — Cities, towns & villages ranking
 
-**10 ranked** · **1 unassessed** · **11 total** · Worldwide scoring **v2**
+**11 ranked** · **0 unassessed** · **11 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (10)
+## Complete ranked list (11)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -21,17 +21,10 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 5 | [Ségou](cities/segou.yaml) | City / town | **79.30** | **Culture 8.6**, **History 8.4**, **Architecture 8.1** | 7.7 / 8.0 / 8.2 / 8.0 / 7.8 | [13.4317, -6.2157](https://www.google.com/maps/search/?api=1&query=13.4317,-6.2157) | [Google Maps](https://www.google.com/maps/search/?api=1&query=S%C3%A9gou%2C%20Mali) |
 | 6 | [Bamako](cities/bamako.yaml) | City / town | **77.85** | **Culture 8.7**, **Food 8.0** | 7.4 / 7.7 / 8.1 / 8.0 / 8.2 | [12.65, -8](https://www.google.com/maps/search/?api=1&query=12.65,-8) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bamako%2C%20Mali) |
 | 7 | [Sikasso](cities/sikasso.yaml) | City / town | **74.60** | **History 8.3**, **Culture 8.0** | 7.1 / 7.6 / 8.0 / 7.4 / 7.2 | [11.318, -5.667](https://www.google.com/maps/search/?api=1&query=11.318,-5.667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sikasso%2C%20Mali) |
-| 8 | [Siby](cities/siby.yaml) | City / town | **73.80** | **Culture 7.8** | 7.1 / 7.4 / 7.5 / 7.8 / 7.3 | [12.4, -8.333](https://www.google.com/maps/search/?api=1&query=12.4,-8.333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Siby%2C%20Mali) |
-| 9 | [Kayes](cities/kayes.yaml) | City / town | **73.15** | **History 8.0**, **Architecture 7.7** | 7.0 / 7.4 / 7.8 / 7.3 / 7.1 | [14.4469, -11.4445](https://www.google.com/maps/search/?api=1&query=14.4469,-11.4445) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kayes%2C%20Mali) |
-| 10 | [Koulikoro](cities/koulikoro.yaml) | City / town | **70.70** | — | 7.0 / 7.0 / 7.1 / 7.4 / 6.9 | [12.8627, -7.5599](https://www.google.com/maps/search/?api=1&query=12.8627,-7.5599) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Koulikoro%2C%20Mali) |
-
-## Not yet fully assessed (1)
-
-These destinations have no rank until all five core scores are assessed.
-
-| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
-| ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Bandiagara](cities/bandiagara.yaml) | City / town | **—** | — | — / 7.5 / 7.5 / — / — | [14.35, -3.61](https://www.google.com/maps/search/?api=1&query=14.35,-3.61) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bandiagara%2C%20Mali) |
+| 8 | [Bandiagara](cities/bandiagara.yaml) | City / town | **74.05** | — | 7.1 / 7.5 / 7.5 / 7.6 / 7.6 | [14.35, -3.61](https://www.google.com/maps/search/?api=1&query=14.35,-3.61) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bandiagara%2C%20Mali) |
+| 9 | [Siby](cities/siby.yaml) | City / town | **73.80** | **Culture 7.8** | 7.1 / 7.4 / 7.5 / 7.8 / 7.3 | [12.4, -8.333](https://www.google.com/maps/search/?api=1&query=12.4,-8.333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Siby%2C%20Mali) |
+| 10 | [Kayes](cities/kayes.yaml) | City / town | **73.15** | **History 8.0**, **Architecture 7.7** | 7.0 / 7.4 / 7.8 / 7.3 / 7.1 | [14.4469, -11.4445](https://www.google.com/maps/search/?api=1&query=14.4469,-11.4445) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kayes%2C%20Mali) |
+| 11 | [Koulikoro](cities/koulikoro.yaml) | City / town | **70.70** | — | 7.0 / 7.0 / 7.1 / 7.4 / 6.9 | [12.8627, -7.5599](https://www.google.com/maps/search/?api=1&query=12.8627,-7.5599) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Koulikoro%2C%20Mali) |
 
 ---
 

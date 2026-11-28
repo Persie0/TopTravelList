@@ -1,0 +1,16 @@
+id: sight-us-de-young
+name: "de Young Museum San Francisco"
+location:
+  country_code: US
+  latitude: 37.7715
+  longitude: -122.4687
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 9.0
+  depth: 9.0
+  categories:
+    culture: 9.4
+    history: 9.2
+    architecture: 9.2

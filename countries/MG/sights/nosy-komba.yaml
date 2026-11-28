@@ -1,0 +1,17 @@
+id: sight-mg-nosy-komba
+name: "Nosy Komba Island"
+location:
+  country_code: MG
+  latitude: -13.4696
+  longitude: 48.3485
+scores:
+  impact: 8.5
+  uniqueness: 8.5
+  significance: 8.3
+  experience: 8.6
+  depth: 8.5
+  categories:
+    nature: 8.8
+    wildlife: 8.7
+    culture: 8.3
+    adventure: 8.4

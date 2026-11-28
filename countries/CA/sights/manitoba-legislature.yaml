@@ -1,0 +1,16 @@
+id: sight-ca-manitoba-legislature
+name: "Manitoba Legislative Building Winnipeg Architecture"
+location:
+  country_code: CA
+  latitude: 49.884
+  longitude: -97.147
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.6
+  depth: 8.5
+  categories:
+    architecture: 9.3
+    history: 9.2
+    culture: 9.1

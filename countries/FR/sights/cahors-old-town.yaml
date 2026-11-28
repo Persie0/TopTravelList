@@ -1,0 +1,16 @@
+id: sight-fr-cahors-old-town
+name: "Cahors Historic Centre and Medieval Streets"
+location:
+  country_code: FR
+  latitude: 44.448
+  longitude: 1.441
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.8
+  depth: 8.7
+  categories:
+    architecture: 9.2
+    history: 9.2
+    culture: 9.1

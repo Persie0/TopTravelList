@@ -1,0 +1,16 @@
+id: sight-tr-hatay-archaeology-museum
+name: "Hatay Archaeology Museum Antakya"
+location:
+  country_code: TR
+  latitude: 36.22136
+  longitude: 36.18368
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 8.9
+  depth: 9.2
+  categories:
+    history: 9.4
+    culture: 9.4
+    photography: 9.2

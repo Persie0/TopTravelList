@@ -1,0 +1,16 @@
+id: sight-es-dali-theatre-museum
+name: "Dalí Theatre-Museum Figueres"
+location:
+  country_code: ES
+  latitude: 42.26806
+  longitude: 2.95944
+scores:
+  impact: 9.2
+  uniqueness: 9.5
+  significance: 9.2
+  experience: 9.0
+  depth: 8.9
+  categories:
+    culture: 9.5
+    architecture: 9.3
+    photography: 9.2

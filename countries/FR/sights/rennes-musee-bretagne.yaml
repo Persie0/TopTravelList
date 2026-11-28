@@ -1,0 +1,15 @@
+id: sight-fr-rennes-musee-bretagne
+name: "Musée de Bretagne Rennes Regional History and Archaeology Collections"
+location:
+  country_code: FR
+  latitude: 48.105
+  longitude: -1.674
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 9.1
+  experience: 8.9
+  depth: 9.2
+  categories:
+    history: 9.4
+    culture: 9.3

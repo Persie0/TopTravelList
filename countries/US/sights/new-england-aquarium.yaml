@@ -1,0 +1,16 @@
+id: sight-us-new-england-aquarium
+name: "New England Aquarium Boston"
+location:
+  country_code: US
+  latitude: 42.359
+  longitude: -71.05
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 9.0
+  depth: 8.8
+  categories:
+    wildlife: 9.2
+    family: 9.3
+    nature: 8.9

@@ -1,0 +1,17 @@
+id: sight-fr-monflanquin-bastide
+name: "Monflanquin Historic Bastide Town"
+location:
+  country_code: FR
+  latitude: 44.532
+  longitude: 0.768
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 8.7
+  depth: 8.4
+  categories:
+    architecture: 9.1
+    history: 9.1
+    photography: 9.1
+    culture: 9.0

@@ -1,0 +1,16 @@
+id: sight-us-mlk-historical-park
+name: "Martin Luther King Jr National Historical Park and King Center Atlanta"
+location:
+  country_code: US
+  latitude: 33.756
+  longitude: -84.373
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 9.0
+  depth: 9.1
+  categories:
+    history: 9.4
+    culture: 9.3
+    architecture: 8.8

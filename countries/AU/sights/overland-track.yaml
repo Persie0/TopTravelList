@@ -1,0 +1,16 @@
+id: sight-au-overland-track
+name: "Overland Track Tasmania Multi-Day Wilderness Trek"
+location:
+  country_code: AU
+  latitude: -41.634
+  longitude: 145.949
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 8.9
+  experience: 9.2
+  depth: 9.4
+  categories:
+    nature: 9.4
+    adventure: 9.4
+    photography: 9.3

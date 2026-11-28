@@ -1,0 +1,16 @@
+id: sight-bo-san-javier-mission
+name: "San Javier Jesuit Mission Church and Settlement"
+location:
+  country_code: BO
+  latitude: -16.27
+  longitude: -62.5
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 8.7
+  depth: 8.8
+  categories:
+    architecture: 9.4
+    history: 9.4
+    culture: 9.2

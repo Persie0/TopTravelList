@@ -1,0 +1,16 @@
+id: sight-tr-odunpazari-modern-museum
+name: "Odunpazarı Modern Museum Eskişehir"
+location:
+  country_code: TR
+  latitude: 39.764722
+  longitude: 30.5225
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.5
+  experience: 8.9
+  depth: 8.5
+  categories:
+    architecture: 9.3
+    culture: 9.1
+    photography: 9.0

@@ -1,0 +1,16 @@
+id: sight-fr-abbaye-aux-dames
+name: "Abbaye aux Dames and Sainte-Trinité Church Caen"
+location:
+  country_code: FR
+  latitude: 49.18697
+  longitude: -0.35223
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.6
+  depth: 8.5
+  categories:
+    architecture: 9.3
+    history: 9.3
+    culture: 9.1

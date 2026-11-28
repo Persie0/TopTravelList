@@ -1,0 +1,15 @@
+id: sight-fr-paris-curie
+name: "Musée Curie Paris Scientific History Collections"
+location:
+  country_code: FR
+  latitude: 48.844
+  longitude: 2.345
+scores:
+  impact: 8.6
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 8.6
+  depth: 8.6
+  categories:
+    history: 9.4
+    culture: 9.3

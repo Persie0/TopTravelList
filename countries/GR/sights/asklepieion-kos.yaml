@@ -1,0 +1,16 @@
+id: sight-gr-asklepieion-kos
+name: "Asklepieion of Kos Archaeological Site"
+location:
+  country_code: GR
+  latitude: 36.87542
+  longitude: 27.2569
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 8.8
+  depth: 8.7
+  categories:
+    history: 9.4
+    architecture: 9.2
+    culture: 9.0

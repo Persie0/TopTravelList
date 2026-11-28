@@ -1,0 +1,17 @@
+id: sight-es-albarracin-historic-town
+name: "Albarracín Historic Town and Walls"
+location:
+  country_code: ES
+  latitude: 40.4073
+  longitude: -1.4443
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 8.9
+  depth: 8.7
+  categories:
+    architecture: 9.3
+    photography: 9.4
+    history: 9.1
+    culture: 9.0

@@ -2,7 +2,7 @@
 
 # Israel (IL) — Sights & attractions ranking
 
-**40 ranked** · **1 unassessed** · **41 total** · Worldwide scoring **v2**
+**41 ranked** · **0 unassessed** · **41 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (40)
+## Complete ranked list (41)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -54,14 +54,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 38 | [White Mosque and Tower, Ramla](sights/white-mosque-ramla.yaml) | Religious site | **81.50** | **History 9.0**, **Architecture 8.7** | 7.9 / 8.5 / 8.8 / 8.1 / 6.8 | [31.928, 34.868](https://www.google.com/maps/search/?api=1&query=31.928,34.868) | [Google Maps](https://www.google.com/maps/search/?api=1&query=White%20Mosque%20and%20Tower%2C%20Ramla%2C%20Israel) |
 | 39 | [Degania and Nahalal](sights/deganya-nahalal.yaml) | Attraction | **81.45** | **History 9.0**, **Architecture 8.3** | 7.4 / 8.6 / 8.8 / 8.1 / 8.0 | [32.708, 35.575](https://www.google.com/maps/search/?api=1&query=32.708,35.575) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Degania%20and%20Nahalal%2C%20Israel) |
 | 40 | [Tel Beer Sheba](sights/tel-beer-sheba.yaml) | Attraction | **80.95** | **History 8.9**, **Architecture 8.5** | 7.8 / 8.3 / 8.7 / 8.0 / 7.4 | [31.245, 34.841](https://www.google.com/maps/search/?api=1&query=31.245,34.841) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tel%20Beer%20Sheba%2C%20Israel) |
-
-## Not yet fully assessed (1)
-
-These destinations have no rank until all five core scores are assessed.
-
-| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
-| ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Horvat Minnim (Khirbat al-Minya)](sights/horvat-minnim.yaml) | Attraction | **—** | **History 8.9**, **Architecture 8.5** | 7.5 / 8.2 / 8.7 / — / — | [32.867, 35.536](https://www.google.com/maps/search/?api=1&query=32.867,35.536) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Horvat%20Minnim%20%28Khirbat%20al-Minya%29%2C%20Israel) |
+| 41 | [Horvat Minnim (Khirbat al-Minya)](sights/horvat-minnim.yaml) | Attraction | **79.75** | **History 8.9**, **Architecture 8.5** | 7.5 / 8.2 / 8.7 / 7.7 / 7.8 | [32.867, 35.536](https://www.google.com/maps/search/?api=1&query=32.867,35.536) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Horvat%20Minnim%20%28Khirbat%20al-Minya%29%2C%20Israel) |
 
 ---
 

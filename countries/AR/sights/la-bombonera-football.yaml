@@ -1,0 +1,16 @@
+id: sight-ar-la-bombonera-football
+name: "Buenos Aires La Bombonera Football Spectator and Club Heritage Experience"
+location:
+  country_code: AR
+  latitude: -34.6356
+  longitude: -58.3647
+scores:
+  impact: 9.3
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 9.3
+  depth: 9.1
+  categories:
+    culture: 9.4
+    photography: 9.2
+    history: 9.1

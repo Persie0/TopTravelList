@@ -1,0 +1,16 @@
+id: sight-ca-terra-nova
+name: "Terra Nova National Park Atlantic Coast and Forest"
+location:
+  country_code: CA
+  latitude: 48.5256
+  longitude: -53.9638
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 8.9
+  depth: 8.9
+  categories:
+    nature: 9.3
+    adventure: 9.2
+    photography: 9.2

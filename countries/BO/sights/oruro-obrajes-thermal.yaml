@@ -1,0 +1,16 @@
+id: sight-bo-oruro-obrajes-thermal
+name: "Obrajes Thermal Springs Recreation"
+location:
+  country_code: BO
+  latitude: -17.91
+  longitude: -66.92
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 7.6
+  experience: 8.6
+  depth: 8.0
+  categories:
+    relaxation: 9.2
+    nature: 8.6
+    family: 8.7

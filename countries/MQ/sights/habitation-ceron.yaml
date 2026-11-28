@@ -1,0 +1,16 @@
+id: sight-mq-habitation-ceron
+name: "Habitation Céron Tropical Garden and Historic Estate"
+location:
+  country_code: MQ
+  latitude: 14.833
+  longitude: -61.221
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 8.7
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.4
+    culture: 9.2
+    photography: 9.3

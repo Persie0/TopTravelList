@@ -1,0 +1,17 @@
+id: sight-ae-snoopy-island-reef
+name: "Snoopy Island and Surrounding Reef"
+location:
+  country_code: AE
+  latitude: 25.4922
+  longitude: 56.3642
+scores:
+  impact: 8.4
+  uniqueness: 8.4
+  significance: 7.7
+  experience: 8.6
+  depth: 7.8
+  categories:
+    nature: 8.8
+    wildlife: 8.7
+    adventure: 8.9
+    photography: 8.6

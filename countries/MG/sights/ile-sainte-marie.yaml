@@ -1,0 +1,17 @@
+id: sight-mg-ile-sainte-marie
+name: "Île Sainte-Marie (Nosy Boraha)"
+location:
+  country_code: MG
+  latitude: -16.91952
+  longitude: 49.89574
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.4
+  experience: 8.8
+  depth: 8.7
+  categories:
+    beaches: 8.9
+    wildlife: 9.0
+    nature: 8.8
+    history: 8.4

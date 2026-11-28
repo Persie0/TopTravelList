@@ -1,0 +1,16 @@
+id: sight-ec-loja-artes-vivas
+name: "Loja International Living Arts Festival Public Performances"
+location:
+  country_code: EC
+  latitude: -3.996
+  longitude: -79.201
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 9.3
+  depth: 9.2
+  categories:
+    culture: 9.4
+    photography: 9.2
+    nightlife: 9.1

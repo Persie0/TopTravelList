@@ -1,0 +1,17 @@
+id: sight-ec-floreana-visitor-circuit
+name: "Floreana Island Post Office Bay and Cormorant Point Visitor Circuit"
+location:
+  country_code: EC
+  latitude: -1.23
+  longitude: -90.44
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 9.1
+  experience: 8.9
+  depth: 8.8
+  categories:
+    wildlife: 9.3
+    history: 9.2
+    nature: 9.2
+    photography: 9.2

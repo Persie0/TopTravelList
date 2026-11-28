@@ -1,0 +1,17 @@
+id: sight-nz-auckland-war-memorial-museum
+name: "Auckland War Memorial Museum"
+location:
+  country_code: NZ
+  latitude: -36.86075
+  longitude: 174.77781
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.7
+  depth: 9.0
+  categories:
+    culture: 9.3
+    history: 9.2
+    architecture: 8.9
+    nature: 8.7

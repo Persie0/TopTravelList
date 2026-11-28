@@ -1,0 +1,16 @@
+id: sight-za-stony-point-penguins
+name: "Stony Point Nature Reserve Betty’s Bay African Penguin Colony"
+location:
+  country_code: ZA
+  latitude: -34.371
+  longitude: 18.892
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 8.8
+  depth: 8.3
+  categories:
+    wildlife: 9.3
+    nature: 9.1
+    photography: 9.2

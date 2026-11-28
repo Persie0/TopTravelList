@@ -1,0 +1,16 @@
+id: sight-pe-muna
+name: "Museo Nacional del Perú MUNA Pachacamac National Museum Exhibitions"
+location:
+  country_code: PE
+  latitude: -12.253
+  longitude: -76.901
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 9.0
+  experience: 8.5
+  depth: 8.8
+  categories:
+    history: 9.3
+    culture: 9.2
+    architecture: 9.2

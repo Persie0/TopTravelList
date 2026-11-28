@@ -1,0 +1,15 @@
+id: sight-ae-ski-dubai
+name: "Ski Dubai"
+location:
+  country_code: AE
+  latitude: 25.11734
+  longitude: 55.19861
+scores:
+  impact: 8.4
+  uniqueness: 8.9
+  significance: 6.6
+  experience: 8.7
+  depth: 7.8
+  categories:
+    adventure: 9.0
+    family: 8.8

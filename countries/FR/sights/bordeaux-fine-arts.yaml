@@ -1,0 +1,16 @@
+id: sight-fr-bordeaux-fine-arts
+name: "Musée des Beaux-Arts de Bordeaux Fine Arts Museum"
+location:
+  country_code: FR
+  latitude: 44.83737
+  longitude: -0.58054
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.9
+  depth: 9.0
+  categories:
+    culture: 9.3
+    history: 9.2
+    architecture: 8.9

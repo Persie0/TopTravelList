@@ -1,0 +1,16 @@
+id: sight-tr-lake-abant
+name: "Lake Abant National Park"
+location:
+  country_code: TR
+  latitude: 40.60524
+  longitude: 31.28062
+scores:
+  impact: 8.5
+  uniqueness: 8.4
+  significance: 8.2
+  experience: 8.8
+  depth: 8.5
+  categories:
+    nature: 9.0
+    photography: 9.0
+    relaxation: 9.1

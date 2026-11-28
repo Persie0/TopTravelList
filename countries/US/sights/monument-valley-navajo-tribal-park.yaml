@@ -1,0 +1,17 @@
+id: sight-us-monument-valley-navajo-tribal-park
+name: "Monument Valley Navajo Tribal Park"
+location:
+  country_code: US
+  latitude: 37.00414
+  longitude: -110.09889
+scores:
+  impact: 9.4
+  uniqueness: 9.3
+  significance: 8.8
+  experience: 9.0
+  depth: 8.6
+  categories:
+    nature: 9.3
+    photography: 9.4
+    culture: 8.8
+    adventure: 8.7

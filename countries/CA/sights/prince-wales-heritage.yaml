@@ -1,0 +1,16 @@
+id: sight-ca-prince-wales-heritage
+name: "Prince of Wales Northern Heritage Centre Yellowknife"
+location:
+  country_code: CA
+  latitude: 62.46
+  longitude: -114.38
+scores:
+  impact: 8.4
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.6
+  depth: 8.9
+  categories:
+    culture: 9.3
+    history: 9.3
+    family: 9.1

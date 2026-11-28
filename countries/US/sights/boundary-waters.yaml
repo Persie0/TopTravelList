@@ -1,0 +1,16 @@
+id: sight-us-boundary-waters
+name: "Boundary Waters Canoe Area Wilderness"
+location:
+  country_code: US
+  latitude: 48.0
+  longitude: -91.3
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 9.1
+  experience: 9.1
+  depth: 9.2
+  categories:
+    nature: 9.4
+    adventure: 9.4
+    wildlife: 9.3

@@ -1,0 +1,16 @@
+id: sight-ca-takhini-hot-springs
+name: "Takhini Hot Springs Whitehorse Thermal Bathing"
+location:
+  country_code: CA
+  latitude: 60.879
+  longitude: -135.358
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.1
+  experience: 8.9
+  depth: 8.5
+  categories:
+    relaxation: 9.4
+    nature: 9.1
+    photography: 9.0

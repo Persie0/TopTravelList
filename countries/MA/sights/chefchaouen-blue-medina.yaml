@@ -1,0 +1,16 @@
+id: sight-ma-chefchaouen-blue-medina
+name: "Chefchaouen Blue Medina"
+location:
+  country_code: MA
+  latitude: 35.16821
+  longitude: -5.26499
+scores:
+  impact: 9.3
+  uniqueness: 9.3
+  significance: 8.7
+  experience: 9.1
+  depth: 8.7
+  categories:
+    photography: 9.4
+    architecture: 9.2
+    culture: 9.1

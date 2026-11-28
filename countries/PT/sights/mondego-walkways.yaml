@@ -1,0 +1,16 @@
+id: sight-pt-mondego-walkways
+name: "Mondego Walkways"
+location:
+  country_code: PT
+  latitude: 40.509094
+  longitude: -7.390958
+scores:
+  impact: 8.6
+  uniqueness: 8.4
+  significance: 8.1
+  experience: 8.9
+  depth: 8.6
+  categories:
+    nature: 9.0
+    adventure: 9.1
+    photography: 9.1

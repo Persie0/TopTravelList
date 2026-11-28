@@ -1,0 +1,17 @@
+id: sight-hk-ocean-park
+name: "Ocean Park Hong Kong"
+location:
+  country_code: HK
+  latitude: 22.245861
+  longitude: 114.175917
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 7.9
+  experience: 9.0
+  depth: 9.0
+  categories:
+    family: 9.2
+    wildlife: 8.8
+    adventure: 8.8
+    photography: 8.5

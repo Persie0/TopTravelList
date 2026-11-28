@@ -1,0 +1,16 @@
+id: sight-tr-maidens-tower
+name: "Maiden's Tower Istanbul"
+location:
+  country_code: TR
+  latitude: 41.0211
+  longitude: 29.0041
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.6
+  experience: 8.8
+  depth: 7.9
+  categories:
+    photography: 9.3
+    architecture: 9.0
+    history: 8.9

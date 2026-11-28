@@ -1,0 +1,17 @@
+id: sight-fr-millevaches-plateau
+name: "Plateau de Millevaches Peatlands and Nature Trails"
+location:
+  country_code: FR
+  latitude: 45.647
+  longitude: 2.081
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 8.8
+  depth: 9.0
+  categories:
+    nature: 9.2
+    wildlife: 9.1
+    relaxation: 9.1
+    adventure: 9.0

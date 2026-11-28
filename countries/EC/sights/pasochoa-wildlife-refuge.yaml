@@ -1,0 +1,16 @@
+id: sight-ec-pasochoa-wildlife-refuge
+name: "Pasochoa Wildlife Refuge Andean Forest and Crater Trails"
+location:
+  country_code: EC
+  latitude: -0.42
+  longitude: -78.48
+scores:
+  impact: 8.3
+  uniqueness: 8.4
+  significance: 8.3
+  experience: 8.6
+  depth: 8.4
+  categories:
+    nature: 9.0
+    wildlife: 8.9
+    adventure: 8.8

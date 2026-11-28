@@ -1,0 +1,16 @@
+id: sight-us-pictured-rocks
+name: "Pictured Rocks National Lakeshore Cliffs and Kayaking"
+location:
+  country_code: US
+  latitude: 46.56
+  longitude: -86.45
+scores:
+  impact: 9.2
+  uniqueness: 9.1
+  significance: 8.7
+  experience: 9.2
+  depth: 9.0
+  categories:
+    photography: 9.4
+    nature: 9.4
+    adventure: 9.3

@@ -1,0 +1,16 @@
+id: sight-us-lassen-volcanic-national-park
+name: "Lassen Volcanic National Park"
+location:
+  country_code: US
+  latitude: 40.493546
+  longitude: -121.407599
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.1
+    photography: 8.9
+    adventure: 8.8

@@ -1,0 +1,16 @@
+id: sight-fr-compiegne-forest
+name: "Forêt de Compiègne Historic Forest Trails"
+location:
+  country_code: FR
+  latitude: 49.37
+  longitude: 2.89
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.8
+  depth: 8.7
+  categories:
+    nature: 9.3
+    relaxation: 9.2
+    adventure: 9.1

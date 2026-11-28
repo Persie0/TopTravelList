@@ -1,0 +1,15 @@
+id: sight-fr-bayeux-tapestry
+name: "Bayeux Tapestry Museum"
+location:
+  country_code: FR
+  latitude: 49.2743829
+  longitude: -0.7003485
+scores:
+  impact: 9.2
+  uniqueness: 9.4
+  significance: 9.4
+  experience: 8.9
+  depth: 8.5
+  categories:
+    history: 9.4
+    culture: 9.4

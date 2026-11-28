@@ -1,0 +1,16 @@
+id: sight-eg-new-kalabsha
+name: "New Kalabsha Temple Complex"
+location:
+  country_code: EG
+  latitude: 23.960878
+  longitude: 32.86695
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.6
+  depth: 8.7
+  categories:
+    history: 9.4
+    architecture: 9.3
+    photography: 9.0

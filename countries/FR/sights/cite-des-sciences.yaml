@@ -1,0 +1,16 @@
+id: sight-fr-cite-des-sciences
+name: "Cité des Sciences et de l’Industrie Paris"
+location:
+  country_code: FR
+  latitude: 48.89575
+  longitude: 2.38798
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 9.2
+  depth: 9.3
+  categories:
+    family: 9.4
+    culture: 9.1
+    architecture: 8.8

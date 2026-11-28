@@ -1,0 +1,17 @@
+id: sight-ma-legzira-beach
+name: "Legzira Beach and Coastal Arch"
+location:
+  country_code: MA
+  latitude: 29.4437
+  longitude: -10.11815
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 7.6
+  experience: 8.5
+  depth: 7.9
+  categories:
+    nature: 8.9
+    photography: 9.3
+    beaches: 9.0
+    relaxation: 8.7

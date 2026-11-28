@@ -1,0 +1,16 @@
+id: sight-au-national-museum-australia
+name: "National Museum of Australia Canberra"
+location:
+  country_code: AU
+  latitude: -35.293
+  longitude: 149.121
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 9.0
+  depth: 9.2
+  categories:
+    history: 9.3
+    culture: 9.4
+    architecture: 9.0

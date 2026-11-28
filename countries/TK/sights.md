@@ -2,7 +2,7 @@
 
 # Tokelau (TK) — Sights & attractions ranking
 
-**0 ranked** · **4 unassessed** · **4 total** · Worldwide scoring **v2**
+**4 ranked** · **0 unassessed** · **4 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,22 +10,14 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
-
-No sights & attractions have been assessed for **Tokelau** yet.
-
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
-
-## Not yet fully assessed (4)
-
-These destinations have no rank until all five core scores are assessed.
+## Complete ranked list (4)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Atafu Lagoon and Marine Conservation Area](sights/atafu-lagoon.yaml) | Beach / bay | **—** | **Nature 8.4**, **Wildlife 8.1** | — / 8.5 / 8.5 / — / — | [-8.56, -172.5](https://www.google.com/maps/search/?api=1&query=-8.56,-172.5) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Atafu%20Lagoon%20and%20Marine%20Conservation%20Area%2C%20Tokelau) |
-| — | [Fakaofo falefono and Tui Tokelau historical heritage](sights/fakaofo-falefono-heritage.yaml) | Attraction | **—** | **Culture 9.0**, **History 8.9** | — / 8.8 / 8.9 / — / — | [-9.384, -171.248](https://www.google.com/maps/search/?api=1&query=-9.384,-171.248) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fakaofo%20falefono%20and%20Tui%20Tokelau%20historical%20heritage%2C%20Tokelau) |
-| — | [Fakaofo Lagoon and Conservation Area](sights/fakaofo-lagoon.yaml) | Beach / bay | **—** | **Nature 8.5** | — / 8.5 / 8.6 / — / — | [-9.39, -171.22](https://www.google.com/maps/search/?api=1&query=-9.39,-171.22) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fakaofo%20Lagoon%20and%20Conservation%20Area%2C%20Tokelau) |
-| — | [Nukunonu Lagoon and Marine Conservation Area](sights/nukunonu-lagoon.yaml) | Beach / bay | **—** | **Nature 8.4**, **Wildlife 8.1** | — / 8.5 / 8.5 / — / — | [-9.15, -171.82](https://www.google.com/maps/search/?api=1&query=-9.15,-171.82) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nukunonu%20Lagoon%20and%20Marine%20Conservation%20Area%2C%20Tokelau) |
+| 1 | [Fakaofo Lagoon and Conservation Area](sights/fakaofo-lagoon.yaml) | Beach / bay | **84.85** | **Nature 8.5** | 8.4 / 8.5 / 8.6 / 8.4 / 8.6 | [-9.39, -171.22](https://www.google.com/maps/search/?api=1&query=-9.39,-171.22) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fakaofo%20Lagoon%20and%20Conservation%20Area%2C%20Tokelau) |
+| 2 | [Nukunonu Lagoon and Marine Conservation Area](sights/nukunonu-lagoon.yaml) | Beach / bay | **83.95** | **Nature 8.4**, **Wildlife 8.1** | 8.3 / 8.5 / 8.5 / 8.2 / 8.5 | [-9.15, -171.82](https://www.google.com/maps/search/?api=1&query=-9.15,-171.82) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nukunonu%20Lagoon%20and%20Marine%20Conservation%20Area%2C%20Tokelau) |
+| 3 | [Atafu Lagoon and Marine Conservation Area](sights/atafu-lagoon.yaml) | Beach / bay | **83.50** | **Nature 8.4**, **Wildlife 8.1** | 8.2 / 8.5 / 8.5 / 8.1 / 8.5 | [-8.56, -172.5](https://www.google.com/maps/search/?api=1&query=-8.56,-172.5) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Atafu%20Lagoon%20and%20Marine%20Conservation%20Area%2C%20Tokelau) |
+| 4 | [Fakaofo falefono and Tui Tokelau historical heritage](sights/fakaofo-falefono-heritage.yaml) | Attraction | **81.40** | **Culture 9.0**, **History 8.9** | 7.3 / 8.8 / 8.9 / 7.6 / 8.3 | [-9.384, -171.248](https://www.google.com/maps/search/?api=1&query=-9.384,-171.248) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fakaofo%20falefono%20and%20Tui%20Tokelau%20historical%20heritage%2C%20Tokelau) |
 
 ---
 

@@ -756,3 +756,687 @@
 | [Khao Sok National Park](../../../countries/TH/sights/khao-sok-national-park.yaml) | 9.4 / 9.4 / 9.1 / 9.4 / 9.3 | 93.30 | Broader known lake and forest visitor activities. |
 | [Dana Biosphere Reserve](../../../countries/JO/sights/dana-biosphere-reserve.yaml) | 9.0 / 8.8 / 8.9 / 9.0 / 9.1 | 89.40 | A more defined and accessible trail system. |
 | [Aldabra Atoll](../../../countries/SC/sights/aldabra-atoll.yaml) | 9.5 / 9.8 / 9.8 / 8.0 / 7.6 | 92.20 | Exceptional protected-area value but limited normal authorized exploration. |
+
+
+## Pass 304 — Suriname initial heritage and river culture screen (2026-11-28)
+
+
+## sight-sr-paramaribo-keti-koti — Paramaribo Keti Koti Emancipation Day Public Cultural Programme — 2026-11-28
+
+- YAML: [source](../../../countries/SR/sights/paramaribo-keti-koti.yaml)
+- Action: new
+- Scope: Public July 1 emancipation commemorations and cultural festivities grouped; 2026 government wreath ceremony and public workshops/performances documented. No private ancestor rituals or separate monument rating.
+- Representative coordinates: 5.85, -55.16; approximate editorial city/village or regional point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://gov.sr/minister-van-financien-en-planning-woont-keti-koti-herdenking-bij/ ; https://www.bnnvara.nl/3opreis/artikelen/keti-koti-paramaribo-suriname-slavernij-vrijheid ; https://www.paramaribozoo.sr/events/keti-koti/
+- Core I/U/S/E/D: 9.3 / 9.3 / 9.5 / 9.2 / 9.2.
+- Categories: culture:9.4 history:9.4 photography:9.3.
+- Overall: 93.15/100.
+- Decision: provisional worldwide score; temporary access excluded. Significance 9.5 provisional for national emancipation commemoration and enduring cultural traditions; further global calibration pending.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [SR/historic-inner-city-of-paramaribo](../../../countries/SR/sights/historic-inner-city-of-paramaribo.yaml) | 8.9 / 9.1 / 9.2 / 8.8 / 8.6 | impact: 0.4; uniqueness: 0.2 vs peer |
+| [GY/georgetown-emancipation-festival](../../../countries/GY/sights/georgetown-emancipation-festival.yaml) | 9.1 / 9.2 / 9.4 / 9.2 / 9.1 | impact: 0.2; uniqueness: 0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-sr-paramaribo-owru-yari — Paramaribo Owru Yari Public New Year Street Music Festival — 2026-11-28
+
+- YAML: [source](../../../countries/SR/sights/paramaribo-owru-yari.yaml)
+- Action: new
+- Scope: Public year-end music and street celebration; organizer announces December 31 2026 city centre festival. Pagara tradition part of same event, not separate; score excludes handling fireworks and unsafe proximity.
+- Representative coordinates: 5.83, -55.16; approximate editorial city/village or regional point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://owruyarifest.com/ ; https://www.opreisdoorsuriname.sr/algemeen/toerisme/todo-paramaribo/festivals
+- Core I/U/S/E/D: 9.2 / 9.2 / 8.9 / 9.4 / 9.1.
+- Categories: culture:9.3 nightlife:9.4 photography:9.3.
+- Overall: 91.60/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [SR/waterkant](../../../countries/SR/sights/waterkant.yaml) | 7.9 / 8.0 / 7.9 / 8.3 / 7.5 | impact: 1.3; uniqueness: 1.2 vs peer |
+| [GY/georgetown-mashramani](../../../countries/GY/sights/georgetown-mashramani.yaml) | 9.3 / 9.2 / 9.3 / 9.3 / 9.1 | impact: -0.1; uniqueness: 0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-sr-paramaribo-maroon-day — Paramaribo Dag der Marrons Public Commemorations and Heritage Fair — 2026-11-28
+
+- YAML: [source](../../../countries/SR/sights/paramaribo-maroon-day.yaml)
+- Action: new
+- Scope: Annual October 10 public commemoration and associated cultural fair; 2026 Maroon Legacy month programme documented. Related Saamaka day not separately rated pending distinct scope; private rituals excluded.
+- Representative coordinates: 5.84, -55.17; approximate editorial city/village or regional point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://gov.sr/president-simons-roept-bij-viering-dag-der-marrons-op-tot-nationale-eenheid-en-saamhorigheid/ ; https://gov.sr/maroon-legacy-wi-rutu-beurs-brengt-cultuur-en-ondernemerschap-samen/
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.4 / 9.1 / 9.2.
+- Categories: culture:9.4 history:9.4 photography:9.2.
+- Overall: 92.20/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [SR/saramaka-museum-pikin-slee](../../../countries/SR/sights/saramaka-museum-pikin-slee.yaml) | 7.6 / 8.5 / 8.3 / 7.9 / 6.9 | impact: 1.5; uniqueness: 0.8 vs peer |
+| [GY/indigenous-heritage-month](../../../countries/GY/sights/indigenous-heritage-month.yaml) | 9.0 / 9.1 / 9.3 / 9.1 / 9.2 | impact: 0.1; uniqueness: 0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-sr-paramaribo-phagwa — Paramaribo Phagwa Public Colour and Music Festival — 2026-11-28
+
+- YAML: [source](../../../countries/SR/sights/paramaribo-phagwa.yaml)
+- Action: new
+- Scope: Annual public Holi celebration at Independence Square; free public 2026 event documented, not private worship. No separate local variants.
+- Representative coordinates: 5.83, -55.15; approximate editorial city/village or regional point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.waterkant.net/suriname/2026/03/03/traditionele-gratis-phagwa-festival-ook-dit-jaar-weer-op-het-onafhankelijkheidsplein/ ; https://gov.sr/gezamenlijke-phagwa-viering-moet-kinderen-saamhorigheid-bijbrengen/
+- Core I/U/S/E/D: 9.0 / 8.9 / 9.1 / 9.3 / 9.0.
+- Categories: culture:9.3 photography:9.3 family:9.1.
+- Overall: 90.40/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [SR/independence-square](../../../countries/SR/sights/independence-square.yaml) | 7.3 / 7.3 / 8.3 / 7.5 / 6.7 | impact: 1.7; uniqueness: 1.6 vs peer |
+| [GY/georgetown-phagwah](../../../countries/GY/sights/georgetown-phagwah.yaml) | 9.0 / 8.9 / 9.2 / 9.3 / 9.0 | impact: 0.0; uniqueness: 0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-sr-paramaribo-august-heritage-festivities — Paramaribo Javanese Immigration and Indigenous Peoples Day Public Heritage Festivities — 2026-11-28
+
+- YAML: [source](../../../countries/SR/sights/paramaribo-august-heritage-festivities.yaml)
+- Action: new
+- Scope: August 9 public festivities grouped because joint programmes documented; separate histories respected, not a claim of shared origin. 2026 public attendance reported; other community events by invitation only.
+- Representative coordinates: 5.83, -55.15; approximate editorial city/village or regional point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.srherald.com/suriname/2026/08/10/javaanse-immigratie-en-dag-der-inheemsen-trekken-veel-publiek-in-paramaribo/ ; https://gov.sr/president-en-vp-loven-culturele-verrijking-bij-viering-135-jaar-javaanse-immigratie/ ; https://gov.sr/regering-goed-vertegenwoordigd-bij-festiviteiten-op-marienburg/
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.3 / 9.1 / 9.1.
+- Categories: culture:9.4 history:9.3 food:9.1 photography:9.2.
+- Overall: 91.35/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [SR/marienburg-sugar-factory-ruins](../../../countries/SR/sights/marienburg-sugar-factory-ruins.yaml) | 7.5 / 8.3 / 8.5 / 7.5 / 7.2 | impact: 1.5; uniqueness: 0.9 vs peer |
+| [GY/indigenous-heritage-month](../../../countries/GY/sights/indigenous-heritage-month.yaml) | 9.0 / 9.1 / 9.3 / 9.1 / 9.2 | impact: 0.0; uniqueness: 0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-sr-paramaribo-srefidensi — Paramaribo Srefidensi Independence Day Public Parade — 2026-11-28
+
+- YAML: [source](../../../countries/SR/sights/paramaribo-srefidensi.yaml)
+- Action: new
+- Scope: Annual November 25 public parade around Independence Square; 51st anniversary documented in 2026. Distinct from ordinary historic city visit.
+- Representative coordinates: 5.83, -55.15; approximate editorial city/village or regional point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://gov.sr/viering-51-jaar-srefidensi-veel-belangstelling-voor-parade-en-defile/
+- Core I/U/S/E/D: 8.9 / 8.8 / 9.1 / 9.0 / 8.8.
+- Categories: culture:9.2 history:9.2 photography:9.1.
+- Overall: 89.20/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [SR/independence-square](../../../countries/SR/sights/independence-square.yaml) | 7.3 / 7.3 / 8.3 / 7.5 / 6.7 | impact: 1.6; uniqueness: 1.5 vs peer |
+| [GY/georgetown-independence-carnival](../../../countries/GY/sights/georgetown-independence-carnival.yaml) | 9.0 / 9.0 / 8.9 / 9.4 / 9.0 | impact: -0.1; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-sr-paramaribo-hindostani-arrival — Paramaribo Hindostani Immigration Day Public Heritage Commemoration — 2026-11-28
+
+- YAML: [source](../../../countries/SR/sights/paramaribo-hindostani-arrival.yaml)
+- Action: new
+- Scope: Annual June 5 public commemorations at Baba and Mai monument and related cultural programme, 2026 documented. Private invitation-only events excluded.
+- Representative coordinates: 5.83, -55.15; approximate editorial city/village or regional point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://gov.sr/oproep-tot-eenheid-rode-draad-bij-herdenking-hindostaanse-immigratie/ ; https://www.dna.sr/nieuws/dna-voorzitter-bij-153-jaar-hindoestaanse-immigratie-culturele-verscheidenheid-vormt-de-basis-van-de-surinaamse-identiteit/
+- Core I/U/S/E/D: 8.6 / 8.9 / 9.2 / 8.7 / 8.8.
+- Categories: culture:9.3 history:9.3 photography:8.8.
+- Overall: 88.30/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [SR/marienburg-sugar-factory-ruins](../../../countries/SR/sights/marienburg-sugar-factory-ruins.yaml) | 7.5 / 8.3 / 8.5 / 7.5 / 7.2 | impact: 1.1; uniqueness: 0.6 vs peer |
+| [GY/georgetown-emancipation-festival](../../../countries/GY/sights/georgetown-emancipation-festival.yaml) | 9.1 / 9.2 / 9.4 / 9.2 / 9.1 | impact: -0.5; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-sr-upper-suriname-river-maroons — Upper Suriname River Saamaka Guided Rapids and Village Heritage Circuit — 2026-11-28
+
+- YAML: [source](../../../countries/SR/sights/upper-suriname-river-maroons.yaml)
+- Action: new
+- Scope: Grouped Danpaati, Awarradam/Gran Rio and other established hosted river routes; scope excludes lodging as attraction, private rites and existing Pikin Slee museum. Representative regional river point, exact route unverified. Community consent required.
+- Representative coordinates: 4.22, -55.46; approximate editorial city/village or regional point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.suforyou.nl/locaties/boven-suriname ; https://allsurinametours.com/en/tour/palumeu-awarradam/ ; https://www.flyslm.com/corporate/about-us/subsidiaries
+- Core I/U/S/E/D: 8.9 / 9.1 / 9.0 / 8.7 / 9.0.
+- Categories: culture:9.3 nature:9.3 adventure:9.0 photography:9.2.
+- Overall: 89.50/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [SR/saramaka-museum-pikin-slee](../../../countries/SR/sights/saramaka-museum-pikin-slee.yaml) | 7.6 / 8.5 / 8.3 / 7.9 / 6.9 | impact: 1.3; uniqueness: 0.6 vs peer |
+| [GY/surama-community-ecotourism](../../../countries/GY/sights/surama-community-ecotourism.yaml) | 8.8 / 9.0 / 8.9 / 8.7 / 8.9 | impact: 0.1; uniqueness: 0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-sr-palumeu-upper-tapanahony — Palumeu Upper Tapanahony Guided Rainforest and Village Heritage Experience — 2026-11-28
+
+- YAML: [source](../../../countries/SR/sights/palumeu-upper-tapanahony.yaml)
+- Action: new
+- Scope: Established hosted village and river/forest itinerary, not lodge rating; excludes Kasikasima summit trek and any private ceremony, community consent required.
+- Representative coordinates: 3.35, -55.44; approximate editorial city/village or regional point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.surinametravel.com/tours/palumeu/ ; https://allsurinametours.com/en/tour/palumeu-awarradam/
+- Core I/U/S/E/D: 8.8 / 9.0 / 8.9 / 8.5 / 8.8.
+- Categories: nature:9.3 culture:9.3 wildlife:9.1 adventure:9.1.
+- Overall: 88.25/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [SR/kasikasima-mountain](../../../countries/SR/sights/kasikasima-mountain.yaml) | 8.9 / 8.7 / 7.9 / 8.8 / 8.0 | impact: -0.1; uniqueness: 0.3 vs peer |
+| [GY/paruima-community-heritage](../../../countries/GY/sights/paruima-community-heritage.yaml) | 8.3 / 8.8 / 8.8 / 8.3 / 8.5 | impact: 0.5; uniqueness: 0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-sr-moengo-art-heritage — Moengo Contemporary Art Museum and Marowijne Art Park Circuit — 2026-11-28
+
+- YAML: [source](../../../countries/SR/sights/moengo-art-heritage.yaml)
+- Action: new
+- Scope: Named art institutions grouped into one cultural circuit; listed as venues, current opening and exhibition arrangements unverified.
+- Representative coordinates: 5.61, -54.4; approximate editorial city/village or regional point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.suriname-fvas.org/venues.html ; https://www.historyofsuriname.sr/themas/toerisme/reisbestemmingen
+- Core I/U/S/E/D: 8.3 / 8.8 / 8.8 / 8.3 / 8.5.
+- Categories: culture:9.3 history:8.9 photography:9.0.
+- Overall: 85.45/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [SR/readytex-art-gallery](../../../countries/SR/sights/readytex-art-gallery.yaml) | 7.2 / 7.4 / 7.5 / 7.7 / 7.0 | impact: 1.1; uniqueness: 1.4 vs peer |
+| [GY/museum-african-heritage](../../../countries/GY/sights/museum-african-heritage.yaml) | 7.9 / 8.4 / 8.8 / 8.1 / 8.4 | impact: 0.4; uniqueness: 0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-sr-lalla-rookh-museum — Paramaribo Lalla Rookh Museum of Hindostani Heritage — 2026-11-28
+
+- YAML: [source](../../../countries/SR/sights/lalla-rookh-museum.yaml)
+- Action: new
+- Scope: Distinct museum on migration history, listed by destination tourism site. Current opening hours unverified; not duplicate of seasonal commemoration.
+- Representative coordinates: 5.81, -55.2; approximate editorial city/village or regional point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://suriname.travel/paramaribo/ ; https://suriname.travel/museums/
+- Core I/U/S/E/D: 7.9 / 8.5 / 8.9 / 8.1 / 8.4.
+- Categories: culture:9.2 history:9.3.
+- Overall: 83.30/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [SR/saramaka-museum-pikin-slee](../../../countries/SR/sights/saramaka-museum-pikin-slee.yaml) | 7.6 / 8.5 / 8.3 / 7.9 / 6.9 | impact: 0.3; uniqueness: 0.0 vs peer |
+| [GY/museum-african-heritage](../../../countries/GY/sights/museum-african-heritage.yaml) | 7.9 / 8.4 / 8.8 / 8.1 / 8.4 | impact: 0.0; uniqueness: 0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-sr-neotropical-butterfly-park — Lelydorp Neotropical Butterfly Park Visitor Experience — 2026-11-28
+
+- YAML: [source](../../../countries/SR/sights/neotropical-butterfly-park.yaml)
+- Action: new
+- Scope: Listed butterfly interpretation park; visitor scope observation only, no animal handling, current access unverified.
+- Representative coordinates: 5.7, -55.23; approximate editorial city/village or regional point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://suriname.travel/museums/ ; https://www.historyofsuriname.sr/themas/toerisme/reisbestemmingen
+- Core I/U/S/E/D: 7.8 / 8.0 / 7.7 / 8.3 / 7.8.
+- Categories: nature:8.8 wildlife:8.7 family:8.9 photography:8.8.
+- Overall: 79.05/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [SR/peperpot-nature-park](../../../countries/SR/sights/peperpot-nature-park.yaml) | 8.0 / 8.2 / 8.1 / 8.5 / 8.0 | impact: -0.2; uniqueness: -0.2 vs peer |
+| [GY/guyana-botanical-gardens](../../../countries/GY/sights/guyana-botanical-gardens.yaml) | 7.2 / 7.1 / 7.4 / 7.8 / 7.6 | impact: 0.6; uniqueness: 0.9 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+### Pass 304 scope decisions
+
+12 source-linked provisional additions, 5 90+, 24 ranking-row comparisons (12 international, 12 domestic). SR 43 ranked / 49 total, +12 since baseline 37. UNESCO country list (https://whc.unesco.org/en/statesparties/sr) 3 inscribed represented by existing named property entries, 0 tentative; Cassipora Creek Cemetery component of Jodensavanne needs explicit visitor scope check (https://whc.unesco.org/en/list/1680/); boundaries not remapped. CBD profile describes historical inventory of 16 protected areas (https://www.cbd.int/countries/profile?country=sr), not certified current completeness; STINASU current portal (https://gov.sr/ministeries/ministerie-van-grondbeleid-en-bosbeheer/stinasu/) identifies Matapica as part of North Commewijne-Marowijne MUMA, no separate parent rating without defined scope. Keti Koti, Maroon Day and Independence separate public calendar events; Owru Yari and Pagara grouped; August Indigenous and Javanese celebrations jointly rated where programmes overlap, distinct histories preserved. Upper Suriname River hosted routes grouped, Pikin Slee museum and Palumeu/Kasikasima distinct scopes, no blanket community access. Existing scores and six legacy unassessed retained. OPEN for protected-area inventory, additional river landscapes and regional heritage. Coordinates approximate; current permissions and future schedules unverified. Full Python validation, peer YAML verification and international calibration pending.
+
+
+## Pass 305 — Suriname western river landscapes and heritage (2026-11-28)
+
+
+## sight-sr-paramaribo-divali — Paramaribo National Divali Public Festival of Lights — 2026-11-28
+
+- YAML: [source](../../../countries/SR/sights/paramaribo-divali.yaml)
+- Action: new
+- Scope: Annual public national celebration on Independence Square; government confirms 6 November 2026 manifestation organized by Cultural Union of Suriname. Private worship excluded, ordinary square visit not additive.
+- Representative coordinates: 5.83, -55.15; approximate editorial representative point, independently verified entrance and route pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://gov.sr/president-simons-stelt-verbinding-en-gezamenlijk-erfgoed-centraal-bij-divali-manifestatie/ ; https://www.eventsinsuriname.com/en/events/nationale-diwali-manifestatie-2026
+- Core I/U/S/E/D: 9.0 / 9.0 / 9.2 / 9.3 / 9.0.
+- Categories: culture:9.4 photography:9.3 nightlife:9.1.
+- Overall: 90.85/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [SR/paramaribo-phagwa](../../../countries/SR/sights/paramaribo-phagwa.yaml) | 9.0 / 8.9 / 9.1 / 9.3 / 9.0 | impact: 0.0; uniqueness: 0.1 vs peer |
+| [GY/georgetown-diwali-motorcade](../../../countries/GY/sights/georgetown-diwali-motorcade.yaml) | 9.1 / 9.3 / 9.2 / 9.3 / 9.0 | impact: -0.1; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-sr-paramaribo-avondvierdaagse — Paramaribo Avondvierdaagse Public Walking and Cultural Parade — 2026-11-28
+
+- YAML: [source](../../../countries/SR/sights/paramaribo-avondvierdaagse.yaml)
+- Action: new
+- Scope: Recurring four-day walking event with colourful cultural groups; government confirms 61st edition concluded 11 April 2026. Participation registration and future schedule not guaranteed.
+- Representative coordinates: 5.84, -55.17; approximate editorial representative point, independently verified entrance and route pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://gov.sr/president-simons-duidt-op-verbetering-en-toeristische-rol-avd/ ; https://www.waterkant.net/suriname/2026/04/08/vandaag-start-61ste-avondvierdaagse-wandelmars/
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.9 / 9.1 / 9.0.
+- Categories: culture:9.2 photography:9.2 family:9.1.
+- Overall: 88.85/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [SR/paramaribo-srefidensi](../../../countries/SR/sights/paramaribo-srefidensi.yaml) | 8.9 / 8.8 / 9.1 / 9.0 / 8.8 | impact: -0.1; uniqueness: 0.0 vs peer |
+| [GY/georgetown-mashramani](../../../countries/GY/sights/georgetown-mashramani.yaml) | 9.3 / 9.2 / 9.3 / 9.3 / 9.1 | impact: -0.5; uniqueness: -0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-sr-kabalebo-river-rainforest — Kabalebo River Guided Rainforest and Rapids Landscape — 2026-11-28
+
+- YAML: [source](../../../countries/SR/sights/kabalebo-river-rainforest.yaml)
+- Action: new
+- Scope: Established guided walks and kayaking on western rainforest river, with Revelation Falls grouped. Representative operator site point, not accommodation rating; no wildlife encounters guaranteed.
+- Representative coordinates: 4.21, -57.26; approximate editorial representative point, independently verified entrance and route pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://kabalebo.com/ ; https://kabalebo.com/accommodations/expedition-lodge/
+- Core I/U/S/E/D: 8.9 / 9.0 / 8.9 / 8.7 / 9.0.
+- Categories: nature:9.4 wildlife:9.3 adventure:9.2 photography:9.2.
+- Overall: 89.05/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [SR/upper-suriname-river-maroons](../../../countries/SR/sights/upper-suriname-river-maroons.yaml) | 8.9 / 9.1 / 9.0 / 8.7 / 9.0 | impact: 0.0; uniqueness: -0.1 vs peer |
+| [GY/iwokrama-rainforest](../../../countries/GY/sights/iwokrama-rainforest.yaml) | 8.9 / 8.8 / 9.2 / 8.7 / 9.0 | impact: 0.0; uniqueness: 0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-sr-wonotobo-falls — Wonotobo Falls Guided Courantyne River Landscape — 2026-11-28
+
+- YAML: [source](../../../countries/SR/sights/wonotobo-falls.yaml)
+- Action: new
+- Scope: Advertised multi-day river expedition to falls; coordinate represents mapped falls on border river, not a claim of sovereignty or route access. No navigating falls, archaeological entry or cross-border permission assumed.
+- Representative coordinates: 4.36678, -57.95982; approximate editorial representative point, independently verified entrance and route pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://surinameholidays.nl/en/bouwstenen/expedities/wonotobo/ ; https://mapcarta.com/19111024
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.4 / 8.4 / 8.5.
+- Categories: nature:9.3 photography:9.3 adventure:9.2.
+- Overall: 86.85/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [SR/blanche-marie-falls](../../../countries/SR/sights/blanche-marie-falls.yaml) | 8.6 / 8.4 / 7.5 / 8.5 / 7.7 | impact: 0.3; uniqueness: 0.5 vs peer |
+| [GY/orinduik-falls](../../../countries/GY/sights/orinduik-falls.yaml) | 8.5 / 8.2 / 7.5 / 8.4 / 7.4 | impact: 0.4; uniqueness: 0.7 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-sr-maratakka-river — Maratakka River Guided Wildlife and Palm Wetlands — 2026-11-28
+
+- YAML: [source](../../../countries/SR/sights/maratakka-river.yaml)
+- Action: new
+- Scope: Named multi-day river wildlife itinerary, separate from Bigi Pan wetland; mapped river mouth representative point not a precise route. Wildlife sightings not guaranteed.
+- Representative coordinates: 5.766667, -56.683333; approximate editorial representative point, independently verified entrance and route pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://allsurinametours.com/en/our-tours/ ; https://geographic.org/geographic_names/name.php?c=suriname&fid=4449&uni=-1353879
+- Core I/U/S/E/D: 8.5 / 8.8 / 8.6 / 8.6 / 8.5.
+- Categories: nature:9.2 wildlife:9.3 photography:9.1.
+- Overall: 86.10/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [SR/bigi-pan-multiple-use-management-area](../../../countries/SR/sights/bigi-pan-multiple-use-management-area.yaml) | 8.6 / 8.9 / 8.8 / 8.6 / 8.3 | impact: -0.1; uniqueness: -0.1 vs peer |
+| [GY/rewa-river-wildlife-area](../../../countries/GY/sights/rewa-river-wildlife-area.yaml) | 8.4 / 8.6 / 8.3 / 8.6 / 8.2 | impact: 0.1; uniqueness: 0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-sr-apetina-tebutop — Apetina Tebutop Mountain and Tapanahony Community Guided Circuit — 2026-11-28
+
+- YAML: [source](../../../countries/SR/sights/apetina-tebutop.yaml)
+- Action: new
+- Scope: Documented guided expedition including Apetina and Tebutop; distinct lower river section from Palumeu, no separate Lelygebergte or Granholo waterfall row. Community permission and route conditions required.
+- Representative coordinates: 3.48889, -55.15139; approximate editorial representative point, independently verified entrance and route pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://surinameholidays.nl/en/bouwstenen/expedities/tebutop/ ; https://mapcarta.com/19111568
+- Core I/U/S/E/D: 8.7 / 8.9 / 8.6 / 8.5 / 8.6.
+- Categories: nature:9.2 adventure:9.2 culture:9.1 photography:9.2.
+- Overall: 86.90/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [SR/palumeu-upper-tapanahony](../../../countries/SR/sights/palumeu-upper-tapanahony.yaml) | 8.8 / 9.0 / 8.9 / 8.5 / 8.8 | impact: -0.1; uniqueness: -0.1 vs peer |
+| [GY/moco-moco-mountain-waterfall](../../../countries/GY/sights/moco-moco-mountain-waterfall.yaml) | 8.5 / 8.5 / 8.2 / 8.5 / 8.4 | impact: 0.2; uniqueness: 0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-sr-plantage-bakkie-museum — Reynsdorp Plantage Bakkie Museum and Warappa Creek Heritage Circuit — 2026-11-28
+
+- YAML: [source](../../../countries/SR/sights/plantage-bakkie-museum.yaml)
+- Action: new
+- Scope: Museum documents original plantation-era objects, books and prints and guided interpretation; creek and plantation grouped. Separate from Frederiksdorp and Mariënburg. Village point, current opening not guaranteed.
+- Representative coordinates: 5.91472, -54.89583; approximate editorial representative point, independently verified entrance and route pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://museumbakkie.com/en/ ; https://www.tourboxsuriname.com/en/tours/daytrips/warrapa-creek ; https://retold.eu/museums/plantage-bakkie-sr
+- Core I/U/S/E/D: 8.3 / 8.7 / 8.8 / 8.5 / 8.6.
+- Categories: history:9.2 culture:9.1 photography:8.9 nature:8.7.
+- Overall: 85.60/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [SR/frederiksdorp](../../../countries/SR/sights/frederiksdorp.yaml) | 7.8 / 8.3 / 8.2 / 8.2 / 7.4 | impact: 0.5; uniqueness: 0.4 vs peer |
+| [GY/diamond-demerara-distillery-heritage](../../../countries/GY/sights/diamond-demerara-distillery-heritage.yaml) | 8.6 / 9.2 / 9.2 / 8.5 / 8.8 | impact: -0.3; uniqueness: -0.5 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-sr-paramaribo-koto-museum — Paramaribo Koto Museum Creole Dress and Textile Heritage — 2026-11-28
+
+- YAML: [source](../../../countries/SR/sights/paramaribo-koto-museum.yaml)
+- Action: new
+- Scope: Distinct museum of traditional clothing heritage; listed by History of Suriname museum directory as appointment-based. Current access and exact site point unverified.
+- Representative coordinates: 5.84, -55.15; approximate editorial representative point, independently verified entrance and route pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.historyofsuriname.sr/themas/toerisme/musea
+- Core I/U/S/E/D: 7.9 / 8.6 / 8.8 / 8.1 / 8.4.
+- Categories: culture:9.2 history:9.1 photography:8.8.
+- Overall: 83.35/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [SR/lalla-rookh-museum](../../../countries/SR/sights/lalla-rookh-museum.yaml) | 7.9 / 8.5 / 8.9 / 8.1 / 8.4 | impact: 0.0; uniqueness: 0.1 vs peer |
+| [GY/museum-african-heritage](../../../countries/GY/sights/museum-african-heritage.yaml) | 7.9 / 8.4 / 8.8 / 8.1 / 8.4 | impact: 0.0; uniqueness: 0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-sr-arya-dewaker-temple — Paramaribo Arya Dewaker Temple Architectural Heritage — 2026-11-28
+
+- YAML: [source](../../../countries/SR/sights/arya-dewaker-temple.yaml)
+- Action: new
+- Scope: Distinct Hindu temple outside narrow historic core; exterior architectural scope, respectful access only, interior admission not assumed. Government identifies main mandir.
+- Representative coordinates: 5.81, -55.18; approximate editorial representative point, independently verified entrance and route pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://gov.sr/pandita-rampertap-divali-is-een-moment-van-samen-zijn/
+- Core I/U/S/E/D: 8.1 / 8.4 / 8.4 / 8.0 / 7.8.
+- Categories: architecture:9.0 culture:9.0 photography:8.8.
+- Overall: 81.90/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [SR/keizerstraat-mosque-and-neveh-shalom-synagogue](../../../countries/SR/sights/keizerstraat-mosque-and-neveh-shalom-synagogue.yaml) | 8.0 / 9.0 / 8.4 / 8.0 / 7.1 | impact: 0.1; uniqueness: -0.6 vs peer |
+| [GY/st-george-s-cathedral](../../../countries/GY/sights/st-george-s-cathedral.yaml) | 8.5 / 8.9 / 8.6 / 8.2 / 7.2 | impact: -0.4; uniqueness: -0.5 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+### Pass 305 scope decisions
+
+9 source-linked provisional additions, 1 90+, 18 ranking-row comparisons (9 international, 9 domestic). SR 52 ranked / 58 total, +21 since baseline 37, 6 new 90+ across two passes. UNESCO 3 inscribed / 0 tentative previously screened; Cassipora Creek Cemetery explicitly confirmed as Jodensavanne property component and advertised guided visit (https://whc.unesco.org/en/list/1680/ ; https://surinameglobalgroup.com/en/tours-recreatie/jodensavanne-unesco-heritage), recorded as non-additive to existing Jodensavanne scope, no new rating or boundary mapping. Current LBB administrative page lists 11 reserves, 4 MUMAs and Brownsberg (https://gov.sr/ministeries/ministerie-van-grondbeleid-en-bosbeheer/de-dienst-s-lands-bosbeheer-lbb/). Six named reserves represented (Central Suriname, Wia Wia, Coppename Mouth, Galibi, Sipaliwini, Boven Coesewijne); five missing reserves (Brinckheuvel, Copi, Wanekreek, Peruvia, Hertenrits) deferred pending ordinary permitted visitor scope. Bigi Pan MUMA represented, North Commewijne-Marowijne partly represented by Matapica, North Coronie and North Saramacca deferred pending visitor scope. Four proposed areas not treated as designated by this source. Eilerts de Haan and Tafelberg existing components of Central Suriname reserve (https://whc.unesco.org/en/list/1017/); existing unassessed retained. Wonotobo river-border landscape, no territorial inference or dangerous navigation. Kabalebo forest routes and Revelation Falls grouped; Apetina/Tebutop distinct from Palumeu, community consent. Werehpai special 2024 group trip documented (https://forest93.sr/projects/kwamalasamutu-ambassador-trip), ordinary community-approved visitor scope not established, deferred. Chinese immigration 2026 ceremony documented (https://gov.sr/onthulling-vriendschapspaviljoen-markeert-173-jaar-chinese-vestiging-in-suriname/), recurring publicly accessible visitor programme not confirmed; deferred. Divali separate from Phagwa, 61st Avondvierdaagse held April 2026, Bakkie and Warappa Creek grouped. Existing scores and six legacy unassessed preserved. OPEN for final regional screen. Coordinates approximate, permissions and current schedules unverified; full Python validation and independent global calibration pending.
+
+
+## Pass 306 — Suriname regional heritage and public cultural programmes (2026-11-28)
+
+
+## sight-sr-paramaribo-chinese-new-year — Paramaribo Chinese New Year Public Temple Fair and Cultural Celebration — 2026-11-28
+
+- YAML: [source](../../../countries/SR/sights/paramaribo-chinese-new-year.yaml)
+- Action: new
+- Scope: Recurring public Temple Fair and cultural evening organized by Chinese United Association and embassy; February 17 2026 official holiday programme documented and attendance reported. Not October Chinese immigration commemoration; private diplomatic reception excluded. Representative city point.
+- Representative coordinates: 5.81, -55.19; approximate editorial representative point; independent location verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://stvs.sr/nieuws/2026/02/viering-chinees-nieuwjaar-in-anthony-nesty-sporthal-met-temple-fair-liveband-en-vuurwerk/ ; https://www.srherald.com/suriname/2026/02/19/scua-tevreden-duizenden-vieren-chinees-nieuwjaar/
+- Core I/U/S/E/D: 9.0 / 9.0 / 9.1 / 9.3 / 9.0.
+- Categories: culture:9.4 photography:9.3 food:9.2.
+- Overall: 90.65/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [SR/paramaribo-divali](../../../countries/SR/sights/paramaribo-divali.yaml) | 9.0 / 9.0 / 9.2 / 9.3 / 9.0 | impact: 0.0; uniqueness: 0.0 vs peer |
+| [GY/georgetown-diwali-motorcade](../../../countries/GY/sights/georgetown-diwali-motorcade.yaml) | 9.1 / 9.3 / 9.2 / 9.3 / 9.0 | impact: -0.1; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-sr-suriname-jazz-festival — Paramaribo Suriname Jazz Festival Public Concert Programme — 2026-11-28
+
+- YAML: [source](../../../countries/SR/sights/suriname-jazz-festival.yaml)
+- Action: new
+- Scope: 20th edition documented by organizer and October 26 2026 reporting. International and local artists grouped; not separate venue ratings. Future programme unverified.
+- Representative coordinates: 5.84, -55.17; approximate editorial representative point; independent location verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://jazzsuriname.com/ ; https://jazzsuriname.com/about-us/ ; https://www.srnieuws.com/suriname-jazz-festival-viert-20e-editie-met-lokale-en-internationale-artiesten
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.9 / 9.1 / 9.0.
+- Categories: culture:9.3 nightlife:9.2 photography:9.0.
+- Overall: 89.10/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [SR/paramaribo-owru-yari](../../../countries/SR/sights/paramaribo-owru-yari.yaml) | 9.2 / 9.2 / 8.9 / 9.4 / 9.1 | impact: -0.4; uniqueness: -0.3 vs peer |
+| [GY/rupununi-music-arts-festival](../../../countries/GY/sights/rupununi-music-arts-festival.yaml) | 8.9 / 9.0 / 9.0 / 9.2 / 9.1 | impact: -0.1; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-sr-suriname-tourism-food-festival — Paramaribo Suriname Tourism and Food Festival Public Culinary Programme — 2026-11-28
+
+- YAML: [source](../../../countries/SR/sights/suriname-tourism-food-festival.yaml)
+- Action: new
+- Scope: Recurring food and culture programme, November 27–29 2026 announced by organizer; actual occurrence not checked and venue sources disagree, city representative point only. Excludes generic business exhibition.
+- Representative coordinates: 5.84, -55.16; approximate editorial representative point; independent location verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://surinametourismfestival.sr/ ; https://suriname.travel/event-directory/ ; https://www.eventsinsuriname.com/en/events/suriname-tourism-food-festival
+- Core I/U/S/E/D: 8.5 / 8.6 / 8.5 / 8.9 / 8.5.
+- Categories: food:9.4 culture:9.2 photography:8.8.
+- Overall: 85.85/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [SR/paramaribo-august-heritage-festivities](../../../countries/SR/sights/paramaribo-august-heritage-festivities.yaml) | 9.0 / 9.2 / 9.3 / 9.1 / 9.1 | impact: -0.5; uniqueness: -0.6 vs peer |
+| [GY/georgetown-curry-fest](../../../countries/GY/sights/georgetown-curry-fest.yaml) | 8.4 / 8.6 / 8.6 / 8.9 / 8.4 | impact: 0.1; uniqueness: 0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-sr-para-food-music-festival — Para Food and Music Festival Public Regional Cultural Programme — 2026-11-28
+
+- YAML: [source](../../../countries/SR/sights/para-food-music-festival.yaml)
+- Action: new
+- Scope: Fifth anniversary programme announced September 2026, distinct Para event rather than Paramaribo food festival; regional representative point. Actual edition attendance unverified.
+- Representative coordinates: 5.65, -55.2; approximate editorial representative point; independent location verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://sun.sr/leefstijl/enterntainment/para-festival-viert-vijfjarig-bestaan-met-vernieuwd-familiefestival?id=45225 ; https://surinaamsegids.com/events/para-food-and-music-festival-2026
+- Core I/U/S/E/D: 8.3 / 8.4 / 8.4 / 8.8 / 8.4.
+- Categories: food:9.2 culture:9.1 nightlife:9.0.
+- Overall: 84.30/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [SR/suriname-tourism-food-festival](../../../countries/SR/sights/suriname-tourism-food-festival.yaml) | 8.5 / 8.6 / 8.5 / 8.9 / 8.5 | impact: -0.2; uniqueness: -0.2 vs peer |
+| [GY/georgetown-pepperpot-festival](../../../countries/GY/sights/georgetown-pepperpot-festival.yaml) | 8.3 / 8.7 / 8.6 / 8.8 / 8.4 | impact: 0.0; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-sr-santigron-maroon-heritage — Santigron Saramacca River Community Guided Maroon Heritage — 2026-11-28
+
+- YAML: [source](../../../countries/SR/sights/santigron-maroon-heritage.yaml)
+- Action: new
+- Scope: Established hosted village tours on Saramacca River; distinct from upper Suriname River Saamaka routes. No blanket village access, private rites or photography without consent.
+- Representative coordinates: 5.64, -55.38; approximate editorial representative point; independent location verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://allsurinametours.com/en/tour/visit-to-maroon-village-santigron/ ; https://surinameholidays.nl/en/santigron/
+- Core I/U/S/E/D: 8.4 / 8.9 / 8.8 / 8.6 / 8.7.
+- Categories: culture:9.3 history:9.1 nature:9.0.
+- Overall: 86.65/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [SR/upper-suriname-river-maroons](../../../countries/SR/sights/upper-suriname-river-maroons.yaml) | 8.9 / 9.1 / 9.0 / 8.7 / 9.0 | impact: -0.5; uniqueness: -0.2 vs peer |
+| [GY/surama-community-ecotourism](../../../countries/GY/sights/surama-community-ecotourism.yaml) | 8.8 / 9.0 / 8.9 / 8.7 / 8.9 | impact: -0.4; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-sr-powakka-lokono-heritage — Powakka Lokono Community Guided Cultural Heritage — 2026-11-28
+
+- YAML: [source](../../../countries/SR/sights/powakka-lokono-heritage.yaml)
+- Action: new
+- Scope: Advertised Indigenous-guided visit to village; community permission and local arrangements mandatory. Excludes private rites and generic overnight accommodation.
+- Representative coordinates: 5.42, -55.15; approximate editorial representative point; independent location verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://blackeagletours.com/powakka-tour/
+- Core I/U/S/E/D: 8.2 / 8.8 / 8.7 / 8.4 / 8.5.
+- Categories: culture:9.3 history:9.0 nature:8.9.
+- Overall: 85.10/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [SR/palumeu-upper-tapanahony](../../../countries/SR/sights/palumeu-upper-tapanahony.yaml) | 8.8 / 9.0 / 8.9 / 8.5 / 8.8 | impact: -0.6; uniqueness: -0.2 vs peer |
+| [GY/moraikobai-community](../../../countries/GY/sights/moraikobai-community.yaml) | 8.3 / 8.7 / 8.6 / 8.6 / 8.6 | impact: -0.1; uniqueness: 0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-sr-coronie-totness-heritage — Coronie Totness Wooden Architecture and Coconut Craft Heritage Circuit — 2026-11-28
+
+- YAML: [source](../../../countries/SR/sights/coronie-totness-heritage.yaml)
+- Action: new
+- Scope: Regional historic wooden buildings, coconut and honey traditions and advertised guided crafts grouped; excludes deferred North Coronie MUMA, no farm entry guaranteed.
+- Representative coordinates: 5.88, -56.32; approximate editorial representative point; independent location verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://suriname.travel/coronie/ ; https://surinameholidays.nl/en/coronie_tour/ ; https://unlimitedsuriname.com/event/coronie-heritage-craft-tour/
+- Core I/U/S/E/D: 8.2 / 8.7 / 8.7 / 8.5 / 8.6.
+- Categories: architecture:9.0 culture:9.2 history:9.1 food:8.9.
+- Overall: 85.10/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [SR/frederiksdorp](../../../countries/SR/sights/frederiksdorp.yaml) | 7.8 / 8.3 / 8.2 / 8.2 / 7.4 | impact: 0.4; uniqueness: 0.4 vs peer |
+| [GY/new-amsterdam-heritage-trail](../../../countries/GY/sights/new-amsterdam-heritage-trail.yaml) | 8.0 / 8.3 / 8.7 / 8.2 / 8.4 | impact: 0.2; uniqueness: 0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-sr-nieuw-nickerie-heritage — Nieuw Nickerie Market and Rice Landscape Heritage Circuit — 2026-11-28
+
+- YAML: [source](../../../countries/SR/sights/nieuw-nickerie-heritage.yaml)
+- Action: new
+- Scope: Town market and agricultural polders grouped, excludes Bigi Pan wildlife and Maratakka river; fields viewed from permitted public places.
+- Representative coordinates: 5.94, -56.99; approximate editorial representative point; independent location verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://suriname.travel/nickerie/ ; https://www.orangesuriname.com/en/tours/districts-tour-bigi-pan-suriname/
+- Core I/U/S/E/D: 7.9 / 8.3 / 8.2 / 8.3 / 8.4.
+- Categories: culture:8.9 photography:8.9 history:8.8 food:8.8.
+- Overall: 81.70/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [SR/paramaribo-central-market](../../../countries/SR/sights/paramaribo-central-market.yaml) | 7.4 / 7.9 / 7.0 / 8.3 / 7.7 | impact: 0.5; uniqueness: 0.4 vs peer |
+| [GY/new-amsterdam-heritage-trail](../../../countries/GY/sights/new-amsterdam-heritage-trail.yaml) | 8.0 / 8.3 / 8.7 / 8.2 / 8.4 | impact: -0.1; uniqueness: 0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-sr-groningen-saramacca-heritage — Groningen Saramacca Historic Settlement and Boeroe Heritage Circuit — 2026-11-28
+
+- YAML: [source](../../../countries/SR/sights/groningen-saramacca-heritage.yaml)
+- Action: new
+- Scope: Public historic settlement and monuments grouped; no claim of entry to private historic buildings. Distinct from Coronie and Santigron.
+- Representative coordinates: 5.8, -55.47; approximate editorial representative point; independent location verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://suriname.travel/saramacca/ ; https://suriname-tour.com/districten-tour/
+- Core I/U/S/E/D: 7.7 / 8.3 / 8.5 / 8.1 / 8.1.
+- Categories: history:9.1 culture:8.9 architecture:8.7.
+- Overall: 81.10/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [SR/frederiksdorp](../../../countries/SR/sights/frederiksdorp.yaml) | 7.8 / 8.3 / 8.2 / 8.2 / 7.4 | impact: -0.1; uniqueness: 0.0 vs peer |
+| [GY/new-amsterdam-heritage-trail](../../../countries/GY/sights/new-amsterdam-heritage-trail.yaml) | 8.0 / 8.3 / 8.7 / 8.2 / 8.4 | impact: -0.3; uniqueness: 0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-sr-rust-en-werk-plantation — Plantage Rust en Werk Historic Graves and Agricultural Heritage Tour — 2026-11-28
+
+- YAML: [source](../../../countries/SR/sights/rust-en-werk-plantation.yaml)
+- Action: new
+- Scope: Operator documents visitor registration, guided rural tour and historic graves. Distinct plantation, no repeat scoring of Frederiksdorp or Bakkie; working farm access only by arrangement.
+- Representative coordinates: 5.91, -55.04; approximate editorial representative point; independent location verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://boerderij.vcm.sr/en/agrotourism-suriname-plantation-rust-en-werk/
+- Core I/U/S/E/D: 8.0 / 8.4 / 8.5 / 8.4 / 8.4.
+- Categories: culture:9.0 history:9.0 food:8.8 photography:8.8.
+- Overall: 83.00/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [SR/plantage-bakkie-museum](../../../countries/SR/sights/plantage-bakkie-museum.yaml) | 8.3 / 8.7 / 8.8 / 8.5 / 8.6 | impact: -0.3; uniqueness: -0.3 vs peer |
+| [GY/diamond-demerara-distillery-heritage](../../../countries/GY/sights/diamond-demerara-distillery-heritage.yaml) | 8.6 / 9.2 / 9.2 / 8.5 / 8.8 | impact: -0.6; uniqueness: -0.8 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-sr-paramaribo-saoenah-market — Paramaribo Saoenah Javanese Sunday Food Market — 2026-11-28
+
+- YAML: [source](../../../countries/SR/sights/paramaribo-saoenah-market.yaml)
+- Action: new
+- Scope: Distinct Javanese Sunday market, not Central Market or August festival. City representative point, exact market coordinates and operating hours pending.
+- Representative coordinates: 5.84, -55.16; approximate editorial representative point; independent location verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.grietjebie.org/en/activiteiten/saoenah-markt ; https://www.grietjebie.org/en/tours/zondagmarkt-paramaribo
+- Core I/U/S/E/D: 8.2 / 8.7 / 8.4 / 8.8 / 8.2.
+- Categories: food:9.4 culture:9.1 photography:8.8.
+- Overall: 84.55/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [SR/paramaribo-central-market](../../../countries/SR/sights/paramaribo-central-market.yaml) | 7.4 / 7.9 / 7.0 / 8.3 / 7.7 | impact: 0.8; uniqueness: 0.8 vs peer |
+| [GY/georgetown-curry-fest](../../../countries/GY/sights/georgetown-curry-fest.yaml) | 8.4 / 8.6 / 8.6 / 8.9 / 8.4 | impact: -0.2; uniqueness: 0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-sr-domburg-waterfront-market — Domburg Riverfront Sunday Market and Javanese Culinary Heritage — 2026-11-28
+
+- YAML: [source](../../../countries/SR/sights/domburg-waterfront-market.yaml)
+- Action: new
+- Scope: Public riverfront and weekly market grouped; no marina or accommodation rating. Separate from Paramaribo food markets.
+- Representative coordinates: 5.69, -55.08; approximate editorial representative point; independent location verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://suriname.travel/wanica/ ; https://marinasuriname.com/en/domburg.html
+- Core I/U/S/E/D: 7.8 / 8.1 / 8.0 / 8.5 / 8.1.
+- Categories: food:9.1 culture:8.8 relaxation:8.8.
+- Overall: 80.50/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [SR/paramaribo-saoenah-market](../../../countries/SR/sights/paramaribo-saoenah-market.yaml) | 8.2 / 8.7 / 8.4 / 8.8 / 8.2 | impact: -0.4; uniqueness: -0.6 vs peer |
+| [GY/essequibo-river-lower-river-islands](../../../countries/GY/sights/essequibo-river-lower-river-islands.yaml) | 7.9 / 8.1 / 7.7 / 8.4 / 8.2 | impact: -0.1; uniqueness: 0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+### Pass 306 scope decisions
+
+12 source-linked provisional additions, 1 90+, 24 ranking-row comparisons (12 international, 12 domestic). SR 64 ranked / 70 total, +33 since baseline 37, 7 new 90+ across three passes. Prior UNESCO 3/3 inscribed represented / 0 tentative, Cassipora Creek component grouped; prior LBB inventory deferrals retained (5 reserves, 2 MUMAs and partial North Commewijne-Marowijne). Chinese New Year distinct from October immigration commemoration, latter remains deferred; 2026 public fair and reported attendance verified. Jazz 20th edition documented; 2026 tourism and food festival announced for Nov 27–29, venue sources conflict and actual occurrence not checked. Para festival separately announced. Santigron and Powakka hosted village scopes require consent, Coronie, Groningen and Nieuw Nickerie regional heritage circuits exclude protected-area duplicates, Rust en Werk distinct working plantation. Saoenah and Domburg distinct markets, no individual restaurants rated. Galibi village walk marketed within turtle tour (https://www.grietjebie.org/en/tours/galibi-als-de-schildpadden-komen), not split absent separate visitor scope. Werehpai 2024 special expedition (https://forest93.sr/projects/kwamalasamutu-ambassador-trip) still insufficient to establish routine community-approved visitor access. Stoelmanseiland and deeper Marowijne routes not exhaustively screened. PAUSED after three targeted passes to diversify discovery; not closed or exhaustive. Existing scores and six legacy unassessed preserved. Approximate coordinates, present permissions and future schedules unverified. Full Python validation, independent peer YAML checks and international calibration pending. Next proposed country French Guiana if not already screened.

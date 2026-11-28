@@ -1,0 +1,16 @@
+id: sight-us-whitney-plantation
+name: "Whitney Plantation Museum Louisiana"
+location:
+  country_code: US
+  latitude: 30.04
+  longitude: -90.65
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.8
+  depth: 8.7
+  categories:
+    history: 9.3
+    culture: 9.2
+    architecture: 8.8

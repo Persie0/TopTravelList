@@ -1,0 +1,15 @@
+id: sight-fr-besancon-musee-temps
+name: "Musée du Temps Besançon Horology Collections"
+location:
+  country_code: FR
+  latitude: 47.236
+  longitude: 6.026
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 9.2
+  experience: 9.0
+  depth: 9.2
+  categories:
+    history: 9.4
+    culture: 9.4

@@ -1,0 +1,15 @@
+id: sight-fr-colette-house
+name: "Maison de Colette and Colette Museum Saint-Sauveur-en-Puisaye"
+location:
+  country_code: FR
+  latitude: 47.619
+  longitude: 3.197
+scores:
+  impact: 8.6
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.8
+  depth: 8.7
+  categories:
+    culture: 9.4
+    history: 9.2

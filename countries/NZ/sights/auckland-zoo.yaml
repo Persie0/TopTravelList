@@ -1,0 +1,16 @@
+id: sight-nz-auckland-zoo
+name: "Auckland Zoo Western Springs"
+location:
+  country_code: NZ
+  latitude: -36.863
+  longitude: 174.719
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 9.0
+  depth: 8.9
+  categories:
+    wildlife: 9.3
+    family: 9.3
+    nature: 9.1

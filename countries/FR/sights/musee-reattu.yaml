@@ -1,0 +1,16 @@
+id: sight-fr-musee-reattu
+name: "Musée Réattu Arles Fine Arts and Photography Museum"
+location:
+  country_code: FR
+  latitude: 43.679
+  longitude: 4.627
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 8.8
+  depth: 8.9
+  categories:
+    culture: 9.3
+    history: 9.2
+    photography: 9.1

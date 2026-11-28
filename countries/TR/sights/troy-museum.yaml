@@ -1,0 +1,16 @@
+id: sight-tr-troy-museum
+name: "Troy Museum Tevfikiye"
+location:
+  country_code: TR
+  latitude: 39.95528
+  longitude: 26.24917
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.9
+  depth: 8.9
+  categories:
+    history: 9.3
+    culture: 9.2
+    architecture: 9.0

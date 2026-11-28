@@ -1,0 +1,16 @@
+id: sight-us-fort-sumter
+name: "Fort Sumter and Fort Moultrie National Historical Park"
+location:
+  country_code: US
+  latitude: 32.752
+  longitude: -79.874
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 9.2
+  experience: 8.7
+  depth: 8.8
+  categories:
+    history: 9.4
+    culture: 9.2
+    architecture: 9.1

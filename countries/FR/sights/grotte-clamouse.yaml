@@ -1,0 +1,16 @@
+id: sight-fr-grotte-clamouse
+name: "Grotte de Clamouse Crystal Cave"
+location:
+  country_code: FR
+  latitude: 43.711
+  longitude: 3.55
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 8.8
+  experience: 9.0
+  depth: 8.8
+  categories:
+    nature: 9.4
+    adventure: 9.2
+    photography: 9.3

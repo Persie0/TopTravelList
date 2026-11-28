@@ -1,0 +1,16 @@
+id: sight-us-national-naval-aviation
+name: "National Naval Aviation Museum Pensacola"
+location:
+  country_code: US
+  latitude: 30.35
+  longitude: -87.304
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 9.1
+  depth: 9.3
+  categories:
+    history: 9.4
+    family: 9.3
+    photography: 9.2

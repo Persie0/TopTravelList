@@ -1,0 +1,15 @@
+id: sight-nc-noumea-wwii-museum
+name: "Musée de la Seconde Guerre Mondiale Nouméa History Collections"
+location:
+  country_code: NC
+  latitude: -22.271
+  longitude: 166.441
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.7
+  depth: 8.7
+  categories:
+    history: 9.3
+    culture: 9.2

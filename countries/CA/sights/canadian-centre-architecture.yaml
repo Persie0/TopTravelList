@@ -1,0 +1,16 @@
+id: sight-ca-canadian-centre-architecture
+name: "Canadian Centre for Architecture Montréal"
+location:
+  country_code: CA
+  latitude: 45.491
+  longitude: -73.578
+scores:
+  impact: 8.5
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.6
+  depth: 9.0
+  categories:
+    architecture: 9.4
+    culture: 9.3
+    history: 9.2

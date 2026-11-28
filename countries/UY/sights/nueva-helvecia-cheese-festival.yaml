@@ -1,0 +1,16 @@
+id: sight-uy-nueva-helvecia-cheese-festival
+name: "Nueva Helvecia Cheese Festival Public Gastronomy Programme"
+location:
+  country_code: UY
+  latitude: -34.29
+  longitude: -57.23
+scores:
+  impact: 8.3
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.8
+  depth: 8.5
+  categories:
+    food: 9.3
+    culture: 9.0
+    family: 8.8

@@ -1,0 +1,15 @@
+id: sight-fr-carre-art-nimes
+name: "Carré d’Art Nîmes Contemporary Art Museum"
+location:
+  country_code: FR
+  latitude: 43.838
+  longitude: 4.355
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 8.8
+  depth: 8.7
+  categories:
+    culture: 9.2
+    architecture: 9.1

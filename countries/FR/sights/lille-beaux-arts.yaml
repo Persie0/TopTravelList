@@ -1,0 +1,15 @@
+id: sight-fr-lille-beaux-arts
+name: "Palais des Beaux-Arts Lille Fine Arts Collections"
+location:
+  country_code: FR
+  latitude: 50.63
+  longitude: 3.062
+scores:
+  impact: 9.3
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 9.2
+  depth: 9.4
+  categories:
+    culture: 9.4
+    history: 9.4

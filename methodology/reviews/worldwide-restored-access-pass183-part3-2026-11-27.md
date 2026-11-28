@@ -1,0 +1,10 @@
+# Pass 183 — access-independent reassessment, part 3
+2026-11-27. Provisional editorial scores based on retrieved source excerpts and UNESCO monastery nomination inspected directly. Not current access or travel advice. Existing values and coordinates preserved. Peer comparisons qualitative; current peer YAML not independently checked.
+
+## MM/sights/u-bein-bridge
+Status: source-linked-unverified. Sources: https://tourism.gov.mm/en/regions/mandalay ; https://www.tourismmyanmar.org/index.php/about-myanmar/destinations/mandalay. Historic teak crossing and lakeside silhouettes; historical pedestrian experience and landscape photography under normal safe conditions, limited depth as a single bridge. Comparisons: Less monumental than Charles Bridge; less elaborate architecture than Ponte Vecchio; less dramatic engineering than the Forth Bridge; more modest associated urban heritage than Mostar's Old Bridge. I/U/S/E/D: 8.5, 8.7, 8.2, 8.8, 7.6. Overall 84.45. 
+
+## MM/sights/wooden-monasteries
+Status: source-linked-unverified. Sources: https://whc.unesco.org/en/tentativelists/821/. Timber monastery tradition and intricate carved decoration. Prior review specifies representative Mandalay component only; rate that narrow experience and interpret the broader tradition without credit for visits to all seven components. Potential duplicate with Shwenandaw, flagged for consolidation review. Comparisons: Less extensive timber ensembles than Horyu-ji; less monumental than the Temple of Heaven; less architectural diversity than the Historic Villages of Shirakawa-go and Gokayama; less varied monastic collections than Haeinsa. I/U/S/E/D: 8.4, 8.9, 8.7, 8.4, 8.7. Overall 86.15. 
+
+4 null-only core fields filled. Total: 20 records, 40 missing core fields populated, 80 qualitative peer comparisons. Mrauk U town, Pondaung and Taninthayi remain outside this batch. One 90+ rating requires numerical benchmark review. Overlap between serial and component records requires separate scope review. Full validation, ranking regeneration and merge pending. No private Actions manually dispatched.

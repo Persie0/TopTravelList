@@ -1,0 +1,16 @@
+id: sight-au-maria-island
+name: "Maria Island National Park Tasmania"
+location:
+  country_code: AU
+  latitude: -42.58
+  longitude: 148.067
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.9
+  depth: 8.9
+  categories:
+    wildlife: 9.2
+    nature: 9.2
+    history: 9.0

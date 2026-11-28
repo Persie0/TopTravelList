@@ -1,0 +1,16 @@
+id: sight-bh-al-dar-islands
+name: "Al Dar Islands"
+location:
+  country_code: BH
+  latitude: 26.12953946
+  longitude: 50.65780777
+scores:
+  impact: 8.1
+  uniqueness: 8.0
+  significance: 6.8
+  experience: 8.5
+  depth: 7.6
+  categories:
+    beaches: 8.8
+    relaxation: 8.8
+    adventure: 8.3

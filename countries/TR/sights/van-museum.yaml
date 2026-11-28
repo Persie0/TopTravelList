@@ -1,0 +1,16 @@
+id: sight-tr-van-museum
+name: "Van Museum and Urartian Collections"
+location:
+  country_code: TR
+  latitude: 38.50394
+  longitude: 43.34365
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 8.8
+  depth: 9.0
+  categories:
+    history: 9.4
+    culture: 9.3
+    architecture: 8.8

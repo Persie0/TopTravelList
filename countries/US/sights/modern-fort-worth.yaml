@@ -1,0 +1,16 @@
+id: sight-us-modern-fort-worth
+name: "Modern Art Museum of Fort Worth"
+location:
+  country_code: US
+  latitude: 32.749
+  longitude: -97.364
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 9.0
+  depth: 9.0
+  categories:
+    culture: 9.3
+    architecture: 9.4
+    photography: 9.1

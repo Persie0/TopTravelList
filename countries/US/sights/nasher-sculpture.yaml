@@ -1,0 +1,16 @@
+id: sight-us-nasher-sculpture
+name: "Nasher Sculpture Center Dallas"
+location:
+  country_code: US
+  latitude: 32.787
+  longitude: -96.801
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 8.9
+  experience: 9.0
+  depth: 8.9
+  categories:
+    culture: 9.4
+    architecture: 9.1
+    photography: 9.2

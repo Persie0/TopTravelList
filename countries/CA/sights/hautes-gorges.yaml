@@ -1,0 +1,16 @@
+id: sight-ca-hautes-gorges
+name: "Hautes-Gorges-de-la-Rivière-Malbaie National Park"
+location:
+  country_code: CA
+  latitude: 47.86
+  longitude: -70.54
+scores:
+  impact: 9.2
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 9.1
+  depth: 9.1
+  categories:
+    nature: 9.4
+    photography: 9.4
+    adventure: 9.3

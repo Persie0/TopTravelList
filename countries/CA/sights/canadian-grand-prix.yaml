@@ -1,0 +1,16 @@
+id: sight-ca-canadian-grand-prix
+name: "Canadian Grand Prix Montréal Formula One Race"
+location:
+  country_code: CA
+  latitude: 45.501
+  longitude: -73.526
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 9.4
+  depth: 9.1
+  categories:
+    culture: 9.3
+    nightlife: 9.2
+    photography: 9.2

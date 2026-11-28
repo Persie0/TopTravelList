@@ -1,0 +1,16 @@
+id: sight-es-garrotxa-volcanic-park
+name: "Garrotxa Volcanic Zone Natural Park"
+location:
+  country_code: ES
+  latitude: 42.14142
+  longitude: 2.54392
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 8.8
+  depth: 8.9
+  categories:
+    nature: 9.2
+    photography: 9.1
+    adventure: 8.9

@@ -1,0 +1,16 @@
+id: sight-us-effigy-mounds
+name: "Effigy Mounds National Monument Iowa"
+location:
+  country_code: US
+  latitude: 43.089
+  longitude: -91.185
+scores:
+  impact: 8.3
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.5
+  depth: 8.5
+  categories:
+    history: 9.2
+    culture: 9.1
+    nature: 8.8

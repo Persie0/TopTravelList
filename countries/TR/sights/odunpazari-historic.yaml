@@ -1,0 +1,17 @@
+id: sight-tr-odunpazari-historic
+name: "Odunpazarı Historic District Eskişehir"
+location:
+  country_code: TR
+  latitude: 39.763008
+  longitude: 30.525781
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.9
+  depth: 8.8
+  categories:
+    architecture: 9.2
+    culture: 9.2
+    photography: 9.1
+    history: 9.0

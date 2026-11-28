@@ -1,0 +1,16 @@
+id: sight-fr-parc-tete-or
+name: "Parc de la Tête d’Or Lyon Botanical Gardens and Lake"
+location:
+  country_code: FR
+  latitude: 45.778
+  longitude: 4.853
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 9.1
+  depth: 9.0
+  categories:
+    nature: 9.3
+    relaxation: 9.3
+    family: 9.3

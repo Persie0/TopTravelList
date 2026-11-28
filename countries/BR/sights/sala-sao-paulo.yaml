@@ -1,0 +1,16 @@
+id: sight-br-sala-sao-paulo
+name: "Sala São Paulo Concert Hall Symphony Performances and Architecture"
+location:
+  country_code: BR
+  latitude: -23.535
+  longitude: -46.639
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 9.1
+  experience: 9.3
+  depth: 9.1
+  categories:
+    culture: 9.4
+    architecture: 9.3
+    history: 9.2

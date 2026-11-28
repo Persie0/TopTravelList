@@ -1,0 +1,16 @@
+id: sight-ca-mcmichael-art-collection
+name: "McMichael Canadian Art Collection Kleinburg"
+location:
+  country_code: CA
+  latitude: 43.84
+  longitude: -79.624
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 9.0
+  depth: 9.3
+  categories:
+    culture: 9.4
+    history: 9.3
+    photography: 9.1

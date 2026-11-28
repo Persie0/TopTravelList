@@ -1,0 +1,16 @@
+id: sight-fr-grottes-medous
+name: "Grottes de Médous Cave and Underground River"
+location:
+  country_code: FR
+  latitude: 43.039
+  longitude: 0.155
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.2
+  experience: 8.7
+  depth: 8.4
+  categories:
+    nature: 9.1
+    adventure: 9.0
+    family: 9.0

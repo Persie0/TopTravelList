@@ -1,0 +1,16 @@
+id: sight-us-cape-cod
+name: "Cape Cod National Seashore"
+location:
+  country_code: US
+  latitude: 41.91
+  longitude: -70.03
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 9.0
+  depth: 8.8
+  categories:
+    beaches: 9.3
+    nature: 9.2
+    history: 9.1

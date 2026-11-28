@@ -1,0 +1,16 @@
+id: sight-it-gardaland
+name: "Gardaland Theme Park"
+location:
+  country_code: IT
+  latitude: 45.45399
+  longitude: 10.71412
+scores:
+  impact: 8.8
+  uniqueness: 8.3
+  significance: 7.9
+  experience: 9.3
+  depth: 9.1
+  categories:
+    family: 9.4
+    adventure: 9.2
+    relaxation: 8.6

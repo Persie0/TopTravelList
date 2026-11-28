@@ -1,0 +1,16 @@
+id: sight-yt-mayotte-cetaceans
+name: "Mayotte Offshore Whale and Dolphin Observation"
+location:
+  country_code: YT
+  latitude: -12.82
+  longitude: 45.32
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 8.6
+  experience: 8.9
+  depth: 8.7
+  categories:
+    wildlife: 9.4
+    nature: 9.3
+    photography: 9.3

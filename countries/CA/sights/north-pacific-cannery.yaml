@@ -1,0 +1,16 @@
+id: sight-ca-north-pacific-cannery
+name: "North Pacific Cannery National Historic Site Port Edward"
+location:
+  country_code: CA
+  latitude: 54.19
+  longitude: -130.24
+scores:
+  impact: 8.6
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.8
+  depth: 9.0
+  categories:
+    history: 9.4
+    culture: 9.3
+    architecture: 9.2

@@ -1,0 +1,15 @@
+id: sight-fr-mac-lyon
+name: "Musée d’Art Contemporain Lyon"
+location:
+  country_code: FR
+  latitude: 45.784
+  longitude: 4.852
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 8.8
+  depth: 8.9
+  categories:
+    culture: 9.3
+    architecture: 9.0

@@ -1,0 +1,16 @@
+id: sight-fr-cite-espace-toulouse
+name: "Cité de l’Espace Toulouse Space Science Park"
+location:
+  country_code: FR
+  latitude: 43.587
+  longitude: 1.482
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 9.0
+  experience: 9.3
+  depth: 9.3
+  categories:
+    culture: 9.3
+    family: 9.4
+    adventure: 9.1

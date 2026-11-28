@@ -1,0 +1,16 @@
+id: sight-nz-orokonui
+name: "Orokonui Ecosanctuary Dunedin Native Forest and Wildlife"
+location:
+  country_code: NZ
+  latitude: -45.77
+  longitude: 170.61
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.8
+  depth: 8.7
+  categories:
+    wildlife: 9.3
+    nature: 9.3
+    family: 9.1

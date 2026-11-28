@@ -1,0 +1,16 @@
+id: sight-pm-saint-pierre-cathedral
+name: "Saint-Pierre Cathedral and Historic Central Streets"
+location:
+  country_code: PM
+  latitude: 46.779
+  longitude: -56.176
+scores:
+  impact: 8.0
+  uniqueness: 8.1
+  significance: 8.4
+  experience: 8.3
+  depth: 8.0
+  categories:
+    architecture: 8.8
+    history: 8.7
+    culture: 8.6

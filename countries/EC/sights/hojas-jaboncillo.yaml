@@ -1,0 +1,16 @@
+id: sight-ec-hojas-jaboncillo
+name: "Cerro de Hojas Jaboncillo Archaeological Park"
+location:
+  country_code: EC
+  latitude: -1.015
+  longitude: -80.49
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 9.3
+  experience: 8.5
+  depth: 8.8
+  categories:
+    history: 9.4
+    culture: 9.2
+    photography: 9.0

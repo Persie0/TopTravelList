@@ -22,6 +22,10 @@ These statuses are **not score levels**. They do not add points. A generic Googl
 - If official promotional material is the only source, label its limitations. Do not substitute popularity, star ratings, search-result frequency, or copied tourism slogans for evidence.
 - Never invent sources, claim to have opened a URL that was not reviewed, or treat an automatic search match as a human fact-check.
 
+## Access-independent attraction quality (owner instruction, 2026-11-27)
+
+Rank the attraction on its normal, historical, or reasonably restored lawful visitor experience and intrinsic qualities. Temporary closures, renovations, travel advisories, security restrictions, and present-day booking or permit availability are **not** reasons to withhold or reduce quality scores. Apply this retroactively to previously deferred records. Permanent access restrictions also do not prevent an editorial ranking when intrinsic qualities can be assessed. Document restrictions independently from ranking; a rating is never a representation of current access, safety, or a forecast of reopening. Use historical evidence where possible and explicitly label hypothetical restored-access estimates as provisional/source-linked-unverified. Do not invent visitor activities, reconstruction, exhibitions, guaranteed wildlife encounters, or access to sacred/private areas. Genuine identity, scope, or material evidence gaps still warrant null fields where a responsible estimate cannot be made. Keep normal intrinsic experience limitations (scale, depth, terrain, seasonal features) separate from temporary access constraints.
+
 ## Calibration safeguards
 
 1. **Scope** — Test what the record actually represents. UNESCO or regional prominence belongs to the correct entity and cannot be transferred to small sub-sites.

@@ -1,0 +1,16 @@
+id: sight-ca-canadian-aviation-space
+name: "Canada Aviation and Space Museum Ottawa"
+location:
+  country_code: CA
+  latitude: 45.458
+  longitude: -75.643
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.8
+  depth: 9.0
+  categories:
+    history: 9.3
+    family: 9.3
+    culture: 9.1

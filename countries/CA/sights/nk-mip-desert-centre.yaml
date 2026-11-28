@@ -1,0 +1,16 @@
+id: sight-ca-nk-mip-desert-centre
+name: "Nk’Mip Desert Cultural Centre Osoyoos"
+location:
+  country_code: CA
+  latitude: 49.04
+  longitude: -119.43
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 8.8
+  depth: 8.8
+  categories:
+    culture: 9.4
+    nature: 9.3
+    history: 9.2

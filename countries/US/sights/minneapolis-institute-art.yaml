@@ -1,0 +1,16 @@
+id: sight-us-minneapolis-institute-art
+name: "Minneapolis Institute of Art"
+location:
+  country_code: US
+  latitude: 44.9585
+  longitude: -93.2742
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 9.1
+  depth: 9.4
+  categories:
+    culture: 9.4
+    history: 9.3
+    architecture: 9.0

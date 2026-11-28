@@ -1,0 +1,16 @@
+id: sight-us-sleeping-bear-dunes
+name: "Sleeping Bear Dunes National Lakeshore"
+location:
+  country_code: US
+  latitude: 44.91
+  longitude: -86.04
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 8.6
+  experience: 9.1
+  depth: 8.9
+  categories:
+    nature: 9.3
+    photography: 9.4
+    adventure: 9.2

@@ -1,0 +1,17 @@
+id: sight-tr-kazdagi
+name: "Kazdağı National Park"
+location:
+  country_code: TR
+  latitude: 39.63848
+  longitude: 26.74659
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.7
+  depth: 8.9
+  categories:
+    nature: 9.3
+    photography: 9.1
+    adventure: 9.1
+    wildlife: 9.1

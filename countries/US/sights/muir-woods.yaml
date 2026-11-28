@@ -1,0 +1,16 @@
+id: sight-us-muir-woods
+name: "Muir Woods National Monument Old-Growth Redwood Forest"
+location:
+  country_code: US
+  latitude: 37.897
+  longitude: -122.58
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 9.0
+  depth: 8.7
+  categories:
+    nature: 9.4
+    photography: 9.3
+    relaxation: 9.2

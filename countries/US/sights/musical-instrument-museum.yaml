@@ -1,0 +1,16 @@
+id: sight-us-musical-instrument-museum
+name: "Musical Instrument Museum Phoenix"
+location:
+  country_code: US
+  latitude: 33.6676
+  longitude: -111.978
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 9.0
+  experience: 9.3
+  depth: 9.3
+  categories:
+    culture: 9.4
+    family: 9.3
+    history: 9.3

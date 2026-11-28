@@ -1,0 +1,16 @@
+id: sight-ca-vancouver-aquarium
+name: "Vancouver Aquarium Marine Life Exhibits"
+location:
+  country_code: CA
+  latitude: 49.3
+  longitude: -123.131
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 9.0
+  depth: 8.9
+  categories:
+    wildlife: 9.3
+    family: 9.3
+    nature: 9.1

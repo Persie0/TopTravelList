@@ -1,0 +1,16 @@
+id: sight-us-fremont-street
+name: "Fremont Street Experience Downtown Las Vegas"
+location:
+  country_code: US
+  latitude: 36.17
+  longitude: -115.144
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.4
+  experience: 9.0
+  depth: 8.3
+  categories:
+    nightlife: 9.3
+    photography: 9.1
+    culture: 8.8

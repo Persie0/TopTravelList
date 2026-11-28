@@ -1,0 +1,15 @@
+id: sight-us-national-civil-rights-museum
+name: "National Civil Rights Museum Memphis Lorraine Motel"
+location:
+  country_code: US
+  latitude: 35.1345
+  longitude: -90.0576
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 9.0
+  depth: 9.3
+  categories:
+    history: 9.4
+    culture: 9.4

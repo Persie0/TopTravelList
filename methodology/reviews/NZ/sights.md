@@ -1065,3 +1065,2749 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 - Final decision: Provisional worldwide V2 editorial rating.
 - Earlier decision: none.
 - Verification still needed: independent claim-level verification and current operating conditions.
+
+
+## sight-nz-doubtful-sound — Doubtful Sound / Patea — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/doubtful-sound.yaml)
+- Action: new
+- Precise subject and factual basis: Remote fiord cruise with forested mountains and potential dolphin and penguin sightings; separate from Milford Sound and parent Fiordland National Park. [Visitor information](https://www.fiordland.org.nz/visit/doubtful-sound/); official page/search excerpts inspected 2026-11-26.
+- Location check: -45.2833, 166.85; [published reference](https://mapcarta.com/Doubtful_Sound); representative map point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinates inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [NZ/milford-sound](../../../countries/NZ/sights/milford-sound.yaml) | More iconic concentrated peaks and waterfalls |
+| [NZ/fiordland-national-park](../../../countries/NZ/sights/fiordland-national-park.yaml) | Parent has wider ecosystem and trail scope |
+| [CA/torngat-mountains-national-park](../../../countries/CA/sights/torngat-mountains-national-park.yaml) | Different Arctic fjord and mountain context |
+| [US/kenai-fjords-national-park](../../../countries/US/sights/kenai-fjords-national-park.yaml) | More prominent tidewater glaciers |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.3 | Exceptional fiord scenery |
+| Uniqueness | 9.0 | Distinctive remote branching fiord but analogues exist |
+| Significance | 8.8 | Protected marine and forest ecosystems |
+| Experience | 8.9 | Rewarding wilderness cruise |
+| Depth | 8.9 | Several arms and changing landscapes |
+
+- Applicable categories: nature:9.4, photography:9.3, wildlife:8.9.
+- Computed worldwide overall: 90.25/100.
+- High-score challenge: 90+ supported by combined landscape and visitor-experience merits, not a world-leading anchor. No new 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access.
+
+
+## sight-nz-cathedral-cove — Mautohe / Cathedral Cove — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/cathedral-cove.yaml)
+- Action: new
+- Precise subject and factual basis: Beach and iconic rock arch accessed via coastal track subject to tides and safety notices; excludes entire marine reserve. See https://blog.doc.govt.nz/2024/12/18/a-visitors-guide-to-mautohe-cathedral-cove/. [Visitor information](https://www.doc.govt.nz/cathedral-cove-walk); official page/search excerpts inspected 2026-11-26.
+- Location check: -36.82758, 175.7897; [published reference](https://mapcarta.com/W90699216); representative map point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinates inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [AU/twelve-apostles](../../../countries/AU/sights/twelve-apostles.yaml) | More monumental offshore stacks |
+| [NZ/pancake-rocks](../../../countries/NZ/sights/pancake-rocks.yaml) | Different geological features and blowholes |
+| [AU/freycinet-national-park](../../../countries/AU/sights/freycinet-national-park.yaml) | Broader coastal landscape and trails |
+| [CA/bruce-peninsula-national-park](../../../countries/CA/sights/bruce-peninsula-national-park.yaml) | Broader cliffs and shoreline exploration |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Striking coastal arch |
+| Uniqueness | 8.6 | Distinctive composition with global sea-arch analogues |
+| Significance | 7.9 | Local geomorphology and coastal habitat |
+| Experience | 8.6 | Rewarding coastal walk and beach subject to access |
+| Depth | 7.7 | Concentrated cove visit |
+
+- Applicable categories: nature:8.9, photography:9.2, beaches:8.8.
+- Computed worldwide overall: 84.60/100.
+- High-score challenge: Below 90 overall. No new 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access.
+
+
+## sight-nz-hooker-valley-track — Hooker Valley Track — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/hooker-valley-track.yaml)
+- Action: new
+- Precise subject and factual basis: Normal-condition alpine walking route in Aoraki/Mount Cook National Park; DOC reference point reproduced by Outdoor Next, not trailhead. Verify current route and bridge restrictions before visiting. [Visitor information](https://www.doc.govt.nz/hooker-valley-track); official page/search excerpts inspected 2026-11-26.
+- Location check: -43.70478, 170.09892; [published reference](https://www.outdoornext.co.nz/walks/hooker-valley-track); representative map point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinates inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [NZ/aoraki-mount-cook-national-park](../../../countries/NZ/sights/aoraki-mount-cook-national-park.yaml) | Parent park has greater depth |
+| [NZ/tongariro-alpine-crossing](../../../countries/NZ/sights/tongariro-alpine-crossing.yaml) | More varied volcanic terrain |
+| [CA/icefields-parkway](../../../countries/CA/sights/icefields-parkway.yaml) | Broader road-based mountain exploration |
+| [US/grand-teton-national-park](../../../countries/US/sights/grand-teton-national-park.yaml) | Broader mountain and lake landscape |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Outstanding alpine panorama |
+| Uniqueness | 8.5 | Comparable glacial valleys elsewhere |
+| Significance | 8.1 | Glacial landscape, not entire park's scientific significance |
+| Experience | 9.2 | Accessible alpine walking in normal conditions |
+| Depth | 8.3 | Focused route with multiple views |
+
+- Applicable categories: nature:9.2, photography:9.3, adventure:9.0.
+- Computed worldwide overall: 87.15/100.
+- High-score challenge: Below 90 overall. No new 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access.
+
+
+## sight-nz-moeraki-boulders — Moeraki Boulders / Kaihinaki — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/moeraki-boulders.yaml)
+- Action: new
+- Precise subject and factual basis: Coastal walk to spherical geological concretions; DOC reference point reproduced by Outdoor Next. Geological context https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/moeraki-area/. [Visitor information](https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/moeraki-area/things-to-do/moeraki-boulders-kaihinaki-walk); official page/search excerpts inspected 2026-11-26.
+- Location check: -45.347008, 170.826096; [published reference](https://www.outdoornext.co.nz/walks/moeraki-boulders-kaihinaki-walk); representative map point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinates inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [NZ/pancake-rocks](../../../countries/NZ/sights/pancake-rocks.yaml) | More varied rock formations and blowholes |
+| [AU/twelve-apostles](../../../countries/AU/sights/twelve-apostles.yaml) | Greater monumental rock scale |
+| [AU/flinders-chase-national-park](../../../countries/AU/sights/flinders-chase-national-park.yaml) | More extensive geological and wildlife landscapes |
+| [US/horseshoe-bend](../../../countries/US/sights/horseshoe-bend.yaml) | Comparable focused photo stop, different geology |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.4 | Memorable spherical rocks |
+| Uniqueness | 8.8 | Unusual clustered concretions |
+| Significance | 8.2 | Geological interest and local cultural context |
+| Experience | 8.5 | Short rewarding beach walk |
+| Depth | 7.3 | Single concentrated feature |
+
+- Applicable categories: nature:8.8, photography:8.9.
+- Computed worldwide overall: 83.65/100.
+- High-score challenge: Below 90 overall. No new 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access.
+
+
+## sight-nz-te-puia — Te Puia (Rotorua geothermal and Maori arts complex) — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/te-puia.yaml)
+- Action: new
+- Precise subject and factual basis: Pohutu geyser, Maori Arts and Crafts Institute and kiwi conservation centre; exclude neighboring independent Whakarewarewa village experiences. [Visitor information](https://www.tepuia.com/faqs/); official page/search excerpts inspected 2026-11-26.
+- Location check: -38.165, 176.25107; [published reference](https://mapcarta.com/W369960412); representative map point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinates inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [NZ/waiotapu](../../../countries/NZ/sights/waiotapu.yaml) | More focused geothermal formations, less cultural breadth |
+| [US/yellowstone-national-park](../../../countries/US/sights/yellowstone-national-park.yaml) | Much greater geothermal landscape scale |
+| [NZ/waitangi-treaty-grounds](../../../countries/NZ/sights/waitangi-treaty-grounds.yaml) | More concentrated national historic significance |
+| [US/hawaii-volcanoes-national-park](../../../countries/US/sights/hawaii-volcanoes-national-park.yaml) | More expansive volcanic landscape, different interpretation |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Geyser and living craft interpretation |
+| Uniqueness | 9.1 | Distinctive geothermal and living culture combination |
+| Significance | 9.0 | Indigenous cultural education and geothermal significance |
+| Experience | 9.1 | Guided geothermal and cultural experiences |
+| Depth | 9.0 | Several complementary visitor themes |
+
+- Applicable categories: nature:9.2, culture:9.3, photography:9.0.
+- Computed worldwide overall: 90.40/100.
+- High-score challenge: 90+ supported by combined landscape and visitor-experience merits, not a world-leading anchor. No new 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access.
+
+
+## sight-nz-waimangu-volcanic-valley — Waimangu Volcanic Valley — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/waimangu-volcanic-valley.yaml)
+- Action: new
+- Precise subject and factual basis: Geothermal valley walks and Lake Rotomahana cruise; distinct from Waiotapu and Te Puia. [Visitor information](https://www.waimangu.co.nz/experiences/walk-and-cruise-combo/); search excerpts inspected 2026-11-26.
+- Location check: -38.28571, 176.38699; [published reference](https://mapcarta.com/N314442390); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinate values inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [NZ/waiotapu](../../../countries/NZ/sights/waiotapu.yaml) | More concentrated thermal formations |
+| [NZ/te-puia](../../../countries/NZ/sights/te-puia.yaml) | Broader living culture interpretation |
+| [US/yellowstone-national-park](../../../countries/US/sights/yellowstone-national-park.yaml) | Much greater geothermal scale |
+| [AU/karijini-national-park](../../../countries/AU/sights/karijini-national-park.yaml) | Different gorge geology and trails |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Colorful thermal landscapes |
+| Uniqueness | 9.1 | Young volcanic system and lake combination |
+| Significance | 8.9 | Volcanic history and natural processes |
+| Experience | 9.0 | Walking and cruise options |
+| Depth | 9.0 | Multiple geothermal features and lake |
+
+- Applicable categories: nature:9.3, photography:9.2, adventure:8.6.
+- Computed worldwide overall: 90.05/100.
+- High-score challenge: 90+ supported by stated intrinsic qualities and peer comparisons; provisional. No 9.5+ fields or categories.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access.
+
+
+## sight-nz-hells-gate-geothermal-park — Hell's Gate Geothermal Park — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/hells-gate-geothermal-park.yaml)
+- Action: new
+- Precise subject and factual basis: Geothermal walks, mud volcano and optional mud and sulphur bathing; not a health-benefit claim. [Visitor information](https://www.hellsgate.co.nz/experience); search excerpts inspected 2026-11-26.
+- Location check: -38.06532, 176.3606; [published reference](https://mapcarta.com/N6340750385); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinate values inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [NZ/waiotapu](../../../countries/NZ/sights/waiotapu.yaml) | More visually varied thermal pools |
+| [NZ/te-puia](../../../countries/NZ/sights/te-puia.yaml) | Greater cultural and craft depth |
+| [US/lassen-volcanic-national-park](../../../countries/US/sights/lassen-volcanic-national-park.yaml) | Larger volcanic landscape |
+| [NZ/waimangu-volcanic-valley](../../../countries/NZ/sights/waimangu-volcanic-valley.yaml) | Broader geothermal and lake experience |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Active thermal scenery |
+| Uniqueness | 8.9 | Distinctive mud and spa combination |
+| Significance | 8.5 | Geothermal and cultural context |
+| Experience | 8.9 | Complementary walking and bathing |
+| Depth | 8.4 | Concentrated park with multiple features |
+
+- Applicable categories: nature:9.0, relaxation:8.9, photography:8.8.
+- Computed worldwide overall: 87.10/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields or categories.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access.
+
+
+## sight-nz-whakarewarewa-living-maori-village — Whakarewarewa Living Māori Village — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/whakarewarewa-living-maori-village.yaml)
+- Action: new
+- Precise subject and factual basis: Inhabited Māori village with guided cultural and geothermal interpretation; distinct visitor scope from Te Puia. [Visitor information](https://whakarewarewa.com/experiences/the-whakarewarewa-legacy-guided-tour/); search excerpts inspected 2026-11-26.
+- Location check: -38.16105, 176.25646; [published reference](https://mapcarta.com/N567543789); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinate values inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [NZ/te-puia](../../../countries/NZ/sights/te-puia.yaml) | Different arts institution and geyser visitor scope |
+| [NZ/waitangi-treaty-grounds](../../../countries/NZ/sights/waitangi-treaty-grounds.yaml) | Greater national political significance |
+| [CA/sgang-gwaay](../../../countries/CA/sights/sgang-gwaay.yaml) | Different historic Indigenous site |
+| [US/taos-pueblo](../../../countries/US/sights/taos-pueblo.yaml) | Comparable living heritage with distinct architecture |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Memorable living heritage |
+| Uniqueness | 9.1 | Unusual inhabited geothermal village |
+| Significance | 8.9 | Māori cultural heritage |
+| Experience | 9.0 | Guided interpretation |
+| Depth | 8.6 | Several cultural and geothermal themes |
+
+- Applicable categories: culture:9.3, history:8.9, nature:8.7.
+- Computed worldwide overall: 88.45/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields or categories.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access.
+
+
+## sight-nz-whakarewarewa-forest — Tītokorangi / Whakarewarewa Forest — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/whakarewarewa-forest.yaml)
+- Action: new
+- Precise subject and factual basis: Redwoods and marked forest walking routes; broader forest recreation, not the separately operated elevated Treewalk. Pin at visitor centre. [Visitor information](https://redwoods.co.nz/walk/); search excerpts inspected 2026-11-26.
+- Location check: -38.15693, 176.27294; [published reference](https://mapcarta.com/W629150750); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinate values inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/redwood-parks](../../../countries/US/sights/redwood-parks.yaml) | Much greater native redwood heritage |
+| [US/sequoia-national-park](../../../countries/US/sights/sequoia-national-park.yaml) | More globally exceptional giant trees |
+| [CA/pacific-rim-national-park-reserve](../../../countries/CA/sights/pacific-rim-national-park-reserve.yaml) | Native rainforest and coast |
+| [AU/daintree-rainforest](../../../countries/AU/sights/daintree-rainforest.yaml) | Greater tropical ecological significance |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.4 | Atmospheric tall forest |
+| Uniqueness | 8.0 | Introduced redwoods have analogues |
+| Significance | 7.7 | Recreational and forestry interest |
+| Experience | 8.9 | Varied walking and cycling |
+| Depth | 8.8 | Extensive route network |
+
+- Applicable categories: nature:8.7, adventure:8.9, photography:8.7.
+- Computed worldwide overall: 82.75/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields or categories.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access.
+
+
+## sight-nz-roys-peak-track — Roys Peak Track — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/roys-peak-track.yaml)
+- Action: new
+- Precise subject and factual basis: Steep summit route with lake and mountain panorama; DOC reference point reproduced by Outdoor Next, not trailhead. Check seasonal closures. [Visitor information](https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/wanaka-area/things-to-do/roys-peak-track/); search excerpts inspected 2026-11-26.
+- Location check: -44.68287, 169.0594; [published reference](https://www.outdoornext.co.nz/walks/roys-peak); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinate values inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [NZ/hooker-valley-track](../../../countries/NZ/sights/hooker-valley-track.yaml) | Different alpine lake and glacier setting |
+| [NZ/tongariro-alpine-crossing](../../../countries/NZ/sights/tongariro-alpine-crossing.yaml) | More varied volcanic terrain |
+| [NZ/mount-aspiring-national-park](../../../countries/NZ/sights/mount-aspiring-national-park.yaml) | Broader mountain wilderness |
+| [US/horseshoe-bend](../../../countries/US/sights/horseshoe-bend.yaml) | More focused short viewpoint |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Exceptional lake panorama |
+| Uniqueness | 8.3 | Other alpine viewpoints comparable |
+| Significance | 7.5 | Landscape rather than broad protected heritage |
+| Experience | 8.7 | Rewarding strenuous walk |
+| Depth | 7.9 | Single summit route |
+
+- Applicable categories: nature:8.9, photography:9.2, adventure:8.8.
+- Computed worldwide overall: 84.00/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields or categories.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access.
+
+
+## sight-nz-kaikoura-marine-wildlife-watching — Kaikōura Marine Wildlife Watching — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/kaikoura-marine-wildlife-watching.yaml)
+- Action: new
+- Precise subject and factual basis: Offshore whale and other marine wildlife viewing; reference pin at Whaleway Station check-in, not actual animal locations. Sightings and sailings vary. DOC marine context https://www.doc.govt.nz/hikurangi-marine-reserve. [Visitor information](https://whalewatch.co.nz/your-experience/); search excerpts inspected 2026-11-26.
+- Location check: -42.39592, 173.68076; [published reference](https://mapcarta.com/N3888627726); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinate values inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/katmai-national-park](../../../countries/US/sights/katmai-national-park.yaml) | Different bear-centered wildlife experience |
+| [US/kenai-fjords-national-park](../../../countries/US/sights/kenai-fjords-national-park.yaml) | More glacial scenery |
+| [AU/ningaloo-coast](../../../countries/AU/sights/ningaloo-coast.yaml) | More reef and snorkeling breadth |
+| [CA/sable-island-national-park-reserve](../../../countries/CA/sights/sable-island-national-park-reserve.yaml) | Different specialized wildlife encounter |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Memorable whale encounters |
+| Uniqueness | 9.2 | Distinctive deep-water wildlife near coast |
+| Significance | 8.8 | Marine ecosystem importance |
+| Experience | 8.9 | Guided wildlife encounters subject to conditions |
+| Depth | 8.5 | Several marine species and interpretation |
+
+- Applicable categories: wildlife:9.4, nature:9.1, photography:8.9.
+- Computed worldwide overall: 89.45/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields or categories.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access.
+
+
+## sight-nz-kaikoura-peninsula-walkway — Kaikōura Peninsula Walkway — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/kaikoura-peninsula-walkway.yaml)
+- Action: new
+- Precise subject and factual basis: Formed coastal walking routes, cliffs and seal viewing from a distance; independent from offshore whale tours. DOC reference point reproduced by Outdoor Next. [Visitor information](https://www.doc.govt.nz/parks-and-recreation/places-to-go/marlborough/places/kaikoura-area/things-to-do/tracks/kaikoura-peninsula-walkway/); search excerpts inspected 2026-11-26.
+- Location check: -42.428536, 173.699033; [published reference](https://www.outdoornext.co.nz/walks/kaikoura-peninsula-walkway); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinate values inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [NZ/abel-tasman-national-park](../../../countries/NZ/sights/abel-tasman-national-park.yaml) | Broader coast and trail network |
+| [AU/great-ocean-road](../../../countries/AU/sights/great-ocean-road.yaml) | More monumental rock scenery |
+| [NZ/cathedral-cove](../../../countries/NZ/sights/cathedral-cove.yaml) | More focused sea arch experience |
+| [CA/bruce-peninsula-national-park](../../../countries/CA/sights/bruce-peninsula-national-park.yaml) | Broader rocky shore landscape |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Coastal and mountain contrast |
+| Uniqueness | 8.2 | Comparable wildlife coast walks |
+| Significance | 8.0 | Local natural and cultural interest |
+| Experience | 8.8 | Varied accessible sections |
+| Depth | 8.4 | Several viewpoints and interpretation stops |
+
+- Applicable categories: nature:8.8, wildlife:8.8, photography:8.8.
+- Computed worldwide overall: 83.90/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields or categories.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access.
+
+
+## sight-nz-redwoods-treewalk — Redwoods Treewalk — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/redwoods-treewalk.yaml)
+- Action: new
+- Precise subject and factual basis: Elevated bridges and platforms within redwood forest; separate ticketed activity rather than ground trails; operator GPS. [Visitor information](https://www.treewalk.co.nz/). Source excerpts inspected 2026-11-26.
+- Location check: -38.156699, 176.273242; [published reference](https://www.treewalk.co.nz/contact-us/); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; visitor information and coordinate references inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [NZ/whakarewarewa-forest](../../../countries/NZ/sights/whakarewarewa-forest.yaml) | Parent offers wider ground routes |
+| [AU/daintree-rainforest](../../../countries/AU/sights/daintree-rainforest.yaml) | Greater native ecosystem significance |
+| [NZ/abel-tasman-national-park](../../../countries/NZ/sights/abel-tasman-national-park.yaml) | Broader outdoor routes |
+| [NZ/hobbiton](../../../countries/NZ/sights/hobbiton.yaml) | Different immersive managed attraction |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.4 | Immersive canopy perspective |
+| Uniqueness | 8.4 | Other elevated walks exist |
+| Significance | 7.6 | Recreation and forestry context |
+| Experience | 8.9 | Day and evening experiences |
+| Depth | 8.0 | Focused attraction |
+
+- Applicable categories: nature:8.5, adventure:8.8, family:8.8, photography:8.6.
+- Computed worldwide overall: 82.75/100.
+- High-score challenge: below 90 overall; no 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access checks.
+
+
+## sight-nz-okere-falls-track — Ōkere Falls Track — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/okere-falls-track.yaml)
+- Action: new
+- Precise subject and factual basis: Short riverside forest walk with waterfall views, distinct from rafting; DOC route reference reproduced by Outdoor Next. Check platform closures. [Visitor information](https://www.doc.govt.nz/parks-and-recreation/places-to-go/bay-of-plenty/places/okere-falls-scenic-reserve/things-to-do/okere-falls-track). Source excerpts inspected 2026-11-26.
+- Location check: -38.010789, 176.34375; [published reference](https://www.outdoornext.co.nz/walks/okere-falls-track); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; visitor information and coordinate references inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [NZ/kaikoura-peninsula-walkway](../../../countries/NZ/sights/kaikoura-peninsula-walkway.yaml) | Different coastal wildlife |
+| [NZ/cathedral-cove](../../../countries/NZ/sights/cathedral-cove.yaml) | More dramatic arch |
+| [ZA/augrabies-falls](../../../countries/ZA/sights/augrabies-falls.yaml) | Larger waterfall landscape |
+| [NZ/pancake-rocks](../../../countries/NZ/sights/pancake-rocks.yaml) | More unusual geological features |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.2 | Attractive river and falls |
+| Uniqueness | 8.0 | Comparable waterfall walks |
+| Significance | 7.9 | Local cultural and hydroelectric history |
+| Experience | 8.6 | Rewarding short walk |
+| Depth | 7.8 | Limited route scope |
+
+- Applicable categories: nature:8.5, photography:8.5, adventure:8.2.
+- Computed worldwide overall: 81.10/100.
+- High-score challenge: below 90 overall; no 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access checks.
+
+## sight-nz-auckland-war-memorial-museum — Auckland War Memorial Museum — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/auckland-war-memorial-museum.yaml)
+- Action: new
+- Precise subject: Museum building and public exhibits only; excludes wider Auckland Domain.
+- Location check: -36.86075, 174.77781; [published representative point](https://mapcarta.com/W23906678), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Museum describes Māori, Pacific and New Zealand historical collections and guided tours. Its ticket page (https://www.aucklandmuseum.com/visit/tickets) states that Māori Court and Pacific galleries are temporarily closed; rating does not assume access to these galleries. [Primary reference](https://www.aucklandmuseum.com/visit/galleries); source excerpts inspected 2026-11-26. Sources support scope and facts, not numerical judgments.
+- Missing or uncertain facts: complete independent corroboration and current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [NZ/te-papa](../../../countries/NZ/sights/te-papa.yaml) | 8.8 / 9.1 / 9.2 / 9.3 / 9.4 | Broader national museum and stronger available visitor experience. |
+| [AU/australian-war-memorial](../../../countries/AU/sights/australian-war-memorial.yaml) | 9.0 / 9.1 / 9.3 / 9.0 / 9.2 | Greater focus on military remembrance. |
+| [CA/canadian-museum-of-history](../../../countries/CA/sights/canadian-museum-of-history.yaml) | 9.0 / 9.1 / 9.2 / 9.1 / 9.3 | Comparable national cultural interpretation, broader available galleries. |
+| [GB/st-fagans](../../../countries/GB/sights/st-fagans.yaml) | 8.6 / 8.8 / 8.8 / 9.0 / 9.0 | Distinct open-air approach to national culture. |
+
+Peer dimensions drawn from existing country rankings; full source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Historic building and collections have substantial impact |
+| Uniqueness | 8.9 | Māori and Pacific cultural focus distinguishes the museum |
+| Significance | 9.1 | national cultural and memorial significance |
+| Experience | 8.7 | current gallery restrictions temper experience |
+| Depth | 9.0 | remaining galleries provide depth. |
+
+- Applicable categories: culture:9.3, history:9.2, architecture:8.9, nature:8.7.
+- Computed worldwide overall: 88.60/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-nz-zealandia-ecosanctuary — Zealandia Te Māra a Tāne Wildlife Sanctuary — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/zealandia-ecosanctuary.yaml)
+- Action: new
+- Precise subject: Fenced Wellington urban ecosanctuary and authorized walking routes, excluding other restoration areas. Wildlife encounters are not guaranteed.
+- Location check: -41.29444, 174.75; [published representative point](https://en.wikipedia.org/wiki/Zealandia_%28wildlife_sanctuary%29), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Operator documents a regenerating forest, rare native birds, reptiles and other wildlife plus track maps. https://www.sanctuariesnz.org/projects/zealandia/ corroborates restoration scope; coordinates are representative of sanctuary, not entry. [Primary reference](https://www.visitzealandia.com/); source excerpts inspected 2026-11-26. Sources support scope and facts, not numerical judgments.
+- Missing or uncertain facts: complete independent corroboration and current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [NZ/kaikoura-marine-wildlife-watching](../../../countries/NZ/sights/kaikoura-marine-wildlife-watching.yaml) | 9.0 / 9.2 / 8.8 / 8.9 / 8.5 | Distinct marine wildlife experience. |
+| [AU/rottnest-island](../../../countries/AU/sights/rottnest-island.yaml) | 8.7 / 8.8 / 8.5 / 9.1 / 8.7 | More coastal recreation, different wildlife focus. |
+| [SG/singapore-zoo](../../../countries/SG/sights/singapore-zoo.yaml) | 9.0 / 8.9 / 8.1 / 9.2 / 9.2 | Captive zoological experience rather than ecosystem restoration. |
+| [CA/stanley-park](../../../countries/CA/sights/stanley-park.yaml) | 8.4 / 8.1 / 7.8 / 8.8 / 8.4 | Broader urban park, less specialized restoration. |
+
+Peer dimensions drawn from existing country rankings; full source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Regenerating native forest and wildlife encounters offer high impact |
+| Uniqueness | 9.2 | urban fenced restoration model is distinctive |
+| Significance | 9.0 | notable conservation and biodiversity significance |
+| Experience | 8.9 | permitted walks and interpretation reward visits |
+| Depth | 8.8 | varied forest routes give depth. |
+
+- Applicable categories: wildlife:9.3, nature:9.2, adventure:8.6.
+- Computed worldwide overall: 89.25/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-nz-rakiura-national-park — Rakiura National Park — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/rakiura-national-park.yaml)
+- Action: new
+- Precise subject: Protected terrestrial park on Stewart Island/Rakiura, including permitted coastal and forest routes; excludes separate settlements and marine reserves.
+- Location check: -46.9763, 167.814; [published representative point](https://www.ontheair.nz/assets/NZ-0043), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: DOC documents the park's coastal and forest environments and multi-day tramping routes, including the Rakiura Track (https://www.doc.govt.nz/rakiuratrack). Representative park point rather than trailhead; permits and conditions vary. [Primary reference](https://www.doc.govt.nz/rakiura); source excerpts inspected 2026-11-26. Sources support scope and facts, not numerical judgments.
+- Missing or uncertain facts: complete independent corroboration and current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [NZ/fiordland-national-park](../../../countries/NZ/sights/fiordland-national-park.yaml) | 9.5 / 9.3 / 9.3 / 9.2 / 9.4 | Fiordland has greater mountainous spectacle and scope. |
+| [CA/pacific-rim-national-park-reserve](../../../countries/CA/sights/pacific-rim-national-park-reserve.yaml) | 8.9 / 8.6 / 8.8 / 9.0 / 9.1 | Comparable coastal forest and trails. |
+| [US/channel-islands-national-park](../../../countries/US/sights/channel-islands-national-park.yaml) | 8.7 / 8.8 / 8.8 / 8.8 / 8.8 | Distinct island ecology and more marine-focused experiences. |
+| [AU/whitsunday-islands-national-park](../../../countries/AU/sights/whitsunday-islands-national-park.yaml) | 9.1 / 8.8 / 8.6 / 9.0 / 9.0 | Tropical island coast versus temperate wilderness. |
+
+Peer dimensions drawn from existing country rankings; full source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Remote forest and coast produce strong scenic impact |
+| Uniqueness | 9.0 | island wilderness and endemic wildlife distinguish it |
+| Significance | 8.9 | important protected natural landscape |
+| Experience | 8.7 | remote routes are rewarding but access and weather constrain visits |
+| Depth | 9.1 | several long trails support considerable depth. |
+
+- Applicable categories: nature:9.3, wildlife:9.3, adventure:9.1, photography:9.1.
+- Computed worldwide overall: 89.45/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-nz-cape-reinga — Cape Reinga / Te Rerenga Wairua — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/cape-reinga.yaml)
+- Action: new
+- Precise subject: Sacred headland and public lighthouse walk, excluding Ninety Mile Beach and wider Te Paki. Visitors must respect tikanga, including no eating at the cape.
+- Location check: -34.426639, 172.677639; [published representative point](https://en.wikipedia.org/wiki/Cape_Reinga_Lighthouse), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: DOC confirms high spiritual significance for Māori, panoramic walk and visitor guidance. https://www.newzealand.com/int/cape-reinga/ describes the coastal setting; coordinate represents the lighthouse. [Primary reference](https://www.doc.govt.nz/parks-and-recreation/places-to-go/northland/places/te-paki-recreation-reserve/cape-reinga-te-rerenga-wairua); source excerpts inspected 2026-11-26. Sources support scope and facts, not numerical judgments.
+- Missing or uncertain facts: complete independent corroboration and current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [NZ/waitangi-treaty-grounds](../../../countries/NZ/sights/waitangi-treaty-grounds.yaml) | 8.0 / 8.8 / 9.2 / 8.5 / 8.2 | Stronger documented political history; cape emphasizes sacred landscape. |
+| [US/napali-coast-state-wilderness-park](../../../countries/US/sights/napali-coast-state-wilderness-park.yaml) | 9.4 / 9.2 / 8.8 / 8.9 / 9.0 | Broader and more dramatic coastal wilderness. |
+| [CA/cape-breton-highlands-national-park](../../../countries/CA/sights/cape-breton-highlands-national-park.yaml) | 8.8 / 8.5 / 8.5 / 8.9 / 8.8 | Longer coastal routes, less concentrated spiritual significance. |
+| [AU/rottnest-island](../../../countries/AU/sights/rottnest-island.yaml) | 8.7 / 8.8 / 8.5 / 9.1 / 8.7 | More recreation and wildlife variety. |
+
+Peer dimensions drawn from existing country rankings; full source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Meeting of ocean waters and exposed headland produce memorable impact |
+| Uniqueness | 9.0 | sacred setting and distinctive coastal panorama combine uniquely |
+| Significance | 9.0 | Māori spiritual significance adds substantial cultural importance |
+| Experience | 8.6 | respectful short walk and interpretation reward a focused visit |
+| Depth | 7.8 | bounded headland limits depth. |
+
+- Applicable categories: nature:9.1, photography:9.3, culture:9.2, history:8.8.
+- Computed worldwide overall: 88.20/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-nz-bay-of-islands — Bay of Islands (Northland) — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/bay-of-islands.yaml)
+- Action: new
+- Precise subject: Marine island landscape and permitted public island walks and boat excursions; excludes Waitangi Treaty Grounds, Kerikeri and independent town attractions.
+- Location check: -35.30959, 174.20764; [published representative point](https://mapcarta.com/Bay_of_Islands_R2045304), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Tourism New Zealand documents island walking, camping, boat experiences and maritime scenery; https://www.newzealand.com/int/feature/discover-experiences-in-northland/ identifies Urupukapuka recreation. Coordinate is representative of bay, not boarding point. [Primary reference](https://www.newzealand.com/int/bay-of-islands/); source excerpts inspected 2026-11-26. Sources support scope and facts, not numerical judgments.
+- Missing or uncertain facts: complete independent corroboration and current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [NZ/milford-sound](../../../countries/NZ/sights/milford-sound.yaml) | 9.6 / 9.3 / 8.8 / 9.3 / 8.6 | Milford has greater dramatic landscape impact. |
+| [AU/whitsunday-islands-national-park](../../../countries/AU/sights/whitsunday-islands-national-park.yaml) | 9.1 / 8.8 / 8.6 / 9.0 / 9.0 | Comparable island-based marine experience. |
+| [US/channel-islands-national-park](../../../countries/US/sights/channel-islands-national-park.yaml) | 8.7 / 8.8 / 8.8 / 8.8 / 8.8 | Different protected marine wilderness. |
+| [CA/pacific-rim-national-park-reserve](../../../countries/CA/sights/pacific-rim-national-park-reserve.yaml) | 8.9 / 8.6 / 8.8 / 9.0 / 9.1 | Comparable coastal depth but different terrain. |
+
+Peer dimensions drawn from existing country rankings; full source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Island-studded bay offers high scenic impact |
+| Uniqueness | 8.8 | temperate marine archipelago is distinctive though comparable to others |
+| Significance | 8.6 | ecological and historic landscape importance without inheriting Waitangi |
+| Experience | 9.1 | boat and walking experiences support rewarding visits |
+| Depth | 9.0 | multiple islands provide depth. |
+
+- Applicable categories: nature:9.2, beaches:9.0, photography:9.2, adventure:9.0, relaxation:9.1.
+- Computed worldwide overall: 88.85/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-nz-sky-tower-auckland — Sky Tower (Auckland) — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/sky-tower-auckland.yaml)
+- Action: new
+- Precise subject: Standard observation deck visit; excludes separately ticketed SkyJump, SkyWalk, dining and casino.
+- Location check: -36.84847, 174.76231; [published representative point](https://en.wikipedia.org/wiki/Sky_Tower_%28Auckland%29), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Operator describes access to three observation levels, highest at 220 metres. Tourism NZ confirms viewing experience (https://www.newzealand.com/int/feature/discover-experiences-in-auckland/). [Primary reference](https://skycityauckland.co.nz/sky-tower/admissions/); source excerpts inspected 2026-11-26. Sources support scope and facts, not numerical judgments.
+- Missing or uncertain facts: complete independent corroboration and current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [US/empire-state-building](../../../countries/US/sights/empire-state-building.yaml) | 9.1 / 8.9 / 9.0 / 8.8 / 8.0 | Greater global architectural significance. |
+| [US/space-needle](../../../countries/US/sights/space-needle.yaml) | 8.6 / 8.6 / 8.4 / 8.8 / 7.6 | Comparable observation visit, greater design heritage. |
+| [CA/cn-tower](../../../countries/CA/sights/cn-tower.yaml) | 8.5 / 8.2 / 8.0 / 8.5 / 7.0 | Comparable observation tower. |
+| [HK/victoria-peak](../../../countries/HK/sights/victoria-peak.yaml) | 8.8 / 8.7 / 8.0 / 9.5 / 8.6 | More varied outdoor viewpoint and surrounding routes. |
+
+Peer dimensions drawn from existing country rankings; full source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Elevated harbour and city views offer strong impact |
+| Uniqueness | 8.3 | recognizable tower but many comparable examples |
+| Significance | 7.9 | regional architectural and civic significance |
+| Experience | 8.8 | several decks provide rewarding views |
+| Depth | 7.4 | relatively focused observation experience limits depth. |
+
+- Applicable categories: photography:9.0, architecture:8.7, family:8.7.
+- Computed worldwide overall: 82.95/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-nz-arthurs-pass-national-park — Arthur's Pass National Park — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/arthurs-pass-national-park.yaml)
+- Action: new
+- Precise subject: Park's accessible alpine terrain and tracks, excluding unrelated rail journeys.
+- Location check: -42.95, 171.5833; [published representative point](https://mapcarta.com/Arthur%27s_Pass_National_Park), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: DOC describes waterfalls, alpine vegetation, glacier-fed rivers and routes such as Avalanche Peak; alpine conditions require preparation. [Primary reference](https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/arthurs-pass-national-park); source excerpts inspected 2026-11-26. Sources support scope and facts, not numerical judgments.
+- Missing or uncertain facts: independent corroboration and current access to individual areas.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [NZ/aoraki-mount-cook-national-park](../../../countries/NZ/sights/aoraki-mount-cook-national-park.yaml) | 9.4 / 9.0 / 8.9 / 9.1 / 9.1 | Greater high-alpine spectacle. |
+| [NZ/mount-aspiring-national-park](../../../countries/NZ/sights/mount-aspiring-national-park.yaml) | 9.0 / 8.7 / 8.7 / 8.8 / 9.0 | Comparable alpine wilderness; different access corridors. |
+| [US/rocky-mountain-national-park](../../../countries/US/sights/rocky-mountain-national-park.yaml) | 9.1 / 8.5 / 8.7 / 9.1 / 9.0 | Comparable mountain trails, larger documented visitor infrastructure. |
+| [CA/pacific-rim-national-park-reserve](../../../countries/CA/sights/pacific-rim-national-park-reserve.yaml) | 8.9 / 8.6 / 8.8 / 9.0 / 9.1 | Different coastal scenery and comparable trail depth. |
+
+Peer links and dimensions matched to current country ranking rows; full YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Dramatic alpine terrain |
+| Uniqueness | 8.8 | distinctive crossing of Southern Alps with comparable mountain parks elsewhere |
+| Significance | 8.7 | protected alpine ecology |
+| Experience | 8.9 | diverse permitted walks with weather constraints |
+| Depth | 9.1 | long and short routes give breadth. |
+
+- Applicable categories: nature:9.3, adventure:9.2, photography:9.2.
+- Computed worldwide overall: 89.15/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-nz-nelson-lakes-national-park — Nelson Lakes National Park — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/nelson-lakes-national-park.yaml)
+- Action: new
+- Precise subject: Protected alpine lake landscapes and permitted trails; excludes surrounding settlements.
+- Location check: -41.81917, 172.8375; [published representative point](https://en.wikipedia.org/wiki/Nelson_Lakes_National_Park), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: DOC lists lakeside walks, Lake Angelus routes and Blue Lake Hut; observe local access and environmental rules. [Primary reference](https://www.doc.govt.nz/parks-and-recreation/places-to-go/nelson-tasman/places/nelson-lakes-national-park/); source excerpts inspected 2026-11-26. Sources support scope and facts, not numerical judgments.
+- Missing or uncertain facts: independent corroboration and current access to individual areas.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [NZ/aoraki-mount-cook-national-park](../../../countries/NZ/sights/aoraki-mount-cook-national-park.yaml) | 9.4 / 9.0 / 8.9 / 9.1 / 9.1 | Higher peaks and glacial spectacle. |
+| [US/grand-teton-national-park](../../../countries/US/sights/grand-teton-national-park.yaml) | 9.3 / 8.8 / 8.7 / 9.1 / 9.1 | More dramatic mountain skyline. |
+| [CA/pacific-rim-national-park-reserve](../../../countries/CA/sights/pacific-rim-national-park-reserve.yaml) | 8.9 / 8.6 / 8.8 / 9.0 / 9.1 | Comparable trail variety, coastal rather than alpine. |
+| [NZ/abel-tasman-national-park](../../../countries/NZ/sights/abel-tasman-national-park.yaml) | 8.9 / 8.6 / 8.1 / 9.1 / 8.9 | Coastal recreation rather than mountain lakes. |
+
+Peer links and dimensions matched to current country ranking rows; full YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Alpine lakes and peaks give scenic impact |
+| Uniqueness | 8.7 | lake and mountain combination distinctive but not globally singular |
+| Significance | 8.6 | protected ecosystem importance |
+| Experience | 8.9 | range of walks provides meaningful visits |
+| Depth | 9.1 | multi-day routes support depth. |
+
+- Applicable categories: nature:9.2, adventure:9.1, photography:9.1.
+- Computed worldwide overall: 88.10/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-nz-paparoa-national-park — Paparoa National Park — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/paparoa-national-park.yaml)
+- Action: new
+- Precise subject: Park's inland forest, limestone and permitted mountain routes; excludes separately ranked Pancake Rocks experience.
+- Location check: -42.0946, 171.45; [published representative point](https://mapcarta.com/Paparoa_National_Park), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: DOC identifies limestone outcrops, forest and subalpine tracks, and permit-only cave areas. Paparoa Track provides multi-day walking and cycling (https://www.doc.govt.nz/paparoatrack). [Primary reference](https://www.doc.govt.nz/parks-and-recreation/places-to-go/west-coast/places/paparoa-national-park); source excerpts inspected 2026-11-26. Sources support scope and facts, not numerical judgments.
+- Missing or uncertain facts: independent corroboration and current access to individual areas.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [NZ/pancake-rocks](../../../countries/NZ/sights/pancake-rocks.yaml) | 9.0 / 9.0 / 8.1 / 8.9 / 7.5 | Distinct concentrated coastal formation already ranked. |
+| [US/canyonlands-national-park](../../../countries/US/sights/canyonlands-national-park.yaml) | 9.2 / 9.0 / 8.5 / 8.8 / 9.1 | Greater dry canyon spectacle and different geology. |
+| [CA/pacific-rim-national-park-reserve](../../../countries/CA/sights/pacific-rim-national-park-reserve.yaml) | 8.9 / 8.6 / 8.8 / 9.0 / 9.1 | Comparable forest and coastal access. |
+| [NZ/kahurangi-farewell-spit-canaan](../../../countries/NZ/sights/kahurangi-farewell-spit-canaan.yaml) | 8.8 / 8.9 / 9.0 / 8.5 / 9.0 | Wider regional karst ensemble. |
+
+Peer links and dimensions matched to current country ranking rows; full YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Limestone and forest scenery gives impact |
+| Uniqueness | 9.0 | unusual coastal-range karst combination |
+| Significance | 8.8 | important protected ecosystems |
+| Experience | 8.8 | varied legal routes with restricted cave access |
+| Depth | 9.0 | multi-day track and other walks support depth. |
+
+- Applicable categories: nature:9.2, adventure:9.1, photography:9.1.
+- Computed worldwide overall: 89.00/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-nz-whanganui-national-park — Whanganui National Park — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/whanganui-national-park.yaml)
+- Action: new
+- Precise subject: Park's protected forest and authorized river journey experiences within its visitor scope; does not claim the entire river basin.
+- Location check: -39.313889, 174.968333; [published representative point](https://www.backpack-newzealand.com/maps/all/whanganui-national-park-map-10236.php), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: DOC identifies Atene Viewpoint Walk and guided river canoeing; Whanganui Journey is a multi-day paddling experience. Coordinate is a representative park point. [Primary reference](https://www.doc.govt.nz/parks-and-recreation/places-to-go/manawatu-whanganui/places/whanganui-national-park); source excerpts inspected 2026-11-26. Sources support scope and facts, not numerical judgments.
+- Missing or uncertain facts: independent corroboration and current access to individual areas.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [NZ/rakiura-national-park](../../../countries/NZ/sights/rakiura-national-park.yaml) | 9.0 / 9.0 / 8.9 / 8.7 / 9.1 | Remote coastal forest rather than river journey. |
+| [CA/pacific-rim-national-park-reserve](../../../countries/CA/sights/pacific-rim-national-park-reserve.yaml) | 8.9 / 8.6 / 8.8 / 9.0 / 9.1 | Comparable forest trails, different coastal terrain. |
+| [US/canyonlands-national-park](../../../countries/US/sights/canyonlands-national-park.yaml) | 9.2 / 9.0 / 8.5 / 8.8 / 9.1 | Greater canyon scale and distinct desert landscapes. |
+| [NZ/abel-tasman-national-park](../../../countries/NZ/sights/abel-tasman-national-park.yaml) | 8.9 / 8.6 / 8.1 / 9.1 / 8.9 | Coastal paddling and walking rather than inland river. |
+
+Peer links and dimensions matched to current country ranking rows; full YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Forest-clad river valley creates scenic impact |
+| Uniqueness | 9.0 | long river journey and forest setting distinguish the experience |
+| Significance | 8.9 | significant native forest and cultural landscape |
+| Experience | 8.9 | permitted paddling and walking reward prepared visitors |
+| Depth | 9.1 | multi-day river routes offer substantial depth. |
+
+- Applicable categories: nature:9.1, adventure:9.2, culture:8.8, photography:8.9.
+- Computed worldwide overall: 88.85/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-nz-te-papa-kura-o-taranaki — Te Papa-Kura-o-Taranaki (formerly Egmont National Park) — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/te-papa-kura-o-taranaki.yaml)
+- Action: new
+- Precise subject: Protected Taranaki mountain landscape and permitted forest and alpine walks; respects tikanga and does not presume summit access.
+- Location check: -39.3, 174.0667; [published representative point](https://mapcarta.com/Egmont_National_Park), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: DOC documents forest routes and viewpoints; legal renaming confirmed in National Parks Act (https://www.legislation.govt.nz/act/public/1980/66/en/latest/sections/DLM37901/). [Primary reference](https://www.doc.govt.nz/parks-and-recreation/places-to-go/taranaki/places/te-papa-kura-o-taranaki/); source excerpts inspected 2026-11-26. Sources support scope and facts, not numerical judgments.
+- Missing or uncertain facts: independent corroboration and current access to individual areas.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [NZ/tongariro-national-park](../../../countries/NZ/sights/tongariro-national-park.yaml) | 9.3 / 9.2 / 9.4 / 9.1 / 9.0 | Greater volcanic landscape breadth and dual heritage. |
+| [US/hawaii-volcanoes-national-park](../../../countries/US/sights/hawaii-volcanoes-national-park.yaml) | 9.2 / 9.5 / 9.5 / 8.9 / 9.0 | More distinctive active volcanic geology. |
+| [NZ/aoraki-mount-cook-national-park](../../../countries/NZ/sights/aoraki-mount-cook-national-park.yaml) | 9.4 / 9.0 / 8.9 / 9.1 / 9.1 | Greater high-alpine scale. |
+| [US/mount-rainier-national-park](../../../countries/US/sights/mount-rainier-national-park.yaml) | 9.2 / 8.7 / 8.8 / 9.1 / 9.1 | Comparable prominent volcanic mountain and forest. |
+
+Peer links and dimensions matched to current country ranking rows; full YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Volcanic cone and forest create exceptional scenery |
+| Uniqueness | 9.1 | isolated mountain and distinctive cultural landscape |
+| Significance | 9.1 | sacred mountain and protected ecology support significance |
+| Experience | 8.8 | forest and alpine routes offer rewarding visits with restrictions |
+| Depth | 9.0 | extensive trails support depth. |
+
+- Applicable categories: nature:9.3, photography:9.4, adventure:9.1, culture:9.1.
+- Computed worldwide overall: 90.75/100.
+- High-score challenge: The distinctive volcanic and cultural landscape justifies the high assessment; Tongariro and Hawaiʻi Volcanoes have stronger broad heritage or geological scope. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-nz-huka-falls — Huka Falls — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/huka-falls.yaml)
+- Action: new
+- Precise subject: Waterfall and public lookout route; excludes Lake Taupō, independent boat tours and nearby commercial sites.
+- Location check: -38.64875, 176.08992; [published representative point](https://mapcarta.com/16725034), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: DOC confirms lookout walk and Tourism New Zealand describes the narrowing of Waikato River (https://www.newzealand.com/int/feature/huka-falls/). [Primary reference](https://www.doc.govt.nz/parks-and-recreation/places-to-go/central-north-island/places/taupo-area/things-to-do/huka-falls-lookout-walk/); source excerpts inspected 2026-11-26. Sources support scope and facts, not numerical judgments.
+- Missing or uncertain facts: independent corroboration and current access to individual areas.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [US/niagara-falls-state-park](../../../countries/US/sights/niagara-falls-state-park.yaml) | 9.4 / 9.0 / 8.8 / 9.2 / 8.8 | Far greater waterfall scale and visitor breadth. |
+| [NZ/okere-falls-track](../../../countries/NZ/sights/okere-falls-track.yaml) | 8.2 / 8.0 / 7.9 / 8.6 / 7.8 | Comparable river feature; Huka has stronger concentrated visual impact. |
+| [NZ/pancake-rocks](../../../countries/NZ/sights/pancake-rocks.yaml) | 9.0 / 9.0 / 8.1 / 8.9 / 7.5 | Different natural water spectacle and coastal geology. |
+| [CA/cape-breton-highlands-national-park](../../../countries/CA/sights/cape-breton-highlands-national-park.yaml) | 8.8 / 8.5 / 8.5 / 8.9 / 8.8 | Wider landscape and trail breadth. |
+
+Peer links and dimensions matched to current country ranking rows; full YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Turbulent turquoise water creates striking impact |
+| Uniqueness | 8.6 | distinctive narrow river gorge but other waterfalls are comparable |
+| Significance | 7.9 | localized hydrological feature |
+| Experience | 8.7 | accessible scenic viewpoints reward a short visit |
+| Depth | 7.4 | limited single-feature depth. |
+
+- Applicable categories: nature:8.9, photography:9.1.
+- Computed worldwide overall: 84.15/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-nz-auckland-art-gallery — Auckland Art Gallery Toi o Tāmaki — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/auckland-art-gallery.yaml)
+- Action: new
+- Precise subject: Main public art gallery and its accessible exhibitions, excluding Albert Park and other institutions.
+- Location check: -36.85128, 174.76637; [published representative point](https://mapcarta.com/W154430110), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Gallery describes four floors of exhibition space, including New Zealand, Māori and Pacific art. Displays rotate. [Primary reference](https://www.aucklandartgallery.com/visit/plan-your-visit); source excerpts inspected 2026-11-26. Sources support scope and facts, not numerical judgments.
+- Missing or uncertain facts: independent corroboration and current access to individual areas.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [NZ/te-papa](../../../countries/NZ/sights/te-papa.yaml) | 8.8 / 9.1 / 9.2 / 9.3 / 9.4 | Broader national cultural and natural history. |
+| [AU/ngv-international](../../../countries/AU/sights/ngv-international.yaml) | 8.9 / 8.9 / 9.0 / 9.1 / 9.1 | Larger international art scope. |
+| [CA/art-gallery-of-ontario](../../../countries/CA/sights/art-gallery-of-ontario.yaml) | 8.9 / 9.0 / 9.1 / 9.1 / 9.2 | Comparable national and Indigenous art emphasis. |
+| [NZ/auckland-war-memorial-museum](../../../countries/NZ/sights/auckland-war-memorial-museum.yaml) | 8.7 / 8.9 / 9.1 / 8.7 / 9.0 | Different cultural history and memorial focus. |
+
+Peer links and dimensions matched to current country ranking rows; full YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Substantial art and architecture offer impact |
+| Uniqueness | 8.8 | Māori and Pacific collection focus distinguishes it |
+| Significance | 8.9 | important national artistic holdings |
+| Experience | 8.9 | galleries provide rewarding interpretation |
+| Depth | 9.0 | four exhibition floors support depth. |
+
+- Applicable categories: culture:9.2, history:8.8, architecture:8.8.
+- Computed worldwide overall: 87.95/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-nz-tuhura-otago-museum — Tūhura Otago Museum — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/tuhura-otago-museum.yaml)
+- Action: new
+- Precise subject: Main museum's seven permanent galleries; separately priced science centre and planetarium not assumed included.
+- Location check: -45.8656778, 170.5108417; [published representative point](https://en.wikipedia.org/wiki/T%C5%ABhura_Otago_Museum), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Museum describes seven galleries on four floors, including Animal Attic; official Dunedin tourism corroborates science and cultural scope (https://www.dunedinnz.com/visit/see-and-do/tours/activities/otago-museum). [Primary reference](https://tuhura.nz/visit/galleries); source excerpts inspected 2026-11-26. Sources support scope and facts, not numerical judgments.
+- Missing or uncertain facts: independent corroboration and current access to individual areas.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [NZ/te-papa](../../../countries/NZ/sights/te-papa.yaml) | 8.8 / 9.1 / 9.2 / 9.3 / 9.4 | Greater national collection breadth. |
+| [CA/royal-ontario-museum](../../../countries/CA/sights/royal-ontario-museum.yaml) | 9.1 / 9.1 / 9.2 / 9.2 / 9.4 | Much larger encyclopedic scale. |
+| [GB/natural-history-museum](../../../countries/GB/sights/natural-history-museum.yaml) | 9.2 / 9.1 / 9.3 / 9.3 / 9.3 | Greater scientific collection breadth. |
+| [NZ/auckland-war-memorial-museum](../../../countries/NZ/sights/auckland-war-memorial-museum.yaml) | 8.7 / 8.9 / 9.1 / 8.7 / 9.0 | Larger national cultural and architectural focus. |
+
+Peer links and dimensions matched to current country ranking rows; full YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.4 | Natural and cultural objects give substantial impact |
+| Uniqueness | 8.7 | Victorian display and regional Pacific collection focus add identity |
+| Significance | 8.7 | important regional and national holdings |
+| Experience | 8.8 | varied permanent exhibits reward visitors |
+| Depth | 8.9 | seven galleries support depth. |
+
+- Applicable categories: nature:8.9, culture:8.9, history:8.8, family:9.0.
+- Computed worldwide overall: 86.45/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-nz-international-antarctic-centre — International Antarctic Centre (Christchurch) — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/international-antarctic-centre.yaml)
+- Action: new
+- Precise subject: Standard public Antarctic interpretation experiences, not actual Antarctic travel or nonpublic research facilities.
+- Location check: -43.48861, 172.54694; [published representative point](https://en.wikipedia.org/wiki/International_Antarctic_Centre), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Operator lists storm simulation, science gallery, immersive film and penguin exhibits in general admission. No independent animal welfare judgment or significance inherited from Antarctica. [Primary reference](https://www.iceberg.co.nz/our-zones/); source excerpts inspected 2026-11-26. Sources support scope and facts, not numerical judgments.
+- Missing or uncertain facts: independent corroboration and current access to individual areas.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [NZ/te-papa](../../../countries/NZ/sights/te-papa.yaml) | 8.8 / 9.1 / 9.2 / 9.3 / 9.4 | Greater original national collection and significance. |
+| [US/kennedy-space-center-visitor-complex](../../../countries/US/sights/kennedy-space-center-visitor-complex.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.3 | Greater original scientific and historical heritage. |
+| [SG/lee-kong-chian-natural-history-museum](../../../countries/SG/sights/lee-kong-chian-natural-history-museum.yaml) | 8.3 / 8.3 / 8.5 / 8.5 / 8.4 | Different specimen-based science interpretation. |
+| [NZ/auckland-war-memorial-museum](../../../countries/NZ/sights/auckland-war-memorial-museum.yaml) | 8.7 / 8.9 / 9.1 / 8.7 / 9.0 | Greater original cultural-historical collection. |
+
+Peer links and dimensions matched to current country ranking rows; full YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.4 | Immersive polar interpretation creates memorable impact |
+| Uniqueness | 8.8 | combination of simulated polar environment and gateway-city context distinguishes it |
+| Significance | 8.0 | educational facility does not inherit the continent's significance |
+| Experience | 8.9 | varied standard experiences reward visitors |
+| Depth | 8.4 | several bounded exhibits support a few hours. |
+
+- Applicable categories: family:9.1, culture:8.6, nature:8.3.
+- Computed worldwide overall: 84.95/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-nz-lake-tekapo — Lake Tekapo / Takapō — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/lake-tekapo.yaml)
+- Action: new
+- Precise subject: Lake and publicly accessible shoreline scenery; excludes town, separately ticketed observatories, and Aoraki / Mount Cook National Park.
+- Location check: -43.883, 170.517; [published representative point](https://en.wikipedia.org/wiki/Lake_Tekapo), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Tourism New Zealand describes turquoise water and surrounding mountains. Coordinate is the named lake's published representative point, not a road-access point. [Primary reference](https://www.newzealand.com/int/lake-tekapo/); source excerpts inspected 2026-11-26. Sources support scope and facts, not numerical judgments.
+- Missing or uncertain facts: current access, seasonal conditions and independent corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [NZ/nelson-lakes-national-park](../../../countries/NZ/sights/nelson-lakes-national-park.yaml) | 8.9 / 8.7 / 8.6 / 8.9 / 9.1 | More extensive mountain trails and protected terrain. |
+| [NZ/aoraki-mount-cook-national-park](../../../countries/NZ/sights/aoraki-mount-cook-national-park.yaml) | 9.4 / 9.0 / 8.9 / 9.1 / 9.1 | Greater alpine and glacial scale. |
+| [CA/pacific-rim-national-park-reserve](../../../countries/CA/sights/pacific-rim-national-park-reserve.yaml) | 8.9 / 8.6 / 8.8 / 9.0 / 9.1 | Different coastal forest setting, broader trail variety. |
+| [AU/whitsunday-islands-national-park](../../../countries/AU/sights/whitsunday-islands-national-park.yaml) | 9.1 / 8.8 / 8.6 / 9.0 / 9.0 | Different marine landscape and broader island recreation. |
+
+Peer links and dimensions matched to current country ranking rows; full YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Turquoise water and mountain backdrop produce strong visual impact |
+| Uniqueness | 8.7 | glacial lake landscape is distinctive but has international analogues |
+| Significance | 8.2 | natural significance is bounded to this lake |
+| Experience | 8.9 | shoreline views and lake recreation offer meaningful visits |
+| Depth | 8.5 | varied shore scenery provides moderate depth. |
+
+- Applicable categories: nature:9.1, photography:9.3, relaxation:9.1.
+- Computed worldwide overall: 87.00/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-nz-fox-glacier — Fox Glacier / Te Moeka o Tuawe — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/fox-glacier.yaml)
+- Action: new
+- Precise subject: Named glacier and authorized viewing routes; nested in Westland Tai Poutini National Park; excludes Franz Josef Glacier and the broader park. No glacier-surface access assumed.
+- Location check: -43.502, 170.081; [published representative point](https://en.wikipedia.org/wiki/Fox_Glacier), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: DOC identifies the glacier and forested access setting; its South Side Walkway page documents glacier viewpoints and cultural significance (https://www.doc.govt.nz/parks-and-recreation/places-to-go/west-coast/places/westland-tai-poutini-national-park/things-to-do/tracks/fox-glacier-south-side-walk/). Weather and changing glacial conditions constrain access. [Primary reference](https://www.doc.govt.nz/parks-and-recreation/places-to-go/west-coast/places/westland-tai-poutini-national-park/fox-glacier-area/); source excerpts inspected 2026-11-26. Sources support scope and facts, not numerical judgments.
+- Missing or uncertain facts: current access, seasonal conditions and independent corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [NZ/franz-josef-glacier](../../../countries/NZ/sights/franz-josef-glacier.yaml) | 8.9 / 8.7 / 8.4 / 8.3 / 7.9 | Closest comparable glacier experience; separate valleys and viewing routes. |
+| [NZ/westland-tai-poutini-national-park](../../../countries/NZ/sights/westland-tai-poutini-national-park.yaml) | 9.0 / 8.9 / 8.9 / 8.7 / 8.9 | Broader protected landscape and trail scope. |
+| [US/kenai-fjords-national-park](../../../countries/US/sights/kenai-fjords-national-park.yaml) | 9.2 / 8.9 / 8.8 / 9.0 / 8.9 | Greater combined glacier and marine wildlife breadth. |
+| [CA/pacific-rim-national-park-reserve](../../../countries/CA/sights/pacific-rim-national-park-reserve.yaml) | 8.9 / 8.6 / 8.8 / 9.0 / 9.1 | Different forest and marine landscape with broader trails. |
+
+Peer links and dimensions matched to current country ranking rows; full YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Glacial valley and forest setting offer striking scenery |
+| Uniqueness | 8.8 | unusual accessible temperate glacial landscape but comparable to nearby Franz Josef |
+| Significance | 8.5 | important glaciological and cultural interest without inherited UNESCO-wide significance |
+| Experience | 8.4 | legal viewpoints reward visits but visibility varies |
+| Depth | 7.9 | focused glacier viewpoints limit depth. |
+
+- Applicable categories: nature:9.1, photography:9.0, adventure:8.8.
+- Computed worldwide overall: 86.20/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-nz-lake-taupo — Lake Taupō / Taupomoana — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/lake-taupo.yaml)
+- Action: new
+- Precise subject: Named lake, accessible shores and standard permitted water recreation, including viewing the Mine Bay carvings as part of the lake experience. Excludes Taupō town, Huka Falls and Tongariro National Park.
+- Location check: -38.81667, 175.91667; [published representative point](https://www.geonames.org/2181740/lake-taupo.html), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Regional tourism documents boating, paddling and the Mine Bay Māori carvings (https://www.lovetaupo.com/en/see-do/art-maori-culture/mine-bay-maori-rock-carvings/). World Lake Database identifies the country's largest lake (https://wldb.ilec.or.jp/Display/html/3398). [Primary reference](https://www.lovetaupo.com/en/discover/highlights/lake-taupo/); source excerpts inspected 2026-11-26. Sources support scope and facts, not numerical judgments.
+- Missing or uncertain facts: current access, seasonal conditions and independent corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [NZ/bay-of-islands](../../../countries/NZ/sights/bay-of-islands.yaml) | 9.0 / 8.8 / 8.6 / 9.1 / 9.0 | Comparable aquatic recreation, coastal archipelago rather than inland lake. |
+| [NZ/nelson-lakes-national-park](../../../countries/NZ/sights/nelson-lakes-national-park.yaml) | 8.9 / 8.7 / 8.6 / 8.9 / 9.1 | More protected alpine terrain and hiking. |
+| [US/crater-lake-national-park](../../../countries/US/sights/crater-lake-national-park.yaml) | 9.1 / 8.9 / 8.7 / 8.8 / 8.4 | More concentrated volcanic crater scenery. |
+| [AU/whitsunday-islands-national-park](../../../countries/AU/sights/whitsunday-islands-national-park.yaml) | 9.1 / 8.8 / 8.6 / 9.0 / 9.0 | Greater tropical coastal and island variety. |
+
+Peer links and dimensions matched to current country ranking rows; full YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Wide water and volcanic backdrop create strong impact |
+| Uniqueness | 8.9 | large volcanic lake and cultural waterfront features are distinctive |
+| Significance | 9.0 | geological and cultural significance exceeds a typical recreational lake |
+| Experience | 9.0 | varied shore and water activities reward visits |
+| Depth | 9.0 | large shoreline supports extended exploration. |
+
+- Applicable categories: nature:9.2, photography:9.0, adventure:9.0, relaxation:9.1, culture:8.7.
+- Computed worldwide overall: 89.45/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-nz-waiheke-island — Waiheke Island — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/waiheke-island.yaml)
+- Action: new
+- Precise subject: Public coastal landscape, beaches, walks and local food experiences; excludes Auckland city and separate paid venues. No single commercial operator required.
+- Location check: -36.8, 175.1; [published representative point](https://en.wikipedia.org/wiki/Waiheke_Island), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Auckland's tourism authority documents beaches, coastal trails, vineyards and local food venues. The island coordinate is a representative point, not a ferry terminal. [Primary reference](https://www.aucklandnz.com/explore/waiheke-island); source excerpts inspected 2026-11-26. Sources support scope and facts, not numerical judgments.
+- Missing or uncertain facts: current access, seasonal conditions and independent corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [AU/rottnest-island](../../../countries/AU/sights/rottnest-island.yaml) | 8.7 / 8.8 / 8.5 / 9.1 / 8.7 | More distinctive wildlife, comparable island recreation. |
+| [NZ/bay-of-islands](../../../countries/NZ/sights/bay-of-islands.yaml) | 9.0 / 8.8 / 8.6 / 9.1 / 9.0 | Broader archipelago and water exploration. |
+| [CA/stanley-park](../../../countries/CA/sights/stanley-park.yaml) | 8.4 / 8.1 / 7.8 / 8.8 / 8.4 | Smaller urban recreation landscape. |
+| [AU/whitsunday-islands-national-park](../../../countries/AU/sights/whitsunday-islands-national-park.yaml) | 9.1 / 8.8 / 8.6 / 9.0 / 9.0 | Greater tropical island natural spectacle. |
+
+Peer links and dimensions matched to current country ranking rows; full YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Coastal landscape and vineyard scenery are attractive |
+| Uniqueness | 8.5 | distinctive combination of island walks and food culture but comparable destinations exist |
+| Significance | 7.8 | regional recreational and cultural value |
+| Experience | 9.0 | diverse beaches and local experiences support a rewarding visit |
+| Depth | 8.9 | several coastal areas provide considerable depth. |
+
+- Applicable categories: nature:8.8, beaches:8.9, relaxation:9.2, photography:8.9, food:8.8.
+- Computed worldwide overall: 85.05/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-nz-catlins-coastal-area — The Catlins Coastal Area — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/catlins-coastal-area.yaml)
+- Action: new
+- Precise subject: DOC-defined Catlins coastal landscape, including accessible forest, headland walks and Curio Bay fossil-forest viewing; representative map point at Nugget Point, not the entire area's centroid. No wildlife encounter guaranteed.
+- Location check: -46.44924, 169.818; [published representative point](https://mapcarta.com/16717568), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: DOC documents forest, estuaries, fossil forest and marine wildlife at Curio Bay (https://www.doc.govt.nz/parks-and-recreation/places-to-go/southland/places/curio-bay-porpoise-bay/) and coastal views from Nugget Point (https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/catlins-coastal-area/things-to-do/nugget-point-tokata-walks/). [Primary reference](https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/catlins-coastal-area/); source excerpts inspected 2026-11-26. Sources support scope and facts, not numerical judgments.
+- Missing or uncertain facts: current access, seasonal conditions and independent corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [NZ/rakiura-national-park](../../../countries/NZ/sights/rakiura-national-park.yaml) | 9.0 / 9.0 / 8.9 / 8.7 / 9.1 | More remote island wilderness and long trails. |
+| [NZ/paparoa-national-park](../../../countries/NZ/sights/paparoa-national-park.yaml) | 8.9 / 9.0 / 8.8 / 8.8 / 9.0 | Distinct limestone terrain and coastal forest. |
+| [CA/pacific-rim-national-park-reserve](../../../countries/CA/sights/pacific-rim-national-park-reserve.yaml) | 8.9 / 8.6 / 8.8 / 9.0 / 9.1 | Comparable temperate coastal forest and wildlife experiences. |
+| [US/channel-islands-national-park](../../../countries/US/sights/channel-islands-national-park.yaml) | 8.7 / 8.8 / 8.8 / 8.8 / 8.8 | Different island ecosystem and marine scope. |
+
+Peer links and dimensions matched to current country ranking rows; full YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Wild coastline and native forest create strong landscape impact |
+| Uniqueness | 8.9 | combination of fossil forest and marine wildlife is distinctive |
+| Significance | 8.8 | geological and ecological relevance supports significance without global-superlative claims |
+| Experience | 8.8 | varied permitted walks and viewing opportunities reward visits |
+| Depth | 9.0 | multiple coastal features support extended exploration. |
+
+- Applicable categories: nature:9.3, wildlife:9.1, photography:9.3, adventure:8.8.
+- Computed worldwide overall: 89.05/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-nz-milford-track — Milford Track Multi-Day Fiordland Trek — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/milford-track.yaml)
+- Action: new
+- Scope: End-to-end Great Walk through Clinton Valley and Mackinnon Pass, distinct from Milford Sound cruise; park and World Heritage parent overlap flagged.
+- Representative coordinates: -44.8, 167.8; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.4 / 9.3 / 9.1 / 9.3 / 9.4.
+- Categories: nature:9.4 photography:9.4 adventure:9.4.
+- Overall: 93.00/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.doc.govt.nz/milfordtrack, https://www.doc.govt.nz/parks-and-recreation/things-to-do/walking-and-tramping/great-walks/compare-great-walks/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/milford-sound](../../../countries/NZ/sights/milford-sound.yaml) | 9.6 / 9.3 / 8.8 / 9.3 / 8.6 | depth: +0.8 vs peer; significance: +0.3 vs peer |
+| [NZ/fiordland-national-park](../../../countries/NZ/sights/fiordland-national-park.yaml) | 9.5 / 9.3 / 9.3 / 9.2 / 9.4 | significance: -0.2 vs peer; impact: -0.1 vs peer |
+| [AU/overland-track](../../../countries/AU/sights/overland-track.yaml) | 9.2 / 9.2 / 8.9 / 9.2 / 9.4 | impact: +0.2 vs peer; significance: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-poor-knights-diving — Poor Knights Islands Marine Reserve Diving and Snorkelling — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/poor-knights-diving.yaml)
+- Action: new
+- Scope: Boat-access temperate marine reserve, underwater arches and biodiversity; no island landing or guaranteed wildlife assumed.
+- Representative coordinates: -35.47, 174.73; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.4 / 9.2 / 9.2 / 9.1.
+- Categories: nature:9.4 wildlife:9.4 adventure:9.4.
+- Overall: 92.70/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.doc.govt.nz/parks-and-recreation/places-to-go/northland/places/poor-knights-islands-marine-reserve/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/kaikoura-marine-wildlife-watching](../../../countries/NZ/sights/kaikoura-marine-wildlife-watching.yaml) | 9.0 / 9.2 / 8.8 / 8.9 / 8.5 | depth: +0.6 vs peer; significance: +0.4 vs peer |
+| [NZ/fiordland-waters-seabed](../../../countries/NZ/sights/fiordland-waters-seabed.yaml) | 8.7 / 9.0 / 9.1 / 8.6 / 8.8 | impact: +0.6 vs peer; experience: +0.6 vs peer |
+| [AU/yongala-wreck-dive](../../../countries/AU/sights/yongala-wreck-dive.yaml) | 9.3 / 9.4 / 9.2 / 9.2 / 9.1 | impact: +0.0 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-routeburn-track — Routeburn Track Multi-Day Alpine Trek — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/routeburn-track.yaml)
+- Action: new
+- Scope: End-to-end route across Fiordland and Mount Aspiring, excludes unrelated day walks; park parent overlap flagged.
+- Representative coordinates: -44.73, 168.19; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.1 / 8.9 / 9.2 / 9.2.
+- Categories: nature:9.4 photography:9.4 adventure:9.4.
+- Overall: 91.45/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.doc.govt.nz/routeburntrack, https://www.doc.govt.nz/parks-and-recreation/things-to-do/walking-and-tramping/great-walks/compare-great-walks/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/mount-aspiring-national-park](../../../countries/NZ/sights/mount-aspiring-national-park.yaml) | 9.0 / 8.7 / 8.7 / 8.8 / 9.0 | uniqueness: +0.4 vs peer; experience: +0.4 vs peer |
+| [NZ/fiordland-national-park](../../../countries/NZ/sights/fiordland-national-park.yaml) | 9.5 / 9.3 / 9.3 / 9.2 / 9.4 | significance: -0.4 vs peer; impact: -0.2 vs peer |
+| [AU/three-capes-track](../../../countries/AU/sights/three-capes-track.yaml) | 9.2 / 9.1 / 8.7 / 9.3 / 9.1 | significance: +0.2 vs peer; impact: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-mount-john-stargazing — Aoraki Mackenzie Dark Sky Reserve Mount John Observatory Stargazing — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/mount-john-stargazing.yaml)
+- Action: new
+- Scope: Dedicated guided night-sky telescope experience, explicitly excluded from existing Lake Tekapo shoreline scope; no guaranteed clear skies.
+- Representative coordinates: -43.986, 170.465; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.1 / 9.2 / 9.1.
+- Categories: nature:9.3 photography:9.4 culture:9.1.
+- Overall: 91.65/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://darksky.org/places/aoraki-mackenzie-dark-sky-reserve/, https://www.darkskyproject.co.nz/experiences/the-summit-experience/, https://spcs.canterbury.ac.nz/mjo/visitors.html.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/lake-tekapo](../../../countries/NZ/sights/lake-tekapo.yaml) | 9.0 / 8.7 / 8.2 / 8.9 / 8.5 | significance: +0.9 vs peer; uniqueness: +0.6 vs peer |
+| [NZ/aoraki-mount-cook-national-park](../../../countries/NZ/sights/aoraki-mount-cook-national-park.yaml) | 9.4 / 9.0 / 8.9 / 9.1 / 9.1 | impact: -0.3 vs peer; uniqueness: +0.3 vs peer |
+| [AU/warrumbungle-dark-sky](../../../countries/AU/sights/warrumbungle-dark-sky.yaml) | 9.1 / 9.2 / 9.0 / 9.1 / 9.1 | uniqueness: +0.1 vs peer; significance: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-tranzalpine — TranzAlpine Scenic Railway Christchurch to Greymouth — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/tranzalpine.yaml)
+- Action: new
+- Scope: Full established rail journey across Southern Alps, distinct from Arthur's Pass hiking; service disruptions excluded from intrinsic assessment.
+- Representative coordinates: -43, 171.57; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.1 / 8.9 / 9.2 / 9.1.
+- Categories: nature:9.3 photography:9.4 history:9.1.
+- Overall: 91.05/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.greatjourneysnz.com/routes/tranzalpine/, https://www.greatjourneysnz.com/about/contact-us/service-updates/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/arthurs-pass-national-park](../../../countries/NZ/sights/arthurs-pass-national-park.yaml) | 9.1 / 8.8 / 8.7 / 8.9 / 9.1 | uniqueness: +0.3 vs peer; experience: +0.3 vs peer |
+| [NZ/aoraki-mount-cook-national-park](../../../countries/NZ/sights/aoraki-mount-cook-national-park.yaml) | 9.4 / 9.0 / 8.9 / 9.1 / 9.1 | impact: -0.2 vs peer; uniqueness: +0.1 vs peer |
+| [AU/ghan-rail](../../../countries/AU/sights/ghan-rail.yaml) | 9.1 / 9.3 / 9.1 / 9.2 / 9.1 | uniqueness: -0.2 vs peer; significance: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-royal-albatross-centre — Pukekura Taiaroa Head Royal Albatross Centre — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/royal-albatross-centre.yaml)
+- Action: new
+- Scope: Guided observation of unique mainland northern royal albatross breeding colony; no guaranteed sightings or restricted access.
+- Representative coordinates: -45.776, 170.726; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.4 / 9.3 / 9.0 / 8.8.
+- Categories: wildlife:9.4 nature:9.4 photography:9.3.
+- Overall: 91.10/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://albatross.org.nz/royal-albatross/, https://albatross.org.nz/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/zealandia-ecosanctuary](../../../countries/NZ/sights/zealandia-ecosanctuary.yaml) | 8.7 / 9.2 / 9.0 / 8.9 / 8.8 | significance: +0.3 vs peer; impact: +0.2 vs peer |
+| [NZ/kaikoura-marine-wildlife-watching](../../../countries/NZ/sights/kaikoura-marine-wildlife-watching.yaml) | 9.0 / 9.2 / 8.8 / 8.9 / 8.5 | significance: +0.5 vs peer; depth: +0.3 vs peer |
+| [AU/seal-bay](../../../countries/AU/sights/seal-bay.yaml) | 9.0 / 9.3 / 8.9 / 9.0 / 8.8 | significance: +0.4 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-waitomo-blackwater — Ruakuri Cave Waitomo Guided Black Water Rafting — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/waitomo-blackwater.yaml)
+- Action: new
+- Scope: Guided underground tubing in Ruakuri, distinct from named Waitomo Glowworm Cave boat tour; no other cave tours included.
+- Representative coordinates: -38.266, 175.08; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.3 / 8.7 / 9.3 / 9.0.
+- Categories: adventure:9.4 nature:9.3 photography:9.2.
+- Overall: 90.90/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.doc.govt.nz/parks-and-recreation/things-to-do/rafting/commercial-operators/, https://www.waitomo.com/black-water-rafting/legendary-black-water-rafting-co-black-labyrinth.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/waitomo-glowworm-caves](../../../countries/NZ/sights/waitomo-glowworm-caves.yaml) | 8.9 / 9.4 / 8.1 / 9.0 / 7.6 | depth: +1.4 vs peer; significance: +0.6 vs peer |
+| [NZ/waimangu-volcanic-valley](../../../countries/NZ/sights/waimangu-volcanic-valley.yaml) | 9.0 / 9.1 / 8.9 / 9.0 / 9.0 | experience: +0.3 vs peer; uniqueness: +0.2 vs peer |
+| [AU/undara-lava-tubes](../../../countries/AU/sights/undara-lava-tubes.yaml) | 9.1 / 9.3 / 9.0 / 9.0 / 9.0 | significance: -0.3 vs peer; experience: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-kepler-track — Kepler Track Fiordland Multi-Day Alpine Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/kepler-track.yaml)
+- Action: new
+- Scope: Distinct end-to-end alpine circuit; park parent overlap flagged.
+- Representative coordinates: -45.36, 167.56; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.0 / 8.8 / 9.1 / 9.2.
+- Categories: nature:9.3 photography:9.4 adventure:9.4.
+- Overall: 90.25/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.doc.govt.nz/keplertrack.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/fiordland-national-park](../../../countries/NZ/sights/fiordland-national-park.yaml) | 9.5 / 9.3 / 9.3 / 9.2 / 9.4 | significance: -0.5 vs peer; impact: -0.4 vs peer |
+| [NZ/tongariro-alpine-crossing](../../../countries/NZ/sights/tongariro-alpine-crossing.yaml) | 9.3 / 8.9 / 8.1 / 9.1 / 8.8 | significance: +0.7 vs peer; depth: +0.4 vs peer |
+| [AU/overland-track](../../../countries/AU/sights/overland-track.yaml) | 9.2 / 9.2 / 8.9 / 9.2 / 9.4 | uniqueness: -0.2 vs peer; depth: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-weta-workshop — Wētā Workshop Wellington Film Effects and Studio Tours — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/weta-workshop.yaml)
+- Action: new
+- Scope: Public effects and prop-making tour; distinct from Hobbiton location set. Not restricted production access.
+- Representative coordinates: -41.313, 174.819; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 9.2 / 9.1 / 9.2 / 9.0.
+- Categories: culture:9.4 history:9.1 family:9.3.
+- Overall: 90.40/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.wetaworkshop.com/tours/wellington/experiences/tour.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/hobbiton](../../../countries/NZ/sights/hobbiton.yaml) | 8.8 / 9.1 / 7.8 / 9.0 / 8.0 | significance: +1.3 vs peer; depth: +1.0 vs peer |
+| [NZ/te-papa](../../../countries/NZ/sights/te-papa.yaml) | 8.8 / 9.1 / 9.2 / 9.3 / 9.4 | depth: -0.4 vs peer; uniqueness: +0.1 vs peer |
+| [AU/acmi](../../../countries/AU/sights/acmi.yaml) | 9.0 / 9.2 / 9.1 / 9.2 / 9.2 | impact: -0.2 vs peer; depth: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-tiritiri-matangi — Tiritiri Matangi Island Open Wildlife Sanctuary — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/tiritiri-matangi.yaml)
+- Action: new
+- Scope: Ferry-access conservation island with native bird habitats; separate from Auckland volcanic fields.
+- Representative coordinates: -36.602, 174.89; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 9.1 / 9.1 / 8.9 / 9.0.
+- Categories: wildlife:9.4 nature:9.3 photography:9.2.
+- Overall: 89.70/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.doc.govt.nz/parks-and-recreation/places-to-go/auckland/places/tiritiri-matangi-island/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/zealandia-ecosanctuary](../../../countries/NZ/sights/zealandia-ecosanctuary.yaml) | 8.7 / 9.2 / 9.0 / 8.9 / 8.8 | depth: +0.2 vs peer; impact: +0.1 vs peer |
+| [NZ/rakiura-national-park](../../../countries/NZ/sights/rakiura-national-park.yaml) | 9.0 / 9.0 / 8.9 / 8.7 / 9.1 | impact: -0.2 vs peer; significance: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-heaphy-track — Heaphy Track Multi-Day Wilderness Trek — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/heaphy-track.yaml)
+- Action: new
+- Scope: End-to-end Great Walk from inland forest and tussock country to coast; Kahurangi parent overlap flagged.
+- Representative coordinates: -41.04, 172.21; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 8.9 / 8.7 / 9.0 / 9.2.
+- Categories: nature:9.3 adventure:9.4 photography:9.3.
+- Overall: 89.35/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.doc.govt.nz/heaphytrack.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/kahurangi-farewell-spit-canaan](../../../countries/NZ/sights/kahurangi-farewell-spit-canaan.yaml) | 8.8 / 8.9 / 9.0 / 8.5 / 9.0 | experience: +0.5 vs peer; significance: -0.3 vs peer |
+| [NZ/abel-tasman-national-park](../../../countries/NZ/sights/abel-tasman-national-park.yaml) | 8.9 / 8.6 / 8.1 / 9.1 / 8.9 | significance: +0.6 vs peer; uniqueness: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-paparoa-track — Paparoa Track Multi-Day Hiking and Mountain Biking — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/paparoa-track.yaml)
+- Action: new
+- Scope: Dedicated Great Walk and cycling route, excludes Pancake Rocks day visit; parent overlap flagged.
+- Representative coordinates: -42.18, 171.46; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.7 / 9.1 / 9.1.
+- Categories: nature:9.3 adventure:9.4 photography:9.3.
+- Overall: 89.10/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.doc.govt.nz/paparoatrack.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/paparoa-national-park](../../../countries/NZ/sights/paparoa-national-park.yaml) | 8.9 / 9.0 / 8.8 / 8.8 / 9.0 | experience: +0.3 vs peer; uniqueness: -0.1 vs peer |
+| [NZ/pancake-rocks](../../../countries/NZ/sights/pancake-rocks.yaml) | 9.0 / 9.0 / 8.1 / 8.9 / 7.5 | depth: +1.6 vs peer; significance: +0.6 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-omaru-penguins — Oamaru Blue Penguin Colony Guided Evening Viewing — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/omaru-penguins.yaml)
+- Action: new
+- Scope: Dedicated managed little penguin viewing; no guaranteed sightings.
+- Representative coordinates: -45.109, 170.982; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.8 / 8.7 / 9.0 / 8.5.
+- Categories: wildlife:9.3 nature:9.2 family:9.2.
+- Overall: 87.20/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/kaikoura-marine-wildlife-watching](../../../countries/NZ/sights/kaikoura-marine-wildlife-watching.yaml) | 9.0 / 9.2 / 8.8 / 8.9 / 8.5 | impact: -0.4 vs peer; uniqueness: -0.4 vs peer |
+| [NZ/zealandia-ecosanctuary](../../../countries/NZ/sights/zealandia-ecosanctuary.yaml) | 8.7 / 9.2 / 9.0 / 8.9 / 8.8 | uniqueness: -0.4 vs peer; significance: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-larnach-castle — Larnach Castle and Gardens Dunedin — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/larnach-castle.yaml)
+- Action: new
+- Scope: Historic mansion, gardens and interpretation grouped.
+- Representative coordinates: -45.86, 170.627; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.7 / 8.9 / 8.8.
+- Categories: architecture:9.3 history:9.2 culture:9.1.
+- Overall: 87.40/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/napier-art-deco](../../../countries/NZ/sights/napier-art-deco.yaml) | 8.4 / 8.9 / 8.5 / 8.3 / 8.0 | depth: +0.8 vs peer; experience: +0.6 vs peer |
+| [NZ/kerikeri-basin](../../../countries/NZ/sights/kerikeri-basin.yaml) | 7.9 / 8.4 / 8.8 / 8.0 / 7.5 | depth: +1.3 vs peer; experience: +0.9 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-hamilton-gardens — Hamilton Gardens Themed Garden Collections — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/hamilton-gardens.yaml)
+- Action: new
+- Scope: Designed themed gardens and horticultural interpretation.
+- Representative coordinates: -37.806, 175.303; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.5 / 9.0 / 9.0.
+- Categories: nature:9.2 architecture:9.3 culture:9.2.
+- Overall: 88.15/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/auckland-art-gallery](../../../countries/NZ/sights/auckland-art-gallery.yaml) | 8.6 / 8.8 / 8.9 / 8.9 / 9.0 | significance: -0.4 vs peer; impact: +0.2 vs peer |
+| [NZ/zealandia-ecosanctuary](../../../countries/NZ/sights/zealandia-ecosanctuary.yaml) | 8.7 / 9.2 / 9.0 / 8.9 / 8.8 | significance: -0.5 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-toitu-otago — Toitū Otago Settlers Museum Dunedin — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/toitu-otago.yaml)
+- Action: new
+- Scope: Regional migration and social history, distinct from natural history museum.
+- Representative coordinates: -45.877, 170.505; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.7 / 8.9 / 8.8 / 8.9.
+- Categories: history:9.3 culture:9.2 family:9.1.
+- Overall: 87.45/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/tuhura-otago-museum](../../../countries/NZ/sights/tuhura-otago-museum.yaml) | 8.4 / 8.7 / 8.7 / 8.8 / 8.9 | impact: +0.2 vs peer; significance: +0.2 vs peer |
+| [NZ/auckland-war-memorial-museum](../../../countries/NZ/sights/auckland-war-memorial-museum.yaml) | 8.7 / 8.9 / 9.1 / 8.7 / 9.0 | uniqueness: -0.2 vs peer; significance: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-hot-water-beach — Hot Water Beach Coromandel Geothermal Sand Springs — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/hot-water-beach.yaml)
+- Action: new
+- Scope: Tidal geothermal sand springs, distinct from Cathedral Cove; no unsafe bathing assumed.
+- Representative coordinates: -36.889, 175.824; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 9.1 / 8.2 / 8.8 / 8.2.
+- Categories: nature:9.2 beaches:9.1 relaxation:9.1.
+- Overall: 86.35/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/cathedral-cove](../../../countries/NZ/sights/cathedral-cove.yaml) | 8.9 / 8.6 / 7.9 / 8.6 / 7.7 | uniqueness: +0.5 vs peer; depth: +0.5 vs peer |
+| [NZ/hells-gate-geothermal-park](../../../countries/NZ/sights/hells-gate-geothermal-park.yaml) | 8.7 / 8.9 / 8.5 / 8.9 / 8.4 | significance: -0.3 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-kaituna-rafting — Kaituna River Guided Whitewater Rafting — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/kaituna-rafting.yaml)
+- Action: new
+- Scope: Guided on-water rafting experience distinct from Ōkere Falls land track; shared landscape flagged.
+- Representative coordinates: -38.014, 176.339; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.4 / 9.2 / 8.6.
+- Categories: adventure:9.4 nature:9.2 photography:9.1.
+- Overall: 87.85/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/okere-falls-track](../../../countries/NZ/sights/okere-falls-track.yaml) | 8.2 / 8.0 / 7.9 / 8.6 / 7.8 | uniqueness: +0.9 vs peer; depth: +0.8 vs peer |
+| [NZ/tongariro-alpine-crossing](../../../countries/NZ/sights/tongariro-alpine-crossing.yaml) | 9.3 / 8.9 / 8.1 / 9.1 / 8.8 | impact: -0.5 vs peer; significance: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 210 scope decisions
+
+NZ reopened on concrete omissions: Poor Knights, Mount John and TranzAlpine. Five named multi-day trek routes separately scoped from parent parks, not additive to parent; legacy overlap unresolved. Whanganui Journey deferred: existing park scope explicitly includes authorized river journeys (https://www.doc.govt.nz/whanganuijourney). Abel Tasman Coast Track deferred because existing park scope includes coastal forest trails. Mount John excludes shoreline; Ruakuri tubing excludes named Waitomo Glowworm Cave. TranzAlpine service notices describe a rail/bus substitution; intrinsic full-route rating separate from current operation. Existing two unassessed remote island entries and all prior scores preserved.
+
+## sight-nz-maungatautari — Sanctuary Mountain Maungatautari Native Forest and Wildlife Sanctuary — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/maungatautari.yaml)
+- Action: new
+- Scope: Public forest walks and guided Southern Enclosure experiences within 3363-hectare conservation project; no guaranteed rare species encounters.
+- Representative coordinates: -38.045, 175.56; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.4 / 9.0 / 9.2.
+- Categories: nature:9.4 wildlife:9.4 photography:9.2.
+- Overall: 91.75/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.sanctuarymountain.co.nz/about-us/our-story, https://www.sanctuarymountain.co.nz/visit/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/zealandia-ecosanctuary](../../../countries/NZ/sights/zealandia-ecosanctuary.yaml) | 8.7 / 9.2 / 9.0 / 8.9 / 8.8 | significance: +0.4 vs peer; depth: +0.4 vs peer |
+| [NZ/tiritiri-matangi](../../../countries/NZ/sights/tiritiri-matangi.yaml) | 8.8 / 9.1 / 9.1 / 8.9 / 9.0 | significance: +0.3 vs peer; impact: +0.2 vs peer |
+| [AU/alice-springs-desert-park](../../../countries/AU/sights/alice-springs-desert-park.yaml) | 8.8 / 8.9 / 8.7 / 9.0 / 8.9 | significance: +0.7 vs peer; uniqueness: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-alps-to-ocean — Alps 2 Ocean End-to-End Cycle Trail — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/alps-to-ocean.yaml)
+- Action: new
+- Scope: 315 km cycling journey, distinct from individual lake and mountain day visits; route proxy.
+- Representative coordinates: -44.3, 170.1; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.1 / 8.8 / 9.2 / 9.4.
+- Categories: adventure:9.4 nature:9.4 photography:9.4.
+- Overall: 91.15/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.alps2ocean.com/about, https://www.alps2ocean.com/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/tranzalpine](../../../countries/NZ/sights/tranzalpine.yaml) | 9.2 / 9.1 / 8.9 / 9.2 / 9.1 | depth: +0.3 vs peer; significance: -0.1 vs peer |
+| [NZ/routeburn-track](../../../countries/NZ/sights/routeburn-track.yaml) | 9.3 / 9.1 / 8.9 / 9.2 / 9.2 | depth: +0.2 vs peer; impact: -0.1 vs peer |
+| [AU/bibbulmun-track](../../../countries/AU/sights/bibbulmun-track.yaml) | 9.0 / 9.1 / 9.0 / 9.2 / 9.4 | impact: +0.2 vs peer; significance: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-kapiti-island — Kapiti Island Nature Reserve Guided Birdwatching and Kiwi Tours — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/kapiti-island.yaml)
+- Action: new
+- Scope: Approved-operator access, day and overnight birding experiences grouped; no guaranteed kiwi encounters.
+- Representative coordinates: -40.85, 174.92; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.3 / 9.3 / 9.1 / 9.1.
+- Categories: wildlife:9.4 nature:9.4 photography:9.2.
+- Overall: 91.30/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.doc.govt.nz/kapitiisland/, https://www.doc.govt.nz/kapitiisland?tab-id=50578.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/tiritiri-matangi](../../../countries/NZ/sights/tiritiri-matangi.yaml) | 8.8 / 9.1 / 9.1 / 8.9 / 9.0 | uniqueness: +0.2 vs peer; significance: +0.2 vs peer |
+| [NZ/royal-albatross-centre](../../../countries/NZ/sights/royal-albatross-centre.yaml) | 8.9 / 9.4 / 9.3 / 9.0 / 8.8 | depth: +0.3 vs peer; uniqueness: -0.1 vs peer |
+| [AU/seal-bay](../../../countries/AU/sights/seal-bay.yaml) | 9.0 / 9.3 / 8.9 / 9.0 / 8.8 | significance: +0.4 vs peer; depth: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-waikaremoana-track — Lake Waikaremoana Great Walk Te Urewera — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/waikaremoana-track.yaml)
+- Action: new
+- Scope: Named multi-day route in Tūhoe homeland; respect Te Urewera governance and conditions, no unrelated wilderness access.
+- Representative coordinates: -38.76, 177.05; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.1 / 9.1 / 8.9 / 9.2.
+- Categories: nature:9.4 adventure:9.3 culture:9.3.
+- Overall: 90.80/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.doc.govt.nz/waikaremoana, https://teurewera.iwi.nz/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/heaphy-track](../../../countries/NZ/sights/heaphy-track.yaml) | 9.0 / 8.9 / 8.7 / 9.0 / 9.2 | significance: +0.4 vs peer; uniqueness: +0.2 vs peer |
+| [NZ/kepler-track](../../../countries/NZ/sights/kepler-track.yaml) | 9.1 / 9.0 / 8.8 / 9.1 / 9.2 | significance: +0.3 vs peer; experience: -0.2 vs peer |
+| [AU/overland-track](../../../countries/AU/sights/overland-track.yaml) | 9.2 / 9.2 / 8.9 / 9.2 / 9.4 | experience: -0.3 vs peer; significance: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-te-pa-tu — Te Pā Tū Rotorua Māori Cultural and Kai Experience — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/te-pa-tu.yaml)
+- Action: new
+- Scope: Seasonal cultural storytelling, ceremony, performance and kai; distinct from geothermal and living-village sites. Representative locality approximate.
+- Representative coordinates: -38.26, 176.28; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.2 / 9.1 / 9.3 / 9.0.
+- Categories: culture:9.4 food:9.3 history:9.2.
+- Overall: 90.85/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.rotoruanz.com/visit/things-to-do/te-pa-tu, https://maoritourism.co.nz/performing-arts/te-pa-tu/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/te-puia](../../../countries/NZ/sights/te-puia.yaml) | 9.0 / 9.1 / 9.0 / 9.1 / 9.0 | experience: +0.2 vs peer; impact: -0.1 vs peer |
+| [NZ/whakarewarewa-living-maori-village](../../../countries/NZ/sights/whakarewarewa-living-maori-village.yaml) | 8.6 / 9.1 / 8.9 / 9.0 / 8.6 | depth: +0.4 vs peer; impact: +0.3 vs peer |
+| [AU/tiwi-islands-culture](../../../countries/AU/sights/tiwi-islands-culture.yaml) | 8.9 / 9.3 / 9.2 / 9.1 / 8.9 | experience: +0.2 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-otago-central-rail-trail — Otago Central Rail Trail Multi-Day Cycling Journey — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/otago-central-rail-trail.yaml)
+- Action: new
+- Scope: Entire 152 km former railway corridor and associated heritage, not individual towns.
+- Representative coordinates: -45.1, 169.6; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.1 / 9.0 / 9.2 / 9.2.
+- Categories: adventure:9.4 history:9.2 photography:9.3.
+- Overall: 90.45/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.doc.govt.nz/otagorailtrail, https://www.otagocentralrailtrail.co.nz/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/tranzalpine](../../../countries/NZ/sights/tranzalpine.yaml) | 9.2 / 9.1 / 8.9 / 9.2 / 9.1 | impact: -0.3 vs peer; significance: +0.1 vs peer |
+| [NZ/heaphy-track](../../../countries/NZ/sights/heaphy-track.yaml) | 9.0 / 8.9 / 8.7 / 9.0 / 9.2 | significance: +0.3 vs peer; uniqueness: +0.2 vs peer |
+| [AU/murray-mountains-railtrail](../../../countries/AU/sights/murray-mountains-railtrail.yaml) | 8.7 / 8.7 / 8.4 / 9.0 / 9.0 | significance: +0.6 vs peer; uniqueness: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-hump-ridge-track — Tuatapere Hump Ridge Track Multi-Day Great Walk — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/hump-ridge-track.yaml)
+- Action: new
+- Scope: Specific loop with coastal forest, alpine views and historic viaducts, Fiordland parent overlap flagged.
+- Representative coordinates: -46.17, 167.48; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.0 / 8.8 / 9.1 / 9.2.
+- Categories: nature:9.4 adventure:9.4 photography:9.3.
+- Overall: 90.25/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.doc.govt.nz/hump-ridge-track, https://www.doc.govt.nz/news/media-releases/2024-media-releases/tuatapere-hump-ridge-track-becomes-new-zealands-11th-great-walk/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/kepler-track](../../../countries/NZ/sights/kepler-track.yaml) | 9.1 / 9.0 / 8.8 / 9.1 / 9.2 | impact: +0.0 vs peer; uniqueness: +0.0 vs peer |
+| [NZ/paparoa-track](../../../countries/NZ/sights/paparoa-track.yaml) | 8.9 / 8.9 / 8.7 / 9.1 / 9.1 | impact: +0.2 vs peer; uniqueness: +0.1 vs peer |
+| [AU/south-coast-track](../../../countries/AU/sights/south-coast-track.yaml) | 9.2 / 9.2 / 8.9 / 9.1 / 9.4 | uniqueness: -0.2 vs peer; depth: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-kawarau-bungy — Kawarau Bridge Original Commercial Bungy Jump — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/kawarau-bungy.yaml)
+- Action: new
+- Scope: Historic commercial bungy site dating to 1988; narrow activity breadth, distinct from Nevis.
+- Representative coordinates: -45.003, 168.909; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 9.3 / 9.3 / 9.1 / 8.4.
+- Categories: adventure:9.4 history:9.3 photography:9.1.
+- Overall: 90.30/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.bungy.co.nz/about-us/, https://www.bungy.co.nz/queenstown/kawarau-bungy-centre/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/kaituna-rafting](../../../countries/NZ/sights/kaituna-rafting.yaml) | 8.8 / 8.9 / 8.4 / 9.2 / 8.6 | significance: +0.9 vs peer; uniqueness: +0.4 vs peer |
+| [NZ/waitomo-blackwater](../../../countries/NZ/sights/waitomo-blackwater.yaml) | 9.1 / 9.3 / 8.7 / 9.3 / 9.0 | significance: +0.6 vs peer; depth: -0.6 vs peer |
+| [AU/movie-world](../../../countries/AU/sights/movie-world.yaml) | 9.0 / 9.0 / 8.7 / 9.4 / 9.1 | depth: -0.7 vs peer; significance: +0.6 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-shotover-jet — Shotover Canyons Guided Jet Boat Experience Queenstown — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/shotover-jet.yaml)
+- Action: new
+- Scope: Ngāi Tahu operated canyon jetboat ride; narrow focused experience, excludes other jetboat operators.
+- Representative coordinates: -44.98, 168.67; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.0 / 8.7 / 9.3 / 8.5.
+- Categories: adventure:9.4 nature:9.1 photography:9.1.
+- Overall: 89.35/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.shotoverjet.com/, https://www.shotoverjet.com/experience/faqs/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/kaituna-rafting](../../../countries/NZ/sights/kaituna-rafting.yaml) | 8.8 / 8.9 / 8.4 / 9.2 / 8.6 | significance: +0.3 vs peer; impact: +0.2 vs peer |
+| [NZ/waitomo-blackwater](../../../countries/NZ/sights/waitomo-blackwater.yaml) | 9.1 / 9.3 / 8.7 / 9.3 / 9.0 | depth: -0.5 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-nevis-bungy — Nevis Bungy Queenstown Canyon Jump — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/nevis-bungy.yaml)
+- Action: new
+- Scope: Specific 134m commercial bungy experience, approximate locality not pickup point; separate from Kawarau history.
+- Representative coordinates: -45.06, 168.93; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.0 / 8.5 / 9.2 / 8.1.
+- Categories: adventure:9.4 photography:9.1.
+- Overall: 88.40/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.bungy.co.nz/queenstown/nevis/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/kaituna-rafting](../../../countries/NZ/sights/kaituna-rafting.yaml) | 8.8 / 8.9 / 8.4 / 9.2 / 8.6 | depth: -0.5 vs peer; impact: +0.2 vs peer |
+| [NZ/waitomo-blackwater](../../../countries/NZ/sights/waitomo-blackwater.yaml) | 9.1 / 9.3 / 8.7 / 9.3 / 9.0 | depth: -0.9 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-cape-kidnappers-gannets — Te Kauwae-a-Māui Cape Kidnappers Guided Gannet Colony Visit — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/cape-kidnappers-gannets.yaml)
+- Action: new
+- Scope: Established overland tours, no hazardous beach route assumed; seasonal sightings not guaranteed.
+- Representative coordinates: -39.64, 177.09; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 9.0 / 8.8 / 8.9 / 8.6.
+- Categories: wildlife:9.4 nature:9.3 photography:9.3.
+- Overall: 88.45/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.doc.govt.nz/parks-and-recreation/places-to-go/hawkes-bay/places/cape-kidnappers-gannet-reserve/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/royal-albatross-centre](../../../countries/NZ/sights/royal-albatross-centre.yaml) | 8.9 / 9.4 / 9.3 / 9.0 / 8.8 | significance: -0.5 vs peer; uniqueness: -0.4 vs peer |
+| [NZ/omaru-penguins](../../../countries/NZ/sights/omaru-penguins.yaml) | 8.6 / 8.8 / 8.7 / 9.0 / 8.5 | impact: +0.2 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-glenorchy-road — Queenstown to Glenorchy Lake Wakatipu Scenic Drive — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/glenorchy-road.yaml)
+- Action: new
+- Scope: Lake-edge road journey only, excludes Routeburn trek and other separately ranked activities.
+- Representative coordinates: -45.0, 168.47; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 9.1 / 8.7 / 8.3 / 8.9 / 8.7.
+- Categories: nature:9.3 photography:9.4 relaxation:9.1.
+- Overall: 87.70/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/lake-tekapo](../../../countries/NZ/sights/lake-tekapo.yaml) | 9.0 / 8.7 / 8.2 / 8.9 / 8.5 | depth: +0.2 vs peer; impact: +0.1 vs peer |
+| [NZ/tranzalpine](../../../countries/NZ/sights/tranzalpine.yaml) | 9.2 / 9.1 / 8.9 / 9.2 / 9.1 | significance: -0.6 vs peer; uniqueness: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-lake-pukaki — Lake Pūkaki Alpine Lake Shoreline and Viewpoints — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/lake-pukaki.yaml)
+- Action: new
+- Scope: Turquoise lake and public shoreline viewpoints, excludes cycling journey and Aoraki park trails.
+- Representative coordinates: -44.12, 170.16; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 9.1 / 8.7 / 8.3 / 8.8 / 8.5.
+- Categories: nature:9.3 photography:9.4 relaxation:9.1.
+- Overall: 87.35/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/lake-tekapo](../../../countries/NZ/sights/lake-tekapo.yaml) | 9.0 / 8.7 / 8.2 / 8.9 / 8.5 | impact: +0.1 vs peer; significance: +0.1 vs peer |
+| [NZ/lake-taupo](../../../countries/NZ/sights/lake-taupo.yaml) | 8.9 / 8.9 / 9.0 / 9.0 / 9.0 | significance: -0.7 vs peer; depth: -0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-castle-hill — Kura Tāwhiti Castle Hill Limestone Rock Formations — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/castle-hill.yaml)
+- Action: new
+- Scope: Public walking among limestone formations; respect Ngāi Tahu cultural restrictions.
+- Representative coordinates: -43.23, 171.71; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.6 / 8.7 / 8.6.
+- Categories: nature:9.3 photography:9.3 culture:9.1.
+- Overall: 87.80/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/pancake-rocks](../../../countries/NZ/sights/pancake-rocks.yaml) | 9.0 / 9.0 / 8.1 / 8.9 / 7.5 | depth: +1.1 vs peer; significance: +0.5 vs peer |
+| [NZ/moeraki-boulders](../../../countries/NZ/sights/moeraki-boulders.yaml) | 8.4 / 8.8 / 8.2 / 8.5 / 7.3 | depth: +1.3 vs peer; impact: +0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-orokonui — Orokonui Ecosanctuary Dunedin Native Forest and Wildlife — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/orokonui.yaml)
+- Action: new
+- Scope: Fenced forest sanctuary and visitor trails, no guaranteed rare wildlife.
+- Representative coordinates: -45.77, 170.61; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.8 / 8.8 / 8.8 / 8.7.
+- Categories: wildlife:9.3 nature:9.3 family:9.1.
+- Overall: 87.30/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/zealandia-ecosanctuary](../../../countries/NZ/sights/zealandia-ecosanctuary.yaml) | 8.7 / 9.2 / 9.0 / 8.9 / 8.8 | uniqueness: -0.4 vs peer; significance: -0.2 vs peer |
+| [NZ/tiritiri-matangi](../../../countries/NZ/sights/tiritiri-matangi.yaml) | 8.8 / 9.1 / 9.1 / 8.9 / 9.0 | uniqueness: -0.3 vs peer; significance: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-skyline-queenstown — Skyline Queenstown Gondola and Bob's Peak Luge — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/skyline-queenstown.yaml)
+- Action: new
+- Scope: Gondola viewpoint and luge grouped, excludes other Queenstown operators.
+- Representative coordinates: -45.025, 168.655; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.5 / 8.1 / 9.1 / 8.5.
+- Categories: photography:9.3 family:9.3 adventure:9.2.
+- Overall: 86.30/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/sky-tower-auckland](../../../countries/NZ/sights/sky-tower-auckland.yaml) | 8.6 / 8.3 / 7.9 / 8.8 / 7.4 | depth: +1.1 vs peer; impact: +0.3 vs peer |
+| [NZ/kaituna-rafting](../../../countries/NZ/sights/kaituna-rafting.yaml) | 8.8 / 8.9 / 8.4 / 9.2 / 8.6 | uniqueness: -0.4 vs peer; significance: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-buried-village — Buried Village of Te Wairoa Archaeological Museum Rotorua — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/buried-village.yaml)
+- Action: new
+- Scope: Archaeology and museum documenting 1886 Tarawera eruption; excludes geothermal valley tours.
+- Representative coordinates: -38.21, 176.38; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.8 / 8.9 / 8.6 / 8.6.
+- Categories: history:9.3 culture:9.1 nature:9.0.
+- Overall: 86.80/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/waimangu-volcanic-valley](../../../countries/NZ/sights/waimangu-volcanic-valley.yaml) | 9.0 / 9.1 / 8.9 / 9.0 / 9.0 | impact: -0.5 vs peer; experience: -0.4 vs peer |
+| [NZ/toitu-otago](../../../countries/NZ/sights/toitu-otago.yaml) | 8.6 / 8.7 / 8.9 / 8.8 / 8.9 | depth: -0.3 vs peer; experience: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-otago-peninsula — Otago Peninsula Sandfly Bay and Allans Beach Coastal Walks — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/otago-peninsula.yaml)
+- Action: new
+- Scope: Public coastal walking, excludes dedicated Royal Albatross Centre; no guaranteed wildlife, respect distancing.
+- Representative coordinates: -45.89, 170.65; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.6 / 8.4 / 8.6 / 8.6.
+- Categories: nature:9.3 wildlife:9.3 photography:9.2.
+- Overall: 86.20/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/catlins-coastal-area](../../../countries/NZ/sights/catlins-coastal-area.yaml) | 9.0 / 8.9 / 8.8 / 8.8 / 9.0 | significance: -0.4 vs peer; depth: -0.4 vs peer |
+| [NZ/kaikoura-peninsula-walkway](../../../countries/NZ/sights/kaikoura-peninsula-walkway.yaml) | 8.6 / 8.2 / 8.0 / 8.8 / 8.4 | uniqueness: +0.4 vs peer; significance: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 211 scope decisions
+
+Hump Ridge separately scoped multi-day trek, Fiordland parent overlap flagged. Te Urewera named walk respects local governance. Alps 2 Ocean and Lake Pukaki shoreline distinct but overlap geographically; non-additive. Kawarau and Nevis differ in historical significance and venue, not grouped; no current operating guarantee. Cape Kidnappers uses overland visitor option rather than hazardous beach access. Whanganui and Abel Tasman parent scope deferrals retained; glacier heli-hiking deferred pending physical-condition and parent-scope review. Existing two unassessed remote island entries and all prior scores preserved.
+
+## sight-nz-omaka-aviation — Omaka Aviation Heritage Centre Blenheim — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/omaka-aviation.yaml)
+- Action: new
+- Scope: WWI and WWII aircraft and cinematic dioramas grouped; separate from Wētā studio tour.
+- Representative coordinates: -41.54, 173.92; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.2 / 9.2 / 9.1.
+- Categories: history:9.4 culture:9.3 family:9.2.
+- Overall: 91.55/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.omaka.org.nz/experiences/ww1-knights-of-the-sky, https://www.omaka.org.nz/experiences/ww2-dangerous-skies.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/weta-workshop](../../../countries/NZ/sights/weta-workshop.yaml) | 8.8 / 9.2 / 9.1 / 9.2 / 9.0 | impact: +0.2 vs peer; uniqueness: +0.1 vs peer |
+| [NZ/auckland-war-memorial-museum](../../../countries/NZ/sights/auckland-war-memorial-museum.yaml) | 8.7 / 8.9 / 9.1 / 8.7 / 9.0 | experience: +0.5 vs peer; uniqueness: +0.4 vs peer |
+| [AU/qantas-founders](../../../countries/AU/sights/qantas-founders.yaml) | 9.0 / 9.3 / 9.2 / 9.0 / 9.1 | experience: +0.2 vs peer; impact: +0.0 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-forgotten-world-rail — Forgotten World Heritage Rail Cart Journey — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/forgotten-world-rail.yaml)
+- Action: new
+- Scope: Guided rail carts along former Stratford–Okahukura railway, full 142 km option; distinct from conventional trains.
+- Representative coordinates: -39.05, 175.0; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.3 / 8.9 / 9.2 / 9.2.
+- Categories: adventure:9.4 history:9.3 photography:9.3.
+- Overall: 91.05/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://forgottenworldadventures.co.nz/experiences/, https://www.stratford.govt.nz/our-district/discover-stratford/forgotten-world-adventures-rail-carts.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/tranzalpine](../../../countries/NZ/sights/tranzalpine.yaml) | 9.2 / 9.1 / 8.9 / 9.2 / 9.1 | impact: -0.2 vs peer; uniqueness: +0.2 vs peer |
+| [NZ/otago-central-rail-trail](../../../countries/NZ/sights/otago-central-rail-trail.yaml) | 8.9 / 9.1 / 9.0 / 9.2 / 9.2 | uniqueness: +0.2 vs peer; impact: +0.1 vs peer |
+| [AU/west-coast-wilderness-railway](../../../countries/AU/sights/west-coast-wilderness-railway.yaml) | 8.9 / 9.0 / 8.9 / 9.0 / 8.9 | uniqueness: +0.3 vs peer; depth: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-queen-charlotte-track — Queen Charlotte Track Marlborough Sounds Multi-Day Trek and Cycling — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/queen-charlotte-track.yaml)
+- Action: new
+- Scope: Named 73.5 km route from Meretoto/Ship Cove to Anakiwa, walking and cycling grouped; not whole Sounds.
+- Representative coordinates: -41.16, 174.14; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.0 / 8.8 / 9.2 / 9.3.
+- Categories: nature:9.4 photography:9.4 adventure:9.3.
+- Overall: 90.50/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.doc.govt.nz/parks-and-recreation/places-to-go/marlborough/places/queen-charlotte-sound-totaranui-area/things-to-do/tracks/queen-charlotte-track/, https://marlboroughnz.com/explore-marlborough/see-do/biking/queen-charlotte-track/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/routeburn-track](../../../countries/NZ/sights/routeburn-track.yaml) | 9.3 / 9.1 / 8.9 / 9.2 / 9.2 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer |
+| [NZ/alps-to-ocean](../../../countries/NZ/sights/alps-to-ocean.yaml) | 9.2 / 9.1 / 8.8 / 9.2 / 9.4 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [AU/cape-to-cape-track](../../../countries/AU/sights/cape-to-cape-track.yaml) | 9.0 / 8.8 / 8.5 / 9.1 / 9.0 | significance: +0.3 vs peer; depth: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-northern-explorer — Northern Explorer Scenic Railway Auckland to Wellington — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/northern-explorer.yaml)
+- Action: new
+- Scope: Entire North Island rail journey, distinct from Tongariro park activities.
+- Representative coordinates: -39.17, 175.4; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.8 / 9.0 / 9.1.
+- Categories: nature:9.2 photography:9.3 history:9.2.
+- Overall: 88.85/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.greatjourneysnz.com/scenic-trains/northern-explorer-train/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/tranzalpine](../../../countries/NZ/sights/tranzalpine.yaml) | 9.2 / 9.1 / 8.9 / 9.2 / 9.1 | impact: -0.4 vs peer; uniqueness: -0.2 vs peer |
+| [NZ/otago-central-rail-trail](../../../countries/NZ/sights/otago-central-rail-trail.yaml) | 8.9 / 9.1 / 9.0 / 9.2 / 9.2 | uniqueness: -0.2 vs peer; significance: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-coastal-pacific — Coastal Pacific Scenic Railway Picton to Christchurch — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/coastal-pacific.yaml)
+- Action: new
+- Scope: Full coastal rail journey, excludes Kaikōura marine tours.
+- Representative coordinates: -42.15, 173.91; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.6 / 9.0 / 9.0.
+- Categories: nature:9.3 photography:9.3 history:9.0.
+- Overall: 88.40/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/tranzalpine](../../../countries/NZ/sights/tranzalpine.yaml) | 9.2 / 9.1 / 8.9 / 9.2 / 9.1 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer |
+| [NZ/glenorchy-road](../../../countries/NZ/sights/glenorchy-road.yaml) | 9.1 / 8.7 / 8.3 / 8.9 / 8.7 | significance: +0.3 vs peer; depth: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-nz-maritime-museum — New Zealand Maritime Museum Auckland — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/nz-maritime-museum.yaml)
+- Action: new
+- Scope: Public maritime collection; no sailing departure assumed.
+- Representative coordinates: -36.842, 174.763; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 9.1 / 8.9 / 9.1.
+- Categories: history:9.3 culture:9.3 family:9.2.
+- Overall: 89.00/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/te-papa](../../../countries/NZ/sights/te-papa.yaml) | 8.8 / 9.1 / 9.2 / 9.3 / 9.4 | experience: -0.4 vs peer; depth: -0.3 vs peer |
+| [NZ/auckland-war-memorial-museum](../../../countries/NZ/sights/auckland-war-memorial-museum.yaml) | 8.7 / 8.9 / 9.1 / 8.7 / 9.0 | experience: +0.2 vs peer; depth: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-air-force-museum — Air Force Museum of New Zealand Wigram — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/air-force-museum.yaml)
+- Action: new
+- Scope: Military aviation collection independent from Omaka.
+- Representative coordinates: -43.548, 172.548; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.8 / 9.0 / 8.8 / 8.9.
+- Categories: history:9.3 culture:9.1 family:9.2.
+- Overall: 87.90/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/international-antarctic-centre](../../../countries/NZ/sights/international-antarctic-centre.yaml) | 8.4 / 8.8 / 8.0 / 8.9 / 8.4 | significance: +1.0 vs peer; depth: +0.5 vs peer |
+| [NZ/auckland-war-memorial-museum](../../../countries/NZ/sights/auckland-war-memorial-museum.yaml) | 8.7 / 8.9 / 9.1 / 8.7 / 9.0 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-christchurch-art-gallery — Christchurch Art Gallery Te Puna o Waiwhetū — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/christchurch-art-gallery.yaml)
+- Action: new
+- Scope: Art collection and gallery architecture.
+- Representative coordinates: -43.531, 172.629; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.7 / 8.8 / 8.8 / 8.9.
+- Categories: culture:9.3 architecture:9.2 history:9.1.
+- Overall: 87.25/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/auckland-art-gallery](../../../countries/NZ/sights/auckland-art-gallery.yaml) | 8.6 / 8.8 / 8.9 / 8.9 / 9.0 | uniqueness: -0.1 vs peer; significance: -0.1 vs peer |
+| [NZ/te-papa](../../../countries/NZ/sights/te-papa.yaml) | 8.8 / 9.1 / 9.2 / 9.3 / 9.4 | experience: -0.5 vs peer; depth: -0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-puke-ariki — Puke Ariki Museum New Plymouth — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/puke-ariki.yaml)
+- Action: new
+- Scope: Regional Taranaki heritage interpretation.
+- Representative coordinates: -39.057, 174.073; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.8 / 8.9 / 8.8 / 8.8.
+- Categories: culture:9.3 history:9.2 family:9.1.
+- Overall: 87.30/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/tuhura-otago-museum](../../../countries/NZ/sights/tuhura-otago-museum.yaml) | 8.4 / 8.7 / 8.7 / 8.8 / 8.9 | significance: +0.2 vs peer; impact: +0.1 vs peer |
+| [NZ/toitu-otago](../../../countries/NZ/sights/toitu-otago.yaml) | 8.6 / 8.7 / 8.9 / 8.8 / 8.9 | impact: -0.1 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-govett-brewster — Govett-Brewster Art Gallery and Len Lye Centre — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/govett-brewster.yaml)
+- Action: new
+- Scope: Contemporary art and kinetic sculpture exhibitions grouped.
+- Representative coordinates: -39.059, 174.07; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 9.0 / 8.7 / 8.8 / 8.7.
+- Categories: culture:9.3 architecture:9.3 photography:9.1.
+- Overall: 87.90/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/auckland-art-gallery](../../../countries/NZ/sights/auckland-art-gallery.yaml) | 8.6 / 8.8 / 8.9 / 8.9 / 9.0 | depth: -0.3 vs peer; uniqueness: +0.2 vs peer |
+| [NZ/weta-workshop](../../../countries/NZ/sights/weta-workshop.yaml) | 8.8 / 9.2 / 9.1 / 9.2 / 9.0 | significance: -0.4 vs peer; experience: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-auckland-zoo — Auckland Zoo Western Springs — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/auckland-zoo.yaml)
+- Action: new
+- Scope: Zoo and native wildlife interpretation; no guaranteed sightings.
+- Representative coordinates: -36.863, 174.719; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.6 / 8.7 / 9.0 / 8.9.
+- Categories: wildlife:9.3 family:9.3 nature:9.1.
+- Overall: 87.40/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/zealandia-ecosanctuary](../../../countries/NZ/sights/zealandia-ecosanctuary.yaml) | 8.7 / 9.2 / 9.0 / 8.9 / 8.8 | uniqueness: -0.6 vs peer; significance: -0.3 vs peer |
+| [NZ/tiritiri-matangi](../../../countries/NZ/sights/tiritiri-matangi.yaml) | 8.8 / 9.1 / 9.1 / 8.9 / 9.0 | uniqueness: -0.5 vs peer; significance: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-pukaha — Pūkaha National Wildlife Centre Mount Bruce — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/pukaha.yaml)
+- Action: new
+- Scope: Native wildlife conservation centre and forest trails.
+- Representative coordinates: -40.719, 175.643; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.9 / 8.8 / 8.9 / 8.8.
+- Categories: wildlife:9.4 nature:9.3 family:9.2.
+- Overall: 87.80/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/orokonui](../../../countries/NZ/sights/orokonui.yaml) | 8.6 / 8.8 / 8.8 / 8.8 / 8.7 | uniqueness: +0.1 vs peer; experience: +0.1 vs peer |
+| [NZ/zealandia-ecosanctuary](../../../countries/NZ/sights/zealandia-ecosanctuary.yaml) | 8.7 / 9.2 / 9.0 / 8.9 / 8.8 | uniqueness: -0.3 vs peer; significance: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-te-paki-dunes — Te Paki Giant Sand Dunes — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/te-paki-dunes.yaml)
+- Action: new
+- Scope: Dunes and sandboarding, excludes Cape Reinga headland and beach driving.
+- Representative coordinates: -34.518, 172.772; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.3 / 8.9 / 8.5.
+- Categories: nature:9.2 adventure:9.3 photography:9.3.
+- Overall: 87.15/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.doc.govt.nz/parks-and-recreation/places-to-go/northland/places/te-paki-recreation-reserve/te-paki-sand-dunes.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/cape-reinga](../../../countries/NZ/sights/cape-reinga.yaml) | 9.0 / 9.0 / 9.0 / 8.6 / 7.8 | significance: -0.7 vs peer; depth: +0.7 vs peer |
+| [NZ/hot-water-beach](../../../countries/NZ/sights/hot-water-beach.yaml) | 8.6 / 9.1 / 8.2 / 8.8 / 8.2 | impact: +0.3 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-wharariki-beach — Wharariki Beach and Archway Islands Coastal Walk — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/wharariki-beach.yaml)
+- Action: new
+- Scope: Public beach and offshore arches, excludes Farewell Spit reserve; no swimming assumed.
+- Representative coordinates: -40.506, 172.671; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 9.0 / 8.8 / 8.3 / 8.7 / 8.4.
+- Categories: nature:9.3 beaches:9.3 photography:9.4.
+- Overall: 87.05/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/cathedral-cove](../../../countries/NZ/sights/cathedral-cove.yaml) | 8.9 / 8.6 / 7.9 / 8.6 / 7.7 | depth: +0.7 vs peer; significance: +0.4 vs peer |
+| [NZ/moeraki-boulders](../../../countries/NZ/sights/moeraki-boulders.yaml) | 8.4 / 8.8 / 8.2 / 8.5 / 7.3 | depth: +1.1 vs peer; impact: +0.6 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-lake-wanaka — Lake Wānaka Public Shoreline and Lake Views — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/lake-wanaka.yaml)
+- Action: new
+- Scope: Lake shore and views, excludes Roys Peak route and town.
+- Representative coordinates: -44.69, 169.12; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.6 / 8.2 / 8.8 / 8.6.
+- Categories: nature:9.3 photography:9.3 relaxation:9.2.
+- Overall: 86.40/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/lake-tekapo](../../../countries/NZ/sights/lake-tekapo.yaml) | 9.0 / 8.7 / 8.2 / 8.9 / 8.5 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [NZ/lake-pukaki](../../../countries/NZ/sights/lake-pukaki.yaml) | 9.1 / 8.7 / 8.3 / 8.8 / 8.5 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-christchurch-botanic-gardens — Christchurch Botanic Gardens — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/christchurch-botanic-gardens.yaml)
+- Action: new
+- Scope: Botanic collections and garden walks; excludes adjoining Hagley Park.
+- Representative coordinates: -43.532, 172.621; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.5 / 8.6 / 8.9 / 8.9.
+- Categories: nature:9.2 relaxation:9.3 family:9.1.
+- Overall: 86.50/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/hamilton-gardens](../../../countries/NZ/sights/hamilton-gardens.yaml) | 8.8 / 8.9 / 8.5 / 9.0 / 9.0 | uniqueness: -0.4 vs peer; impact: -0.2 vs peer |
+| [NZ/lake-tekapo](../../../countries/NZ/sights/lake-tekapo.yaml) | 9.0 / 8.7 / 8.2 / 8.9 / 8.5 | impact: -0.4 vs peer; significance: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-raglan-surf — Raglan Manu Bay and Whale Bay Surfing Coast — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/raglan-surf.yaml)
+- Action: new
+- Scope: Established surf breaks and coastal viewing; conditions and ability dependent.
+- Representative coordinates: -37.828, 174.811; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.6 / 8.9 / 8.5.
+- Categories: adventure:9.3 beaches:9.2 photography:9.2.
+- Overall: 87.70/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/hot-water-beach](../../../countries/NZ/sights/hot-water-beach.yaml) | 8.6 / 9.1 / 8.2 / 8.8 / 8.2 | significance: +0.4 vs peer; depth: +0.3 vs peer |
+| [NZ/kaituna-rafting](../../../countries/NZ/sights/kaituna-rafting.yaml) | 8.8 / 8.9 / 8.4 / 9.2 / 8.6 | experience: -0.3 vs peer; significance: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-wairere-falls — Wairere Falls Kaimai Range Walking Track — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/wairere-falls.yaml)
+- Action: new
+- Scope: Specific waterfall hike, not whole Kaimai range.
+- Representative coordinates: -37.761, 175.789; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.5 / 8.2 / 8.7 / 8.4.
+- Categories: nature:9.2 photography:9.2 adventure:9.1.
+- Overall: 85.20/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/huka-falls](../../../countries/NZ/sights/huka-falls.yaml) | 8.8 / 8.6 / 7.9 / 8.7 / 7.4 | depth: +1.0 vs peer; significance: +0.3 vs peer |
+| [NZ/okere-falls-track](../../../countries/NZ/sights/okere-falls-track.yaml) | 8.2 / 8.0 / 7.9 / 8.6 / 7.8 | depth: +0.6 vs peer; impact: +0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 212 scope decisions
+
+Omaka exhibits grouped; separate from Wētā tour. Queen Charlotte Track walking and cycling grouped; not entire Marlborough Sounds. Forgotten World rail cart distinct from conventional trains. Te Paki dunes distinct from Cape Reinga headland; Wharariki beach distinct from Farewell Spit reserve. Existing remote island unassessed entries and prior scores preserved. Parent overlap questions from earlier passes remain deferred. Inferred type labels can be misleading (e.g. Christchurch railway matching church); generator change deferred to separate review.
+
+## sight-nz-timber-trail — Pureora Timber Trail Multi-Day Forest Cycling — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/timber-trail.yaml)
+- Action: new
+- Scope: 85 km DOC route with 35 bridges and former bush tramways, not a generic forest area.
+- Representative coordinates: -38.66, 175.6; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.1 / 8.8 / 9.2 / 9.3.
+- Categories: nature:9.3 adventure:9.4 history:9.2.
+- Overall: 90.45/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.doc.govt.nz/timber-trail, https://www.timbertrail.nz/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/otago-central-rail-trail](../../../countries/NZ/sights/otago-central-rail-trail.yaml) | 8.9 / 9.1 / 9.0 / 9.2 / 9.2 | significance: -0.2 vs peer; impact: +0.1 vs peer |
+| [NZ/alps-to-ocean](../../../countries/NZ/sights/alps-to-ocean.yaml) | 9.2 / 9.1 / 8.8 / 9.2 / 9.4 | impact: -0.2 vs peer; depth: -0.1 vs peer |
+| [AU/murray-mountains-railtrail](../../../countries/AU/sights/murray-mountains-railtrail.yaml) | 8.7 / 8.7 / 8.4 / 9.0 / 9.0 | uniqueness: +0.4 vs peer; significance: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-aotea-dark-sky — Aotea Great Barrier Island Dark Sky Sanctuary Stargazing — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/aotea-dark-sky.yaml)
+- Action: new
+- Scope: Dedicated night-sky experience within certified island sanctuary; no guaranteed clear sky or island-wide day attractions.
+- Representative coordinates: -36.22, 175.42; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.2 / 9.0 / 9.0 / 9.0.
+- Categories: nature:9.3 photography:9.4 relaxation:9.1.
+- Overall: 90.80/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://darksky.org/places/aotea-great-barrier-island-dark-sky-sanctuary/, https://www.greatbarrier.co.nz/our-great-skies/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/mount-john-stargazing](../../../countries/NZ/sights/mount-john-stargazing.yaml) | 9.1 / 9.3 / 9.1 / 9.2 / 9.1 | experience: -0.2 vs peer; uniqueness: -0.1 vs peer |
+| [NZ/kapiti-island](../../../countries/NZ/sights/kapiti-island.yaml) | 8.9 / 9.3 / 9.3 / 9.1 / 9.1 | significance: -0.3 vs peer; impact: +0.2 vs peer |
+| [AU/warrumbungle-dark-sky](../../../countries/AU/sights/warrumbungle-dark-sky.yaml) | 9.1 / 9.2 / 9.0 / 9.1 / 9.1 | experience: -0.1 vs peer; depth: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-kopinga-marae — Kōpinga Marae Guided Moriori Cultural Heritage Chatham Islands — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/kopinga-marae.yaml)
+- Action: new
+- Scope: Prebooked scheduled group visits only; representative Waitangi locality, not sensitive cultural locations.
+- Representative coordinates: -43.96, -176.53; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.6 / 9.2 / 9.3 / 8.6 / 8.7.
+- Categories: culture:9.4 history:9.3 architecture:9.0.
+- Overall: 89.00/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://chathamislands.co.nz/our-islands/culture-history/kopinga-marae/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/te-pa-tu](../../../countries/NZ/sights/te-pa-tu.yaml) | 8.9 / 9.2 / 9.1 / 9.3 / 9.0 | experience: -0.7 vs peer; impact: -0.3 vs peer |
+| [NZ/waitangi-treaty-grounds](../../../countries/NZ/sights/waitangi-treaty-grounds.yaml) | 8.0 / 8.8 / 9.2 / 8.5 / 8.2 | impact: +0.6 vs peer; depth: +0.5 vs peer |
+| [AU/tiwi-islands-culture](../../../countries/AU/sights/tiwi-islands-culture.yaml) | 8.9 / 9.3 / 9.2 / 9.1 / 8.9 | experience: -0.5 vs peer; impact: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-chatham-basalt — Ōhiro Bay Chatham Islands Basalt Columns — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/chatham-basalt.yaml)
+- Action: new
+- Scope: Named coastal basalt formations, landowner permissions as applicable; approximate bay locality.
+- Representative coordinates: -43.76, -176.66; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.3 / 8.5 / 8.1.
+- Categories: nature:9.2 photography:9.3 adventure:9.0.
+- Overall: 86.10/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://chathamislands.co.nz/see-do/attractions/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/pancake-rocks](../../../countries/NZ/sights/pancake-rocks.yaml) | 9.0 / 9.0 / 8.1 / 8.9 / 7.5 | depth: +0.6 vs peer; experience: -0.4 vs peer |
+| [NZ/moeraki-boulders](../../../countries/NZ/sights/moeraki-boulders.yaml) | 8.4 / 8.8 / 8.2 / 8.5 / 7.3 | depth: +0.8 vs peer; impact: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-mavora-lakes — Mavora Lakes Conservation Park Scenic Walks — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/mavora-lakes.yaml)
+- Action: new
+- Scope: Lakes and public walking routes; no duplication of separate named Fiordland treks.
+- Representative coordinates: -45.31, 168.19; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.6 / 8.3 / 8.7 / 8.7.
+- Categories: nature:9.3 photography:9.3 relaxation:9.1.
+- Overall: 86.25/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/lake-wanaka](../../../countries/NZ/sights/lake-wanaka.yaml) | 8.9 / 8.6 / 8.2 / 8.8 / 8.6 | impact: -0.1 vs peer; significance: +0.1 vs peer |
+| [NZ/nelson-lakes-national-park](../../../countries/NZ/sights/nelson-lakes-national-park.yaml) | 8.9 / 8.7 / 8.6 / 8.9 / 9.1 | depth: -0.4 vs peer; significance: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-putangirua-pinnacles — Putangirua Pinnacles Erosion Landscape — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/putangirua-pinnacles.yaml)
+- Action: new
+- Scope: Named geological landforms, conditional on permitted safe track access.
+- Representative coordinates: -41.44, 175.24; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.4 / 8.6 / 8.4.
+- Categories: nature:9.3 photography:9.3 adventure:9.1.
+- Overall: 87.05/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/castle-hill](../../../countries/NZ/sights/castle-hill.yaml) | 8.9 / 8.9 / 8.6 / 8.7 / 8.6 | significance: -0.2 vs peer; depth: -0.2 vs peer |
+| [NZ/moeraki-boulders](../../../countries/NZ/sights/moeraki-boulders.yaml) | 8.4 / 8.8 / 8.2 / 8.5 / 7.3 | depth: +1.1 vs peer; impact: +0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-cape-palliser — Cape Palliser Lighthouse and Fur Seal Coast — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/cape-palliser.yaml)
+- Action: new
+- Scope: Lighthouse and nearby coast grouped; keep distance from seals.
+- Representative coordinates: -41.61, 175.29; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.6 / 8.4 / 8.7 / 8.5.
+- Categories: nature:9.2 wildlife:9.2 photography:9.3.
+- Overall: 85.95/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/cape-reinga](../../../countries/NZ/sights/cape-reinga.yaml) | 9.0 / 9.0 / 9.0 / 8.6 / 7.8 | depth: +0.7 vs peer; significance: -0.6 vs peer |
+| [NZ/kaikoura-peninsula-walkway](../../../countries/NZ/sights/kaikoura-peninsula-walkway.yaml) | 8.6 / 8.2 / 8.0 / 8.8 / 8.4 | uniqueness: +0.4 vs peer; significance: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-waipoua-forest — Waipoua Forest Tāne Mahuta and Kauri Heritage Walks — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/waipoua-forest.yaml)
+- Action: new
+- Scope: Public kauri viewing and interpretation only; biosecurity and track closures respected.
+- Representative coordinates: -35.6, 173.53; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 9.0 / 9.0 / 8.6 / 8.5.
+- Categories: nature:9.4 culture:9.3 photography:9.2.
+- Overall: 88.60/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/maungatautari](../../../countries/NZ/sights/maungatautari.yaml) | 9.0 / 9.3 / 9.4 / 9.0 / 9.2 | depth: -0.7 vs peer; significance: -0.4 vs peer |
+| [NZ/tiritiri-matangi](../../../countries/NZ/sights/tiritiri-matangi.yaml) | 8.8 / 9.1 / 9.1 / 8.9 / 9.0 | depth: -0.5 vs peer; experience: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-puzzling-world — Puzzling World Wānaka Illusion Rooms and Maze — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/puzzling-world.yaml)
+- Action: new
+- Scope: Optical illusion exhibits and maze, independent from lake shoreline.
+- Representative coordinates: -44.7, 169.16; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.8 / 8.1 / 9.0 / 8.6.
+- Categories: family:9.3 culture:9.0 photography:9.0.
+- Overall: 85.80/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/weta-workshop](../../../countries/NZ/sights/weta-workshop.yaml) | 8.8 / 9.2 / 9.1 / 9.2 / 9.0 | significance: -1.0 vs peer; uniqueness: -0.4 vs peer |
+| [NZ/skyline-queenstown](../../../countries/NZ/sights/skyline-queenstown.yaml) | 8.9 / 8.5 / 8.1 / 9.1 / 8.5 | impact: -0.4 vs peer; uniqueness: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-polynesian-spa — Polynesian Spa Rotorua Geothermal Bathing — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/polynesian-spa.yaml)
+- Action: new
+- Scope: Established geothermal bathing experience, not geothermal sightseeing.
+- Representative coordinates: -38.137, 176.258; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.6 / 8.3 / 9.0 / 8.5.
+- Categories: relaxation:9.4 nature:9.1 family:9.0.
+- Overall: 85.60/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/hells-gate-geothermal-park](../../../countries/NZ/sights/hells-gate-geothermal-park.yaml) | 8.7 / 8.9 / 8.5 / 8.9 / 8.4 | uniqueness: -0.3 vs peer; impact: -0.2 vs peer |
+| [NZ/hot-water-beach](../../../countries/NZ/sights/hot-water-beach.yaml) | 8.6 / 9.1 / 8.2 / 8.8 / 8.2 | uniqueness: -0.5 vs peer; depth: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-marlborough-wine — Marlborough Wine Heritage and Cellar Door Route — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/marlborough-wine.yaml)
+- Action: new
+- Scope: Regional wine interpretation route, not individual wineries or Queen Charlotte trek.
+- Representative coordinates: -41.51, 173.85; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.6 / 9.0 / 8.9.
+- Categories: food:9.4 culture:9.2 relaxation:9.2.
+- Overall: 87.70/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/hamilton-gardens](../../../countries/NZ/sights/hamilton-gardens.yaml) | 8.8 / 8.9 / 8.5 / 9.0 / 9.0 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [NZ/te-pa-tu](../../../countries/NZ/sights/te-pa-tu.yaml) | 8.9 / 9.2 / 9.1 / 9.3 / 9.0 | significance: -0.5 vs peer; uniqueness: -0.4 vs peer |
+| [AU/hunter-valley-wine](../../../countries/AU/sights/hunter-valley-wine.yaml) | 8.7 / 8.7 / 8.6 / 9.0 / 8.9 | uniqueness: +0.1 vs peer; impact: +0.0 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-otago-goldfields — Arrowtown Historic Gold Mining Precinct — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/otago-goldfields.yaml)
+- Action: new
+- Scope: Historic streets and Chinese settlement heritage grouped; not wider town amenities.
+- Representative coordinates: -44.94, 168.83; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.7 / 8.8 / 8.8 / 8.7.
+- Categories: history:9.3 culture:9.2 architecture:9.1.
+- Overall: 87.05/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/napier-art-deco](../../../countries/NZ/sights/napier-art-deco.yaml) | 8.4 / 8.9 / 8.5 / 8.3 / 8.0 | depth: +0.7 vs peer; experience: +0.5 vs peer |
+| [NZ/toitu-otago](../../../countries/NZ/sights/toitu-otago.yaml) | 8.6 / 8.7 / 8.9 / 8.8 / 8.9 | depth: -0.2 vs peer; significance: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-steampunk-hq — Steampunk HQ Oamaru Creative Art Experience — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/steampunk-hq.yaml)
+- Action: new
+- Scope: Distinct art installation and museum; excludes penguin colony.
+- Representative coordinates: -45.1, 170.97; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.9 / 8.2 / 8.8 / 8.4.
+- Categories: culture:9.2 family:9.1 photography:9.1.
+- Overall: 85.75/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/govett-brewster](../../../countries/NZ/sights/govett-brewster.yaml) | 8.7 / 9.0 / 8.7 / 8.8 / 8.7 | significance: -0.5 vs peer; depth: -0.3 vs peer |
+| [NZ/weta-workshop](../../../countries/NZ/sights/weta-workshop.yaml) | 8.8 / 9.2 / 9.1 / 9.2 / 9.0 | significance: -0.9 vs peer; depth: -0.6 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nz-wellington-cable-car — Wellington Cable Car and Cable Car Museum — 2026-11-27
+
+- YAML: [source](../../../countries/NZ/sights/wellington-cable-car.yaml)
+- Action: new
+- Scope: Heritage funicular and small museum; excludes botanic garden.
+- Representative coordinates: -41.285, 174.767; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.5 / 8.6 / 8.8 / 8.4.
+- Categories: history:9.1 photography:9.2 family:9.1.
+- Overall: 85.55/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NZ/tranzalpine](../../../countries/NZ/sights/tranzalpine.yaml) | 9.2 / 9.1 / 8.9 / 9.2 / 9.1 | impact: -0.7 vs peer; depth: -0.7 vs peer |
+| [NZ/sky-tower-auckland](../../../countries/NZ/sights/sky-tower-auckland.yaml) | 8.6 / 8.3 / 7.9 / 8.8 / 7.4 | depth: +1.0 vs peer; significance: +0.7 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 213 scope decisions
+
+Ulva Island deferred because DOC confirms most is within Rakiura National Park (https://www.doc.govt.nz/documents/about-doc/role/policies-and-plans/cms/stewart-island-rakiura-cms-and-rakiura-np-mp-2012.pdf); Blue Pools deferred as Mount Aspiring parent day walk. Hāpūpū tree carvings need condition/access assessment before scoring (https://www.doc.govt.nz/parks-and-recreation/places-to-go/chatham-islands/places/hapupu-jm-barker-historic-reserve/). Kōpinga Marae booked group experience only. Aotea dark sky scope excludes day attractions. Existing remote island unassessed entries and prior scores preserved. Parent overlap questions and generator type bug remain deferred. NZ bounded discovery queue closed; reopen on concrete substantial omission, not exhaustive.

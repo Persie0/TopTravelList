@@ -1,0 +1,16 @@
+id: sight-ca-royal-botanical-gardens
+name: "Royal Botanical Gardens Burlington Hamilton"
+location:
+  country_code: CA
+  latitude: 43.29
+  longitude: -79.875
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.9
+  depth: 9.0
+  categories:
+    nature: 9.3
+    photography: 9.3
+    relaxation: 9.2

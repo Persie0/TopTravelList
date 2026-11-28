@@ -1,0 +1,16 @@
+id: sight-cl-santiago-fiestas-patrias
+name: "Santiago Parque O'Higgins Fiestas Patrias Public Fondas"
+location:
+  country_code: CL
+  latitude: -33.464
+  longitude: -70.66
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 9.3
+  depth: 8.8
+  categories:
+    culture: 9.4
+    food: 9.3
+    nightlife: 9.2

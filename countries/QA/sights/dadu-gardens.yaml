@@ -1,0 +1,16 @@
+id: sight-qa-dadu-gardens
+name: "Dadu Gardens"
+location:
+  country_code: QA
+  latitude: 25.3075469
+  longitude: 51.5093018
+scores:
+  impact: 7.6
+  uniqueness: 8.2
+  significance: 7.6
+  experience: 8.3
+  depth: 7.7
+  categories:
+    family: 9.0
+    culture: 8.3
+    nature: 8.3

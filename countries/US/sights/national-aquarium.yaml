@@ -1,0 +1,16 @@
+id: sight-us-national-aquarium
+name: "National Aquarium Baltimore Inner Harbor"
+location:
+  country_code: US
+  latitude: 39.285
+  longitude: -76.608
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 9.3
+  depth: 9.1
+  categories:
+    wildlife: 9.3
+    family: 9.4
+    nature: 9.0

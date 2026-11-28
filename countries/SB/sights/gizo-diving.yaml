@@ -1,0 +1,16 @@
+id: sight-sb-gizo-diving
+name: "Gizo Offshore Reefs and Historic Wreck Diving"
+location:
+  country_code: SB
+  latitude: -8.11
+  longitude: 156.83
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 9.0
+  experience: 9.1
+  depth: 9.1
+  categories:
+    nature: 9.3
+    adventure: 9.4
+    history: 9.3

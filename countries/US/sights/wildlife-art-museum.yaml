@@ -1,0 +1,16 @@
+id: sight-us-wildlife-art-museum
+name: "National Museum of Wildlife Art Jackson Wyoming"
+location:
+  country_code: US
+  latitude: 43.523
+  longitude: -110.747
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 8.9
+  experience: 8.8
+  depth: 9.0
+  categories:
+    culture: 9.3
+    photography: 9.1
+    nature: 8.8

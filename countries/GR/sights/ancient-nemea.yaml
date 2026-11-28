@@ -1,0 +1,16 @@
+id: sight-gr-ancient-nemea
+name: "Ancient Nemea Sanctuary and Stadium"
+location:
+  country_code: GR
+  latitude: 37.80904
+  longitude: 22.71054
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.7
+  depth: 8.7
+  categories:
+    history: 9.3
+    architecture: 9.1
+    culture: 9.0

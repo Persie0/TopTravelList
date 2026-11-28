@@ -1,0 +1,16 @@
+id: sight-us-milwaukee-art-museum
+name: "Milwaukee Art Museum and Quadracci Pavilion"
+location:
+  country_code: US
+  latitude: 43.04
+  longitude: -87.897
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 9.0
+  experience: 9.1
+  depth: 9.2
+  categories:
+    culture: 9.3
+    architecture: 9.4
+    photography: 9.3

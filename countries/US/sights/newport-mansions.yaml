@@ -1,0 +1,16 @@
+id: sight-us-newport-mansions
+name: "Newport Gilded Age Mansions and Gardens"
+location:
+  country_code: US
+  latitude: 41.469
+  longitude: -71.298
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 9.0
+  depth: 9.0
+  categories:
+    architecture: 9.4
+    history: 9.2
+    photography: 9.3

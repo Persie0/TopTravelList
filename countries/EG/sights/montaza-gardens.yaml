@@ -1,0 +1,16 @@
+id: sight-eg-montaza-gardens
+name: "Montaza Gardens and Palace Exteriors"
+location:
+  country_code: EG
+  latitude: 31.2885
+  longitude: 30.016
+scores:
+  impact: 8.6
+  uniqueness: 8.3
+  significance: 8.0
+  experience: 8.7
+  depth: 8.5
+  categories:
+    architecture: 8.8
+    photography: 9.0
+    relaxation: 9.0

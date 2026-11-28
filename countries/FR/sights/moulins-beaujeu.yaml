@@ -1,0 +1,15 @@
+id: sight-fr-moulins-beaujeu
+name: "Musée Anne de Beaujeu Moulins Art and Archaeology Collections"
+location:
+  country_code: FR
+  latitude: 46.567
+  longitude: 3.331
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.8
+  depth: 8.9
+  categories:
+    culture: 9.3
+    history: 9.3

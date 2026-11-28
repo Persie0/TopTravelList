@@ -1,0 +1,17 @@
+id: sight-tr-yedigoller
+name: "Yedigöller National Park"
+location:
+  country_code: TR
+  latitude: 40.944
+  longitude: 31.75
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.5
+  experience: 8.9
+  depth: 8.8
+  categories:
+    nature: 9.3
+    photography: 9.3
+    relaxation: 9.0
+    adventure: 8.9

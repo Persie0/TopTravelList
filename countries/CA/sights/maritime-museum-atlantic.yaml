@@ -1,0 +1,16 @@
+id: sight-ca-maritime-museum-atlantic
+name: "Maritime Museum of the Atlantic Halifax"
+location:
+  country_code: CA
+  latitude: 44.647
+  longitude: -63.571
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.8
+  depth: 9.0
+  categories:
+    history: 9.3
+    culture: 9.2
+    family: 9.1

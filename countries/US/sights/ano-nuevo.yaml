@@ -1,0 +1,16 @@
+id: sight-us-ano-nuevo
+name: "Año Nuevo State Park Elephant Seal Observation"
+location:
+  country_code: US
+  latitude: 37.115
+  longitude: -122.306
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 8.8
+  depth: 8.7
+  categories:
+    wildlife: 9.4
+    nature: 9.3
+    photography: 9.3

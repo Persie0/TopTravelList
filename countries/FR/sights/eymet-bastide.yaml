@@ -1,0 +1,17 @@
+id: sight-fr-eymet-bastide
+name: "Eymet Historic Bastide Town"
+location:
+  country_code: FR
+  latitude: 44.668
+  longitude: 0.398
+scores:
+  impact: 8.3
+  uniqueness: 8.4
+  significance: 8.5
+  experience: 8.6
+  depth: 8.4
+  categories:
+    architecture: 8.9
+    photography: 9.0
+    culture: 8.9
+    relaxation: 8.9

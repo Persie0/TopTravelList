@@ -1,0 +1,16 @@
+id: sight-ec-cerro-blanco-dry-forest
+name: "Cerro Blanco Protected Tropical Dry Forest Trails"
+location:
+  country_code: EC
+  latitude: -2.18
+  longitude: -80.01
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.7
+  depth: 8.6
+  categories:
+    nature: 9.3
+    wildlife: 9.2
+    photography: 9.0

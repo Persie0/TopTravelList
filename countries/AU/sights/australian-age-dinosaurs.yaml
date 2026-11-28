@@ -1,0 +1,16 @@
+id: sight-au-australian-age-dinosaurs
+name: "Australian Age of Dinosaurs Museum Winton"
+location:
+  country_code: AU
+  latitude: -22.404
+  longitude: 143.084
+scores:
+  impact: 8.8
+  uniqueness: 9.2
+  significance: 8.9
+  experience: 8.9
+  depth: 9.1
+  categories:
+    history: 9.3
+    nature: 9.2
+    family: 9.2

@@ -1,0 +1,16 @@
+id: sight-tn-djerbahood
+name: "Djerbahood Street Art"
+location:
+  country_code: TN
+  latitude: 33.8231
+  longitude: 10.854
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 7.9
+  experience: 8.8
+  depth: 8.3
+  categories:
+    culture: 9.1
+    photography: 9.2
+    architecture: 8.6

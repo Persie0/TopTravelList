@@ -1,0 +1,16 @@
+id: sight-id-waterbom-bali
+name: "Waterbom Bali"
+location:
+  country_code: ID
+  latitude: -8.72858
+  longitude: 115.169374
+scores:
+  impact: 8.3
+  uniqueness: 8.1
+  significance: 5.8
+  experience: 9.2
+  depth: 8.5
+  categories:
+    family: 9.1
+    adventure: 9.0
+    relaxation: 8.5

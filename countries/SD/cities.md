@@ -2,7 +2,7 @@
 
 # Sudan (SD) — Cities, towns & villages ranking
 
-**7 ranked** · **2 unassessed** · **9 total** · Worldwide scoring **v2**
+**9 ranked** · **0 unassessed** · **9 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,26 +10,19 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (7)
+## Complete ranked list (9)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | 1 | [Omdurman](cities/omdurman.yaml) | City / town | **80.75** | **History 8.9**, **Culture 8.8** | 7.6 / 8.3 / 8.7 / 7.8 / 8.1 | [15.645, 32.478](https://www.google.com/maps/search/?api=1&query=15.645,32.478) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Omdurman%2C%20Sudan) |
 | 1 | [Suakin](cities/suakin.yaml) | City / town | **80.75** | **History 8.8**, **Architecture 8.5** | 7.9 / 8.6 / 8.5 / 7.5 / 7.3 | [19.1, 37.3333](https://www.google.com/maps/search/?api=1&query=19.1,37.3333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Suakin%2C%20Sudan) |
 | 3 | [Kassala](cities/kassala.yaml) | City / town | **79.25** | **Photography 8.5**, **Culture 8.4** | 8.0 / 8.2 / 7.6 / 7.9 / 7.7 | [15.451, 36.4](https://www.google.com/maps/search/?api=1&query=15.451,36.4) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kassala%2C%20Sudan) |
-| 4 | [Dongola](cities/dongola.yaml) | City / town | **73.10** | **Culture 7.9** | 7.0 / 7.6 / 7.5 / 7.4 / 7.0 | [19.1816, 30.4769](https://www.google.com/maps/search/?api=1&query=19.1816,30.4769) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dongola%2C%20Sudan) |
-| 4 | [Port Sudan](cities/port-sudan.yaml) | City / town | **73.10** | **Culture 7.6**, **Food 7.4** | 7.0 / 7.4 / 7.7 / 7.4 / 7.1 | [19.617, 37.216](https://www.google.com/maps/search/?api=1&query=19.617,37.216) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Port%20Sudan%2C%20Sudan) |
-| 6 | [Karima](cities/karima.yaml) | City / town | **70.65** | — | 6.8 / 7.6 / 7.3 / 6.9 / 6.3 | [18.55, 31.85](https://www.google.com/maps/search/?api=1&query=18.55,31.85) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Karima%2C%20Sudan) |
-| 7 | [Shendi](cities/shendi.yaml) | City / town | **69.60** | — | 6.5 / 7.4 / 7.6 / 6.8 / 6.2 | [16.6915, 33.4341](https://www.google.com/maps/search/?api=1&query=16.6915,33.4341) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Shendi%2C%20Sudan) |
-
-## Not yet fully assessed (2)
-
-These destinations have no rank until all five core scores are assessed.
-
-| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
-| ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Atbara](cities/atbara.yaml) | City / town | **—** | — | — / 7.3 / 7.4 / — / — | [17.70217, 33.98638](https://www.google.com/maps/search/?api=1&query=17.70217,33.98638) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Atbara%2C%20Sudan) |
-| — | [Khartoum](cities/khartoum.yaml) | City / town | **—** | **History 8.5**, **Culture 8.2** | 7.4 / 7.8 / 8.4 / — / — | [15.552, 32.532](https://www.google.com/maps/search/?api=1&query=15.552,32.532) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Khartoum%2C%20Sudan) |
+| 4 | [Khartoum](cities/khartoum.yaml) | City / town | **78.40** | **History 8.5**, **Culture 8.2** | 7.4 / 7.8 / 8.4 / 7.8 / 8.2 | [15.552, 32.532](https://www.google.com/maps/search/?api=1&query=15.552,32.532) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Khartoum%2C%20Sudan) |
+| 5 | [Dongola](cities/dongola.yaml) | City / town | **73.10** | **Culture 7.9** | 7.0 / 7.6 / 7.5 / 7.4 / 7.0 | [19.1816, 30.4769](https://www.google.com/maps/search/?api=1&query=19.1816,30.4769) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dongola%2C%20Sudan) |
+| 5 | [Port Sudan](cities/port-sudan.yaml) | City / town | **73.10** | **Culture 7.6**, **Food 7.4** | 7.0 / 7.4 / 7.7 / 7.4 / 7.1 | [19.617, 37.216](https://www.google.com/maps/search/?api=1&query=19.617,37.216) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Port%20Sudan%2C%20Sudan) |
+| 7 | [Atbara](cities/atbara.yaml) | City / town | **72.60** | — | 7.0 / 7.3 / 7.4 / 7.3 / 7.6 | [17.70217, 33.98638](https://www.google.com/maps/search/?api=1&query=17.70217,33.98638) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Atbara%2C%20Sudan) |
+| 8 | [Karima](cities/karima.yaml) | City / town | **70.65** | — | 6.8 / 7.6 / 7.3 / 6.9 / 6.3 | [18.55, 31.85](https://www.google.com/maps/search/?api=1&query=18.55,31.85) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Karima%2C%20Sudan) |
+| 9 | [Shendi](cities/shendi.yaml) | City / town | **69.60** | — | 6.5 / 7.4 / 7.6 / 6.8 / 6.2 | [16.6915, 33.4341](https://www.google.com/maps/search/?api=1&query=16.6915,33.4341) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Shendi%2C%20Sudan) |
 
 ---
 
