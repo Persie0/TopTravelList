@@ -1,0 +1,18 @@
+id: sight-gt-candelaria-caves
+name: "Candelaria Caves and Underground River"
+location:
+  country_code: GT
+  latitude: 15.866241
+  longitude: -90.043387
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.2
+    adventure: 9.2
+    history: 9.3
+    culture: 9.2
+    photography: 9.0

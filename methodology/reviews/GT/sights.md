@@ -2286,3 +2286,207 @@ Seven new natural and archaeological attractions: three fact-checked and four pr
 - High-score challenge: No 90+ overall. No 9.5+ fields or approved 10 requested.
 - Earlier decision: none.
 - Remaining verification: exact visitor route and current habitat/visible condition where uncertain, additional numeric peer comparisons and full diagnostics. No access or wildlife guarantee.
+
+# Pass 398 — 2026-11-28 — direct main continuation
+
+Eight new cave, waterfall and canyon attractions: one fact-checked and seven provisional source-linked, all complete editorial scores. JS inventory, formula, coordinate range, uniqueness, ranking and README checks only; full Python validation/benchmark scripts and Actions not run. No unrestricted cave passage access or ritual participation credited; K’an Ba is separate from Semuc Champey; El Boquerón is distinct from Río Dulce Canyon. Nearby B’omb’il Pek and Jul Iq’ grouped as a paired visit.
+
+## sight-gt-candelaria-caves — Candelaria Caves and Underground River — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/candelaria-caves.yaml)
+- Action: new
+- Precise subject: Named cave network and documented guided sections, not every surveyed passage or private sacred ceremonies.
+- Location check: https://en.wikipedia.org/wiki/Candelaria_Caves (coordinate excerpt; approximate network point)
+- Evidence status: fact-checked
+- Sources inspected 2026-11-28: INGUAT https://visitguatemala.gt/en/blog/what-see-do-candelaria-caves/ (opened: guided visitor sections, underground river and formations); FAMSI https://www.famsi.org/reports/02083es/index.html and https://www.famsi.org/reports/02083es/section02.htm (search excerpts: Early Classic pilgrimage center and cave network); https://www.showcaves.com/english/gt/showcaves/Candelaria.html (opened: main river passage and ongoing sacred use); national declaration https://media.unesco.org/sites/default/files/webform/mhm001/guatemala_acuerdo_188_20_04_1999_spa_orof.pdf (search excerpt: 1999 national cultural heritage).
+- Worldwide peers (current YAML checked for Naj Tunich, Lanquín, Semuc Champey and Phong Nha; other comparisons qualitative):
+  - Naj Tunich (GT, 89.95): more concentrated archaeological imagery, less river adventure.
+  - Phong Nha Ke Bang NP (VN, 97.90): much greater cave scale and variety; broader protected area.
+  - Actun Tunichil Muknal (BZ): similarly exceptional cave archaeology, more focused artifact encounter.
+  - Waitomo Glowworm Caves (NZ): distinctive bioluminescence, less Maya sacred and archaeological context.
+- Individual scores:
+  - impact: 9.1 — Large underground river chambers and formations give strong scenic impact.
+  - uniqueness: 9.2 — Combination of extensive active karst and historically sacred pilgrimage landscape is uncommon.
+  - significance: 9.3 — Archaeological evidence and continuing spiritual importance strengthen global cultural significance.
+  - experience: 8.8 — Guided underground river and cave walks offer high engagement without technical-only passages.
+  - depth: 8.8 — Multiple documented visitor sections, archaeology and geomorphology provide substantial breadth.
+- Categories: nature 9.2, adventure 9.2, history 9.3, culture 9.2, photography 9.0.
+- Overall: 90.90/100.
+- High-score challenge: Documented major underground river system, substantial pilgrimage archaeology and guided experience together justify low 90s; far below Phong Nha for overall scale, and not credited with unrestricted passages or ceremonial participation. No 9.5+ fields or approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact entrance, current permitted routes, water conditions, additional numeric peer comparisons and full diagnostics. No access guarantee.
+
+## sight-gt-hun-nal-ye — Hun Nal Ye Cenote and Waterfall Ecological Park — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/hun-nal-ye.yaml)
+- Action: new
+- Precise subject: Public ecological park, natural pools and cultural context; no assumed access to archaeological deposits.
+- Location check: https://mapcarta.com/34489040 (opened archaeological locality, approximate park representative)
+- Evidence status: source-linked-unverified
+- Sources inspected 2026-11-28: INGUAT https://visitguatemala.gt/en/blog/hun-nal-ye-alta-verapaz-adventure-guide-natural-pools-great-outdoors/ (excerpt: waterfalls, cenote and excavated ceramic artifacts); https://www.mdpi.com/2077-1444/12/12/1109 (excerpt: sacred cave context).
+- Worldwide peers (current YAML checked for Naj Tunich, Lanquín, Semuc Champey and Phong Nha; other comparisons qualitative):
+  - Ik Kil cenote (MX): stronger single-cenote visual identity.
+  - Semuc Champey (GT): greater distinctive travertine-pool landscape.
+  - Candelaria Caves (GT): more extensive underground system.
+  - Rio Celeste (CR): more distinctive water coloration.
+- Individual scores:
+  - impact: 8.8 — Forested pools and falls offer strong visual impact.
+  - uniqueness: 8.6 — Sacred karst landscape and multi-feature setting distinguish the park.
+  - significance: 8.8 — Documented Maya archaeology provides cultural significance beyond recreation.
+  - experience: 8.7 — Natural walks and permitted water activities offer rewarding engagement.
+  - depth: 8.6 — Several natural features and historical context provide depth.
+- Categories: nature 9.1, adventure 8.8, history 8.9, photography 9.0.
+- Overall: 87.15/100.
+- High-score challenge: No 90+ overall. No 9.5+ fields or approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact entrance, current permitted routes, water conditions, additional numeric peer comparisons and full diagnostics. No access guarantee.
+
+## sight-gt-bombil-pek-jul-iq — B’omb’il Pek and Jul Iq’ Caves — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/bombil-pek-jul-iq.yaml)
+- Action: new
+- Precise subject: Nearby caves commonly visited together, distinct from Candelaria; no guarantee of seeing paintings or technical access.
+- Location check: https://mapcarta.com/N5446769221 (opened visitor information point)
+- Evidence status: source-linked-unverified
+- Sources inspected 2026-11-28: https://showcaves.com/english/gt/caves/BombilPek.html (opened: paired guided cave tours); INGUAT https://biblioteca.inguat.gob.gt/Digital/Doctos%20virtuales/Guia%20espeoloturismo%20Las%20Verapaces%20Paraiso%20Natural.pdf (excerpt: Maya ceramics, altars and rock paintings).
+- Worldwide peers (current YAML checked for Naj Tunich, Lanquín, Semuc Champey and Phong Nha; other comparisons qualitative):
+  - Actun Tunichil Muknal (BZ): greater archaeological visitor distinction.
+  - Candelaria Caves (GT): broader cave network and stronger historical significance.
+  - Waitomo (NZ): more iconic biological spectacle.
+  - Grutas de Lanquín (GT): comparable karst, less technical visit.
+- Individual scores:
+  - impact: 8.5 — Cave chambers and archaeological context provide strong impact.
+  - uniqueness: 8.8 — Paired cave adventure with Maya art evidence is distinctive.
+  - significance: 8.6 — Rock art and archaeological remains give substantial regional value.
+  - experience: 8.7 — Guided cave exploration rewards suitably prepared visitors.
+  - depth: 8.5 — Two cave settings offer meaningful breadth without nearby unrelated tubing.
+- Categories: adventure 9.2, nature 8.8, history 8.9, culture 8.7.
+- Overall: 86.25/100.
+- High-score challenge: No 90+ overall. No 9.5+ fields or approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact entrance, current permitted routes, water conditions, additional numeric peer comparisons and full diagnostics. No access guarantee.
+
+## sight-gt-kan-ba-caves — K’an Ba Caves and Underground Water Adventure — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/kan-ba-caves.yaml)
+- Action: new
+- Precise subject: Guided water cave experience only, excludes Semuc Champey pools and Cahabón surface excursions.
+- Location check: https://www.showcaves.com/english/gt/caves/KanBa.html (opened coordinates)
+- Evidence status: source-linked-unverified
+- Sources inspected 2026-11-28: Same source: documented river cave and partial guided visits; https://www.guatevalley.com/que-visitar/cuevas-de-kanba-lanquin-alta-verapaz (excerpt: nearby separate cave attraction). Conflicting route lengths not used.
+- Worldwide peers (current YAML checked for Naj Tunich, Lanquín, Semuc Champey and Phong Nha; other comparisons qualitative):
+  - Candelaria Caves (GT): much greater cultural significance and network breadth.
+  - Actun Tunichil Muknal (BZ): stronger archaeological context.
+  - Waitomo (NZ): more globally distinctive cave biology.
+  - Grutas de Lanquín (GT): separate cave experience with less immersion in water.
+- Individual scores:
+  - impact: 8.4 — Dark river chambers provide memorable scenic experience.
+  - uniqueness: 8.2 — Water-based cave exploration occurs in many karst regions.
+  - significance: 7.4 — Local geological interest without major archaeological claims.
+  - experience: 8.8 — Guided adventure can be engaging; safe route and conditions matter.
+  - depth: 7.8 — Short visitor section limits depth compared with large cave systems.
+- Categories: adventure 9.1, nature 8.7, photography 8.4.
+- Overall: 81.50/100.
+- High-score challenge: No 90+ overall. No 9.5+ fields or approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact entrance, current permitted routes, water conditions, additional numeric peer comparisons and full diagnostics. No access guarantee.
+
+## sight-gt-finca-el-paraiso-thermal-waterfall — Finca El Paraíso Thermal Waterfall — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/finca-el-paraiso-thermal-waterfall.yaml)
+- Action: new
+- Precise subject: Hot waterfall and adjacent cool river pool, not resort lodging or El Boquerón Canyon.
+- Location check: https://mapcarta.com/N2640353201 (opened mapped waterfall)
+- Evidence status: source-linked-unverified
+- Sources inspected 2026-11-28: Lonely Planet https://www.lonelyplanet.com/points-of-interest/turicentro-el-paraiso/1331618 (excerpt: hot waterfall and pool); government newspaper https://dca.gob.gt/noticias-guatemala-diario-centro-america/finca-el-paraiso-y-el-boqueron-izabal/ (excerpt); https://www.boatiquehotelandmarina.com/what-to-do (excerpt: hot-cold water contrast).
+- Worldwide peers (current YAML checked for Naj Tunich, Lanquín, Semuc Champey and Phong Nha; other comparisons qualitative):
+  - Salto Malacatiupán (SV): comparable thermal waterfall and river bathing.
+  - Saturnia Cascate del Mulino (IT): more extensive iconic thermal cascades.
+  - Pamukkale (TR): much greater travertine formations and historical significance.
+  - Kerosene Creek (NZ): comparable warm natural stream and waterfall recreation.
+- Individual scores:
+  - impact: 8.6 — Hot waterfall in lush surroundings creates a memorable encounter.
+  - uniqueness: 9.0 — Naturally hot cascade meeting cooler river water is relatively uncommon.
+  - significance: 7.8 — Regional geothermal interest without claiming a globally unique phenomenon.
+  - experience: 8.8 — Contrasting water environments offer appealing relaxation where safe.
+  - depth: 7.8 — Single waterfall and pool limit breadth.
+- Categories: nature 8.9, relaxation 9.1, photography 8.8.
+- Overall: 84.90/100.
+- High-score challenge: No 90+ overall. No 9.5+ fields or approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact entrance, current permitted routes, water conditions, additional numeric peer comparisons and full diagnostics. No access guarantee.
+
+## sight-gt-siete-altares — Siete Altares Waterfalls and Natural Pools — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/siete-altares.yaml)
+- Action: new
+- Precise subject: Named tiered pools and waterfalls, not Livingston town or Caribbean beach visits.
+- Location check: https://mapcarta.com/N12610053811 (opened waterfall point)
+- Evidence status: source-linked-unverified
+- Sources inspected 2026-11-28: INGUAT https://visitguatemala.gt/en/blog/seven-altars-natural-pools/ (excerpt: tiered falls, pools and variable flow); https://www.guatemala.com/guias/aventura/destinos-naturales-izabal/el-boqueron-parque-ecologico-con-paseos-en-cayuco-.html (excerpt: seven pools).
+- Worldwide peers (current YAML checked for Naj Tunich, Lanquín, Semuc Champey and Phong Nha; other comparisons qualitative):
+  - Semuc Champey (GT): much more unusual limestone bridge and pool landscape.
+  - Kuang Si Falls (LA): more impressive main cascade and travertine tiers.
+  - Tamanique Waterfalls (SV): comparable forest waterfall outing.
+  - Erawan Falls (TH): larger tiered falls and hiking breadth.
+- Individual scores:
+  - impact: 8.1 — Forest cascades and pools provide pleasant scenic impact.
+  - uniqueness: 7.9 — Tiered natural pools are globally common.
+  - significance: 7.3 — Mainly local ecological and recreational significance.
+  - experience: 8.4 — Walking and permitted bathing are enjoyable in suitable conditions.
+  - depth: 7.8 — Several pools provide more depth than a single waterfall.
+- Categories: nature 8.6, relaxation 8.7, photography 8.6.
+- Overall: 79.05/100.
+- High-score challenge: No 90+ overall. No 9.5+ fields or approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact entrance, current permitted routes, water conditions, additional numeric peer comparisons and full diagnostics. No access guarantee.
+
+## sight-gt-el-boqueron-canyon — El Boquerón Canyon (Izabal) — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/el-boqueron-canyon.yaml)
+- Action: new
+- Precise subject: Named limestone river canyon near El Estor; excludes Río Dulce Canyon and Finca El Paraíso.
+- Location check: https://mapcarta.com/es/N6225258085 (opened nearby campsite representative; not surveyed canyon center)
+- Evidence status: source-linked-unverified
+- Sources inspected 2026-11-28: https://www.boatiquehotelandmarina.com/what-to-do (excerpt: towering limestone walls and green water); https://dca.gob.gt/noticias-guatemala-diario-centro-america/finca-el-paraiso-y-el-boqueron-izabal/ (excerpt: named destination); https://www.guatemala.com/guias/aventura/destinos-naturales-izabal/el-boqueron-parque-ecologico-con-paseos-en-cayuco-.html (excerpt: canoe excursions).
+- Worldwide peers (current YAML checked for Naj Tunich, Lanquín, Semuc Champey and Phong Nha; other comparisons qualitative):
+  - Sumidero Canyon (MX): considerably greater scale and wildlife breadth.
+  - Verdon Gorge (FR): far larger dramatic canyon landscape.
+  - Río Dulce Canyon (GT): broader river corridor and cultural context.
+  - Saklikent Gorge (TR): comparable focused gorge outing with different hydrology.
+- Individual scores:
+  - impact: 8.7 — Sheer limestone walls and green water give striking local scenery.
+  - uniqueness: 8.3 — Narrow tropical river canyon is distinctive regionally, not globally rare.
+  - significance: 7.6 — Mainly regional geomorphological significance.
+  - experience: 8.7 — Guided boat exploration offers rewarding immersion.
+  - depth: 8.1 — Canyon route provides moderate focused depth.
+- Categories: nature 8.9, adventure 8.8, photography 9.0.
+- Overall: 83.20/100.
+- High-score challenge: No 90+ overall. No 9.5+ fields or approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact entrance, current permitted routes, water conditions, additional numeric peer comparisons and full diagnostics. No access guarantee.
+
+## sight-gt-las-conchas-waterfalls — Las Conchas Waterfalls and Natural Recreation Park — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/las-conchas-waterfalls.yaml)
+- Action: new
+- Precise subject: Municipal protected waterfall and pool landscape, excludes wider Sierra de Chamá corridor.
+- Location check: https://mapcarta.com/W1187440362 (opened protected-area representative point)
+- Evidence status: source-linked-unverified
+- Sources inspected 2026-11-28: CONAP https://turismo-sigap.conap.gob.gt/rutas-turisticas/ruta-aventura-dentro-de-la-selva-verapaces/parque-recreativo-natural-municipal-las-conchas/ (excerpt: protected area and regional biological corridor).
+- Worldwide peers (current YAML checked for Naj Tunich, Lanquín, Semuc Champey and Phong Nha; other comparisons qualitative):
+  - Kuang Si Falls (LA): stronger distinctive travertine scenery.
+  - Erawan Falls (TH): greater tiered hiking breadth.
+  - Semuc Champey (GT): rarer limestone bridge and pool formation.
+  - Siete Altares (GT): comparable smaller tiered water recreation.
+- Individual scores:
+  - impact: 8.4 — Forest waterfalls and pools create attractive scenery.
+  - uniqueness: 8.0 — Tropical waterfall park is comparable worldwide.
+  - significance: 7.7 — Protected corridor context provides meaningful regional ecological value.
+  - experience: 8.6 — Natural recreation offers good experience in suitable conditions.
+  - depth: 8.2 — Multiple falls and pools support a substantial focused outing.
+- Categories: nature 8.8, photography 8.8, relaxation 8.7, adventure 8.4.
+- Overall: 81.70/100.
+- High-score challenge: No 90+ overall. No 9.5+ fields or approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact entrance, current permitted routes, water conditions, additional numeric peer comparisons and full diagnostics. No access guarantee.
