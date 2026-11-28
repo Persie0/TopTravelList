@@ -2874,7 +2874,7 @@ Nine additions, one researched fact-checked high-score decision and eight provis
 - Earlier decision: none.
 - Remaining verification: complete source triangulation, precise geographic location and access, worldwide Python checks.
 
-## sight-bz-living-maya-experience-big-falls — Living Maya Experience in Big Falls — 2026-11-28
+## sight-bz-living-maya-experience-big-falls — Living Maya Experience — 2026-11-28
 
 - YAML: [source](../../../countries/BZ/sights/living-maya-experience-big-falls.yaml)
 - Action: new
