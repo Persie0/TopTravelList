@@ -1,0 +1,16 @@
+id: sight-pa-finca-dracula-orchid-garden
+name: "Finca Drácula Orchid Botanical Garden"
+location:
+  country_code: PA
+  latitude: 8.87049
+  longitude: -82.55934
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 8.8
+  experience: 8.8
+  depth: 8.6
+  categories:
+    nature: 9.4
+    photography: 9.2
+    relaxation: 8.8
