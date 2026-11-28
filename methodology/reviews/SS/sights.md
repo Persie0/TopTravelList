@@ -426,3 +426,30 @@ Follow-up 2026-11-25: [UNESCO decision 48 COM 8B](https://whc.unesco.org/en/deci
 - Wildlife: null → **9.5/10**. African Parks identifies Badingilo as a major migratory wildlife stronghold but reports local black-rhino extinction. The landscape-wide aerial count cannot be credited entirely to this park. Serengeti (TZ, 9.9), Maasai Mara (KE, 9.9), Etosha (NA, 9.8), and Zakouma (TD, 9.7) have stronger documented localized wildlife breadth; the seasonal migration warrants 9.5 independently of access restrictions.
 - Evidence (2026-11-28): https://www.africanparks.org/the-parks/badingilo-boma/biodiversity-conservation. Peer values were read from current repository YAML at the parent commit; peer ratings themselves were not independently recalibrated.
 - All core scores, other categories, names and coordinates are unchanged. No access-related scoring penalty and no new perfect score.
+
+## sight-ss-fanyikang-game-reserve — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/SS/sights/fanyikang-game-reserve.yaml) · **editorial-only** · wildlife null → 8.1/10. Floodplain reserve wildlife potential; no transfer of the wider Sudd's animal concentrations.
+- Comparative context: Okavango (9.9), Banc d’Arguin (9.7), Bijagós (9.7), Sudd (9.7, this batch): wider or more exceptional wetland fauna. Desk-based editorial estimate; no independent source or population verification.
+- Core ratings and other fields unchanged; access restrictions not a penalty.
+
+
+## sight-ss-meshra-game-reserve — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/SS/sights/meshra-game-reserve.yaml) · **editorial-only** · wildlife null → 8.2/10. Wetland and savanna-transition fauna estimate; distinct from the broader migration landscape and no documented large localized concentrations assumed.
+- Comparative context: Okavango (9.9), Banc d’Arguin (9.7), Bijagós (9.7), Sudd (9.7, this batch): wider or more exceptional wetland fauna. Desk-based editorial estimate; no independent source or population verification.
+- Core ratings and other fields unchanged; access restrictions not a penalty.
+
+
+## sight-ss-sudd-wetland — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/SS/sights/sudd-wetland.yaml) · **source-linked-unverified** · wildlife null → 9.7/10. Tentative submission identifies Nile lechwe, tiang migration, shoebill and diverse large mammals. Exceptional wetland wildlife, below Okavango 9.9 for documented breadth of encounters; older nomination population estimates not treated as current.
+- Comparative context: Okavango (9.9), Banc d’Arguin (9.7), Bijagós (9.7), Sudd (9.7, this batch): wider or more exceptional wetland fauna. Indexed source reviewed 2026-11-28: https://whc.unesco.org/en/tentativelists/6276
+- Core ratings and other fields unchanged; access restrictions not a penalty.
+
+
+## sight-ss-zeraf-game-reserve — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/SS/sights/zeraf-game-reserve.yaml) · **editorial-only** · wildlife null → 8.7/10. Large wetland-associated game habitat potential, but no site-specific evidence justifies inheriting the whole Sudd rating.
+- Comparative context: Okavango (9.9), Banc d’Arguin (9.7), Bijagós (9.7), Sudd (9.7, this batch): wider or more exceptional wetland fauna. Desk-based editorial estimate; no independent source or population verification.
+- Core ratings and other fields unchanged; access restrictions not a penalty.

@@ -643,3 +643,9 @@ Follow-up 2026-11-25: four formerly editorial-only records now have sources; no 
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Reference](https://tourismsierraleone.com/where-to-go/other-towns-cities/) — Tourism board describes Kabala and Gbawuria New Year celebrations; page or search excerpt inspected 2026-11-25. Not complete claim-level verification.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
+
+## sight-sl-gola-tiwai-complex-serial-world-heritage-property — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/SL/sights/gola-tiwai-complex-serial-world-heritage-property.yaml) · **source-linked-unverified** · wildlife null → 9.6/10. UNESCO documents up to 448 bird species and strong recovering primate populations. Exceptional mixed primate/bird interest, below Bwindi 9.8 and Volcanoes 9.9 for concentrated primate encounters; above Lopé 9.3.
+- Comparative context: Bwindi (9.8), Volcanoes (9.9), Lopé (9.3), Loango (9.7): compare animal diversity and documented observation potential. Indexed source reviewed 2026-11-28: https://whc.unesco.org/en/list/1746
+- Core ratings and other fields unchanged; access restrictions not a penalty.

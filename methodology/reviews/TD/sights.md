@@ -497,3 +497,23 @@ Follow-up 2026-11-25: [UNESCO register](https://whc.unesco.org/en/statesparties/
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Conservation manager Noé](https://noe.org/en/conflits-humain-faune-tchad-co-existence-durable-possible/) and [2025 giraffe study](https://scielo.org.za/scielo.php?lng=en&nrm=iso&pid=S0075-64582025000100009&script=sci_arttext) document park designation in 2022, wildlife recovery and Binder-Léré landscape; no ordinary visitor route established. Checked 2026-11-25; no full factual verification.
 - Remaining gaps: permitted visitor scope, detailed boundary, current ecology and closer comparisons.
+
+## sight-td-manda-national-park — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/TD/sights/manda-national-park.yaml) · **editorial-only** · wildlife null → 8.0/10. Riverine woodland and savanna fauna potential, below Zakouma's documented animal concentrations.
+- Comparative context: Serengeti (9.9), Maasai Mara (9.9), Etosha (9.8), Zakouma (9.7): better documented concentrations and breadth. Desk-based editorial estimate; no independent source or population verification.
+- Core ratings and other fields unchanged; access restrictions not a penalty.
+
+
+## sight-td-sena-oura-national-park — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/TD/sights/sena-oura-national-park.yaml) · **editorial-only** · wildlife null → 7.9/10. Sudanian savanna habitat estimate; no presumed recovery of historically depleted megafauna.
+- Comparative context: Serengeti (9.9), Maasai Mara (9.9), Etosha (9.8), Zakouma (9.7): better documented concentrations and breadth. Desk-based editorial estimate; no independent source or population verification.
+- Core ratings and other fields unchanged; access restrictions not a penalty.
+
+
+## sight-td-zah-soo-national-park — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/TD/sights/zah-soo-national-park.yaml) · **editorial-only** · wildlife null → 8.1/10. Protected savanna wildlife potential without current evidence of dense large-animal populations.
+- Comparative context: Serengeti (9.9), Maasai Mara (9.9), Etosha (9.8), Zakouma (9.7): better documented concentrations and breadth. Desk-based editorial estimate; no independent source or population verification.
+- Core ratings and other fields unchanged; access restrictions not a penalty.
