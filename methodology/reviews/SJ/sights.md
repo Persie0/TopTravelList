@@ -497,3 +497,10 @@ No numerical score or evidence-status changes made by this pass.
 - Final decision: Provisional worldwide V2 assessment of defined visitor scope.
 - Earlier decision: none.
 - Verification still needed: independent evidence, coordinate and visitor-scope checks.
+
+## sight-sj-svalbard — Svalbard Archipelago (tentative property) — 2026-11-28 post-merge 93+ scope check
+
+- [YAML](../../../countries/SJ/sights/svalbard.yaml) · Action: source/scope check only · **source-linked-unverified**.
+- Evidence reviewed 2026-11-28: [Norway tentative submission](https://whc.unesco.org/en/tentativelists/5161/) confirms high-Arctic geology, glacial landforms and centuries of international historical remains. Not inscribed. Impact/uniqueness 9.5, nature 9.6, wildlife/photography 9.5 reflect distinctive Arctic landscapes and fauna; significance is not equivalent to inscription. Experience/depth require geographically bounded expedition and settlement evidence; no assured polar bear encounter or access to protected sites.
+- Qualitative comparison leads (peer YAML ratings not independently checked): Ilulissat Icefjord (Greenland): narrower glacial spectacle; Wrangel Island (Russia): remote Arctic ecosystem; South Georgia: subantarctic counterpart with different fauna; Iceland: broader volcanic/glacial landscapes at lower latitude.
+- Current I/U/S/E/D: 9.5 / 9.5 / 9.2 / 9.2 / 9.2; overall 93.65/100. All ratings retained provisionally; no coordinate or category changes. This limited review is not full international calibration or verification of current access.
