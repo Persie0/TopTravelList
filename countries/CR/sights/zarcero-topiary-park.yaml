@@ -1,0 +1,16 @@
+id: sight-cr-zarcero-topiary-park
+name: "Zarcero Topiary Park and San Rafael Church"
+location:
+  country_code: CR
+  latitude: 10.1845
+  longitude: -84.39168
+scores:
+  impact: 8.1
+  uniqueness: 8.7
+  significance: 8.0
+  experience: 8.2
+  depth: 7.4
+  categories:
+    photography: 9.0
+    architecture: 8.5
+    culture: 8.5

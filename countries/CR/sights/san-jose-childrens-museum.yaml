@@ -1,0 +1,16 @@
+id: sight-cr-san-jose-childrens-museum
+name: "San José Children's Museum and Former Central Penitentiary"
+location:
+  country_code: CR
+  latitude: 9.94136
+  longitude: -84.07968
+scores:
+  impact: 8.0
+  uniqueness: 8.3
+  significance: 8.6
+  experience: 8.7
+  depth: 8.3
+  categories:
+    family: 9.3
+    culture: 8.8
+    history: 8.7
