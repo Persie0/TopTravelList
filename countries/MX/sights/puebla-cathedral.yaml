@@ -1,0 +1,17 @@
+id: sight-mx-puebla-cathedral
+name: "Puebla Cathedral"
+location:
+  country_code: MX
+  latitude: 19.04278
+  longitude: -98.19833
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 9.2
+  experience: 8.9
+  depth: 9.1
+  categories:
+    architecture: 9.3
+    history: 9.3
+    culture: 9.1
+    photography: 9.0

@@ -6712,3 +6712,228 @@ Peer values from country ranking tables or same-batch assessments; complete sour
 - High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
 - Earlier decision: none.
 - Remaining verification: complete source triangulation, current display and access, numerical peer checks and global Python validation.
+
+## sight-mx-mexico-city-metropolitan-cathedral — Mexico City Metropolitan Cathedral and Tabernacle — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/mexico-city-metropolitan-cathedral.yaml)
+- Action: new
+- Precise subject: Cathedral church and directly attached Sagrario, not the Zócalo, surrounding historic district or Templo Mayor. No assumption of crypt, tower or all chapel access.
+- Location check: 19.43439, -99.13309; source-linked approximate representative point.
+- Evidence status: source-linked-unverified; opened/indexed material as indicated; comprehensive independent fact-check incomplete; ratings editorial.
+- Sources consulted 2026-11-28: https://mexicocity.cdmx.gob.mx/venues/metropolitan-cathedral/?lang=en (opened: 16th century to 1813 building, five naves, altarpieces, organs and tabernacle); https://lugares.inah.gob.mx/en/pagina-de-elemento/3331 (indexed: historical origins); https://mapcarta.com/W862873648 (opened: coordinates).
+- Worldwide peers (qualitative, numerical peer scores not refetched):
+  - Seville Cathedral (ES): more exceptional Gothic scale and monumental ensemble
+  - St Peter's Basilica (VA): stronger global architectural and ecclesiastical significance
+  - Lima Cathedral (PE): comparable viceregal cathedral with different historic fabric
+  - Guadalajara Cathedral (MX): narrower architectural and historic scope
+- Individual scores:
+  - impact: 9.3 — Large multi-nave structure and rich interior create outstanding impact.
+  - uniqueness: 9.1 — Layered Renaissance, Baroque and Neoclassical forms and attached tabernacle distinguish the complex.
+  - significance: 9.5 — Central viceregal ecclesiastical history and major original art support exceptional significance.
+  - experience: 9.1 — Varied chapels and religious architecture reward respectful exploration.
+  - depth: 9.4 — Numerous altarpieces, naves and distinct architectural phases provide breadth.
+- Categories: architecture 9.5, history 9.5, culture 9.3, photography 9.2.
+- Overall: 92.70/100.
+- High-score challenge: Architecture, history and significance 9.5 supported by documented centuries-long architectural development and surviving art; no unsupported claim of being the first or largest cathedral of the Americas. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete source triangulation, precise access and location where applicable, numerical peers and global Python checks.
+
+## sight-mx-santo-domingo-church-oaxaca — Church of Santo Domingo de Guzmán (Oaxaca) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/santo-domingo-church-oaxaca.yaml)
+- Action: new
+- Precise subject: Church interior, façade and its associated Rosary chapel only, not adjacent Museum of Oaxacan Cultures in the former convent. Restorations and reconstructed altars distinguished from original fabric.
+- Location check: 17.06564, -96.723; source-linked approximate representative point.
+- Evidence status: source-linked-unverified; opened/indexed material as indicated; comprehensive independent fact-check incomplete; ratings editorial.
+- Sources consulted 2026-11-28: https://www.inah.gob.mx/foto-del-dia/templo-de-santo-domingo-en-oaxaca-emblema-del-barroco-novohispano (indexed; full page 403: architecture and ornament); https://catalogonacionalmhi.inah.gob.mx/consulta_publica/detalle/45744 (indexed: historic damage and losses); https://lugares.inah.gob.mx/es/pagina-de-elemento/3357 (indexed: component scope); https://mapcarta.com/W121991411 (opened: coordinates).
+- Worldwide peers (qualitative, numerical peer scores not refetched):
+  - Iglesia de la Compañía de Jesús Quito (EC): comparable opulent colonial Baroque
+  - Wieskirche (DE): analogous highly decorated church, different style
+  - St John's Co-Cathedral (MT): exceptional decorated interior and paintings
+  - Rosary Chapel Puebla (MX): narrower concentrated gilded decoration
+- Individual scores:
+  - impact: 9.4 — Extensive ornament and imposing church interior produce outstanding visual impact.
+  - uniqueness: 9.3 — Specific Dominican decorative and architectural ensemble is distinctive.
+  - significance: 9.2 — Historic colonial fabric and documented restoration history support significance.
+  - experience: 9.0 — Sacred interior and multiple chapels reward respectful viewing.
+  - depth: 8.8 — Several decorative spaces give depth but museum collections excluded.
+- Categories: architecture 9.6, culture 9.4, history 9.3, photography 9.3.
+- Overall: 92.15/100.
+- High-score challenge: 9.6 architecture reflects extraordinary integrated Baroque ornament documented by INAH, compared with Quito and Malta. Source access limited; no assumption all decorations are original. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete source triangulation, precise access and location where applicable, numerical peers and global Python checks.
+
+## sight-mx-rosary-chapel-puebla — Rosary Chapel (Santo Domingo Church, Puebla) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/rosary-chapel-puebla.yaml)
+- Action: new
+- Precise subject: Specific 1690 chapel within Santo Domingo church, not the entire convent or historic centre. Photography score refers to intrinsic visual composition, not permission to photograph.
+- Location check: 19.04656, -98.1983; source-linked approximate representative point.
+- Evidence status: source-linked-unverified; opened/indexed material as indicated; comprehensive independent fact-check incomplete; ratings editorial.
+- Sources consulted 2026-11-28: https://sic.cultura.gob.mx/ficha.php?table=monumento_icahe&table_id=1261 (opened: gilded stucco, onyx, paintings, tiles and 1690 consecration); https://www.scielo.br/j/anaismp/a/Z77fbSfVhhF6M9nh3rRY3km/?format=html (opened: scholarly comparative study of Rosario and Tonantzintla ornament and iconography); https://museoamparo.com/descubre/Iglesias/45/capilla-del-rosario-templo-de-santo-domingo (indexed: historical setting); https://mapcarta.com/W993724155 (opened: correctly identified chapel coordinates).
+- Worldwide peers (qualitative, numerical peer scores not refetched):
+  - São Francisco Church Salvador (BR): comparable gilded Baroque interior, broader church
+  - Asamkirche (DE): comparably concentrated ornate sacred interior
+  - La Compañía Quito (EC): broader decorated colonial church
+  - Santo Domingo Oaxaca (MX): wider church ensemble
+- Individual scores:
+  - impact: 9.5 — Extremely concentrated gilded ornament makes a rare visual spectacle.
+  - uniqueness: 9.5 — Coherent combination of gilding, relief sculpture, paintings and local tiles is difficult to substitute.
+  - significance: 9.2 — Documented late seventeenth century iconographic program has strong cultural significance.
+  - experience: 8.8 — Contemplation and interpretation of decoration reward a focused visit.
+  - depth: 7.8 — A single chapel limits breadth compared with entire church complexes.
+- Categories: architecture 9.7, culture 9.4, history 9.3, photography 9.5.
+- Overall: 91.65/100.
+- High-score challenge: 9.5 impact, uniqueness and photography and 9.7 architecture supported by the cultural inventory and scholarly comparative analysis of integrated gilded ornament; no claim of being a literal eighth wonder, and single-room depth explicitly limited. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete source triangulation, precise access and location where applicable, numerical peers and global Python checks.
+
+## sight-mx-santa-maria-tonantzintla — Church of Santa María Tonantzintla — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/santa-maria-tonantzintla.yaml)
+- Action: new
+- Precise subject: Village church and specific polychrome interior, distinct from Cholula Great Pyramid and Rosario Chapel. Approximate point derived from geotagged church photograph, not surveyed entrance.
+- Location check: 19.03019, -98.31998; source-linked approximate representative point.
+- Evidence status: source-linked-unverified; opened/indexed material as indicated; comprehensive independent fact-check incomplete; ratings editorial.
+- Sources consulted 2026-11-28: https://www.scielo.br/j/anaismp/a/Z77fbSfVhhF6M9nh3rRY3km/?format=html (opened: detailed scholarly comparison, indigenous reinterpretation and building phases); https://sic.cultura.gob.mx/ficha.php?table=monumento_icahe&table_id=1765 (indexed: church and decorative context); https://commons.wikimedia.org/wiki/File%3AIglesia_de_tonantzintla.jpg (indexed: viewpoint DMS coordinate converted).
+- Worldwide peers (qualitative, numerical peer scores not refetched):
+  - Church of Andahuaylillas (PE): comparable Andean reinterpretation of colonial sacred art
+  - San Francisco Church Salvador (BR): greater gilded monumental breadth
+  - Asamkirche (DE): dense decoration but different cultural context
+  - Rosary Chapel Puebla (MX): related inspiration but distinct indigenous artistic reinterpretation
+- Individual scores:
+  - impact: 9.2 — Profuse colorful figurative decoration creates outstanding visual impact.
+  - uniqueness: 9.5 — Local indigenous artistic reinterpretation of Baroque forms is unusually distinctive.
+  - significance: 9.2 — Scholarship documents complex colonial and community cultural heritage.
+  - experience: 8.7 — Focused interior viewing offers meaningful encounter where permitted.
+  - depth: 8.0 — Compact church constrains independent breadth.
+- Categories: architecture 9.6, culture 9.5, history 9.2.
+- Overall: 90.80/100.
+- High-score challenge: 9.5 uniqueness and culture and 9.6 architecture supported by peer-reviewed comparative analysis of distinctive local iconography, not by a claim of a wholly unique style or access to photography. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete source triangulation, precise access and location where applicable, numerical peers and global Python checks.
+
+## sight-mx-puebla-cathedral — Puebla Cathedral — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/puebla-cathedral.yaml)
+- Action: new
+- Precise subject: Individual cathedral and its immediate sacred architecture; not the historic centre or nearby Palafoxiana library.
+- Location check: 19.04278, -98.19833; source-linked approximate representative point.
+- Evidence status: source-linked-unverified; opened/indexed material as indicated; comprehensive independent fact-check incomplete; ratings editorial.
+- Sources consulted 2026-11-28: https://catalogonacionalmhi.inah.gob.mx/consulta_publica/detalle/54524 (indexed; full page timed out: monument identity); https://lugares.inah.gob.mx/en/pagina-de-elemento/2969 (indexed: historical construction); https://en.wikipedia.org/wiki/Puebla_Cathedral (indexed: coordinates).
+- Worldwide peers (qualitative, numerical peer scores not refetched):
+  - Seville Cathedral (ES): greater monumental and architectural scope
+  - Lima Cathedral (PE): comparable colonial cathedral
+  - Cusco Cathedral (PE): comparable significant sacred art
+  - Mexico City Metropolitan Cathedral (MX): more extensive multi-period architecture
+- Individual scores:
+  - impact: 9.0 — Imposing towers and historic interiors provide strong visual impact.
+  - uniqueness: 8.8 — Colonial cathedral design has international peers.
+  - significance: 9.2 — Long history and important ecclesiastical fabric support significance.
+  - experience: 8.9 — Sacred architecture and art reward exploration.
+  - depth: 9.1 — Multiple interior spaces provide depth.
+- Categories: architecture 9.3, history 9.3, culture 9.1, photography 9.0.
+- Overall: 89.85/100.
+- High-score challenge: Near-threshold editorial assessment; no 90+ or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete source triangulation, precise access and location where applicable, numerical peers and global Python checks.
+
+## sight-mx-guadalajara-cathedral — Guadalajara Cathedral — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/guadalajara-cathedral.yaml)
+- Action: new
+- Precise subject: Cathedral itself, not surrounding plazas or the wider city centre; present condition and access not guaranteed.
+- Location check: 20.6771, -103.34697; source-linked approximate representative point.
+- Evidence status: source-linked-unverified; opened/indexed material as indicated; comprehensive independent fact-check incomplete; ratings editorial.
+- Sources consulted 2026-11-28: https://catalogonacionalmhi.inah.gob.mx/consulta_publica/detalle/26839 (indexed; full page timed out: Gothic vaults, Renaissance elements and historic construction); https://mapcarta.com/W89819878 (opened: coordinates).
+- Worldwide peers (qualitative, numerical peer scores not refetched):
+  - Lima Cathedral (PE): comparable regional colonial cathedral
+  - Granada Cathedral (ES): greater Renaissance ensemble
+  - Cusco Cathedral (PE): stronger concentrated historic artwork
+  - Puebla Cathedral (MX): comparable colonial monumental scope
+- Individual scores:
+  - impact: 8.9 — Distinctive towers and cathedral silhouette offer strong visual appeal.
+  - uniqueness: 8.7 — Mixed Gothic and Renaissance characteristics distinguish the building locally.
+  - significance: 9.0 — Long ecclesiastical history supports substantial significance.
+  - experience: 8.8 — Interior and exterior architecture provide rewarding viewing.
+  - depth: 8.7 — Multiple naves and architectural details give breadth.
+- Categories: architecture 9.2, history 9.1, culture 8.9, photography 9.0.
+- Overall: 88.35/100.
+- High-score challenge: No 90+ or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete source triangulation, precise access and location where applicable, numerical peers and global Python checks.
+
+## sight-mx-guadalajara-expiatory-temple — Expiatory Temple of the Blessed Sacrament (Guadalajara) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/guadalajara-expiatory-temple.yaml)
+- Action: new
+- Precise subject: Specific Neo-Gothic church in Guadalajara, not its namesake in the Guadalupe complex.
+- Location check: 20.67361, -103.35889; source-linked approximate representative point.
+- Evidence status: source-linked-unverified; opened/indexed material as indicated; comprehensive independent fact-check incomplete; ratings editorial.
+- Sources consulted 2026-11-28: https://en.wikipedia.org/wiki/Templo_Expiatorio_del_Sant%C3%ADsimo_Sacramento (indexed: coordinates and identity); https://culturalheritageonline.com/places/templo-expiatorio-guadalajara/ (indexed: construction chronology and architectural description).
+- Worldwide peers (qualitative, numerical peer scores not refetched):
+  - Votive Church Vienna (AT): comparable Neo-Gothic architecture
+  - Basilica of the National Vow Quito (EC): greater monumental Neo-Gothic scale
+  - Liverpool Cathedral (GB): greater interior scale
+  - San Miguel parish (MX): distinct Neo-Gothic façade
+- Individual scores:
+  - impact: 8.9 — Gothic revival stonework and rose window create striking impact.
+  - uniqueness: 8.7 — Neo-Gothic church has international substitutes.
+  - significance: 8.5 — Long construction and regional artistic history support significance.
+  - experience: 8.8 — Architectural viewing offers rewarding experience.
+  - depth: 8.3 — Single church limits breadth.
+- Categories: architecture 9.2, photography 9.1, culture 8.8, history 8.6.
+- Overall: 86.95/100.
+- High-score challenge: No 90+ or 9.5+ field; provisional overview. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete source triangulation, precise access and location where applicable, numerical peers and global Python checks.
+
+## sight-mx-ocotlan-basilica — Basilica of Our Lady of Ocotlán — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/ocotlan-basilica.yaml)
+- Action: new
+- Precise subject: Specific Tlaxcala basilica and its sacred ornament, not other Tlaxcala monuments or claimed supernatural events.
+- Location check: 19.31792, -98.22796; source-linked approximate representative point.
+- Evidence status: source-linked-unverified; opened/indexed material as indicated; comprehensive independent fact-check incomplete; ratings editorial.
+- Sources consulted 2026-11-28: https://catalogonacionalmhi.inah.gob.mx/consulta_publica/detalle/93808 (indexed: historic sanctuary and architecture); https://mapcarta.com/es/W95827233 (opened: coordinates).
+- Worldwide peers (qualitative, numerical peer scores not refetched):
+  - Bom Jesus do Monte (PT): broader pilgrimage architecture
+  - San Francisco Salvador (BR): more extensive gilt interior
+  - La Compañía Quito (EC): stronger documented global Baroque profile
+  - Atotonilco (MX): distinctive sanctuary murals
+- Individual scores:
+  - impact: 8.8 — White towers and decorated interior provide strong visual impact.
+  - uniqueness: 8.9 — Specific regional Baroque architectural tradition is distinctive.
+  - significance: 9.0 — Historic pilgrimage and religious art support importance.
+  - experience: 8.7 — Architectural interpretation and respectful viewing are rewarding.
+  - depth: 8.4 — Focused sanctuary complex offers moderate breadth.
+- Categories: architecture 9.3, culture 9.1, history 9.0, photography 9.0.
+- Overall: 88.10/100.
+- High-score challenge: No 90+ or 9.5+ field; provisional overview. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete source triangulation, precise access and location where applicable, numerical peers and global Python checks.
+
+## sight-mx-san-miguel-arcangel-parish — Church of San Miguel Arcángel (San Miguel de Allende) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/san-miguel-arcangel-parish.yaml)
+- Action: new
+- Precise subject: Specific parish church and its characteristic Neo-Gothic façade, not the whole UNESCO town or adjacent separately ranked hospital church.
+- Location check: 20.91334, -100.74376; source-linked approximate representative point.
+- Evidence status: source-linked-unverified; opened/indexed material as indicated; comprehensive independent fact-check incomplete; ratings editorial.
+- Sources consulted 2026-11-28: https://catalogonacionalmhi.inah.gob.mx/consulta_publica/detalle/84476 (indexed: heritage identity); https://mapcarta.com/es/W1171309278 (opened: Neo-Gothic style and coordinates).
+- Worldwide peers (qualitative, numerical peer scores not refetched):
+  - Votive Church Vienna (AT): broader Neo-Gothic design
+  - Basilica of the National Vow Quito (EC): greater monumental scale
+  - St Mary's Church Kraków (PL): more significant historic Gothic ensemble
+  - Guadalajara Expiatory Temple (MX): comparable revival architecture
+- Individual scores:
+  - impact: 8.9 — Distinctive pink façade creates memorable silhouette.
+  - uniqueness: 8.8 — Regional Neo-Gothic interpretation adds distinction.
+  - significance: 8.6 — Historic town parish supports cultural significance.
+  - experience: 8.7 — Architectural observation provides rewarding short visit.
+  - depth: 8.2 — Single church limits independent exploration.
+- Categories: architecture 9.2, photography 9.2, culture 8.9, history 8.8.
+- Overall: 87.15/100.
+- High-score challenge: No 90+ or 9.5+ field; provisional overview. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete source triangulation, precise access and location where applicable, numerical peers and global Python checks.

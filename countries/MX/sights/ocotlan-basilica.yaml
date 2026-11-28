@@ -1,0 +1,17 @@
+id: sight-mx-ocotlan-basilica
+name: "Basilica of Our Lady of Ocotlán"
+location:
+  country_code: MX
+  latitude: 19.31792
+  longitude: -98.22796
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.7
+  depth: 8.4
+  categories:
+    architecture: 9.3
+    culture: 9.1
+    history: 9.0
+    photography: 9.0
