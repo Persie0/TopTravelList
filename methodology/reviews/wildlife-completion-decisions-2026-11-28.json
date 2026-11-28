@@ -1,0 +1,438 @@
+{
+  "date": "2026-11-28",
+  "purpose": "Individual provisional decisions for the last 54 explicitly unassessed wildlife fields. Sources are indexed excerpts reviewed where provided; absent sources indicate desk-only judgments, not factual verification. Scores do not certify access or encounters.",
+  "rows": [
+    {
+      "area": "AO",
+      "slug": "okavango-catchments",
+      "score": 9,
+      "cohort": "savanna",
+      "rationale": "The tentative catchments support elephant dispersal and wildlife corridors; do not transfer the concentrations of the downstream Okavango Delta to the Angolan headwaters.",
+      "source": "https://whc.unesco.org/en/tentativelists/6899/"
+    },
+    {
+      "area": "BF",
+      "slug": "arly-national-park",
+      "score": 9.2,
+      "cohort": "savanna",
+      "rationale": "A major WAP savanna component, but whole-complex mammal abundance cannot be attributed to Arly alone.",
+      "source": "https://www.unesco.org/en/mab/arly"
+    },
+    {
+      "area": "BF",
+      "slug": "bala-hippopotamus-reserve",
+      "score": 8.6,
+      "cohort": "wetland",
+      "rationale": "A localized hippopotamus-focused freshwater forest reserve; stronger animal interest than generic wetland, narrower than a major floodplain.",
+      "source": ""
+    },
+    {
+      "area": "BF",
+      "slug": "deux-bale-classified-forest",
+      "score": 8.3,
+      "cohort": "savanna",
+      "rationale": "Woodland and savanna fauna potential, with no basis for assuming dense or consistently visible large mammals.",
+      "source": ""
+    },
+    {
+      "area": "BF",
+      "slug": "kabore-tambi-national-park",
+      "score": 8,
+      "cohort": "savanna",
+      "rationale": "Dry woodland wildlife interest, without evidence of major concentrations comparable to WAP.",
+      "source": ""
+    },
+    {
+      "area": "BF",
+      "slug": "mare-d-oursi",
+      "score": 8.7,
+      "cohort": "wetland",
+      "rationale": "Sahelian waterbird and seasonal wetland appeal; narrower and more variable than a major coastal migration site.",
+      "source": ""
+    },
+    {
+      "area": "BF",
+      "slug": "w-national-park-burkina-faso",
+      "score": 9.1,
+      "cohort": "savanna",
+      "rationale": "Burkina Faso's own component of WAP supports important savanna fauna; regional totals are not site-specific counts.",
+      "source": "https://whc.unesco.org/en/list/749/"
+    },
+    {
+      "area": "CF",
+      "slug": "andre-felix-national-park",
+      "score": 8.1,
+      "cohort": "savanna",
+      "rationale": "Remote savanna and forest-transition wildlife potential; no contemporary abundance assumed.",
+      "source": ""
+    },
+    {
+      "area": "CF",
+      "slug": "manovo-gounda-st-floris-national-park",
+      "score": 8.2,
+      "cohort": "savanna",
+      "rationale": "UNESCO's 2026 monitoring decision documents continuing degradation and need for wildlife trend data; remnant diversity and recovery potential do not establish intact historic concentrations. This reflects ecological loss, not closure.",
+      "source": "https://whc.unesco.org/en/decisions/?id_decision=9043"
+    },
+    {
+      "area": "CI",
+      "slug": "mount-nimba-reserve",
+      "score": 9.2,
+      "cohort": "forest",
+      "rationale": "Endemic montane fauna is exceptional; UNESCO's transboundary description is not evidence that every species or tool-using chimpanzee group occurs in the Ivorian sector or is observable.",
+      "source": "https://whc.unesco.org/en/list/155"
+    },
+    {
+      "area": "CM",
+      "slug": "takamanda-national-park",
+      "score": 9.2,
+      "cohort": "forest",
+      "rationale": "Cross River gorilla habitat is exceptional, but the larger landscape population and rare encounters are not attributed to the individual park.",
+      "source": "https://cameroon.wcs.org/Wild-Places/Takamanda-Mone-Landscape.aspx"
+    },
+    {
+      "area": "GN",
+      "slug": "bossou-forest-reserve",
+      "score": 8.9,
+      "cohort": "forest",
+      "rationale": "Scientifically important tool-using chimpanzees, but a very small population and narrow scope limit wildlife breadth; no current population count inferred from the older atlas estimate.",
+      "source": "https://apesatlas.iucnapesportal.org/index.php/Bossou"
+    },
+    {
+      "area": "GQ",
+      "slug": "luba-caldera-scientific-reserve",
+      "score": 9.3,
+      "cohort": "forest",
+      "rationale": "Island rainforest and distinctive primates plus coastal turtle habitat support high interest, with no guarantee of encounters; tentative designation is not inscription.",
+      "source": "https://whc.unesco.org/en/tentativelists/6945"
+    },
+    {
+      "area": "GW",
+      "slug": "poilao-island-nesting-beaches",
+      "score": 9.7,
+      "cohort": "marine",
+      "rationale": "UNESCO reports over 62,000 green turtle nests in 2020 on Poilão itself. Globally exceptional seasonal nesting, narrower than the entire archipelago; comparable to Banc d’Arguin 9.7 and below Aldabra 9.8 for breadth.",
+      "source": "https://whc.unesco.org/en/list/1431"
+    },
+    {
+      "area": "JO",
+      "slug": "burqu-nature-reserve",
+      "score": 7.8,
+      "cohort": "dry",
+      "rationale": "Desert-steppe and water-associated fauna potential, modest compared with extensive wildlife-rich arid reserves; no historical populations assumed current.",
+      "source": ""
+    },
+    {
+      "area": "KI",
+      "slug": "phoenix-islands-protected-area",
+      "score": 9.8,
+      "cohort": "marine",
+      "rationale": "UNESCO documents abundant marine predators, reef fauna, turtles and seabird colonies across the property. Comparable to Aldabra 9.8, above Belize 9.5 and New Caledonia 9.6, below Galápagos 9.9. No guaranteed encounter or unrestricted access.",
+      "source": "https://whc.unesco.org/en/list/1325"
+    },
+    {
+      "area": "LR",
+      "slug": "gola-rainforest-national-park-liberia",
+      "score": 9.2,
+      "cohort": "forest",
+      "rationale": "Liberian forest component supports threatened primates and other rainforest fauna; do not inherit Sierra Leone's counts or all of the transboundary forest.",
+      "source": "https://iucnsos.org/projects/protecting-threatened-species-in-the-gola-forest/"
+    },
+    {
+      "area": "LR",
+      "slug": "grebo-krahn-national-park",
+      "score": 9.2,
+      "cohort": "forest",
+      "rationale": "Documented threatened chimpanzees, duikers, forest elephants and pygmy hippos support high diversity, with secretive species limiting reliable encounters.",
+      "source": "https://apesatlas.iucnapesportal.org/index.php/Grebo-Krahn_National_Park"
+    },
+    {
+      "area": "LR",
+      "slug": "marshall-wetlands-ramsar-area",
+      "score": 8.6,
+      "cohort": "wetland",
+      "rationale": "Coastal wetland and estuarine bird/aquatic habitat interest; no assumption of globally exceptional animal concentrations.",
+      "source": ""
+    },
+    {
+      "area": "LR",
+      "slug": "mesurado-wetlands",
+      "score": 8,
+      "cohort": "wetland",
+      "rationale": "Urban-edge mangrove and estuarine wildlife potential with a more limited natural setting than expansive coastal protected wetlands.",
+      "source": ""
+    },
+    {
+      "area": "MH",
+      "slug": "ailinginae-atoll",
+      "score": 8.9,
+      "cohort": "marine",
+      "rationale": "Remote atoll reef and seabird habitat appeal; no site-specific modern abundance data used.",
+      "source": ""
+    },
+    {
+      "area": "MH",
+      "slug": "bikar-atoll",
+      "score": 9.5,
+      "cohort": "marine",
+      "rationale": "November 2026 research distinguishes concentrated green turtle nesting and rich reef/seabird fauna at Bikar. Below Aldabra and Phoenix Islands for overall animal breadth.",
+      "source": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1957660/full"
+    },
+    {
+      "area": "MH",
+      "slug": "bokak-atoll",
+      "score": 9.4,
+      "cohort": "marine",
+      "rationale": "Recent marine survey supports seabird and reef ecological integrity; turtle nesting was concentrated at Bikar, not Bokak.",
+      "source": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1957660/full"
+    },
+    {
+      "area": "MH",
+      "slug": "erikub-atoll",
+      "score": 8.6,
+      "cohort": "marine",
+      "rationale": "Reef and islet wildlife interest, without assuming a large documented turtle or seabird colony.",
+      "source": ""
+    },
+    {
+      "area": "MH",
+      "slug": "jemo-island",
+      "score": 8.4,
+      "cohort": "marine",
+      "rationale": "Small island reef and nesting habitat potential; restricted geographic breadth compared with full atolls.",
+      "source": ""
+    },
+    {
+      "area": "MH",
+      "slug": "mili-atoll-nature-conservancy",
+      "score": 8.7,
+      "cohort": "marine",
+      "rationale": "Lagoon and reef fauna estimate for Mili's own conservation area, without crediting Knox Atoll separately.",
+      "source": ""
+    },
+    {
+      "area": "MH",
+      "slug": "mili-nadrikdrik-conservancy",
+      "score": 8.9,
+      "cohort": "marine",
+      "rationale": "Combined Mili and Knox coastal habitats increase ecological variety modestly; explicitly overlaps the two narrower records.",
+      "source": ""
+    },
+    {
+      "area": "MH",
+      "slug": "nadrikdrik-atoll",
+      "score": 8.6,
+      "cohort": "marine",
+      "rationale": "Small reef-atoll wildlife estimate for Knox alone; no presumed concentration from the combined conservation area.",
+      "source": ""
+    },
+    {
+      "area": "MH",
+      "slug": "namdrik-atoll",
+      "score": 8.7,
+      "cohort": "marine",
+      "rationale": "Lagoon, reef and wetland fauna interest, narrower than exceptionally rich uninhabited oceanic reserves.",
+      "source": ""
+    },
+    {
+      "area": "MH",
+      "slug": "northern-marshall-islands-atolls",
+      "score": 9.3,
+      "cohort": "marine",
+      "rationale": "Broad aggregate includes diverse remote atoll fauna; recent Bikar/Bokak study supports these components, not every northern atoll. Avoid adding component scores.",
+      "source": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1957660/full"
+    },
+    {
+      "area": "MH",
+      "slug": "taka-atoll",
+      "score": 8.7,
+      "cohort": "marine",
+      "rationale": "Remote reef and islet wildlife potential, with less documented concentration than Bikar or Bokak.",
+      "source": ""
+    },
+    {
+      "area": "ML",
+      "slug": "gourma-elephant-reserve",
+      "score": 9.2,
+      "cohort": "dry",
+      "rationale": "Distinctive long seasonal migration of desert-adapted elephants; restricted animal breadth and uncertain encounter concentrations distinguish it from broader savanna reserves.",
+      "source": "https://www.fondationsegre.org/safeguarding-the-gourma-elephant-population-through-landscape-restoration-and-improved-coexistence-strategies/"
+    },
+    {
+      "area": "ML",
+      "slug": "kouroufing-national-park",
+      "score": 8,
+      "cohort": "savanna",
+      "rationale": "Woodland and savanna wildlife potential; no contemporary high-density fauna evidence credited.",
+      "source": ""
+    },
+    {
+      "area": "ML",
+      "slug": "lac-wegnia-wetland",
+      "score": 8.1,
+      "cohort": "wetland",
+      "rationale": "Localized lake and seasonal waterbird interest, below larger floodplain and international migration landscapes.",
+      "source": ""
+    },
+    {
+      "area": "ML",
+      "slug": "sourou-floodplain",
+      "score": 8.6,
+      "cohort": "wetland",
+      "rationale": "Seasonal floodplain bird and aquatic habitat estimate limited to the Mali sector.",
+      "source": ""
+    },
+    {
+      "area": "ML",
+      "slug": "wongo-national-park",
+      "score": 8,
+      "cohort": "savanna",
+      "rationale": "Savanna and woodland fauna potential, with no verified exceptional animal concentration.",
+      "source": ""
+    },
+    {
+      "area": "MR",
+      "slug": "chat-tboul-wetland",
+      "score": 8.8,
+      "cohort": "wetland",
+      "rationale": "Coastal wetland bird interest; narrower than Banc d’Arguin and no assumption of comparable abundance.",
+      "source": ""
+    },
+    {
+      "area": "MR",
+      "slug": "lac-gabou-tagant-wetlands",
+      "score": 8.4,
+      "cohort": "wetland",
+      "rationale": "Desert wetland habitat and seasonal aquatic fauna potential; localized sites rather than an extensive coastal bird spectacle.",
+      "source": ""
+    },
+    {
+      "area": "MZ",
+      "slug": "niassa-special-reserve",
+      "score": 9.6,
+      "cohort": "savanna",
+      "rationale": "WCS documents important populations of lions, elephants and wild dogs, alongside severe historical elephant declines. Strong multi-species interest, below Etosha 9.8 and Serengeti 9.9; not a claim that old counts remain current.",
+      "source": "https://mozambique.wcs.org/Wild-Places/Niassa-Special-Reserve.aspx"
+    },
+    {
+      "area": "MZ",
+      "slug": "quirimbas-archipelago",
+      "score": 9.3,
+      "cohort": "marine",
+      "rationale": "ANAC identifies reef fish, turtles, dolphins, dugongs and rays in the park's island subset. The archipelago rating excludes mainland wildlife from the broader biosphere reserve; no guaranteed encounters.",
+      "source": "https://www.anac.gov.mz/en/parques/quirimbas/"
+    },
+    {
+      "area": "NE",
+      "slug": "agadez-protected-forests",
+      "score": 7.6,
+      "cohort": "dry",
+      "rationale": "Dryland forest habitat and specialized fauna potential; no verified wildlife concentrations across the loosely grouped forests.",
+      "source": ""
+    },
+    {
+      "area": "NE",
+      "slug": "gadabedji-wildlife-reserve",
+      "score": 8.2,
+      "cohort": "dry",
+      "rationale": "Sahelian dryland wildlife restoration interest, without crediting unverified present herds or historic abundance.",
+      "source": ""
+    },
+    {
+      "area": "NE",
+      "slug": "lake-chad-niger-sector",
+      "score": 8.6,
+      "cohort": "wetland",
+      "rationale": "Lake and seasonal floodplain fauna potential, limited to Niger's sector and variable hydrology; no basin-wide abundance assumed.",
+      "source": ""
+    },
+    {
+      "area": "NI",
+      "slug": "bosawas-natural-reserve",
+      "score": 9.2,
+      "cohort": "forest",
+      "rationale": "Large tropical rainforest wildlife habitat, below more clearly documented observable fauna benchmarks; no population claims.",
+      "source": "https://www.mapanicaragua.com/en/nature/"
+    },
+    {
+      "area": "NI",
+      "slug": "indio-maiz-biological-reserve",
+      "score": 9.2,
+      "cohort": "forest",
+      "rationale": "Lowland rainforest and river-associated wildlife interest; distinct from the whole southeastern biosphere region, with no guarantee of charismatic sightings.",
+      "source": "https://www.mapanicaragua.com/en/nature/"
+    },
+    {
+      "area": "SL",
+      "slug": "gola-tiwai-complex-serial-world-heritage-property",
+      "score": 9.6,
+      "cohort": "forest",
+      "rationale": "UNESCO documents up to 448 bird species and strong recovering primate populations. Exceptional mixed primate/bird interest, below Bwindi 9.8 and Volcanoes 9.9 for concentrated primate encounters; above Lopé 9.3.",
+      "source": "https://whc.unesco.org/en/list/1746"
+    },
+    {
+      "area": "SS",
+      "slug": "fanyikang-game-reserve",
+      "score": 8.1,
+      "cohort": "wetland",
+      "rationale": "Floodplain reserve wildlife potential; no transfer of the wider Sudd's animal concentrations.",
+      "source": ""
+    },
+    {
+      "area": "SS",
+      "slug": "meshra-game-reserve",
+      "score": 8.2,
+      "cohort": "wetland",
+      "rationale": "Wetland and savanna-transition fauna estimate; distinct from the broader migration landscape and no documented large localized concentrations assumed.",
+      "source": ""
+    },
+    {
+      "area": "SS",
+      "slug": "sudd-wetland",
+      "score": 9.7,
+      "cohort": "wetland",
+      "rationale": "Tentative submission identifies Nile lechwe, tiang migration, shoebill and diverse large mammals. Exceptional wetland wildlife, below Okavango 9.9 for documented breadth of encounters; older nomination population estimates not treated as current.",
+      "source": "https://whc.unesco.org/en/tentativelists/6276"
+    },
+    {
+      "area": "SS",
+      "slug": "zeraf-game-reserve",
+      "score": 8.7,
+      "cohort": "wetland",
+      "rationale": "Large wetland-associated game habitat potential, but no site-specific evidence justifies inheriting the whole Sudd rating.",
+      "source": ""
+    },
+    {
+      "area": "TD",
+      "slug": "manda-national-park",
+      "score": 8,
+      "cohort": "savanna",
+      "rationale": "Riverine woodland and savanna fauna potential, below Zakouma's documented animal concentrations.",
+      "source": ""
+    },
+    {
+      "area": "TD",
+      "slug": "sena-oura-national-park",
+      "score": 7.9,
+      "cohort": "savanna",
+      "rationale": "Sudanian savanna habitat estimate; no presumed recovery of historically depleted megafauna.",
+      "source": ""
+    },
+    {
+      "area": "TD",
+      "slug": "zah-soo-national-park",
+      "score": 8.1,
+      "cohort": "savanna",
+      "rationale": "Protected savanna wildlife potential without current evidence of dense large-animal populations.",
+      "source": ""
+    },
+    {
+      "area": "WS",
+      "slug": "vaipu-swamp-conservation-area",
+      "score": 8,
+      "cohort": "wetland",
+      "rationale": "Localized freshwater swamp habitat with bird and aquatic fauna potential; narrower than internationally important migration wetlands.",
+      "source": ""
+    }
+  ]
+}
