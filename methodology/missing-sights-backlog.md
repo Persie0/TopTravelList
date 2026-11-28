@@ -5841,3 +5841,20 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] PA — Los Cangilones de Gualaca River Canyon and Rock Pools: 83.10/100 (source-linked provisional).
 
 12 provisional additions (12 source-linked), 7 90+, 24 ranking-row comparisons (12 international, 12 domestic). PA 65 ranked / 65 total, +12 since baseline 53. UNESCO country inventory (https://whc.unesco.org/en/statesparties/pa) lists 5 inscribed and 1 tentative property; all represented in baseline, including 2025 Colonial Transisthmian Route and separately retained Panama Viejo/Casco components. Exact component audit pending. Corpus Christi and Congo UNESCO intangible inscriptions apply to living expressions across communities, not individual festival as a World Heritage site. Portobelo Black Christ separate from Congo and fortifications; 2026 procession despite church restoration. Pollera July festival distinct from Carnival; other pollera events deferred for scope. Mejorana, Jazz, Boquete fair, Don Pepe and two parks and Gualaca sourced. Panama OPEN. Coordinates approximate, current access and future schedules unverified. Existing ratings preserved. Full Python validation, independent peer YAML and same-type global calibration pending.
+
+### Pass 331 — Panama Indigenous craft, surfing and protected landscapes
+
+- [x] PA — Parará Purú Emberá Community-Led Cultural Exchange and Craft Experience: 91.70/100 (source-linked provisional).
+- [x] PA — La Pintada Sombrero Pintao Museum and Traditional Weaving Workshops: 90.80/100 (source-linked provisional).
+- [x] PA — Santa Catalina Pacific Surf Break and Guided Surfing Experience: 91.00/100 (source-linked provisional).
+- [x] PA — Chiriquí Viejo River Guided Whitewater Rafting Corridor: 88.70/100 (source-linked provisional).
+- [x] PA — San San Pond Sak Wetland Guided Manatee and Waterway Observation: 89.00/100 (source-linked provisional).
+- [x] PA — Punta Patiño Private Nature Reserve Coastal Forest and Wetland Experience: 88.25/100 (source-linked provisional).
+- [x] PA — Altos de Campana National Park and Biological Reserve Forest and Viewpoint Trails: 85.20/100 (source-linked provisional).
+- [x] PA — Omar Torrijos Herrera National Park El Copé Montane Forest Trails: 86.60/100 (source-linked provisional).
+- [x] PA — Cerro Hoya National Park Azuero Forest and Mountain Landscapes: 87.25/100 (desk-based provisional).
+- [x] PA — Cerro Gaital Natural Monument Cloud Forest and Ridge Trails: 85.10/100 (source-linked provisional).
+- [x] PA — Panama City Museo de la Mola Guna Textile Art Exhibitions: 87.65/100 (source-linked provisional).
+- [x] PA — Summit Municipal Park Botanical Collections and Forest Paths: 82.45/100 (desk-based provisional).
+
+12 provisional additions (10 source-linked, 2 desk-based), 3 90+, 24 ranking-row comparisons (12 international, 12 domestic). PA 77 ranked / 77 total, +24 since baseline 53; 10 new 90+ across two passes. Parará Purú community-authorized cultural programme, La Pintada craft/museum and Santa Catalina surf researched. UNESCO hat inscription applies to artisanal techniques, not a building. Chagres forest and Coiba diving not credited again. San San Pond Sak observation excludes feeding and handling; Punta Patiño distinct from Darién park. Cerro Hoya desk-based, routes pending. Railway passenger programme and Pearl Islands whale watching deferred for distinct visitor scope and continuity checks. Prior UNESCO 5 inscribed and 1 tentative represented, component audit and prior Pollera deferrals retained. Panama OPEN. Coordinates approximate, access and future schedules unverified. Existing ratings preserved. Full Python validation, independent peer YAML and same-type global calibration pending.

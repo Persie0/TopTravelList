@@ -1316,3 +1316,247 @@ Ranking-row comparisons are preliminary; domestic comparisons are cross-type whe
 ### Pass 330 scope decisions
 
 12 provisional additions (12 source-linked), 7 90+, 24 ranking-row comparisons (12 international, 12 domestic). PA 65 ranked / 65 total, +12 since baseline 53. UNESCO country inventory (https://whc.unesco.org/en/statesparties/pa) lists 5 inscribed and 1 tentative property; all represented in baseline, including 2025 Colonial Transisthmian Route and separately retained Panama Viejo/Casco components. Exact component audit pending. Corpus Christi and Congo UNESCO intangible inscriptions apply to living expressions across communities, not individual festival as a World Heritage site. Portobelo Black Christ separate from Congo and fortifications; 2026 procession despite church restoration. Pollera July festival distinct from Carnival; other pollera events deferred for scope. Mejorana, Jazz, Boquete fair, Don Pepe and two parks and Gualaca sourced. Panama OPEN. Coordinates approximate, current access and future schedules unverified. Existing ratings preserved. Full Python validation, independent peer YAML and same-type global calibration pending.
+
+## sight-pa-parara-puru-embera — Parará Purú Emberá Community-Led Cultural Exchange and Craft Experience — 2026-11-28
+
+- YAML: [source](../../../countries/PA/sights/parara-puru-embera.yaml)
+- Action: new
+- Scope: Named community-organized visitor programme, museum, food, dance and craft interpretation; consent required, no private rituals or general Chagres scenery credit.
+- Representative coordinates: 9.24, -79.56; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://pararapuru.com/experiencia-cultural-embera-pasadia/ ; https://www.atp.gob.pa/atp-avanza-planes-de-turismo-comunitario-con-los-embera-de-la-cuenca-del-canal/ ; https://www.tourismpanama.com/places-to-visit/panama-city/things-to-do/culture-and-arts/indigenous-communities/
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.2 / 9.3 / 9.1.
+- Categories: culture:9.4 history:9.1 food:9.0.
+- Overall: 91.70/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PA/portobelo-congo-festival](../../../countries/PA/sights/portobelo-congo-festival.yaml) | 9.1 / 9.4 / 9.5 / 9.1 / 9.2 | impact: -0.1; uniqueness: -0.1 vs peer |
+| [CR/guaitil-chorotega-pottery](../../../countries/CR/sights/guaitil-chorotega-pottery.yaml) | 8.8 / 9.2 / 9.4 / 8.9 / 8.9 | impact: 0.2; uniqueness: 0.1 vs peer |
+
+Ranking-row comparisons preliminary, including cross-type references; independent peer YAML, coordinates and global calibration pending.
+
+## sight-pa-la-pintada-pintao — La Pintada Sombrero Pintao Museum and Traditional Weaving Workshops — 2026-11-28
+
+- YAML: [source](../../../countries/PA/sights/la-pintada-pintao.yaml)
+- Action: new
+- Scope: Museum and arranged artisan demonstrations grouped. UNESCO inscription concerns craft processes and plant-fiber techniques, not a World Heritage building.
+- Representative coordinates: 8.59, -80.44; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://ich.unesco.org/en/RL/artisanal-processes-and-plant-fibers-techniques-for-talcos-crinejas-and-pintas-weaving-of-the-pinta-o-hat-01272 ; https://www.tourismpanama.com/places-to-visit/pedasi-and-tonosi/things-to-do/culture-arts/folklore/
+- Core I/U/S/E/D: 8.8 / 9.3 / 9.4 / 8.9 / 9.0.
+- Categories: culture:9.4 history:9.3 photography:9.1.
+- Overall: 90.80/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PA/las-tablas-pollera-festival](../../../countries/PA/sights/las-tablas-pollera-festival.yaml) | 9.1 / 9.3 / 9.3 / 9.1 / 9.0 | impact: -0.3; uniqueness: 0.0 vs peer |
+| [CR/guaitil-chorotega-pottery](../../../countries/CR/sights/guaitil-chorotega-pottery.yaml) | 8.8 / 9.2 / 9.4 / 8.9 / 8.9 | impact: 0.0; uniqueness: 0.1 vs peer |
+
+Ranking-row comparisons preliminary, including cross-type references; independent peer YAML, coordinates and global calibration pending.
+
+## sight-pa-santa-catalina-surf — Santa Catalina Pacific Surf Break and Guided Surfing Experience — 2026-11-28
+
+- YAML: [source](../../../countries/PA/sights/santa-catalina-surf.yaml)
+- Action: new
+- Scope: Specific mainland surf break, twice host to ISA world championship per tourism authority; separate from Coiba offshore nature. Wave and skill conditions vary.
+- Representative coordinates: 7.63, -81.26; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.tourismpanama.com/places-to-visit/pacific-coast-of-veraguas/things-to-do/watersports-beaches/surfing/ ; https://www.tourismpanama.com/outdoors-and-nature/beaches-islands/beaches-in-the-pacific/santa-catalina/
+- Core I/U/S/E/D: 9.2 / 9.1 / 9.0 / 9.3 / 8.7.
+- Categories: adventure:9.4 beaches:9.1 photography:9.2.
+- Overall: 91.00/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PA/playa-venao](../../../countries/PA/sights/playa-venao.yaml) | 8.4 / 8.1 / 6.2 / 8.9 / 7.5 | impact: 0.8; uniqueness: 1.0 vs peer |
+| [CR/pavones-surfing](../../../countries/CR/sights/pavones-surfing.yaml) | 9.3 / 9.4 / 8.9 / 9.2 / 8.7 | impact: -0.1; uniqueness: -0.3 vs peer |
+
+Ranking-row comparisons preliminary, including cross-type references; independent peer YAML, coordinates and global calibration pending.
+
+## sight-pa-chiriqui-viejo-rafting — Chiriquí Viejo River Guided Whitewater Rafting Corridor — 2026-11-28
+
+- YAML: [source](../../../countries/PA/sights/chiriqui-viejo-rafting.yaml)
+- Action: new
+- Scope: Named rafting corridor, not other Chiriquí rivers or Barú park. Grades and conditions vary; approximate river point.
+- Representative coordinates: 8.68, -82.76; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.tourismpanama.com/places-to-visit/boquete/things-to-do/outdoors-wildlife/river-rafting-kayaking/
+- Core I/U/S/E/D: 9.0 / 8.8 / 8.6 / 9.2 / 8.7.
+- Categories: adventure:9.4 nature:9.2 photography:9.1.
+- Overall: 88.70/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PA/gualaca-cangilones](../../../countries/PA/sights/gualaca-cangilones.yaml) | 8.4 / 8.5 / 7.8 / 8.7 / 8.0 | impact: 0.6; uniqueness: 0.3 vs peer |
+| [CR/pacuare-river-rafting-corridor](../../../countries/CR/sights/pacuare-river-rafting-corridor.yaml) | 9.1 / 8.8 / 8.0 / 9.4 / 8.6 | impact: -0.1; uniqueness: 0.0 vs peer |
+
+Ranking-row comparisons preliminary, including cross-type references; independent peer YAML, coordinates and global calibration pending.
+
+## sight-pa-san-san-pond-sak — San San Pond Sak Wetland Guided Manatee and Waterway Observation — 2026-11-28
+
+- YAML: [source](../../../countries/PA/sights/san-san-pond-sak.yaml)
+- Action: new
+- Scope: Named mainland wetland, community conservation and supervised boat observation. No feeding, handling, guaranteed sightings or independent nesting beach access.
+- Representative coordinates: 9.51, -82.59; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://miambiente.gob.pa/miambiente-y-organizaciones-comunitarias-planifican-educacion-ambiental-para-la-proteccion-de-los-ecosistemas-en-el-parque-nacional-san-san-pond-sak/ ; https://iadventurespanama.com/day-tours/san-san-pond-sak/
+- Core I/U/S/E/D: 8.9 / 9.1 / 9.1 / 8.5 / 8.6.
+- Categories: wildlife:9.4 nature:9.3 photography:9.0.
+- Overall: 89.00/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PA/isla-bastimentos-national-marine-park](../../../countries/PA/sights/isla-bastimentos-national-marine-park.yaml) | 8.9 / 8.9 / 9.1 / 8.9 / 8.6 | impact: 0.0; uniqueness: 0.2 vs peer |
+| [CR/barra-del-colorado-refuge](../../../countries/CR/sights/barra-del-colorado-refuge.yaml) | 8.7 / 8.8 / 8.8 / 8.4 / 8.7 | impact: 0.2; uniqueness: 0.3 vs peer |
+
+Ranking-row comparisons preliminary, including cross-type references; independent peer YAML, coordinates and global calibration pending.
+
+## sight-pa-punta-patino-reserve — Punta Patiño Private Nature Reserve Coastal Forest and Wetland Experience — 2026-11-28
+
+- YAML: [source](../../../countries/PA/sights/punta-patino-reserve.yaml)
+- Action: new
+- Scope: Named private reserve with arranged ecotourism, distinct from Darién National Park; visitor routes and access must be confirmed, no wildlife guarantee.
+- Representative coordinates: 8.25, -78.15; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://ancon.org/en/red-de-reservas/ ; https://ancon.org/en/reserva-de-punta-patino/
+- Core I/U/S/E/D: 8.8 / 8.9 / 9.1 / 8.4 / 8.8.
+- Categories: nature:9.3 wildlife:9.3 photography:9.0.
+- Overall: 88.25/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PA/darien-national-park](../../../countries/PA/sights/darien-national-park.yaml) | 9.3 / 9.5 / 9.6 / 9.0 / 9.2 | impact: -0.5; uniqueness: -0.6 vs peer |
+| [CR/piedras-blancas-national-park](../../../countries/CR/sights/piedras-blancas-national-park.yaml) | 8.7 / 8.7 / 8.8 / 8.5 / 8.8 | impact: 0.1; uniqueness: 0.2 vs peer |
+
+Ranking-row comparisons preliminary, including cross-type references; independent peer YAML, coordinates and global calibration pending.
+
+## sight-pa-altos-de-campana-national-park — Altos de Campana National Park and Biological Reserve Forest and Viewpoint Trails — 2026-11-28
+
+- YAML: [source](../../../countries/PA/sights/altos-de-campana-national-park.yaml)
+- Action: new
+- Scope: Designated protected-area trails and viewpoints; no unrestricted access or clear view guaranteed. Listed in MiAmbiente visitor inventory.
+- Representative coordinates: 8.68, -79.93; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://miambiente.gob.pa/miambiente-invita-a-conocer-sus-parques-nacionales-y-reservas-de-vida-silvestre/
+- Core I/U/S/E/D: 8.5 / 8.5 / 8.6 / 8.5 / 8.5.
+- Categories: nature:9.2 photography:9.1 adventure:9.0.
+- Overall: 85.20/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PA/santa-fe-national-park](../../../countries/PA/sights/santa-fe-national-park.yaml) | 8.7 / 8.6 / 8.6 / 8.5 / 8.8 | impact: -0.2; uniqueness: -0.1 vs peer |
+| [CR/juan-castro-blanco-national-park](../../../countries/CR/sights/juan-castro-blanco-national-park.yaml) | 8.4 / 8.6 / 8.6 / 8.2 / 8.5 | impact: 0.1; uniqueness: -0.1 vs peer |
+
+Ranking-row comparisons preliminary, including cross-type references; independent peer YAML, coordinates and global calibration pending.
+
+## sight-pa-omar-torrijos-national-park — Omar Torrijos Herrera National Park El Copé Montane Forest Trails — 2026-11-28
+
+- YAML: [source](../../../countries/PA/sights/omar-torrijos-national-park.yaml)
+- Action: new
+- Scope: Named protected cloud forest, designated trails only. No assumption of access to research sites or all terrain.
+- Representative coordinates: 8.67, -80.59; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://miambiente.gob.pa/miambiente-invita-a-conocer-sus-parques-nacionales-y-reservas-de-vida-silvestre/
+- Core I/U/S/E/D: 8.6 / 8.7 / 8.8 / 8.5 / 8.7.
+- Categories: nature:9.3 wildlife:9.2 adventure:9.0.
+- Overall: 86.60/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PA/santa-fe-national-park](../../../countries/PA/sights/santa-fe-national-park.yaml) | 8.7 / 8.6 / 8.6 / 8.5 / 8.8 | impact: -0.1; uniqueness: 0.1 vs peer |
+| [CR/los-quetzales-national-park](../../../countries/CR/sights/los-quetzales-national-park.yaml) | 8.6 / 8.8 / 8.8 / 8.6 / 8.4 | impact: 0.0; uniqueness: -0.1 vs peer |
+
+Ranking-row comparisons preliminary, including cross-type references; independent peer YAML, coordinates and global calibration pending.
+
+## sight-pa-cerro-hoya-national-park — Cerro Hoya National Park Azuero Forest and Mountain Landscapes — 2026-11-28
+
+- YAML: [source](../../../countries/PA/sights/cerro-hoya-national-park.yaml)
+- Action: new
+- Scope: Protected Azuero mountain forest and established authorized routes; listed by MiAmbiente, current route and guide requirements pending. No assumption of summit access.
+- Representative coordinates: 7.29, -80.73; approximate editorial point, independent verification pending.
+- Evidence status: **desk-based provisional**
+- Sources: General knowledge; individual source verification pending.
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.8 / 8.2 / 8.7.
+- Categories: nature:9.3 wildlife:9.2 adventure:9.1.
+- Overall: 87.25/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PA/santa-fe-national-park](../../../countries/PA/sights/santa-fe-national-park.yaml) | 8.7 / 8.6 / 8.6 / 8.5 / 8.8 | impact: 0.1; uniqueness: 0.3 vs peer |
+| [CR/piedras-blancas-national-park](../../../countries/CR/sights/piedras-blancas-national-park.yaml) | 8.7 / 8.7 / 8.8 / 8.5 / 8.8 | impact: 0.1; uniqueness: 0.2 vs peer |
+
+Ranking-row comparisons preliminary, including cross-type references; independent peer YAML, coordinates and global calibration pending.
+
+## sight-pa-cerro-gaital — Cerro Gaital Natural Monument Cloud Forest and Ridge Trails — 2026-11-28
+
+- YAML: [source](../../../countries/PA/sights/cerro-gaital.yaml)
+- Action: new
+- Scope: Specific cloud forest and ridge routes distinct from La India Dormida; no climbing or summit guarantee.
+- Representative coordinates: 8.63, -80.13; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.caminandopanama.org/sendero_del_cerro_gaital/
+- Core I/U/S/E/D: 8.5 / 8.6 / 8.4 / 8.6 / 8.4.
+- Categories: nature:9.2 adventure:9.1 photography:9.1.
+- Overall: 85.10/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PA/la-india-dormida-trail](../../../countries/PA/sights/la-india-dormida-trail.yaml) | 8.4 / 8.2 / 7.2 / 8.6 / 7.4 | impact: 0.1; uniqueness: 0.4 vs peer |
+| [CR/los-quetzales-national-park](../../../countries/CR/sights/los-quetzales-national-park.yaml) | 8.6 / 8.8 / 8.8 / 8.6 / 8.4 | impact: -0.1; uniqueness: -0.2 vs peer |
+
+Ranking-row comparisons preliminary, including cross-type references; independent peer YAML, coordinates and global calibration pending.
+
+## sight-pa-panama-mola-museum — Panama City Museo de la Mola Guna Textile Art Exhibitions — 2026-11-28
+
+- YAML: [source](../../../countries/PA/sights/panama-mola-museum.yaml)
+- Action: new
+- Scope: Permanent textile exhibition separate from Casco architecture and island landscape; no private craft or community access assumed.
+- Representative coordinates: 8.953, -79.535; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.tourismpanama.com/places-to-visit/panama-city/things-to-do/culture-and-arts/indigenous-communities/
+- Core I/U/S/E/D: 8.6 / 8.9 / 9.0 / 8.6 / 8.7.
+- Categories: culture:9.4 history:9.2 photography:9.0.
+- Overall: 87.65/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PA/biomuseo](../../../countries/PA/sights/biomuseo.yaml) | 8.5 / 8.9 / 8.6 / 8.7 / 8.4 | impact: 0.1; uniqueness: 0.0 vs peer |
+| [CR/jade-museum](../../../countries/CR/sights/jade-museum.yaml) | 8.0 / 8.6 / 8.7 / 8.2 / 8.0 | impact: 0.6; uniqueness: 0.3 vs peer |
+
+Ranking-row comparisons preliminary, including cross-type references; independent peer YAML, coordinates and global calibration pending.
+
+## sight-pa-summit-botanical-garden — Summit Municipal Park Botanical Collections and Forest Paths — 2026-11-28
+
+- YAML: [source](../../../countries/PA/sights/summit-botanical-garden.yaml)
+- Action: new
+- Scope: Botanical garden and public paths only; excludes captive animal encounters and Soberanía forest scope. Desk-based provisional.
+- Representative coordinates: 9.064, -79.646; approximate editorial point, independent verification pending.
+- Evidence status: **desk-based provisional**
+- Sources: General knowledge; individual source verification pending.
+- Core I/U/S/E/D: 8.1 / 8.2 / 8.4 / 8.3 / 8.4.
+- Categories: nature:9.0 family:8.9 relaxation:8.8.
+- Overall: 82.45/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PA/metropolitan-natural-park](../../../countries/PA/sights/metropolitan-natural-park.yaml) | 8.0 / 8.3 / 8.0 / 8.5 / 7.9 | impact: 0.1; uniqueness: -0.1 vs peer |
+| [CR/lankester-botanical-garden](../../../countries/CR/sights/lankester-botanical-garden.yaml) | 8.5 / 8.8 / 8.9 / 8.6 / 8.7 | impact: -0.4; uniqueness: -0.6 vs peer |
+
+Ranking-row comparisons preliminary, including cross-type references; independent peer YAML, coordinates and global calibration pending.
+
+### Pass 331 scope decisions
+
+12 provisional additions (10 source-linked, 2 desk-based), 3 90+, 24 ranking-row comparisons (12 international, 12 domestic). PA 77 ranked / 77 total, +24 since baseline 53; 10 new 90+ across two passes. Parará Purú community-authorized cultural programme, La Pintada craft/museum and Santa Catalina surf researched. UNESCO hat inscription applies to artisanal techniques, not a building. Chagres forest and Coiba diving not credited again. San San Pond Sak observation excludes feeding and handling; Punta Patiño distinct from Darién park. Cerro Hoya desk-based, routes pending. Railway passenger programme and Pearl Islands whale watching deferred for distinct visitor scope and continuity checks. Prior UNESCO 5 inscribed and 1 tentative represented, component audit and prior Pollera deferrals retained. Panama OPEN. Coordinates approximate, access and future schedules unverified. Existing ratings preserved. Full Python validation, independent peer YAML and same-type global calibration pending.
