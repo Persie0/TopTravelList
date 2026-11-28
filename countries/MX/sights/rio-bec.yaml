@@ -1,0 +1,16 @@
+id: sight-mx-rio-bec
+name: "Río Bec Archaeological Site"
+location:
+  country_code: MX
+  latitude: 18.375167
+  longitude: -89.358733
+scores:
+  impact: 9.1
+  uniqueness: 9.5
+  significance: 9.3
+  experience: 8.4
+  depth: 8.8
+  categories:
+    architecture: 9.5
+    history: 9.3
+    photography: 9.2

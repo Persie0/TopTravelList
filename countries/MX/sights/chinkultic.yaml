@@ -1,0 +1,16 @@
+id: sight-mx-chinkultic
+name: "Chinkultic Archaeological Site"
+location:
+  country_code: MX
+  latitude: 16.12627
+  longitude: -91.78385
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.8
+  depth: 8.7
+  categories:
+    architecture: 9.1
+    history: 9.2
+    photography: 9.1

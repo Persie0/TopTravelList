@@ -1,0 +1,16 @@
+id: sight-mx-ichkabal
+name: "Ichkabal Archaeological Site"
+location:
+  country_code: MX
+  latitude: 18.68552
+  longitude: -88.66755
+scores:
+  impact: 9.3
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 8.9
+  depth: 9.1
+  categories:
+    architecture: 9.4
+    history: 9.4
+    photography: 9.2

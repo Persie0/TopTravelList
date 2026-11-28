@@ -9041,3 +9041,257 @@ Individual Puuc sites evaluated separately from the existing Uxmal record. Balam
 - Earlier decision: none.
 - Remaining verification: independent factual and coordinate checks, numerical peer comparisons and global Python validation; current access not verified.
 
+## Pass 438 — Ceremonial caves, early paintings and Maya architecture
+
+Individual sites assessed separately from nearby heritage properties. Temporary closure is recorded independently of normal-condition intrinsic quality. Current access and fine-scale geolocation have not been independently verified. All records have complete editorial scores.
+
+## sight-mx-loltun-cave — Loltún Cave and Prehistoric Rock Art — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/loltun-cave.yaml)
+- Action: new
+- Precise subject: Cave formations, archaeological deposits, rock art and established interpretive route; not all Yucatán prehistoric sites.
+- Location check: 20.253986, -89.455783; approximate representative point from cited geographic or archaeological source, not an entrance survey. Converted published coordinates from degrees/minutes/seconds.
+- Evidence status: source-linked-unverified; indexed INAH and/or scholarly sources consulted; editorial scores.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/es/node/4433; https://centroyucatan.inah.gob.mx/publico/zonas.php?id_m=62; https://www.scielo.org.mx/scielo.php?pid=S1026-87742016000300342&script=sci_arttext.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Yagul and Mitla prehistoric caves (MX): important early agriculture
+  - Altamira (ES): greater global painting significance
+  - Lascaux (FR): exceptional painting corpus
+  - Cueva de las Manos (AR): more concentrated rock art
+- Individual scores:
+  - impact: 9.2 — Large chambers and original rock art.
+  - uniqueness: 9.4 — Distinctive combination of geological and cultural evidence.
+  - significance: 9.5 — Exceptional regional chronological sequence.
+  - experience: 8.9 — Immersive cave and cultural interpretation in normal conditions.
+  - depth: 9.2 — Multiple chambers and evidence of long occupation.
+- Categories: history 9.5, nature 9.2, culture 9.3, photography 9.1.
+- Overall: 92.65/100.
+- High-score challenge: History and significance 9.5 supported by INAH's description of the longest documented archaeological sequence in northern Yucatán, 145 recorded paintings and 42 petroglyphs. INAH dataset lists temporary closure; normal-condition intrinsic score, not access advice. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate triangulation, numerical peer comparisons and global Python validation; current access not confirmed.
+
+## sight-mx-ichkabal — Ichkabal Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/ichkabal.yaml)
+- Action: new
+- Precise subject: Exposed monumental core and ordinary visitor circuit of Ichkabal, not all lidar-detected remains or neighboring Dzibanché.
+- Location check: 18.68552, -88.66755; approximate representative point from cited geographic or archaeological source, not an entrance survey. 
+- Evidence status: source-linked-unverified; indexed INAH and/or scholarly sources consulted; editorial scores.
+- Sources consulted 2026-11-28: https://sic.cultura.gob.mx/ficha.php?table=zona_arqueologica&table_id=204; https://arqueologia.inah.gob.mx/publico/especifico.php?id=OTU%3D; https://www.inah.gob.mx/zonas/ichkabal; https://mapcarta.com/N7392865557.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Calakmul (MX): wider excavated ensemble and forest
+  - El Mirador (GT): greater monumental scale and remoteness
+  - Caracol (BZ): broader exposed urban scope
+  - Dzibanché (MX): distinct neighboring polity and monuments
+- Individual scores:
+  - impact: 9.3 — Massive Maya temple platforms.
+  - uniqueness: 9.2 — Distinctive early monumental triadic architecture.
+  - significance: 9.4 — Important early political center.
+  - experience: 8.9 — Interpretation and walks among exposed structures.
+  - depth: 9.1 — Multiple monumental groups and plazas.
+- Categories: architecture 9.4, history 9.4, photography 9.2.
+- Overall: 92.15/100.
+- High-score challenge: 90+ supported by INAH's documented 35–46 m monumental structures. No full-site excavation or unrestricted access assumed. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate triangulation, numerical peer comparisons and global Python validation; current access not confirmed.
+
+## sight-mx-balankanche-ceremonial-cave — Balankanché Maya Ceremonial Cave — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/balankanche-ceremonial-cave.yaml)
+- Action: new
+- Precise subject: Ceremonial cave and its in-situ ritual offerings, separate from the Chichén Itzá city monuments.
+- Location check: 20.658579, -88.534793; approximate representative point from cited geographic or archaeological source, not an entrance survey. 
+- Evidence status: source-linked-unverified; indexed INAH and/or scholarly sources consulted; editorial scores.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/es/node/4372; https://lugares.inah.gob.mx/es/node/5390; https://www.yucatan.gob.mx/index.php/ciudadano/estado/saladeprensa/?p=balankanche; https://www.outdooractive.com/es/poi/yucatan/grutas-de-balankanche/807787295/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Actun Tunichil Muknal (BZ): broader archaeological cave adventure
+  - Loltún (MX): greater chronological breadth
+  - Carlsbad Caverns (US): greater geological spectacle
+  - Chichén Itzá (MX): more extensive monumental architecture
+- Individual scores:
+  - impact: 9.1 — Cave columns surrounded by ritual material.
+  - uniqueness: 9.5 — Rare preserved association of cave formations and Maya offerings.
+  - significance: 9.4 — Important evidence of sacred geography and rain deity cult.
+  - experience: 8.7 — Focused cave interpretation in normal conditions.
+  - depth: 8.6 — Several chambers and ritual contexts.
+- Categories: history 9.4, culture 9.5, nature 9.2, photography 9.0.
+- Overall: 91.50/100.
+- High-score challenge: Uniqueness and culture 9.5 supported by in-situ ritual offerings around a striking natural formation interpreted as a sacred ceiba. Current access should be checked with INAH. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate triangulation, numerical peer comparisons and global Python validation; current access not confirmed.
+
+## sight-mx-juxtlahuaca-cave — Juxtlahuaca Cave and Olmec Paintings — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/juxtlahuaca-cave.yaml)
+- Action: new
+- Precise subject: Known cave chambers and original Olmec-style paintings; excludes other regional shelters.
+- Location check: 17.43931, -99.15944; approximate representative point from cited geographic or archaeological source, not an entrance survey. 
+- Evidence status: source-linked-unverified; indexed INAH and/or scholarly sources consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.antiquity.ac.uk/projgall/coe305; https://mapcarta.com/19989446.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Oxtotitlán (MX): related rare early paintings in a rock shelter
+  - Lascaux (FR): greater extensive painted corpus
+  - Bonampak (MX): more extensive later Maya murals
+  - Chalcatzingo (MX): broader Olmec relief site
+- Individual scores:
+  - impact: 9.0 — Subterranean setting and rare paintings.
+  - uniqueness: 9.7 — Exceptionally rare surviving early Olmec-style painted compositions.
+  - significance: 9.6 — Major evidence of early Mesoamerican pictorial tradition.
+  - experience: 8.3 — Focused specialist or guided visit only where authorized.
+  - depth: 8.5 — Cave passages and several documented paintings.
+- Categories: history 9.6, culture 9.5, nature 9.0.
+- Overall: 91.40/100.
+- High-score challenge: Uniqueness 9.7, significance/history 9.6 and culture 9.5 reflect scarce surviving early Olmec-style paintings discussed in Antiquity; no guarantee of current viewing or access. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate triangulation, numerical peer comparisons and global Python validation; current access not confirmed.
+
+## sight-mx-oxkintok — Oxkintok Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/oxkintok.yaml)
+- Action: new
+- Precise subject: Ancient city with its own acropolises, inscriptions, sculpture and labyrinth; excludes neighboring sites.
+- Location check: 20.56144, -89.95336; approximate representative point from cited geographic or archaeological source, not an entrance survey. 
+- Evidence status: source-linked-unverified; indexed INAH and/or scholarly sources consulted; editorial scores.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/es/node/4445; https://www.inah.gob.mx//foto-del-dia/zona-arqueologica-de-oxkintok; https://www.megalithic.co.uk/article.php?map=2&sid=16608.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Uxmal (MX): greater ornamentation
+  - Sayil (MX): more concentrated palace façade
+  - Dzibilchaltún (MX): comparable broad northern Maya settlement
+  - Copán (HN): more extensive sculptural heritage
+- Individual scores:
+  - impact: 9.0 — Monumental plazas and pyramids.
+  - uniqueness: 9.2 — Distinctive labyrinth and architectural history.
+  - significance: 9.3 — Important long-lived Maya center with calendrical inscriptions.
+  - experience: 8.8 — Varied monument interpretation.
+  - depth: 9.1 — Several groups, sculpture and settlement remains.
+- Categories: architecture 9.3, history 9.4, photography 9.1.
+- Overall: 90.90/100.
+- High-score challenge: 90+ supported by documented monumental acropolises, inscriptions, anthropomorphic columns and labyrinth. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate triangulation, numerical peer comparisons and global Python validation; current access not confirmed.
+
+## sight-mx-rio-bec — Río Bec Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/rio-bec.yaml)
+- Action: new
+- Precise subject: Eponymous archaeological area and surviving decorated buildings, not all Río Bec-style sites. Representative point at Group B.
+- Location check: 18.375167, -89.358733; approximate representative point from cited geographic or archaeological source, not an entrance survey. Group B published degrees and decimal minutes converted to decimal degrees.
+- Evidence status: source-linked-unverified; indexed INAH and/or scholarly sources consulted; editorial scores.
+- Sources consulted 2026-11-28: https://archeologie.culture.gouv.fr/en/rio-bec; https://www.cambridge.org/core/journals/ancient-mesoamerica/article/introduction/99830D79117D4A91E03CA9D4DCFD8DE3; https://washington.office.cnrs.fr/rio-bec-an-extraordinary-mayan-site-hidden-in-the-heart-of-the-yucatan-jungle/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Xpuhil (MX): more concentrated three-tower monument
+  - Chicanná (MX): distinctive zoomorphic façade
+  - Tikal (GT): larger urban ceremonial core
+  - Santa Rosa Xtampak (MX): contrasting palace architecture
+- Individual scores:
+  - impact: 9.1 — Exceptional forest-set decorated towers.
+  - uniqueness: 9.5 — Distinctive nonfunctional tower architecture and dispersed settlement form.
+  - significance: 9.3 — Major archaeological evidence of unusual Maya social organization.
+  - experience: 8.4 — Remote focused visit only where permitted.
+  - depth: 8.8 — Multiple documented monumental groups, with limited ordinary viewing scope.
+- Categories: architecture 9.5, history 9.3, photography 9.2.
+- Overall: 91.05/100.
+- High-score challenge: Uniqueness and architecture 9.5 supported by documented twin solid towers, false stairs and dispersed monumental groups; the 73 recorded groups are not assumed all publicly accessible. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate triangulation, numerical peer comparisons and global Python validation; current access not confirmed.
+
+## sight-mx-oxtotitlan-rock-art — Oxtotitlán Rock Shelter and Olmec Paintings — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/oxtotitlan-rock-art.yaml)
+- Action: new
+- Precise subject: Painted rock shelters near Acatlán, not the unrelated village of Oxtotitlán in Teloloapan.
+- Location check: 17.783333, -98.95; approximate representative point from cited geographic or archaeological source, not an entrance survey. 
+- Evidence status: source-linked-unverified; indexed INAH and/or scholarly sources consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.cambridge.org/core/journals/advances-in-archaeological-practice/article/strategies-for-14c-dating-the-oxtotitlan-cave-paintings-guerrero-mexico/3FA38E5122047956B288E15B3D67DC50; https://www.antiquity.ac.uk/projgall/coe305; https://www.urbipedia.org/hoja/Cueva_de_Oxtotitl%C3%A1n.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Juxtlahuaca (MX): larger cave context
+  - Cueva de las Manos (AR): more extensive visible rock art
+  - Bhimbetka (IN): broader shelter complex
+  - Bonampak (MX): more complete later mural setting
+- Individual scores:
+  - impact: 8.7 — Distinctive original painted figures.
+  - uniqueness: 9.5 — Rare surviving early polychrome Mesoamerican art.
+  - significance: 9.5 — Major evidence of formative painting traditions.
+  - experience: 8.2 — Focused interpretation subject to local authorization.
+  - depth: 7.8 — Compact site with two shallow grottos.
+- Categories: history 9.5, culture 9.4.
+- Overall: 88.95/100.
+- High-score challenge: Uniqueness, significance and history 9.5 justified by rarity and documented early painting tradition; limited physical breadth constrains overall merit. Coordinates are a coarse published listing, not independently triangulated. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate triangulation, numerical peer comparisons and global Python validation; current access not confirmed.
+
+## sight-mx-chinkultic — Chinkultic Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/chinkultic.yaml)
+- Action: new
+- Precise subject: Maya monuments, acropolis and adjacent cenote setting; not the wider Montebello lakes.
+- Location check: 16.12627, -91.78385; approximate representative point from cited geographic or archaeological source, not an entrance survey. Coordinate listing: https://mapcarta.com/de/34488998.
+- Evidence status: source-linked-unverified; indexed INAH and/or scholarly sources consulted; editorial scores.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/en/node/4386; https://mapcarta.com/de/34488998.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Yaxchilán (MX): greater sculpture and monumental context
+  - Tulum (MX): more iconic coastal setting
+  - Lamanai (BZ): comparable waterside ruins
+  - Kohunlich (MX): more distinctive monumental masks
+- Individual scores:
+  - impact: 8.9 — Hilltop monuments and lake scenery.
+  - uniqueness: 8.9 — Distinctive cenote and acropolis relationship.
+  - significance: 9.0 — Regional Maya settlement and documented carved monuments.
+  - experience: 8.8 — Varied short archaeological visit.
+  - depth: 8.7 — Four principal complexes, limited visible scope.
+- Categories: architecture 9.1, history 9.2, photography 9.1.
+- Overall: 88.85/100.
+- High-score challenge: Provisional sub-90 assessment; not credited with the entire national park. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate triangulation, numerical peer comparisons and global Python validation; current access not confirmed.
+
+## sight-mx-xpuhil — Xpuhil Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/xpuhil.yaml)
+- Action: new
+- Precise subject: Exposed Xpuhil groups including Building of the Three Towers; excludes the wider Río Bec region and military site.
+- Location check: 18.51003, -89.40447; approximate representative point from cited geographic or archaeological source, not an entrance survey. 
+- Evidence status: source-linked-unverified; indexed INAH and/or scholarly sources consulted; editorial scores.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/en/node/4364; https://aroundus.com/p/5239350-xpuhil.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Río Bec (MX): wider eponymous archaeological area
+  - Chicanná (MX): more elaborate monster-mouth doorway
+  - Becan (MX): larger defensive settlement
+  - Labná (MX): comparable smaller ornate site
+- Individual scores:
+  - impact: 8.9 — Distinctive three-tower silhouette.
+  - uniqueness: 9.1 — Unusual variation on Río Bec architecture.
+  - significance: 8.9 — Regional late Classic settlement.
+  - experience: 8.7 — Compact architectural walk.
+  - depth: 8.2 — Small exposed group network.
+- Categories: architecture 9.3, history 9.1, photography 9.1.
+- Overall: 88.50/100.
+- High-score challenge: Provisional sub-90 assessment, emphasizing the three-tower structure rather than wider regional remains. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate triangulation, numerical peer comparisons and global Python validation; current access not confirmed.
+
+## sight-mx-hochob — Hochob Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/hochob.yaml)
+- Action: new
+- Precise subject: Small Chenes site with distinctive monster-mouth temple façade.
+- Location check: 19.4086, -89.77037; approximate representative point from cited geographic or archaeological source, not an entrance survey. 
+- Evidence status: source-linked-unverified; indexed INAH and/or scholarly sources consulted; editorial scores.
+- Sources consulted 2026-11-28: https://sic.gob.mx/ficha.php?table=zona_arqueologica&table_id=11; https://lugares.inah.gob.mx/en/node/5442; https://mapcarta.com/W26751099.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Chicanná (MX): comparable zoomorphic portal
+  - Santa Rosa Xtampak (MX): larger palace complex
+  - Ek Balam (MX): more extensive monumental stucco
+  - Kabah (MX): larger mask-covered façade
+- Individual scores:
+  - impact: 8.9 — Striking decorated serpent-mouth entrance.
+  - uniqueness: 9.2 — Distinctive Chenes sculptural doorway.
+  - significance: 8.9 — Regional Maya ceremonial architecture.
+  - experience: 8.6 — Focused interpretation of preserved buildings.
+  - depth: 8.0 — Compact monumental ensemble.
+- Categories: architecture 9.4, history 9.1, photography 9.2.
+- Overall: 88.40/100.
+- High-score challenge: Provisional sub-90 assessment; exceptional doorway but limited site depth. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate triangulation, numerical peer comparisons and global Python validation; current access not confirmed.
+
