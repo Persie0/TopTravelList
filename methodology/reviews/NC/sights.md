@@ -894,3 +894,9 @@ Ranking rows checked; independent factual, coordinate, peer YAML and internation
 
 Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
 
+## sight-nc-new-caledonia-lagoons — Lagoons of New Caledonia (listed reef components) — 2026-11-28 post-merge 93+ scope check
+
+- [YAML](../../../countries/NC/sights/new-caledonia-lagoons.yaml) · Action: source/scope check only · **source-linked-unverified**.
+- Evidence reviewed 2026-11-28: [UNESCO](https://whc.unesco.org/en/list/1115/) confirms six marine clusters with diverse reef structures, mangroves, seagrass and threatened marine fauna. Significance 9.5, nature 9.7 and wildlife 9.6 have strong intrinsic rationale. Impact/uniqueness reflect diverse reefs, but experience/depth need evidence of component-specific trips; do not extrapolate from all New Caledonian waters or guarantee dugong encounters.
+- Qualitative comparison leads (peer YAML ratings not independently checked): Great Barrier Reef (Australia): larger reef landscape; Belize Barrier Reef: different reef/mangrove system; Tubbataha (Philippines): offshore dive-focused; Aldabra (Seychelles): narrower atoll.
+- Current I/U/S/E/D: 9.4 / 9.4 / 9.5 / 9.3 / 9.2; overall 93.85/100. All ratings retained provisionally; no coordinate or category changes. This limited review is not full international calibration or verification of current access.
