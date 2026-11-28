@@ -14,6 +14,8 @@ Historical dispositions are retained verbatim; overlapping scopes still require 
 
 Use [remaining.tsv](remaining.tsv) as the current research queue.
 Use [original-inventory.tsv](original-inventory.tsv) to reconcile historical labels.
+Use [historical-deferral-review.tsv](historical-deferral-review.tsv) for completed records with historical deferrals, ordered by descending current score.
+This is a triage list, not a determination that the current evidence status is stale or incorrect.
 The latter does not change historical review decisions or certify public access.
 
 ## Remaining by area
