@@ -1,0 +1,16 @@
+id: sight-hn-rus-rus-biological-reserve
+name: "Rus Rus Biological Reserve Pine Savanna and Forest"
+location:
+  country_code: HN
+  latitude: 14.72
+  longitude: -84.46
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 7.6
+  depth: 8.3
+  categories:
+    nature: 9.1
+    wildlife: 9.0
+    photography: 8.6

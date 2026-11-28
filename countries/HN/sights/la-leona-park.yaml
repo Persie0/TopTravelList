@@ -1,0 +1,16 @@
+id: sight-hn-la-leona-park
+name: "Tegucigalpa La Leona Park Viewpoint"
+location:
+  country_code: HN
+  latitude: 14.111
+  longitude: -87.201
+scores:
+  impact: 7.7
+  uniqueness: 7.5
+  significance: 7.8
+  experience: 8.1
+  depth: 7.4
+  categories:
+    photography: 8.8
+    history: 8.4
+    relaxation: 8.3
