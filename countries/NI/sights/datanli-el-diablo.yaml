@@ -1,0 +1,16 @@
+id: sight-ni-datanli-el-diablo
+name: "Cerro Datanlí–El Diablo Nature Reserve"
+location:
+  country_code: NI
+  latitude: 13.1267
+  longitude: -85.87
+scores:
+  impact: 8.4
+  uniqueness: 8.5
+  significance: 8.4
+  experience: 8.5
+  depth: 8.5
+  categories:
+    nature: 9.1
+    wildlife: 8.9
+    adventure: 8.7

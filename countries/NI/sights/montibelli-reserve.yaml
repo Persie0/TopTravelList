@@ -1,0 +1,16 @@
+id: sight-ni-montibelli-reserve
+name: "Montibelli Private Nature Reserve"
+location:
+  country_code: NI
+  latitude: 12.0198
+  longitude: -86.2429
+scores:
+  impact: 8.0
+  uniqueness: 8.2
+  significance: 8.0
+  experience: 8.3
+  depth: 8.1
+  categories:
+    wildlife: 8.9
+    nature: 8.7
+    photography: 8.5
