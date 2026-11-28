@@ -1,0 +1,1074 @@
+[
+  {
+    "source": "countries/AU/sights/cape-york-cultural-landscapes.yaml",
+    "id": "sight-au-cape-york-cultural-landscapes",
+    "categories": {
+      "nature": 9.2,
+      "culture": 9.3,
+      "photography": 9
+    },
+    "rationale": "Proposed serial landscapes unite ancient landforms and Indigenous stewardship; no presumed access to sacred places.",
+    "source_urls": [
+      "https://whc.unesco.org/en/tentativelists/6775/"
+    ]
+  },
+  {
+    "source": "countries/AU/sights/cornish-mining-sites.yaml",
+    "id": "sight-au-cornish-mining-sites",
+    "categories": {
+      "history": 9,
+      "architecture": 8.6,
+      "culture": 8.5
+    },
+    "rationale": "Burra and Moonta preserve Cornish mining and settlement heritage; industrial structures rather than intact grand urban monuments.",
+    "source_urls": [
+      "https://whc.unesco.org/en/tentativelists/6777/"
+    ]
+  },
+  {
+    "source": "countries/AU/sights/flinders-ranges.yaml",
+    "id": "sight-au-flinders-ranges",
+    "categories": {
+      "nature": 9.3,
+      "photography": 9.2
+    },
+    "rationale": "Distinctive folded ranges and ancient geological record, including fossil landscapes; no credit for unrelated Australian deserts.",
+    "source_urls": [
+      "https://whc.unesco.org/en/tentativelists/6524"
+    ]
+  },
+  {
+    "source": "countries/AU/sights/gondwana-rainforests-extension.yaml",
+    "id": "sight-au-gondwana-rainforests-extension",
+    "categories": {
+      "nature": 9.2,
+      "wildlife": 8.8
+    },
+    "rationale": "Proposed extension reflects relict rainforest ecology; separate from the already inscribed serial property.",
+    "source_urls": [
+      "https://whc.unesco.org/en/statesparties/AU/"
+    ]
+  },
+  {
+    "source": "countries/AU/sights/great-sandy-world-heritage-area.yaml",
+    "id": "sight-au-great-sandy-world-heritage-area",
+    "categories": {
+      "nature": 9.2,
+      "photography": 9,
+      "beaches": 8.9
+    },
+    "rationale": "Sand-mass landscape, coastal scenery and dune ecology; do not inherit all K'gari component scores.",
+    "source_urls": [
+      "https://whc.unesco.org/en/statesparties/AU/"
+    ]
+  },
+  {
+    "source": "countries/AU/sights/parramatta-female-factory.yaml",
+    "id": "sight-au-parramatta-female-factory",
+    "categories": {
+      "history": 9.1,
+      "architecture": 8.2
+    },
+    "rationale": "Convict women and institutional social history preserved in the surviving precinct; architecture subordinate to testimony.",
+    "source_urls": [
+      "https://www.dcceew.gov.au/parks-heritage/heritage/places/national/parramatta-female-factory-and-institutions-precinct"
+    ]
+  },
+  {
+    "source": "countries/AU/sights/victorian-goldfields.yaml",
+    "id": "sight-au-victorian-goldfields",
+    "categories": {
+      "history": 9.2,
+      "architecture": 8.8,
+      "culture": 8.8
+    },
+    "rationale": "Gold-rush mining towns and material landscapes; tentative scope rather than every town in Victoria.",
+    "source_urls": [
+      "https://www.dcceew.gov.au/parks-heritage/heritage/about/world-heritage/tentative-world-heritage-list"
+    ]
+  },
+  {
+    "source": "countries/AU/sights/workers-assembly-halls.yaml",
+    "id": "sight-au-workers-assembly-halls",
+    "categories": {
+      "history": 9.2,
+      "architecture": 8.6,
+      "culture": 8.8
+    },
+    "rationale": "Labor movement history and distinctive meeting-hall interiors, rather than monumental palace architecture.",
+    "source_urls": [
+      "https://whc.unesco.org/en/tentativelists/6698/"
+    ]
+  },
+  {
+    "source": "countries/BS/sights/cay-lobos-lighthouse.yaml",
+    "id": "sight-bs-cay-lobos-lighthouse",
+    "categories": {
+      "history": 8.2,
+      "photography": 8.4
+    },
+    "rationale": "Isolated maritime navigation landmark with sea-and-tower compositions, modest architectural complexity.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/BS/sights/cay-sal-lighthouse.yaml",
+    "id": "sight-bs-cay-sal-lighthouse",
+    "categories": {
+      "history": 8.3,
+      "photography": 8.1
+    },
+    "rationale": "Historic bank navigation and isolated masonry remains; no assumed tower entry or intact operational facilities.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/BS/sights/great-isaac-lighthouse.yaml",
+    "id": "sight-bs-great-isaac-lighthouse",
+    "categories": {
+      "history": 8,
+      "photography": 8.2
+    },
+    "rationale": "Remote lighthouse silhouette and maritime heritage; limited built fabric and no fabricated facilities.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/BS/sights/gun-cay-lighthouse.yaml",
+    "id": "sight-bs-gun-cay-lighthouse",
+    "categories": {
+      "history": 8.3,
+      "photography": 8.3
+    },
+    "rationale": "Historic navigational tower on a narrow cay, distinctive coastal visual setting.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/BS/sights/hole-in-the-wall-lighthouse.yaml",
+    "id": "sight-bs-hole-in-the-wall-lighthouse",
+    "categories": {
+      "history": 8.4,
+      "photography": 8.4
+    },
+    "rationale": "Abaco's historic maritime landmark and rugged headland, no assumption of restored tower access.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/BS/sights/southwest-point-lighthouse.yaml",
+    "id": "sight-bs-southwest-point-lighthouse",
+    "categories": {
+      "history": 8.2,
+      "photography": 8
+    },
+    "rationale": "Inagua navigation history and coastal setting; single tower rather than broader island wildlife.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/CA/sights/hecate-strait-glass-sponge-reefs.yaml",
+    "id": "sight-ca-hecate-strait-glass-sponge-reefs",
+    "categories": {
+      "nature": 9.3,
+      "wildlife": 8.6
+    },
+    "rationale": "Rare deep-water sponge reef formation of scientific significance; do not imply ordinary scuba access or count hypothetical encounters as actual.",
+    "source_urls": [
+      "https://whc.unesco.org/en/tentativelists/6338"
+    ]
+  },
+  {
+    "source": "countries/CA/sights/ivvavik-vuntut-herschel-island.yaml",
+    "id": "sight-ca-ivvavik-vuntut-herschel-island",
+    "categories": {
+      "nature": 9.4,
+      "wildlife": 9.3,
+      "culture": 8.9,
+      "photography": 9.2
+    },
+    "rationale": "Large Arctic wilderness combines coastal plain, mountains, wetlands and island; wildlife scope is aggregate, Indigenous heritage distinct from assumed community access.",
+    "source_urls": [
+      "https://whc.unesco.org/en/tentativelists/1939/"
+    ]
+  },
+  {
+    "source": "countries/CA/sights/sirmilik-tallurutiup-imanga.yaml",
+    "id": "sight-ca-sirmilik-tallurutiup-imanga",
+    "categories": {
+      "nature": 9.5,
+      "wildlife": 9.4,
+      "photography": 9.4
+    },
+    "rationale": "Arctic fjords, marine and terrestrial ecosystems, glaciers and seasonal fauna; compare Svalbard, Ilulissat, Wrangel and South Georgia; not guaranteed sightings.",
+    "source_urls": [
+      "https://whc.unesco.org/en/tentativelists/6340/"
+    ]
+  },
+  {
+    "source": "countries/CU/sights/cienaga-de-zapata-national-park.yaml",
+    "id": "sight-cu-cienaga-de-zapata-national-park",
+    "categories": {
+      "nature": 9.4,
+      "wildlife": 9.3,
+      "photography": 8.9
+    },
+    "rationale": "Wetland and speleological-lacustrine system, endemic species and karst water features; no credit for entire Ramsar wetland beyond nominated scope.",
+    "source_urls": [
+      "https://whc.unesco.org/en/tentativelists/6750/"
+    ]
+  },
+  {
+    "source": "countries/DO/sights/azua-de-compostela-ruins.yaml",
+    "id": "sight-do-azua-de-compostela-ruins",
+    "categories": {
+      "history": 8.6,
+      "architecture": 7.2
+    },
+    "rationale": "Early colonial settlement archaeology, modest surviving structural extent.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/DO/sights/boca-de-nigua-sugar-mill.yaml",
+    "id": "sight-do-boca-de-nigua-sugar-mill",
+    "categories": {
+      "history": 9,
+      "architecture": 8
+    },
+    "rationale": "Sugar production and slavery heritage represented by mill remains; no intact industrial operation assumed.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/DO/sights/diego-caballero-sugar-mill.yaml",
+    "id": "sight-do-diego-caballero-sugar-mill",
+    "categories": {
+      "history": 8.6,
+      "architecture": 7.4
+    },
+    "rationale": "Early colonial industrial archaeology, narrower surviving fabric than larger mill complexes.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/DO/sights/jacagua-villa-santiago.yaml",
+    "id": "sight-do-jacagua-villa-santiago",
+    "categories": {
+      "history": 8.7,
+      "architecture": 7.3
+    },
+    "rationale": "Historic settlement remains and early colonial urban origins, limited visible masonry.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/DO/sights/la-duquesa-sugar-mill.yaml",
+    "id": "sight-do-la-duquesa-sugar-mill",
+    "categories": {
+      "history": 8.8,
+      "architecture": 8
+    },
+    "rationale": "Historic sugar estate structures and labor heritage, modest industrial monument scale.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/DO/sights/palave-sugar-mill.yaml",
+    "id": "sight-do-palave-sugar-mill",
+    "categories": {
+      "history": 8.8,
+      "architecture": 8.2
+    },
+    "rationale": "Colonial sugar architecture and estate history, stronger built heritage than fragmentary ruins.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/DO/sights/prehispanic-rock-art.yaml",
+    "id": "sight-do-prehispanic-rock-art",
+    "categories": {
+      "history": 9.3,
+      "culture": 9.1,
+      "photography": 8.5
+    },
+    "rationale": "Indigenous rock-art corpus and visual motifs, not an assumption of access to every cave.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/DO/sights/pueblo-viejo-la-vega.yaml",
+    "id": "sight-do-pueblo-viejo-la-vega",
+    "categories": {
+      "history": 9,
+      "architecture": 7.9
+    },
+    "rationale": "Early colonial town archaeology with historical park context, not a reconstructed complete city.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/DO/sights/sanate-sugar-mill.yaml",
+    "id": "sight-do-sanate-sugar-mill",
+    "categories": {
+      "history": 8.6,
+      "architecture": 7.8
+    },
+    "rationale": "Sugar-industry remains and regional colonial heritage; no unverified operating machinery.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/DO/sights/silver-and-navidad-banks-sanctuary.yaml",
+    "id": "sight-do-silver-and-navidad-banks-sanctuary",
+    "categories": {
+      "wildlife": 9.6,
+      "nature": 9.3
+    },
+    "rationale": "Exceptional seasonal humpback breeding concentrations; compare Tonga, Hervey Bay, Peninsula Valdés and Maui, without promising close encounters or blanket access.",
+    "source_urls": [
+      "https://whc.unesco.org/en/tentativelists/6293/"
+    ]
+  },
+  {
+    "source": "countries/DZ/sights/ancient-royal-mausoleums.yaml",
+    "id": "sight-dz-ancient-royal-mausoleums",
+    "categories": {
+      "history": 9.4,
+      "architecture": 9.1,
+      "photography": 8.8
+    },
+    "rationale": "Numidian and ancient royal funerary monuments; score the serial set rather than all Algerian antiquity.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/DZ/sights/augustinian-routes.yaml",
+    "id": "sight-dz-augustinian-routes",
+    "categories": {
+      "history": 9.4,
+      "culture": 9.2,
+      "architecture": 8.8
+    },
+    "rationale": "Tentative route links Roman and early Christian sites over a broad region; distinguish actual ruins from biographical significance.",
+    "source_urls": [
+      "https://whc.unesco.org/en/tentativelists/6830/"
+    ]
+  },
+  {
+    "source": "countries/DZ/sights/nedroma-trara.yaml",
+    "id": "sight-dz-nedroma-trara",
+    "categories": {
+      "culture": 9,
+      "architecture": 8.8,
+      "history": 8.9
+    },
+    "rationale": "Historic settlement and regional mountain cultural traditions; no assumed access to every component.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/DZ/sights/oued-souf-oasis-landscape.yaml",
+    "id": "sight-dz-oued-souf-oasis-landscape",
+    "categories": {
+      "architecture": 9,
+      "culture": 9,
+      "photography": 8.9
+    },
+    "rationale": "Distinctive oasis settlement morphology and desert-adapted architecture; not every Saharan dune landscape.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/DZ/sights/saharan-atlas-ksour.yaml",
+    "id": "sight-dz-saharan-atlas-ksour",
+    "categories": {
+      "architecture": 9.1,
+      "culture": 9,
+      "history": 8.9
+    },
+    "rationale": "Fortified earthen settlements and oasis lifeways; no assumed intact interiors.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/DZ/sights/saoura-cultural-park.yaml",
+    "id": "sight-dz-saoura-cultural-park",
+    "categories": {
+      "culture": 9.3,
+      "nature": 9.2,
+      "photography": 9.1
+    },
+    "rationale": "Oasis agriculture, traditional water management and desert wetland landscape; compare M'Zab, Aïr-Ténéré, Wadi Rum and southern Tunisian ksour.",
+    "source_urls": [
+      "https://whc.unesco.org/en/tentativelists/6883/"
+    ]
+  },
+  {
+    "source": "countries/DZ/sights/tebessa-archaeological-heritage.yaml",
+    "id": "sight-dz-tebessa-archaeological-heritage",
+    "categories": {
+      "history": 9.3,
+      "architecture": 8.9
+    },
+    "rationale": "Roman and late antique archaeological and religious structures, distinct from the whole modern city.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/DZ/sights/tefedest-massif.yaml",
+    "id": "sight-dz-tefedest-massif",
+    "categories": {
+      "nature": 9.3,
+      "photography": 9.3,
+      "culture": 9.1
+    },
+    "rationale": "Granite Saharan massif and nomadic landscape heritage; compare Ahaggar, Tassili, Ennedi and Wadi Rum, without inheriting broader park ratings.",
+    "source_urls": [
+      "https://whc.unesco.org/en/tentativelists/6834/"
+    ]
+  },
+  {
+    "source": "countries/EG/sights/alexandria-heritage-property.yaml",
+    "id": "sight-eg-alexandria-heritage-property",
+    "categories": {
+      "history": 9.4,
+      "culture": 9.1,
+      "architecture": 8.8
+    },
+    "rationale": "Ancient remains and modern library as a historical-cultural ensemble; not the whole metropolis or unobservable ancient wonders.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/EG/sights/serabit-el-khadim.yaml",
+    "id": "sight-eg-serabit-el-khadim",
+    "categories": {
+      "history": 9.3,
+      "architecture": 8.6,
+      "photography": 8.7
+    },
+    "rationale": "Sinai mining and temple archaeology with early inscription heritage, narrower scale than monumental Nile temples.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/GT/sights/sierra-de-las-minas.yaml",
+    "id": "sight-gt-sierra-de-las-minas",
+    "categories": {
+      "nature": 9.3,
+      "wildlife": 9,
+      "photography": 9
+    },
+    "rationale": "Cloud forest and mountain biodiversity; no guarantee of rare bird encounters.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/GT/sights/sierra-del-lacandon.yaml",
+    "id": "sight-gt-sierra-del-lacandon",
+    "categories": {
+      "nature": 9.2,
+      "wildlife": 9
+    },
+    "rationale": "Tropical forest and river landscape biodiversity, without inheriting distant Maya ruins.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/HT/sights/drouet-ruins-fort.yaml",
+    "id": "sight-ht-drouet-ruins-fort",
+    "categories": {
+      "history": 9.1,
+      "architecture": 8.7
+    },
+    "rationale": "Fortification and historical estate remains in a landscape setting; not the entire Matheux route.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/HT/sights/habitation-cortade-ruins.yaml",
+    "id": "sight-ht-habitation-cortade-ruins",
+    "categories": {
+      "history": 8.6
+    },
+    "rationale": "Individual plantation estate remains and slavery-era history; surviving details uncertain.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/HT/sights/habitation-gosse-ruins.yaml",
+    "id": "sight-ht-habitation-gosse-ruins",
+    "categories": {
+      "history": 8.6
+    },
+    "rationale": "Plantation archaeological testimony; no claim of a reconstructed estate or complete machinery.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/HT/sights/habitation-guyon-ruins.yaml",
+    "id": "sight-ht-habitation-guyon-ruins",
+    "categories": {
+      "history": 9,
+      "architecture": 8.6
+    },
+    "rationale": "More substantial estate heritage as reflected in existing scope; no assumed intact interiors.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/HT/sights/habitation-janet-latour-ruins.yaml",
+    "id": "sight-ht-habitation-janet-latour-ruins",
+    "categories": {
+      "history": 8.8
+    },
+    "rationale": "Named plantation estate historical testimony; limited evidence of built completeness.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/HT/sights/habitation-lachenais-ruins.yaml",
+    "id": "sight-ht-habitation-lachenais-ruins",
+    "categories": {
+      "history": 8.6
+    },
+    "rationale": "Coffee/slavery landscape estate component; distinguish individual remains from serial route.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/HT/sights/habitation-lamothe-ruins.yaml",
+    "id": "sight-ht-habitation-lamothe-ruins",
+    "categories": {
+      "history": 8.8
+    },
+    "rationale": "Historic plantation site in the Matheux landscape; narrower than full historical park.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/HT/sights/habitation-lapeyrade-ruins.yaml",
+    "id": "sight-ht-habitation-lapeyrade-ruins",
+    "categories": {
+      "history": 8.6
+    },
+    "rationale": "Individual estate archaeology and colonial labor history, no invented structures.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/HT/sights/habitation-mary-ruins.yaml",
+    "id": "sight-ht-habitation-mary-ruins",
+    "categories": {
+      "history": 8.6
+    },
+    "rationale": "Individual historic habitation remains; equal provisional value to similarly documented fragments.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/HT/sights/habitation-sabourin-ruins.yaml",
+    "id": "sight-ht-habitation-sabourin-ruins",
+    "categories": {
+      "history": 8.9,
+      "architecture": 8.1
+    },
+    "rationale": "Estate heritage with greater existing scope rating; no assumption of restored interiors.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/HT/sights/matheux-historical-national-park.yaml",
+    "id": "sight-ht-matheux-historical-national-park",
+    "categories": {
+      "history": 9.4,
+      "culture": 9.1,
+      "photography": 8.9
+    },
+    "rationale": "Coffee, slavery and freedom landscape with multiple estates; avoid counting each component again.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/HT/sights/ramiers-fortifications.yaml",
+    "id": "sight-ht-ramiers-fortifications",
+    "categories": {
+      "history": 9.2,
+      "architecture": 8.8,
+      "photography": 8.8
+    },
+    "rationale": "Historic defensive outworks of the national history park; not the full Citadelle complex.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/JM/sights/archaeological-ensemble-port-royal.yaml",
+    "id": "sight-jm-archaeological-ensemble-port-royal",
+    "categories": {
+      "history": 9.5,
+      "architecture": 8.5
+    },
+    "rationale": "Historic maritime urban archaeology and surviving structures, including submerged remains; do not imply public access to all underwater archaeology.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/JM/sights/cockpit-country-protected-area.yaml",
+    "id": "sight-jm-cockpit-country-protected-area",
+    "categories": {
+      "nature": 9.2,
+      "culture": 8.9,
+      "photography": 9
+    },
+    "rationale": "Distinctive tropical karst and Maroon cultural landscape; no implied permission for private or sacred sites.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/MA/sights/ajgal-dragon-tree-area.yaml",
+    "id": "sight-ma-ajgal-dragon-tree-area",
+    "categories": {
+      "nature": 9.1,
+      "photography": 8.8
+    },
+    "rationale": "Rare dragon-tree habitat in rugged terrain; no transfer of whole Anti-Atlas scenery.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/MA/sights/casablanca-modern-heritage.yaml",
+    "id": "sight-ma-casablanca-modern-heritage",
+    "categories": {
+      "architecture": 9.1,
+      "history": 8.8
+    },
+    "rationale": "Twentieth-century modernist and Art Deco urban fabric, not the entire city's attractions.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/MA/sights/taza-great-mosque.yaml",
+    "id": "sight-ma-taza-great-mosque",
+    "categories": {
+      "architecture": 8.9,
+      "history": 8.8,
+      "culture": 8.7
+    },
+    "rationale": "Historic religious architecture and craftsmanship, modest scale versus leading imperial mosques.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/MA/sights/tetouan-historic-centre-extension.yaml",
+    "id": "sight-ma-tetouan-historic-centre-extension",
+    "categories": {
+      "architecture": 8.9,
+      "history": 8.8,
+      "culture": 8.9
+    },
+    "rationale": "Tentative extension, distinct from existing inscribed medina and its full heritage.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/MA/sights/tighmert-oases.yaml",
+    "id": "sight-ma-tighmert-oases",
+    "categories": {
+      "culture": 8.7,
+      "nature": 8.6,
+      "photography": 8.6
+    },
+    "rationale": "Oasis-chain agriculture and desert settlement, narrower than major Saharan landscapes.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/MX/sights/arco-del-tiempo.yaml",
+    "id": "sight-mx-arco-del-tiempo",
+    "categories": {
+      "nature": 9.3,
+      "adventure": 9.2,
+      "photography": 9.4
+    },
+    "rationale": "Large natural limestone arch in river canyon; compare Zhangjiajie, Wadi Rum, Arches National Park and Sumidero Canyon; do not infer exact route or access.",
+    "source_urls": [
+      "https://whc.unesco.org/en/tentativelists/5567"
+    ]
+  },
+  {
+    "source": "countries/MX/sights/atongo-bridge.yaml",
+    "id": "sight-mx-atongo-bridge",
+    "categories": {
+      "history": 8.3,
+      "architecture": 7.7
+    },
+    "rationale": "Historic route bridge, localized engineering and transit heritage rather than major architecture.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/MX/sights/banco-chinchorro.yaml",
+    "id": "sight-mx-banco-chinchorro",
+    "categories": {
+      "nature": 9.4,
+      "wildlife": 9.4
+    },
+    "rationale": "Mexico's largest platform-type reef complex with seagrass and mangroves; compare Belize, Aldabra, Cocos and New Caledonia, no guaranteed marine encounters.",
+    "source_urls": [
+      "https://www.unesco.org/en/mab/banco-chinchorro"
+    ]
+  },
+  {
+    "source": "countries/MX/sights/buenavista-hacienda-chapel.yaml",
+    "id": "sight-mx-buenavista-hacienda-chapel",
+    "categories": {
+      "architecture": 8,
+      "history": 8.3
+    },
+    "rationale": "Small former estate chapel, limited architectural breadth.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/MX/sights/camino-real-tierra-adentro.yaml",
+    "id": "sight-mx-camino-real-tierra-adentro",
+    "categories": {
+      "history": 9.5,
+      "architecture": 9.2,
+      "culture": 9.1
+    },
+    "rationale": "Serial historic silver route linking 60 listed sites; compare Silk Roads, Qhapaq Ñan, Camino de Santiago and Via Appia, not all places along the historic road.",
+    "source_urls": [
+      "https://whc.unesco.org/en/list/1351"
+    ]
+  },
+  {
+    "source": "countries/MX/sights/chichimequillas-hacienda.yaml",
+    "id": "sight-mx-chichimequillas-hacienda",
+    "categories": {
+      "architecture": 8.5,
+      "history": 8.8
+    },
+    "rationale": "Former hacienda estate complex rather than a single minor chapel, with agricultural and route history.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/MX/sights/chicxulub-ring-of-cenotes.yaml",
+    "id": "sight-mx-chicxulub-ring-of-cenotes",
+    "categories": {
+      "nature": 9.5,
+      "photography": 9.3
+    },
+    "rationale": "Exceptional karst sinkhole ring associated with Chicxulub impact, compare Yucatán individual cenotes, Plitvice, Škocjan and Jeju lava tubes; no blanket diving access.",
+    "source_urls": [
+      "https://whc.unesco.org/en/tentativelists/5784/"
+    ]
+  },
+  {
+    "source": "countries/MX/sights/cuatillos-refugio-chapel.yaml",
+    "id": "sight-mx-cuatillos-refugio-chapel",
+    "categories": {
+      "architecture": 8.1,
+      "history": 8.4
+    },
+    "rationale": "Former hacienda chapel, local religious and route heritage.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/MX/sights/el-fraile-bridge.yaml",
+    "id": "sight-mx-el-fraile-bridge",
+    "categories": {
+      "history": 8.4,
+      "architecture": 7.9
+    },
+    "rationale": "Historic route crossing and masonry engineering, narrow visitor scope.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/MX/sights/huichapa-limpia-concepcion-chapel.yaml",
+    "id": "sight-mx-huichapa-limpia-concepcion-chapel",
+    "categories": {
+      "architecture": 8.2,
+      "history": 8.4
+    },
+    "rationale": "Local historic chapel and settlement-route context.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/MX/sights/la-quemada-bridge-san-felipe.yaml",
+    "id": "sight-mx-la-quemada-bridge-san-felipe",
+    "categories": {
+      "history": 8.3,
+      "architecture": 7.8
+    },
+    "rationale": "Individual historical road bridge, not the full route.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/MX/sights/la-zarca-san-mateo-chapel.yaml",
+    "id": "sight-mx-la-zarca-san-mateo-chapel",
+    "categories": {
+      "architecture": 8.1,
+      "history": 8.4
+    },
+    "rationale": "Hacienda chapel and religious heritage, small architectural scope.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/MX/sights/lacantun-usumacinta.yaml",
+    "id": "sight-mx-lacantun-usumacinta",
+    "categories": {
+      "nature": 9.2,
+      "wildlife": 9.1
+    },
+    "rationale": "River and tropical rainforest mosaic, not the entire Usumacinta basin or unrelated archaeological sites.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/MX/sights/los-petenes-ria-celestun.yaml",
+    "id": "sight-mx-los-petenes-ria-celestun",
+    "categories": {
+      "nature": 9.2,
+      "wildlife": 9.2,
+      "photography": 8.9
+    },
+    "rationale": "Coastal wetlands, mangrove habitats and birdlife; no promise of seasonal concentrations.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/MX/sights/navacoyan-hacienda-devils-bridge.yaml",
+    "id": "sight-mx-navacoyan-hacienda-devils-bridge",
+    "categories": {
+      "history": 8.8,
+      "architecture": 8.5
+    },
+    "rationale": "Hacienda and historic bridge ensemble, greater material scope than individual bridges.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/MX/sights/noria-de-angeles-temple.yaml",
+    "id": "sight-mx-noria-de-angeles-temple",
+    "categories": {
+      "architecture": 8.4,
+      "history": 8.6
+    },
+    "rationale": "Regional historic church fabric and mining-settlement context.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/MX/sights/noria-san-pantaleon-temple.yaml",
+    "id": "sight-mx-noria-san-pantaleon-temple",
+    "categories": {
+      "architecture": 8.3,
+      "history": 8.5
+    },
+    "rationale": "Historic local church, modest scale rather than grand cathedral.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/MX/sights/palmitos-arriba-concepcion-chapel.yaml",
+    "id": "sight-mx-palmitos-arriba-concepcion-chapel",
+    "categories": {
+      "architecture": 8,
+      "history": 8.4
+    },
+    "rationale": "Small chapel and route-associated community heritage.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/MX/sights/penuelas-hacienda.yaml",
+    "id": "sight-mx-penuelas-hacienda",
+    "categories": {
+      "history": 8.7,
+      "architecture": 8.2
+    },
+    "rationale": "Former estate heritage, without assumed intact interiors or agricultural activities.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/MX/sights/popocatepetl-monasteries.yaml",
+    "id": "sight-mx-popocatepetl-monasteries",
+    "categories": {
+      "architecture": 9.3,
+      "history": 9.4,
+      "culture": 9.1
+    },
+    "rationale": "Early colonial monastery ensemble with religious and architectural continuity, not volcano scenery.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/MX/sights/san-jose-de-avino-temple.yaml",
+    "id": "sight-mx-san-jose-de-avino-temple",
+    "categories": {
+      "history": 8.5,
+      "architecture": 8
+    },
+    "rationale": "Historic mining-settlement temple, narrow architectural scope.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/MX/sights/san-nicolas-de-quijas-chapel.yaml",
+    "id": "sight-mx-san-nicolas-de-quijas-chapel",
+    "categories": {
+      "architecture": 8.2,
+      "history": 8.5
+    },
+    "rationale": "Estate chapel and its local route heritage.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/MX/sights/san-rafael-bridge.yaml",
+    "id": "sight-mx-san-rafael-bridge",
+    "categories": {
+      "history": 8.4,
+      "architecture": 7.6
+    },
+    "rationale": "Historic crossing with limited built scale and interpretation.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/MX/sights/valle-de-los-cirios.yaml",
+    "id": "sight-mx-valle-de-los-cirios",
+    "categories": {
+      "nature": 9.3,
+      "photography": 9.2
+    },
+    "rationale": "Distinctive Baja California desert vegetation and landscapes, without assuming concentrated wildlife.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/MX/sights/villa-gonzalez-ortega-dolores-temple.yaml",
+    "id": "sight-mx-villa-gonzalez-ortega-dolores-temple",
+    "categories": {
+      "architecture": 8,
+      "history": 8.5
+    },
+    "rationale": "Local historic temple with regional religious and settlement history.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/MX/sights/villa-ocampo-san-miguel-temple.yaml",
+    "id": "sight-mx-villa-ocampo-san-miguel-temple",
+    "categories": {
+      "architecture": 8,
+      "history": 8.4
+    },
+    "rationale": "Historic community temple, no invented decorative or interior features.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/MX/sights/zacualpan-inmaculada-concepcion-convent.yaml",
+    "id": "sight-mx-zacualpan-inmaculada-concepcion-convent",
+    "categories": {
+      "architecture": 8.9,
+      "history": 9.1
+    },
+    "rationale": "Former convent and religious architecture, narrower than the serial monastery property.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/TN/sights/cretaceous-tertiary-boundary.yaml",
+    "id": "sight-tn-cretaceous-tertiary-boundary",
+    "categories": {
+      "nature": 8.9
+    },
+    "rationale": "Geologically important stratotype; scientific value exceeds immediate visual spectacle.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/TN/sights/el-mekta.yaml",
+    "id": "sight-tn-el-mekta",
+    "categories": {
+      "history": 9
+    },
+    "rationale": "Capsian archaeological testimony, no implication of extensive standing monuments.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/TN/sights/gabes-oasis.yaml",
+    "id": "sight-tn-gabes-oasis",
+    "categories": {
+      "nature": 8.8,
+      "culture": 8.8,
+      "photography": 8.6
+    },
+    "rationale": "Coastal oasis ecology and traditional cultivation; no assumed pristine surrounding environment.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/TN/sights/jebel-tebaga.yaml",
+    "id": "sight-tn-jebel-tebaga",
+    "categories": {
+      "nature": 9
+    },
+    "rationale": "Marine Permian geological record and terrain, assessed for earth-history interest rather than wildlife.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/TN/sights/numidian-royal-mausoleums.yaml",
+    "id": "sight-tn-numidian-royal-mausoleums",
+    "categories": {
+      "history": 9.4,
+      "architecture": 9
+    },
+    "rationale": "Serial funerary monuments and Numidian history; no inflated scope from unrelated Roman cities.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/TN/sights/southern-ksour-troglodyte-habitat.yaml",
+    "id": "sight-tn-southern-ksour-troglodyte-habitat",
+    "categories": {
+      "architecture": 9.4,
+      "culture": 9.3,
+      "photography": 9.2
+    },
+    "rationale": "Collective granaries and vernacular underground dwellings demonstrate adaptation to arid settings; compare Matera, Bandiagara, Aït Benhaddou and Cappadocia.",
+    "source_urls": [
+      "https://whc.unesco.org/en/tentativelists/6444/"
+    ]
+  },
+  {
+    "source": "countries/TN/sights/southern-tunisia-roman-limes.yaml",
+    "id": "sight-tn-southern-tunisia-roman-limes",
+    "categories": {
+      "history": 9.3,
+      "architecture": 8.6
+    },
+    "rationale": "Frontier forts and military landscape, distinguish dispersed surviving remains from full Roman frontier.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/TN/sights/zaghouan-carthage-hydraulic-complex.yaml",
+    "id": "sight-tn-zaghouan-carthage-hydraulic-complex",
+    "categories": {
+      "history": 9.4,
+      "architecture": 9.2
+    },
+    "rationale": "Roman hydraulic engineering and water infrastructure, not every Carthage monument.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/ZA/sights/mandela-legacy-sites.yaml",
+    "id": "sight-za-mandela-legacy-sites",
+    "categories": {
+      "history": 9.6,
+      "culture": 9.4
+    },
+    "rationale": "Inscribed serial sites embody liberation and reconciliation history; compare Robben Island, Constitution Hill, Independence Hall and comparable civil-rights heritage; no transfer of unrelated Mandela locations.",
+    "source_urls": [
+      "https://whc.unesco.org/en/list/1676/"
+    ]
+  },
+  {
+    "source": "countries/ZA/sights/satyagraha-sites.yaml",
+    "id": "sight-za-satyagraha-sites",
+    "categories": {
+      "history": 9.1,
+      "culture": 9
+    },
+    "rationale": "Tentative heritage associated with nonviolent political action; significance does not imply large-scale built monuments.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/ZM/sights/luangwa-karoo-fossil-sites.yaml",
+    "id": "sight-zm-luangwa-karoo-fossil-sites",
+    "categories": {
+      "nature": 9.2
+    },
+    "rationale": "Significant vertebrate fossil and geological record, no assumption of visible fossils at every locality.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/ZM/sights/sitwe-ntawere-fossil-localities.yaml",
+    "id": "sight-zm-sitwe-ntawere-fossil-localities",
+    "categories": {
+      "nature": 9.1
+    },
+    "rationale": "Specific Karoo fossil localities rather than full Luangwa basin; scientific interest outweighs visual breadth.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/ZW/sights/eland-sanctuary.yaml",
+    "id": "sight-zw-eland-sanctuary",
+    "categories": {
+      "wildlife": 8.1,
+      "nature": 8.3
+    },
+    "rationale": "Localized protected eland habitat; do not assume large or regularly observable herds.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/ZW/sights/haroni-botanical-reserve.yaml",
+    "id": "sight-zw-haroni-botanical-reserve",
+    "categories": {
+      "nature": 7
+    },
+    "rationale": "Limited reserve profile and botanical habitat; conservative scope, no unverified intact forest claims.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/ZW/sights/rusitu-botanical-reserve.yaml",
+    "id": "sight-zw-rusitu-botanical-reserve",
+    "categories": {
+      "nature": 8.6
+    },
+    "rationale": "Distinctive botanical habitat and montane forest interest; no assumption of intact historic extent.",
+    "source_urls": []
+  }
+]
