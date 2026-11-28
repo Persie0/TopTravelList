@@ -491,3 +491,10 @@ Follow-up 2026-11-25: UNESCO two inscriptions and nine tentative properties reco
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Protected Planet](https://www.protectedplanet.net/2258) confirms national park designation; [KBA factsheet](https://www.keybiodiversityareas.org/en/site/factsheet/6076) describes larger complex. [FCDO](https://www.gov.uk/foreign-travel-advice/central-african-republic) advises against travel outside Bangui. Checked 2026-11-25; not full factual verification.
 - Remaining gaps: current ecology, boundary, permitted visitor scope and closer peer calibration.
+
+## sight-cf-mongambe-gorilla-tracking — 2026-11-28 category completion
+
+- [YAML](../../../countries/CF/sights/mongambe-gorilla-tracking.yaml) · Action: complete explicitly applicable category fields · **source-linked-unverified**.
+- Assigned: wildlife 9.4, adventure 9.1. Historical research identifies Mongambe as a western lowland gorilla habituation site. Current operator information identifies Bai Hokou rather than Mongambe for the newly opened Limo family; do not claim Mongambe tracking is operating or transfer Bai Hokou sightings. Wildlife 9.4 is a provisional normal-condition estimate for this historically documented encounter, below Bwindi (9.8) and Rwanda Volcanoes (9.9); adventure 9.1 reflects forest tracking, below sustained technical expedition experiences. Actual loss of habituated groups limits evidence of repeatable encounters; temporary closure itself is not a scoring deduction.
+- Sources consulted 2026-11-28 (indexed descriptions): https://dzanga-sangha.org/visit-dzanga-sangha/what-to-do-in-dzanga-sangha/ ; https://pmc.ncbi.nlm.nih.gov/articles/PMC3737207/ ; https://www.worldwildlife.org/news/stories/what-is-gorilla-habituation-and-how-does-it-help-conservation/. These are editorial scores, not ratings assigned by the source organizations. Qualitative peer comparisons are provisional.
+- Core scores, coordinates and other categories unchanged. No perfect score and no new null fields.

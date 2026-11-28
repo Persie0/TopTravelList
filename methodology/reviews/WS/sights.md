@@ -1069,3 +1069,10 @@ Ranking rows checked; independent factual, coordinate, peer YAML, broader intern
 ### Pass 219 scope decisions
 
 Teuila recurring public festival distinct from village tours, Upolu surf distinct from shore bathing. Existing three unassessed retained. Bounded queue closed.
+
+## sight-ws-falealupo-canopy-walk — 2026-11-28 category completion
+
+- [YAML](../../../countries/WS/sights/falealupo-canopy-walk.yaml) · Action: complete explicitly applicable category fields · **source-linked-unverified**.
+- Assigned: adventure 7.8. The tourism authority describes a high canopy walkway through rainforest, a short elevated experience rather than a sustained expedition. Adventure 7.8 recognizes height and forest immersion but remains below multi-day mountain routes and technical canopy or climbing experiences.
+- Sources consulted 2026-11-28 (indexed descriptions): https://www.samoa.travel/experience/adventure-activities/ ; https://www.samoa.travel/experience/families/. These are editorial scores, not ratings assigned by the source organizations. Qualitative peer comparisons are provisional.
+- Core scores, coordinates and other categories unchanged. No perfect score and no new null fields.

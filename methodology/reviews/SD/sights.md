@@ -838,3 +838,9 @@
 
 [UNESCO country inventory](https://whc.unesco.org/en/statesparties/sd) lists three inscribed and 15 tentative properties. All eleven official inscribed components separately recorded. All fifteen tentative properties represented (overlapping Kerma and Wadi Howar nominations explicitly linked). Al Hassania is now included as an unassessed record with a coarse midpoint from the Sudan Wildlife Research Center's published bounds; exact boundaries and access remain unresolved. Additional regional sites and standalone museum collections remain backlog. War-related damage and access require fresh site-specific investigation.
 
+## sight-sd-al-hassania-national-park — 2026-11-28 category completion
+
+- [YAML](../../../countries/SD/sights/al-hassania-national-park.yaml) · Action: complete explicitly applicable category fields · **source-linked-unverified**.
+- Assigned: nature 8.3, wildlife 7.7. The national tentative submission describes desert and semi-desert habitat and protection of rare Barbary sheep. Nature 8.3 reflects the dryland ecosystem, below Aïr and Ténéré's much broader landscape (9.7). Wildlife 7.7 recognizes the specialized fauna without assuming current population abundance or guaranteed sightings; below Aïr and Ténéré (8.0) and major savanna reserves. No closure-related deduction.
+- Sources consulted 2026-11-28 (indexed descriptions): https://whc.unesco.org/en/tentativelists/6517/. These are editorial scores, not ratings assigned by the source organizations. Qualitative peer comparisons are provisional.
+- Core scores, coordinates and other categories unchanged. No perfect score and no new null fields.
