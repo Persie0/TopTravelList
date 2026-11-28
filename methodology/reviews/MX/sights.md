@@ -7653,7 +7653,7 @@ The already-ranked agave landscape and ancient tequila facilities are not duplic
 - Precise subject: Guided semi-flooded cave passages near Playa del Carmen, not the entire regional aquifer or Sac Actun system.
 - Location check: 20.574, -87.154; approximate editorial representative point, not independently coordinate-verified.
 - Evidence status: source-linked-unverified; indexed descriptions consulted; editorial scores.
-- Sources consulted 2026-11-28: https://www.mayan.org/attractions/rio-secreto/; https://en.wikipedia.org/wiki/R%C3%ADo_Secreto.
+- Sources consulted 2026-11-28: https://www.mayan.org/attractions/rio-secreto/; https://en.wikipedia.org/wiki/R%C3%ADo_Secreto; https://thecaveguide.com/mexico/quintana-roo/rio-secreto; https://www.viator.com/Playa-del-Carmen-attractions/Rio-Secreto-Nature-Reserve/d5501-a14429.
 - Worldwide peers (qualitative, numerical scores not refetched):
   - Phong Nha Cave (VN): larger subterranean river
   - ATM Cave (BZ): additional archaeological heritage
@@ -7667,7 +7667,7 @@ The already-ranked agave landscape and ancient tequila facilities are not duplic
   - depth: 8.7 — Several routes but limited to designated passages.
 - Categories: nature 9.3, adventure 9.2, photography 9.2.
 - Overall: 90.15/100.
-- High-score challenge: Below 90; no credit for unexplored regional cave length. No 10 requested.
+- High-score challenge: 90.15 total supported by the distinctive combination of guided walking and swimming through dense speleothems, with global peer comparisons above; no credit for unexplored regional cave length. No 10 requested.
 - Earlier decision: none.
 - Remaining verification: coordinate triangulation, independent fact checking, numerical peer comparison and global Python validation.
 
