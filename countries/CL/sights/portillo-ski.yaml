@@ -1,0 +1,16 @@
+id: sight-cl-portillo-ski
+name: "Portillo Andean Ski and Laguna del Inca Mountain Experience"
+location:
+  country_code: CL
+  latitude: -32.84
+  longitude: -70.13
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 9.0
+  depth: 8.5
+  categories:
+    adventure: 9.3
+    nature: 9.3
+    photography: 9.2

@@ -1,0 +1,16 @@
+id: sight-cl-santiago-lollapalooza
+name: "Santiago Lollapalooza Chile Public Music Festival"
+location:
+  country_code: CL
+  latitude: -33.46
+  longitude: -70.66
+scores:
+  impact: 9.3
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 9.5
+  depth: 9.1
+  categories:
+    culture: 9.3
+    nightlife: 9.4
+    photography: 9.1

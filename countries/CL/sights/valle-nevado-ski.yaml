@@ -1,0 +1,16 @@
+id: sight-cl-valle-nevado-ski
+name: "Valle Nevado Andean Ski and Mountain Experience"
+location:
+  country_code: CL
+  latitude: -33.35
+  longitude: -70.25
+scores:
+  impact: 8.8
+  uniqueness: 8.5
+  significance: 8.4
+  experience: 9.0
+  depth: 8.6
+  categories:
+    adventure: 9.3
+    nature: 9.2
+    photography: 9.1

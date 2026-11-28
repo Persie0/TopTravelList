@@ -1,0 +1,17 @@
+id: sight-cl-punta-de-lobos-surf
+name: "Punta de Lobos World Surfing Reserve Coastal and Surf Experience"
+location:
+  country_code: CL
+  latitude: -34.43
+  longitude: -72.04
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 9.1
+  experience: 9.1
+  depth: 8.7
+  categories:
+    adventure: 9.4
+    photography: 9.3
+    nature: 9.2
+    beaches: 9.2

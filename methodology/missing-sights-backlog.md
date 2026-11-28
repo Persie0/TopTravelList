@@ -5673,3 +5673,20 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] CL — Caleta Tortel Cypress Boardwalk Village: 88.25/100 (source-linked provisional).
 
 12 source-linked provisional additions, 4 90+, 24 ranking-row comparisons (2 international, 22 domestic). CL 95 ranked / 96 total, +29 since baseline 67, 15 new 90+ across three passes. UNESCO 19 tentative properties checked against named inventory (https://whc.unesco.org/en/tentativelists/action=listtentative&order=states&state=cl): 9 direct, 7 partial, 1 legacy unassessed (Monte Verde), 2 deferred (Ayquina/Toconce and Cerro el Plomo shrine pending independent visitor scope). Four new direct (San Francisco, Temuco depot, Huique and Malleco); two partial (Altiplano churches and Patagonian rock art), exact components not independently mapped. All seven inscribed represented per previous inventory. Castro cultural fair distinct from church architecture; Cuasimodo excludes private rites, Santiago Fiestas Patrias scoped to Parque O'Higgins; Colchagua harvest distinct from ordinary wineries. Cochamo scoped to valley hiking; technical climbing not assumed. Caleta Tortel distinct pedestrian settlement. Earlier ALMA and Carretera Austral deferrals retained. Chile OPEN; existing scores and one unassessed preserved. Coordinates approximate; full Python validation, independent peer YAML checks, current permissions, conditions, future schedules and global calibration pending.
+
+### Pass 321 — Chile festivals, surfing and mountain landscapes (post-consolidation)
+
+- [x] CL — Santiago Teatro a Mil International Performing Arts Festival: 92.40/100 (source-linked provisional).
+- [x] CL — Punta de Lobos World Surfing Reserve Coastal and Surf Experience: 91.40/100 (source-linked provisional).
+- [x] CL — Santiago Lollapalooza Chile Public Music Festival: 91.45/100 (source-linked provisional).
+- [x] CL — Huilo Huilo Biological Reserve Valdivian Forest and Waterfall Trails: 90.75/100 (source-linked provisional).
+- [x] CL — Portillo Andean Ski and Laguna del Inca Mountain Experience: 87.90/100 (desk-based provisional).
+- [x] CL — Valle Nevado Andean Ski and Mountain Experience: 86.55/100 (desk-based provisional).
+- [x] CL — Nevados de Chillán Volcanic Ski and Mountain Experience: 87.50/100 (desk-based provisional).
+- [x] CL — Salto del Laja Waterfalls and River Landscape: 83.75/100 (desk-based provisional).
+- [x] CL — Vicuña Mamalluca Public Astronomical Observatory Experience: 86.80/100 (desk-based provisional).
+- [x] CL — Santiago Cerro Santa Lucía Historic Hill and Gardens: 83.10/100 (desk-based provisional).
+- [x] CL — Santiago Gabriela Mistral Cultural Centre Public Exhibitions and Architecture: 84.65/100 (desk-based provisional).
+- [x] CL — Puerto Varas Historic Architecture and Lakeside Heritage Circuit: 84.05/100 (desk-based provisional).
+
+12 provisional additions (4 source-linked, 8 desk-based), 4 90+, 24 ranking-row comparisons (12 international, 12 domestic). CL 108 ranked / 108 total, +41 since baseline 67, 19 new 90+ across four passes. Post-consolidation Monte Verde now rated; no original scores altered. Teatro a Mil Santiago programme, Punta de Lobos, Lollapalooza and Huilo Huilo researched. Prior UNESCO coverage and deferrals (Ayquina/Toconce, Cerro el Plomo shrine, ALMA, Carretera Austral) retained; exact components not independently mapped. Santiago festivals scoped separately; permanent GAM exhibitions exclude festival credit. Chile OPEN. Coordinates approximate; current permissions and conditions unverified. Full Python validation, independent peer YAML and same-type global calibration pending.

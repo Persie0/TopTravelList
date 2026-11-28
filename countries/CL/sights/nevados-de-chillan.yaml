@@ -1,0 +1,16 @@
+id: sight-cl-nevados-de-chillan
+name: "Nevados de Chillán Volcanic Ski and Mountain Experience"
+location:
+  country_code: CL
+  latitude: -36.91
+  longitude: -71.41
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.5
+  experience: 9.0
+  depth: 8.6
+  categories:
+    adventure: 9.3
+    nature: 9.2
+    photography: 9.1
