@@ -1,0 +1,16 @@
+id: sight-pa-punta-patino-nature-reserve
+name: "Punta Patiño Nature Reserve and Wetlands"
+location:
+  country_code: PA
+  latitude: 8.2833
+  longitude: -78.2333
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.4
+  depth: 8.4
+  categories:
+    wildlife: 9.3
+    nature: 9.2
+    photography: 8.8

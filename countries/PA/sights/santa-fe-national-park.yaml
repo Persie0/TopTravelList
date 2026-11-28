@@ -1,0 +1,16 @@
+id: sight-pa-santa-fe-national-park
+name: "Santa Fe National Park"
+location:
+  country_code: PA
+  latitude: 8.615833
+  longitude: -80.965556
+scores:
+  impact: 8.6
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 8.6
+  depth: 8.5
+  categories:
+    nature: 9.1
+    adventure: 8.8
+    wildlife: 8.8
