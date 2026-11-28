@@ -1310,3 +1310,10 @@ Added six public components of Cultural Triangle, Peace/National Identity, Green
 
 ### Further component coverage (2026-11-25)
 CONAP confirms ordinary guided Naranjo access and Topoxté boat visits. Topoxté is a distinct public national park component, not asserted to be a separate UNESCO tentative nomination. Remaining route components are still in the coverage register.
+
+## sight-gt-cuenca-mirador — Cuenca Mirador — 2026-11-28 post-merge 93+ scope check
+
+- [YAML](../../../countries/GT/sights/cuenca-mirador.yaml) · Action: source/scope check only · **source-linked-unverified**.
+- Evidence reviewed 2026-11-28: [Guatemala tentative submission](https://whc.unesco.org/en/tentativelists/1753) identifies the northern Petén basin within the Maya Biosphere Reserve, submitted in 2002; [UNESCO mission summary](https://whc.unesco.org/en/activities/418/) confirms the El Mirador nomination context. This is not an inscribed World Heritage property. Significance 9.5 and impact/uniqueness are provisional for archaeological basin and forest; the exact full extent and visible remains need detailed checking. Experience/depth cannot assume access to all sites. Empty categories merit separate history/nature assessment.
+- Qualitative comparison leads (peer YAML ratings not independently checked): Tikal (Guatemala): established archaeological ensemble; Calakmul (Mexico): forested Maya site; Caracol (Belize): narrower ruins; Angkor (Cambodia): broader monumental heritage benchmark.
+- Current I/U/S/E/D: 9.4 / 9.4 / 9.5 / 9.1 / 9.4; overall 93.75/100. All ratings retained provisionally; no coordinate or category changes. This limited review is not full international calibration or verification of current access.
