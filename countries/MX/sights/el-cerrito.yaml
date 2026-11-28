@@ -1,0 +1,16 @@
+id: sight-mx-el-cerrito
+name: "El Cerrito Archaeological Site and Museum (Querétaro)"
+location:
+  country_code: MX
+  latitude: 20.5513
+  longitude: -100.44399
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.8
+  depth: 8.5
+  categories:
+    architecture: 9.1
+    history: 9.2
+    culture: 9.0

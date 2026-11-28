@@ -9574,3 +9574,257 @@ Individual monuments and archaeological landscapes scored at their own scope. Po
 - Earlier decision: none.
 - Remaining verification: independent coordinate triangulation, numerical peer comparisons and global Python validation; current access not confirmed.
 
+## Pass 440 — Central and Gulf Coast archaeological heritage
+
+INAH descriptions consulted for potential high scorers; site-specific scope and qualitative international peers recorded. Tres Zapotes and El Zapotal are museum-centred rather than crediting inaccessible excavation areas. Coordinates are representative source-linked locations; El Zapotal uses a village-centre proxy pending entrance verification.
+
+## sight-mx-malinalco — Malinalco Archaeological Site and Rock-Cut Cuauhcalli — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/malinalco.yaml)
+- Action: new
+- Precise subject: Hilltop ceremonial precinct and rock-cut temple, not the town.
+- Location check: 18.95345, -99.50318; representative point from cited geographic listing, not an entrance survey.
+- Evidence status: source-linked-unverified; indexed INAH institutional descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/es/node/4437; https://www.inah.gob.mx/zonas/135-zona-arqueologica-malinalco; https://mapcarta.com/W26619694.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Petra (JO): much larger rock-cut ensemble
+  - Ellora (IN): more extensive monolithic architecture
+  - Templo Mayor (MX): greater capital context
+  - Chalcatzingo (MX): earlier rock relief heritage
+- Individual scores:
+  - impact: 9.3 — Dramatic rock-cut temple and hilltop setting.
+  - uniqueness: 9.6 — Rare monolithic Mexica temple.
+  - significance: 9.4 — Major evidence of ceremonial and military tradition.
+  - experience: 9.1 — Established interpretive route.
+  - depth: 8.7 — Multiple structures but relatively compact precinct.
+- Categories: architecture 9.6, history 9.4, photography 9.3.
+- Overall: 93.05/100.
+- High-score challenge: Uniqueness and architecture 9.6 reflect the documented rock-carved Cuauhcalli and rare integral architectural sculpture. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate triangulation, numerical peer comparisons and global Python validation; current access not independently confirmed.
+
+## sight-mx-tlatelolco-plaza-tres-culturas — Tlatelolco Archaeological Site and Plaza de las Tres Culturas — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/tlatelolco-plaza-tres-culturas.yaml)
+- Action: new
+- Precise subject: Specific archaeological precinct, colonial church, plaza and associated on-site interpretation; excludes the broader historic centre.
+- Location check: 19.4507, -99.1357; representative point from cited geographic listing, not an entrance survey.
+- Evidence status: source-linked-unverified; indexed INAH institutional descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/es/node/4477; https://www.inah.gob.mx/zonas/zona-arqueologica-tlatelolco; https://www.mexicocity.cdmx.gob.mx/venues/plaza-de-las-tres-culturas/; https://latitude.to/articles-by-country/mx/mexico/6455/plaza-de-las-tres-culturas.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Roman Forum (IT): greater monumental scale
+  - Templo Mayor (MX): stronger individual ceremonial architecture
+  - Old Jerusalem (IL): broader religious layering
+  - Robben Island (ZA): comparable modern historical remembrance but different physical scope
+- Individual scores:
+  - impact: 9.0 — Visible juxtaposition of three eras.
+  - uniqueness: 9.3 — Distinctive continuity of ancient, colonial and modern urban layers.
+  - significance: 9.6 — Exceptional national historical significance.
+  - experience: 9.0 — Varied monuments and museum interpretation.
+  - depth: 9.4 — Several distinct chronological layers and associated museums.
+- Categories: history 9.7, culture 9.4, architecture 9.1.
+- Overall: 92.35/100.
+- High-score challenge: Significance 9.6 and history 9.7 reflect the documented importance of the ancient commercial centre, colonial institutions and modern national memory, not the wider city. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate triangulation, numerical peer comparisons and global Python validation; current access not independently confirmed.
+
+## sight-mx-quiahuiztlan — Quiahuiztlán Archaeological Site and Hilltop Cemeteries — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/quiahuiztlan.yaml)
+- Action: new
+- Precise subject: Hilltop settlement, funerary architecture and coastal setting.
+- Location check: 19.66958, -96.4149; representative point from cited geographic listing, not an entrance survey.
+- Evidence status: source-linked-unverified; indexed INAH institutional descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/es/node/4450; https://www.inah.gob.mx/zonas/165-zona-arqueologica-de-quiahuiztlan; https://mapcarta.com/33933506.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Sillustani (PE): larger funerary towers
+  - Lycian tombs (TR): more monumental rock-cut architecture
+  - Cempoala (MX): different regional capital
+  - Tulum (MX): more iconic coast
+- Individual scores:
+  - impact: 9.1 — Small tomb structures against coastal panorama.
+  - uniqueness: 9.3 — Distinctive miniature funerary architecture.
+  - significance: 9.2 — Major regional site and documented Totonac alliance history.
+  - experience: 8.9 — Scenic archaeological walks.
+  - depth: 8.7 — Several cemetery groups and settlement remains.
+- Categories: history 9.3, architecture 9.2, photography 9.3.
+- Overall: 91.00/100.
+- High-score challenge: 90+ reflects documented 78 tombs, distinctive funerary architecture and coastal landscape. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate triangulation, numerical peer comparisons and global Python validation; current access not independently confirmed.
+
+## sight-mx-tenayuca — Tenayuca Archaeological Site and Serpent Pyramid — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/tenayuca.yaml)
+- Action: new
+- Precise subject: Main double pyramid, surrounding serpent sculptures and site interpretation.
+- Location check: 19.532167, -99.168472; representative point from cited geographic listing, not an entrance survey.
+- Evidence status: source-linked-unverified; indexed INAH institutional descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.inah.gob.mx/zonas/137-zona-arqueologica-tenayuca-i-y-ii; https://lugares.inah.gob.mx/es/node/4465; https://mexicocity.pre.cdmx.gob.mx/venues/tenayuca-ruins/?lang=en; https://en.wikipedia.org/wiki/Tenayuca.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Templo Mayor (MX): greater imperial context
+  - Tula (MX): broader sculptural landscape
+  - Chichen Itza (MX): greater monumentality
+  - Malinalco (MX): more unusual rock-cut form
+- Individual scores:
+  - impact: 9.0 — Prominent pyramid and stone serpents.
+  - uniqueness: 9.4 — Distinctive sculptural enclosure.
+  - significance: 9.3 — Important development of double-temple architecture.
+  - experience: 8.8 — Focused archaeological visit.
+  - depth: 8.4 — Compact monumental precinct.
+- Categories: architecture 9.4, history 9.4, photography 9.1.
+- Overall: 90.70/100.
+- High-score challenge: 90+ justified by early double-pyramid architecture and surviving serpent imagery, not presumed surviving twin temples. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate triangulation, numerical peer comparisons and global Python validation; current access not independently confirmed.
+
+## sight-mx-el-zapotal — El Zapotal Site Museum and Mictlantecuhtli Sculpture — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/el-zapotal.yaml)
+- Action: new
+- Precise subject: Museum and preserved ritual sculpture; excludes inaccessible excavation areas.
+- Location check: 18.70833, -96.025; village proxy, exact museum pin outstanding.
+- Evidence status: source-linked-unverified; indexed INAH institutional descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/es/node/4319; https://inah.gob.mx/museos/221-museo-de-sitio-de-el-zapotal; https://mapcarta.com/es/N473373197.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Balamku (MX): rare stucco in situ
+  - Bonampak (MX): more extensive painted ensemble
+  - Tres Zapotes (MX): different early sculpture tradition
+  - San Agustin (CO): larger sculpture landscape
+- Individual scores:
+  - impact: 8.9 — Exceptional original sculptural ensemble.
+  - uniqueness: 9.6 — Rare unfired clay deity sculpture.
+  - significance: 9.5 — Important evidence of regional funerary belief.
+  - experience: 8.5 — Focused museum interpretation.
+  - depth: 8.0 — Compact collection and limited exposed architecture.
+- Categories: history 9.5, culture 9.5, architecture 8.6.
+- Overall: 90.45/100.
+- High-score challenge: Uniqueness 9.6 and significance/history/culture 9.5 justified by INAH description of singular unfired clay sculpture with stucco and paint remains. Village-centre proxy coordinate, museum entrance not confirmed. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate triangulation, numerical peer comparisons and global Python validation; current access not independently confirmed.
+
+## sight-mx-tres-zapotes — Tres Zapotes Archaeological Site Museum — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/tres-zapotes.yaml)
+- Action: new
+- Precise subject: Site museum collection and interpretation, not inaccessible archaeological precinct or objects elsewhere.
+- Location check: 18.46545, -95.44005; representative point from cited geographic listing, not an entrance survey.
+- Evidence status: source-linked-unverified; overview descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/es/node/4321; https://inah.gob.mx/museos/226-museo-de-sitio-de-tres-zapotes; https://mna.inah.gob.mx/detalle_pieza_mes.php?id=353; https://www.aerialviews.org/Tres_Zapotes.htm.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - La Venta Park Museum (MX): broader monumental display
+  - National Museum of Anthropology (MX): much larger collection
+  - El Zapotal (MX): different distinctive ritual sculpture
+  - Chalcatzingo (MX): stronger original landscape setting
+- Individual scores:
+  - impact: 8.8 — Colossal head and stelae.
+  - uniqueness: 9.3 — Rare early Olmec and calendrical material.
+  - significance: 9.6 — Major significance in history of Olmec research.
+  - experience: 8.5 — Focused two-room museum.
+  - depth: 8.3 — Compact collection despite extensive ancient settlement.
+- Categories: history 9.6, culture 9.3.
+- Overall: 89.90/100.
+- High-score challenge: Significance and history 9.6 reflect the first documented Olmec colossal head discovery and early calendrical inscriptions; limited museum breadth prevents crediting the entire settlement. INAH says archaeological area cannot be visited. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate triangulation, numerical peer comparisons and global Python validation; current access not independently confirmed.
+
+## sight-mx-moral-reforma — Moral-Reforma Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/moral-reforma.yaml)
+- Action: new
+- Precise subject: Individual Maya city, paired temple structure and exposed plazas.
+- Location check: 17.769081, -91.2981462; representative point from cited geographic listing, not an entrance survey.
+- Evidence status: source-linked-unverified; overview descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/es/node/4451; https://www.inah.gob.mx/zonas/zona-arqueologica-de-moral-reforma; https://www.aerialviews.org/Moral-Reforma_Archaeological_Zone.htm.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Edzna (MX): more monumental acropolis
+  - Calakmul (MX): much larger polity
+  - Comalcalco (MX): more distinctive brick architecture
+  - Santa Rosa Xtampak (MX): comparable regional center
+- Individual scores:
+  - impact: 9.0 — Prominent paired pyramids.
+  - uniqueness: 8.9 — Distinctive regional paired temple arrangement.
+  - significance: 9.2 — Documented dynastic and diplomatic history.
+  - experience: 8.8 — Varied archaeological walks.
+  - depth: 9.1 — Multiple plazas and buildings.
+- Categories: architecture 9.3, history 9.3, photography 9.1.
+- Overall: 89.95/100.
+- High-score challenge: Documented paired 20 and 23.5 metre structures and 76 recorded buildings; not all assumed excavated or accessible. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate triangulation, numerical peer comparisons and global Python validation; current access not independently confirmed.
+
+## sight-mx-cempoala — Cempoala Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/cempoala.yaml)
+- Action: new
+- Precise subject: Ancient Totonac capital and exposed ceremonial structures.
+- Location check: 19.44721, -96.40317; representative point from cited geographic listing, not an entrance survey.
+- Evidence status: source-linked-unverified; overview descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://inah.gob.mx/zonas/144-zona-arqueologica-de-cempoala-con-museo; https://mapcarta.com/es/W125417849.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - El Tajin (MX): more distinctive monumental architecture
+  - Quiahuiztlan (MX): stronger funerary setting
+  - Tula (MX): wider sculpture
+  - Teotenango (MX): similar regional settlement
+- Individual scores:
+  - impact: 8.8 — Stone temples and plazas.
+  - uniqueness: 8.9 — Regional architectural style.
+  - significance: 9.3 — Important contact-era regional capital.
+  - experience: 8.7 — Focused monument walks.
+  - depth: 8.8 — Several substantial building groups.
+- Categories: history 9.4, architecture 9.1, culture 9.1.
+- Overall: 89.10/100.
+- High-score challenge: Provisional sub-90 site-scale assessment. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate triangulation, numerical peer comparisons and global Python validation; current access not independently confirmed.
+
+## sight-mx-el-cerrito — El Cerrito Archaeological Site and Museum (Querétaro) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/el-cerrito.yaml)
+- Action: new
+- Precise subject: Specific pyramidal precinct and museum, not the wider city.
+- Location check: 20.5513, -100.44399; representative point from cited geographic listing, not an entrance survey.
+- Evidence status: source-linked-unverified; overview descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.inah.gob.mx/zonas/zona-arqueologica-el-cerrito; https://lugares.inah.gob.mx/es/node/4544; https://mapcarta.com/N8320441117.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Tenayuca (MX): stronger sculptural enclosure
+  - Tula (MX): larger exposed ensemble
+  - Peralta (MX): multiple platforms
+  - Cuicuilco (MX): earlier circular monument
+- Individual scores:
+  - impact: 8.8 — Large surviving pyramid.
+  - uniqueness: 8.8 — Regional ceremonial architecture.
+  - significance: 9.0 — Important northern ceremonial centre.
+  - experience: 8.8 — Museum and monument interpretation.
+  - depth: 8.5 — Focused precinct.
+- Categories: architecture 9.1, history 9.2, culture 9.0.
+- Overall: 88.10/100.
+- High-score challenge: Provisional sub-90 assessment. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate triangulation, numerical peer comparisons and global Python validation; current access not independently confirmed.
+
+## sight-mx-teotenango — Teotenango Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/teotenango.yaml)
+- Action: new
+- Precise subject: Hilltop fortified settlement and exposed monuments.
+- Location check: 19.10851, -99.59786; representative point from cited geographic listing, not an entrance survey.
+- Evidence status: source-linked-unverified; overview descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.inah.gob.mx/zonas/44-zona-arqueologica-de-teotenango; https://lugares.inah.gob.mx/es/node/5514; https://mapcarta.com/W105506761.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - La Quemada (MX): stronger rugged setting
+  - Xochicalco (MX): broader monumental heritage
+  - Tula (MX): richer sculpture
+  - El Cerrito (MX): more concentrated pyramid
+- Individual scores:
+  - impact: 8.9 — Hilltop platforms and landscape.
+  - uniqueness: 8.8 — Regional urban layout and defenses.
+  - significance: 9.1 — Important central Mexican occupation history.
+  - experience: 8.8 — Scenic monument exploration.
+  - depth: 9.0 — Several groups and plazas.
+- Categories: history 9.2, architecture 9.1, photography 9.1.
+- Overall: 89.10/100.
+- High-score challenge: Provisional sub-90 site-scale assessment. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate triangulation, numerical peer comparisons and global Python validation; current access not independently confirmed.
+

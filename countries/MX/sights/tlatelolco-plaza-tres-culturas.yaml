@@ -1,0 +1,16 @@
+id: sight-mx-tlatelolco-plaza-tres-culturas
+name: "Tlatelolco Archaeological Site and Plaza de las Tres Culturas"
+location:
+  country_code: MX
+  latitude: 19.4507
+  longitude: -99.1357
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 9.6
+  experience: 9.0
+  depth: 9.4
+  categories:
+    history: 9.7
+    culture: 9.4
+    architecture: 9.1

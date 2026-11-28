@@ -1,0 +1,16 @@
+id: sight-mx-teotenango
+name: "Teotenango Archaeological Site"
+location:
+  country_code: MX
+  latitude: 19.10851
+  longitude: -99.59786
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.8
+  depth: 9.0
+  categories:
+    history: 9.2
+    architecture: 9.1
+    photography: 9.1

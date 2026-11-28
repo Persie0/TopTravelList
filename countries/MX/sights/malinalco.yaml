@@ -1,0 +1,16 @@
+id: sight-mx-malinalco
+name: "Malinalco Archaeological Site and Rock-Cut Cuauhcalli"
+location:
+  country_code: MX
+  latitude: 18.95345
+  longitude: -99.50318
+scores:
+  impact: 9.3
+  uniqueness: 9.6
+  significance: 9.4
+  experience: 9.1
+  depth: 8.7
+  categories:
+    architecture: 9.6
+    history: 9.4
+    photography: 9.3

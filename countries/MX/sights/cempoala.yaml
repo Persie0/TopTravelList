@@ -1,0 +1,16 @@
+id: sight-mx-cempoala
+name: "Cempoala Archaeological Site"
+location:
+  country_code: MX
+  latitude: 19.44721
+  longitude: -96.40317
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 9.3
+  experience: 8.7
+  depth: 8.8
+  categories:
+    history: 9.4
+    architecture: 9.1
+    culture: 9.1

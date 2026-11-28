@@ -1,0 +1,15 @@
+id: sight-mx-tres-zapotes
+name: "Tres Zapotes Archaeological Site Museum"
+location:
+  country_code: MX
+  latitude: 18.46545
+  longitude: -95.44005
+scores:
+  impact: 8.8
+  uniqueness: 9.3
+  significance: 9.6
+  experience: 8.5
+  depth: 8.3
+  categories:
+    history: 9.6
+    culture: 9.3
