@@ -2,6 +2,12 @@
 
 **Applies to every new country, city, sight, or scoring revision.** This is a working checklist, not a replacement for the canonical scoring specification.
 
+## Branch workflow
+
+- Develop directly on `main` for this repository. Do not create new audit, feature, or staging branches or pull requests unless the owner explicitly requests one.
+- Before committing, fetch and verify the latest `main`; preserve concurrent changes and use non-force, fast-forward updates. Complete the required validation and regenerate rankings from authoritative YAML before publishing.
+- Reconcile older ahead branches without discarding distinct work or overwriting newer validated data. Document competing rating decisions and preserved historical evidence.
+
 ## Read before editing
 
 1. [Worldwide v2 rules](rules.md) and [weight / 10-point registry](methodology/scoring.json).
@@ -28,6 +34,6 @@
 2. Run `python scripts/validate.py`, `python scripts/check_city_benchmarks.py`, and `python scripts/check_sight_benchmarks.py`.
 3. Run `python scripts/generate_rankings.py --country XX` (or without the country for all); then `python scripts/generate_rankings.py --check`. Commit the regenerated `countries/XX/cities.md`, `countries/XX/sights.md`, and any generated root README directory change.
 4. Run `python scripts/rank.py --kind cities --limit 60` and `python scripts/rank.py --kind sights --limit 60`; inspect new outliers against existing worldwide leaders and ordinary peers.
-5. In the PR, state changed counts, independently fact-checked / source-linked / editorial-only / unassessed counts **separately**, noteworthy 9.5+/10 choices, and the commands actually run. Never claim unexecuted tests passed.
+5. In the commit notes or audit report (and PR if explicitly requested), state changed counts, independently fact-checked / source-linked / editorial-only / unassessed counts **separately**, noteworthy 9.5+/10 choices, and the commands actually run. Never claim unexecuted tests passed.
 
 See [future-country workflow](methodology/future-country-workflow.md) for detailed steps and the [evidence standard](methodology/evidence-and-quality-standard.md) for review thresholds.
