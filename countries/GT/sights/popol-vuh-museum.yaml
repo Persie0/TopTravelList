@@ -1,0 +1,15 @@
+id: sight-gt-popol-vuh-museum
+name: "Popol Vuh Museum"
+location:
+  country_code: GT
+  latitude: 14.60803
+  longitude: -90.50514
+scores:
+  impact: 8.5
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.7
+  depth: 8.8
+  categories:
+    history: 9.3
+    culture: 9.3

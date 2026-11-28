@@ -3306,3 +3306,232 @@ Eight cultural attractions added, five fact-checked and three provisional source
 - High-score challenge: No 90+ overall. No 9.5+ field or approved 10 requested.
 - Earlier decision: none.
 - Remaining verification: precise visitor access/venues, current peer YAML, full diagnostics. No future event or access guarantee.
+
+# Pass 403 — 2026-11-28 — direct main continuation
+
+Nine museum and colonial heritage attractions added, all provisional source-linked editorial ratings and numerically complete. MUNAE high candidate researched via multiple indexed official and scholarly sources; some direct opens blocked. JS inventory, score formula, coordinate range, uniqueness, ranking and README checks only; full Python validation/benchmark scripts and Actions not run. Popol Vuh conflicting GeoNames location rejected in favor of campus OSM point corroborated by geotagged photographs. Museum and host monument grouped where same visitor complex; no credit for non-public collections or hotel accommodation.
+
+## sight-gt-national-museum-archaeology-ethnology — National Museum of Archaeology and Ethnology (MUNAE) — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/national-museum-archaeology-ethnology.yaml)
+- Action: new
+- Precise subject: Public galleries and displayed collection, not storage or all holdings simultaneously. National museum's restored name, not a separate Maya Art Museum.
+- Location check: https://mapcarta.com/es/28376434 (opened representative point).
+- Evidence status: source-linked-unverified (indexed source excerpts and selected mapped points; no comprehensive gallery inspection)
+- Sources consulted 2026-11-28: https://noticias.mcd.gob.gt/2024/05/31/museo-nacional-de-arqueologia-y-etnologiarecupera-su-nombre/ (indexed: restored name and collection scope); https://dca.gob.gt/noticias-guatemala-diario-centro-america/viaje-a-traves-de-94-anos-de-patrimonio/ (indexed 2026: about 20,000 archaeological and 5,000 ethnological objects, jade masks, ceramics; direct fetch 403); https://www.asociaciontikal.com/simposio-22-ano-2008/019-claudia-y-jenny-08-doc/ (indexed academic collection overview); https://agn.gt/museo-nacional-de-arqueologia-y-etnologia-cumple-90-anos/ (indexed gallery themes).
+- Worldwide peers (qualitative except current Larco YAML checked):
+  - National Museum of Anthropology (MX): much broader monumental Mesoamerican gallery presentation
+  - Larco Museum (PE, 88.20 from YAML): similarly distinguished archaeological art but narrower national collection scope
+  - Museo Chileno de Arte Precolombino (CL): broader transcontinental collection, less focused Maya depth
+  - Maya Sculpture Museum Copán (HN): exceptionally focused sculpture, narrower chronological and cultural scope.
+- Individual scores:
+  - impact: 8.9 — Exceptional carved stone and jade objects make a powerful museum visit
+  - uniqueness: 9.2 — Concentration of Maya art and ethnological heritage across many periods is unusual worldwide
+  - significance: 9.5 — Exceptional national and scholarly archaeological significance justifies 9.5, without crediting the entire Maya civilization
+  - experience: 8.6 — Public exhibitions are rewarding but interpretation and gallery completeness not independently inspected
+  - depth: 9.2 — Large chronological and cultural range provides substantial depth even without unrestricted collection access.
+- Categories: history 9.6, culture 9.4.
+- Overall: 90.80/100.
+- High-score challenge: Multiple indexed official and scholarly sources document the exceptional Maya archaeological and ethnological collection, including royal jade masks, monuments and polychrome ceramics. Significance 9.5 and history 9.6 reflect the collection's rare concentrated archaeological record, not the entire civilization or inaccessible holdings. More restricted visitor breadth than the world's largest anthropology museums. Provisional pending full source and exhibition verification. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: gallery condition, precise venue points where approximate, more numerical peer checks and full diagnostics. No admission guarantee.
+
+## sight-gt-popol-vuh-museum — Popol Vuh Museum — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/popol-vuh-museum.yaml)
+- Action: new
+- Precise subject: Public pre-Hispanic and colonial art galleries, distinct from adjacent Ixchel museum; not the original Popol Vuh manuscript.
+- Location check: https://mapcarta.com/N2074064510 and https://es.aroundus.com/p/172381021-museo-popol-vuh (campus point); corroborated by https://commons.wikimedia.org/wiki/File%3AMuseo_Popol_Vuh_7.jpg camera coordinate. Conflicting GeoNames point rejected.
+- Evidence status: source-linked-unverified (indexed source excerpts and selected mapped points; no comprehensive gallery inspection)
+- Sources consulted 2026-11-28: https://popolvuh.ufm.edu/coleccion/arte-prehispanico/ (indexed permanent collection, direct fetch 403); https://www.scielo.cl/scielo.php?pid=S0718-68942024000100038&script=sci_arttext (indexed study of codex-style ceramics); https://visitguatemala.gt/en/blog/guide-visiting-popol-vuh-museum/ (indexed visitor guide).
+- Worldwide peers (qualitative except current Larco YAML checked):
+  - Larco Museum (PE): comparable archaeological art emphasis
+  - Museo Amparo (MX): broader art periods and setting
+  - Museo Chileno de Arte Precolombino (CL): broader continental collection
+  - MUNAE (GT): larger national archaeological and ethnological breadth.
+- Individual scores:
+  - impact: 8.5 — Fine ceramics and historic art offer strong visual interest
+  - uniqueness: 9.0 — Distinctive Maya ceramic and pre-Hispanic art concentration
+  - significance: 9.2 — Important scholarly collection and national cultural interpretation
+  - experience: 8.7 — Public curated galleries provide meaningful experience
+  - depth: 8.8 — Pre-Hispanic and colonial collections span substantial history.
+- Categories: history 9.3, culture 9.3.
+- Overall: 88.25/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: gallery condition, precise venue points where approximate, more numerical peer checks and full diagnostics. No admission guarantee.
+
+## sight-gt-casa-santo-domingo — Casa Santo Domingo Convent Ruins and Museum Complex — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/casa-santo-domingo.yaml)
+- Action: new
+- Precise subject: Historic convent and public museum route only, not hotel lodging, unrelated resort amenities or entire Antigua city.
+- Location check: https://mapcarta.com/N8855703218 (opened mapped museum point; complex extends west).
+- Evidence status: source-linked-unverified (indexed source excerpts and selected mapped points; no comprehensive gallery inspection)
+- Sources consulted 2026-11-28: https://www.casasantodomingo.com.gt/museums (indexed: six permanent museums and two rotating galleries); https://whc.unesco.org/en/list/65 (indexed excerpt: individual monuments within the Antigua World Heritage property); https://visitguatemala.gt/en/blog/museums-antigua-guatemala/ (indexed visitor overview)
+- Worldwide peers (qualitative except current Larco YAML checked):
+  - Santa Catalina Monastery (PE): greater intact historic urban convent breadth
+  - Convent of Christ (PT): greater architectural distinction
+  - Convento de San Francisco (Lima, PE): different religious and crypt heritage
+  - Capuchinas (GT): more focused architectural ruin.
+- Individual scores:
+  - impact: 8.7 — Convent ruins and varied exhibitions create striking historic atmosphere
+  - uniqueness: 8.9 — Adaptive reuse with several museums is distinctive
+  - significance: 8.8 — Colonial heritage and art collections carry substantial national significance
+  - experience: 8.9 — Coherent museum route offers varied exploration
+  - depth: 9.0 — Six museums and galleries provide significant breadth.
+- Categories: architecture 9.0, history 9.0, culture 9.0, photography 9.0.
+- Overall: 88.30/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: gallery condition, precise venue points where approximate, more numerical peer checks and full diagnostics. No admission guarantee.
+
+## sight-gt-national-palace-of-culture — National Palace of Culture (Guatemala City) — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/national-palace-of-culture.yaml)
+- Action: new
+- Precise subject: Monumental former government palace and public guided interior, not entire historic center.
+- Location check: https://gt.near-place.com/palacio-nacional-de-la-cultura-de-guatemala-6a-calle-guatemala (coordinate excerpt); photo viewpoint https://commons.wikimedia.org/wiki/File%3AVista_del_Palacio_Nacional_de_Guatemala.jpg nearby.
+- Evidence status: source-linked-unverified (indexed source excerpts and selected mapped points; no comprehensive gallery inspection)
+- Sources consulted 2026-11-28: https://culturaguate.gob.gt/palacio-nacional-de-la-cultura/ (indexed 1939–1943 construction); https://noticias.mcd.gob.gt/2025/08/04/el-palacio-nacional-de-la-cultura-abre-nuevamente-sus-puertas-para-realizar-visitas-guiadas/ (indexed stained glass, halls, fountains and murals).
+- Worldwide peers (qualitative except current Larco YAML checked):
+  - Palacio de Bellas Artes (MX): greater iconic artistic architecture
+  - Palacio Salvo (UY): distinctive tower architecture, different visitor scope
+  - Palacio Nacional (SV): comparable national history
+  - Royal Palace Madrid (ES): much greater architectural and collection scale.
+- Individual scores:
+  - impact: 8.7 — Large ornamented palace and interiors offer strong visual appeal
+  - uniqueness: 8.4 — Eclectic civic architecture is regionally distinctive but comparable internationally
+  - significance: 8.8 — Former government seat and national art carry historical importance
+  - experience: 8.6 — Guided interiors provide rewarding interpretation
+  - depth: 8.4 — Halls and artwork support moderate-to-substantial breadth.
+- Categories: architecture 9.0, history 9.0, culture 8.8, photography 8.7.
+- Overall: 86.00/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: gallery condition, precise venue points where approximate, more numerical peer checks and full diagnostics. No admission guarantee.
+
+## sight-gt-capuchinas-convent — Capuchinas Convent and Church Ruins — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/capuchinas-convent.yaml)
+- Action: new
+- Precise subject: Named historic convent ruins including circular cell courtyard, not entire colonial city.
+- Location check: Approximate point from 14°33′36.40″N 90°43′53.50″W indexed USAC surveying thesis https://biblio.ingenieria.usac.edu.gt/tesis19/T15065.pdf; Mapcarta https://mapcarta.com/N7015522785 corroborates identity.
+- Evidence status: source-linked-unverified (indexed source excerpts and selected mapped points; no comprehensive gallery inspection)
+- Sources consulted 2026-11-28: https://whc.unesco.org/en/list/65 (indexed excerpt: individual monuments within the Antigua World Heritage property); https://visitguatemala.gt/en/blog/museums-antigua-guatemala/ (indexed visitor overview); https://antiguaguatemalacityguide.com/things-to-do/ (indexed circular courtyard).
+- Worldwide peers (qualitative except current Larco YAML checked):
+  - Santa Catalina Monastery (PE): greater intact convent landscape
+  - Convento de Cristo (PT): greater monumental distinction
+  - Santa Clara (GT): comparable ruin, less unusual circular plan
+  - La Recolección (GT): greater dramatic rubble, less intact layout.
+- Individual scores:
+  - impact: 8.5 — Historic cloisters and circular court are visually memorable
+  - uniqueness: 8.9 — Unusual circular arrangement gives architectural distinctiveness
+  - significance: 8.7 — Colonial religious history and UNESCO component context support significance
+  - experience: 8.6 — Coherent public ruin route is rewarding
+  - depth: 8.5 — Multiple spaces offer substantial focused depth.
+- Categories: architecture 9.0, history 8.9, photography 9.0.
+- Overall: 86.55/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: gallery condition, precise venue points where approximate, more numerical peer checks and full diagnostics. No admission guarantee.
+
+## sight-gt-la-recoleccion-antigua — La Recolección Architectural Complex — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/la-recoleccion-antigua.yaml)
+- Action: new
+- Precise subject: Named earthquake-damaged former church and monastery complex, not Guatemala City's namesake convent.
+- Location check: https://en.wikipedia.org/wiki/La_Recolecci%C3%B3n_Architectural_Complex (coordinate excerpt); https://mapcarta.com/N1337613950.
+- Evidence status: source-linked-unverified (indexed source excerpts and selected mapped points; no comprehensive gallery inspection)
+- Sources consulted 2026-11-28: https://es.wikipedia.org/wiki/Complejo_Arquitect%C3%B3nico_de_La_Recolecci%C3%B3n (indexed historical identity); https://reservalo.net/en/guatemala/antigua/things-to-do (indexed fallen vault blocks); https://whc.unesco.org/en/list/65 (indexed excerpt: individual monuments within the Antigua World Heritage property); https://visitguatemala.gt/en/blog/museums-antigua-guatemala/ (indexed visitor overview)
+- Worldwide peers (qualitative except current Larco YAML checked):
+  - Carmo Convent (PT): more iconic earthquake ruin and museum
+  - Tintern Abbey (GB): more dramatic intact Gothic walls
+  - Capuchinas (GT): more unusual intact layout
+  - Santa Clara (GT): similar colonial ruin.
+- Individual scores:
+  - impact: 8.7 — Large fallen vault masonry creates dramatic ruined architecture
+  - uniqueness: 8.3 — Earthquake-damaged religious ruins are distinctive but globally comparable
+  - significance: 8.5 — Colonial and earthquake history support significance
+  - experience: 8.4 — Lawful ruin viewing offers good exploration
+  - depth: 8.2 — Multiple spaces with damaged structures provide moderate depth.
+- Categories: architecture 8.8, history 8.8, photography 9.0.
+- Overall: 84.65/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: gallery condition, precise venue points where approximate, more numerical peer checks and full diagnostics. No admission guarantee.
+
+## sight-gt-antigua-cathedral-ruins — Antigua Guatemala Cathedral and Historic Ruins — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/antigua-cathedral-ruins.yaml)
+- Action: new
+- Precise subject: Working San José parish and adjacent historic cathedral ruins as one site, not the whole central plaza.
+- Location check: https://en.wikipedia.org/wiki/Antigua_Guatemala_Cathedral (coordinate excerpt).
+- Evidence status: source-linked-unverified (indexed source excerpts and selected mapped points; no comprehensive gallery inspection)
+- Sources consulted 2026-11-28: https://whc.unesco.org/en/list/65 (indexed excerpt: individual monuments within the Antigua World Heritage property); https://visitguatemala.gt/en/blog/museums-antigua-guatemala/ (indexed visitor overview); https://antiguaguatemalacityguide.com/cathedral/ (indexed surviving parish and 1773 ruined cathedral).
+- Worldwide peers (qualitative except current Larco YAML checked):
+  - Carmo Convent (PT): similar earthquake heritage
+  - Coventry Cathedral ruins (GB): distinct modern war and religious history
+  - Catedral de Santa Ana (SV): more intact architectural experience
+  - Capuchinas (GT): more distinctive convent plan.
+- Individual scores:
+  - impact: 8.7 — Large ruined cathedral vaults and standing facade create powerful contrast
+  - uniqueness: 8.6 — Adjacent functioning church and earthquake ruin are distinctive
+  - significance: 8.9 — Former cathedral carries important colonial history
+  - experience: 8.5 — Respectful public church and ruin encounter offers varied visit
+  - depth: 8.5 — Two connected historic portions add depth.
+- Categories: architecture 9.0, history 9.1, photography 9.0.
+- Overall: 86.65/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: gallery condition, precise venue points where approximate, more numerical peer checks and full diagnostics. No admission guarantee.
+
+## sight-gt-san-francisco-el-grande-antigua — San Francisco el Grande Church and Santo Hermano Pedro Shrine — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/san-francisco-el-grande-antigua.yaml)
+- Action: new
+- Precise subject: Standing church, saint's shrine and adjacent public convent remains/museum as coherent site; excludes distinct annual city events.
+- Location check: https://en.wikipedia.org/wiki/Iglesia_de_San_Francisco%2C_Antigua_Guatemala (coordinate excerpt); https://mapcarta.com/es/W1113205764.
+- Evidence status: source-linked-unverified (indexed source excerpts and selected mapped points; no comprehensive gallery inspection)
+- Sources consulted 2026-11-28: https://antiguaguatemalacityguide.com/san-francisco-church/ (indexed saint and shrine context); https://centrohistorico.gt/la-antigua-guatemala-santiago-de-los-caballeros/ (indexed public church); https://whc.unesco.org/en/list/65 (indexed excerpt: individual monuments within the Antigua World Heritage property); https://visitguatemala.gt/en/blog/museums-antigua-guatemala/ (indexed visitor overview)
+- Worldwide peers (qualitative except current Larco YAML checked):
+  - Basilica of Esquipulas (GT): greater regional pilgrimage scale
+  - Basilica of Saint Francis Assisi (IT): much greater global religious architecture and art
+  - San Francisco Convent Lima (PE): more extensive historic interior and catacomb route
+  - La Merced (GT): comparable baroque church, different shrine context.
+- Individual scores:
+  - impact: 8.6 — Baroque facade and devotional shrine create strong impact
+  - uniqueness: 8.7 — Living pilgrimage and ruined convent combination is distinctive
+  - significance: 9.0 — Hermano Pedro's religious legacy and colonial history support high significance
+  - experience: 8.6 — Church, shrine and permitted remains offer varied encounter
+  - depth: 8.5 — Associated spaces provide depth without citywide heritage credit.
+- Categories: architecture 8.9, history 9.1, culture 9.2.
+- Overall: 86.95/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: gallery condition, precise venue points where approximate, more numerical peer checks and full diagnostics. No admission guarantee.
+
+## sight-gt-munag-royal-palace — National Art Museum of Guatemala (MUNAG) and Palace of the Captains General — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/munag-royal-palace.yaml)
+- Action: new
+- Precise subject: Museum galleries and host colonial palace treated as one visitor complex; excludes entire central plaza, city and independently scored archaeological sites.
+- Location check: Approximate palace point on south side of Antigua central plaza; source https://reservalo.net/en/guatemala/antigua/things-to-do (location excerpt), precise building point not independently verified.
+- Evidence status: source-linked-unverified (indexed source excerpts and selected mapped points; no comprehensive gallery inspection)
+- Sources consulted 2026-11-28: https://culturaguate.gob.gt/munag_/ (indexed Maya art displays); https://whc.unesco.org/en/list/65 (indexed excerpt: individual monuments within the Antigua World Heritage property); https://visitguatemala.gt/en/blog/museums-antigua-guatemala/ (indexed visitor overview); https://reservalo.net/en/guatemala/antigua/things-to-do (indexed palace location and colonial government function).
+- Worldwide peers (qualitative except current Larco YAML checked):
+  - Museo Amparo (MX): broader established art presentation
+  - Museo Larco (PE): more specialized archaeological art
+  - National Palace (SV): comparable civic historic architecture
+  - Casa Santo Domingo (GT): more diverse museum route in convent setting.
+- Individual scores:
+  - impact: 8.6 — Colonial palace arcade and art collection offer strong visual appeal
+  - uniqueness: 8.7 — National art museum in colonial governmental palace is distinctive
+  - significance: 8.9 — Historic administrative significance and national art heritage support high significance
+  - experience: 8.7 — Multiple galleries provide rewarding interpretation
+  - depth: 8.9 — Architecture and different art periods offer substantial depth.
+- Categories: architecture 9.0, history 9.1, culture 9.1.
+- Overall: 87.30/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: gallery condition, precise venue points where approximate, more numerical peer checks and full diagnostics. No admission guarantee.

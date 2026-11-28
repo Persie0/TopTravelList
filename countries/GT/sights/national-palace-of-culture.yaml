@@ -1,0 +1,17 @@
+id: sight-gt-national-palace-of-culture
+name: "National Palace of Culture (Guatemala City)"
+location:
+  country_code: GT
+  latitude: 14.64262
+  longitude: -90.51313
+scores:
+  impact: 8.7
+  uniqueness: 8.4
+  significance: 8.8
+  experience: 8.6
+  depth: 8.4
+  categories:
+    architecture: 9.0
+    history: 9.0
+    culture: 8.8
+    photography: 8.7

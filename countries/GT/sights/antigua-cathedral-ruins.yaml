@@ -1,0 +1,16 @@
+id: sight-gt-antigua-cathedral-ruins
+name: "Antigua Guatemala Cathedral and Historic Ruins"
+location:
+  country_code: GT
+  latitude: 14.5567
+  longitude: -90.7329
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.9
+  experience: 8.5
+  depth: 8.5
+  categories:
+    architecture: 9.0
+    history: 9.1
+    photography: 9.0

@@ -1,0 +1,16 @@
+id: sight-gt-munag-royal-palace
+name: "National Art Museum of Guatemala (MUNAG) and Palace of the Captains General"
+location:
+  country_code: GT
+  latitude: 14.5557
+  longitude: -90.7335
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.7
+  depth: 8.9
+  categories:
+    architecture: 9.0
+    history: 9.1
+    culture: 9.1
