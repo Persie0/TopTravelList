@@ -1,0 +1,16 @@
+id: sight-gt-el-peru-waka
+name: "El Perú-Waka’ Archaeological Site"
+location:
+  country_code: GT
+  latitude: 17.2783
+  longitude: -90.3806
+scores:
+  impact: 8.3
+  uniqueness: 8.9
+  significance: 9.3
+  experience: 8.1
+  depth: 8.6
+  categories:
+    history: 9.4
+    architecture: 8.8
+    nature: 8.5

@@ -1,0 +1,17 @@
+id: sight-gt-el-tintal
+name: "El Tintal Archaeological Site"
+location:
+  country_code: GT
+  latitude: 17.5744
+  longitude: -89.9958
+scores:
+  impact: 8.8
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 8.7
+  depth: 8.9
+  categories:
+    history: 9.3
+    architecture: 9.0
+    adventure: 8.9
+    photography: 8.8

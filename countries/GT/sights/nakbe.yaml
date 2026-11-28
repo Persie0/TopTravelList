@@ -1,0 +1,16 @@
+id: sight-gt-nakbe
+name: "Nakbé Archaeological Site"
+location:
+  country_code: GT
+  latitude: 17.6775
+  longitude: -89.8686
+scores:
+  impact: 8.9
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 8.6
+  depth: 8.8
+  categories:
+    history: 9.4
+    architecture: 9.0
+    adventure: 8.8

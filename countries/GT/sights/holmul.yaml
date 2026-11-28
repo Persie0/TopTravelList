@@ -1,0 +1,16 @@
+id: sight-gt-holmul
+name: "Holmul Archaeological Site"
+location:
+  country_code: GT
+  latitude: 17.3
+  longitude: -89.256
+scores:
+  impact: 7.9
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 7.6
+  depth: 8.3
+  categories:
+    history: 9.4
+    architecture: 8.8
+    culture: 8.8

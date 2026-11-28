@@ -1928,3 +1928,182 @@ Seven new archaeological sites and three reassessments. Two fact-checked decisio
 - High-score challenge: Significance and history 9.5+ reflect site-specific exceptional evidence described above, compared with Chavín and Joya de Cerén; not an automatic designation bonus. Physical impact and visitor scope keep the site below 90. No approved 10 requested.
 - Earlier decision: Prior entries in this file retained.
 - Remaining verification: visitor access and precise representative location where approximate, current peer YAML for additional comparisons, full diagnostics. No admission guarantee.
+
+# Pass 396 — 2026-11-28 — direct main continuation
+
+Seven new archaeological sites: three fact-checked and four provisional source-linked, all complete editorial scores. JS inventory, formula, coordinate range, uniqueness, ranking and README checks only; full Python validation/benchmark scripts and Actions not run. No wider Mirador Basin trek credit, no assumed tomb or protected relief access, no private ceremony participation. Coordinates approximate.
+
+## sight-gt-nakbe — Nakbé Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/nakbe.yaml)
+- Action: new
+- Precise subject: Named ancient city and its own ceremonial groups; excludes basin-wide trek and El Mirador.
+- Location check: 17.6775, -89.8686; approximate archaeological reference point, not surveyed entrance.
+- Evidence status: fact-checked
+- Sources inspected 2026-11-28: Asociación Tikal https://www.asociaciontikal.com/simposio-02-ano-1988/23-resultados-preliminares-de-las-investigaciones-arqueologicas-en-el-sitio-nakbe-peten-guatemala-richard-d-hansen-simposio-02-ano-1988/ (opened: multiple large architectural groups, 45m Structure 1, triadic complexes and documented damage); Carmelita cooperative https://visitelmirador.com.gt/en/featured-tours/carmelita-mirador-the-deep-adventure/ (opened: named visit on six-day route); https://archeoatlas.com/country/guatemala (coordinate excerpt).
+- Worldwide peers (qualitative; current peer YAML not rechecked):
+  - El Mirador (GT): larger and more imposing urban core.
+  - Caracol (BZ): better exposed monumental architecture.
+  - Calakmul (MX): broader exposed ceremonial landscape.
+  - Chavín (PE): different but similarly important early ceremonial architecture.
+- Individual scores:
+  - impact: 8.9 — Large forested platforms and pyramids give strong impact despite coverage and damage.
+  - uniqueness: 9.3 — Early triadic architecture and large Preclassic settlement are unusual.
+  - significance: 9.4 — Significant evidence of early Maya urban development.
+  - experience: 8.6 — Documented guided stop is rewarding, no unrestricted climbing assumed.
+  - depth: 8.8 — Multiple groups provide interpretive depth without crediting the wider circuit.
+- Categories: history 9.4, architecture 9.0, adventure 8.8.
+- Overall: 90.45/100.
+- High-score challenge: Documented substantial early monumental architecture and archaeological importance, with lower visitor impact and depth than El Mirador. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact location and current access/visible condition, numeric peer comparison and full diagnostics. No access guarantee.
+
+## sight-gt-el-tintal — El Tintal Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/el-tintal.yaml)
+- Action: new
+- Precise subject: Site core, moat, platforms, ball court and local forest surroundings, excluding entire basin circuit.
+- Location check: 17.5744, -89.9958; approximate archaeological reference point, not surveyed entrance.
+- Evidence status: fact-checked
+- Sources inspected 2026-11-28: INGUAT https://visitguatemala.gt/en/blog/tintal-see-do-mayan-city/ (opened: monumental groups, ball court, causeways and guided visits); Asociación Tikal https://www.asociaciontikal.com/simposio-19-ano-2005/68-hansen-et-al-2-05-digital-doc/ (opened: moat, major structures, historic looting); https://archeoatlas.com/country/guatemala (coordinate excerpt).
+- Worldwide peers (qualitative; current peer YAML not rechecked):
+  - El Mirador (GT): more monumental and globally prominent.
+  - Becán (MX): comparable moat-defined archaeological settlement.
+  - Caracol (BZ): stronger exposed architecture.
+  - Uaxactún (GT): less massive site but more concentrated ceremonial interpretation.
+- Individual scores:
+  - impact: 8.8 — Massive forest-covered architecture provides strong visual and historical impact.
+  - uniqueness: 9.2 — Moat and unusual early urban scale distinguish the site.
+  - significance: 9.2 — Important Preclassic political center with later occupations.
+  - experience: 8.7 — Guided site exploration is rewarding without counting the entire jungle trek.
+  - depth: 8.9 — Multiple monumental groups and waterworks provide substantial breadth.
+- Categories: history 9.3, architecture 9.0, adventure 8.9, photography 8.8.
+- Overall: 89.75/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact location and current access/visible condition, numeric peer comparison and full diagnostics. No access guarantee.
+
+## sight-gt-rio-azul — Río Azul Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/rio-azul.yaml)
+- Action: new
+- Precise subject: Surviving site architecture and landscape; no entry to decorated tombs or view of protected murals assumed.
+- Location check: 17.7791, -89.28; approximate archaeological reference point, not surveyed entrance.
+- Evidence status: source-linked-unverified
+- Sources inspected 2026-11-28: Río Azul Regional Archaeological Project https://www.rioazulproject.org/site-history (opened: monumental architecture, water systems and decorated tombs); https://archeoatlas.com/country/guatemala (coordinate excerpt). Normal visitor scope and visible condition incompletely verified.
+- Worldwide peers (qualitative; current peer YAML not rechecked):
+  - Piedras Negras (GT): comparable remote political center with greater documented exterior sculpture.
+  - Caracol (BZ): greater exposed architectural impact.
+  - Calakmul (MX): broader monumental visitor landscape.
+  - Quiriguá (GT): outstanding publicly visible stone monuments.
+- Individual scores:
+  - impact: 8.0 — Forest ruins have historical atmosphere but major discoveries are not necessarily visible.
+  - uniqueness: 9.1 — Rare early royal funerary evidence and water engineering distinguish the site.
+  - significance: 9.3 — Important Early Classic political and archaeological record.
+  - experience: 7.7 — Focused exploration is provisional; no excavated chamber access assumed.
+  - depth: 8.4 — Site layout and history provide depth, limited by unknown interpretation.
+- Categories: history 9.4, architecture 8.7, culture 8.8.
+- Overall: 85.30/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact location and current access/visible condition, numeric peer comparison and full diagnostics. No access guarantee.
+
+## sight-gt-holmul — Holmul Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/holmul.yaml)
+- Action: new
+- Precise subject: Named archaeological city, not the whole Holmul regional project; excludes access to sealed tombs and protected reliefs.
+- Location check: 17.3, -89.256; approximate archaeological reference point, not surveyed entrance.
+- Evidence status: source-linked-unverified
+- Sources inspected 2026-11-28: Boston University https://www.bu.edu/cas/tombs-give-new-insights-into-maya-history/ (opened: discovery of painted stucco frieze); Cambridge https://www.cambridge.org/core/journals/latin-american-antiquity/article/abs/kings-apotheosis-iconography-text-and-politics-from-a-classic-maya-temple-at-holmul/67469C1BE13D9F7626D0CF0EF4975D41 (excerpt: painted plaster frieze); https://archeoatlas.com/country/guatemala (coordinate excerpt). Visitor scope and present visibility unverified.
+- Worldwide peers (qualitative; current peer YAML not rechecked):
+  - San Bartolo (GT): similarly rare painted archaeological evidence.
+  - Palenque (MX): more exposed architecture and interpretation.
+  - Copán (HN): greater visible sculptural richness.
+  - Naranjo (GT): comparable dynastic research significance.
+- Individual scores:
+  - impact: 7.9 — Surviving forest structures offer moderate impact without assuming the frieze is visible.
+  - uniqueness: 9.1 — Rare polychrome architectural evidence supports strong uniqueness.
+  - significance: 9.3 — Important evidence of Maya iconography and politics.
+  - experience: 7.6 — Visitor experience conservatively estimated because normal route is unclear.
+  - depth: 8.3 — Multiple architectural and chronological contexts provide interpretive depth.
+- Categories: history 9.4, architecture 8.8, culture 8.8.
+- Overall: 84.75/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact location and current access/visible condition, numeric peer comparison and full diagnostics. No access guarantee.
+
+## sight-gt-el-peru-waka — El Perú-Waka’ Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/el-peru-waka.yaml)
+- Action: new
+- Precise subject: Archaeological city in Laguna del Tigre only; excludes protected forest and inaccessible burials.
+- Location check: 17.2783, -90.3806; approximate archaeological reference point, not surveyed entrance.
+- Evidence status: source-linked-unverified
+- Sources inspected 2026-11-28: Ministry of Culture https://culturaguate.gob.gt/2022/05/20/descubren-sepultura-real-de-un-gobernante-maya-del-siglo-v-d-c/ (opened: royal burial and location); Oxford University Press https://academic.oup.com/florida-scholarship-online/book/58243 (excerpt: occupation and royal history); https://archeoatlas.com/country/guatemala (coordinate excerpt). Current visitor route not independently verified.
+- Worldwide peers (qualitative; current peer YAML not rechecked):
+  - Piedras Negras (GT): similar remote royal center.
+  - Yaxchilán (MX): greater exposed carved architecture.
+  - Caracol (BZ): larger visible monumental visitor scope.
+  - Dos Pilas (GT): comparable political history with different dynastic evidence.
+- Individual scores:
+  - impact: 8.3 — Forest ceremonial remains offer substantial but not exceptional visual impact.
+  - uniqueness: 8.9 — Royal dynastic evidence distinguishes the settlement.
+  - significance: 9.3 — Major evidence for royal succession and regional Classic Maya politics.
+  - experience: 8.1 — Focused site encounter may be rewarding; no royal tomb access assumed.
+  - depth: 8.6 — Long occupation and multiple groups support depth.
+- Categories: history 9.4, architecture 8.8, nature 8.5.
+- Overall: 86.50/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact location and current access/visible condition, numeric peer comparison and full diagnostics. No access guarantee.
+
+## sight-gt-qumarkaj — Q’umarkaj Archaeological Park and Sacred Site — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/qumarkaj.yaml)
+- Action: new
+- Precise subject: Former K’iche’ capital and public archaeological visit; excludes participation in private sacred ceremonies.
+- Location check: 15.0235, -91.172; approximate archaeological reference point, not surveyed entrance.
+- Evidence status: fact-checked
+- Sources inspected 2026-11-28: Ministry of Culture https://noticias.mcd.gob.gt/2026/05/06/sitio-arqueologico-qumarkaj-retoma-actividades-con-mayor-seguridad/ (opened: living sacred site and May 2026 reopening); https://culturaguate.gob.gt/2022/01/20/sitios-arqueologicos-para-visitar-en-guatemala/ (opened: public archaeological park listing); https://tulan.gt/ho/en/mayista/articulos/qumarkaj-0 (excerpt: K’iche’ capital and temple remains); https://archeoatlas.com/country/guatemala (coordinate excerpt).
+- Worldwide peers (qualitative; current peer YAML not rechecked):
+  - Iximché (GT): comparable late Maya highland capital.
+  - Tak’alik Ab’aj (GT): much longer archaeological sequence and distinctive sculpture.
+  - Chavín (PE): stronger monumental ritual architecture.
+  - Joya de Cerén (SV): greater archaeological preservation, different living cultural scope.
+- Individual scores:
+  - impact: 8.2 — Historic ruins and living sacred setting create meaningful impact.
+  - uniqueness: 9.1 — Combination of former kingdom capital and active Indigenous spirituality is distinctive.
+  - significance: 9.3 — Strong K’iche’ historical and contemporary cultural importance.
+  - experience: 8.5 — Public site offers rewarding interpretation with respect for ritual boundaries.
+  - depth: 8.5 — Multiple features and living cultural context give depth.
+- Categories: history 9.4, culture 9.4, architecture 8.3.
+- Overall: 87.20/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact location and current access/visible condition, numeric peer comparison and full diagnostics. No access guarantee.
+
+## sight-gt-mixco-viejo — Mixco Viejo (Chuwa Nima Ab’aj) Archaeological Park — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/mixco-viejo.yaml)
+- Action: new
+- Precise subject: Named ridge-top archaeological complex in Chimaltenango, not modern Mixco or an alternate historical location.
+- Location check: 14.8717, -90.6642; approximate archaeological reference point, not surveyed entrance.
+- Evidence status: source-linked-unverified
+- Sources inspected 2026-11-28: Ministry of Culture https://culturaguate.gob.gt/2022/01/20/sitios-arqueologicos-para-visitar-en-guatemala/ (opened: site identity and visitor listing); INGUAT https://visitguatemala.gt/en/blog/mixco-viejo-guide-acheological-site/ (excerpt: ridge, ravines, plazas and ball courts); https://archeoatlas.com/country/guatemala (coordinate excerpt).
+- Worldwide peers (qualitative; current peer YAML not rechecked):
+  - Iximché (GT): comparable highland archaeological capital.
+  - Zaculeu (GT): similar restored highland ruins.
+  - Monte Albán (MX): greater monumental ridge-top scope.
+  - Machu Picchu (PE): far more exceptional mountain architecture and international significance.
+- Individual scores:
+  - impact: 8.6 — Ridge and ravine setting enhances the visual impact of restored structures.
+  - uniqueness: 8.7 — Topographic defensive setting and ceremonial groups are distinctive but not globally unique.
+  - significance: 8.8 — Important Postclassic highland Maya heritage.
+  - experience: 8.7 — Multiple public structures offer rewarding exploration.
+  - depth: 8.7 — Plazas and ball courts provide a substantial coherent site visit.
+- Categories: history 9.0, architecture 8.8, photography 8.9.
+- Overall: 86.90/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact location and current access/visible condition, numeric peer comparison and full diagnostics. No access guarantee.

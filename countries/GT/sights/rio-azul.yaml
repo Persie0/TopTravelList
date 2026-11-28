@@ -1,0 +1,16 @@
+id: sight-gt-rio-azul
+name: "Río Azul Archaeological Site"
+location:
+  country_code: GT
+  latitude: 17.7791
+  longitude: -89.28
+scores:
+  impact: 8.0
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 7.7
+  depth: 8.4
+  categories:
+    history: 9.4
+    architecture: 8.7
+    culture: 8.8
