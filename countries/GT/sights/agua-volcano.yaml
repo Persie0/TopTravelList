@@ -1,0 +1,16 @@
+id: sight-gt-agua-volcano
+name: "Agua Volcano (Junajpú)"
+location:
+  country_code: GT
+  latitude: 14.465
+  longitude: -90.743
+scores:
+  impact: 8.9
+  uniqueness: 8.5
+  significance: 8.6
+  experience: 8.5
+  depth: 8.5
+  categories:
+    nature: 9.0
+    adventure: 9.0
+    photography: 9.1

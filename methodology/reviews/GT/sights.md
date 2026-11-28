@@ -3968,3 +3968,182 @@ Seven additions and one rescore. Seven provisional source-linked ratings, one fa
 - High-score challenge: The unusual documented limestone bridge configuration and dramatic pool-and-forest panorama support 90+ and 9.5 nature/photography, slightly below larger terraced-lake landscapes. Does not credit nearby cave attractions or access to the submerged river. No approved 10 requested.
 - Earlier decision: Prior review retained.
 - Remaining verification: precise entrances and current operating conditions; full diagnostics. No access guarantee.
+
+# Pass 406 — 2026-11-28 — direct main continuation
+
+Seven additional attractions; all provisional source-linked, numerically complete. UNESCO nomination register reconciled for previously added components and new Ixil, Visis Cabá and San Agustín entries. No separate numerical destination created for nominations that merely duplicate existing visitor scopes or describe private residences; Chajul public cultural route is scored. Full Python validation/benchmark scripts and Actions not run. Mexico Tacaná filename matches: none found; Guatemala scope limited to its side of the shared mountain. No claim of exhaustive regional coverage.
+
+## sight-gt-agua-volcano — Agua Volcano (Junajpú) — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/agua-volcano.yaml)
+- Action: new
+- Precise subject: Symmetrical stratovolcano and its lawful mountain visitor landscape, excludes views from Cerro de la Cruz and Antigua city; no summit access promised.
+- Location check: 14.465, -90.743; approximate representative point.
+- Evidence status: source-linked-unverified
+- Sources consulted 2026-11-28: https://volcano.si.edu/volcano.cfm?vn=342100 (Smithsonian indexed coordinates and forested stratovolcano); https://agn.gt/ruta-de-volcanes-paisaje-y-cultura-concentrada-en-el-altiplano-guatemalteco/ (indexed protected volcanic route).
+- Worldwide peers (qualitative; peer YAML not checked):
+  - Mount Batur (ID): more active volcanic and lake spectacle
+  - Santa Ana Volcano (SV): more dramatic crater
+  - Hallasan (KR): broader summit ecology
+  - Atitlán Volcano (GT): comparable large stratovolcano and summit panorama.
+- Individual scores:
+  - impact: 8.9 — Symmetrical cone creates strong landscape impact
+  - uniqueness: 8.5 — Prominent forested volcanic form, not globally unique
+  - significance: 8.6 — Regional volcanic and settlement history supports significance
+  - experience: 8.5 — Mountain exploration under lawful conditions provides strong experience
+  - depth: 8.5 — Large elevation gradient and natural landscape offer depth.
+- Categories: nature 9.0, adventure 9.0, photography 9.1.
+- Overall: 86.40/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact entrance and public access, numerical peer comparison and full diagnostics.
+
+## sight-gt-tacana-volcano-guatemalan-side — Tacaná Volcano (Guatemalan Side) — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/tacana-volcano-guatemalan-side.yaml)
+- Action: new
+- Precise subject: Guatemalan approach and volcanic landscape of shared border mountain. Summit reference point, not an entry or cross-border itinerary; no credit for Mexican reserve's independent merits.
+- Location check: 15.132, -92.109; approximate representative point.
+- Evidence status: source-linked-unverified
+- Sources consulted 2026-11-28: https://volcano.si.edu/volcano.cfm?vn=341130 (Smithsonian indexed border location, lava domes and calderas, coordinates).
+- Worldwide peers (qualitative; peer YAML not checked):
+  - Cerro Chirripó (CR): comparable high elevation trek
+  - Mount Rinjani (ID): greater crater-lake spectacle
+  - Pico de Orizaba (MX): higher alpine climbing scope
+  - Tajumulco (GT): slightly higher Central American peak and comparable highland hike.
+- Individual scores:
+  - impact: 8.8 — Large volcanic massif and mountain vistas create strong impact
+  - uniqueness: 8.7 — Composite volcano with summit domes and highland ecosystem is distinctive
+  - significance: 8.9 — Geological and regional natural significance support high score
+  - experience: 8.5 — Lawful highland excursion offers strong adventure, route and conditions unverified
+  - depth: 8.8 — Elevation gradient and multiple landforms add breadth.
+- Categories: nature 9.2, adventure 9.1, photography 9.0.
+- Overall: 87.50/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact entrance and public access, numerical peer comparison and full diagnostics.
+
+## sight-gt-santo-tomas-zunil-volcanic-complex — Santo Tomás–Zunil Volcanic Mountain Complex — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/santo-tomas-zunil-volcanic-complex.yaml)
+- Action: new
+- Precise subject: Named connected mountain complex and ridgeline, excludes Fuentes Georginas bathing and adjacent Almolonga complex.
+- Location check: 14.71, -91.479; approximate representative point.
+- Evidence status: source-linked-unverified
+- Sources consulted 2026-11-28: https://a.cf11.si.edu/volcano.cfm?vn=342800 (Smithsonian indexed coordinates and interconnected ridgeline, eroded stratovolcano and Zunil high point).
+- Worldwide peers (qualitative; peer YAML not checked):
+  - Mount Batur (ID): greater active volcanic spectacle
+  - Mount Hallasan (KR): stronger protected summit visitor identity
+  - Cerro Chirripó (CR): more established highland trek
+  - Tolimán (GT): comparable volcanic mountain experience.
+- Individual scores:
+  - impact: 8.5 — Highland ridge and volcanic mountains offer strong scenery
+  - uniqueness: 8.3 — Connected eroded volcanic forms are regionally distinctive
+  - significance: 8.4 — Regional geothermal and geological context matters
+  - experience: 8.5 — Mountain walking is rewarding where lawful, no facilities assumed
+  - depth: 8.6 — Two linked summits and ridgeline provide substantial depth.
+- Categories: nature 8.9, adventure 8.9, photography 8.8.
+- Overall: 84.40/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact entrance and public access, numerical peer comparison and full diagnostics.
+
+## sight-gt-ixil-triangle-cultural-route — Ixil Triangle Maya Cultural Landscape — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/ixil-triangle-cultural-route.yaml)
+- Action: new
+- Precise subject: Public cultural route connecting Nebaj, Chajul and Cotzal, including ordinary public streets, markets and landscape. Nebaj town reference point. No private home mural access or credit for separately scored Visis Cabá reserve.
+- Location check: 15.4061, -91.1468; approximate representative point.
+- Evidence status: source-linked-unverified
+- Sources consulted 2026-11-28: https://visitguatemala.gt/blog/nebaj-guia-visita-municipio/ (opened official tourism description: rural mountain roads, terraces, historic Ixil communities); https://whc.unesco.org/en/tentativelists/1769/ (opened: tentative listing, not inscription); https://www.cambridge.org/core/journals/antiquity/article/maya-wall-paintings-from-chajul-guatemala/385724E572C11201651FD0E0AFB4EA11 (indexed research: murals in private homes, not public attraction); https://www.geocountries.com/map/guatemala/quich%C3%A9/chajul (indexed Nebaj coordinate).
+- Worldwide peers (qualitative; peer YAML not checked):
+  - Sacred Valley (PE): more monumental archaeological visitor landscape
+  - Sapa villages (VN): comparable highland living cultural landscape
+  - Tana Toraja (ID): stronger distinctive public architectural and ritual heritage
+  - San Juan La Laguna weaving (GT): more focused craft encounter.
+- Individual scores:
+  - impact: 8.8 — Highland settlements, textiles and terraces create strong cultural landscape appeal
+  - uniqueness: 9.1 — Distinct Ixil language and living vernacular heritage are unusual
+  - significance: 9.2 — Long-lived Indigenous traditions and complex regional history support significance
+  - experience: 8.5 — Respectful public cultural visits and local guided walks offer depth without private access
+  - depth: 9.0 — Multiple linked settlements and landscapes provide extended exploration.
+- Categories: culture 9.4, history 9.3, photography 9.0, nature 8.7.
+- Overall: 89.30/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact entrance and public access, numerical peer comparison and full diagnostics.
+
+## sight-gt-visis-caba-biosphere-reserve — Ixil Visis Cabá Biosphere Reserve — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/visis-caba-biosphere-reserve.yaml)
+- Action: new
+- Precise subject: Named protected landscape, separate from Ixil town cultural route; reserve center, not a visitor entrance. No unrestricted access or wildlife sightings assumed.
+- Location check: 15.574, -90.996; approximate representative point.
+- Evidence status: source-linked-unverified
+- Sources consulted 2026-11-28: https://conap.gob.gt/listado-de-areas-protegidas/entry/4092/ (official indexed protected-area listing); https://whc.unesco.org/en/tentativelists/1769/ (opened tentative nomination); https://en.wikipedia.org/wiki/Visis_Cab%C3%A1 (indexed representative coordinates; approximate).
+- Worldwide peers (qualitative; peer YAML not checked):
+  - Cusuco National Park (HN): comparable montane forest conservation
+  - Monteverde (CR): more established cloud forest interpretation
+  - Cockscomb Basin (BZ): stronger documented wildlife trail network
+  - Sierra de las Minas (GT): much greater protected ecological breadth.
+- Individual scores:
+  - impact: 8.5 — Protected mountain forest offers strong natural landscape
+  - uniqueness: 8.7 — Highland forest biodiversity and regional conservation identity are distinctive
+  - significance: 9.0 — Large recognized protected landscape supports ecological importance
+  - experience: 7.8 — Focused natural appreciation only, visitor program uncertain
+  - depth: 8.6 — Multiple forest and elevation zones add ecological context.
+- Categories: nature 9.1, wildlife 9.0, photography 8.6.
+- Overall: 85.55/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact entrance and public access, numerical peer comparison and full diagnostics.
+
+## sight-gt-san-agustin-acasaguastlan-church — San Agustín Acasaguastlán Colonial Church — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/san-agustin-acasaguastlan-church.yaml)
+- Action: new
+- Precise subject: Named colonial parish in municipal center, not entire nomination route. Town center approximate point; precise building coordinates unverified.
+- Location check: 14.94476, -89.9699; approximate representative point.
+- Evidence status: source-linked-unverified
+- Sources consulted 2026-11-28: https://www.guatemala.com/aprende/historia/geografia/municipio-san-agustin-acasaguastlan-el-progreso (indexed colonial church and historical name); https://whc.unesco.org/en/tentativelists/1760/ (opened nomination); https://mapcarta.com/19526772 (opened town reference point).
+- Worldwide peers (qualitative; peer YAML not checked):
+  - Comayagua Cathedral (HN): more prominent historic cathedral ensemble
+  - Iglesia de San Francisco (SV): comparable colonial church heritage
+  - San Juan Chamula (MX): greater distinctive living ritual identity
+  - La Merced Antigua (GT): more ornate major colonial architecture.
+- Individual scores:
+  - impact: 8.0 — Historic church provides strong local architectural interest
+  - uniqueness: 8.2 — Colonial parish form is regionally distinctive but globally comparable
+  - significance: 8.5 — Important settlement and religious history
+  - experience: 7.8 — Respectful ordinary church viewing, interior access not verified
+  - depth: 7.6 — Single structure limits depth.
+- Categories: architecture 8.7, history 8.8, culture 8.5.
+- Overall: 80.80/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact entrance and public access, numerical peer comparison and full diagnostics.
+
+## sight-gt-san-cristobal-acasaguastlan-church — San Cristóbal Acasaguastlán Colonial Church — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/san-cristobal-acasaguastlan-church.yaml)
+- Action: new
+- Precise subject: Named baroque colonial church and public exterior, not adjacent town or San Agustín church. Town representative coordinate, not verified doorway.
+- Location check: 14.91889, -89.87222; approximate representative point.
+- Evidence status: source-linked-unverified
+- Sources consulted 2026-11-28: https://dca.gob.gt/noticias-guatemala-diario-centro-america/vestigio-de-la-influencia-espanola-en-la-region-oriental/ (indexed report: baroque facade and sun relief); https://www.guatevalley.com/que-visitar/iglesia-de-san-cristobal-acasaguastlan-el-progreso (indexed visitor identity); https://en.wikipedia.org/wiki/San_Crist%C3%B3bal_Acasaguastl%C3%A1n (indexed town coordinates).
+- Worldwide peers (qualitative; peer YAML not checked):
+  - Comayagua Cathedral (HN): larger monumental scope
+  - Santa Ana Cathedral (SV): greater physical scale
+  - San Juan Chamula church (MX): stronger living ritual distinction
+  - San Agustín Acasaguastlán (GT): nearby distinct historic parish.
+- Individual scores:
+  - impact: 8.2 — Decorated baroque facade offers strong visual character
+  - uniqueness: 8.5 — Solar motif and regional colonial architecture distinguish the building
+  - significance: 8.5 — Colonial religious and local history merit high regional significance
+  - experience: 8.0 — Focused exterior and permitted worship-space viewing
+  - depth: 7.7 — Single church limits depth.
+- Categories: architecture 8.9, history 8.8, culture 8.6, photography 8.5.
+- Overall: 82.55/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact entrance and public access, numerical peer comparison and full diagnostics.

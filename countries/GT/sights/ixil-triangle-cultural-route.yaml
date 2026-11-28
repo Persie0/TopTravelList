@@ -1,0 +1,17 @@
+id: sight-gt-ixil-triangle-cultural-route
+name: "Ixil Triangle Maya Cultural Landscape"
+location:
+  country_code: GT
+  latitude: 15.4061
+  longitude: -91.1468
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 8.5
+  depth: 9.0
+  categories:
+    culture: 9.4
+    history: 9.3
+    photography: 9.0
+    nature: 8.7
