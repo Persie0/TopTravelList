@@ -1,0 +1,16 @@
+id: sight-cl-bahia-inutil-king-penguins
+name: "Bahía Inútil King Penguin Nature Reserve Guided Viewing"
+location:
+  country_code: CL
+  latitude: -53.45
+  longitude: -69.32
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 9.2
+  experience: 8.9
+  depth: 8.5
+  categories:
+    wildlife: 9.4
+    photography: 9.3
+    nature: 9.2

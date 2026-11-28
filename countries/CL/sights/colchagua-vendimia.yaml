@@ -1,0 +1,16 @@
+id: sight-cl-colchagua-vendimia
+name: "Santa Cruz Colchagua Grape Harvest Festival"
+location:
+  country_code: CL
+  latitude: -34.64
+  longitude: -71.37
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 9.2
+  depth: 8.8
+  categories:
+    food: 9.4
+    culture: 9.2
+    nightlife: 8.9

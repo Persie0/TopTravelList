@@ -5238,3 +5238,438 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] UY — Mercedes Río Negro Historic Waterfront and Public Heritage: 83.45/100 (desk-based provisional).
 
 12 additions, 9 source-linked provisional, 3 desk-based provisional, 5 90+, 34 ranking-row comparisons (10 international). UY 99 ranked / 99 total, +38 since baseline 61. Prior 3 inscribed properties represented, 6 tentative screened (4 direct matches, modern architecture partial, Colonia island extension deferred); no new boundary mapping. Los Catalanes internationally recognized geological heritage, guided prepared visitor tunnels only. Vendimia seasonal public festival separate from routine winery circuit, non-additive when bundled. San Javier public sunflower festival separate from permanent settlement and Farrapos. Hum and Islas del Queguay protected status confirmed (https://www.gub.uy/ministerio-ambiente/politicas-y-gestion/humedales-islas-del-hum-soriano ; https://www.gub.uy/ministerio-ambiente/politicas-y-gestion/area-protegida-manejo-habitat-yo-especies-islas-del-queguay), visitor routes insufficiently confirmed, deferred; Esteros y Algarrobales official general trail guidance but distinct scope/overlap with Farrapos remains unresolved (https://www.ambiente.gub.uy/oan/snap/esteros-y-algarrobales-del-rio-uruguay/). Existing scores preserved. OPEN for final bounded regional screen. Coordinates approximate; future schedules, access and permissions unverified.
+
+
+### Pass 296 — Uruguay final bounded regional screen
+
+- [x] UY — Dolores National Spring Festival Public Student Parades: 91.05/100 (source-linked-unverified).
+- [x] UY — Florida San Cono Annual Pilgrimage and Public Festival: 90.85/100 (source-linked-unverified).
+- [x] UY — Melo Carnival Public Samba Candombe and Murga Parades: 90.20/100 (source-linked-unverified).
+- [x] UY — Florida Virgen de los Treinta y Tres National Pilgrimage: 90.30/100 (source-linked-unverified).
+- [x] UY — Durazno San Pedro Church (Eladio Dieste): 86.05/100 (source-linked-unverified).
+- [x] UY — Villa Soriano Historic Village and Chapel Heritage: 84.15/100 (source-linked-unverified).
+- [x] UY — Salto Grande Binational Hydroelectric Dam Visitor Experience: 84.80/100 (source-linked-unverified).
+- [x] UY — Salto Historic Centre and Literary Heritage Circuit: 83.60/100 (source-linked-unverified).
+- [x] UY — Florida Piedra Alta and Independence Civic Heritage: 82.60/100 (source-linked-unverified).
+- [x] UY — Nueva Helvecia Cheese Festival Public Gastronomy Programme: 85.10/100 (source-linked-unverified).
+
+10 source-linked provisional additions, 4 scoring 90+, 20 domestic ranking-row comparisons. UY 109 ranked / 109 total, +48 since baseline 61; 19 new 90+ across four passes. Bounded current discovery queue closed after passes 293–296, not exhaustive. Prior UNESCO inventory (3 inscribed represented; 6 tentative screened, 4 direct, modern architecture partial, Colonia island extension deferred) carried forward without remapping. Dolores nationally recognized intangible heritage, not UNESCO inscription. San Cono and Virgen de los Treinta y Tres separate recurring pilgrimages, associated shrine/concert grouped; exceptional papal events excluded. Salto literary and historic circuit grouped; dam separate. Durazno San Pedro distinct from Atlántida, no new World Heritage claim. Hum, Islas del Queguay and Esteros y Algarrobales remain deferred pending distinct authorized visitor scope; prior deferrals retained. Regional screen used national tourism destination and festival inventories and targeted official sources; smaller local sites not exhaustively checked. Existing scores preserved; coordinates approximate, access and future schedules unverified. Reopen on concrete significant omission. Independent peer YAML/coordinate checks, international calibration, historical evidence labels and full Python validation pending. Next proposed country Venezuela.
+
+
+### Pass 297 — Venezuela initial UNESCO and cultural screen
+
+- [x] VE — San Francisco de Yare Dancing Devils of Corpus Christi Public Procession: 93.85/100 (source-linked provisional).
+- [x] VE — El Callao Carnival Public Calypso and Masquerade Parades: 93.35/100 (source-linked provisional).
+- [x] VE — Guarenas and Guatire Parranda de San Pedro Public Festivities: 92.35/100 (source-linked provisional).
+- [x] VE — Central Venezuelan Coastal San Juan Bautista Public Drum and Dance Festivities: 92.65/100 (source-linked provisional).
+- [x] VE — Barquisimeto Divina Pastora Public Pilgrimage: 92.35/100 (source-linked provisional).
+- [x] VE — Maracaibo Feria de la Chinita Public Gaita and Religious Festival: 91.30/100 (source-linked provisional).
+- [x] VE — Chuao Cacao Plantation Cultural Landscape and Village Heritage: 89.10/100 (source-linked provisional).
+- [x] VE — La Guaira Historic Centre and Public Port Heritage: 85.45/100 (source-linked provisional).
+- [x] VE — Ciudad Bolívar Historic Centre and Orinoco Waterfront: 87.45/100 (source-linked provisional).
+- [x] VE — Sierra de la Culata National Park Highland Landscapes: 86.85/100 (desk-based provisional).
+- [x] VE — Yacambú National Park Cloud Forest and Birdwatching: 85.00/100 (desk-based provisional).
+- [x] VE — Puerto Ayacucho Tobogán de la Selva Natural Rock Waterscape: 84.45/100 (source-linked provisional).
+
+12 additions, 10 source-linked provisional, 2 desk-based provisional, 6 90+, 30 ranking-row comparisons (24 international, 6 domestic). VE 52 ranked / 55 total, +12 since baseline 43. Official UNESCO World Heritage inventory checked (https://whc.unesco.org/en/statesparties/ve/): 3/3 inscribed already represented, Coro and port component rows; all 3 tentative now represented by narrowly scoped visitor entries, boundaries not independently mapped. UNESCO intangible heritage distinct from property inscription; Yare representative public Dancing Devils observance, El Callao Carnival, Guarenas/Guatire Parranda grouped, San Juan coastal festive cycle grouped; no private ceremony access implied. Divina Pastora and Chinita recurring public programmes. Cerro Autana official natural monument (https://www.inparques.gob.ve/Monumentos%20Nacionales/cerro-autana.html), defer until community permission and defined visitor scope, no cave/summit access assumed. National park directory screen incomplete. FCDO advises against all travel to parts of Venezuela (https://www.gov.uk/foreign-travel-advice/venezuela); intrinsic scores not travel advice. Three legacy unassessed retained. Existing scores preserved. OPEN for remaining parks, natural monuments and public heritage. Coordinates approximate, current permissions, security and schedules unverified.
+
+
+### Pass 298 — Venezuela regional parks and living traditions
+
+- [x] VE — Elorza Llanero Festival Public Joropo Music and Dance: 92.70/100 (source-linked provisional).
+- [x] VE — Lara Tamunangue San Antonio de Padua Public Music and Dance Festivities: 91.60/100 (source-linked provisional).
+- [x] VE — Caucagua Bandos and Parrandas of the Holy Innocents Public Street Festivities: 91.30/100 (source-linked provisional).
+- [x] VE — Chacao Palmeros Blessed Palm Public Holy Week Procession: 89.70/100 (source-linked provisional).
+- [x] VE — Cubagua Nueva Cádiz Archaeological Heritage Guided Route: 87.80/100 (source-linked provisional).
+- [x] VE — Península de Paria National Park Coastal Forest and Established Trails: 87.00/100 (source-linked provisional).
+- [x] VE — Turuépano National Park Mangrove Waterway Visitor Experience: 85.90/100 (source-linked provisional).
+- [x] VE — Colonia Tovar Highland Village German Venezuelan Heritage: 85.55/100 (source-linked provisional).
+- [x] VE — Cumaná Historic Centre and San Antonio de la Eminencia Heritage Circuit: 84.55/100 (source-linked provisional).
+- [x] VE — Laguna de Tacarigua National Park Coastal Wetlands: 83.45/100 (desk-based provisional).
+- [x] VE — San Esteban National Park Forest and Historic Walking Landscapes: 83.90/100 (desk-based provisional).
+- [x] VE — Isla de Coche Beaches and Coastal Landscape: 81.90/100 (desk-based provisional).
+
+12 additions, 9 source-linked provisional, 3 desk-based provisional, 3 90+, 24 ranking-row comparisons (12 international, 12 domestic). VE 64 ranked / 67 total, +24 since baseline 43. Prior 3 inscribed and 3 tentative properties represented; boundaries not remapped. Joropo UNESCO Representative List 2025, Elorza named public festival not separately inscribed; excludes bull events. Tamunangue nomination documentation as of 23 Nov 2026, not inscribed. Caucagua and Blessed Palm are safeguarding programme register entries, not Representative List inscriptions. Cubagua guided archaeological route distinct from beach visits. Paria and Turuépano separate from Orinoco Delta; regional tourism sources describe established trails/waterway outings. Inparques current website and secondary park lists screened (https://www.inparques.gob.ve/ ; https://guia.com.ve/venezuela/parques-nacionales/ ; https://ecoturismovenezuela.com/conoce-los-45-parques-nacionales-de-venezuela/), secondary counts disagree 44 vs 45; authoritative exhaustive reconciliation pending. Cueva Quebrada del Toro, Jaua-Sarisariñama, Duida-Marahuaca and Autana deferred pending clear permitted visitor scopes, not a negative intrinsic rating. Current Inparques permit page lists Pico Bolívar high-mountain ascent permit (https://www.inparques.gob.ve/tramites.html); legacy unassessed preserved for separate rating workflow. Prior safety note retained. Existing ratings preserved. OPEN for further national parks, monuments and urban heritage; current permissions, security, coordinates and schedules unverified.
+
+
+### Pass 299 — Venezuela controlled natural heritage, museums and public festivals
+
+- [x] VE — Cerro Autana and Sipapo River Authorized Guided Landscape Experience: 92.05/100 (source-linked provisional).
+- [x] VE — Caracas Nazareno de San Pablo Public Holy Wednesday Procession: 91.40/100 (source-linked provisional).
+- [x] VE — Caracas and Central Venezuela Cruz de Mayo Public Music and Floral Festivities: 91.25/100 (source-linked provisional).
+- [x] VE — Mérida International Sun Fair Public Carnival Parades and Concerts: 90.40/100 (source-linked provisional).
+- [x] VE — Ciudad Bolívar Jesús Soto Museum of Modern and Kinetic Art: 87.55/100 (source-linked provisional).
+- [x] VE — Caracas National Art Gallery: 85.75/100 (source-linked provisional).
+- [x] VE — Caracas Armando Reverón Museum of Contemporary Art: 85.30/100 (source-linked provisional).
+- [x] VE — Alfredo Jahn Cave Natural Monument Guided Caving Experience: 85.90/100 (source-linked provisional).
+- [x] VE — Morros de San Juan Arístides Rojas Natural Monument Rock Landscapes: 84.85/100 (source-linked provisional).
+- [x] VE — Laguna de Urao Natural Monument Highland Lagoon Landscape: 81.55/100 (desk-based provisional).
+- [x] VE — Guatopo National Park Forest and Agua Blanca Recreation Landscape: 83.95/100 (desk-based provisional).
+- [x] VE — Choroní and Puerto Colombia Colonial Village Heritage: 82.90/100 (desk-based provisional).
+
+12 additions, 9 source-linked provisional, 3 desk-based provisional, 4 90+, 26 ranking-row comparisons (12 international, 14 domestic). VE 76 ranked / 79 total, +36 since baseline 43. Prior UNESCO 3 inscribed and 3 tentative properties represented, no new boundary mapping. Autana previous deferral resolved narrowly for controlled guided river landscape only: INPARQUES explicitly documents registered authorized operator and river transit permit (https://inparques.gob.ve/tramites.html) and sacred summit restrictions (https://www.inparques.gob.ve/Monumentos%20Nacionales/cerro-autana.html); community consent required, no cave/summit access or private rituals. Alfredo Jahn guided routes distinct from Guacharo; permits unverified. Morros exterior landscape only. Cruz de Mayo national heritage, not UNESCO inscription; Merida fair excludes bullfighting. Three distinct art institutions added, existing Bellas Artes preserved. Choroni village excludes Playa Grande and San Juan festival. Cueva Quebrada del Toro, Jaua-Sarisarinama, Duida-Marahuaca deferred. Park counts unresolved; current INPARQUES portal not exhaustive. Existing ratings and three unassessed preserved. OPEN for bounded remaining regional park/cultural screen. Current security, permits, schedules and coordinates unverified; intrinsic rankings not travel advice. Full Python validation and global calibration pending.
+
+
+### Pass 300 — Venezuela final bounded regional screen
+
+- [x] VE — Cerro María Lionza Sorte and Quibayo Regulated Pilgrimage Landscape: 91.95/100 (source-linked provisional).
+- [x] VE — Sanare Los Zaragozas Holy Innocents Public Masked Festival: 91.20/100 (source-linked provisional).
+- [x] VE — La Vela de Coro Locos and Locainas Public Masked Parades: 91.30/100 (source-linked provisional).
+- [x] VE — Caicara de Maturín Baile del Mono Public Dance Festival: 91.00/100 (source-linked provisional).
+- [x] VE — San Cristóbal International San Sebastián Fair Public Parades and Music: 90.15/100 (source-linked provisional).
+- [x] VE — Dinira National Park Cascada del Vino and Established Recreation Landscape: 86.40/100 (source-linked provisional).
+- [x] VE — Cueva de la Quebrada del Toro National Park Ranger Approved Cave Landscape: 86.30/100 (source-linked provisional).
+- [x] VE — Yurubí National Park Forest and Established Recreation Landscape: 83.35/100 (desk-based provisional).
+- [x] VE — Guaramacal National Park Andean Cloud Forest and Highland Landscape: 84.60/100 (desk-based provisional).
+- [x] VE — Chorro El Indio National Park Waterfall and Forest Landscape: 82.70/100 (desk-based provisional).
+- [x] VE — Mérida Historic Centre University and Cathedral Heritage Circuit: 84.15/100 (desk-based provisional).
+- [x] VE — Mucuchíes and Apartaderos Andean Village Heritage Circuit: 84.55/100 (desk-based provisional).
+
+12 additions, 7 source-linked provisional, 5 desk-based provisional, 5 90+, 24 ranking-row comparisons (12 international, 12 domestic). VE 88 ranked / 91 total, +48 since baseline 43, 18 new 90+ across four passes. Prior UNESCO 3 inscribed and 3 tentative properties represented, boundaries not remapped. UNESCO living heritage list rechecked (https://ich.unesco.org/en/state/venezuela-bolivarian-republic-of-VE?info=elements-on-the-lists); do not convert craft, oral or community safeguarding listings into visitor attractions without defined public experience. Maria Lionza regulated lower landscape grouped with pilgrimage, private rituals and restricted forest excluded. Sanare, La Vela and Caicara local public festivals distinct from Caucagua, shared Holy Innocents traditions non-additive when bundled; no new UNESCO inscription claimed. San Sebastian excludes bullfighting. Cueva Quebrada del Toro previous deferral narrowed to ranger-approved approach and cave landscape, underground boating and independent access excluded; actual permission unverified. Jaua-Sarisarinama and Duida-Marahuaca remain deferred, Autana prior narrow permit scope retained. Aponwao and other Gran Sabana waterfall components not split in this pass (https://guia.com.ve/venezuela/lugares/gran-sabana/). Park inventory secondary counts unresolved, remote parks and Las Aves visitor scopes not exhaustively screened. PAUSED after four targeted passes to diversify worldwide discovery; not a closed queue or exhaustive audit. Existing scores and three unassessed preserved. Coordinates approximate, current access, security and schedules unverified. Full Python validation and international calibration pending. Next proposed country Guyana.
+
+
+### Pass 301 — Guyana initial heritage and community tourism screen
+
+- [x] GY — Georgetown Mashramani Republic Day Costume and Float Parade: 92.55/100 (source-linked provisional).
+- [x] GY — Georgetown and East Coast Demerara Diwali Public Motorcade: 91.90/100 (source-linked provisional).
+- [x] GY — Georgetown Phagwah Public Colour and Music Celebrations: 90.60/100 (source-linked provisional).
+- [x] GY — Georgetown Indigenous Heritage Month Public Arts and Cultural Programme: 91.20/100 (source-linked provisional).
+- [x] GY — Rupununi Music and Arts Festival Public Concerts and Workshops: 90.10/100 (source-linked provisional).
+- [x] GY — Surama Community Guided Forest and Indigenous Heritage Experience: 88.65/100 (source-linked provisional).
+- [x] GY — Yupukari Caiman House Community Wildlife Conservation Experience: 88.00/100 (source-linked provisional).
+- [x] GY — Karasabai Community Sun Parakeet Conservation Birdwatching: 87.30/100 (source-linked provisional).
+- [x] GY — Moraikobai Community Creek and Cassava Heritage Experience: 85.35/100 (source-linked provisional).
+- [x] GY — Bartica Easter Regatta Public River Races and Cultural Programme: 86.30/100 (source-linked provisional).
+- [x] GY — Linden Town Week Public Cultural and Music Festival: 82.60/100 (desk-based provisional).
+- [x] GY — Rupununi Saddle Mountain Guided Nature Trail: 84.00/100 (source-linked provisional).
+
+12 additions, 11 source-linked provisional, 1 desk-based provisional, 5 90+, 24 ranking-row comparisons (12 international, 12 domestic). GY 46 ranked / 51 total, +12 since baseline 39. Official UNESCO country inventory checked (https://whc.unesco.org/en/statesparties/gy): 0 inscribed, 5/5 tentative represented by existing cathedral, Fort Zeelandia including Court of Policy, City Hall, Shell Beach and Georgetown historic structure; no boundary mapping. PAC portal lists three directly managed hinterland and four urban parks, all represented (https://portal.gov.gy/agencies/protected-areas-commission); Iwokrama and Kanashen separately governed, both already represented, latter unassessed. Expansion budget not evidence of new visitable parks (https://dpi.gov.gy/607m-allocated-to-expand-conservation-areas-425m-for-land-reclamation/). Mashramani, Diwali, Phagwah and Indigenous heritage public programmes separate from permanent buildings; community-hosted Surama, Yupukari, Karasabai and Moraikobai distinct activities, no blanket village access, shared parent landscape values non-additive. Rupununi music festival separate from rodeo, latter deferred pending defined non-animal public programme. Mount Ayanganna deferred pending clear normal guided route and community permissions; new Bartica products announced 26 Nov 2026 (https://dpi.gov.gy/seven-new-tourism-experiences-launched-in-bartica/), scope review pending. Five legacy unassessed preserved. Existing scores preserved. OPEN for river landscapes, additional community-led experiences and historical sites. Coordinates approximate, access and future schedules unverified. Full Python validation and international calibration pending.
+
+
+### Pass 302 — Guyana public heritage and river community landscapes
+
+- [x] GY — Georgetown Emancipation Day Public Cultural and Heritage Festival: 92.00/100 (source-linked provisional).
+- [x] GY — Providence International Cricket and Amazon Warriors Spectator Experience: 90.70/100 (source-linked provisional).
+- [x] GY — Lethem Rupununi Ranchers Rodeo Public Heritage Fair and Cultural Programme: 90.35/100 (source-linked provisional).
+- [x] GY — Diamond Demerara Distillery Industrial and Wooden Still Heritage Tour: 88.75/100 (source-linked provisional).
+- [x] GY — Warapoka Community Guided Forest Birdwatching and Lokono Heritage: 87.55/100 (source-linked provisional).
+- [x] GY — Santa Mission and Aratack Community Creek and Craft Heritage: 84.65/100 (source-linked provisional).
+- [x] GY — Bartica Sloth Island Guided Rainforest Wildlife Experience: 84.70/100 (source-linked provisional).
+- [x] GY — Bartica Mazaruni Marshall and Baracara Falls Guided Waterscape Circuit: 82.50/100 (source-linked provisional).
+- [x] GY — Moco Moco Mountain and Waterfall Community Guided Landscape: 84.30/100 (source-linked provisional).
+- [x] GY — New Amsterdam Historic Centre Heritage Trail: 82.85/100 (source-linked provisional).
+- [x] GY — Georgetown Museum of African Heritage: 82.85/100 (source-linked provisional).
+- [x] GY — Pakuri St Cuthbert's Mission Community Heritage Experience: 83.80/100 (source-linked provisional).
+
+12 source-linked provisional additions, 3 90+, 24 ranking-row comparisons (12 international, 12 domestic). GY 58 ranked / 63 total, +24 since baseline 39, 8 new 90+ across two passes. Prior UNESCO 0 inscribed and 5/5 tentative represented; PAC-managed 3 hinterland and 4 urban areas represented, no boundary remapping. Emancipation separate from park, Providence cricket matches grouped; rodeo prior deferral resolved narrowly to documented cultural performances, crafts, food and history exhibition, all animal competitions excluded. Diamond industrial still heritage excludes required tasting. Warapoka council permission explicitly documented; all community consent required. Seven Bartica products announced 24 November and reported 25 November (https://dpi.gov.gy/seven-new-tourism-experiences-launched-in-bartica/): Sloth Island distinct wildlife scope now represented, Chasing Cascades screened against grouped Mazaruni falls without assuming identical route; Junior Wilderness Quest and Breakfast and Beyond generic, Rodeo Safari non-additive, Rivers View Hike and Dogg Point deferred pending exact scope/permission. No seven separate sights. Moco Moco grouped and non-additive to Kanuku, New Amsterdam trail and African Heritage Museum added. National Trust regional directory screened (https://ntg.gov.gy/monuments/), additional sites remain. Mount Ayanganna prior deferral retained. Wakapoa, Shulinab, Nappi and other named community tourism routes remain for next pass. Guyana OPEN. Existing ratings and five unassessed retained; coordinates approximate, permissions, schedules and current access unverified. Full Python validation, peer YAML checks and international calibration pending.
+
+
+### Pass 303 — Guyana community-led heritage and Independence Carnival
+
+- [x] GY — Georgetown Independence Carnival Public Road Parade: 90.40/100 (source-linked provisional).
+- [x] GY — Toka Community Nature and Macushi Heritage Experience: 88.00/100 (source-linked provisional).
+- [x] GY — Wakapoa Pomeroon River Community Heritage Experience: 84.10/100 (source-linked provisional).
+- [x] GY — Shulinab Shorinamada Community Ancestral Heritage Experience: 85.20/100 (source-linked provisional).
+- [x] GY — Nappi Community Reservoir and Mountain Nature Experience: 85.25/100 (source-linked provisional).
+- [x] GY — Paruima Community Pemon Cultural Heritage Experience: 85.45/100 (source-linked provisional).
+- [x] GY — Katoonarib Community Wapichan Traditions Experience: 84.75/100 (source-linked provisional).
+- [x] GY — Georgetown 1763 Monument Public Commemorative Heritage: 82.95/100 (source-linked provisional).
+- [x] GY — Georgetown Red House Cheddi Jagan Research Centre Heritage: 81.25/100 (source-linked provisional).
+- [x] GY — Georgetown Guyana Curry Fest Public Culinary Festival: 85.65/100 (source-linked provisional).
+- [x] GY — Georgetown Pepperpot Festival Public Culinary Heritage: 85.45/100 (source-linked provisional).
+
+11 source-linked provisional additions, 1 90+, 22 ranking-row comparisons (11 international, 11 domestic). GY 69 ranked / 74 total, +35 since baseline 39, 9 new 90+ across three passes. Prior UNESCO 0 inscribed and 5/5 tentative represented; PAC 3 hinterland and 4 urban areas represented; boundaries not remapped. Independence Carnival May parade separate from February Mashramani. Guyana Festival 2026 revived after more than a decade (https://dpi.gov.gy/guyana-festival-to-return-as-part-of-2026-diamond-jubilee-celebrations/); deferred as recurring standalone experience until continuity confirmed; no separate Diamond Jubilee event row. Toka community activities supported by Visit Rupununi and CTO award reporting. Wakapoa, Shulinab, Nappi, Paruima and Katoonarib named government-launched experiences; no blanket access, consent required. Shulinab excludes existing Saddle Mountain, Nappi excludes unconfirmed waterfall routes. Aishalton cultural experience not separately added pending precise overlap with petroglyphs. Uchi/Oshi waterfall scope and Quarrie waterfall location/route pending, not presumed identical to existing King George VI Falls. National Trust lists 11 designated monuments (https://ntg.gov.gy/national-monuments/): three forts, cathedral and Umana Yana represented as standalone or grouped records; 1763 and Red House added; African Liberation Monument grouped conceptually with Umana Yana designation, State House, Non-Aligned and Walter Rodney tomb/memorial screened as potential historic-city components rather than additional independent ratings; actual boundaries not established. Curry Fest and Pepperpot distinct culinary subjects; Pepperpot 28 November 2026 announced, occurrence not checked. Mount Ayanganna and prior Bartica deferrals retained. PAUSED after three targeted passes to diversify discovery, not closed or exhaustive; additional remote waterfall and community route scope work pending. Existing scores and five unassessed retained; coordinates approximate, permissions, current access and future schedules unverified. Full Python validation and global calibration pending. Next proposed country Suriname.
+
+
+### Pass 304 — Suriname initial heritage and river culture screen
+
+- [x] SR — Paramaribo Keti Koti Emancipation Day Public Cultural Programme: 93.15/100 (source-linked provisional).
+- [x] SR — Paramaribo Owru Yari Public New Year Street Music Festival: 91.60/100 (source-linked provisional).
+- [x] SR — Paramaribo Dag der Marrons Public Commemorations and Heritage Fair: 92.20/100 (source-linked provisional).
+- [x] SR — Paramaribo Phagwa Public Colour and Music Festival: 90.40/100 (source-linked provisional).
+- [x] SR — Paramaribo Javanese Immigration and Indigenous Peoples Day Public Heritage Festivities: 91.35/100 (source-linked provisional).
+- [x] SR — Paramaribo Srefidensi Independence Day Public Parade: 89.20/100 (source-linked provisional).
+- [x] SR — Paramaribo Hindostani Immigration Day Public Heritage Commemoration: 88.30/100 (source-linked provisional).
+- [x] SR — Upper Suriname River Saamaka Guided Rapids and Village Heritage Circuit: 89.50/100 (source-linked provisional).
+- [x] SR — Palumeu Upper Tapanahony Guided Rainforest and Village Heritage Experience: 88.25/100 (source-linked provisional).
+- [x] SR — Moengo Contemporary Art Museum and Marowijne Art Park Circuit: 85.45/100 (source-linked provisional).
+- [x] SR — Paramaribo Lalla Rookh Museum of Hindostani Heritage: 83.30/100 (source-linked provisional).
+- [x] SR — Lelydorp Neotropical Butterfly Park Visitor Experience: 79.05/100 (source-linked provisional).
+
+12 source-linked provisional additions, 5 90+, 24 ranking-row comparisons (12 international, 12 domestic). SR 43 ranked / 49 total, +12 since baseline 37. UNESCO country list (https://whc.unesco.org/en/statesparties/sr) 3 inscribed represented by existing named property entries, 0 tentative; Cassipora Creek Cemetery component of Jodensavanne needs explicit visitor scope check (https://whc.unesco.org/en/list/1680/); boundaries not remapped. CBD profile describes historical inventory of 16 protected areas (https://www.cbd.int/countries/profile?country=sr), not certified current completeness; STINASU current portal (https://gov.sr/ministeries/ministerie-van-grondbeleid-en-bosbeheer/stinasu/) identifies Matapica as part of North Commewijne-Marowijne MUMA, no separate parent rating without defined scope. Keti Koti, Maroon Day and Independence separate public calendar events; Owru Yari and Pagara grouped; August Indigenous and Javanese celebrations jointly rated where programmes overlap, distinct histories preserved. Upper Suriname River hosted routes grouped, Pikin Slee museum and Palumeu/Kasikasima distinct scopes, no blanket community access. Existing scores and six legacy unassessed retained. OPEN for protected-area inventory, additional river landscapes and regional heritage. Coordinates approximate; current permissions and future schedules unverified. Full Python validation, peer YAML verification and international calibration pending.
+
+
+### Pass 305 — Suriname western river landscapes and heritage
+
+- [x] SR — Paramaribo National Divali Public Festival of Lights: 90.85/100 (source-linked provisional).
+- [x] SR — Paramaribo Avondvierdaagse Public Walking and Cultural Parade: 88.85/100 (source-linked provisional).
+- [x] SR — Kabalebo River Guided Rainforest and Rapids Landscape: 89.05/100 (source-linked provisional).
+- [x] SR — Wonotobo Falls Guided Courantyne River Landscape: 86.85/100 (source-linked provisional).
+- [x] SR — Maratakka River Guided Wildlife and Palm Wetlands: 86.10/100 (source-linked provisional).
+- [x] SR — Apetina Tebutop Mountain and Tapanahony Community Guided Circuit: 86.90/100 (source-linked provisional).
+- [x] SR — Reynsdorp Plantage Bakkie Museum and Warappa Creek Heritage Circuit: 85.60/100 (source-linked provisional).
+- [x] SR — Paramaribo Koto Museum Creole Dress and Textile Heritage: 83.35/100 (source-linked provisional).
+- [x] SR — Paramaribo Arya Dewaker Temple Architectural Heritage: 81.90/100 (source-linked provisional).
+
+9 source-linked provisional additions, 1 90+, 18 ranking-row comparisons (9 international, 9 domestic). SR 52 ranked / 58 total, +21 since baseline 37, 6 new 90+ across two passes. UNESCO 3 inscribed / 0 tentative previously screened; Cassipora Creek Cemetery explicitly confirmed as Jodensavanne property component and advertised guided visit (https://whc.unesco.org/en/list/1680/ ; https://surinameglobalgroup.com/en/tours-recreatie/jodensavanne-unesco-heritage), recorded as non-additive to existing Jodensavanne scope, no new rating or boundary mapping. Current LBB administrative page lists 11 reserves, 4 MUMAs and Brownsberg (https://gov.sr/ministeries/ministerie-van-grondbeleid-en-bosbeheer/de-dienst-s-lands-bosbeheer-lbb/). Six named reserves represented (Central Suriname, Wia Wia, Coppename Mouth, Galibi, Sipaliwini, Boven Coesewijne); five missing reserves (Brinckheuvel, Copi, Wanekreek, Peruvia, Hertenrits) deferred pending ordinary permitted visitor scope. Bigi Pan MUMA represented, North Commewijne-Marowijne partly represented by Matapica, North Coronie and North Saramacca deferred pending visitor scope. Four proposed areas not treated as designated by this source. Eilerts de Haan and Tafelberg existing components of Central Suriname reserve (https://whc.unesco.org/en/list/1017/); existing unassessed retained. Wonotobo river-border landscape, no territorial inference or dangerous navigation. Kabalebo forest routes and Revelation Falls grouped; Apetina/Tebutop distinct from Palumeu, community consent. Werehpai special 2024 group trip documented (https://forest93.sr/projects/kwamalasamutu-ambassador-trip), ordinary community-approved visitor scope not established, deferred. Chinese immigration 2026 ceremony documented (https://gov.sr/onthulling-vriendschapspaviljoen-markeert-173-jaar-chinese-vestiging-in-suriname/), recurring publicly accessible visitor programme not confirmed; deferred. Divali separate from Phagwa, 61st Avondvierdaagse held April 2026, Bakkie and Warappa Creek grouped. Existing scores and six legacy unassessed preserved. OPEN for final regional screen. Coordinates approximate, permissions and current schedules unverified; full Python validation and independent global calibration pending.
+
+
+### Pass 306 — Suriname regional heritage and public cultural programmes
+
+- [x] SR — Paramaribo Chinese New Year Public Temple Fair and Cultural Celebration: 90.65/100 (source-linked provisional).
+- [x] SR — Paramaribo Suriname Jazz Festival Public Concert Programme: 89.10/100 (source-linked provisional).
+- [x] SR — Paramaribo Suriname Tourism and Food Festival Public Culinary Programme: 85.85/100 (source-linked provisional).
+- [x] SR — Para Food and Music Festival Public Regional Cultural Programme: 84.30/100 (source-linked provisional).
+- [x] SR — Santigron Saramacca River Community Guided Maroon Heritage: 86.65/100 (source-linked provisional).
+- [x] SR — Powakka Lokono Community Guided Cultural Heritage: 85.10/100 (source-linked provisional).
+- [x] SR — Coronie Totness Wooden Architecture and Coconut Craft Heritage Circuit: 85.10/100 (source-linked provisional).
+- [x] SR — Nieuw Nickerie Market and Rice Landscape Heritage Circuit: 81.70/100 (source-linked provisional).
+- [x] SR — Groningen Saramacca Historic Settlement and Boeroe Heritage Circuit: 81.10/100 (source-linked provisional).
+- [x] SR — Plantage Rust en Werk Historic Graves and Agricultural Heritage Tour: 83.00/100 (source-linked provisional).
+- [x] SR — Paramaribo Saoenah Javanese Sunday Food Market: 84.55/100 (source-linked provisional).
+- [x] SR — Domburg Riverfront Sunday Market and Javanese Culinary Heritage: 80.50/100 (source-linked provisional).
+
+12 source-linked provisional additions, 1 90+, 24 ranking-row comparisons (12 international, 12 domestic). SR 64 ranked / 70 total, +33 since baseline 37, 7 new 90+ across three passes. Prior UNESCO 3/3 inscribed represented / 0 tentative, Cassipora Creek component grouped; prior LBB inventory deferrals retained (5 reserves, 2 MUMAs and partial North Commewijne-Marowijne). Chinese New Year distinct from October immigration commemoration, latter remains deferred; 2026 public fair and reported attendance verified. Jazz 20th edition documented; 2026 tourism and food festival announced for Nov 27–29, venue sources conflict and actual occurrence not checked. Para festival separately announced. Santigron and Powakka hosted village scopes require consent, Coronie, Groningen and Nieuw Nickerie regional heritage circuits exclude protected-area duplicates, Rust en Werk distinct working plantation. Saoenah and Domburg distinct markets, no individual restaurants rated. Galibi village walk marketed within turtle tour (https://www.grietjebie.org/en/tours/galibi-als-de-schildpadden-komen), not split absent separate visitor scope. Werehpai 2024 special expedition (https://forest93.sr/projects/kwamalasamutu-ambassador-trip) still insufficient to establish routine community-approved visitor access. Stoelmanseiland and deeper Marowijne routes not exhaustively screened. PAUSED after three targeted passes to diversify discovery; not closed or exhaustive. Existing scores and six legacy unassessed preserved. Approximate coordinates, present permissions and future schedules unverified. Full Python validation, independent peer YAML checks and international calibration pending. Next proposed country French Guiana if not already screened.
+
+
+### Pass 307 — Argentina initial landscape and living heritage screen
+
+- [x] AR — Buenos Aires Tango BA Festival and World Championship: 95.50/100 (source-linked provisional).
+- [x] AR — Mendoza National Grape Harvest Festival (Vendimia): 94.00/100 (source-linked provisional).
+- [x] AR — Cosquín National Folklore Festival: 93.20/100 (source-linked provisional).
+- [x] AR — Corrientes National and Mercosur Chamamé Festival: 93.05/100 (source-linked provisional).
+- [x] AR — Gualeguaychú Carnaval del País Public Parade: 92.85/100 (source-linked provisional).
+- [x] AR — Campo de Piedra Pómez Volcanic Landscape: 92.20/100 (source-linked provisional).
+- [x] AR — Tolar Grande Cono de Arita and Salar de Arizaro Landscape Circuit: 91.10/100 (source-linked provisional).
+- [x] AR — Buenos Aires La Bombonera Football Spectator and Club Heritage Experience: 92.35/100 (source-linked provisional).
+- [x] AR — Perito Moreno National Park Andean Lakes and Mountain Trails: 88.50/100 (source-linked provisional).
+- [x] AR — El Impenetrable National Park Chaco Forest and Wildlife: 88.25/100 (source-linked provisional).
+- [x] AR — Bosques Petrificados de Jaramillo National Park: 88.00/100 (source-linked provisional).
+- [x] AR — Quebrada del Condorito National Park: 87.40/100 (source-linked provisional).
+- [x] AR — Laguna Mar Chiquita Miramar Lakeshore and Birdwatching: 88.75/100 (source-linked provisional).
+
+13 source-linked provisional additions, 8 90+, 26 ranking-row comparisons (13 international, 13 domestic). AR 77 ranked / 78 total, +13 since baseline 65. UNESCO official inventory (https://whc.unesco.org/en/statesparties/AR/) 12/12 inscribed and 8/8 tentative represented by existing entries, Workers' Assembly Halls unassessed; component and boundary verification not exhaustive. UNESCO living heritage (https://ich.unesco.org/en/state/argentina-AR?info=elements-on-the-lists) tango and chamame represented by distinct public festival scopes, no separate inscription claim; cuarteto and fileteado visitor scope pending. Vendimia, Cosquin, Gualeguaychu and La Bombonera public programmes distinct from permanent sites. Campo de Piedra Pomez geological heritage recognition reported by national tourism authority, not UNESCO; Tolar Grande group includes Cono de Arita, salt flat and other regional components. Perito Moreno national park distinct from glacier. APN lists established visitor areas for added parks; Ansenuza official visitor page says park not open to public, separately assess documented Miramar lakeshore activities and defer park-specific visitor scope. APN national protected-area inventory (https://www.ign.gob.ar/NuestrasActividades/Geografia/DatosArgentina/ParquesNacionales2) still to reconcile. Existing ratings and one unassessed preserved. OPEN for Puna landscapes, Patagonia, other parks and festivals. Coordinates approximate, current permission and schedules unverified. Full Python validation, independent peer YAML and global calibration pending.
+
+
+### Pass 308 — Argentina high Andes, glacier routes and living traditions
+
+- [x] AR — Córdoba Cuarteto Live Dance and Musical Heritage Experience: 93.90/100 (source-linked provisional).
+- [x] AR — Quebrada de Humahuaca Carnival Public Cultural Festivities: 93.20/100 (source-linked provisional).
+- [x] AR — Catamarca National and International Poncho Festival: 92.55/100 (source-linked provisional).
+- [x] AR — Salta Señor y Virgen del Milagro Public Pilgrimage and Procession: 91.80/100 (source-linked provisional).
+- [x] AR — Lago Argentino Upsala and Spegazzini Glacier Navigation Circuit: 92.80/100 (source-linked provisional).
+- [x] AR — Antofagasta de la Sierra Galán Caldera and High Andean Lagoons Circuit: 91.45/100 (source-linked provisional).
+- [x] AR — Fiambalá Balcón del Pissis and Laguna Verde High Andes Circuit: 90.35/100 (source-linked provisional).
+- [x] AR — Bañado La Estrella Wetland and Guided Canoe Wildlife Experience: 90.60/100 (source-linked provisional).
+- [x] AR — Laguna Brava Provincial Reserve Guided High Andes Landscape: 88.70/100 (source-linked provisional).
+- [x] AR — Calilegua National Park Yungas Forest and Birdwatching: 88.75/100 (source-linked provisional).
+- [x] AR — Baritú National Park Yungas Forest and Authorized Trails: 88.25/100 (source-linked provisional).
+- [x] AR — El Rey National Park Yungas and Chaco Forest Trails: 86.20/100 (source-linked provisional).
+- [x] AR — Buenos Aires Fileteado Porteño Decorative Art Heritage Circuit: 89.35/100 (source-linked provisional).
+
+13 source-linked provisional additions, 8 90+, 26 ranking-row comparisons (13 international, 13 domestic). AR 90 ranked / 91 total, +26 since baseline 65, 16 new 90+ across two passes. Prior UNESCO 12 inscribed and 8 tentative represented; no new component mapping. Cuarteto UNESCO 2025 tradition, public dances and museum grouped; Fileteado dedicated art circuit distinct from generic street visit; Humahuaca public carnival distinct seasonal scope, not separate town celebrations. Poncho 55th edition confirmed, visitor count reported as visits not unique people. Salta public procession. Upsala/Spegazzini north-arm cruise grouped, non-additive to Los Glaciares parent and distinct from Moreno shore circuits. Catamarca Galan and Fiambala Pissis regional routes separate from Campo de Piedra Pomez and Tolar Grande; no separate individual lagoon ratings. Banado La Estrella distinct from Ibera. Calilegua, Baritu and El Rey official visitor trails, APN northwest list screened (https://www.argentina.gob.ar/parquesnacionales/region-noroeste), Copo, El Nogalar and other areas still pending; no claim of exhaustive national reconciliation. Laguna Brava authorized guides only. Prior Ansenuza closure scope retained. Existing scores and one unassessed retained. OPEN for further Patagonia, northwest and regional heritage. Approximate coordinates, current access, permissions and schedules unverified. Full Python validation, independent peer YAML and international calibration pending.
+
+
+### Pass 309 — Argentina Patagonian coasts and major public cultural events
+
+- [x] AR — Buenos Aires River Plate Monumental Stadium Football and Club Heritage: 92.40/100 (source-linked provisional).
+- [x] AR — Rosario National Festival of Colectividades Public Cultural and Culinary Programme: 92.00/100 (source-linked provisional).
+- [x] AR — La Rioja National Chaya Festival Public Music and Cultural Programme: 91.90/100 (source-linked provisional).
+- [x] AR — Jesús María National Folklore Festival Concert and Cultural Programme: 91.25/100 (source-linked provisional).
+- [x] AR — Isla Pingüino Marine Park Guided Wildlife Excursion: 90.65/100 (source-linked provisional).
+- [x] AR — Makenke Marine Park Coastal Wildlife Circuit: 86.50/100 (source-linked provisional).
+- [x] AR — Patagonia Austral Marine Coastal Park and Cabo Dos Bahías: 87.15/100 (source-linked provisional).
+- [x] AR — Lago Puelo National Park Lakes and Valdivian Forest: 87.00/100 (source-linked provisional).
+- [x] AR — Laguna Blanca National Park Neuquén Volcanic Wetlands: 82.90/100 (source-linked provisional).
+- [x] AR — Lihué Calel National Park Rock Art and Volcanic Hills: 84.40/100 (source-linked provisional).
+- [x] AR — Caviahue Copahue Volcano and Salto del Agrio Circuit: 87.95/100 (source-linked provisional).
+- [x] AR — Cañón del Atuel Valle Grande and El Nihuil Landscape Circuit: 86.75/100 (source-linked provisional).
+- [x] AR — Puerto San Julián Nao Victoria Maritime Heritage and Historic Waterfront: 84.55/100 (source-linked provisional).
+
+13 source-linked provisional additions, 5 90+, 26 ranking-row comparisons (13 international, 13 domestic). AR 103 ranked / 104 total, +39 since baseline 65, 21 new 90+ across three passes. Prior UNESCO 12 inscribed and 8 tentative represented, component mapping incomplete. Monumental distinct from Bombonera, same match non-additive. Rosario 42nd edition and >50 communities documented; La Chaya recurring regional event, Jesús María concert scope only excludes equestrian contests; no assumption of separately sold admission. Three interjurisdictional marine parks listed by government now represented (https://www.argentina.gob.ar/ambiente/contenidos/areas-protegidas), Isla Pingüino authorized excursion, Makenke mainland routes, Cabo Dos Bahías gateway grouped with Patagonia Austral. Lago Puelo, Laguna Blanca Neuquén, Lihué Calel added; regional APN inventory screened (https://www.argentina.gob.ar/parquesnacionales/regionpatagonia ; https://www.argentina.gob.ar/parquesnacionales/patagonia-austral), Islote Lobos and Isla de los Estados still need visitor-scope verification, no open-sea reserve access presumed. Caviahue and Atuel grouped regional landscapes, Nao Victoria separate from Makenke. Existing scores and one unassessed preserved. OPEN for remaining northeast parks, urban heritage and regional cultural events. Approximate coordinates, current permissions, conditions and future schedules unverified. Full Python validation, independent peer YAML and international calibration pending.
+
+
+### Pass 310 — Argentina northeast parks, architecture and regional heritage
+
+- [x] AR — Luján Basilica and Annual Public Youth Pilgrimage: 93.15/100 (source-linked provisional).
+- [x] AR — Oberá National Immigrant Festival and Parque de las Naciones Heritage Programme: 92.45/100 (source-linked provisional).
+- [x] AR — San Antonio de Areco National Tradition Festival and Gaucho Heritage: 92.00/100 (source-linked provisional).
+- [x] AR — Saltos del Moconá and Yabotí Guided Forest and River Circuit: 91.15/100 (source-linked provisional).
+- [x] AR — Buenos Aires Feria de Mataderos and Criollo Heritage Museum: 90.90/100 (source-linked provisional).
+- [x] AR — Río Pilcomayo National Park Chaco Wetlands and Palm Savanna: 87.45/100 (source-linked provisional).
+- [x] AR — Mburucuyá National Park Wetlands and Estancia Heritage: 86.15/100 (source-linked provisional).
+- [x] AR — Chaco National Park Quebracho Forest and Wetland Trails: 84.65/100 (source-linked provisional).
+- [x] AR — Pre-Delta National Park Paraná Floodplain Trails: 84.05/100 (source-linked provisional).
+- [x] AR — Buenos Aires Palace of the National Congress and Congress Square: 85.00/100 (desk-based provisional).
+- [x] AR — Buenos Aires Palacio Libertad Former Central Post Office Cultural Centre: 85.70/100 (desk-based provisional).
+- [x] AR — Buenos Aires Palacio de las Aguas Corrientes Architectural and Waterworks Heritage: 84.80/100 (desk-based provisional).
+- [x] AR — Rosario National Flag Memorial and Historic Waterfront: 86.35/100 (desk-based provisional).
+
+13 additions, 9 source-linked provisional and 4 desk-based provisional, 5 90+, 26 ranking-row comparisons (13 international, 13 domestic). AR 116 ranked / 117 total, +52 since baseline 65, 26 new 90+ across four passes. Prior UNESCO 12 inscribed and 8 tentative represented; component mapping incomplete. Lujan basilica and pilgrimage grouped, Obera distinct from Rosario festival, Areco public heritage excludes animal competitions, Mataderos fair and museum grouped. Mocona provincial park and Yaboti visitor circuit grouped, no unrestricted reserve access; border river water levels affect falls. APN northeast list (https://www.argentina.gob.ar/parquesnacionales/nea) and national overview (https://www.argentina.gob.ar/ambiente/contenidos/areas-protegidas) identify six named national parks in Northeast: Chaco, El Impenetrable, Iguazu, Ibera, Mburucuya, Rio Pilcomayo now represented; educational and strict reserves not counted as parks. Pre-Delta added in central region; remaining central and northwest parks pending. Four sub-90 urban landmarks desk-based, interior access and exact coordinates pending. Existing scores and one unassessed preserved. OPEN for remaining protected areas, regional landscapes and cultural heritage. Current permissions and schedules unverified; full Python validation and international calibration pending.
+
+
+### Pass 311 — Argentina astronomy, mountain routes and central parks
+
+- [x] AR — El Leoncito National Park and Astronomical Observatories: 92.45/100 (source-linked provisional).
+- [x] AR — Campo del Cielo Pigüen N’Onaxá Meteorite Park and Interpretation Centre: 91.45/100 (source-linked provisional).
+- [x] AR — Santa María de Punilla Cosquín Rock Music Festival: 91.55/100 (source-linked provisional).
+- [x] AR — San Juan National Sun Festival Public Cultural and Music Programme: 90.90/100 (source-linked provisional).
+- [x] AR — Cerro Tronador Pampa Linda and Ventisquero Negro Glacier Circuit: 90.55/100 (source-linked provisional).
+- [x] AR — Volcán Lanín Authorized Mountain and Base Trail Experience: 90.10/100 (source-linked provisional).
+- [x] AR — La Trochita Old Patagonian Express Heritage Railway: 89.35/100 (source-linked provisional).
+- [x] AR — San Guillermo National Park Guided High Andes Wildlife Landscape: 88.40/100 (source-linked provisional).
+- [x] AR — Aconquija National Park Yungas and Mountain Trail Landscape: 87.75/100 (source-linked provisional).
+- [x] AR — Copo National Park Dry Chaco Forest and Wildlife Trails: 85.00/100 (source-linked provisional).
+- [x] AR — Traslasierra National Park Dry Chaco and Estancia Pinas Heritage: 84.55/100 (source-linked provisional).
+- [x] AR — Islas de Santa Fe National Park Paraná Island and Wetland Routes: 84.20/100 (source-linked provisional).
+- [x] AR — Ciervo de los Pantanos National Park Wetland and Pampas Trails: 84.55/100 (source-linked provisional).
+
+13 source-linked provisional additions, 6 90+, 26 ranking-row comparisons (13 international, 13 domestic). AR 129 ranked / 130 total, +65 since baseline 65, 32 new 90+ across five passes. Prior UNESCO 12 inscribed and 8 tentative represented; component mapping incomplete. El Leoncito observatories and park grouped, Campo del Cielo distinct scientific heritage; Cosquin Rock distinct from folklore festival, San Juan Sun Festival official dates conflict and actual occurrence unverified. Tronador and Lanin mountain experiences distinct but non-additive to existing national park parents. La Trochita tourist services grouped, full historic line not assumed operational. Historical central inventory of 11 named national parks (https://www.argentina.gob.ar/ambiente/contenidos/areas-protegidas): 10 represented, Campos del Tuyu deferred because APN visitor page lists nearby attractions rather than clear current in-park itinerary (https://www.argentina.gob.ar/parquesnacionales/centro/parque-nacional-campos-del-tuyu/actividades). Current administrative inventory may differ; no claim of exhaustive nationwide reconciliation. San Guillermo guide-coordinated routes, Aconquija includes former Campo de Los Alisos, Copo and Traslasierra separate, Islas de Santa Fe distinct from Pre-Delta, Ciervo de los Pantanos grouped with Otamendi heritage. Prior Ansenuza, Islote Lobos and Isla de los Estados deferrals retained. Existing scores and one unassessed preserved. OPEN for remaining Argentine regional sights and reserve inventory. Current permissions, schedules, coordinates and international calibration unverified; full Python validation pending.
+
+
+### Pass 312 — Argentina literary, archaeological and coastal heritage
+
+- [x] AR — Buenos Aires International Book Fair Public Literary and Cultural Programme: 91.95/100 (source-linked provisional).
+- [x] AR — Salta Museo de Arqueología de Alta Montaña: 91.20/100 (source-linked provisional).
+- [x] AR — El Doradillo Protected Area Shore-based Southern Right Whale Watching: 91.25/100 (source-linked provisional).
+- [x] AR — Villa General Belgrano National Oktoberfest Public Music and Culinary Festival: 90.80/100 (source-linked provisional).
+- [x] AR — Chubut Welsh Heritage and Eisteddfod Public Cultural Circuit: 91.15/100 (source-linked provisional).
+- [x] AR — Piedra Parada and Cañadón de la Buitrera Protected Geological Landscape: 89.70/100 (source-linked provisional).
+- [x] AR — Islote Lobos National Park Arroyo Salado Coastal Wildlife Experience: 86.50/100 (source-linked provisional).
+- [x] AR — Tafí del Valle and Los Menhires Archaeological Heritage Circuit: 86.75/100 (source-linked provisional).
+- [x] AR — Salta Historic Centre Cathedral Cabildo and Colonial Heritage Circuit: 86.30/100 (source-linked provisional).
+- [x] AR — Sierra de la Ventana and Ventania Mountain Landscape: 84.45/100 (source-linked provisional).
+- [x] AR — Ría Deseado Protected Estuary and Guided Coastal Wildlife Circuit: 86.85/100 (desk-based provisional).
+- [x] AR — Laguna del Diamante Provincial Reserve and Maipo Volcano Landscape: 87.20/100 (desk-based provisional).
+
+12 additions, 10 source-linked provisional and 2 desk-based provisional, 5 90+, 24 ranking-row comparisons (12 international, 12 domestic). AR 141 ranked / 142 total, +77 since baseline 65, 37 new 90+ across six passes. Prior UNESCO 12 inscribed and 8 tentative represented; component mapping incomplete. Book Fair 50th edition documented, visits not unique persons; MAAM archaeological interpretation assessed respectfully, no specific ancestral remains display guaranteed. El Doradillo distinct protected mainland shore viewing, non-additive to shared Peninsula Valdes wildlife values. Villa General Belgrano public cultural festival only, no alcohol consumption requirement. Welsh heritage and Eisteddfod regional programmes grouped; dispersed locations not a single-site itinerary. Piedra Parada and Buitrera canyon grouped. Islote Lobos prior deferral resolved for APN public Arroyo Salado self-guided trail and authorized marine excursion, no colony landing. Tafí and Menhires grouped; Salta ordinary centre excludes MAAM and seasonal procession. Quebrada de las Flechas documented as existing Valle Calchaqui component (https://www.argentina.gob.ar/jefatura/turismo/viaja-por-argentina/transitar-por-la-quebrada-de-las-flechas), not split in this pass. Isla de los Estados official protected-area page (https://www.argentina.gob.ar/parquesnacionales/patagonia-austral/reserva-natural-silvestre-isla-de-los-estados) still does not establish ordinary authorized tourism scope, deferred along with Campos del Tuyu and Ansenuza. Existing ratings and one unassessed preserved. OPEN for further Argentina landscape and cultural discovery. Coordinates approximate, permissions, conditions and future schedules unverified. Full Python validation, peer YAML checks and international calibration pending.
+
+
+### Pass 313 — Argentina film festivals, Puna wetlands and winter landscapes
+
+- [x] AR — Mar del Plata International Film Festival Public Screening Programme: 92.75/100 (source-linked provisional).
+- [x] AR — Buenos Aires International Independent Film Festival (BAFICI): 91.25/100 (source-linked provisional).
+- [x] AR — La Quiaca Manka Fiesta Ancestral Pottery and Exchange Fair: 91.25/100 (source-linked provisional).
+- [x] AR — Laguna de los Pozuelos Natural Monument High-Andean Flamingo Wetland: 90.10/100 (source-linked provisional).
+- [x] AR — Batea Mahuida Puel Community Snow Park and Araucaria Landscape: 90.55/100 (source-linked provisional).
+- [x] AR — Las Leñas Andean Ski and Mountain Resort Experience: 87.25/100 (source-linked provisional).
+- [x] AR — Cerro Castor Fuegian Ski and Mountain Experience: 87.25/100 (source-linked provisional).
+- [x] AR — Cerro Chapelco Patagonian Ski and Mountain Experience: 86.00/100 (source-linked provisional).
+- [x] AR — Iruya Historic Mountain Settlement and Guided Valley Walks: 87.75/100 (source-linked provisional).
+- [x] AR — Caverna de las Brujas Natural Reserve Guided Limestone Cave: 87.00/100 (source-linked provisional).
+- [x] AR — Salto Encantado Provincial Park Waterfall and Forest Trails: 85.20/100 (source-linked provisional).
+- [x] AR — Bariloche National Snow Festival Public Cultural Programme: 86.85/100 (source-linked provisional).
+
+12 source-linked provisional additions, 5 90+, 24 ranking-row comparisons (12 international, 12 domestic). AR 153 ranked / 154 total, +89 since baseline 65, 42 new 90+ across seven passes. Prior UNESCO 12 inscribed and 8 tentative represented; component mapping incomplete. Mar del Plata 41st edition confirmed and BAFICI 27th edition distinct public cinema programmes. Manka Fiesta ancestral producer/ceramics heritage, 2026 edition confirmed. Laguna de los Pozuelos official monument visitor trails distinct from prior lagoons. Batea Mahuida community-managed snow park, no unrestricted cultural access; Las Lenas, Castor and Chapelco distinct designated ski resorts, shared regional scenery non-additive. Iruya distinct historic settlement, Caverna guide-required and Salto Encantado distinct park. Bariloche snow festival separate public seasonal programme. El Shincal documented visitor site (https://www.argentina.travel/actividades/qhapaq-nan-el-shincal) deferred pending Qhapaq Nan component and existing scope reconciliation. Existing ratings and one unassessed preserved; prior Campos del Tuyu, Ansenuza and Isla de los Estados deferrals retained. OPEN for remaining archaeological, provincial and cultural sites; non-exhaustive. Coordinates approximate, current permissions, conditions and future schedules unverified. Full Python validation, independent peer YAML and same-type international calibration pending.
+
+### Pass 314 — Argentina sporting, museum, cultural and provincial heritage
+
+- [x] AR — Buenos Aires Argentine Open Polo Championship Public Spectator Experience: 92.75/100 (source-linked provisional).
+- [x] AR — Amaicha del Valle National Pachamama Festival Public Cultural Programme: 92.25/100 (source-linked provisional).
+- [x] AR — Museo de La Plata Natural History and Paleontology Exhibitions: 90.55/100 (source-linked provisional).
+- [x] AR — Buenos Aires arteba Contemporary Art Fair Public Exhibition Programme: 90.40/100 (source-linked provisional).
+- [x] AR — Villa Epecuén Flooded Resort Ruins and Salt Lake Heritage: 87.40/100 (desk-based provisional).
+- [x] AR — Cabo Vírgenes Coastal Penguin Reserve and Lighthouse Landscape: 86.75/100 (desk-based provisional).
+- [x] AR — Sarmiento Petrified Forest Provincial Natural Monument: 86.35/100 (desk-based provisional).
+- [x] AR — Teyú Cuaré Provincial Park Paraná River Sandstone and Forest Trails: 86.25/100 (desk-based provisional).
+- [x] AR — Urugua-í Provincial Park Atlantic Forest Visitor Landscape: 85.25/100 (desk-based provisional).
+- [x] AR — La Cumbrecita Pedestrian Mountain Village and Forest Walks: 84.60/100 (desk-based provisional).
+- [x] AR — Yavi San Francisco de Asís Church and Historic Settlement: 84.40/100 (desk-based provisional).
+- [x] AR — Buenos Aires Museo Evita Biographical and Political History Exhibitions: 84.65/100 (desk-based provisional).
+
+12 provisional additions (4 source-linked, 8 desk-based), 4 90+, 24 ranking-row comparisons (12 international, 12 domestic). AR 165 ranked / 166 total, +101 since baseline 65, 46 new 90+ across eight passes. Prior UNESCO 12 inscribed and 8 tentative represented; component mapping incomplete. Public Palermo polo, Amaicha Pachamama festival and arteba scoped separately from permanent attractions; Museo de La Plata public exhibitions distinct from Egidio Feruglio. Regional ruins, fossil forest, coastal wildlife, forest parks, historic settlement and Museo Evita are provisional. Existing ratings and one unassessed preserved; prior El Shincal, Campos del Tuyu, Ansenuza and Isla de los Estados deferrals retained. Argentina OPEN. Coordinates approximate; current permissions, conditions and future schedules unverified. Full Python validation, independent peer YAML checks and same-type international calibration pending.
+
+### Pass 315 — Argentina performing arts, archaeological and regional heritage
+
+- [x] AR — Festival Internacional de Buenos Aires (FIBA) Performing Arts Public Programme: 91.80/100 (source-linked provisional).
+- [x] AR — Santiago del Estero National Chacarera Festival Public Music and Dance Programme: 92.05/100 (source-linked provisional).
+- [x] AR — Córdoba International Crafts Fair Public Artisan and Cultural Programme: 90.75/100 (source-linked provisional).
+- [x] AR — Cerro Colorado Cultural and Natural Reserve Guided Rock-Art Heritage: 90.95/100 (source-linked provisional).
+- [x] AR — El Chiflón Provincial Park Guided Geological and Archaeological Routes: 87.15/100 (source-linked provisional).
+- [x] AR — General Roca National Apple Festival Public Cultural Programme: 87.20/100 (desk-based provisional).
+- [x] AR — Mar Chiquita Coastal Lagoon Biosphere Reserve Visitor Landscape: 86.75/100 (desk-based provisional).
+- [x] AR — Villa El Chocón Ernesto Bachmann Paleontological Museum and Dinosaur Heritage: 87.05/100 (desk-based provisional).
+- [x] AR — Las Grutas Coastal Cliffs and Beach Experience: 84.90/100 (desk-based provisional).
+- [x] AR — Termas de Río Hondo Thermal Bathing Experience: 84.75/100 (desk-based provisional).
+- [x] AR — Potrero de Yala Provincial Park Yungas Lakes and Forest Trails: 85.05/100 (desk-based provisional).
+- [x] AR — Punta Rasa Coastal Wetland and Migratory Birdwatching: 85.15/100 (desk-based provisional).
+
+12 provisional additions (5 source-linked, 7 desk-based), 4 90+, 24 ranking-row comparisons (12 international, 12 domestic). AR 177 ranked / 178 total, +113 since baseline 65, 50 new 90+ across nine passes. Prior UNESCO 12 inscribed and 8 tentative represented; component mapping incomplete. FIBA, Chacarera, Córdoba crafts fair and Cerro Colorado researched; El Chiflón independently source-linked. Coastal Mar Chiquita (Buenos Aires) distinct from inland Córdoba lagoon. La Salamanca deferred because of repeated cancelled editions, not penalized on access; https://sursantiago.com.ar/noticias/2026/01/07/la-municipalidad-de-la-banda-confirmo-que-no-se-realizara-el-festival-de-la-salamanca-en-2026 . El Shincal deferred for Qhapaq Ñan component scope (https://whc.unesco.org/en/list/1459/maps/). Existing scores and one unassessed preserved; prior Campos del Tuyu, Ansenuza and Isla de los Estados deferrals retained. Argentina OPEN. Coordinates approximate; current permissions, conditions and future schedules unverified. Full Python validation, independent peer YAML checks and same-type international calibration pending.
+
+### Pass 316 — Argentina rafting, dance and regional heritage
+
+- [x] AR — Laborde National Malambo Festival Public Dance Competition: 92.50/100 (source-linked provisional).
+- [x] AR — Aluminé River Guided Whitewater Rafting Experience: 90.70/100 (source-linked provisional).
+- [x] AR — Potrerillos Mendoza River Guided Whitewater Rafting: 86.60/100 (source-linked provisional).
+- [x] AR — Juramento River Guided Rafting and Canyon Landscape: 86.60/100 (source-linked provisional).
+- [x] AR — Cacheuta Thermal Bathing and Andean Mountain Landscape: 85.80/100 (source-linked provisional).
+- [x] AR — Termas de Reyes Mountain Thermal Bathing Experience: 84.65/100 (source-linked provisional).
+- [x] AR — Buenos Aires Festival de Jazz Argentino (FEJA) Public Concert Programme: 87.75/100 (source-linked provisional).
+- [x] AR — Cordón del Plata Provincial Park Mountain Trekking Landscape: 87.70/100 (desk-based provisional).
+- [x] AR — Mendoza General San Martín Park and Monumental Landscape: 83.95/100 (desk-based provisional).
+- [x] AR — Buenos Aires National Historical Museum Public Exhibitions: 84.95/100 (desk-based provisional).
+- [x] AR — Buenos Aires Parque de la Memoria Memorial and Public Art Landscape: 85.50/100 (desk-based provisional).
+- [x] AR — Chascomús Lagoon Lakeshore and Public Recreation: 81.30/100 (desk-based provisional).
+
+12 provisional additions (7 source-linked, 5 desk-based), 2 90+, 24 ranking-row comparisons (12 international, 12 domestic). AR 189 ranked / 190 total, +125 since baseline 65, 52 new 90+ across ten passes. Prior UNESCO 12 inscribed and 8 tentative represented; component mapping incomplete. Laborde Malambo and Aluminé rafting researched; 2018/2025 championships establish sporting heritage, not automatic visitor difficulty. Potrerillos, Juramento, Cacheuta, Reyes and FEJA source-linked. FEJA distinct from international jazz festival; no future schedule inferred. Tastil deferred because it belongs to Qhapaq Ñan (https://culturasalta.gov.ar/organismos_cultura/museo-de-sitio-de-santa-rosa-de-tastil/); rotating national theatre festival deferred pending location convention. Prior El Shincal, La Salamanca, Campos del Tuyu, Ansenuza and Isla de los Estados deferrals retained. Existing scores and one unassessed preserved. Argentina OPEN. Coordinates approximate; current permissions, conditions and future schedules unverified. Full Python validation, independent peer YAML checks and same-type international calibration pending.
+
+### Pass 317 — Argentina final bounded discovery sweep
+
+- [x] AR — San Isidro Lollapalooza Argentina Public Music Festival: 91.45/100 (source-linked provisional).
+- [x] AR — Puerto Madryn Guided Sea Lion Snorkeling at Punta Loma: 91.55/100 (source-linked provisional).
+- [x] AR — Ushuaia End of the World Steam Heritage Railway: 87.95/100 (source-linked provisional).
+- [x] AR — Ushuaia Maritime and Former Prison Museum Complex: 87.85/100 (source-linked provisional).
+- [x] AR — El Nogalar de Los Toldos National Reserve Yungas Forest Trails: 85.60/100 (source-linked provisional).
+- [x] AR — Pizarro National Reserve Chaco and Yungas Birdwatching Trails: 84.45/100 (source-linked provisional).
+- [x] AR — Formosa Natural Reserve Dry Chaco Forest and Birdwatching Trails: 84.25/100 (source-linked provisional).
+- [x] AR — Buenos Aires International Jazz Festival Public Concert Programme: 88.80/100 (source-linked provisional).
+- [x] AR — Buenos Aires Costanera Sur Ecological Reserve Wetland Trails: 84.15/100 (desk-based provisional).
+- [x] AR — Buenos Aires Japanese Garden and Cultural Landscape: 83.45/100 (desk-based provisional).
+- [x] AR — La Plata Cathedral Gothic Revival Architectural Heritage: 85.35/100 (desk-based provisional).
+- [x] AR — Mar del Plata Fishing Port and Sea Lion Coastal Heritage: 82.85/100 (desk-based provisional).
+
+12 provisional additions (8 source-linked, 4 desk-based), 2 90+, 24 ranking-row comparisons (12 international, 12 domestic). AR 201 ranked / 202 total, +137 since baseline 65, 54 new 90+ across eleven passes. Prior UNESCO 12 inscribed and 8 tentative represented; component mapping incomplete. Lollapalooza and sea-lion snorkeling researched, distinct from existing music and land-based wildlife entries. El Nogalar, Pizarro and Formosa reserve visitor trails verified against national park authority; Ansenuza official tourism activities still in planning and Miramar shoreline already represented. End of the World railway distinct transport experience; prison and maritime museums grouped. International jazz historical programme distinct from FEJA, no future edition claimed. Prior El Shincal, Tastil, La Salamanca, rotating theatre festival, Campos del Tuyu, Ansenuza and Isla de los Estados deferrals retained. Bounded priority queue closed after eleven passes; reopen for concrete significant omission, not exhaustive. Existing scores and one unassessed preserved. Coordinates approximate; permissions, conditions and future schedules unverified. Full Python validation, independent peer YAML checks and same-type international calibration pending.
+
+### Pass 318 — Chile initial priority screen
+
+- [x] CL — Tapati Rapa Nui Public Cultural Festival: 93.40/100 (source-linked provisional).
+- [x] CL — La Tirana Religious Pilgrimage and Public Dance Festival: 92.60/100 (source-linked provisional).
+- [x] CL — Futaleufú River Guided Whitewater Rafting: 91.65/100 (source-linked provisional).
+- [x] CL — Dientes de Navarino Multi-day Trek: 90.95/100 (source-linked provisional).
+- [x] CL — Arica Carnaval Andino con la Fuerza del Sol: 92.00/100 (source-linked provisional).
+- [x] CL — Viña del Mar International Song Festival: 91.20/100 (source-linked provisional).
+- [x] CL — Niebla Fort and Valdivia Defensive Heritage Museum: 86.80/100 (source-linked provisional).
+
+7 source-linked provisional additions, 6 90+, 14 ranking-row comparisons (5 international, 9 domestic). CL 73 ranked / 74 total, +7 since baseline 67. All seven inscribed UNESCO properties already represented at property level (https://whc.unesco.org/en/statesparties/CL); 19 tentative properties require detailed mapping. Niebla covers only part of the tentative Valdivia defensive complex. Tapati and Arica historical 2026 editions documented, La Tirana festival distinct from UNESCO-listed baile chino practice; no future dates assumed. Futaleufu guided rafting and Dientes trek separate from park records. Carretera Austral deferred pending route versus existing site overlap. Existing scores and one unassessed preserved. Chile OPEN; coordinates approximate, full Python validation, independent peer YAML checks, current conditions and international calibration pending.
+
+### Pass 319 — Chile wildlife, wilderness and heritage
+
+- [x] CL — Estancia Laguna Amarga Guided Puma Watching: 92.35/100 (source-linked provisional).
+- [x] CL — Francisco Coloane Marine Park Guided Whale Watching: 91.50/100 (source-linked provisional).
+- [x] CL — Bahía Inútil King Penguin Nature Reserve Guided Viewing: 91.05/100 (source-linked provisional).
+- [x] CL — Ojos del Salado Volcano Chilean Mountaineering Route: 92.00/100 (source-linked provisional).
+- [x] CL — Alberto de Agostini National Park Maritime Glacier Landscapes: 90.80/100 (source-linked provisional).
+- [x] CL — Pali Aike National Park Volcanic Trails and Archaeological Cave: 88.30/100 (source-linked provisional).
+- [x] CL — Alerce Andino National Park Ancient Forest Trails: 88.70/100 (source-linked provisional).
+- [x] CL — Lota Chiflón del Diablo Mining Heritage Tour: 89.25/100 (source-linked provisional).
+- [x] CL — Iquique Baquedano Historic Street Architectural Heritage: 85.80/100 (source-linked provisional).
+- [x] CL — Iquique Cerro Dragón Dune Sandboarding and Paragliding: 87.75/100 (source-linked provisional).
+
+10 source-linked provisional additions, 5 90+, 20 ranking-row comparisons (4 international, 16 domestic). CL 83 ranked / 84 total, +17 since baseline 67. All 7 inscribed properties represented at property scope; 19 tentative properties listed by UNESCO (https://whc.unesco.org/en/statesparties/CL). Direct existing or new entries: Juan Fernandez, Torres del Paine/Bernardo O'Higgins, Baquedano, La Moneda, Pintados; Monte Verde legacy unassessed. Partial: San Pedro landscape, Valdivia complex (Niebla), Fell/Pali Aike caves (Pali Aike), Lota (Chiflon mine), Pisco landscape (Elqui Valley). Eight other tentative properties need mapping; boundaries not independently checked. ALMA official public programme suspended (https://www.almaobservatory.org/en/visits/), October special visits not routine; deferred despite tourism listing. Pumas restricted to private estancia outside national park; king penguins guided only, no guaranteed sightings. Ojos del Salado Chilean expedition scope; binational legacy mapping pending. Pali Aike trails and cave grouped, Lota mine one of four tentative serial components. Elqui distilleries not separately added pending parent food scope; Carretera Austral remains deferred. Existing scores and one unassessed preserved. Chile OPEN; coordinates approximate, full Python validation, independent peer YAML checks, current conditions and global calibration pending.
+
+### Pass 320 — Chile tentative heritage and regional festivals
+
+- [x] CL — Cochamó Valley Granite Walls and La Junta Trekking: 91.25/100 (source-linked provisional).
+- [x] CL — Altiplano Mission Churches and Aymara Architectural Route: 90.80/100 (source-linked provisional).
+- [x] CL — Castro Festival Costumbrista Chilote Public Folk Celebration: 90.80/100 (source-linked provisional).
+- [x] CL — Santa Cruz Colchagua Grape Harvest Festival: 88.85/100 (source-linked provisional).
+- [x] CL — Santiago Parque O'Higgins Fiestas Patrias Public Fondas: 90.20/100 (source-linked provisional).
+- [x] CL — Colina Cuasimodo Religious Procession: 88.65/100 (source-linked provisional).
+- [x] CL — Santiago San Francisco Church and Colonial Art Museum: 87.35/100 (source-linked provisional).
+- [x] CL — Temuco Pablo Neruda Railway Museum and Locomotive Depot: 86.35/100 (source-linked provisional).
+- [x] CL — El Huique Hacienda San José del Carmen Museum: 84.90/100 (source-linked provisional).
+- [x] CL — Malleco Viaduct Public Viewpoint and Railway Heritage: 85.05/100 (source-linked provisional).
+- [x] CL — Villa Cerro Castillo Paredón de las Manos Rock Art: 87.35/100 (source-linked provisional).
+- [x] CL — Caleta Tortel Cypress Boardwalk Village: 88.25/100 (source-linked provisional).
+
+12 source-linked provisional additions, 4 90+, 24 ranking-row comparisons (2 international, 22 domestic). CL 95 ranked / 96 total, +29 since baseline 67, 15 new 90+ across three passes. UNESCO 19 tentative properties checked against named inventory (https://whc.unesco.org/en/tentativelists/action=listtentative&order=states&state=cl): 9 direct, 7 partial, 1 legacy unassessed (Monte Verde), 2 deferred (Ayquina/Toconce and Cerro el Plomo shrine pending independent visitor scope). Four new direct (San Francisco, Temuco depot, Huique and Malleco); two partial (Altiplano churches and Patagonian rock art), exact components not independently mapped. All seven inscribed represented per previous inventory. Castro cultural fair distinct from church architecture; Cuasimodo excludes private rites, Santiago Fiestas Patrias scoped to Parque O'Higgins; Colchagua harvest distinct from ordinary wineries. Cochamo scoped to valley hiking; technical climbing not assumed. Caleta Tortel distinct pedestrian settlement. Earlier ALMA and Carretera Austral deferrals retained. Chile OPEN; existing scores and one unassessed preserved. Coordinates approximate; full Python validation, independent peer YAML checks, current permissions, conditions, future schedules and global calibration pending.

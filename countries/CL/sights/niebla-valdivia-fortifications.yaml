@@ -1,0 +1,16 @@
+id: sight-cl-niebla-valdivia-fortifications
+name: "Niebla Fort and Valdivia Defensive Heritage Museum"
+location:
+  country_code: CL
+  latitude: -39.875
+  longitude: -73.396
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.5
+  depth: 8.5
+  categories:
+    history: 9.3
+    architecture: 9.1
+    photography: 9.0
