@@ -1,0 +1,16 @@
+id: sight-mx-las-coloradas-salt-ponds
+name: "Las Coloradas Pink Salt Ponds"
+location:
+  country_code: MX
+  latitude: 21.606
+  longitude: -87.989
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 7.7
+  experience: 8.2
+  depth: 7.6
+  categories:
+    photography: 9.3
+    nature: 8.4
+    culture: 8.0

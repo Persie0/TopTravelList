@@ -1,0 +1,17 @@
+id: sight-mx-isla-contoy-national-park
+name: "Isla Contoy National Park"
+location:
+  country_code: MX
+  latitude: 21.49
+  longitude: -86.79
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.7
+  depth: 8.2
+  categories:
+    wildlife: 9.3
+    nature: 9.2
+    beaches: 9.0
+    photography: 9.0

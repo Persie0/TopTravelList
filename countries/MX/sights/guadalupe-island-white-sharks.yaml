@@ -1,0 +1,17 @@
+id: sight-mx-guadalupe-island-white-sharks
+name: "Guadalupe Island White Shark Aggregation"
+location:
+  country_code: MX
+  latitude: 29.0528
+  longitude: -118.3041
+scores:
+  impact: 9.6
+  uniqueness: 9.6
+  significance: 9.6
+  experience: 8.8
+  depth: 8.3
+  categories:
+    wildlife: 9.8
+    nature: 9.6
+    photography: 9.6
+    adventure: 9.3

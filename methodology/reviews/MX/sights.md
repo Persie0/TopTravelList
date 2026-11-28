@@ -5754,3 +5754,203 @@ Peer values from country ranking tables or same-batch assessments; complete sour
 - High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
 - Earlier decision: none.
 - Remaining verification: independent source triangulation, access and coordinate scope, numerical peers and global Python checks.
+
+## sight-mx-guadalupe-island-white-sharks — Guadalupe Island White Shark Aggregation — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/guadalupe-island-white-sharks.yaml)
+- Action: new
+- Precise subject: Seasonal white shark aggregation and former specialist cage observation experience; cage diving prohibited since 2022, confirmed by 2023 management changes. No current tourism or access implied. Scientific study representative island point.
+- Location check: 29.0528, -118.3041; approximate representative point; except Guadalupe, coordinates are editorial estimates not independently checked against maps.
+- Evidence status: source-linked-unverified; indexed source excerpts consulted, full independent verification incomplete; editorial ratings.
+- Sources consulted 2026-11-28 (search excerpts): https://sharkrayareas.org/portfolio-item/guadalupe-island-isra/; https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2023.1210969/full; https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.8178; https://www.gob.mx/semarnat/prensa/se-publico-en-el-dof-la-modificacion-al-programa-de-manejo-de-la-reserva-de-la-biosfera-isla-guadalupe?idiom=es-MX.
+- Worldwide peers (qualitative, not independently numerically refetched):
+  - Neptune Islands (AU): comparable white shark observation
+  - Gansbaai (ZA): comparable historically important shark habitat, different ecology
+  - Farallon Islands (US): comparable seasonal aggregation
+  - Revillagigedo (MX): broader pelagic biodiversity
+- Individual scores:
+  - impact: 9.6 — Large predators in clear offshore waters have exceptional intrinsic encounter impact.
+  - uniqueness: 9.6 — Predictable seasonal aggregation in oceanic setting is rare.
+  - significance: 9.6 — Scientific documentation of regional population fidelity and important habitat supports exceptional significance.
+  - experience: 8.8 — Historically documented specialist observation is rewarding but narrow; prohibited today.
+  - depth: 8.3 — Single species and observation area limit breadth.
+- Categories: wildlife 9.8, nature 9.6, photography 9.6, adventure 9.3.
+- Overall: 93.50/100.
+- High-score challenge: 9.6 impact, uniqueness, significance, nature and photography and 9.8 wildlife justified by scientific evidence of recurrent offshore aggregation and historic encounter quality, not assumed current access or abundance. No cage diving or travel recommendation. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: full source triangulation, precise coordinates, access where applicable, numerical peers and global Python checks.
+
+## sight-mx-loreto-bay-national-park — Loreto Bay National Park — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/loreto-bay-national-park.yaml)
+- Action: new
+- Precise subject: Five-island marine park and its waters, including seasonal whale observation; not the entire Gulf of California or Loreto town. Approximate marine representative point.
+- Location check: 25.84, -111.18; approximate representative point; except Guadalupe, coordinates are editorial estimates not independently checked against maps.
+- Evidence status: source-linked-unverified; indexed source excerpts consulted, full independent verification incomplete; editorial ratings.
+- Sources consulted 2026-11-28 (search excerpts): https://www.gob.mx/conanp/documentos/bahia-de-loreto; https://descubreanp.conanp.gob.mx/es/conanp/ANP?suri=7.
+- Worldwide peers (qualitative, not independently numerically refetched):
+  - Galápagos (EC): larger and more distinctive endemic fauna
+  - Komodo (ID): more extraordinary terrestrial fauna
+  - Whitsundays (AU): comparable scenic island network
+  - Espíritu Santo (MX): comparable arid island landscapes
+- Individual scores:
+  - impact: 9.2 — Arid islands and productive marine waters create outstanding scenery.
+  - uniqueness: 9.0 — Five-island desert marine setting is distinctive.
+  - significance: 9.3 — Protected habitats for diverse cetaceans and other marine fauna support significance.
+  - experience: 9.1 — Boat trips, wildlife observation and permitted island exploration offer strong reward.
+  - depth: 9.3 — Numerous islands and marine habitats provide breadth.
+- Categories: nature 9.4, wildlife 9.4, photography 9.3, adventure 9.2.
+- Overall: 91.65/100.
+- High-score challenge: 90+ supported by documented five-island scale, multiple marine mammal species and varied permitted visitor activities; no guaranteed blue whale sightings. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: full source triangulation, precise coordinates, access where applicable, numerical peers and global Python checks.
+
+## sight-mx-islas-marietas-national-park — Marietas Islands National Park and Hidden Beach — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/islas-marietas-national-park.yaml)
+- Action: new
+- Precise subject: Two-island park including Playa del Amor, not separate duplicate hidden beach entry. Representative archipelago point; access to the beach is regulated.
+- Location check: 20.7, -105.57; approximate representative point; except Guadalupe, coordinates are editorial estimates not independently checked against maps.
+- Evidence status: source-linked-unverified; indexed source excerpts consulted, full independent verification incomplete; editorial ratings.
+- Sources consulted 2026-11-28 (search excerpts): https://descubreanp.conanp.gob.mx/es/conanp/ANP?suri=80; https://descubreanp.conanp.gob.mx/en/conanp/anp/_rid/35444618cd09430f8d33e3ebed91c8a7/_mto/3/_wst/maximized?imp_act=imp_step3&suri=80.
+- Worldwide peers (qualitative, not independently numerically refetched):
+  - El Nido (PH): much broader limestone island scenery
+  - Benagil Cave (PT): comparable open-roof coastal feature
+  - Isla Contoy (MX): stronger bird and turtle habitat focus
+  - Espíritu Santo (MX): broader island and marine landscape
+- Individual scores:
+  - impact: 9.2 — Open-roof beach and island cliffs give striking visual impact.
+  - uniqueness: 9.2 — Unusual enclosed beach geometry is distinctive but has peers.
+  - significance: 8.8 — Marine protection and seabird habitat support significance.
+  - experience: 9.0 — Boat and permitted beach and reef visits are rewarding.
+  - depth: 8.4 — Two islands provide variety within a limited extent.
+- Categories: nature 9.2, photography 9.4, beaches 9.3, wildlife 9.1, adventure 9.0.
+- Overall: 90.10/100.
+- High-score challenge: Near-threshold: strong distinctive coastal geometry, but depth and ecological scope narrower than larger archipelagos. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: full source triangulation, precise coordinates, access where applicable, numerical peers and global Python checks.
+
+## sight-mx-ria-lagartos-biosphere-reserve — Ría Lagartos Biosphere Reserve — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/ria-lagartos-biosphere-reserve.yaml)
+- Action: new
+- Precise subject: Protected estuarine wetlands and mangroves with flamingo habitat; not the industrial salt ponds of Las Coloradas or Ría Celestún. Approximate estuarine point.
+- Location check: 21.6, -88.13; approximate representative point; except Guadalupe, coordinates are editorial estimates not independently checked against maps.
+- Evidence status: source-linked-unverified; indexed source excerpts consulted, full independent verification incomplete; editorial ratings.
+- Sources consulted 2026-11-28 (search excerpts): https://descubreanp.conanp.gob.mx/en/conanp/ANP?suri=145; https://www.gob.mx/conanp/documentos/reserva-de-la-biosfera-ria-lagartos.
+- Worldwide peers (qualitative, not independently numerically refetched):
+  - Lake Nakuru (KE): comparable flamingo spectacle with different ecology
+  - Camargue (FR): comparable wetland birding
+  - Sian Ka'an (MX): wider tropical coastal wilderness
+  - Ría Celestún (MX): comparable but distinct flamingo wetland
+- Individual scores:
+  - impact: 8.9 — Flamingos and mangrove channels create strong natural spectacle.
+  - uniqueness: 8.8 — Coastal estuary is distinctive but has global peers.
+  - significance: 9.2 — Documented nesting habitat warrants high conservation significance.
+  - experience: 8.9 — Regulated boat excursions offer strong birding and nature experience.
+  - depth: 8.8 — Several habitats support meaningful exploration.
+- Categories: wildlife 9.4, nature 9.3, photography 9.2.
+- Overall: 89.25/100.
+- High-score challenge: No 90+ or 9.5+ field; no guaranteed flamingo concentration. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: full source triangulation, precise coordinates, access where applicable, numerical peers and global Python checks.
+
+## sight-mx-cabo-san-lucas-landscape — Cabo San Lucas Arch and Land's End Marine Landscape — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/cabo-san-lucas-landscape.yaml)
+- Action: new
+- Precise subject: Granite arch, adjoining headland and immediate marine scenery; not the resort city or whole Gulf of California. Approximate arch point, not swimming access.
+- Location check: 22.876, -109.894; approximate representative point; except Guadalupe, coordinates are editorial estimates not independently checked against maps.
+- Evidence status: source-linked-unverified; indexed source excerpts consulted, full independent verification incomplete; editorial ratings.
+- Sources consulted 2026-11-28 (search excerpts): https://descubreanp.conanp.gob.mx/es/conanp/Entidad_Federativa?search=state&suri=3; https://www.gob.mx/conanp/prensa/areas-naturales-protegidas-sitios-para-conocer-y-disfrutar-24281.
+- Worldwide peers (qualitative, not independently numerically refetched):
+  - Durdle Door (GB): comparable arch, different coast
+  - Ponta da Piedade (PT): broader coastal rock formations
+  - Étretat (FR): more expansive chalk cliff landscape
+  - Marietas (MX): different distinctive island formations
+- Individual scores:
+  - impact: 9.1 — Granite arch at ocean meeting point creates memorable scenery.
+  - uniqueness: 8.7 — Coastal arches have notable international substitutes.
+  - significance: 8.1 — Protected marine setting supports regional significance.
+  - experience: 8.9 — Boat-based viewing and coastal interpretation are rewarding.
+  - depth: 8.1 — Compact headland limits depth.
+- Categories: nature 9.0, photography 9.4, beaches 8.6, adventure 8.6.
+- Overall: 86.70/100.
+- High-score challenge: No 90+ or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: full source triangulation, precise coordinates, access where applicable, numerical peers and global Python checks.
+
+## sight-mx-yum-balam-holbox — Yum Balam Protected Landscape and Holbox Island — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/yum-balam-holbox.yaml)
+- Action: new
+- Precise subject: Coastal protected landscape, Holbox beaches and lagoon ecology, not the separate offshore whale shark aggregation; no resort quality or guaranteed bioluminescence credited. Approximate island point.
+- Location check: 21.53, -87.3; approximate representative point; except Guadalupe, coordinates are editorial estimates not independently checked against maps.
+- Evidence status: source-linked-unverified; indexed source excerpts consulted, full independent verification incomplete; editorial ratings.
+- Sources consulted 2026-11-28 (search excerpts): https://simec.conanp.gob.mx/informacion/ficha/44?reg=9; https://simec.conanp.gob.mx/informacion/ficha_region/9.
+- Worldwide peers (qualitative, not independently numerically refetched):
+  - Sian Ka'an (MX): greater wilderness extent
+  - Tortuguero (CR): more concentrated wildlife touring
+  - Isla Contoy (MX): smaller protected island
+  - Caye Caulker (BZ): comparable island leisure with different reef context
+- Individual scores:
+  - impact: 8.6 — Shallow coastal waters and beaches offer appealing scenery.
+  - uniqueness: 8.5 — Lagoon-barrier island ecology is distinctive.
+  - significance: 8.9 — Protected diverse coastal and inland habitats warrant significance.
+  - experience: 8.7 — Beach and permitted nature outings offer variety.
+  - depth: 8.8 — Extensive lagoon and coastal ecosystems support depth.
+- Categories: nature 9.1, wildlife 9.1, beaches 8.9, relaxation 8.9.
+- Overall: 86.70/100.
+- High-score challenge: No 90+ or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: full source triangulation, precise coordinates, access where applicable, numerical peers and global Python checks.
+
+## sight-mx-isla-contoy-national-park — Isla Contoy National Park — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/isla-contoy-national-park.yaml)
+- Action: new
+- Precise subject: Protected island and immediate marine habitat, bird nesting and turtle beaches, not nearby whale shark aggregation. Approximate island point; visitor quotas and permitted areas apply.
+- Location check: 21.49, -86.79; approximate representative point; except Guadalupe, coordinates are editorial estimates not independently checked against maps.
+- Evidence status: source-linked-unverified; indexed source excerpts consulted, full independent verification incomplete; editorial ratings.
+- Sources consulted 2026-11-28 (search excerpts): https://descubreanp.conanp.gob.mx/es/conanp/anp?suri=72; https://descubreanp.conanp.gob.mx/swb/conanp/ANP?suri=72.
+- Worldwide peers (qualitative, not independently numerically refetched):
+  - Genovesa (EC): exceptional diverse seabird colonies
+  - Half Moon Caye (BZ): comparable nesting island and reef
+  - Dry Tortugas (US): broader historic and marine interest
+  - Ría Lagartos (MX): broader wetland habitat
+- Individual scores:
+  - impact: 8.8 — Undeveloped Caribbean island provides strong visual appeal.
+  - uniqueness: 8.7 — Bird refuge and turtle nesting setting add distinction.
+  - significance: 9.0 — Documented nesting habitat warrants high importance.
+  - experience: 8.7 — Regulated visits provide rewarding nature experience.
+  - depth: 8.2 — Compact island limits breadth.
+- Categories: wildlife 9.3, nature 9.2, beaches 9.0, photography 9.0.
+- Overall: 87.40/100.
+- High-score challenge: No 90+ or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: full source triangulation, precise coordinates, access where applicable, numerical peers and global Python checks.
+
+## sight-mx-las-coloradas-salt-ponds — Las Coloradas Pink Salt Ponds — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/las-coloradas-salt-ponds.yaml)
+- Action: new
+- Precise subject: Industrial salt evaporation ponds and guided interpretation, not a natural swimming lake or the entire Ría Lagartos reserve. Approximate saltworks point; swimming prohibited and color varies.
+- Location check: 21.606, -87.989; approximate representative point; except Guadalupe, coordinates are editorial estimates not independently checked against maps.
+- Evidence status: source-linked-unverified; indexed source excerpts consulted, full independent verification incomplete; editorial ratings.
+- Sources consulted 2026-11-28 (search excerpts): https://yucatan.travel/en/adventure-and-nature/the-coloradas/; https://lascoloradas.com.mx/en/; https://lascoloradas.com.mx/en/conocenos/.
+- Worldwide peers (qualitative, not independently numerically refetched):
+  - Lake Hillier (AU): natural pink lake with different setting
+  - Salin de Giraud (FR): analogous salt production landscapes
+  - Hutt Lagoon (AU): broader pink saline lake
+  - Maras salt pans (PE): greater historic agricultural engineering context
+- Individual scores:
+  - impact: 8.8 — Pink and fuchsia salt ponds create vivid color contrast.
+  - uniqueness: 8.8 — Colored salt evaporation ponds have several international peers.
+  - significance: 7.7 — Local industry and saline ecology provide regional significance.
+  - experience: 8.2 — Guided observation and salt interpretation are rewarding but restricted in scope.
+  - depth: 7.6 — Single industrial landscape limits exploration.
+- Categories: photography 9.3, nature 8.4, culture 8.0.
+- Overall: 83.70/100.
+- High-score challenge: No 90+ or 9.5+ field; no claim of world's only pink lagoon. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: full source triangulation, precise coordinates, access where applicable, numerical peers and global Python checks.
