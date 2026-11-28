@@ -12484,3 +12484,297 @@ All ten entries are source-linked editorial assessments using retrieved institut
 - Earlier decision: none.
 - Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; event dates and access are variable and not scored as permanent closure.
 
+
+## sight-mx-banderas-bay-humpback-whales — Bahía de Banderas Humpback Whale Watching — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/banderas-bay-humpback-whales.yaml)
+- Action: new (pass 451)
+- Precise subject: Seasonal humpback whale observation in documented calving habitat, from authorized vessels; distinct from Marietas island landscape.
+- Location check: 20.65, -105.48; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.cambridge.org/core/journals/journal-of-the-marine-biological-association-of-the-united-kingdom/article/identifying-humpback-whale-calving-grounds-ensemble-modelling-and-spatial-analysis-of-critical-habitat-in-bahia-de-banderas-mexico/D504064C67B802950A4F1377F005E272; https://www.sciencedirect.com/science/article/abs/pii/S0964569125002601.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Hervey Bay (AU): comparable humpback habitat
+  - Tonga whale encounters (TO): different regulated experience
+  - El Vizcaíno (MX): distinctive gray whale lagoons
+  - Monterey Bay (US): diverse cetaceans.
+- Individual scores: impact 9.4, uniqueness 9.1, significance 9.4, experience 9.3, depth 8.8.
+- Categories: wildlife 9.6, nature 9.4, photography 9.3.
+- Overall: 92.50/100.
+- High-score challenge: Documented ecological distinction or specialist experience supports 90+; global peers constrain score. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; conditions and access not verified.
+
+
+## sight-mx-xcalak-reefs — Arrecifes de Xcalak National Park and La Poza — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/xcalak-reefs.yaml)
+- Action: new (pass 451)
+- Precise subject: Nearly 40 km of barrier reef and La Poza formation; manatees, tarpon, turtles and rays may occur; distinct from offshore Banco Chinchorro.
+- Location check: 18.29, -87.83; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://descubreanp.conanp.gob.mx/swb/conanp/ANP?suri=6; https://divingxcalak.com/en_US/dive-sites/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Cozumel (MX): more established diving
+  - Banco Chinchorro (MX): distinctive offshore reef
+  - Belize Barrier Reef (BZ): greater regional scale
+  - Cabo Pulmo (MX): distinctive Pacific marine recovery.
+- Individual scores: impact 9.1, uniqueness 9.1, significance 9.3, experience 9.2, depth 9.0.
+- Categories: wildlife 9.4, nature 9.4, adventure 9.3, photography 9.1.
+- Overall: 91.45/100.
+- High-score challenge: Documented ecological distinction or specialist experience supports 90+; global peers constrain score. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; conditions and access not verified.
+
+
+## sight-mx-gordo-banks-diving — Gordo Banks Offshore Pelagic Diving — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/gordo-banks-diving.yaml)
+- Action: new (pass 451)
+- Precise subject: Offshore seamount diving for suitably qualified divers, possible hammerhead schools and large pelagic life; sightings not guaranteed.
+- Location check: 23.01, -109.55; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.padi.com/dive-site/mexico/gordo-banks/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Darwin and Wolf (EC): stronger global shark concentration
+  - Cocos Island (CR): larger remote pelagic experience
+  - Revillagigedo (MX): more extensive encounters
+  - Cabo Pulmo (MX): different reef diving.
+- Individual scores: impact 9.2, uniqueness 9.3, significance 9.0, experience 8.9, depth 8.5.
+- Categories: wildlife 9.5, adventure 9.4, nature 9.2, photography 9.1.
+- Overall: 90.70/100.
+- High-score challenge: Documented ecological distinction or specialist experience supports 90+; global peers constrain score. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; conditions and access not verified.
+
+
+## sight-mx-la-lobera-san-quintin — La Lobera Coastal Sea Cave and Sea Lion Colony — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/la-lobera-san-quintin.yaml)
+- Action: new (pass 451)
+- Precise subject: Wave-eroded coastal opening sheltering seals and sea lions; viewing from safe designated locations without entering the colony.
+- Location check: 30.24, -115.86; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.bajacalifornia.travel/en/actividades/la-lobera; https://www.bajacalifornia.travel/en/editorial/let-yourself-be-surprised-by-the-landscapes-of-san-quintin.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - La Bufadora (MX): different marine erosion feature
+  - Los Islotes (MX): closer regulated marine encounters
+  - Benagil (PT): distinctive coastal cave
+  - Marietas (MX): enclosed beach landscape.
+- Individual scores: impact 9.2, uniqueness 9.2, significance 8.7, experience 8.6, depth 8.1.
+- Categories: nature 9.3, wildlife 9.2, photography 9.3.
+- Overall: 89.00/100.
+- High-score challenge: Sub-90 reflects narrower scope or global distinction. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; conditions and access not verified.
+
+
+## sight-mx-la-ventanilla-mangroves — La Ventanilla Mangrove and Crocodile Ecotourism — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/la-ventanilla-mangroves.yaml)
+- Action: new (pass 451)
+- Precise subject: Community conservation tours through mangroves and crocodile habitat, with birds and turtle conservation interpretation.
+- Location check: 15.674, -96.58; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://visitmexico.com/en/destino/2178/ecoturismo-la-ventanilla-oaxaca; https://www.laventanilla.com.mx/reserva.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - La Encrucijada (MX): greater wetland extent
+  - Sian Kaan (MX): broader habitat diversity
+  - Tortuguero (CR): more extensive waterways
+  - Marismas Nacionales (MX): greater shorebird significance.
+- Individual scores: impact 8.7, uniqueness 9.0, significance 9.0, experience 9.1, depth 8.8.
+- Categories: wildlife 9.4, nature 9.3, photography 9.0.
+- Overall: 89.05/100.
+- High-score challenge: Sub-90 reflects narrower scope or global distinction. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; conditions and access not verified.
+
+
+## sight-mx-san-carlos-tetakawi — San Carlos Tetakawi Coastal Mountain and Scenic Viewpoint — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/san-carlos-tetakawi.yaml)
+- Action: new (pass 451)
+- Precise subject: Coastal mountain hiking and nearby scenic viewpoint over Sea of Cortez and desert; approximate representative point.
+- Location check: 27.951, -111.091; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://guaymas.gob.mx/dependencies/san-carlos-pueblo-magico_en.php; https://sancarlos.guaymas.gob.mx/en/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Punta Cometa (MX): more focused headland
+  - Cabo San Lucas (MX): iconic arch
+  - Balandra (MX): distinctive shallow bay
+  - Cape Point (ZA): more monumental coastal landscape.
+- Individual scores: impact 9.1, uniqueness 8.8, significance 8.6, experience 9.0, depth 8.7.
+- Categories: photography 9.4, nature 9.2, adventure 9.1.
+- Overall: 88.70/100.
+- High-score challenge: Sub-90 reflects narrower scope or global distinction. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; conditions and access not verified.
+
+
+## sight-mx-minas-viejas-waterfalls — Minas Viejas Waterfalls and Turquoise Pools — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/minas-viejas-waterfalls.yaml)
+- Action: new (pass 451)
+- Precise subject: Waterfall complex with turquoise pools; separate from Micos and El Naranjo river cascades.
+- Location check: 22.49, -99.3; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://visitmexico.com/es/destino/17969/cascada-minas-viejas.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Agua Azul (MX): larger cascade network
+  - Kuang Si (LA): comparable turquoise pools
+  - Tamasopo (MX): comparable swimming experience
+  - El Chiflón (MX): greater waterfall height.
+- Individual scores: impact 9.1, uniqueness 8.7, significance 8.4, experience 9.2, depth 8.7.
+- Categories: nature 9.3, photography 9.3, adventure 9.0, relaxation 9.0.
+- Overall: 88.35/100.
+- High-score challenge: Sub-90 reflects narrower scope or global distinction. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; conditions and access not verified.
+
+
+## sight-mx-el-meco-el-salto — El Meco and El Salto Waterfalls (El Naranjo) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/el-meco-el-salto.yaml)
+- Action: new (pass 451)
+- Precise subject: Two nearby cascades on El Salto river, grouped into one scenic circuit.
+- Location check: 22.62, -99.33; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://visitmexico.com/en/destino/17953/cascada-el-meco; https://visitmexico.com/en/destino/17954/cascada-el-salto.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Tamul (MX): higher individual cascade
+  - Minas Viejas (MX): distinct pools
+  - Agua Azul (MX): larger network
+  - Kuang Si (LA): comparable color and pools.
+- Individual scores: impact 9.1, uniqueness 8.8, significance 8.5, experience 9.1, depth 8.8.
+- Categories: nature 9.3, photography 9.3, adventure 9.0.
+- Overall: 88.75/100.
+- High-score challenge: Sub-90 reflects narrower scope or global distinction. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; conditions and access not verified.
+
+
+## sight-mx-miguel-colorado-cenotes — Miguel Colorado Cenotes and Forest Adventure — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/miguel-colorado-cenotes.yaml)
+- Action: new (pass 451)
+- Precise subject: Large open sinkholes and associated forest adventure circuit near Miguel Colorado.
+- Location check: 18.76, -90.68; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://visitmexico.com/en/destino/17869/cenotes-de-miguel-colorado; https://visitmexico.com/en/itinerario/135/rutas-del-aficionado-2026-campeche-infinito-mexico-2026-mas-alla-del-estadio-un-viaje-epico-entre-cultura-naturaleza-y-goles-inolvidables.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Ik Kil (MX): more iconic enclosed sinkhole
+  - Dos Ojos (MX): richer underwater cave experience
+  - Homún (MX): greater concentration
+  - Zacatón (MX): more exceptional geology.
+- Individual scores: impact 8.9, uniqueness 8.9, significance 8.6, experience 9.0, depth 8.9.
+- Categories: nature 9.2, adventure 9.2, photography 9.1.
+- Overall: 88.55/100.
+- High-score challenge: Sub-90 reflects narrower scope or global distinction. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; conditions and access not verified.
+
+
+## sight-mx-homun-santa-barbara-cenotes — Santa Bárbara Cenotes and Homún Sinkhole Circuit — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/homun-santa-barbara-cenotes.yaml)
+- Action: new (pass 451)
+- Precise subject: Local cenote circuit represented by Santa Bárbara; geographically within wider Chicxulub ring, but scored for distinct visitor experience, not entire ring.
+- Location check: 20.739, -89.28; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://visitmexico.com/en/destino/17838/eshomunenhomun.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Dzitnup (MX): more focused pair
+  - Dos Ojos (MX): greater diving appeal
+  - Chicxulub ring (MX): broader geological significance
+  - Miguel Colorado (MX): forest adventure.
+- Individual scores: impact 8.9, uniqueness 8.7, significance 8.5, experience 9.2, depth 9.0.
+- Categories: nature 9.2, photography 9.3, family 9.1.
+- Overall: 88.25/100.
+- High-score challenge: Sub-90 reflects narrower scope or global distinction. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; conditions and access not verified.
+
+
+## sight-mx-cenote-taak-bi-ha — Cenote Taak Bi Ha Decorated Cavern — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/cenote-taak-bi-ha.yaml)
+- Action: new (pass 451)
+- Precise subject: Distinct decorated cavern entrance and guided snorkeling/diving experience, not entire connected cave system.
+- Location check: 20.32, -87.39; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://divetulum.com/tour/carwash-taak-bi-ha/; https://cenotetaakbiha.com/es/preguntas-frecuentes/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Dos Ojos (MX): greater diving depth
+  - El Pit (MX): more striking vertical light
+  - Suytun (MX): distinctive photographic chamber
+  - Sac Actun (MX): broader system.
+- Individual scores: impact 9.0, uniqueness 8.9, significance 8.5, experience 9.0, depth 8.3.
+- Categories: nature 9.2, photography 9.4, adventure 9.0.
+- Overall: 88.05/100.
+- High-score challenge: Sub-90 reflects narrower scope or global distinction. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; conditions and access not verified.
+
+
+## sight-mx-cenote-carwash — Cenote Car Wash (Aktun Ha) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/cenote-carwash.yaml)
+- Action: new (pass 451)
+- Precise subject: Open cenote with aquatic vegetation and guided cavern diving; distinct site, not the entire connected cave system.
+- Location check: 20.274, -87.486; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://divecenotesmexico.com/cenote-dive-sites/cenote-carwash/; https://divetulum.com/tour/carwash-taak-bi-ha/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Gran Cenote (MX): greater iconic visitor appeal
+  - Taak Bi Ha (MX): more ornate chamber
+  - Angelita (MX): singular underwater cloud
+  - Cenote Azul (MX): comparable open water.
+- Individual scores: impact 8.7, uniqueness 8.7, significance 8.5, experience 9.0, depth 8.5.
+- Categories: nature 9.1, adventure 9.0, photography 9.1.
+- Overall: 86.85/100.
+- High-score challenge: Sub-90 reflects narrower scope or global distinction. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; conditions and access not verified.
+
+
+## sight-mx-cenote-zaci — Cenote Zací (Valladolid) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/cenote-zaci.yaml)
+- Action: new (pass 451)
+- Precise subject: Large partially open sinkhole in central Valladolid, distinct from surrounding rural cenotes.
+- Location check: 20.691, -88.198; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://visitmexico.com/en/destino/2066/valladolid.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Ik Kil (MX): more iconic vertical greenery
+  - Oxman (MX): more rural setting
+  - Suytun (MX): distinctive chamber
+  - Gran Cenote (MX): richer snorkeling.
+- Individual scores: impact 8.7, uniqueness 8.6, significance 8.6, experience 8.8, depth 8.4.
+- Categories: nature 9.0, photography 9.1, culture 8.7.
+- Overall: 86.40/100.
+- High-score challenge: Sub-90 reflects narrower scope or global distinction. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; conditions and access not verified.
+
+
+## sight-mx-nacapule-canyon — Cañón del Nacapule Desert Oasis — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/nacapule-canyon.yaml)
+- Action: new (pass 451)
+- Precise subject: Desert canyon with palms and localized vegetation near San Carlos; distinct canyon hike from coastal Tetakawi.
+- Location check: 27.993, -111.052; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.guaymas.gob.mx/dependencies/economic-development/hiking-routes.php.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Guadalupe Canyon (MX): thermal springs
+  - Tabor Canyon (MX): different desert hike
+  - Wadi Shab (OM): more extensive aquatic experience
+  - La Huasteca (MX): larger walls.
+- Individual scores: impact 8.8, uniqueness 8.8, significance 8.6, experience 8.8, depth 8.5.
+- Categories: nature 9.2, adventure 9.0, photography 9.1.
+- Overall: 87.30/100.
+- High-score challenge: Sub-90 reflects narrower scope or global distinction. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; conditions and access not verified.
+

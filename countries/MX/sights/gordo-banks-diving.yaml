@@ -1,0 +1,17 @@
+id: sight-mx-gordo-banks-diving
+name: "Gordo Banks Offshore Pelagic Diving"
+location:
+  country_code: MX
+  latitude: 23.01
+  longitude: -109.55
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 9.0
+  experience: 8.9
+  depth: 8.5
+  categories:
+    wildlife: 9.5
+    adventure: 9.4
+    nature: 9.2
+    photography: 9.1

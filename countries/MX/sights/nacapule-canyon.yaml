@@ -1,0 +1,16 @@
+id: sight-mx-nacapule-canyon
+name: "Cañón del Nacapule Desert Oasis"
+location:
+  country_code: MX
+  latitude: 27.993
+  longitude: -111.052
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 8.8
+  depth: 8.5
+  categories:
+    nature: 9.2
+    adventure: 9.0
+    photography: 9.1

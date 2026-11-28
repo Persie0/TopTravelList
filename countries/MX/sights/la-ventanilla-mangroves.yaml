@@ -1,0 +1,16 @@
+id: sight-mx-la-ventanilla-mangroves
+name: "La Ventanilla Mangrove and Crocodile Ecotourism"
+location:
+  country_code: MX
+  latitude: 15.674
+  longitude: -96.58
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 9.1
+  depth: 8.8
+  categories:
+    wildlife: 9.4
+    nature: 9.3
+    photography: 9.0

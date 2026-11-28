@@ -1,0 +1,16 @@
+id: sight-mx-el-meco-el-salto
+name: "El Meco and El Salto Waterfalls (El Naranjo)"
+location:
+  country_code: MX
+  latitude: 22.62
+  longitude: -99.33
+scores:
+  impact: 9.1
+  uniqueness: 8.8
+  significance: 8.5
+  experience: 9.1
+  depth: 8.8
+  categories:
+    nature: 9.3
+    photography: 9.3
+    adventure: 9.0
