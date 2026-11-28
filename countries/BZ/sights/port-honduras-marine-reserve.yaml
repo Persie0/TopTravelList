@@ -1,0 +1,16 @@
+id: sight-bz-port-honduras-marine-reserve
+name: "Port Honduras Marine Reserve"
+location:
+  country_code: BZ
+  latitude: 16.21
+  longitude: -88.6
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.3
+  depth: 8.7
+  categories:
+    nature: 9.1
+    wildlife: 9.0
+    photography: 8.7

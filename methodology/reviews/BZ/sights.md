@@ -1461,3 +1461,232 @@ Eight Belize additions, five fact-checked and three provisional source-linked ed
 - High-score challenge: No 90+ overall. No 9.5+ field or approved 10 requested.
 - Earlier decision: none.
 - Remaining verification: exact visitor locations, additional numerical peer comparisons and full diagnostics.
+
+# Pass 408 — 2026-11-28 — direct main continuation
+
+Eight additions and one rescore, two fact-checked decisions and seven source-linked provisional additions. JS inventory, weighted formula, coordinate range, uniqueness, ranking and README checks only; full Python validation/benchmark scripts and Actions not run. Marine reserve vs distinct dive scopes are non-additive; Lighthouse Reef newly designated 2024, not itself a separate UNESCO inscription. Witconcrete coordinate approximate, conflicting published pins not used as exact dive position; Long Caye Aquarium variant pins grouped. No wreck penetration, guaranteed sightings or diving beyond qualifications assumed.
+
+## sight-bz-lighthouse-reef-atoll-marine-reserve — Lighthouse Reef Atoll Marine Reserve — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/lighthouse-reef-atoll-marine-reserve.yaml)
+- Action: new
+- Precise subject: Atoll-wide reef walls, lagoon and marine habitats, excluding independently scored Great Blue Hole and Half Moon Caye; no additive component scores.
+- Location check: 17.327042, -87.558289; approximate representative point, not a navigation waypoint.
+- Evidence status: fact-checked
+- Sources consulted 2026-11-28: https://leap.unep.org/en/countries/bz/national-legislation/fisheries-resources-lighthouse-reef-atoll-marine-reserve-order-si (2024 designation); https://jncc.gov.uk/our-work/belize/ (Green List candidate, not certified); https://longcayebelize.com/diving (documented reef dive sites); https://www.geonames.org/advanced-search.html?country=BZ&featureClass=H&q=&startRow=50 (representative atoll coordinate).
+- Worldwide peers (qualitative; existing Turneffe, Glover's Reef and Half Moon Caye ranking checked):
+  - Turneffe Atoll (BZ, 90.40): broader mangrove setting
+  - Glover's Reef (BZ, 91.90): extensive remote atoll habitat
+  - Tubbataha Reefs (PH): greater globally exceptional marine biodiversity
+  - Aldabra Atoll (SC): greater ecological rarity and more restricted visitation.
+- Individual scores:
+  - impact: 9.2 — Remote coral walls and clear water support high scenic merit
+  - uniqueness: 9.0 — Offshore atoll form is regionally distinctive but shared with other tropical atolls
+  - significance: 9.1 — Marine habitats and formal conservation support high significance, not entire UNESCO system credit
+  - experience: 9.1 — Established diving and snorkeling offer varied experience
+  - depth: 9.0 — Multiple reef zones provide breadth independently of named monuments.
+- Categories: nature 9.4, wildlife 9.3, adventure 9.3, photography 9.2.
+- Overall: 90.95/100.
+- High-score challenge: Documented atoll-wide reef wall diversity, established diving, and 2024 reserve designation support low 90s; no inherited Blue Hole or Half Moon Caye merit and no claim of Green List certification. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact site locations and current reef condition, more numerical peer comparisons, full diagnostics. Coordinates are not dive navigation instructions.
+
+## sight-bz-turneffe-elbow-dive — The Elbow Wall Dive (Turneffe Atoll) — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/turneffe-elbow-dive.yaml)
+- Action: new
+- Precise subject: Named southern reef-wall drift dive only, not whole Turneffe reserve or guaranteed pelagic encounters.
+- Location check: 17.14506, -87.91552; approximate representative point, not a navigation waypoint.
+- Evidence status: source-linked-unverified
+- Sources consulted 2026-11-28: https://www.travelbelize.org/attraction/turneffe-atoll/ (advanced dive and eagle ray habitat); https://divemap.be/dive-sites/the-elbow.html (opened southern tip coordinate and reef wall); contradictory northern coordinate elsewhere rejected.
+- Worldwide peers (qualitative; existing Turneffe, Glover's Reef and Half Moon Caye ranking checked):
+  - Blue Corner (PW): stronger iconic pelagic aggregation
+  - Gordon Rocks (EC): greater hammerhead focus
+  - Ulong Channel (PW): similarly dynamic reef currents
+  - Aquarium (BZ): calmer coral-wall focus.
+- Individual scores:
+  - impact: 8.9 — Steep coral walls and schooling fish offer strong impact
+  - uniqueness: 8.8 — Current-driven pelagic reef is distinctive regionally but globally comparable
+  - significance: 8.6 — Marine reef habitat has conservation importance without unique world heritage claims
+  - experience: 9.1 — Experienced divers can enjoy a rewarding guided drift subject to conditions
+  - depth: 8.3 — Focused dive site limits breadth.
+- Categories: adventure 9.2, nature 9.0, wildlife 9.1.
+- Overall: 87.85/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact site locations and current reef condition, more numerical peer comparisons, full diagnostics. Coordinates are not dive navigation instructions.
+
+## sight-bz-long-caye-aquarium — Long Caye Aquarium Reef Dive — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/long-caye-aquarium.yaml)
+- Action: new
+- Precise subject: Named Long Caye reef wall; alternative nearby pins treated as same visitor scope pending local verification.
+- Location check: 17.22542, -87.59454; approximate representative point, not a navigation waypoint.
+- Evidence status: source-linked-unverified
+- Sources consulted 2026-11-28: https://www.padi.com/dive-site/belize/the-aquarium/ (opened: coral walls, fish schools, coordinates); https://divemap.be/dive-sites/long-caye-aquarium.html (nearby alternative pin and reef description); https://longcayebelize.com/diving.
+- Worldwide peers (qualitative; existing Turneffe, Glover's Reef and Half Moon Caye ranking checked):
+  - Bunaken (ID): much greater wall-diving breadth
+  - Apo Island (PH): broader reef conservation and snorkeling
+  - Ras Mohammed (EG): more expansive reef and fish diversity
+  - Elbow (BZ): stronger advanced pelagic dive.
+- Individual scores:
+  - impact: 8.8 — Colorful reef walls and fish offer strong visual appeal
+  - uniqueness: 8.5 — Tropical reef wall is internationally comparable
+  - significance: 8.3 — Local marine ecological importance
+  - experience: 9.0 — Accessible guided reef diving offers strong focused experience
+  - depth: 8.3 — Single reef-wall sector limits depth.
+- Categories: nature 9.1, wildlife 9.1, adventure 9.0, photography 9.0.
+- Overall: 86.05/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact site locations and current reef condition, more numerical peer comparisons, full diagnostics. Coordinates are not dive navigation instructions.
+
+## sight-bz-esmeralda-canyons-dive — Esmeralda Canyons Reef Dive — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/esmeralda-canyons-dive.yaml)
+- Action: new
+- Precise subject: Named coral canyon dive near San Pedro; excludes Hol Chan and other reef dive sites.
+- Location check: 17.91022, -87.95246; approximate representative point, not a navigation waypoint.
+- Evidence status: source-linked-unverified
+- Sources consulted 2026-11-28: https://www.padi.com/dive-site/belize/esmeralda-canyons/ (coordinates and visitor context); https://divemap.be/dive-sites/esmeralda.html (parallel coral gullies).
+- Worldwide peers (qualitative; existing Turneffe, Glover's Reef and Half Moon Caye ranking checked):
+  - Canyons Dahab (EG): more dramatic geological canyon
+  - Blue Corner (PW): stronger pelagic spectacle
+  - Apo Island (PH): broader coral ecology
+  - Long Caye Aquarium (BZ): comparable reef-wall appeal.
+- Individual scores:
+  - impact: 8.6 — Coral gullies create striking underwater forms
+  - uniqueness: 8.6 — Parallel coral canyons provide distinctive local topography
+  - significance: 8.2 — Local marine ecology is important but globally comparable
+  - experience: 8.9 — Guided reef dive offers rewarding experience
+  - depth: 8.1 — Single-site scope limits breadth.
+- Categories: nature 8.9, wildlife 8.8, adventure 9.0, photography 8.8.
+- Overall: 85.15/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact site locations and current reef condition, more numerical peer comparisons, full diagnostics. Coordinates are not dive navigation instructions.
+
+## sight-bz-sayonara-wreck — Sayonara Wreck Dive — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/sayonara-wreck.yaml)
+- Action: new
+- Precise subject: Named former transport boat artificial reef, not general Turneffe or interior penetration.
+- Location check: 17.2019, -87.93165; approximate representative point, not a navigation waypoint.
+- Evidence status: source-linked-unverified
+- Sources consulted 2026-11-28: https://www.travelbelize.org/attraction/turneffe-atoll/ (1985 sinking and cargo/passenger history); https://divemap.be/dive-sites/sayonara-wreck.html (opened coordinates and artificial reef); https://digitalcommons.usf.edu/ogden13_images/30/ (historical survey photograph).
+- Worldwide peers (qualitative; existing Turneffe, Glover's Reef and Half Moon Caye ranking checked):
+  - SS Thistlegorm (EG): much more significant historic wreck
+  - USAT Liberty (ID): larger marine-encrusted wreck experience
+  - Zenobia (CY): greater ship size and dive breadth
+  - Witconcrete (BZ): much larger artificial reef wreck.
+- Individual scores:
+  - impact: 7.8 — Small wreck and marine growth offer specialist appeal
+  - uniqueness: 8.0 — Artificial transport-boat wrecks are globally common
+  - significance: 7.6 — Local transport history and reef context provide moderate importance
+  - experience: 8.3 — Guided exterior dive is engaging
+  - depth: 7.4 — Small single wreck limits exploration.
+- Categories: adventure 8.6, history 7.9, photography 8.2, nature 8.0.
+- Overall: 78.45/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact site locations and current reef condition, more numerical peer comparisons, full diagnostics. Coordinates are not dive navigation instructions.
+
+## sight-bz-witconcrete-wreck — Witconcrete Wreck Dive and Snorkel Site — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/witconcrete-wreck.yaml)
+- Action: new
+- Precise subject: 114-metre concrete ship deliberately sunk in 2021; exterior viewing only, no assumed penetration or scientific participation.
+- Location check: 17.32, -87.79; approximate representative point, not a navigation waypoint.
+- Evidence status: source-linked-unverified
+- Sources consulted 2026-11-28: https://www.travelbelize.org/attraction/wit-turneffe-dive-snorkel-site/ (opened: ship size, history, designated project near Blackbird Caye); https://reefsmartguides.com/3d-models/witconrete/ (approximate distance northeast of Blackbird Caye, published GPS conflicts with location); https://www.blackbirdresort.com/witconcrete-wreck (nearby location); representative offshore point inferred near Blackbird Caye, not verified mooring.
+- Worldwide peers (qualitative; existing Turneffe, Glover's Reef and Half Moon Caye ranking checked):
+  - USS Kittiwake (KY): comparable deliberately sunk large wreck
+  - SS Thistlegorm (EG): much greater historical significance
+  - USAT Liberty (ID): stronger longstanding coral colonization
+  - Sayonara (BZ): smaller wreck and narrower scope.
+- Individual scores:
+  - impact: 8.7 — Large concrete ship provides dramatic scale
+  - uniqueness: 8.8 — Concrete-hulled wreck and size distinguish it from common smaller wreck dives
+  - significance: 8.3 — Maritime and industrial history matter, artificial reef benefits not presumed
+  - experience: 8.8 — Guided exterior dives and snorkel viewing offer rewarding encounter
+  - depth: 8.5 — Large vessel supports more exploration than small wrecks.
+- Categories: adventure 9.1, history 8.6, photography 8.9, nature 8.5.
+- Overall: 86.40/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact site locations and current reef condition, more numerical peer comparisons, full diagnostics. Coordinates are not dive navigation instructions.
+
+## sight-bz-port-honduras-marine-reserve — Port Honduras Marine Reserve — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/port-honduras-marine-reserve.yaml)
+- Action: new
+- Precise subject: Semi-estuarine southern marine reserve and lawful nature excursions; no guaranteed wildlife encounters or fishing access.
+- Location check: 16.21, -88.6; approximate representative point, not a navigation waypoint.
+- Evidence status: source-linked-unverified
+- Sources consulted 2026-11-28: https://fisheries.gov.bz/phmr/ (official reserve scope and management); https://files.worldwildlife.org/wwfcmsprod/files/Publication/file/61f582pm6i_Submission_3_FINAL_CEO_ER.Prodoc_Belize_RBB_WWF_GEF8_Copy.pdf (indexed representative coordinate table only).
+- Worldwide peers (qualitative; existing Turneffe, Glover's Reef and Half Moon Caye ranking checked):
+  - Sian Ka’an (MX): broader diverse coastal ecosystems
+  - Bocas del Polochic (GT): freshwater delta focus
+  - Tortuguero (CR): stronger established wildlife tours
+  - South Water Caye (BZ): clearer reef-diving emphasis.
+- Individual scores:
+  - impact: 8.4 — Cayes and sheltered coastal waters provide strong natural scenery
+  - uniqueness: 8.7 — Semi-estuarine marine ecosystem is distinctive regionally
+  - significance: 9.0 — Marine habitat and managed conservation support significance
+  - experience: 8.3 — Lawful nature visits offer meaningful experience without invented routes
+  - depth: 8.7 — Multiple coastal habitats add depth.
+- Categories: nature 9.1, wildlife 9.0, photography 8.7.
+- Overall: 86.10/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact site locations and current reef condition, more numerical peer comparisons, full diagnostics. Coordinates are not dive navigation instructions.
+
+## sight-bz-goffs-caye — Goff’s Caye Beach and Snorkeling — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/goffs-caye.yaml)
+- Action: new
+- Precise subject: Small sand caye and adjacent permitted snorkel reef; excludes whole barrier reef and unrelated cruise package.
+- Location check: 17.3427, -88.0357; approximate representative point, not a navigation waypoint.
+- Evidence status: source-linked-unverified
+- Sources consulted 2026-11-28: https://www.travelbelize.org/attraction/goffs-caye/ (beach and coral formations); https://tourismbelize.com/experiences/goffs-caye-beach-and-snorkeling (visitor activity); https://latitude.to/map/bz/belize/cities/belize-city/articles/136908/goffs-caye (coordinates).
+- Worldwide peers (qualitative; existing Turneffe, Glover's Reef and Half Moon Caye ranking checked):
+  - Cayo Levantado (DO): broader island beach experience
+  - Cayo Icacos (PR): comparable small island and snorkeling
+  - Laughing Bird Caye (BZ): greater protected-area scope
+  - Half Moon Caye (BZ): greater conservation and birdlife.
+- Individual scores:
+  - impact: 8.5 — Tiny sand island and turquoise waters create strong scenery
+  - uniqueness: 8.0 — Tropical sand cayes are internationally common
+  - significance: 7.7 — Local cultural and marine interest
+  - experience: 8.6 — Beach and snorkeling provide good focused outing
+  - depth: 7.5 — Very small island limits depth.
+- Categories: beaches 8.9, nature 8.6, relaxation 8.8, photography 8.9.
+- Overall: 81.30/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact site locations and current reef condition, more numerical peer comparisons, full diagnostics. Coordinates are not dive navigation instructions.
+
+## sight-bz-blue-hole-natural-monument-great-blue-hole — Blue Hole Natural Monument (Great Blue Hole) — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/blue-hole-natural-monument-great-blue-hole.yaml)
+- Action: rescore
+- Precise subject: Existing individual sinkhole, aerial observation and appropriately qualified guided scuba experience; no full depth or adjacent reef credit.
+- Location check: 17.315986, -87.534697; approximate representative point, not a navigation waypoint.
+- Evidence status: fact-checked
+- Sources consulted 2026-11-28: https://science.nasa.gov/earth/earth-observatory/great-blue-hole-belize-37741/ (300m diameter, about 125m deep, flooded stalactites); https://www.travelbelize.org/attraction/blue-hole/ (aerial tours and diving); https://canadiangeographic.ca/articles/diving-the-great-blue-hole-is-belizes-most-famous-dive-worth-it/ (limited marine-life abundance compared with surrounding reefs); https://whc.unesco.org/en/list/764/maps/ (component context).
+- Worldwide peers (qualitative; existing Turneffe, Glover's Reef and Half Moon Caye ranking checked):
+  - Dean's Blue Hole (BS): comparable exceptional submerged sinkhole but smaller surface diameter
+  - Dahab Blue Hole (EG): comparable deep marine sinkhole, different geological setting
+  - Dos Ojos (MX): greater extensive cavern exploration breadth
+  - Half Moon Caye (BZ): richer ordinary reef and wildlife viewing.
+- Individual scores:
+  - impact: 9.6 → 9.7 — Exceptional aerial circular geometry and underwater formations justify slight increase
+  - uniqueness: 9.7 → 9.7 — Rare large submerged karst feature remains exceptional
+  - significance: 9.3 → 9.3 — International geological and designated heritage importance unchanged
+  - experience: 8.7 → 9.0 — Both aerial and qualified guided diving provide complementary perspectives, no full-depth descent credited
+  - depth: 7.4 → 7.4 — Concentrated landform and sparse marine life limit depth, unchanged.
+- Categories: nature 9.6, adventure 9.4, photography 9.7.
+- Overall: 92.10 → 92.85/100.
+- High-score challenge: NASA documentation supports exceptional 9.7 impact and uniqueness; aerial geometry supports 9.7 photography, rare flooded karst supports 9.6 nature. Experience improves for documented complementary aerial and underwater viewpoints, but depth remains limited and no marine abundance assumed. No approved 10 requested.
+- Earlier decision: Prior review retained.
+- Remaining verification: exact site locations and current reef condition, more numerical peer comparisons, full diagnostics. Coordinates are not dive navigation instructions.

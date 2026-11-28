@@ -1,0 +1,17 @@
+id: sight-bz-lighthouse-reef-atoll-marine-reserve
+name: "Lighthouse Reef Atoll Marine Reserve"
+location:
+  country_code: BZ
+  latitude: 17.327042
+  longitude: -87.558289
+scores:
+  impact: 9.2
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 9.1
+  depth: 9.0
+  categories:
+    nature: 9.4
+    wildlife: 9.3
+    adventure: 9.3
+    photography: 9.2

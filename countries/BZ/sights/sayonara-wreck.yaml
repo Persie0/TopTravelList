@@ -1,0 +1,17 @@
+id: sight-bz-sayonara-wreck
+name: "Sayonara Wreck Dive"
+location:
+  country_code: BZ
+  latitude: 17.2019
+  longitude: -87.93165
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 7.6
+  experience: 8.3
+  depth: 7.4
+  categories:
+    adventure: 8.6
+    history: 7.9
+    photography: 8.2
+    nature: 8.0

@@ -1,0 +1,17 @@
+id: sight-bz-goffs-caye
+name: "Goff’s Caye Beach and Snorkeling"
+location:
+  country_code: BZ
+  latitude: 17.3427
+  longitude: -88.0357
+scores:
+  impact: 8.5
+  uniqueness: 8.0
+  significance: 7.7
+  experience: 8.6
+  depth: 7.5
+  categories:
+    beaches: 8.9
+    nature: 8.6
+    relaxation: 8.8
+    photography: 8.9

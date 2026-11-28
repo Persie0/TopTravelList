@@ -1,0 +1,17 @@
+id: sight-bz-long-caye-aquarium
+name: "Long Caye Aquarium Reef Dive"
+location:
+  country_code: BZ
+  latitude: 17.22542
+  longitude: -87.59454
+scores:
+  impact: 8.8
+  uniqueness: 8.5
+  significance: 8.3
+  experience: 9.0
+  depth: 8.3
+  categories:
+    nature: 9.1
+    wildlife: 9.1
+    adventure: 9.0
+    photography: 9.0
