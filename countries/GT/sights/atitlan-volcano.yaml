@@ -1,0 +1,16 @@
+id: sight-gt-atitlan-volcano
+name: "Atitlán Volcano"
+location:
+  country_code: GT
+  latitude: 14.583
+  longitude: -91.186
+scores:
+  impact: 8.9
+  uniqueness: 8.5
+  significance: 8.4
+  experience: 8.8
+  depth: 8.6
+  categories:
+    nature: 9.0
+    adventure: 9.1
+    photography: 9.1

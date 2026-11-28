@@ -2898,3 +2898,207 @@ Eight coastal and wildlife attractions added, three fact-checked and five provis
 - High-score challenge: No 90+ overall. No 9.5+ field or approved 10 requested.
 - Earlier decision: none.
 - Remaining verification: precise visitor access, current conditions, additional numeric peer checks and full diagnostics. No wildlife or access guarantees.
+
+# Pass 401 — 2026-11-28 — direct main continuation
+
+Eight natural attractions added, provisional source-linked editorial ratings, all numerically complete. JS inventory, formula, coordinate range, uniqueness, ranking and README checks only; full Python validation/benchmark scripts and Actions not run. Volcanoes and private reserves scoped separately, no archaeological credit in Yaxhá–Nakum–Naranjo natural landscape, no Belizean scope in Río Sarstún, no temporary closure penalty. Source excerpts used, not comprehensive verification.
+
+## sight-gt-atitlan-volcano — Atitlán Volcano — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/atitlan-volcano.yaml)
+- Action: new
+- Precise subject: Summit landscape and ascent under lawful conditions, not general lake views or private reserve birding.
+- Location check: 14.583, -91.186; source-linked representative point, not verified entrance or route.
+- Evidence status: source-linked-unverified
+- Sources consulted 2026-11-28: Smithsonian GVP summit coordinates https://volcano.si.edu/volcano.cfm?vn=342060&vtab=GeneralInfo; CONAP https://turismo-sigap.conap.gob.gt/rutas-turisticas/ruta-de-volcanes-paisaje-y-cultura-altiplano/reserva-de-uso-multiple-cuenca-del-lago-de-atitlan/ (excerpts: summit panorama).
+- Worldwide peers (qualitative; current YAML not checked):
+  - Mount Rinjani (ID): greater crater spectacle and trek depth
+  - Mount Batur (ID): comparable volcanic lake setting
+  - Santa Ana Volcano (SV): stronger crater scenery
+  - Cerro Chirripó (CR): comparable high-altitude hiking, different landscape.
+- Individual scores:
+  - impact: 8.9 — Imposing cone and summit panorama
+  - uniqueness: 8.5 — Lakeside stratovolcanoes are attractive but not globally rare
+  - significance: 8.4 — Regional volcanic geology
+  - experience: 8.8 — Substantial hiking experience under lawful conditions
+  - depth: 8.6 — Elevation gradient and viewpoints support extended exploration.
+- Categories: nature 9.0, adventure 9.1, photography 9.1.
+- Overall: 86.55/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact visitor access, current ecology and conditions, numeric peer comparisons and full diagnostics. No access or wildlife guarantees.
+
+## sight-gt-toliman-volcano — Tolimán Volcano — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/toliman-volcano.yaml)
+- Action: new
+- Precise subject: Distinct Tolimán mountain and ascent, excludes Atitlán Volcano and private reserve experiences.
+- Location check: 14.612, -91.189; source-linked representative point, not verified entrance or route.
+- Evidence status: source-linked-unverified
+- Sources consulted 2026-11-28: Smithsonian summit coordinates https://volcano.si.edu/volcano.cfm?lang=en&vn=342070; CONAP basin page https://turismo-sigap.conap.gob.gt/rutas-turisticas/ruta-de-volcanes-paisaje-y-cultura-altiplano/reserva-de-uso-multiple-cuenca-del-lago-de-atitlan/ (excerpts).
+- Worldwide peers (qualitative; current YAML not checked):
+  - Mount Batur (ID): stronger active volcano identity
+  - Mount Hallasan (KR): broader protected summit ecology
+  - Santa Ana (SV): greater crater spectacle
+  - San Pedro (GT): comparable lakeside forest ascent.
+- Individual scores:
+  - impact: 8.6 — Strong lake-facing panorama
+  - uniqueness: 8.2 — Globally comparable stratovolcano
+  - significance: 7.9 — Regional geological significance
+  - experience: 8.6 — Rewarding strenuous hike without presumed access
+  - depth: 8.4 — Substantial ascent and forest scenery.
+- Categories: nature 8.8, adventure 8.9, photography 9.0.
+- Overall: 83.40/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact visitor access, current ecology and conditions, numeric peer comparisons and full diagnostics. No access or wildlife guarantees.
+
+## sight-gt-los-andes-nature-reserve — Los Andes Nature Reserve and Birdwatching — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/los-andes-nature-reserve.yaml)
+- Action: new
+- Precise subject: Private reserve guided forest birding and interpretation; excludes adjacent Los Tarrales and full volcanic ascent.
+- Location check: 14.5324, -91.1861; source-linked representative point, not verified entrance or route.
+- Evidence status: source-linked-unverified
+- Sources consulted 2026-11-28: Mapped reserve polygon https://mapcarta.com/es/W1192515993 (opened); CONAP registry https://conap.gob.gt/listado-de-areas-protegidas/entry/4155/; https://livinginguatemala.com/activities/los-andes-private-reserve-birding/ (excerpt: documented quetzal program and birding).
+- Worldwide peers (qualitative; current YAML not checked):
+  - Monteverde (CR): broader iconic cloud-forest experience
+  - Mindo (EC): more extensive Andean birding network
+  - Cockscomb Basin (BZ): different lowland wildlife emphasis
+  - Los Tarrales (GT): greater documented endemic-bird diversity.
+- Individual scores:
+  - impact: 8.6 — Forest immersion and birding offer strong specialist appeal
+  - uniqueness: 8.9 — Montane habitat and quetzal program are distinctive
+  - significance: 9.0 — Conservation of regional species matters
+  - experience: 8.9 — Guided birding provides strong engagement without guarantees
+  - depth: 8.8 — Multiple habitats and interpretation support depth.
+- Categories: nature 9.2, wildlife 9.3, photography 8.9.
+- Overall: 88.20/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact visitor access, current ecology and conditions, numeric peer comparisons and full diagnostics. No access or wildlife guarantees.
+
+## sight-gt-rio-sarstun-wetland — Río Sarstún Multiple Use Reserve — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/rio-sarstun-wetland.yaml)
+- Action: new
+- Precise subject: Guatemalan protected wetland only, excluding Belizean territory, disputed cross-border navigation and guaranteed sightings.
+- Location check: 15.85, -88.966667; source-linked representative point, not verified entrance or route.
+- Evidence status: source-linked-unverified
+- Sources consulted 2026-11-28: Ramsar https://www.ramsar.org/news/guatemala-names-7th-ramsar-site (excerpt: 15°51′N 88°58′W, mangroves and species); https://biomeconservation.org/project/laguna_grande/ (excerpt: conservation and community agreements); visitor access not confirmed.
+- Worldwide peers (qualitative; current YAML not checked):
+  - Sian Ka’an (MX): broader coastal and reef ecosystem
+  - Tortuguero (CR): more established wildlife visitor circuits
+  - Barra de Santiago (SV): comparable mangrove focus
+  - Bocas del Polochic (GT): stronger documented freshwater visit.
+- Individual scores:
+  - impact: 8.5 — Mangrove waterways offer strong natural scenery
+  - uniqueness: 8.7 — Large Caribbean mangrove remnant is regionally distinctive
+  - significance: 9.2 — Ramsar recognition and threatened species habitat matter
+  - experience: 8.2 — Focused lawful nature viewing only, route unverified
+  - depth: 8.7 — Multiple wetland habitats provide interpretive breadth.
+- Categories: nature 9.2, wildlife 9.2, photography 8.7.
+- Overall: 86.65/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact visitor access, current ecology and conditions, numeric peer comparisons and full diagnostics. No access or wildlife guarantees.
+
+## sight-gt-yaxha-nakum-naranjo-wetlands — Yaxhá–Nakum–Naranjo National Park Natural Landscape — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/yaxha-nakum-naranjo-wetlands.yaml)
+- Action: new
+- Precise subject: Park's forest and wetland landscape only, excludes archaeological merits of Yaxhá, Nakum, Naranjo and Topoxté and wider reserve.
+- Location check: 17.15, -89.416667; source-linked representative point, not verified entrance or route.
+- Evidence status: source-linked-unverified
+- Sources consulted 2026-11-28: Ramsar list coordinate excerpt https://www.zones-humides.org/sites/default/files/pdf/PNRZH/sitelist-mai2012.pdf (17°09′N 89°25′W); CONAP https://turismo-sigap.conap.gob.gt/rutas-turisticas/ruta-del-mundo-maya-peten/parque-nacional-yaxha-nakum-naranjo/ (excerpt: lakes, migratory birds and wetland designation); https://www.ramsar.org/news/guatemala-names-new-ramsar-site-world-wetlands-day.
+- Worldwide peers (qualitative; current YAML not checked):
+  - Tortuguero (CR): stronger canal wildlife circuit
+  - Cockscomb Basin (BZ): greater specialist forest wildlife focus
+  - Sian Ka’an (MX): much broader ecosystem
+  - Laguna del Tigre (GT): larger protected wetlands.
+- Individual scores:
+  - impact: 8.7 — Forest and lakes create strong natural scenery
+  - uniqueness: 8.7 — Wetland and tropical forest mosaic is distinctive regionally
+  - significance: 9.1 — Important migratory-bird habitat and Ramsar recognition
+  - experience: 8.7 — Permitted forest and lake viewing provide a rewarding visit
+  - depth: 8.8 — Multiple natural habitats offer breadth without ruins credit.
+- Categories: nature 9.2, wildlife 9.1, photography 9.0.
+- Overall: 87.90/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact visitor access, current ecology and conditions, numeric peer comparisons and full diagnostics. No access or wildlife guarantees.
+
+## sight-gt-chelemha-cloud-forest — Chelemhá Cloud Forest Reserve — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/chelemha-cloud-forest.yaml)
+- Action: new
+- Precise subject: Named private cloud forest and guided birding, not entire Sierra Yalijux.
+- Location check: 15.3854, -90.0619; source-linked representative point, not verified entrance or route.
+- Evidence status: source-linked-unverified
+- Sources consulted 2026-11-28: Birding locality coordinate https://www.orniverse.com/site/7700/reserva-chelemha (excerpt); CONAP https://conap.gob.gt/chelemha/ and INGUAT https://visitguatemala.gt/en/blog/birds-of-guatemala/ (excerpts: native forest, quetzal habitat and guided birding trails).
+- Worldwide peers (qualitative; current YAML not checked):
+  - Monteverde (CR): larger iconic cloud forest
+  - Mindo (EC): broader birding network
+  - Cusuco (HN): larger montane forest landscape
+  - Biotopo del Quetzal (GT): comparable forest, Chelemhá offers specialist trail scope.
+- Individual scores:
+  - impact: 8.6 — Cloud forest scenery and rare bird habitat create strong appeal
+  - uniqueness: 8.9 — Protected montane forest and specialist birding are distinctive
+  - significance: 8.9 — Regional biodiversity and watershed value matter
+  - experience: 8.8 — Trails and guided birding are rewarding without sighting guarantees
+  - depth: 8.7 — Forest habitats and interpretation add depth.
+- Categories: nature 9.2, wildlife 9.2, photography 8.9.
+- Overall: 87.75/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact visitor access, current ecology and conditions, numeric peer comparisons and full diagnostics. No access or wildlife guarantees.
+
+## sight-gt-finca-el-pilar-birding — Finca El Pilar Forest and Birdwatching Trails — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/finca-el-pilar-birding.yaml)
+- Action: new
+- Precise subject: Antigua-area finca forest trails and birding, excludes city heritage and unrelated namesake farms.
+- Location check: 14.54176, -90.70141; source-linked representative point, not verified entrance or route.
+- Evidence status: source-linked-unverified
+- Sources consulted 2026-11-28: Mapped farm https://mapcarta.com/es/36422950 (opened); operator https://www.fincaelpilar.com/ (excerpt: forest zones and regional endemic birds); https://livinginguatemala.com/activities/finca-el-pilar-antigua/ (excerpt: trails and birding).
+- Worldwide peers (qualitative; current YAML not checked):
+  - Monteverde (CR): much greater cloud-forest extent
+  - Mindo (EC): larger birding landscape
+  - Cockscomb Basin (BZ): stronger wild forest experience
+  - Los Tarrales (GT): richer specialist biodiversity scope.
+- Individual scores:
+  - impact: 8.1 — Forest trails and birdlife provide strong local appeal
+  - uniqueness: 8.3 — Multiple forest types are regionally distinctive but not globally rare
+  - significance: 8.3 — Regional endemic habitat supports conservation value
+  - experience: 8.7 — Established trails support rewarding birding
+  - depth: 8.4 — Elevation gradient provides good focused depth.
+- Categories: nature 8.8, wildlife 8.9, photography 8.7, adventure 8.3.
+- Overall: 83.10/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact visitor access, current ecology and conditions, numeric peer comparisons and full diagnostics. No access or wildlife guarantees.
+
+## sight-gt-todos-santos-cuchumatanes-regional-park — K’ojlab’l Tze’te Tnom Todos Santos Cuchumatán Regional Park — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/todos-santos-cuchumatanes-regional-park.yaml)
+- Action: new
+- Precise subject: Named municipal highland protected landscape; excludes annual festival and entire Cuchumatanes mountain range.
+- Location check: 15.5275, -91.5756; source-linked representative point, not verified entrance or route.
+- Evidence status: source-linked-unverified
+- Sources consulted 2026-11-28: Mapped reserve https://mapcarta.com/es/W795039136 (opened); CONAP https://turismo-sigap.conap.gob.gt/en/rutas-turisticas/ruta-de-volcanes-paisaje-y-cultura-altiplano/parque-regional-municipal-kojlabl-tze-te-tnom-todos-santos-cuchumatan/ (excerpt: visitor context); CONAP guide https://www.conap.gob.gt/wp-content/uploads/2026/03/Guia-viaje-por-areas-protegidas-2025.pdf (indexed excerpt only: regional endemic flora and fauna).
+- Worldwide peers (qualitative; current YAML not checked):
+  - Cerro Chirripó (CR): greater summit trek
+  - Cusuco (HN): comparable endemic montane biodiversity
+  - Sierra de las Minas (GT): much broader biosphere landscape
+  - Doi Inthanon (TH): more established highland nature circuit.
+- Individual scores:
+  - impact: 8.7 — Open highland and forest panoramas give strong visual appeal
+  - uniqueness: 8.8 — Distinctive regional highland ecology
+  - significance: 8.8 — Endemic and threatened species habitat supports importance
+  - experience: 8.5 — Highland walking offers rewarding exploration
+  - depth: 8.8 — Multiple elevations and habitats provide depth.
+- Categories: nature 9.1, wildlife 8.8, adventure 8.8, photography 9.0.
+- Overall: 87.25/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact visitor access, current ecology and conditions, numeric peer comparisons and full diagnostics. No access or wildlife guarantees.

@@ -1,0 +1,16 @@
+id: sight-gt-toliman-volcano
+name: "Tolimán Volcano"
+location:
+  country_code: GT
+  latitude: 14.612
+  longitude: -91.189
+scores:
+  impact: 8.6
+  uniqueness: 8.2
+  significance: 7.9
+  experience: 8.6
+  depth: 8.4
+  categories:
+    nature: 8.8
+    adventure: 8.9
+    photography: 9.0
