@@ -4447,3 +4447,18 @@ Peer values from country ranking tables or same-batch assessments; complete sour
 - Evidence reviewed 2026-11-28: [UNESCO](https://whc.unesco.org/en/list/1182/) identifies 244 islands, islets and coastal areas in the listed property, with desert-island scenery and rich marine diversity. This supports high impact, uniqueness and significance; the entire gulf is not the named serial property. Experience and depth need component-specific visit evidence; categories currently empty, with nature and wildlife priority candidates.
 - Qualitative comparison leads (peer YAML scores not independently rechecked): Great Barrier Reef (Australia): much larger reef-centered system; Galapagos (Ecuador): island evolution comparator; Belize Barrier Reef (Belize): different reef and mangrove mosaic; Revillagigedo (Mexico): narrower remote pelagic island group.
 - Current I/U/S/E/D: 9.5 / 9.5 / 9.6 / 9.3 / 9.3; overall 94.70/100. Retained unchanged pending full calibration; no new category or perfect score. Coordinates not independently verified. This is limited factual and scope verification, not comprehensive validation of the rating.
+
+## sight-mx-revillagigedo-archipelago — 2026-11-28 category profile completion
+
+- [YAML](../../../countries/MX/sights/revillagigedo-archipelago.yaml) · Action: assess previously empty category profile · **source-linked-unverified**.
+- Categories assigned: nature 9.7, wildlife 9.8. UNESCO identifies four volcanic oceanic islands and large pelagic fauna including mantas, sharks, cetaceans and seabirds. Nature 9.7 matches Cocos Island and New Caledonia, below Galápagos 9.9 and Aldabra 9.8. Wildlife 9.8 recognizes unusually rich large pelagic fauna, above Cocos 9.7 and New Caledonia 9.6, comparable to Aldabra 9.8 and below Galápagos 9.9. No guaranteed encounters; no adventure score without specific checked activity evidence.
+- Evidence checked 2026-11-28: https://whc.unesco.org/en/list/1510/. Named comparison values read from repository YAML at the parent commit. Scores are individual editorial estimates, not claims that UNESCO rates attractions numerically.
+- Existing core ratings, coordinates and names unchanged. Inapplicable or unsupported optional categories omitted; no explicit nulls introduced and no new perfect score.
+
+
+## sight-mx-gulf-of-california-protected-areas — 2026-11-28 category profile completion
+
+- [YAML](../../../countries/MX/sights/gulf-of-california-protected-areas.yaml) · Action: assess previously empty category profile · **source-linked-unverified**.
+- Categories assigned: nature 9.8, wildlife 9.7, photography 9.5. The listed 244 islands, islets and coastal areas combine desert relief and marine diversity, including 891 fish species reported by UNESCO. Nature 9.8 matches Aldabra, above Belize 9.6 and New Caledonia 9.7, below Galápagos 9.9. Wildlife 9.7 recognizes extensive marine species diversity (Cocos 9.7, Belize 9.5, New Caledonia 9.6, Galápagos 9.9); population condition varies and encounters are not assured. Photography 9.5 reflects contrasting desert cliffs and turquoise waters (Aldabra 9.4, Galápagos 9.9, Teotihuacan 9.6 for broad visual calibration). Do not attribute the entire gulf to the listed property.
+- Evidence checked 2026-11-28: https://whc.unesco.org/en/list/1182/. Named comparison values read from repository YAML at the parent commit. Scores are individual editorial estimates, not claims that UNESCO rates attractions numerically.
+- Existing core ratings, coordinates and names unchanged. Inapplicable or unsupported optional categories omitted; no explicit nulls introduced and no new perfect score.
