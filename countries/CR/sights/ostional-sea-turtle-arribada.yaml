@@ -1,0 +1,16 @@
+id: sight-cr-ostional-sea-turtle-arribada
+name: "Ostional Wildlife Refuge Sea Turtle Arribada"
+location:
+  country_code: CR
+  latitude: 9.995
+  longitude: -85.696
+scores:
+  impact: 9.5
+  uniqueness: 9.6
+  significance: 9.5
+  experience: 9.2
+  depth: 8.9
+  categories:
+    wildlife: 9.8
+    nature: 9.5
+    photography: 9.3

@@ -1,0 +1,16 @@
+id: sight-cr-drake-bay-humpback-whale-watching
+name: "Drake Bay Humpback Whale Watching"
+location:
+  country_code: CR
+  latitude: 8.68907
+  longitude: -83.66452
+scores:
+  impact: 9.2
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 9.0
+  depth: 8.6
+  categories:
+    wildlife: 9.5
+    nature: 9.3
+    photography: 9.1

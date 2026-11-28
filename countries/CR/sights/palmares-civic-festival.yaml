@@ -1,0 +1,16 @@
+id: sight-cr-palmares-civic-festival
+name: "Palmares Civic Festival"
+location:
+  country_code: CR
+  latitude: 10.0565
+  longitude: -84.433
+scores:
+  impact: 8.5
+  uniqueness: 8.3
+  significance: 8.6
+  experience: 8.9
+  depth: 8.2
+  categories:
+    culture: 9.0
+    nightlife: 9.0
+    food: 8.7

@@ -1,0 +1,16 @@
+id: sight-cr-piedras-blancas-national-park
+name: "Piedras Blancas National Park"
+location:
+  country_code: CR
+  latitude: 8.7107486
+  longitude: -83.2722737
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.5
+  depth: 8.7
+  categories:
+    nature: 9.3
+    wildlife: 9.2
+    adventure: 8.8

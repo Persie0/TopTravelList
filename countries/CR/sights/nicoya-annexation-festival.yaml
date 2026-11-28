@@ -1,0 +1,16 @@
+id: sight-cr-nicoya-annexation-festival
+name: "Nicoya Cultural Festival of the Annexation"
+location:
+  country_code: CR
+  latitude: 10.14258
+  longitude: -85.45354
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.5
+  experience: 8.9
+  depth: 8.7
+  categories:
+    culture: 9.5
+    history: 9.3
+    photography: 8.9

@@ -1,0 +1,16 @@
+id: sight-cr-la-marta-wildlife-refuge
+name: "La Marta Wildlife Refuge Forest and Historic Hacienda Trails"
+location:
+  country_code: CR
+  latitude: 9.7861
+  longitude: -83.6914
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 8.6
+  depth: 8.6
+  categories:
+    nature: 9.1
+    wildlife: 8.9
+    history: 8.7

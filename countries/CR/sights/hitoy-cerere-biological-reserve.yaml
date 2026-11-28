@@ -1,0 +1,16 @@
+id: sight-cr-hitoy-cerere-biological-reserve
+name: "Hitoy–Cerere Biological Reserve"
+location:
+  country_code: CR
+  latitude: 9.6503343
+  longitude: -83.1091698
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.1
+  depth: 8.5
+  categories:
+    nature: 9.2
+    wildlife: 9.2
+    adventure: 8.7
