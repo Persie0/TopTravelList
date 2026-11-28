@@ -1,0 +1,15 @@
+id: sight-mx-diego-rivera-mural-museum
+name: "Diego Rivera Mural Museum"
+location:
+  country_code: MX
+  latitude: 19.43624
+  longitude: -99.1468
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 8.6
+  depth: 7.5
+  categories:
+    culture: 9.4
+    history: 9.2

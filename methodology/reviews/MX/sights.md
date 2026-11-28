@@ -6537,3 +6537,178 @@ Peer values from country ranking tables or same-batch assessments; complete sour
 - High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
 - Earlier decision: none.
 - Remaining verification: full triangulation, current displays and access, numerical peer checks and worldwide Python validation.
+
+## sight-mx-museum-cultures-oaxaca — Museum of Oaxacan Cultures (Santo Domingo Convent) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/museum-cultures-oaxaca.yaml)
+- Action: new
+- Precise subject: Museum galleries and former convent, not whole Oaxaca historic centre or adjacent church. Tomb 7 original objects credited here, not as exhibits at Monte Albán.
+- Location check: 17.06592, -96.72315; source-linked approximate representative point.
+- Evidence status: source-linked-unverified; opened and indexed material as indicated; independent comprehensive fact-check incomplete; ratings editorial.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/es/node/4252 (opened: original Mixtec Tomb 7 treasures, chronological galleries); https://sic.cultura.gob.mx/ficha.php?estado_id=20&table=museo&table_id=105 (indexed: galleries and regional traditions); https://mapcarta.com/N5302483021 (opened: coordinate).
+- Worldwide peers (qualitative, numerical peer scores not refetched):
+  - Museo Larco (PE): larger specialist pre-Columbian display
+  - Museo del Oro (CO): broader goldwork collection
+  - National Museum of Anthropology (MX): greater national archaeological scope
+  - Museo de América (ES): broader continental collection
+- Individual scores:
+  - impact: 9.2 — Historic convent and refined archaeological objects create outstanding combined impact.
+  - uniqueness: 9.3 — Original Tomb 7 assemblage and regional historical context are unusually distinctive.
+  - significance: 9.5 — Documented Mixtec craftsmanship and Zapotec heritage warrant exceptional historical significance.
+  - experience: 9.1 — Chronological galleries and historic rooms support rich interpretation.
+  - depth: 9.3 — Multiple periods and material traditions provide substantial exploration.
+- Categories: history 9.5, culture 9.5, architecture 9.3.
+- Overall: 92.80/100.
+- High-score challenge: 9.5 history, culture and significance justified by documented original Tomb 7 assemblage and regional chronological scope; not credited with Monte Albán's on-site architectural experience. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete source triangulation, current display and access, numerical peer checks and global Python validation.
+
+## sight-mx-gran-museo-mundo-maya — Great Museum of the Maya World (Mérida) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/gran-museo-mundo-maya.yaml)
+- Action: new
+- Precise subject: Museum collection and interpretation of ancient and living Maya culture, not the surrounding archaeological sites.
+- Location check: 21.03471, -89.62852; source-linked approximate representative point.
+- Evidence status: source-linked-unverified; opened and indexed material as indicated; independent comprehensive fact-check incomplete; ratings editorial.
+- Sources consulted 2026-11-28: https://www.yucatan.gob.mx/index.php/?p=museo_mundo_maya (opened: more than 1160 exhibited objects, ancient to contemporary material); https://www.granmuseodelmundomaya.com.mx/museo (indexed: institutional mission); https://mapcarta.com/W533677673 (opened: coordinate).
+- Worldwide peers (qualitative, numerical peer scores not refetched):
+  - Museo Larco (PE): similarly strong specialist archaeology
+  - Museo del Oro (CO): more concentrated exceptional metalwork
+  - National Museum of Anthropology (MX): more extensive national scope
+  - Museum of Oaxacan Cultures (MX): distinctive regional treasures in historic convent
+- Individual scores:
+  - impact: 8.9 — Sculptures and varied material displays create strong visual engagement.
+  - uniqueness: 9.0 — Continuity between ancient and living Maya heritage gives distinctive focus.
+  - significance: 9.3 — Extensive documented cultural material supports high significance.
+  - experience: 9.1 — Interpretation across time periods offers rewarding museum encounter.
+  - depth: 9.2 — Ancient, colonial and contemporary collections provide substantial breadth.
+- Categories: history 9.4, culture 9.4, architecture 8.9, family 8.8.
+- Overall: 90.65/100.
+- High-score challenge: 90+ supported by documented diverse permanent collection and interpretation of living heritage; no assumption that all museum holdings are visible. No 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete source triangulation, current display and access, numerical peer checks and global Python validation.
+
+## sight-mx-museum-memory-tolerance — Memory and Tolerance Museum (Mexico City) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/museum-memory-tolerance.yaml)
+- Action: new
+- Precise subject: Educational museum about genocide memory, discrimination and human rights, not an original atrocity site. Rating reflects meaningful reflection, not entertainment.
+- Location check: 19.43419, -99.14462; source-linked approximate representative point.
+- Evidence status: source-linked-unverified; opened and indexed material as indicated; independent comprehensive fact-check incomplete; ratings editorial.
+- Sources consulted 2026-11-28: https://myt.org.mx/myt (opened: mission); https://myt.org.mx/sala-tolerancia (opened: permanent galleries on inclusion and rights); https://sic.cultura.gob.mx/ficha.php?table=museo&table_id=1313 (indexed: museum scope); https://mapcarta.com/es/N14253804907 (opened: coordinate).
+- Worldwide peers (qualitative, numerical peer scores not refetched):
+  - United States Holocaust Memorial Museum (US): deeper specialist Holocaust documentation
+  - Canadian Museum for Human Rights (CA): similarly broad rights education
+  - Kigali Genocide Memorial (RW): greater direct historic site significance
+  - Jewish Museum Berlin (DE): distinct historical and architectural focus
+- Individual scores:
+  - impact: 9.0 — Thoughtful historical exhibits can create profound reflective impact.
+  - uniqueness: 8.8 — Combination of comparative historical memory and contemporary social education is distinctive.
+  - significance: 9.2 — Educational work on human rights and prevention supports high significance.
+  - experience: 9.2 — Permanent galleries encourage meaningful reflection and learning.
+  - depth: 9.0 — Several historical and social themes provide substantial breadth.
+- Categories: history 9.3, culture 9.1.
+- Overall: 90.20/100.
+- High-score challenge: 90+ narrowly supported by documented permanent interpretive breadth and reflective experience, not equivalence to original memorial sites or claims of globally unique collections. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete source triangulation, current display and access, numerical peer checks and global Python validation.
+
+## sight-mx-diego-rivera-mural-museum — Diego Rivera Mural Museum — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/diego-rivera-mural-museum.yaml)
+- Action: new
+- Precise subject: Original 1947 Alameda Central fresco and associated interpretation, not the park or Rivera murals elsewhere.
+- Location check: 19.43624, -99.1468; source-linked approximate representative point.
+- Evidence status: source-linked-unverified; opened and indexed material as indicated; independent comprehensive fact-check incomplete; ratings editorial.
+- Sources consulted 2026-11-28: https://sic.cultura.gob.mx/ficha.php?disciplina=&table=museo&table_id=661 (indexed: original mural relocated following earthquake); https://inba.gob.mx/prensa/15955/el-museo-mural-diego-rivera-34-a-ntildeos-de-resguardar-el-mural-sue-ntildeo-de-una-tarde-dominical-en-la-alameda-central (indexed only; full page 403: preservation and designation); https://mapcarta.com/es/W217480502 (opened: coordinate).
+- Worldwide peers (qualitative, numerical peer scores not refetched):
+  - Museo Reina Sofía (ES): much wider collection beyond a major painting
+  - Museo Picasso Barcelona (ES): broader artist collection
+  - Chagall National Museum (FR): broader artist-focused ensemble
+  - Palacio de Bellas Artes (MX): wider mural ensemble
+- Individual scores:
+  - impact: 9.0 — Major fresco creates strong artistic impact.
+  - uniqueness: 9.2 — Singular original Rivera mural is distinctive.
+  - significance: 9.2 — Nationally significant work and preservation history support importance.
+  - experience: 8.6 — Focused viewing and interpretive material reward visitors.
+  - depth: 7.5 — Single principal work limits depth.
+- Categories: culture 9.4, history 9.2.
+- Overall: 88.80/100.
+- High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete source triangulation, current display and access, numerical peer checks and global Python validation.
+
+## sight-mx-museo-tamayo — Tamayo Contemporary Art Museum — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/museo-tamayo.yaml)
+- Action: new
+- Precise subject: Modern and contemporary art museum in Chapultepec, distinct from Tamayo pre-Hispanic museum in Oaxaca and wider park; rotation of collections acknowledged.
+- Location check: 19.42556, -99.18167; source-linked approximate representative point.
+- Evidence status: source-linked-unverified; opened and indexed material as indicated; independent comprehensive fact-check incomplete; ratings editorial.
+- Sources consulted 2026-11-28: https://inba.gob.mx/recinto/30/ (indexed: founder and collection); https://inba.gob.mx/actividad/18337/museo-tamayo-arquitectura-y-cosmotecnica (indexed: architects and architectural history); https://inba.gob.mx/prensa/14223/museo-tamayo-recinto-para-el-publico-mexicano (indexed only; full page 403: international holdings); https://commons.wikimedia.org/wiki/Institution%3AMuseo_Tamayo%2C_Mexico_City (indexed: DMS coordinate converted).
+- Worldwide peers (qualitative, numerical peer scores not refetched):
+  - Tate Modern (GB): much broader international modern art
+  - Louisiana Museum (DK): larger architectural and landscape scope
+  - MALBA (AR): stronger regional Latin American collection focus
+  - Anahuacalli (MX): more distinctive collector-led architecture
+- Individual scores:
+  - impact: 8.8 — Art and geometric architecture provide strong impact.
+  - uniqueness: 8.8 — Distinctive founder-led international collection has global peers.
+  - significance: 9.0 — Important Mexican institution for contemporary art supports significance.
+  - experience: 8.8 — Curated exhibitions provide rewarding interpretation.
+  - depth: 8.6 — Collection and changing program provide depth but no fixed display guaranteed.
+- Categories: culture 9.2, architecture 9.1, history 8.7.
+- Overall: 88.20/100.
+- High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete source triangulation, current display and access, numerical peer checks and global Python validation.
+
+## sight-mx-museo-san-carlos — National Museum of San Carlos — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/museo-san-carlos.yaml)
+- Action: new
+- Precise subject: European art collection in historic Buenavista palace, distinct from Mexican national art museum.
+- Location check: 19.43806, -99.15194; source-linked approximate representative point.
+- Evidence status: source-linked-unverified; opened and indexed material as indicated; independent comprehensive fact-check incomplete; ratings editorial.
+- Sources consulted 2026-11-28: https://inba.gob.mx/recinto/50/ (indexed: collection origins); https://inba.gob.mx/prensa/22970/el-museo-nacional-de-san-carlos-alberga-un-acervo-uacutenico-de-arte-europeo-del-siglo-xiv-al-xx (indexed: 14th–20th century collection); https://commons.wikimedia.org/wiki/Institution%3AMuseo_Nacional_de_San_Carlos (indexed: DMS coordinate converted).
+- Worldwide peers (qualitative, numerical peer scores not refetched):
+  - Prado (ES): much greater European painting collection
+  - National Gallery (GB): greater masterwork concentration
+  - Museo Nacional de Bellas Artes (AR): comparable regional European holdings
+  - MUNAL (MX): different national artistic heritage
+- Individual scores:
+  - impact: 8.5 — Historic architecture and artwork offer strong visual appeal.
+  - uniqueness: 8.4 — European art collections have extensive global peers.
+  - significance: 8.9 — Historic academy provenance adds cultural significance.
+  - experience: 8.7 — Varied media and historic setting reward exploration.
+  - depth: 8.8 — Several centuries of art support depth.
+- Categories: culture 9.0, history 9.0, architecture 8.8.
+- Overall: 86.15/100.
+- High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete source triangulation, current display and access, numerical peer checks and global Python validation.
+
+## sight-mx-museo-intervenciones — National Museum of Interventions (Churubusco) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/museo-intervenciones.yaml)
+- Action: new
+- Precise subject: Historic former convent and museum interpreting foreign interventions in Mexico, including its direct historical context; no claim of access to every room.
+- Location check: 19.35464, -99.14879; source-linked approximate representative point.
+- Evidence status: source-linked-unverified; opened and indexed material as indicated; independent comprehensive fact-check incomplete; ratings editorial.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/es/node/4972 (indexed: institution); https://sic.cultura.gob.mx/ficha.php?table=museo&table_id=978 (indexed: historical displays); https://www.wikidata.org/wiki/Q6940505 (opened: SIC-referenced DMS coordinates converted).
+- Worldwide peers (qualitative, numerical peer scores not refetched):
+  - Imperial War Museum (GB): broader collection and international scope
+  - Musée de l'Armée (FR): greater military history collection
+  - National Historical Museum (AR): comparable national perspective
+  - Chapultepec Castle (MX): broader Mexican national history
+- Individual scores:
+  - impact: 8.4 — Historic convent and historical exhibits offer strong impact.
+  - uniqueness: 8.6 — Specific national perspective on foreign intervention is distinctive.
+  - significance: 9.0 — Historical site and interpretive subject support high importance.
+  - experience: 8.6 — Rooms and displays reward reflective exploration.
+  - depth: 8.7 — Several historical periods plus building context provide substantial breadth.
+- Categories: history 9.2, culture 8.9, architecture 8.8.
+- Overall: 86.30/100.
+- High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete source triangulation, current display and access, numerical peer checks and global Python validation.

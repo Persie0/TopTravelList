@@ -1,0 +1,16 @@
+id: sight-mx-museo-intervenciones
+name: "National Museum of Interventions (Churubusco)"
+location:
+  country_code: MX
+  latitude: 19.35464
+  longitude: -99.14879
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 9.0
+  experience: 8.6
+  depth: 8.7
+  categories:
+    history: 9.2
+    culture: 8.9
+    architecture: 8.8

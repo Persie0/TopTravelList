@@ -1,0 +1,16 @@
+id: sight-mx-museo-tamayo
+name: "Tamayo Contemporary Art Museum"
+location:
+  country_code: MX
+  latitude: 19.42556
+  longitude: -99.18167
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.8
+  depth: 8.6
+  categories:
+    culture: 9.2
+    architecture: 9.1
+    history: 8.7

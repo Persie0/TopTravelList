@@ -1,0 +1,16 @@
+id: sight-mx-museo-san-carlos
+name: "National Museum of San Carlos"
+location:
+  country_code: MX
+  latitude: 19.43806
+  longitude: -99.15194
+scores:
+  impact: 8.5
+  uniqueness: 8.4
+  significance: 8.9
+  experience: 8.7
+  depth: 8.8
+  categories:
+    culture: 9.0
+    history: 9.0
+    architecture: 8.8

@@ -1,0 +1,15 @@
+id: sight-mx-museum-memory-tolerance
+name: "Memory and Tolerance Museum (Mexico City)"
+location:
+  country_code: MX
+  latitude: 19.43419
+  longitude: -99.14462
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 9.2
+  experience: 9.2
+  depth: 9.0
+  categories:
+    history: 9.3
+    culture: 9.1
