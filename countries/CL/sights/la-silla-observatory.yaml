@@ -1,0 +1,16 @@
+id: sight-cl-la-silla-observatory
+name: "La Silla Observatory Guided Public Telescope Heritage Tour"
+location:
+  country_code: CL
+  latitude: -29.256
+  longitude: -70.734
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 8.6
+  depth: 8.9
+  categories:
+    culture: 9.2
+    photography: 9.1
+    family: 9.0

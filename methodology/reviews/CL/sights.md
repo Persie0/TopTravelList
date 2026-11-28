@@ -2918,3 +2918,247 @@ Ranking-row comparisons are preliminary; independent peer YAML, coordinate verif
 ### Pass 324 scope decisions
 
 12 provisional additions (9 source-linked, 3 desk-based), 3 90+, 24 ranking-row comparisons (12 international, 12 domestic). CL 144 ranked / 144 total, +77 since baseline 67, 29 new 90+ across seven passes. Isla Negra literary heritage, Noche Valdiviana and Curicó Vendimia researched. Simpson reserve and river fishing grouped; Rainbow Valley and Yerbas Buenas grouped; two thermal facilities distinct from adjacent parks. Kawésqar maritime-only access requires specific non-overlapping visitor route (https://www.conaf.cl/parque_nacionales/parque-nacional-kawesqar/); Aysén Isla Magdalena distinct from Magallanes Los Pingüinos but exact visitor scope deferred (https://www.conaf.cl/parque_nacionales/parque-nacional-isla-magdalena/); Salar del Huasco has no visitor infrastructure or trails per CONAF (https://www.conaf.cl/parque_nacionales/parque-nacional-salar-del-huasco/), defer pending route scope. Villarrica crater ascent deferred for parent overlap (https://chile.travel/en/attractions/villarrica-national-park/). Prior UNESCO coverage and deferrals retained. Chile OPEN. Coordinates approximate; current conditions and future schedules unverified. Full Python validation, independent peer YAML and same-type global calibration pending.
+
+## sight-cl-paranal-observatory — Paranal Observatory Very Large Telescope Guided Public Tour — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/paranal-observatory.yaml)
+- Action: new
+- Scope: ESO public observatory tours and occasional separately scheduled night programme; distinct from recreational stargazing. No professional telescope observation assumed.
+- Representative coordinates: -24.627, -70.404; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.eso.org/public/about-eso/visitors/paranal/ ; https://eso.org/public/announcements/annlang26009-es-cl/ ; https://www.eso.org/public/about-eso/visitors/paranal-nights/
+- Core I/U/S/E/D: 9.2 / 9.3 / 9.5 / 8.8 / 9.0.
+- Categories: culture:9.3 photography:9.2 family:9.0.
+- Overall: 92.05/100.
+- Decision: provisional worldwide score; temporary access excluded.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CL/atacama-astronomical-observing-tours](../../../countries/CL/sights/atacama-astronomical-observing-tours.yaml) | 8.9 / 9.1 / 7.9 / 9.1 / 7.7 | impact: 0.3; uniqueness: 0.2 vs peer |
+| [AR/el-leoncito-national-park](../../../countries/AR/sights/el-leoncito-national-park.yaml) | 9.2 / 9.4 / 9.3 / 9.1 / 9.1 | impact: 0.0; uniqueness: -0.1 vs peer |
+
+Ranking-row comparisons are preliminary; independent peer YAML, coordinate verification and global calibration pending.
+
+## sight-cl-frutillar-music-weeks — Frutillar Semanas Musicales Classical Music Festival Public Concert Programme — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/frutillar-music-weeks.yaml)
+- Action: new
+- Scope: Classical concert festival held since 1968; 59th season announced for 2027. Venue Teatro del Lago grouped with event; no separate festival credit for ordinary venue visits.
+- Representative coordinates: -41.126, -73.049; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://semanasmusicales.cl/en/preguntas-frecuentes ; https://fach.mil.cl/fuerza-aerea-de-chile-participo-en-el-lanzamiento-de-la-temporada-59-de-las
+- Core I/U/S/E/D: 9.0 / 9.0 / 9.3 / 9.2 / 9.2.
+- Categories: culture:9.4 photography:9.0 nightlife:9.1.
+- Overall: 91.10/100.
+- Decision: provisional worldwide score; temporary access excluded.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CL/vina-del-mar-festival](../../../countries/CL/sights/vina-del-mar-festival.yaml) | 9.2 / 8.8 / 9.3 / 9.4 / 8.9 | impact: -0.2; uniqueness: 0.2 vs peer |
+| [AR/santiago-del-estero-chacarera](../../../countries/AR/sights/santiago-del-estero-chacarera.yaml) | 9.1 / 9.3 / 9.3 / 9.2 / 9.1 | impact: -0.1; uniqueness: -0.3 vs peer |
+
+Ranking-row comparisons are preliminary; independent peer YAML, coordinate verification and global calibration pending.
+
+## sight-cl-punihuil-penguin-islets — Puñihuil Islets Natural Monument Guided Penguin Boat Viewing — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/punihuil-penguin-islets.yaml)
+- Action: new
+- Scope: Boat viewing of a rare mixed Humboldt and Magellanic penguin breeding locality; no landing or sighting guarantee. Distinct from other penguin reserves.
+- Representative coordinates: -41.924, -74.039; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://chile.travel/en/blog/penguins-from-chile-where-to-see-these-amazing-diving-birds/ ; https://chile.travel/en/attractions/ancud-and-castro/
+- Core I/U/S/E/D: 9.0 / 9.3 / 8.9 / 9.0 / 8.6.
+- Categories: wildlife:9.4 nature:9.3 photography:9.2.
+- Overall: 90.15/100.
+- Decision: provisional worldwide score; temporary access excluded.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CL/bahia-inutil-king-penguins](../../../countries/CL/sights/bahia-inutil-king-penguins.yaml) | 9.1 / 9.4 / 9.2 / 8.9 / 8.5 | impact: -0.1; uniqueness: -0.1 vs peer |
+| [AR/cabo-virgenes](../../../countries/AR/sights/cabo-virgenes.yaml) | 8.8 / 8.7 / 8.8 / 8.4 / 8.4 | impact: 0.2; uniqueness: 0.6 vs peer |
+
+Ranking-row comparisons are preliminary; independent peer YAML, coordinate verification and global calibration pending.
+
+## sight-cl-santiago-sanfic — Santiago International Film Festival SANFIC Public Screening Programme — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/santiago-sanfic.yaml)
+- Action: new
+- Scope: Distinct international film festival, held since 2005; 22nd edition announced for November 2–8 2026. Public screening programme only, not private industry meetings.
+- Representative coordinates: -33.437, -70.64; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://sanfic.com/the-festival/?lang=en ; https://sanfic.com/sanfic22-anuncia-su-programacion-con-diego-luna-como-invitado-especial-un-reconocimiento-a-antonia-zegers-y-destacados-cineastas-del-cine-internacional-y-nacional/
+- Core I/U/S/E/D: 9.0 / 8.9 / 9.2 / 9.2 / 9.1.
+- Categories: culture:9.4 nightlife:9.1.
+- Overall: 90.55/100.
+- Decision: provisional worldwide score; temporary access excluded.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CL/valdivia-international-film-festival](../../../countries/CL/sights/valdivia-international-film-festival.yaml) | 9.0 / 9.1 / 9.3 / 9.2 / 9.2 | impact: 0.0; uniqueness: -0.2 vs peer |
+| [AR/buenos-aires-bafici](../../../countries/AR/sights/buenos-aires-bafici.yaml) | 9.0 / 9.1 / 9.2 / 9.2 / 9.3 | impact: 0.0; uniqueness: -0.2 vs peer |
+
+Ranking-row comparisons are preliminary; independent peer YAML, coordinate verification and global calibration pending.
+
+## sight-cl-la-silla-observatory — La Silla Observatory Guided Public Telescope Heritage Tour — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/la-silla-observatory.yaml)
+- Action: new
+- Scope: Separate ESO observatory with public tours and telescope exhibits subject to operating conditions; no guarantee of night visits.
+- Representative coordinates: -29.256, -70.734; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.eso.org/public/about-eso/visitors/lasilla/ ; https://www.hq.eso.org/public/about-eso/visitors/lasilla-nights/
+- Core I/U/S/E/D: 8.9 / 9.0 / 9.1 / 8.6 / 8.9.
+- Categories: culture:9.2 photography:9.1 family:9.0.
+- Overall: 89.20/100.
+- Decision: provisional worldwide score; temporary access excluded.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CL/mamalluca-observatory](../../../countries/CL/sights/mamalluca-observatory.yaml) | 8.7 / 8.8 / 8.5 / 8.8 / 8.5 | impact: 0.2; uniqueness: 0.2 vs peer |
+| [AR/el-leoncito-national-park](../../../countries/AR/sights/el-leoncito-national-park.yaml) | 9.2 / 9.4 / 9.3 / 9.1 / 9.1 | impact: -0.3; uniqueness: -0.4 vs peer |
+
+Ranking-row comparisons are preliminary; independent peer YAML, coordinate verification and global calibration pending.
+
+## sight-cl-la-sebastiana-neruda-house — Valparaíso La Sebastiana Pablo Neruda House Museum — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/la-sebastiana-neruda-house.yaml)
+- Action: new
+- Scope: Distinct Neruda house collection, not Isla Negra; city views shared with historic district not additive.
+- Representative coordinates: -33.052, -71.621; approximate editorial point, independent verification pending.
+- Evidence status: **desk-based provisional**
+- Sources: General knowledge; individual source verification pending.
+- Core I/U/S/E/D: 8.6 / 8.8 / 9.1 / 8.5 / 8.6.
+- Categories: culture:9.3 history:9.2 architecture:9.1.
+- Overall: 87.35/100.
+- Decision: provisional worldwide score; temporary access excluded.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CL/isla-negra-neruda-house](../../../countries/CL/sights/isla-negra-neruda-house.yaml) | 9.0 / 9.2 / 9.5 / 8.8 / 9.0 | impact: -0.4; uniqueness: -0.4 vs peer |
+| [AR/buenos-aires-museo-evita](../../../countries/AR/sights/buenos-aires-museo-evita.yaml) | 8.2 / 8.5 / 8.9 / 8.4 / 8.4 | impact: 0.4; uniqueness: 0.3 vs peer |
+
+Ranking-row comparisons are preliminary; independent peer YAML, coordinate verification and global calibration pending.
+
+## sight-cl-la-chascona-neruda-house — Santiago La Chascona Pablo Neruda House Museum — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/la-chascona-neruda-house.yaml)
+- Action: new
+- Scope: Distinct Neruda residence and collections; no private access assumed.
+- Representative coordinates: -33.431, -70.634; approximate editorial point, independent verification pending.
+- Evidence status: **desk-based provisional**
+- Sources: General knowledge; individual source verification pending.
+- Core I/U/S/E/D: 8.5 / 8.7 / 9.1 / 8.5 / 8.6.
+- Categories: culture:9.3 history:9.2 architecture:9.0.
+- Overall: 86.80/100.
+- Decision: provisional worldwide score; temporary access excluded.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CL/isla-negra-neruda-house](../../../countries/CL/sights/isla-negra-neruda-house.yaml) | 9.0 / 9.2 / 9.5 / 8.8 / 9.0 | impact: -0.5; uniqueness: -0.5 vs peer |
+| [AR/buenos-aires-museo-evita](../../../countries/AR/sights/buenos-aires-museo-evita.yaml) | 8.2 / 8.5 / 8.9 / 8.4 / 8.4 | impact: 0.3; uniqueness: 0.2 vs peer |
+
+Ranking-row comparisons are preliminary; independent peer YAML, coordinate verification and global calibration pending.
+
+## sight-cl-fuerte-bulnes — Fuerte Bulnes and Strait of Magellan Historical Park — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/fuerte-bulnes.yaml)
+- Action: new
+- Scope: Reconstructed fort and associated historical interpretation grouped; no claim of original surviving fort buildings.
+- Representative coordinates: -53.628, -70.917; approximate editorial point, independent verification pending.
+- Evidence status: **desk-based provisional**
+- Sources: General knowledge; individual source verification pending.
+- Core I/U/S/E/D: 8.6 / 8.7 / 9.0 / 8.5 / 8.6.
+- Categories: history:9.3 culture:9.1 photography:9.1.
+- Overall: 86.90/100.
+- Decision: provisional worldwide score; temporary access excluded.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CL/niebla-valdivia-fortifications](../../../countries/CL/sights/niebla-valdivia-fortifications.yaml) | 8.6 / 8.7 / 9.0 / 8.5 / 8.5 | impact: 0.0; uniqueness: 0.0 vs peer |
+| [AR/puerto-san-julian-nao-victoria](../../../countries/AR/sights/puerto-san-julian-nao-victoria.yaml) | 8.2 / 8.6 / 8.8 / 8.3 / 8.4 | impact: 0.4; uniqueness: 0.1 vs peer |
+
+Ranking-row comparisons are preliminary; independent peer YAML, coordinate verification and global calibration pending.
+
+## sight-cl-ojos-del-caburgua — Ojos del Caburgua Springs and Forest Waterfall Trails — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/ojos-del-caburgua.yaml)
+- Action: new
+- Scope: Designated paths and water features separate from Villarrica National Park; water flow not guaranteed.
+- Representative coordinates: -39.242, -71.827; approximate editorial point, independent verification pending.
+- Evidence status: **desk-based provisional**
+- Sources: General knowledge; individual source verification pending.
+- Core I/U/S/E/D: 8.6 / 8.5 / 8.0 / 8.8 / 8.2.
+- Categories: nature:9.2 photography:9.2 relaxation:9.0.
+- Overall: 84.45/100.
+- Decision: provisional worldwide score; temporary access excluded.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CL/salto-del-laja](../../../countries/CL/sights/salto-del-laja.yaml) | 8.5 / 8.4 / 8.1 / 8.7 / 8.0 | impact: 0.1; uniqueness: 0.1 vs peer |
+| [AR/salto-encantado](../../../countries/AR/sights/salto-encantado.yaml) | 8.6 / 8.5 / 8.3 / 8.7 / 8.5 | impact: 0.0; uniqueness: 0.0 vs peer |
+
+Ranking-row comparisons are preliminary; independent peer YAML, coordinate verification and global calibration pending.
+
+## sight-cl-pica-oasis — Pica Oasis and Cocha Resbaladero Thermal Bathing Heritage — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/pica-oasis.yaml)
+- Action: new
+- Scope: Oasis village and public thermal pool experience grouped, distinct from salt flats; no medical claims.
+- Representative coordinates: -20.491, -69.329; approximate editorial point, independent verification pending.
+- Evidence status: **desk-based provisional**
+- Sources: General knowledge; individual source verification pending.
+- Core I/U/S/E/D: 8.2 / 8.6 / 8.5 / 8.6 / 8.3.
+- Categories: culture:9.0 relaxation:9.1 photography:8.9.
+- Overall: 84.30/100.
+- Decision: provisional worldwide score; temporary access excluded.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CL/puritama-hot-springs](../../../countries/CL/sights/puritama-hot-springs.yaml) | 8.0 / 7.8 / 6.5 / 8.7 / 7.4 | impact: 0.2; uniqueness: 0.8 vs peer |
+| [AR/termas-de-reyes](../../../countries/AR/sights/termas-de-reyes.yaml) | 8.5 / 8.5 / 8.2 / 8.8 / 8.3 | impact: -0.3; uniqueness: 0.1 vs peer |
+
+Ranking-row comparisons are preliminary; independent peer YAML, coordinate verification and global calibration pending.
+
+## sight-cl-iquique-esmeralda-museum — Iquique Corbeta Esmeralda Maritime Replica Museum — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/iquique-esmeralda-museum.yaml)
+- Action: new
+- Scope: Full-scale ship replica and maritime museum; not original wreck and no submerged site access.
+- Representative coordinates: -20.208, -70.151; approximate editorial point, independent verification pending.
+- Evidence status: **desk-based provisional**
+- Sources: General knowledge; individual source verification pending.
+- Core I/U/S/E/D: 8.4 / 8.7 / 9.0 / 8.5 / 8.4.
+- Categories: history:9.3 culture:9.1 family:9.0.
+- Overall: 86.10/100.
+- Decision: provisional worldwide score; temporary access excluded.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CL/punta-arenas-nao-victoria](../../../countries/CL/sights/punta-arenas-nao-victoria.yaml) | 8.5 / 8.7 / 8.8 / 8.6 / 8.5 | impact: -0.1; uniqueness: 0.0 vs peer |
+| [AR/puerto-san-julian-nao-victoria](../../../countries/AR/sights/puerto-san-julian-nao-victoria.yaml) | 8.2 / 8.6 / 8.8 / 8.3 / 8.4 | impact: 0.2; uniqueness: 0.1 vs peer |
+
+Ranking-row comparisons are preliminary; independent peer YAML, coordinate verification and global calibration pending.
+
+## sight-cl-senda-darwin-reserve — Senda Darwin Biological Reserve Chiloé Forest Interpretation Trails — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/senda-darwin-reserve.yaml)
+- Action: new
+- Scope: Distinct conservation and forest interpretation location; visitor arrangements require verification, no scientific station access assumed.
+- Representative coordinates: -41.882, -73.666; approximate editorial point, independent verification pending.
+- Evidence status: **desk-based provisional**
+- Sources: General knowledge; individual source verification pending.
+- Core I/U/S/E/D: 8.2 / 8.6 / 8.7 / 8.2 / 8.5.
+- Categories: nature:9.2 wildlife:9.1 photography:8.8.
+- Overall: 84.30/100.
+- Decision: provisional worldwide score; temporary access excluded.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CL/tantauco-park](../../../countries/CL/sights/tantauco-park.yaml) | 9.1 / 9.0 / 8.9 / 9.0 / 9.3 | impact: -0.9; uniqueness: -0.4 vs peer |
+| [AR/urugua-i-provincial-park](../../../countries/AR/sights/urugua-i-provincial-park.yaml) | 8.5 / 8.6 / 8.8 / 8.1 / 8.5 | impact: -0.3; uniqueness: 0.0 vs peer |
+
+Ranking-row comparisons are preliminary; independent peer YAML, coordinate verification and global calibration pending.
+
+### Pass 325 scope decisions
+
+12 provisional additions (5 source-linked, 7 desk-based), 4 90+, 24 ranking-row comparisons (12 international, 12 domestic). CL 156 ranked / 156 total, +89 since baseline 67, 33 new 90+ across eight passes. Paranal, Puñihuil, Frutillar and SANFIC researched; La Silla public tours also sourced. ALMA routine public programme remains suspended despite two special October visits (https://www.almaobservatory.org/en/visits/ ; https://www.almaobservatory.org/en/announcements/during-science-month-alma-opens-its-doors-to-celebrate-15-years-of-observing-the-universe/); defer separate visitor scope. Patagonian parks route inventory screened (https://chile.travel/en/destinations/patagonian-parks-route/): Corcovado, Melimoyu and Yendegaia deferred for distinct established visitor activity scope, rather than lack of physical access alone (https://www.conaf.cl/parque_nacionales/parque-nacional-corcovado/ ; https://www.conaf.cl/parque_nacionales/parque-nacional-melimoyu/ ; https://www.conaf.cl/parque_nacionales/parque-nacional-yendegaia/). Chañaral de Aceituno boat wildlife overlaps Humboldt Penguin reserve (https://chile.travel/en/attractions/humboldt-penguin-national-reserve/). Prior Kawésqar, Aysén Isla Magdalena, Salar del Huasco, Villarrica crater, Carretera Austral and UNESCO component deferrals retained. Bounded current discovery queue closed, not exhaustive; reopen for concrete substantial omission. Existing scores preserved; coordinates approximate, access and future schedules unverified. Full Python validation, independent peer YAML and same-type global calibration pending.
