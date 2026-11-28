@@ -1,0 +1,17 @@
+id: sight-mx-museo-de-arte-popular
+name: "Museum of Popular Art (Mexico City)"
+location:
+  country_code: MX
+  latitude: 19.43378
+  longitude: -99.1463
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 9.0
+  depth: 8.8
+  categories:
+    culture: 9.4
+    history: 8.9
+    photography: 9.1
+    architecture: 8.7

@@ -6387,3 +6387,153 @@ Peer values from country ranking tables or same-batch assessments; complete sour
 ## Pass 425 scope screening — 2026-11-28
 
 - Cataviña boulder desert is encompassed by existing Valle de los Cirios landscape; no new broad landscape duplicate. Cataviña rock shelter is a separate cultural subject. Picacho del Diablo is limited to the summit and specialist ascent, independently rated from the surrounding national park.
+
+## sight-mx-museo-nacional-de-arte — National Museum of Art (MUNAL) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/museo-nacional-de-arte.yaml)
+- Action: new
+- Precise subject: National Mexican art collection and its historic Palacio de Comunicaciones building; no assumption that all holdings are exhibited at once.
+- Location check: 19.4364, -99.1394; source-linked approximate representative point.
+- Evidence status: source-linked-unverified; opened and indexed material as specified; comprehensive independent verification incomplete; ratings editorial.
+- Sources consulted 2026-11-28: https://munal.mx/es/tesoros-del-munal (opened: almost 10,000 holdings spanning 450 years, representative artists and historic building); https://mexicocity.cdmx.gob.mx/venues/national-art-museum-munal/?lang=en (indexed: collection and architectural context); https://mapcarta.com/26259842 (opened: mapped museum point).
+- Worldwide peers (qualitative, numerical peer scores not refetched):
+  - Museo del Prado (ES): much greater international painting canon and collection depth
+  - National Gallery (GB): broader internationally influential European painting
+  - Museo Nacional de Bellas Artes (AR): comparable national art history with different focus
+  - Palacio de Bellas Artes (MX): distinctive monumental murals and architecture rather than broad national painting collection
+- Individual scores:
+  - impact: 9.1 — Historic grand interior and paintings create outstanding combined visual impact.
+  - uniqueness: 9.0 — Concentrated Mexican art history offers a distinctive national perspective.
+  - significance: 9.3 — Documented works of major colonial and modern Mexican artists warrant high significance.
+  - experience: 9.0 — Curated galleries and historic interior provide rewarding interpretation.
+  - depth: 9.3 — Multiple centuries and artistic schools support substantial exploration.
+- Categories: culture 9.4, history 9.3, architecture 9.2.
+- Overall: 91.20/100.
+- High-score challenge: 90+ supported by documented collection breadth and protected historic architecture, not sheer holding count; below Prado and comparable major global art collections. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: full triangulation, current displays and access, numerical peer checks and worldwide Python validation.
+
+## sight-mx-anahuacalli-museum — Diego Rivera Anahuacalli Museum — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/anahuacalli-museum.yaml)
+- Action: new
+- Precise subject: Rivera's museum and architectural ensemble, including its 2021 expansion and displayed Mesoamerican collection; distinct from Casa Azul and Rivera-Kahlo studio museum. No credit for all stored objects as accessible.
+- Location check: 19.32258, -99.14408; source-linked approximate representative point.
+- Evidence status: source-linked-unverified; opened and indexed material as specified; comprehensive independent verification incomplete; ratings editorial.
+- Sources consulted 2026-11-28: https://museoanahuacalli.org.mx/exposiciones/arte-indigena/ (opened: approximately 2500 displayed from roughly 60000 pieces collected); https://www.iit.edu/news/remodeling-and-expansion-celebrated-mexico-city-museum-wins-mchap-2023 (opened: MCHAP award, volcanic stone setting and architectural extension); https://mexicocity.cdmx.gob.mx/venues/anahuacalli-museum/?lang=en (indexed: architecture and artistic conception); https://mapcarta.com/N1676564699 (opened: mapped museum point).
+- Worldwide peers (qualitative, numerical peer scores not refetched):
+  - Museo Larco (PE): similarly distinctive collector-founded pre-Columbian art museum
+  - Guggenheim Bilbao (ES): stronger global architectural landmark but different collection
+  - Louisiana Museum of Modern Art (DK): comparable architecture-landscape integration
+  - National Museum of Anthropology (MX): broader archaeological coverage and nationally defining exhibits
+- Individual scores:
+  - impact: 9.2 — Dark volcanic stone architecture and ancient art create memorable visual unity.
+  - uniqueness: 9.4 — Rivera's personal conception of an art sanctuary in a lava landscape is unusually distinctive.
+  - significance: 9.2 — Mesoamerican holdings and important Mexican architectural authorship support significance.
+  - experience: 9.0 — Art displays and public architectural spaces offer a rewarding encounter.
+  - depth: 8.9 — Substantial displayed collection and multiple buildings supply breadth.
+- Categories: architecture 9.5, culture 9.4, history 9.2, photography 9.2.
+- Overall: 91.90/100.
+- High-score challenge: Architecture 9.5 justified by the original ensemble and independent MCHAP 2023 recognition of the expansion, with site-specific lava-field integration. No inference that all 60,000 collected pieces are on display; award alone does not determine rating. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: full triangulation, current displays and access, numerical peer checks and worldwide Python validation.
+
+## sight-mx-museo-amparo — Amparo Museum (Puebla) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/museo-amparo.yaml)
+- Action: new
+- Precise subject: Art museum in restored colonial buildings, permanent pre-Hispanic and colonial collections plus contemporary program; not the entire historic center of Puebla.
+- Location check: 19.0408, -98.1985; source-linked approximate representative point.
+- Evidence status: source-linked-unverified; opened and indexed material as specified; comprehensive independent verification incomplete; ratings editorial.
+- Sources consulted 2026-11-28: https://museoamparo.com/colecciones (indexed: permanent collection axes); https://fundacionamparo.com/museo_amparo.html (indexed: collection breadth); https://sic.gob.mx/ficha.php?disciplina=&table=museo&table_id=166 (indexed: two historic buildings); https://www.wikidata.org/wiki/Q3328379 (opened: coordinate imported from Wikimedia, approximate).
+- Worldwide peers (qualitative, numerical peer scores not refetched):
+  - Museo Larco (PE): stronger concentrated pre-Columbian collection
+  - Museo del Oro (CO): more distinctive specialist holdings
+  - National Museum of Anthropology (MX): greater archaeological breadth
+  - Museo Nacional de Arte (MX): broader national painting context
+- Individual scores:
+  - impact: 8.8 — Varied displays and colonial architecture create strong impact.
+  - uniqueness: 8.8 — Combination of ancient and later Mexican art is distinctive.
+  - significance: 9.1 — Documented collection and interpretation support substantial cultural importance.
+  - experience: 9.0 — Multiple galleries provide rewarding visitor experience.
+  - depth: 9.0 — Long chronological span provides substantial depth.
+- Categories: culture 9.2, history 9.2, architecture 8.9.
+- Overall: 89.10/100.
+- High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: full triangulation, current displays and access, numerical peer checks and worldwide Python validation.
+
+## sight-mx-museo-de-arte-popular — Museum of Popular Art (Mexico City) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/museo-de-arte-popular.yaml)
+- Action: new
+- Precise subject: Museum of Mexican folk art and craft traditions in Art Deco former fire station; excludes independently staged public festivals.
+- Location check: 19.43378, -99.1463; source-linked approximate representative point.
+- Evidence status: source-linked-unverified; opened and indexed material as specified; comprehensive independent verification incomplete; ratings editorial.
+- Sources consulted 2026-11-28: https://mexicocity.cdmx.gob.mx/venues/museum-of-popular-art/?lang=en (indexed: over 3000 donated works and varied craft media); https://sic.cultura.gob.mx/ficha.php?estado_id=9&table=museo&table_id=1092 (indexed: galleries covering 32 states); https://es.wikipedia.org/wiki/Museo_de_Arte_Popular_(Ciudad_de_M%C3%A9xico) (opened: approximate museum coordinates).
+- Worldwide peers (qualitative, numerical peer scores not refetched):
+  - Museum of International Folk Art (US): wider cross-cultural folk-art scope
+  - Museum of Folk Art (AT): different regional ethnographic tradition
+  - Museo de Arte Popular Andino (PE): narrower regional focus
+  - Anahuacalli (MX): different ancient-art collection and architecture
+- Individual scores:
+  - impact: 8.8 — Colorful objects and varied craft traditions create strong visual appeal.
+  - uniqueness: 8.9 — Comprehensive Mexican craft focus provides distinctive cultural identity.
+  - significance: 9.0 — Representation of living traditions across the country supports cultural significance.
+  - experience: 9.0 — Accessible galleries and varied materials provide rewarding interpretation.
+  - depth: 8.8 — Several craft media and regions provide substantial breadth.
+- Categories: culture 9.4, history 8.9, photography 9.1, architecture 8.7.
+- Overall: 88.95/100.
+- High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: full triangulation, current displays and access, numerical peer checks and worldwide Python validation.
+
+## sight-mx-museo-del-desierto — Desert Museum (Saltillo) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/museo-del-desierto.yaml)
+- Action: new
+- Precise subject: Desert natural-history museum with paleontology exhibits and educational interpretation; not whole regional fossil beds, all original fossils, or guaranteed live wildlife.
+- Location check: 25.41347, -100.96407; source-linked approximate representative point.
+- Evidence status: source-linked-unverified; opened and indexed material as specified; comprehensive independent verification incomplete; ratings editorial.
+- Sources consulted 2026-11-28: https://sic.cultura.gob.mx/ficha.php?table=museo&table_id=896 (indexed: paleontology pavilion, fossils, representations and laboratory); https://inba.gob.mx/recinto/589 (indexed: institution identity); https://mapcarta.com/W69111068 (opened: mapped museum building).
+- Worldwide peers (qualitative, numerical peer scores not refetched):
+  - Royal Tyrrell Museum (CA): greater specialist dinosaur fossil collection
+  - Natural History Museum London (GB): much greater global natural-history breadth
+  - Arizona-Sonora Desert Museum (US): comparable desert education with extensive living habitats
+  - Museo de Historia Natural (MX): broader natural history scope
+- Individual scores:
+  - impact: 8.5 — Fossils and dinosaur displays provide memorable visual engagement.
+  - uniqueness: 8.6 — Desert ecology and paleontology combination is distinctive.
+  - significance: 8.6 — Regional scientific interpretation and fossil context support importance.
+  - experience: 8.9 — Educational galleries provide strong family experience.
+  - depth: 8.8 — Multiple natural-history themes support extended exploration.
+- Categories: nature 9.0, history 8.6, family 9.1, wildlife 8.6.
+- Overall: 86.35/100.
+- High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: full triangulation, current displays and access, numerical peer checks and worldwide Python validation.
+
+## sight-mx-museo-de-las-momias — Mummies Museum of Guanajuato — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/museo-de-las-momias.yaml)
+- Action: new
+- Precise subject: Collection of naturally preserved human remains associated with local burial history; scored for historical interpretation, not sensationalism. Ethical handling and display concerns should be respected.
+- Location check: 21.02005, -101.26624; source-linked approximate representative point.
+- Evidence status: source-linked-unverified; opened and indexed material as specified; comprehensive independent verification incomplete; ratings editorial.
+- Sources consulted 2026-11-28: https://momiasdeguanajuato.guanajuatocapital.gob.mx/ (indexed: cemetery exhumation history); https://sic.cultura.gob.mx/ficha.php?table=museo&table_id=571 (indexed: collection of more than 100 remains after 2007 remodeling; not asserted as current count); https://mapcarta.com/W605637433 (opened: mapped museum point).
+- Worldwide peers (qualitative, numerical peer scores not refetched):
+  - Capuchin Catacombs (IT): more extensive historic funerary setting
+  - South Tyrol Museum of Archaeology (IT): greater scientific context around Ötzi
+  - Egyptian Museum (EG): much broader funerary archaeological collections
+  - Museo de las Momias de Santa Elena (MX): smaller regional collection
+- Individual scores:
+  - impact: 8.7 — Naturally preserved remains create a memorable solemn encounter.
+  - uniqueness: 9.1 — Concentrated collection of local natural mummification is distinctive.
+  - significance: 8.5 — Burial practices and local social history support significance.
+  - experience: 8.1 — Reflective interpretation can be meaningful but display is not universally suitable.
+  - depth: 7.8 — Focused funerary subject limits breadth.
+- Categories: history 8.8, culture 8.6.
+- Overall: 85.80/100.
+- High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: full triangulation, current displays and access, numerical peer checks and worldwide Python validation.

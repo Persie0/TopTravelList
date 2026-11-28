@@ -1,0 +1,17 @@
+id: sight-mx-museo-del-desierto
+name: "Desert Museum (Saltillo)"
+location:
+  country_code: MX
+  latitude: 25.41347
+  longitude: -100.96407
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.6
+  experience: 8.9
+  depth: 8.8
+  categories:
+    nature: 9.0
+    history: 8.6
+    family: 9.1
+    wildlife: 8.6
