@@ -361,3 +361,63 @@
 - Categories: architecture 8.2, photography 8.2, relaxation 7.8. Computed overall: 70.60/100.
 - High-score challenge: Not applicable. Approved 10 registry: none.
 - Verification still needed: individual facts, coordinates unless stated, current access and closer same-type peer calibration.
+
+
+<!-- Recovered from legacy source branch, 2026-11-28; original evidence status and peer snapshots retained. -->
+
+## city-ad-el-serrat — El Serrat — 2026-11-25
+
+- [YAML](../../../countries/AD/cities/el-serrat.yaml) · Action: new · **editorial-only**.
+- Representative point 42.618, 1.539; Approximate; exact-site GPS verification incomplete.
+- Worldwide peers (I/U/S/E/D):
+  - [perast (ME)](../../../countries/ME/cities/perast.yaml) — 8.7/8.8/8.4/8.5/7.5 (85.15/100).
+  - [hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 8.3/8.4/8.1/8.2/7.6 (82.00/100).
+  - [blagaj (BA)](../../../countries/BA/cities/blagaj.yaml) — 7.8/8/7.7/8/7.2 (78.00/100).
+  - [rose (ME)](../../../countries/ME/cities/rose.yaml) — 7.4/7.6/7/8/6.8 (74.00/100).
+- Impact 7.3: Small valley hamlet.
+- Uniqueness 7.4: regional highland settlement.
+- Significance 6.8: local pastoral heritage.
+- Experience 7.6: quiet village walks.
+- Depth 6.6: nearby natural park excluded.
+- Categories: photography:8.3,relaxation:8.1. Overall 72.00/100.
+- High-score challenge: Not applicable. No approved 10.
+- Evidence: Exact named-source corroboration not completed.
+- Remaining gaps: exact GPS except UNESCO reference, source-level facts, current access and complete dimension-specific comparisons. Shared comparison ladders may mix scope.
+
+## city-ad-llorts — Llorts — 2026-11-25
+
+- [YAML](../../../countries/AD/cities/llorts.yaml) · Action: new · **source-linked-unverified**.
+- Representative point 42.596, 1.528; Approximate; exact-site GPS verification incomplete.
+- Worldwide peers (I/U/S/E/D):
+  - [perast (ME)](../../../countries/ME/cities/perast.yaml) — 8.7/8.8/8.4/8.5/7.5 (85.15/100).
+  - [hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 8.3/8.4/8.1/8.2/7.6 (82.00/100).
+  - [blagaj (BA)](../../../countries/BA/cities/blagaj.yaml) — 7.8/8/7.7/8/7.2 (78.00/100).
+  - [rose (ME)](../../../countries/ME/cities/rose.yaml) — 7.4/7.6/7/8/6.8 (74.00/100).
+- Impact 7.5: Stone houses beside river.
+- Uniqueness 7.8: traditional iron-working village setting.
+- Significance 7.7: regional industrial heritage.
+- Experience 7.7: short lane walks.
+- Depth 6.8: mine and full iron route excluded.
+- Categories: architecture:8.3,history:8.3. Overall 75.75/100.
+- High-score challenge: Not applicable. No approved 10.
+- Evidence: [Visit Andorra](https://visitandorra.com/en/nature--sports/hiking-route-ruta-del-ferro/) — page or excerpt inspected 2026-11-25; limited named identity, location or visitor context, not full claim verification.
+- Remaining gaps: exact GPS except UNESCO reference, source-level facts, current access and complete dimension-specific comparisons. Shared comparison ladders may mix scope.
+
+## city-ad-sispony — Sispony — 2026-11-25
+
+- [YAML](../../../countries/AD/cities/sispony.yaml) · Action: new · **editorial-only**.
+- Representative point 42.535, 1.515; Approximate; exact-site GPS verification incomplete.
+- Worldwide peers (I/U/S/E/D):
+  - [perast (ME)](../../../countries/ME/cities/perast.yaml) — 8.7/8.8/8.4/8.5/7.5 (85.15/100).
+  - [hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 8.3/8.4/8.1/8.2/7.6 (82.00/100).
+  - [blagaj (BA)](../../../countries/BA/cities/blagaj.yaml) — 7.8/8/7.7/8/7.2 (78.00/100).
+  - [rose (ME)](../../../countries/ME/cities/rose.yaml) — 7.4/7.6/7/8/6.8 (74.00/100).
+- Impact 7.3: Stone houses on slopes.
+- Uniqueness 7.6: traditional rural village character.
+- Significance 7.5: domestic heritage.
+- Experience 7.6: short village and house visit.
+- Depth 6.8: small built circuit.
+- Categories: architecture:8.2,culture:8.2. Overall 74.10/100.
+- High-score challenge: Not applicable. No approved 10.
+- Evidence: Exact named-source corroboration not completed.
+- Remaining gaps: exact GPS except UNESCO reference, source-level facts, current access and complete dimension-specific comparisons. Shared comparison ladders may mix scope.

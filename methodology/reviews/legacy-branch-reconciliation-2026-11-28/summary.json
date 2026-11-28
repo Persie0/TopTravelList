@@ -1,0 +1,986 @@
+{
+  "starting_main": "bd541445578be1ed83ce9610f23ef100a19af721",
+  "non_main_refs": 417,
+  "already_ancestor": 235,
+  "reconciled_branches": 182,
+  "counts": {
+    "exact": 14928,
+    "generated": 720
+  },
+  "decisions": {
+    "retain_current_document_or_implementation": 143,
+    "keep_current_readme_regenerate_rankings": 1,
+    "retain_current_competing_rating": 3538,
+    "restore_distinct_record": 13,
+    "canonical_replacement": 52,
+    "restore_historical_document": 2
+  },
+  "restored": [
+    {
+      "path": "countries/AD/cities/el-serrat.yaml",
+      "id": "city-ad-el-serrat",
+      "name": "El Serrat",
+      "score_fields": {
+        "impact": 7.3,
+        "uniqueness": 7.4,
+        "significance": 6.8,
+        "experience": 7.6,
+        "depth": 6.6,
+        "categories": {
+          "photography": 8.3,
+          "relaxation": 8.1
+        }
+      },
+      "evidence": "editorial-only",
+      "source_commit": "9746d56b1279c17d6baa24e1494b11036de42579"
+    },
+    {
+      "path": "countries/AD/cities/llorts.yaml",
+      "id": "city-ad-llorts",
+      "name": "Llorts",
+      "score_fields": {
+        "impact": 7.5,
+        "uniqueness": 7.8,
+        "significance": 7.7,
+        "experience": 7.7,
+        "depth": 6.8,
+        "categories": {
+          "architecture": 8.3,
+          "history": 8.3
+        }
+      },
+      "evidence": "source-linked-unverified",
+      "source_commit": "9746d56b1279c17d6baa24e1494b11036de42579"
+    },
+    {
+      "path": "countries/AD/cities/sispony.yaml",
+      "id": "city-ad-sispony",
+      "name": "Sispony",
+      "score_fields": {
+        "impact": 7.3,
+        "uniqueness": 7.6,
+        "significance": 7.5,
+        "experience": 7.6,
+        "depth": 6.8,
+        "categories": {
+          "architecture": 8.2,
+          "culture": 8.2
+        }
+      },
+      "evidence": "editorial-only",
+      "source_commit": "9746d56b1279c17d6baa24e1494b11036de42579"
+    },
+    {
+      "path": "countries/AD/sights/andorra-la-vella-old-town.yaml",
+      "id": "sight-ad-andorra-la-vella-old-town",
+      "name": "Andorra la Vella Old Town",
+      "score_fields": {
+        "impact": 7.8,
+        "uniqueness": 8.0,
+        "significance": 8.1,
+        "experience": 8.2,
+        "depth": 7.6,
+        "categories": {
+          "architecture": 8.6,
+          "history": 8.7
+        }
+      },
+      "evidence": "editorial-only",
+      "source_commit": "9746d56b1279c17d6baa24e1494b11036de42579"
+    },
+    {
+      "path": "countries/AD/sights/bici-lab-andorra.yaml",
+      "id": "sight-ad-bici-lab-andorra",
+      "name": "Bici Lab Andorra",
+      "score_fields": {
+        "impact": 7.7,
+        "uniqueness": 8.1,
+        "significance": 7.7,
+        "experience": 8.3,
+        "depth": 7.8,
+        "categories": {
+          "culture": 8.5,
+          "family": 8.6
+        }
+      },
+      "evidence": "source-linked-unverified",
+      "source_commit": "9746d56b1279c17d6baa24e1494b11036de42579"
+    },
+    {
+      "path": "countries/AD/sights/estany-de-les-truites.yaml",
+      "id": "sight-ad-estany-de-les-truites",
+      "name": "Estany de les Truites",
+      "score_fields": {
+        "impact": 8.3,
+        "uniqueness": 8.2,
+        "significance": 7.4,
+        "experience": 8.5,
+        "depth": 7.9,
+        "categories": {
+          "nature": 8.9,
+          "photography": 8.9
+        }
+      },
+      "evidence": "source-linked-unverified",
+      "source_commit": "9746d56b1279c17d6baa24e1494b11036de42579"
+    },
+    {
+      "path": "countries/AD/sights/iron-route-llorts-to-la-cortinada.yaml",
+      "id": "sight-ad-iron-route-llorts-to-la-cortinada",
+      "name": "Iron Route Llorts to La Cortinada",
+      "score_fields": {
+        "impact": 7.9,
+        "uniqueness": 8.3,
+        "significance": 8.2,
+        "experience": 8.4,
+        "depth": 8.1,
+        "categories": {
+          "history": 8.8,
+          "culture": 8.7,
+          "nature": 8.6
+        }
+      },
+      "evidence": "source-linked-unverified",
+      "source_commit": "9746d56b1279c17d6baa24e1494b11036de42579"
+    },
+    {
+      "path": "countries/AD/sights/la-margineda-bridge.yaml",
+      "id": "sight-ad-la-margineda-bridge",
+      "name": "La Margineda Bridge",
+      "score_fields": {
+        "impact": 7.8,
+        "uniqueness": 8.1,
+        "significance": 8.4,
+        "experience": 7.9,
+        "depth": 6.7,
+        "categories": {
+          "history": 8.8,
+          "architecture": 8.7,
+          "photography": 8.5
+        }
+      },
+      "evidence": "source-linked-unverified",
+      "source_commit": "9746d56b1279c17d6baa24e1494b11036de42579"
+    },
+    {
+      "path": "countries/AD/sights/llorts-mine.yaml",
+      "id": "sight-ad-llorts-mine",
+      "name": "Llorts Mine",
+      "score_fields": {
+        "impact": 7.3,
+        "uniqueness": 8.0,
+        "significance": 8.1,
+        "experience": 7.8,
+        "depth": 6.9,
+        "categories": {
+          "history": 8.6,
+          "culture": 8.3
+        }
+      },
+      "evidence": "source-linked-unverified",
+      "source_commit": "9746d56b1279c17d6baa24e1494b11036de42579"
+    },
+    {
+      "path": "countries/AD/sights/museum-of-miniatures.yaml",
+      "id": "sight-ad-museum-of-miniatures",
+      "name": "Museum of Miniatures",
+      "score_fields": {
+        "impact": 7.5,
+        "uniqueness": 8.3,
+        "significance": 7.7,
+        "experience": 8.2,
+        "depth": 7.1,
+        "categories": {
+          "culture": 8.7,
+          "family": 8.4
+        }
+      },
+      "evidence": "source-linked-unverified",
+      "source_commit": "9746d56b1279c17d6baa24e1494b11036de42579"
+    },
+    {
+      "path": "countries/AD/sights/naturland-adventure-park.yaml",
+      "id": "sight-ad-naturland-adventure-park",
+      "name": "Naturland Adventure Park",
+      "score_fields": {
+        "impact": 7.9,
+        "uniqueness": 8.2,
+        "significance": 6.6,
+        "experience": 8.6,
+        "depth": 8.2,
+        "categories": {
+          "family": 9.0,
+          "adventure": 8.9
+        }
+      },
+      "evidence": "source-linked-unverified",
+      "source_commit": "9746d56b1279c17d6baa24e1494b11036de42579"
+    },
+    {
+      "path": "countries/AD/sights/sant-corneli-i-sant-cebria-church.yaml",
+      "id": "sight-ad-sant-corneli-i-sant-cebria-church",
+      "name": "Sant Corneli i Sant Cebrià Church",
+      "score_fields": {
+        "impact": 7.4,
+        "uniqueness": 7.8,
+        "significance": 8.1,
+        "experience": 7.8,
+        "depth": 7.0,
+        "categories": {
+          "culture": 8.5,
+          "history": 8.6
+        }
+      },
+      "evidence": "source-linked-unverified",
+      "source_commit": "9746d56b1279c17d6baa24e1494b11036de42579"
+    },
+    {
+      "path": "countries/MC/sights/casino-square.yaml",
+      "id": "sight-mc-casino-square",
+      "name": "Casino Square",
+      "score_fields": {
+        "impact": 8.2,
+        "uniqueness": 8.0,
+        "significance": 7.8,
+        "experience": 8.3,
+        "depth": 6.9,
+        "categories": {
+          "architecture": 8.8,
+          "photography": 8.9
+        }
+      },
+      "evidence": "source-linked-unverified",
+      "source_commit": "e39410e3cab94a2442d2e127920e34ee0459f4b2"
+    }
+  ],
+  "branch_heads": [
+    {
+      "branch": "audit/austria-remaining-86-individual-sight-review-2026",
+      "commit": "bf0858e0fd206bf06b28b0a64ed215414cddf473"
+    },
+    {
+      "branch": "audit/austria-sites-spotchecked-2026",
+      "commit": "7b372e3edfbb22c956b5b99171ef3cbf0470b230"
+    },
+    {
+      "branch": "audit/cambodia-remaining-177-individual-sight-review-2026",
+      "commit": "4f67b1e190c42611e190f57365fc282b001fb4da"
+    },
+    {
+      "branch": "audit/china-remaining-sights-global-peers-2026",
+      "commit": "8cd49e86625feba2ea8b3504834513f42bdd558c"
+    },
+    {
+      "branch": "audit/complete-china-407-sights-2026",
+      "commit": "2f6fc352a2b48000eba79670791a270413b08cbd"
+    },
+    {
+      "branch": "audit/complete-south-korea-240-sights-2026",
+      "commit": "bae2c8fbbc40ef9aa6433a824fbadaf08eac357d"
+    },
+    {
+      "branch": "audit/complete-vietnam-286-sights-2026",
+      "commit": "54fbc4b1fa44229f61f3c7158787d8e75394d70d"
+    },
+    {
+      "branch": "audit/global-unesco-anchor-reassessment-2026",
+      "commit": "7b5905869f09709dead18c11ff551a6a63a3eb78"
+    },
+    {
+      "branch": "audit/individual-sight-review-2026",
+      "commit": "e134c06481255831259eb089d5d153a692c93126"
+    },
+    {
+      "branch": "audit/jp-id-worldwide-v2-followup",
+      "commit": "ba7c94e4c954cd68cade0f68c70866555a735ceb"
+    },
+    {
+      "branch": "audit/korea-thailand-vietnam-taiwan-peer-review-2026",
+      "commit": "6c63763b063a4cbcd8e0872c2eee70b5258d6c60"
+    },
+    {
+      "branch": "audit/missing-sights-cultural-20261126",
+      "commit": "54b17f06fd490ebe95026300e7dcb17a44f0e974"
+    },
+    {
+      "branch": "audit/research-backlog-high-priority-2026",
+      "commit": "60831f641c948be43e19bbca067dee9d2288f438"
+    },
+    {
+      "branch": "audit/research-remaining-1655-sights-2026",
+      "commit": "b305aa5fc710e28e07df2df1837739fc770fc224"
+    },
+    {
+      "branch": "audit/south-korea-remaining-240-individual-sight-review-2026",
+      "commit": "24b1a3770c1cd4510f7633d3a87c5d3bd157d441"
+    },
+    {
+      "branch": "audit/taiwan-remaining-140-individual-sight-review-2026",
+      "commit": "d56be59dfb6197391c5fda060caf05718661e2c7"
+    },
+    {
+      "branch": "audit/thailand-remaining-162-individual-sight-review-2026",
+      "commit": "7f9d6fbf155a672f52844459c80599dc5a25702d"
+    },
+    {
+      "branch": "data/afghanistan-worldwide-v2-2026",
+      "commit": "c029f3c52b58cbbecf3ed1ef3b1a6b71079b3ce9"
+    },
+    {
+      "branch": "data/albania-worldwide-v2-2026",
+      "commit": "cee64e5d0544ae78253d6278beff0ededc23c170"
+    },
+    {
+      "branch": "data/americas-access-reassessment-20261125",
+      "commit": "2a2c96f5e80b55306f0721bd7a6cb39af4d58ff4"
+    },
+    {
+      "branch": "data/americas-heritage-components-followup-20261125",
+      "commit": "a08ba8ce800d5c885c676cc87601933b8572b0ae"
+    },
+    {
+      "branch": "data/americas-remaining-heritage-20261125",
+      "commit": "ed4ae6b9cb1490577936f9c7ce535761442836f0"
+    },
+    {
+      "branch": "data/andorra-worldwide-v2-56",
+      "commit": "ef7f7e50df6d456103e504df42e363c3c8c2706a"
+    },
+    {
+      "branch": "data/andorra-worldwide-v2-ready-2026",
+      "commit": "9746d56b1279c17d6baa24e1494b11036de42579"
+    },
+    {
+      "branch": "data/angola-worldwide-v2",
+      "commit": "4216863b84e8dfd4a8ffd17654854a7e129730aa"
+    },
+    {
+      "branch": "data/antigua-barbuda-worldwide-20261125",
+      "commit": "fd8e870cc147ca96cff5d7cd0bacae5419fe9992"
+    },
+    {
+      "branch": "data/argentina-worldwide-v2-2026",
+      "commit": "4be54a27de55646c45bd9aac7efb630cba651e60"
+    },
+    {
+      "branch": "data/armenia-worldwide-v2-2026",
+      "commit": "158e325aa309755ff06c8361b7d4162335a17b6e"
+    },
+    {
+      "branch": "data/azerbaijan-worldwide-v2-2026",
+      "commit": "9abe5548b53499cca27a0b4156bcc4c0d74cec06"
+    },
+    {
+      "branch": "data/bahamas-worldwide-20261125",
+      "commit": "d414390beefccf2afb743999552eab58ea9293ad"
+    },
+    {
+      "branch": "data/bangladesh-worldwide-v2-2026",
+      "commit": "546149d98c51e47bbb22cd16bf5a5eceefc8f6fd"
+    },
+    {
+      "branch": "data/barbados-worldwide-20261125",
+      "commit": "37bd044f1c5509fd9d65fe539862ebc67114f3ff"
+    },
+    {
+      "branch": "data/benin-worldwide-20261125",
+      "commit": "b58214105ed30b844a2bfef06b71a6cfe4621af1"
+    },
+    {
+      "branch": "data/bhutan-worldwide-v2-2026",
+      "commit": "97f41dd687b40eb64748c67521a24e7267e52ac4"
+    },
+    {
+      "branch": "data/bolivia-worldwide-v2-2026",
+      "commit": "3d62f2543383155a5aa01a1116e39add8097ba14"
+    },
+    {
+      "branch": "data/bosnia-herzegovina-worldwide-v2-2026",
+      "commit": "f6d424ec8d4579a679fe16addbd76a2fcd846120"
+    },
+    {
+      "branch": "data/botswana-worldwide-20261125",
+      "commit": "4beca452d06e4c3082e9226363381ccf20e76624"
+    },
+    {
+      "branch": "data/brazil-worldwide-v2-2026",
+      "commit": "424d7954b2b3031824f789acb4997a9418c5073c"
+    },
+    {
+      "branch": "data/brunei-worldwide-v2-2026",
+      "commit": "29006f0d6ef58f11207047575c61c638a0c1d52c"
+    },
+    {
+      "branch": "data/cabo-verde-worldwide-20261125",
+      "commit": "ede4511382e543710d857487c246a83595aefab1"
+    },
+    {
+      "branch": "data/cameroon-worldwide-v2",
+      "commit": "a9c5d5c97e28eacf7cd7cec567a67b31ff1eec06"
+    },
+    {
+      "branch": "data/canada-worldwide-20261125",
+      "commit": "1e5a8f5299580323db206d03ec78f84f1872357c"
+    },
+    {
+      "branch": "data/chile-worldwide-v2-2026",
+      "commit": "55617dace64e100e66057d472d08d57f57eacf15"
+    },
+    {
+      "branch": "data/colombia-worldwide-v2-2026",
+      "commit": "6485f7814f40ca0c344b9113cceda3e500f8bb7e"
+    },
+    {
+      "branch": "data/comoros-worldwide-20261125",
+      "commit": "d2e79b67cfffa760ebf15c071343b90b0ddf6042"
+    },
+    {
+      "branch": "data/complete-all-empty-profiles",
+      "commit": "73bb128b41469d27a04d84a849cbb88d5b870a89"
+    },
+    {
+      "branch": "data/cote-divoire-worldwide-v2",
+      "commit": "5d041d068f114dae2633436573a8ed08891ca366"
+    },
+    {
+      "branch": "data/cuba-worldwide-20261125",
+      "commit": "baa44cb0f220b02c2a513f8f3f7f11c0c975a183"
+    },
+    {
+      "branch": "data/czechia-worldwide-v2-2026",
+      "commit": "21d4ee3f131c02de7a6dbc9d3c12acf29630283d"
+    },
+    {
+      "branch": "data/djibouti-worldwide-20261125",
+      "commit": "90d986ef3afdbd033aba4c533de9189a38b40e68"
+    },
+    {
+      "branch": "data/dominica-worldwide-20261125",
+      "commit": "d8d11b9ffec220957fa4fbab4cc56caff9849235"
+    },
+    {
+      "branch": "data/dominican-republic-worldwide-20261125",
+      "commit": "5fd0bfea852e7f0c21c6470d29881cdcf436dc4c"
+    },
+    {
+      "branch": "data/dr-congo-worldwide-v2",
+      "commit": "5c6ea143e69c5807182d93f73b933f88bf98ff82"
+    },
+    {
+      "branch": "data/ecuador-worldwide-v2-2026",
+      "commit": "a2aff0f2f6f8d3d2bd8280b563e730121cc4f155"
+    },
+    {
+      "branch": "data/estonia-worldwide-v2-20261125",
+      "commit": "742163a74a4250e7b13dbb7bf573016d4527c4bd"
+    },
+    {
+      "branch": "data/eswatini-worldwide-20261125",
+      "commit": "fc0f98a25d305a88f5d8d8d7f180ccdaebf0b1db"
+    },
+    {
+      "branch": "data/finland-worldwide-v2-20261125",
+      "commit": "97a96de2699ff2f0276a48a5229e25d86e034452"
+    },
+    {
+      "branch": "data/gambia-worldwide-20261125",
+      "commit": "c879f9c894e2b59ccbb8b8510e72c5ff5626fcf8"
+    },
+    {
+      "branch": "data/georgia-worldwide-v2-2026",
+      "commit": "7c95a1c1b083d7fff05760e731922cdcf23f6ded"
+    },
+    {
+      "branch": "data/grenada-worldwide-20261125",
+      "commit": "87a4dee9d9251f3dfc542e873974f8f863ab3f19"
+    },
+    {
+      "branch": "data/guatemala-worldwide-20261125",
+      "commit": "fd170356612ee5774cc1fa21717509ea4ab863a8"
+    },
+    {
+      "branch": "data/guyana-worldwide-v2-2026",
+      "commit": "ddf2b1e31d8340dd861c3c1f544e0a8737f4f72d"
+    },
+    {
+      "branch": "data/haiti-worldwide-20261125",
+      "commit": "b684598f8ea767958538d57da2ef8519ecaf2fde"
+    },
+    {
+      "branch": "data/india-worldwide-v2-2026",
+      "commit": "ab6e96ff7cb323d5e636b8466f37747614572085"
+    },
+    {
+      "branch": "data/indonesia-worldwide-v2-2026",
+      "commit": "ae772936f6879868d1576692d957fb20ba69e744"
+    },
+    {
+      "branch": "data/iraq-worldwide-v2-2026",
+      "commit": "e188a2da7297702f0d5bccb2b6c69fb2cc929cfb"
+    },
+    {
+      "branch": "data/jamaica-worldwide-20261125",
+      "commit": "8f9a928e96121ecb50b0702a9b88a6d70b03171d"
+    },
+    {
+      "branch": "data/japan-worldwide-v2-2026",
+      "commit": "af841172214c029e870fa790821f65de4a6423b5"
+    },
+    {
+      "branch": "data/jordan-worldwide-v2-2026",
+      "commit": "4d84e1f14e88d7dc81cfb8af7f743f395a0a3ba5"
+    },
+    {
+      "branch": "data/kazakhstan-worldwide-v2-2026",
+      "commit": "bc3c2b071a051d48d8fd6f6285f4c997a7e5a95a"
+    },
+    {
+      "branch": "data/kiribati-worldwide-rankings",
+      "commit": "3f9e33a694938e3c7d71fc197a2ab298bcb918bf"
+    },
+    {
+      "branch": "data/kosovo-worldwide-v2-56",
+      "commit": "1ee6046a7b5f9e24a443c2f9c925750a2a8378b9"
+    },
+    {
+      "branch": "data/kyrgyzstan-worldwide-v2-2026",
+      "commit": "d913882f9771598d25ab7f9b1b7013f64c437a1f"
+    },
+    {
+      "branch": "data/laos-worldwide-v2-2026",
+      "commit": "8df68f95f78f366b75dfad43ddb75c4b7cc8c2bd"
+    },
+    {
+      "branch": "data/latvia-worldwide-v2-20261125",
+      "commit": "50cd6b981fafe64920990c1954524ad665814165"
+    },
+    {
+      "branch": "data/lebanon-worldwide-v2-2026",
+      "commit": "ab16126e2b8e2c8aa69673f0e8eaf5917f4f4277"
+    },
+    {
+      "branch": "data/lesotho-worldwide-20261125",
+      "commit": "3288c976a738fb05b0e7dea0ee21daaf84f7f99f"
+    },
+    {
+      "branch": "data/libya-worldwide-v2",
+      "commit": "1a171f3b9055ec1cb2056ff39b1fec3fd5dee040"
+    },
+    {
+      "branch": "data/liechtenstein-worldwide-v2-2026",
+      "commit": "9edc60a28022839d9b0b701c70ce490c1d018a2f"
+    },
+    {
+      "branch": "data/lithuania-worldwide-v2-20261125",
+      "commit": "a054c02eb0a84c66e474b02d91758bb5d5a2e075"
+    },
+    {
+      "branch": "data/luxembourg-worldwide-v2-2026",
+      "commit": "1bfa52c6b4d59d835299db002cdafbdbf05129f1"
+    },
+    {
+      "branch": "data/malawi-worldwide-20261125",
+      "commit": "9e76eb9d287ac8ab2d7ee3a474294e45390d6e4c"
+    },
+    {
+      "branch": "data/malaysia-worldwide-v2-2026",
+      "commit": "cd0bb7ea79f0e72dbb3cc91987885a0cbe95908c"
+    },
+    {
+      "branch": "data/malta-worldwide-v2-2026",
+      "commit": "782ae0f3f13a711c7405075beaaf0483ea80bdbb"
+    },
+    {
+      "branch": "data/marshall-islands-worldwide-rankings",
+      "commit": "bce2f7b8ea9c4f03ac60341dacd9d9284dfc910b"
+    },
+    {
+      "branch": "data/mauritius-worldwide-20261125",
+      "commit": "85a908c539d1c024f45a5831156720396d706d6c"
+    },
+    {
+      "branch": "data/mexico-camino-real-completion-20261125",
+      "commit": "2274d2c118d2356159464f8e860cc7899a3c75f0"
+    },
+    {
+      "branch": "data/mexico-camino-real-components-20261125",
+      "commit": "d0f36e02c17405d383c8eceb6e2b6af626642861"
+    },
+    {
+      "branch": "data/mexico-camino-real-public-sites-20261125",
+      "commit": "06ac580b696a002e6b38b2f8d002d85ff0afc81d"
+    },
+    {
+      "branch": "data/mexico-monasteries-complete-20261125",
+      "commit": "41fb070a6bad176cc5875fdbf7b7a810b55320b0"
+    },
+    {
+      "branch": "data/mexico-sierra-gorda-missions-20261125",
+      "commit": "2fa03e0d636e626c258b3d42c00b706dd576198f"
+    },
+    {
+      "branch": "data/mexico-worldwide-20261125",
+      "commit": "d4eb41d0c5c9095e6185e4c780c0b62c2e4e3b82"
+    },
+    {
+      "branch": "data/moldova-worldwide-v2-20261125",
+      "commit": "b7543a4693a4d190005822d7c1fc3dc0e5ca67eb"
+    },
+    {
+      "branch": "data/monaco-worldwide-v2-2026",
+      "commit": "e39410e3cab94a2442d2e127920e34ee0459f4b2"
+    },
+    {
+      "branch": "data/monaco-worldwide-v2-30",
+      "commit": "802f7e0aa53bb596d8f5823f6f2dabf784f3ad1f"
+    },
+    {
+      "branch": "data/mongolia-worldwide-v2-2026",
+      "commit": "4a99348854c3f19f8a7ce7c3c65c0964cd0f445a"
+    },
+    {
+      "branch": "data/montenegro-worldwide-v2-2026",
+      "commit": "8ec37ae8193a4191812c8fa26759568b007eac2d"
+    },
+    {
+      "branch": "data/mozambique-worldwide-v2",
+      "commit": "20ccbda9bb82cb7e7a2f1c9cdf3d8eab64dd0aa5"
+    },
+    {
+      "branch": "data/myanmar-worldwide-v2-2026",
+      "commit": "67e561fec5870d2a54a5c7196c5fca4e2892f206"
+    },
+    {
+      "branch": "data/nauru-tuvalu-initial-worldwide-rankings",
+      "commit": "c5b2f1f3971b84f04b42df90f943741fe4cc59ac"
+    },
+    {
+      "branch": "data/nepal-worldwide-v2-2026",
+      "commit": "9299a2e4aa468c1c106e9ef85c19d1c5142fce12"
+    },
+    {
+      "branch": "data/nicaragua-worldwide-20261125",
+      "commit": "1ef6e2d7a57d00290f4e2a11eee2c3e1de477199"
+    },
+    {
+      "branch": "data/nigeria-worldwide-v2",
+      "commit": "ada30bcbe6a82b2030ec7e8ab920e3fe85cdb8b6"
+    },
+    {
+      "branch": "data/north-macedonia-worldwide-v2-2026",
+      "commit": "2c9226f9cdc496fe5a477b06f85661d05aac1c57"
+    },
+    {
+      "branch": "data/oman-worldwide-v2-2026",
+      "commit": "abca2b68c35a38571f8b6fdbcda9db6474fb7119"
+    },
+    {
+      "branch": "data/pakistan-worldwide-v2-2026",
+      "commit": "38bfbbd0c0d72af76a1bf9650a0aae15de66f1d2"
+    },
+    {
+      "branch": "data/palau-worldwide-rankings",
+      "commit": "0037c1ee9ed9bcc743ae5d6d1de354bdb91277dd"
+    },
+    {
+      "branch": "data/paraguay-worldwide-v2-2026",
+      "commit": "f1d4d2c3240037ff90a61daf3ca4e7012f79ad04"
+    },
+    {
+      "branch": "data/peru-worldwide-v2-2026",
+      "commit": "ce6a1ec1428959cfc0e0ffa4dfa9a22b7e03cf80"
+    },
+    {
+      "branch": "data/philippines-worldwide-v2-2026",
+      "commit": "f822002d5a25f838129ee707001d176f31bb0d00"
+    },
+    {
+      "branch": "data/qatar-worldwide-v2-reviewed",
+      "commit": "561022932ca827cc71c86adb3c72cf791c875254"
+    },
+    {
+      "branch": "data/saint-kitts-nevis-worldwide-20261125",
+      "commit": "eb666aa485e8e9a8170ce5a773070b355995a377"
+    },
+    {
+      "branch": "data/saint-lucia-worldwide-20261125",
+      "commit": "752d2e2861aa368137e655c385ab35357305933f"
+    },
+    {
+      "branch": "data/saint-vincent-grenadines-worldwide-20261125",
+      "commit": "d3782ef81dcfdeb930d94cbb956ea7fdc116db64"
+    },
+    {
+      "branch": "data/sao-tome-principe-worldwide-20261125",
+      "commit": "dd8c1d56c7bf09889d27bed179c8c85259cdc38d"
+    },
+    {
+      "branch": "data/saudi-arabia-worldwide-v2-2026",
+      "commit": "2450a32e1f98b6cd550e67acc669719fdb4d07bb"
+    },
+    {
+      "branch": "data/senegal-worldwide-v2",
+      "commit": "275c51d72144c72132c9f03286aacfc5f3f8f09e"
+    },
+    {
+      "branch": "data/singapore-worldwide-v2-2026",
+      "commit": "895469a6ed0926d669362104c0f6b1f6f6c5b866"
+    },
+    {
+      "branch": "data/somalia-worldwide-v2",
+      "commit": "b68437de2216cc0fe6d253a8b8d5303dca0c66a9"
+    },
+    {
+      "branch": "data/sri-lanka-worldwide-v2-2026",
+      "commit": "a84814956b1709f9d9ec9a120e87d204c2a9086b"
+    },
+    {
+      "branch": "data/sudan-worldwide-v2",
+      "commit": "2c6aa5ab6e4a6013616ff39b4e043bb093b0ab41"
+    },
+    {
+      "branch": "data/suriname-worldwide-v2-2026",
+      "commit": "371005c89c6d7beb226cd091deb6c3edf7a3cda8"
+    },
+    {
+      "branch": "data/sweden-worldwide-v2-20261125",
+      "commit": "69fd9e8e23c7d94bfbf6fbd76f94c01406a86d03"
+    },
+    {
+      "branch": "data/tajikistan-worldwide-v2-2026",
+      "commit": "3b00bd64368e5cedcc7b0e3351f3717b6567cb1b"
+    },
+    {
+      "branch": "data/togo-worldwide-20261125",
+      "commit": "41c402c69d2a96930da01c5f41b979c624f3413d"
+    },
+    {
+      "branch": "data/tonga-worldwide-rankings",
+      "commit": "0fa3c83f31643ceda4d2cc8c10fdfb9c560ecc03"
+    },
+    {
+      "branch": "data/trinidad-tobago-worldwide-20261125",
+      "commit": "3e2739d1385df825ba9002a8fb897713169a9cc8"
+    },
+    {
+      "branch": "data/turkmenistan-worldwide-v2-2026",
+      "commit": "08b253e6fab8dcbfba3d687fdf8c3289619c385f"
+    },
+    {
+      "branch": "data/uae-worldwide-v2-2026",
+      "commit": "39cd9e3c2aeef906543e1592050b7bb2e3065415"
+    },
+    {
+      "branch": "data/united-states-worldwide-20261125",
+      "commit": "c220aee2c6147d5550b10251270ca215cdf630d1"
+    },
+    {
+      "branch": "data/us-heritage-components-20261125",
+      "commit": "56ddde19b409d1b3b6be01e3329456a6dcb307ff"
+    },
+    {
+      "branch": "data/uzbekistan-worldwide-v2-2026",
+      "commit": "ef479068f5e0aaf88fd1e25b5340863e49e198bb"
+    },
+    {
+      "branch": "data/venezuela-worldwide-v2-2026",
+      "commit": "383e968d3350ac4db81553c9986e955de345fec9"
+    },
+    {
+      "branch": "data/worldwide-audit-pass72-staging",
+      "commit": "c490b2fd26f5b537cd3ea3221d5a15f0fe0fb842"
+    },
+    {
+      "branch": "data/worldwide-audit-pass74-staging",
+      "commit": "c6bd786a8233106b789ec190f7d16008c833e714"
+    },
+    {
+      "branch": "data/worldwide-audit-pass81-staging",
+      "commit": "505e0ceaa9c79477532a1782b41dea2719d1e1bb"
+    },
+    {
+      "branch": "data/worldwide-bias-audit-pass153",
+      "commit": "9ee276033efecedf8b1e9a3f0d69cb7ac2280856"
+    },
+    {
+      "branch": "data/worldwide-bias-audit-pass155",
+      "commit": "e36b7060a9749bf407f12cb3a1c8ebdd39787764"
+    },
+    {
+      "branch": "data/worldwide-bias-audit-pass156",
+      "commit": "ad55308c45d14bb96d4567848290fd3acc89b8b2"
+    },
+    {
+      "branch": "data/worldwide-bias-audit-pass166",
+      "commit": "b561fa2a1dfa1b9bd18c4fd5eec34ab14fbe4e52"
+    },
+    {
+      "branch": "data/worldwide-bias-audit-pass173",
+      "commit": "d467974cfa6038288a5b134295d1bcc8382bc7e6"
+    },
+    {
+      "branch": "data/worldwide-bias-audit-pass175",
+      "commit": "a4391f48faa531df25c93369d39134d6bd24a330"
+    },
+    {
+      "branch": "data/worldwide-bias-audit-pass178",
+      "commit": "1ecd8139149d2a8b96f9fca9cd5a193ed0f55c69"
+    },
+    {
+      "branch": "data/worldwide-bias-audit-pass179",
+      "commit": "a0ee35081275bd509b2f41485272cfdaaba38658"
+    },
+    {
+      "branch": "data/worldwide-bias-audit-pass189",
+      "commit": "ebaf16a185812eb1a137e77e8f6872e01f8932ea"
+    },
+    {
+      "branch": "data/worldwide-bias-audit-pass190",
+      "commit": "1dfdae4e7b60afc40297c722c7e6edf7f79935a9"
+    },
+    {
+      "branch": "data/worldwide-bias-audit-pass191",
+      "commit": "3b57bdeee3fbf3bbf24bbcb5b3ea34933491b108"
+    },
+    {
+      "branch": "data/worldwide-bias-audit-pass192",
+      "commit": "14fec6a4858c9cfb059ac72195a2070a04015373"
+    },
+    {
+      "branch": "data/worldwide-bias-audit-pass193",
+      "commit": "261b8fe70db8a448ffe68844fe087c6995c6c06f"
+    },
+    {
+      "branch": "data/worldwide-bias-audit-pass194",
+      "commit": "d9f5517269d8de70e5aa55984e8d16f2bfbe015b"
+    },
+    {
+      "branch": "data/worldwide-bias-audit-pass195",
+      "commit": "72dd7925b3bb3fdc2883be277fbf9f9d8102cf66"
+    },
+    {
+      "branch": "data/worldwide-bias-audit-pass199",
+      "commit": "75cf724a97c56d236589f60f57e7b2f57ec53858"
+    },
+    {
+      "branch": "data/worldwide-bias-audit-pass200",
+      "commit": "5c0e4a49fae2a28b0411e088de6085e099dd0145"
+    },
+    {
+      "branch": "data/worldwide-bias-audit-pass201",
+      "commit": "95858cd7320a77bfcc575de9543c725cbb966ea6"
+    },
+    {
+      "branch": "data/worldwide-bias-audit-pass202",
+      "commit": "37c288f0df67b742a55803f03f2b24881ed09884"
+    },
+    {
+      "branch": "data/worldwide-bias-audit-pass204",
+      "commit": "3d1a9aeb31c5f42c45d89387d5b065e3f73ab3e0"
+    },
+    {
+      "branch": "data/worldwide-bias-audit-pass206",
+      "commit": "fbf7ba856ab0259324c47a0f5fc2d6b560837e00"
+    },
+    {
+      "branch": "data/worldwide-bias-pass31-staging-20261126",
+      "commit": "8490707ebf125f4d8b83e6e76761342fb7e9cea9"
+    },
+    {
+      "branch": "data/worldwide-bias-pass34-staging-20261126",
+      "commit": "6d5b73580917f224959aa8c479221113a790f44f"
+    },
+    {
+      "branch": "data/worldwide-bias-pass36-staging-20261126",
+      "commit": "d03a9f507e0317fd129743e986a42d87a16ea5e2"
+    },
+    {
+      "branch": "data/worldwide-bias-pass40-staging-20261126",
+      "commit": "41b0b05e497cc07ffa143c7bfd9937d5f5244ab6"
+    },
+    {
+      "branch": "data/worldwide-bias-pass42-staging-20261126",
+      "commit": "4a05b52950af1d0f0bd9975fab3b7201a8fd7d0f"
+    },
+    {
+      "branch": "data/worldwide-bias-pass44-staging-20261126",
+      "commit": "9d78741ea076045cff814c0a121a3529ce12eb70"
+    },
+    {
+      "branch": "data/yemen-worldwide-v2-2026",
+      "commit": "eb6d8bf579a9de0fac7a2e16c5dddb047563c448"
+    },
+    {
+      "branch": "data/zambia-worldwide-v2",
+      "commit": "f90a2e59196fc3474cad4ecee1ee035f48e2aa97"
+    },
+    {
+      "branch": "data/zimbabwe-worldwide-v2",
+      "commit": "0dc5f7e9f492531d99c4412071f20f267e63b5e5"
+    },
+    {
+      "branch": "docs/future-country-research-playbook-2026",
+      "commit": "ab71aecc769267c0574018762adf196609d52acc"
+    },
+    {
+      "branch": "feature/add-cambodia-destinations",
+      "commit": "2536efb87cae6793a628aabd682e78da7994456a"
+    },
+    {
+      "branch": "feature/add-vietnam-destinations",
+      "commit": "d269c6a538106f5fc60984207f09b4b77636c12b"
+    },
+    {
+      "branch": "feature/atlas-routes-and-statistics",
+      "commit": "2041375b541f0f266b732aa404f5c22f53cafae0"
+    },
+    {
+      "branch": "feature/country-bubbles-atlas-analytics",
+      "commit": "232b0fc40425f1733ad19ab4176877b997ab01b6"
+    },
+    {
+      "branch": "feature/generate-country-ranking-markdown",
+      "commit": "e5d1a3c34576c36ea7a2776f9e8bb673ee0ff7fe"
+    },
+    {
+      "branch": "feature/impeccable-atlas-polish",
+      "commit": "2ec44433d69492e90d027f21b4ff5e3b93a713d3"
+    },
+    {
+      "branch": "feature/taiwan-globally-calibrated-rankings",
+      "commit": "d79553b8288c09676e51ca2008a5d6b1b394d32e"
+    },
+    {
+      "branch": "feature/trip-planning-studio",
+      "commit": "cce88d81197b8ce3b08763e48c33465f74400d87"
+    },
+    {
+      "branch": "feature/worldwide-calibration-v2",
+      "commit": "c188f2c48232a32ee18a9f5d9b8f408ec9d5e64e"
+    },
+    {
+      "branch": "feature/worldwide-city-calibration-and-methodology",
+      "commit": "11ee45df61e35af524bfb2be3b1545b3801f5300"
+    },
+    {
+      "branch": "feature/worldwide-sight-calibration-and-methodology",
+      "commit": "0d97aa3aee56c039e2d770b638759660ce6350b9"
+    },
+    {
+      "branch": "fix/atlas-decimal-minimum-score",
+      "commit": "da8b82a763db8305ddb31c3b2598a01d21ef9795"
+    },
+    {
+      "branch": "review/moldova-winery-ratings-20261125",
+      "commit": "a88957540be231666c2d05f1480edb4aeb384df0"
+    },
+    {
+      "branch": "review/mongolia-visitor-scope-20261125",
+      "commit": "63d40b67e3408cba714e1a335a6b8a4dac358c22"
+    },
+    {
+      "branch": "review/suriname-ecuador-ratings-20261125",
+      "commit": "43e5abadf4f28e1fc6d76078cee29c179fda078f"
+    }
+  ]
+}

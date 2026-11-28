@@ -581,3 +581,25 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [whc.unesco.org](https://whc.unesco.org/en/tentativelists/6180/) — search excerpt inspected 2026-11-25; limited identity/context, not complete claim-level verification.
 - Remaining gaps: claim-level corroboration, exact GPS, current visitor access and closer field-specific comparisons.
+
+
+<!-- Recovered from legacy source branch, 2026-11-28; original evidence status and peer snapshots retained. -->
+
+## sight-mc-casino-square — Casino Square — 2026-11-25
+
+- [YAML](../../../countries/MC/sights/casino-square.yaml) · Action: new · **source-linked-unverified**.
+- Representative point 43.7397, 7.4270; approximate, independent site GPS check pending.
+- Worldwide peers (I/U/S/E/D):
+  - [cesky krumlov historic centre (CZ)](../../../countries/CZ/sights/cesky-krumlov-historic-centre.yaml) — 9.2/9.2/9.1/9/8.5 (90.80/100).
+  - [kotor old town (ME)](../../../countries/ME/sights/kotor-old-town.yaml) — 9.1/9.2/9.2/9.1/8.7 (91.05/100).
+  - [perast historic waterfront (ME)](../../../countries/ME/sights/perast-historic-waterfront.yaml) — 8.8/8.9/8.6/8.8/7.9 (86.95/100).
+  - [doboj fortress (BA)](../../../countries/BA/sights/doboj-fortress.yaml) — 7.9/7.9/8.2/8/7.3 (79.15/100).
+- Impact 8.2: Square framed by ornate buildings.
+- Uniqueness 8.0: luxury resort streetscape.
+- Significance 7.8: local tourism history.
+- Experience 8.3: free public exterior viewing.
+- Depth 6.9: single square not entire district.
+- Categories: architecture:8.8,photography:8.9. Overall 79.55/100.
+- High-score challenge: Not applicable; no 9.5+ field or 90+ total.
+- Evidence: [Named destination source](https://www.viewmonaco.com/monte-carlo-guide/) — search excerpt inspected 2026-11-25; supports named identity and limited visitor context, not all claims.
+- Remaining gaps: exact GPS, claim-level confirmation, current access and field-specific comparisons. Shared ladders can mix scope.

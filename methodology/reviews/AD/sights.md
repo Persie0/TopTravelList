@@ -761,3 +761,177 @@
 - Categories: history 8.9, architecture 8.7, photography 8.5. Computed overall: 80.50/100.
 - High-score challenge: Not applicable. Approved 10 registry: none.
 - Verification still needed: individual facts, coordinates unless stated, current access and closer same-type peer calibration.
+
+
+<!-- Recovered from legacy source branch, 2026-11-28; original evidence status and peer snapshots retained. -->
+
+## sight-ad-andorra-la-vella-old-town — Andorra la Vella Old Town — 2026-11-25
+
+- [YAML](../../../countries/AD/sights/andorra-la-vella-old-town.yaml) · Action: new · **editorial-only**.
+- Representative point 42.507, 1.520; Approximate; exact-site GPS verification incomplete.
+- Worldwide peers (I/U/S/E/D):
+  - [cesky krumlov historic centre (CZ)](../../../countries/CZ/sights/cesky-krumlov-historic-centre.yaml) — 9.2/9.2/9.1/9/8.5 (90.80/100).
+  - [kotor old town (ME)](../../../countries/ME/sights/kotor-old-town.yaml) — 9.1/9.2/9.2/9.1/8.7 (91.05/100).
+  - [perast historic waterfront (ME)](../../../countries/ME/sights/perast-historic-waterfront.yaml) — 8.8/8.9/8.6/8.8/7.9 (86.95/100).
+  - [doboj fortress (BA)](../../../countries/BA/sights/doboj-fortress.yaml) — 7.9/7.9/8.2/8/7.3 (79.15/100).
+- Impact 7.8: Stone streets and civic buildings.
+- Uniqueness 8.0: small-state historic quarter.
+- Significance 8.1: national urban heritage.
+- Experience 8.2: walkable public circuit.
+- Depth 7.6: excludes independent museum interiors and narrower than Kotor.
+- Categories: architecture:8.6,history:8.7. Overall 79.50/100.
+- High-score challenge: Not applicable. No approved 10.
+- Evidence: Exact named-source corroboration not completed.
+- Remaining gaps: exact GPS except UNESCO reference, source-level facts, current access and complete dimension-specific comparisons. Shared comparison ladders may mix scope.
+
+## sight-ad-bici-lab-andorra — Bici Lab Andorra — 2026-11-25
+
+- [YAML](../../../countries/AD/sights/bici-lab-andorra.yaml) · Action: new · **source-linked-unverified**.
+- Representative point 42.506, 1.518; Approximate; exact-site GPS verification incomplete.
+- Worldwide peers (I/U/S/E/D):
+  - [kunsthistorisches museum (AT)](../../../countries/AT/sights/kunsthistorisches-museum.yaml) — 9.2/9.4/9.6/9.4/9.5 (93.90/100).
+  - [national museum prague (CZ)](../../../countries/CZ/sights/national-museum-prague.yaml) — 8.6/8.5/8.8/8.8/8.9 (86.75/100).
+  - [king nikola museum (ME)](../../../countries/ME/sights/king-nikola-museum.yaml) — 8/8.3/8.8/8.3/8 (82.80/100).
+  - [liechtenstein nationalmuseum (LI)](../../../countries/LI/sights/liechtenstein-nationalmuseum.yaml) — 7.8/8/8.4/8.1/8.1 (80.45/100).
+- Impact 7.7: Bicycle collection and interactive displays.
+- Uniqueness 8.1: distinctive cycling-focused museum.
+- Significance 7.7: regional sporting heritage.
+- Experience 8.3: engaging exhibits.
+- Depth 7.8: specialized museum rather than national collection breadth.
+- Categories: culture:8.5,family:8.6. Overall 79.00/100.
+- High-score challenge: Not applicable. No approved 10.
+- Evidence: [Visit Andorra](https://visitandorra.com/en/culture/must-visit-spots-in-andorra-la-vella/) — page or excerpt inspected 2026-11-25; limited named identity, location or visitor context, not full claim verification.
+- Remaining gaps: exact GPS except UNESCO reference, source-level facts, current access and complete dimension-specific comparisons. Shared comparison ladders may mix scope.
+
+## sight-ad-estany-de-les-truites — Estany de les Truites — 2026-11-25
+
+- [YAML](../../../countries/AD/sights/estany-de-les-truites.yaml) · Action: new · **source-linked-unverified**.
+- Representative point 42.577, 1.454; Approximate; exact-site GPS verification incomplete.
+- Worldwide peers (I/U/S/E/D):
+  - [jiuzhaigou valley (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) — 9.8/9.7/9.4/9.8/9.1 (96.25/100).
+  - [black lake durmitor (ME)](../../../countries/ME/sights/black-lake-durmitor.yaml) — 8.9/8.7/8.2/9/8.6 (86.95/100).
+  - [pliva lakes (BA)](../../../countries/BA/sights/pliva-lakes.yaml) — 8.3/8.1/7.3/8.7/8.4 (81.20/100).
+  - [hallstaetter see (AT)](../../../countries/AT/sights/hallstaetter-see.yaml) — 8.4/8.2/7.2/8.6/8.1 (81.10/100).
+- Impact 8.3: Mountain lake beneath ridges.
+- Uniqueness 8.2: attractive glacial basin.
+- Significance 7.4: local ecology.
+- Experience 8.5: hike and hut context.
+- Depth 7.9: one lake not entire park.
+- Categories: nature:8.9,photography:8.9. Overall 80.85/100.
+- High-score challenge: Not applicable. No approved 10.
+- Evidence: [Visit Andorra](https://visitandorra.com/en/what-to-do/nature--sports/detalle.lakes/) — page or excerpt inspected 2026-11-25; limited named identity, location or visitor context, not full claim verification.
+- Remaining gaps: exact GPS except UNESCO reference, source-level facts, current access and complete dimension-specific comparisons. Shared comparison ladders may mix scope.
+
+## sight-ad-iron-route-llorts-to-la-cortinada — Iron Route Llorts to La Cortinada — 2026-11-25
+
+- [YAML](../../../countries/AD/sights/iron-route-llorts-to-la-cortinada.yaml) · Action: new · **source-linked-unverified**.
+- Representative point 42.585, 1.525; Approximate; exact-site GPS verification incomplete.
+- Worldwide peers (I/U/S/E/D):
+  - [grossglockner summit (AT)](../../../countries/AT/sights/grossglockner-summit.yaml) — 9/8.8/8.6/8.9/8.4 (87.95/100).
+  - [furstensteig drei schwestern trail (LI)](../../../countries/LI/sights/furstensteig-drei-schwestern-trail.yaml) — 8.8/8.6/7.4/8.7/8.4 (84.15/100).
+  - [savin kuk (ME)](../../../countries/ME/sights/savin-kuk.yaml) — 8.6/8.4/7.6/8.8/8.2 (83.40/100).
+  - [snezka summit (CZ)](../../../countries/CZ/sights/snezka-summit.yaml) — 8.6/8.3/7.8/8.7/7.8 (83.00/100).
+- Impact 7.9: Riverside path with industrial heritage.
+- Uniqueness 8.3: distinctive mining and iron-working interpretation.
+- Significance 8.2: regional economic history.
+- Experience 8.4: sustained cultural walk.
+- Depth 8.1: route excludes mine interior.
+- Categories: history:8.8,culture:8.7,nature:8.6. Overall 81.55/100.
+- High-score challenge: Not applicable. No approved 10.
+- Evidence: [Visit Andorra](https://visitandorra.com/en/nature--sports/hiking-route-ruta-del-ferro/) — page or excerpt inspected 2026-11-25; limited named identity, location or visitor context, not full claim verification.
+- Remaining gaps: exact GPS except UNESCO reference, source-level facts, current access and complete dimension-specific comparisons. Shared comparison ladders may mix scope.
+
+## sight-ad-la-margineda-bridge — La Margineda Bridge — 2026-11-25
+
+- [YAML](../../../countries/AD/sights/la-margineda-bridge.yaml) · Action: new · **source-linked-unverified**.
+- Representative point 42.478, 1.491; Approximate; exact-site GPS verification incomplete.
+- Worldwide peers (I/U/S/E/D):
+  - [charles bridge (CZ)](../../../countries/CZ/sights/charles-bridge.yaml) — 9.4/9.3/9.2/9.2/8 (91.65/100).
+  - [stari most (BA)](../../../countries/BA/sights/stari-most.yaml) — 9.1/9.2/9/8.8/7.6 (89.10/100).
+  - [old rhine bridge vaduz sevelen (LI)](../../../countries/LI/sights/old-rhine-bridge-vaduz-sevelen.yaml) — 7.6/8/7.8/7.9/6.9 (77.15/100).
+  - [hallstatt skywalk (AT)](../../../countries/AT/sights/hallstatt-skywalk.yaml) — 7.9/8/6.4/8.5/6.3 (75.55/100).
+- Impact 7.8: Historic stone arch crossing.
+- Uniqueness 8.1: important surviving local bridge form.
+- Significance 8.4: regional transport history.
+- Experience 7.9: short scenic crossing.
+- Depth 6.7: narrower than Stari Most.
+- Categories: history:8.8,architecture:8.7,photography:8.5. Overall 79.00/100.
+- High-score challenge: Not applicable. No approved 10.
+- Evidence: [Visit Andorra](https://visitandorra.com/en/culture/must-visit-spots-in-andorra-la-vella/) — page or excerpt inspected 2026-11-25; limited named identity, location or visitor context, not full claim verification.
+- Remaining gaps: exact GPS except UNESCO reference, source-level facts, current access and complete dimension-specific comparisons. Shared comparison ladders may mix scope.
+
+## sight-ad-llorts-mine — Llorts Mine — 2026-11-25
+
+- [YAML](../../../countries/AD/sights/llorts-mine.yaml) · Action: new · **source-linked-unverified**.
+- Representative point 42.598, 1.526; Approximate; exact-site GPS verification incomplete.
+- Worldwide peers (I/U/S/E/D):
+  - [kunsthistorisches museum (AT)](../../../countries/AT/sights/kunsthistorisches-museum.yaml) — 9.2/9.4/9.6/9.4/9.5 (93.90/100).
+  - [national museum prague (CZ)](../../../countries/CZ/sights/national-museum-prague.yaml) — 8.6/8.5/8.8/8.8/8.9 (86.75/100).
+  - [king nikola museum (ME)](../../../countries/ME/sights/king-nikola-museum.yaml) — 8/8.3/8.8/8.3/8 (82.80/100).
+  - [liechtenstein nationalmuseum (LI)](../../../countries/LI/sights/liechtenstein-nationalmuseum.yaml) — 7.8/8/8.4/8.1/8.1 (80.45/100).
+- Impact 7.3: Short preserved mine workings.
+- Uniqueness 8.0: regional historic extraction context.
+- Significance 8.1: local industrial heritage.
+- Experience 7.8: guided seasonal tour.
+- Depth 6.9: one short mine circuit.
+- Categories: history:8.6,culture:8.3. Overall 76.70/100.
+- High-score challenge: Not applicable. No approved 10.
+- Evidence: [Visit Andorra](https://visitandorra.com/en/nature--sports/hiking-route-ruta-del-ferro/) — page or excerpt inspected 2026-11-25; limited named identity, location or visitor context, not full claim verification.
+- Remaining gaps: exact GPS except UNESCO reference, source-level facts, current access and complete dimension-specific comparisons. Shared comparison ladders may mix scope.
+
+## sight-ad-museum-of-miniatures — Museum of Miniatures — 2026-11-25
+
+- [YAML](../../../countries/AD/sights/museum-of-miniatures.yaml) · Action: new · **source-linked-unverified**.
+- Representative point 42.556, 1.533; Approximate; exact-site GPS verification incomplete.
+- Worldwide peers (I/U/S/E/D):
+  - [kunsthistorisches museum (AT)](../../../countries/AT/sights/kunsthistorisches-museum.yaml) — 9.2/9.4/9.6/9.4/9.5 (93.90/100).
+  - [national museum prague (CZ)](../../../countries/CZ/sights/national-museum-prague.yaml) — 8.6/8.5/8.8/8.8/8.9 (86.75/100).
+  - [king nikola museum (ME)](../../../countries/ME/sights/king-nikola-museum.yaml) — 8/8.3/8.8/8.3/8 (82.80/100).
+  - [liechtenstein nationalmuseum (LI)](../../../countries/LI/sights/liechtenstein-nationalmuseum.yaml) — 7.8/8/8.4/8.1/8.1 (80.45/100).
+- Impact 7.5: Minute crafted objects.
+- Uniqueness 8.3: unusual microscale art focus.
+- Significance 7.7: specialist cultural collection.
+- Experience 8.2: focused viewing.
+- Depth 7.1: small exhibition scope.
+- Categories: culture:8.7,family:8.4. Overall 78.05/100.
+- High-score challenge: Not applicable. No approved 10.
+- Evidence: [Visit Andorra](https://visitandorra.com/en/culture/museums-of-andorra/) — page or excerpt inspected 2026-11-25; limited named identity, location or visitor context, not full claim verification.
+- Remaining gaps: exact GPS except UNESCO reference, source-level facts, current access and complete dimension-specific comparisons. Shared comparison ladders may mix scope.
+
+## sight-ad-naturland-adventure-park — Naturland Adventure Park — 2026-11-25
+
+- [YAML](../../../countries/AD/sights/naturland-adventure-park.yaml) · Action: new · **source-linked-unverified**.
+- Representative point 42.433, 1.510; Approximate; exact-site GPS verification incomplete.
+- Worldwide peers (I/U/S/E/D):
+  - [savin kuk (ME)](../../../countries/ME/sights/savin-kuk.yaml) — 8.6/8.4/7.6/8.8/8.2 (83.40/100).
+  - [bjelasnica mountain (BA)](../../../countries/BA/sights/bjelasnica-mountain.yaml) — 8.3/8.1/7.6/8.6/8.5 (81.75/100).
+  - [jahorina mountain (BA)](../../../countries/BA/sights/jahorina-mountain.yaml) — 8.1/7.8/7.3/8.6/8.5 (79.80/100).
+  - [malbun ski area (LI)](../../../countries/LI/sights/malbun-ski-area.yaml) — 7.9/7.5/6.6/8.5/8 (76.40/100).
+- Impact 7.9: Forest adventure facilities.
+- Uniqueness 8.2: long alpine coaster and outdoor activities.
+- Significance 6.6: recent recreation heritage.
+- Experience 8.6: varied weather-dependent activities.
+- Depth 8.2: park scope includes Tobotronc without duplicate score.
+- Categories: family:9.0,adventure:8.9. Overall 78.50/100.
+- High-score challenge: Not applicable. No approved 10.
+- Evidence: [Visit Andorra](https://visitandorra.com/en/nature--sports/naturland-summer/) — page or excerpt inspected 2026-11-25; limited named identity, location or visitor context, not full claim verification.
+- Remaining gaps: exact GPS except UNESCO reference, source-level facts, current access and complete dimension-specific comparisons. Shared comparison ladders may mix scope.
+
+## sight-ad-sant-corneli-i-sant-cebria-church — Sant Corneli i Sant Cebrià Church — 2026-11-25
+
+- [YAML](../../../countries/AD/sights/sant-corneli-i-sant-cebria-church.yaml) · Action: new · **source-linked-unverified**.
+- Representative point 42.556, 1.533; Approximate; exact-site GPS verification incomplete.
+- Worldwide peers (I/U/S/E/D):
+  - [st vitus cathedral (CZ)](../../../countries/CZ/sights/st-vitus-cathedral.yaml) — 9.3/9.3/9.5/9.2/8.9 (92.85/100).
+  - [salzburg cathedral (AT)](../../../countries/AT/sights/salzburg-cathedral.yaml) — 8.6/8.7/9/8.6/7.4 (85.85/100).
+  - [st peters abbey salzburg (AT)](../../../countries/AT/sights/st-peters-abbey-salzburg.yaml) — 8.1/8.5/9.1/8.2/7.8 (83.85/100).
+  - [ferhadija mosque banja luka (BA)](../../../countries/BA/sights/ferhadija-mosque-banja-luka.yaml) — 8.2/8.5/8.6/8.3/7.3 (82.80/100).
+- Impact 7.4: Stone parish church and devotional art.
+- Uniqueness 7.8: distinctive local carving and iron heritage.
+- Significance 8.1: regional religious history.
+- Experience 7.8: brief sacred visit.
+- Depth 7.0: one church.
+- Categories: culture:8.5,history:8.6. Overall 76.60/100.
+- High-score challenge: Not applicable. No approved 10.
+- Evidence: [Visit Andorra](https://visitandorra.com/en/culture/churches-in-andorra/) — page or excerpt inspected 2026-11-25; limited named identity, location or visitor context, not full claim verification.
+- Remaining gaps: exact GPS except UNESCO reference, source-level facts, current access and complete dimension-specific comparisons. Shared comparison ladders may mix scope.

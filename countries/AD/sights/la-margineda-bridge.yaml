@@ -1,0 +1,16 @@
+id: sight-ad-la-margineda-bridge
+name: "La Margineda Bridge"
+location:
+  country_code: AD
+  latitude: 42.478
+  longitude: 1.491
+scores:
+  impact: 7.8
+  uniqueness: 8.1
+  significance: 8.4
+  experience: 7.9
+  depth: 6.7
+  categories:
+    history: 8.8
+    architecture: 8.7
+    photography: 8.5

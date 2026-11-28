@@ -1,0 +1,15 @@
+id: sight-ad-museum-of-miniatures
+name: "Museum of Miniatures"
+location:
+  country_code: AD
+  latitude: 42.556
+  longitude: 1.533
+scores:
+  impact: 7.5
+  uniqueness: 8.3
+  significance: 7.7
+  experience: 8.2
+  depth: 7.1
+  categories:
+    culture: 8.7
+    family: 8.4
