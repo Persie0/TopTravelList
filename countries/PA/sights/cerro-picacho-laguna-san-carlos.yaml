@@ -1,0 +1,16 @@
+id: sight-pa-cerro-picacho-laguna-san-carlos
+name: "Cerro Picacho and Laguna de San Carlos Hike"
+location:
+  country_code: PA
+  latitude: 8.644
+  longitude: -80.034
+scores:
+  impact: 8.5
+  uniqueness: 8.2
+  significance: 7.5
+  experience: 8.7
+  depth: 8.0
+  categories:
+    nature: 8.9
+    adventure: 8.8
+    photography: 9.0
