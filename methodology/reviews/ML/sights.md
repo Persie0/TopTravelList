@@ -1240,3 +1240,37 @@ Follow-up 2026-11-25: [UNESCO country register](https://whc.unesco.org/en/states
 ## Inventory coverage
 
 All four inscribed and fifteen tentative UNESCO properties represented. Old Towns of Djenné split into five official components. Timbuktu ensemble and individual mosques separately scoped. Manden serial property retained unranked; three other components remain backlog. Four Ramsar designations represented at broad property level; exact Magui and Inner Niger Delta Ramsar boundaries need verification. Wongo and Kouroufing national parks now catalogued; Boucle du Baoulé cultural landscape is not automatically equivalent to full national park or biosphere reserve. Additional manuscript libraries, villages and protected areas remain gaps.
+
+## sight-ml-gourma-elephant-reserve — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/ML/sights/gourma-elephant-reserve.yaml) · **source-linked-unverified** · wildlife null → 9.2/10. Distinctive long seasonal migration of desert-adapted elephants; restricted animal breadth and uncertain encounter concentrations distinguish it from broader savanna reserves.
+- Comparative context: Aïr and Ténéré (8.0), Etosha (9.8), Zakouma (9.7), Serengeti (9.9): compare specialized dryland fauna with documented concentrations. Indexed source reviewed 2026-11-28: https://www.fondationsegre.org/safeguarding-the-gourma-elephant-population-through-landscape-restoration-and-improved-coexistence-strategies/
+- Core ratings and other fields unchanged; access restrictions not a penalty.
+
+
+## sight-ml-kouroufing-national-park — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/ML/sights/kouroufing-national-park.yaml) · **editorial-only** · wildlife null → 8.0/10. Woodland and savanna wildlife potential; no contemporary high-density fauna evidence credited.
+- Comparative context: Serengeti (9.9), Maasai Mara (9.9), Etosha (9.8), Zakouma (9.7): better documented concentrations and breadth. Desk-based editorial estimate; no independent source or population verification.
+- Core ratings and other fields unchanged; access restrictions not a penalty.
+
+
+## sight-ml-lac-wegnia-wetland — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/ML/sights/lac-wegnia-wetland.yaml) · **editorial-only** · wildlife null → 8.1/10. Localized lake and seasonal waterbird interest, below larger floodplain and international migration landscapes.
+- Comparative context: Okavango (9.9), Banc d’Arguin (9.7), Bijagós (9.7), Sudd (9.7, this batch): wider or more exceptional wetland fauna. Desk-based editorial estimate; no independent source or population verification.
+- Core ratings and other fields unchanged; access restrictions not a penalty.
+
+
+## sight-ml-sourou-floodplain — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/ML/sights/sourou-floodplain.yaml) · **editorial-only** · wildlife null → 8.6/10. Seasonal floodplain bird and aquatic habitat estimate limited to the Mali sector.
+- Comparative context: Okavango (9.9), Banc d’Arguin (9.7), Bijagós (9.7), Sudd (9.7, this batch): wider or more exceptional wetland fauna. Desk-based editorial estimate; no independent source or population verification.
+- Core ratings and other fields unchanged; access restrictions not a penalty.
+
+
+## sight-ml-wongo-national-park — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/ML/sights/wongo-national-park.yaml) · **editorial-only** · wildlife null → 8.0/10. Savanna and woodland fauna potential, with no verified exceptional animal concentration.
+- Comparative context: Serengeti (9.9), Maasai Mara (9.9), Etosha (9.8), Zakouma (9.7): better documented concentrations and breadth. Desk-based editorial estimate; no independent source or population verification.
+- Core ratings and other fields unchanged; access restrictions not a penalty.

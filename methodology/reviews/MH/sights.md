@@ -1123,3 +1123,44 @@ Outer reef and channel diving excludes lagoon sailing and other atolls. No remot
 - [YAML](../../../countries/MH/sights/jemo-island.yaml) · **editorial-only** · wildlife null → 8.4/10. Small island reef and nesting habitat potential; restricted geographic breadth compared with full atolls.
 - Comparative context: Aldabra (9.8), Galápagos (9.9), Belize Barrier Reef (9.5), Banc d’Arguin (9.7): compare concentrated wildlife with breadth of habitats. Desk-based editorial estimate; no independent source or population verification.
 - Core ratings and other fields unchanged; access restrictions not a penalty.
+
+## sight-mh-mili-atoll-nature-conservancy — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/MH/sights/mili-atoll-nature-conservancy.yaml) · **editorial-only** · wildlife null → 8.7/10. Lagoon and reef fauna estimate for Mili's own conservation area, without crediting Knox Atoll separately.
+- Comparative context: Aldabra (9.8), Galápagos (9.9), Belize Barrier Reef (9.5), Banc d’Arguin (9.7): compare concentrated wildlife with breadth of habitats. Desk-based editorial estimate; no independent source or population verification.
+- Core ratings and other fields unchanged; access restrictions not a penalty.
+
+
+## sight-mh-mili-nadrikdrik-conservancy — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/MH/sights/mili-nadrikdrik-conservancy.yaml) · **editorial-only** · wildlife null → 8.9/10. Combined Mili and Knox coastal habitats increase ecological variety modestly; explicitly overlaps the two narrower records.
+- Comparative context: Aldabra (9.8), Galápagos (9.9), Belize Barrier Reef (9.5), Banc d’Arguin (9.7): compare concentrated wildlife with breadth of habitats. Desk-based editorial estimate; no independent source or population verification.
+- Core ratings and other fields unchanged; access restrictions not a penalty.
+
+
+## sight-mh-nadrikdrik-atoll — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/MH/sights/nadrikdrik-atoll.yaml) · **editorial-only** · wildlife null → 8.6/10. Small reef-atoll wildlife estimate for Knox alone; no presumed concentration from the combined conservation area.
+- Comparative context: Aldabra (9.8), Galápagos (9.9), Belize Barrier Reef (9.5), Banc d’Arguin (9.7): compare concentrated wildlife with breadth of habitats. Desk-based editorial estimate; no independent source or population verification.
+- Core ratings and other fields unchanged; access restrictions not a penalty.
+
+
+## sight-mh-namdrik-atoll — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/MH/sights/namdrik-atoll.yaml) · **editorial-only** · wildlife null → 8.7/10. Lagoon, reef and wetland fauna interest, narrower than exceptionally rich uninhabited oceanic reserves.
+- Comparative context: Aldabra (9.8), Galápagos (9.9), Belize Barrier Reef (9.5), Banc d’Arguin (9.7): compare concentrated wildlife with breadth of habitats. Desk-based editorial estimate; no independent source or population verification.
+- Core ratings and other fields unchanged; access restrictions not a penalty.
+
+
+## sight-mh-northern-marshall-islands-atolls — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/MH/sights/northern-marshall-islands-atolls.yaml) · **source-linked-unverified** · wildlife null → 9.3/10. Broad aggregate includes diverse remote atoll fauna; recent Bikar/Bokak study supports these components, not every northern atoll. Avoid adding component scores.
+- Comparative context: Aldabra (9.8), Galápagos (9.9), Belize Barrier Reef (9.5), Banc d’Arguin (9.7): compare concentrated wildlife with breadth of habitats. Indexed source reviewed 2026-11-28: https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1957660/full
+- Core ratings and other fields unchanged; access restrictions not a penalty.
+
+
+## sight-mh-taka-atoll — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/MH/sights/taka-atoll.yaml) · **editorial-only** · wildlife null → 8.7/10. Remote reef and islet wildlife potential, with less documented concentration than Bikar or Bokak.
+- Comparative context: Aldabra (9.8), Galápagos (9.9), Belize Barrier Reef (9.5), Banc d’Arguin (9.7): compare concentrated wildlife with breadth of habitats. Desk-based editorial estimate; no independent source or population verification.
+- Core ratings and other fields unchanged; access restrictions not a penalty.
