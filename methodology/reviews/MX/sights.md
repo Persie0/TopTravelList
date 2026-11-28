@@ -13366,3 +13366,297 @@ All ten entries are source-linked editorial assessments using retrieved institut
 - Earlier decision: none.
 - Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; admission and current travel safety not verified.
 
+
+## sight-mx-arbol-del-tule — Árbol del Tule Monumental Montezuma Cypress — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/arbol-del-tule.yaml)
+- Action: new (pass 454)
+- Precise subject: Individual remarkable cypress in the church atrium, documented trunk diameter exceeding 14 m; state listed notable tree. Coordinates converted from Oaxaca government DMS.
+- Location check: 17.045194, -96.636278; representative point, converted from Oaxaca official DMS.
+- Evidence status: source-linked-unverified; retrieved search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.oaxaca.gob.mx/medioambiente/arboles-notables/; https://cienciasforestales.inifap.gob.mx/index.php/forestales/en/article/download/719/2010/9799?inline=1.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - General Sherman (US): different exceptional tree-volume record
+  - Major Oak (GB): smaller tree and historical associations
+  - Avenue of the Baobabs (MG): broader landscape
+  - sacred tree of Chalma (MX): different cultural context.
+- Individual scores: impact 9.5, uniqueness 9.8, significance 9.5, experience 8.8, depth 7.8.
+- Categories: nature 9.7, photography 9.4, culture 9.0.
+- Overall: 93.00/100.
+- High-score challenge: Documented distinctive heritage, cultural landscape or exceptional natural feature supports 90+; global peers constrain score. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks for approximate points, numerical peer comparisons and full Python validation; current admission and safety not verified.
+
+
+## sight-mx-izamal-san-antonio-convent — Izamal Convent of San Antonio de Padua and Monumental Atrium — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/izamal-san-antonio-convent.yaml)
+- Action: new (pass 454)
+- Precise subject: Franciscan convent built on a pre-Hispanic platform, 75 arches and atrium of about 7,806 square metres per state source; avoid disputed world-size superlatives. Distinct from city rating.
+- Location check: 20.9305, -89.0176; representative point, approximate, not independently verified.
+- Evidence status: source-linked-unverified; retrieved search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.inah.gob.mx/zonas/zona-arqueologica-de-izamal; https://www.yucatan.gob.mx/index.php/ciudadano/ciudadano/estado/ciudadano/ciudadano/?p=izamal.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Cholula (MX): more monumental pre-Hispanic pyramid
+  - Santo Domingo Oaxaca (MX): richer gilded interior
+  - Atotonilco (MX): exceptional murals
+  - Santa Catalina Arequipa (PE): larger convent visitor circuit.
+- Individual scores: impact 9.3, uniqueness 9.4, significance 9.4, experience 9.0, depth 8.8.
+- Categories: architecture 9.5, history 9.4, photography 9.5, culture 9.3.
+- Overall: 92.50/100.
+- High-score challenge: Documented distinctive heritage, cultural landscape or exceptional natural feature supports 90+; global peers constrain score. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks for approximate points, numerical peer comparisons and full Python validation; current admission and safety not verified.
+
+
+## sight-mx-san-cristobal-santo-domingo-textiles — Santo Domingo Convent and Maya Textile Museum (San Cristóbal) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/san-cristobal-santo-domingo-textiles.yaml)
+- Action: new (pass 454)
+- Precise subject: Combined Baroque church exterior, former convent, regional museum and Maya textile centre with over 2,500 pieces in collections. Not all objects on display; grouped to avoid overlap.
+- Location check: 16.741, -92.638; representative point, approximate, not independently verified.
+- Evidence status: source-linked-unverified; retrieved search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/es/node/4267; https://www.banamex.com/compromiso-social/sedes/centro-de-textiles-del-mundo-maya; https://centrotextilesmayas.org/visitanos/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Santo Domingo Oaxaca (MX): larger historic complex
+  - Franz Mayer (MX): different decorative arts focus
+  - Museo Ixchel (GT): comparable Maya textile collection
+  - Teotitlán workshops (MX): living textile production.
+- Individual scores: impact 9.1, uniqueness 9.3, significance 9.5, experience 9.2, depth 9.4.
+- Categories: culture 9.6, architecture 9.4, history 9.4, photography 9.2.
+- Overall: 92.75/100.
+- High-score challenge: Documented distinctive heritage, cultural landscape or exceptional natural feature supports 90+; global peers constrain score. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks for approximate points, numerical peer comparisons and full Python validation; current admission and safety not verified.
+
+
+## sight-mx-san-juan-chamula-church — San Juan Chamula Church and Living Tsotsil Religious Heritage — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/san-juan-chamula-church.yaml)
+- Action: new (pass 454)
+- Precise subject: Living place of worship, not a staged performance. Observational visits only where locally authorized; no photography of ceremonies or people without permission; respectful public spaces only.
+- Location check: 16.838, -92.689; representative point, approximate, not independently verified.
+- Evidence status: source-linked-unverified; retrieved search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.scielo.org.mx/scielo.php?pid=S0185-06362015000100003&script=sci_arttext.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Mixquic (MX): distinct public remembrance tradition
+  - Parachicos (MX): different festive cultural expression
+  - Chalma (MX): pilgrimage scale
+  - Guelaguetza (MX): deliberately public performances.
+- Individual scores: impact 9.0, uniqueness 9.6, significance 9.5, experience 8.8, depth 8.6.
+- Categories: culture 9.7, history 9.3, architecture 8.8.
+- Overall: 91.80/100.
+- High-score challenge: Documented distinctive heritage, cultural landscape or exceptional natural feature supports 90+; global peers constrain score. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks for approximate points, numerical peer comparisons and full Python validation; current admission and safety not verified.
+
+
+## sight-mx-real-del-monte-mining — Real del Monte Mining Heritage and Acosta–La Dificultad Mine Museums — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/real-del-monte-mining.yaml)
+- Action: new (pass 454)
+- Precise subject: Mining museum circuit including Cornish steam-engine buildings, historic industrial landscape and interpretation; distinct focused circuit within Comarca Minera geopark.
+- Location check: 20.14, -98.67; representative point, approximate, not independently verified.
+- Evidence status: source-linked-unverified; retrieved search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://sic.cultura.gob.mx/ficha.php?table=museo&table_id=1493; https://sic.gob.mx/ficha.php?table=museo&table_id=1495; https://mineraldelmontehidalgo.gob.mx/turismo/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Zollverein (DE): greater industrial ensemble
+  - Cornwall mining landscape (GB): connected historical technology
+  - Guanajuato mining heritage (MX): larger colonial landscape
+  - Fundidora (MX): different industry.
+- Individual scores: impact 9.0, uniqueness 9.2, significance 9.5, experience 9.0, depth 9.4.
+- Categories: history 9.6, architecture 9.2, culture 9.2, photography 9.1.
+- Overall: 91.90/100.
+- High-score challenge: Documented distinctive heritage, cultural landscape or exceptional natural feature supports 90+; global peers constrain score. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks for approximate points, numerical peer comparisons and full Python validation; current admission and safety not verified.
+
+
+## sight-mx-tepozteco-pyramid — El Tepozteco Hilltop Archaeological Site and Ascent — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/tepozteco-pyramid.yaml)
+- Action: new (pass 454)
+- Precise subject: Hilltop archaeological site reached by steep ascent from Tepoztlán; separate from convent in town. Current access not guaranteed.
+- Location check: 19.001, -99.103; representative point, approximate, not independently verified.
+- Evidence status: source-linked-unverified; retrieved search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.inah.gob.mx/zonas/zona-arqueologica-tepozteco; https://lugares.inah.gob.mx/es/taxonomy/term/497.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Malinalco (MX): more distinctive rock-cut temple
+  - Monte Albán (MX): larger archaeological city
+  - Sigiriya (LK): greater monument and landscape scope
+  - Cañada de la Virgen (MX): different hilltop complex.
+- Individual scores: impact 9.3, uniqueness 9.2, significance 9.1, experience 9.0, depth 8.9.
+- Categories: history 9.2, architecture 9.1, nature 9.2, adventure 9.2, photography 9.4.
+- Overall: 91.50/100.
+- High-score challenge: Documented distinctive heritage, cultural landscape or exceptional natural feature supports 90+; global peers constrain score. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks for approximate points, numerical peer comparisons and full Python validation; current admission and safety not verified.
+
+
+## sight-mx-patzcuaro-historic-centre — Historic Centre of Pátzcuaro and Casa de los Once Patios — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/patzcuaro-historic-centre.yaml)
+- Action: new (pass 454)
+- Precise subject: Historic plaza, architectural ensemble and craft courtyard experience, separate from annual Day of the Dead and city-level assessment.
+- Location check: 19.514, -101.609; representative point, approximate, not independently verified.
+- Evidence status: source-linked-unverified; retrieved search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/es/node/4803; https://michoacan.gob.mx/noticias/patzcuaro-la-puerta-del-cielo-cumple-23-anos-de-ser-nombrado-pueblo-magico/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - San Miguel de Allende (MX): broader international profile
+  - Taxco (MX): dramatic hilltop topography
+  - Tlacotalpan (MX): distinct river town
+  - Oaxaca historic centre (MX): larger urban ensemble.
+- Individual scores: impact 9.0, uniqueness 9.0, significance 9.3, experience 9.2, depth 9.3.
+- Categories: culture 9.5, architecture 9.3, history 9.4, photography 9.3.
+- Overall: 91.20/100.
+- High-score challenge: Documented distinctive heritage, cultural landscape or exceptional natural feature supports 90+; global peers constrain score. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks for approximate points, numerical peer comparisons and full Python validation; current admission and safety not verified.
+
+
+## sight-mx-tlaquepaque-craft-district — Tlaquepaque Historic Craft District and Ceramic Museums — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/tlaquepaque-craft-district.yaml)
+- Action: new (pass 454)
+- Precise subject: Pedestrian craft district with galleries, traditional pottery, ceramic museum and El Parián; grouped as district experience.
+- Location check: 20.64, -103.313; representative point, approximate, not independently verified.
+- Evidence status: source-linked-unverified; retrieved search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://visitmexico.com/es/recomendacion/destino/81/2162/estlaquepaqueentlaquepaque; https://sic.gob.mx/ficha.php?table=museo&table_id=250.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Uruapan artisan fair (MX): more concentrated seasonal tradition
+  - Tonalá (MX): comparable craft production
+  - Puebla Talavera (MX): specific internationally recognized craft
+  - Coyoacán (MX): broader urban cultural district.
+- Individual scores: impact 8.9, uniqueness 9.0, significance 9.0, experience 9.3, depth 9.4.
+- Categories: culture 9.5, food 9.1, architecture 9.1, photography 9.2.
+- Overall: 90.55/100.
+- High-score challenge: Documented distinctive heritage, cultural landscape or exceptional natural feature supports 90+; global peers constrain score. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks for approximate points, numerical peer comparisons and full Python validation; current admission and safety not verified.
+
+
+## sight-mx-coyoacan-historic-centre — Coyoacán Historic Centre and Plaza Hidalgo — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/coyoacan-historic-centre.yaml)
+- Action: new (pass 454)
+- Precise subject: Plaza Hidalgo, Jardín Centenario and historic streets; excludes separately ranked Frida Kahlo Museum and Anahuacalli.
+- Location check: 19.349, -99.162; representative point, approximate, not independently verified.
+- Evidence status: source-linked-unverified; retrieved search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://visitmexico.com/en/itinerario/4/coyoacan-centro; https://visitmexico.com/en/destino/17758/el-centro-de-coyoacan.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - San Ángel (MX): comparable historic district
+  - Tlaquepaque (MX): stronger craft identity
+  - Oaxaca historic centre (MX): larger heritage ensemble
+  - Montmartre (FR): higher international artistic profile.
+- Individual scores: impact 8.9, uniqueness 8.8, significance 9.1, experience 9.4, depth 9.2.
+- Categories: culture 9.3, architecture 9.1, food 9.1, history 9.2.
+- Overall: 90.20/100.
+- High-score challenge: Documented distinctive heritage, cultural landscape or exceptional natural feature supports 90+; global peers constrain score. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks for approximate points, numerical peer comparisons and full Python validation; current admission and safety not verified.
+
+
+## sight-mx-cuetzalan-historic-market — Cuetzalan Historic Centre and Traditional Market — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/cuetzalan-historic-market.yaml)
+- Action: new (pass 454)
+- Precise subject: Stone streets, market and parish setting, including community traditions only where publicly accessible; separate from city rating.
+- Location check: 20.018, -97.522; representative point, approximate, not independently verified.
+- Evidence status: source-linked-unverified; retrieved search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://visitmexico.com/es/destino/2170/encuetzalanescuetzalan; https://visitmexico.com/es/destino/18241/esparroquia-de-san-francisco-de-asisenparish-of-saint-francis-of-assisi.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Tlacolula market (MX): stronger market focus
+  - Pátzcuaro historic centre (MX): broader monumental ensemble
+  - San Cristóbal (MX): larger city
+  - Zinacantán (MX): distinctive textile heritage.
+- Individual scores: impact 8.9, uniqueness 9.0, significance 9.0, experience 9.1, depth 8.9.
+- Categories: culture 9.4, architecture 9.1, photography 9.3, food 9.0.
+- Overall: 89.75/100.
+- High-score challenge: Sub-90 reflects narrower visitor scope or less global distinction. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks for approximate points, numerical peer comparisons and full Python validation; current admission and safety not verified.
+
+
+## sight-mx-zinacantan-textile-workshops — Zinacantán Tsotsil Textile Workshops — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/zinacantan-textile-workshops.yaml)
+- Action: new (pass 454)
+- Precise subject: Textile demonstrations and purchases from willing artisans, focused on distinctive embroidery and weaving rather than private domestic or religious life.
+- Location check: 16.759, -92.723; representative point, approximate, not independently verified.
+- Evidence status: source-linked-unverified; retrieved search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://visitmexico.com/en/destino/2605/zinacantan; https://www.scielo.org.mx/scielo.php?pid=S0185-06362015000100003&script=sci_arttext.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Teotitlán weaving (MX): different Zapotec tradition
+  - San Pablito (MX): different craft material
+  - Maya textile museum (MX): deeper collection context
+  - Chinchero (PE): comparable textile demonstrations.
+- Individual scores: impact 8.7, uniqueness 9.2, significance 9.1, experience 9.0, depth 8.8.
+- Categories: culture 9.5, photography 9.0, history 9.0.
+- Overall: 89.60/100.
+- High-score challenge: Sub-90 reflects narrower visitor scope or less global distinction. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks for approximate points, numerical peer comparisons and full Python validation; current admission and safety not verified.
+
+
+## sight-mx-paracho-guitar-workshops — Paracho Traditional Guitar and String Instrument Workshops — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/paracho-guitar-workshops.yaml)
+- Action: new (pass 454)
+- Precise subject: Distinct instrument-making workshops, with visits only by arrangement or where artisans welcome visitors.
+- Location check: 19.648, -102.048; representative point, approximate, not independently verified.
+- Evidence status: source-linked-unverified; retrieved search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://visitmexico.com/en/destino/2093/paracho-de-verduzco-michoacan.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Cremona violin-making (IT): more internationally recognized craft
+  - Teotitlán (MX): different craft heritage
+  - Talavera (MX): UNESCO-recognized craft
+  - San Martín Tilcajete (MX): comparable specialist production.
+- Individual scores: impact 8.5, uniqueness 9.2, significance 9.1, experience 9.0, depth 8.7.
+- Categories: culture 9.5, history 9.0, photography 8.8.
+- Overall: 88.90/100.
+- High-score challenge: Sub-90 reflects narrower visitor scope or less global distinction. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks for approximate points, numerical peer comparisons and full Python validation; current admission and safety not verified.
+
+
+## sight-mx-valladolid-san-bernardino — San Bernardino de Siena Convent and Calzada de los Frailes — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/valladolid-san-bernardino.yaml)
+- Action: new (pass 454)
+- Precise subject: Specific historic convent and approach street, with projection programme when offered; not whole city or nearby Zací cenote.
+- Location check: 20.685, -88.212; representative point, approximate, not independently verified.
+- Evidence status: source-linked-unverified; retrieved search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://visitmexico.com/en/destino/2066/valladolid; https://visitmexico.com/es/itinerario/306/rutas-del-aficionado-2026-ruta-3.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Izamal convent (MX): larger atrium
+  - Tepoztlán convent (MX): more distinctive mountain context
+  - Loreto mission (MX): stronger foundational significance
+  - Coyoacán (MX): broader urban visit.
+- Individual scores: impact 8.8, uniqueness 8.9, significance 9.0, experience 9.0, depth 8.8.
+- Categories: architecture 9.2, history 9.2, photography 9.3, culture 9.0.
+- Overall: 88.95/100.
+- High-score challenge: Sub-90 reflects narrower visitor scope or less global distinction. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks for approximate points, numerical peer comparisons and full Python validation; current admission and safety not verified.
+
+
+## sight-mx-san-sebastian-mining-haciendas — San Sebastián del Oeste Mining Haciendas and Historic Lanes — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/san-sebastian-mining-haciendas.yaml)
+- Action: new (pass 454)
+- Precise subject: Historic mining settlement circuit focused on preserved buildings, hacienda heritage and lanes, distinct from city rating; no assumed access to private estates.
+- Location check: 20.762, -104.852; representative point, approximate, not independently verified.
+- Evidence status: source-linked-unverified; retrieved search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://visitmexico.com/es/recomendacion/destino/41/2154/essan-sebastian-del-oesteensan-sebastian-del-oeste.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Real de Catorce (MX): more dramatic historic setting
+  - Real del Monte (MX): richer industrial interpretation
+  - Batopilas (MX): stronger canyon setting
+  - Taxco (MX): larger monumental heritage.
+- Individual scores: impact 8.8, uniqueness 8.8, significance 8.9, experience 8.9, depth 8.8.
+- Categories: history 9.2, architecture 9.0, photography 9.2, culture 9.1.
+- Overall: 88.35/100.
+- High-score challenge: Sub-90 reflects narrower visitor scope or less global distinction. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks for approximate points, numerical peer comparisons and full Python validation; current admission and safety not verified.
+

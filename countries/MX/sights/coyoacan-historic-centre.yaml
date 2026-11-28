@@ -1,0 +1,17 @@
+id: sight-mx-coyoacan-historic-centre
+name: "Coyoacán Historic Centre and Plaza Hidalgo"
+location:
+  country_code: MX
+  latitude: 19.349
+  longitude: -99.162
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 9.4
+  depth: 9.2
+  categories:
+    culture: 9.3
+    architecture: 9.1
+    food: 9.1
+    history: 9.2
