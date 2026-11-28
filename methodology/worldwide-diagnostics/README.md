@@ -1,5 +1,7 @@
 # Worldwide record-level diagnostic
 
+> **Snapshot warning (2026-11-28):** The diagnostic below predates the consolidated merge of PR #384. It covers 16,269 records, not the 20,276 records reported by the [live incomplete-rating backlog](../worldwide-backlog/README.md) at that merge. Its counts and queues must not be used as current worldwide totals. The TSV is the corresponding historical diagnostic snapshot; regenerate both files together with `scripts/audit_worldwide.py` before relying on current flags. This warning does not modify scores or certify any record.
+
 **250 registered areas; 16269 source records screened.**
 Ranked: 15374; unassessed: 895.
 
