@@ -1,0 +1,16 @@
+id: sight-hn-roatan-el-aguila-wreck
+name: "Roatán El Águila Shipwreck Diving"
+location:
+  country_code: HN
+  latitude: 16.32751
+  longitude: -86.57904
+scores:
+  impact: 8.8
+  uniqueness: 8.5
+  significance: 7.8
+  experience: 9.0
+  depth: 8.1
+  categories:
+    adventure: 9.3
+    photography: 9.0
+    wildlife: 8.6

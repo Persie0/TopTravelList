@@ -1,0 +1,16 @@
+id: sight-hn-guanaja-mangrove-wetlands
+name: "Guanaja Coastal Mangrove Wetland Exploration"
+location:
+  country_code: HN
+  latitude: 16.48
+  longitude: -85.91
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.3
+  depth: 8.4
+  categories:
+    nature: 9.1
+    wildlife: 9.0
+    photography: 8.8

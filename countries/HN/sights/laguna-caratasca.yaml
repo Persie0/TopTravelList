@@ -1,0 +1,16 @@
+id: sight-hn-laguna-caratasca
+name: "Laguna Caratasca Wetland Landscape"
+location:
+  country_code: HN
+  latitude: 15.3833
+  longitude: -83.8667
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 7.9
+  depth: 8.3
+  categories:
+    nature: 9.0
+    wildlife: 9.0
+    photography: 8.7

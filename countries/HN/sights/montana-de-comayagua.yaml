@@ -1,0 +1,16 @@
+id: sight-hn-montana-de-comayagua
+name: "Montaña de Comayagua National Park"
+location:
+  country_code: HN
+  latitude: 14.54
+  longitude: -87.49
+scores:
+  impact: 8.1
+  uniqueness: 8.2
+  significance: 8.4
+  experience: 8.2
+  depth: 8.3
+  categories:
+    nature: 8.9
+    wildlife: 8.7
+    adventure: 8.5
