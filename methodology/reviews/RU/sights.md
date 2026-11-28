@@ -1417,3 +1417,10 @@
 - Approved 10 registry: none.
 - Final decision: Keep unranked pending sufficient evidence.
 - Verification still needed: GPS, material claims, access, category calibration, live peer fit and values.
+
+## sight-ru-kamchatka-volcanoes — Volcanoes of Kamchatka — 2026-11-28 post-merge 93+ scope check
+
+- [YAML](../../../countries/RU/sights/kamchatka-volcanoes.yaml) · Action: source/scope check only · **source-linked-unverified**.
+- Evidence reviewed 2026-11-28: [UNESCO](https://whc.unesco.org/en/list/765/) confirms six serial areas with diverse active volcanic landforms, glacial interactions and important salmon/bear populations. Impact and uniqueness reflect this geological combination; significance reflects volcanic and ecological research. Experience and depth require separate evidence of actual multi-component routes rather than credit for the whole peninsula. No field currently reaches 9.5.
+- Qualitative comparison leads (peer YAML ratings not independently checked): Hawaii Volcanoes (USA): basaltic volcanic landscapes; Tongariro (New Zealand): narrower volcanic group and cultural context; Vatnajökull (Iceland): strong ice-volcano interaction; Mount Etna (Italy): single major volcano.
+- Current I/U/S/E/D: 9.4 / 9.4 / 9.4 / 9.3 / 9.4; overall 93.85/100. All ratings retained provisionally; no coordinate or category changes. This limited review is not full international calibration or verification of current access.
