@@ -1,0 +1,16 @@
+id: sight-cl-arica-fuerza-del-sol
+name: "Arica Carnaval Andino con la Fuerza del Sol"
+location:
+  country_code: CL
+  latitude: -18.48
+  longitude: -70.32
+scores:
+  impact: 9.3
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 9.3
+  depth: 9.0
+  categories:
+    culture: 9.4
+    photography: 9.4
+    nightlife: 9.1

@@ -1341,3 +1341,150 @@
 - Categories: nature 9.4, photography 9.4. Computed overall: 86.20/100.
 - High-score challenge: Not applicable. Approved 10 registry: none.
 - Verification still needed: individual facts, GPS, access and closer peer calibration.
+
+
+### Pass 318 — Chile initial priority screen
+
+## sight-cl-tapati-rapa-nui — Tapati Rapa Nui Public Cultural Festival — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/tapati-rapa-nui.yaml)
+- Action: new
+- Scope: Public cultural competitions, music and dance, distinct from archaeological park; private ceremonies excluded. Government documented 2026 edition; future dates not assumed.
+- Representative coordinates: -27.15, -109.43; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://chile.travel/en/blog/discover-the-typical-celebrations-of-chile/ ; https://www.dppisladepascua.dpp.gob.cl/2026/02/10/delegado-presidencial-provincial-sergio-tepano-estuvo-presente-en-la-inauguracion-de-la-fiesta-cultural-tapati-rapa-nui-2026/
+- Core I/U/S/E/D: 9.4 / 9.4 / 9.4 / 9.2 / 9.1.
+- Categories: culture:9.4 photography:9.4 history:9.2.
+- Overall: 93.40/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/laborde-malambo-festival](../../../countries/AR/sights/laborde-malambo-festival.yaml) | 9.1 / 9.4 / 9.4 / 9.2 / 9.1 | impact: 0.3; uniqueness: 0.0 vs peer |
+| [CL/rapa-nui-national-park](../../../countries/CL/sights/rapa-nui-national-park.yaml) | 9.8 / 9.9 / 9.8 / 9.1 / 9.5 | impact: -0.4; uniqueness: -0.5 vs peer |
+
+Ranking-row comparisons include cross-type domestic references; independent same-type calibration, coordinates and peer YAML checks pending.
+
+## sight-cl-la-tirana-festival — La Tirana Religious Pilgrimage and Public Dance Festival — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/la-tirana-festival.yaml)
+- Action: new
+- Scope: Recurring public devotional dances and pilgrimage grouped; no separate shrine rating or claim that festival itself is UNESCO-inscribed.
+- Representative coordinates: -20.338, -69.657; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.chilepatrimonios.gob.cl/actualidad/FichaNoticia?id=412 ; https://www.parlamentoandino.org/index.php/actualidad/noticias/2351-por-medio-de-la-cual-se-declara-a-la-fiesta-de-la-tirana-como-referente-cultural-inmaterial-de-la-region-andina
+- Core I/U/S/E/D: 9.3 / 9.3 / 9.4 / 9.1 / 9.0.
+- Categories: culture:9.4 history:9.3 photography:9.3.
+- Overall: 92.60/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/laborde-malambo-festival](../../../countries/AR/sights/laborde-malambo-festival.yaml) | 9.1 / 9.4 / 9.4 / 9.2 / 9.1 | impact: 0.2; uniqueness: -0.1 vs peer |
+| [CL/churches-of-chiloe](../../../countries/CL/sights/churches-of-chiloe.yaml) | 8.6 / 9.4 / 9.2 / 8.6 / 8.9 | impact: 0.7; uniqueness: -0.1 vs peer |
+
+Ranking-row comparisons include cross-type domestic references; independent same-type calibration, coordinates and peer YAML checks pending.
+
+## sight-cl-futaleufu-rafting — Futaleufú River Guided Whitewater Rafting — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/futaleufu-rafting.yaml)
+- Action: new
+- Scope: Guided rafting experience on established river sections, not a general town or self-guided extreme rapids rating. Route difficulty and conditions vary.
+- Representative coordinates: -43.18, -71.86; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://chile.travel/en/attractions/futaleufu/
+- Core I/U/S/E/D: 9.4 / 9.2 / 8.8 / 9.3 / 8.9.
+- Categories: adventure:9.4 nature:9.3 photography:9.1.
+- Overall: 91.65/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/alumine-rafting](../../../countries/AR/sights/alumine-rafting.yaml) | 9.2 / 9.0 / 9.1 / 9.2 / 8.6 | impact: 0.2; uniqueness: 0.2 vs peer |
+| [CL/w-trek-torres-del-paine](../../../countries/CL/sights/w-trek-torres-del-paine.yaml) | 9.8 / 9.5 / 8.6 / 9.3 / 9.4 | impact: -0.4; uniqueness: -0.3 vs peer |
+
+Ranking-row comparisons include cross-type domestic references; independent same-type calibration, coordinates and peer YAML checks pending.
+
+## sight-cl-dientes-de-navarino — Dientes de Navarino Multi-day Trek — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/dientes-de-navarino.yaml)
+- Action: new
+- Scope: Established remote trekking circuit from Puerto Williams; official tourism describes registration and challenging terrain. Separate from Cape Horn maritime park.
+- Representative coordinates: -54.98, -67.65; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://chile.travel/en/attractions/dientes-de-navarino/ ; https://chile.travel/en/blog/trekking-in-southern-chile-10-must-do-routes/
+- Core I/U/S/E/D: 9.3 / 9.3 / 8.6 / 9.0 / 9.1.
+- Categories: adventure:9.4 nature:9.4 photography:9.4.
+- Overall: 90.95/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CL/w-trek-torres-del-paine](../../../countries/CL/sights/w-trek-torres-del-paine.yaml) | 9.8 / 9.5 / 8.6 / 9.3 / 9.4 | impact: -0.5; uniqueness: -0.2 vs peer |
+| [CL/cerro-castillo-national-park](../../../countries/CL/sights/cerro-castillo-national-park.yaml) | 9.4 / 9.1 / 8.5 / 8.7 / 8.8 | impact: -0.1; uniqueness: 0.2 vs peer |
+
+Ranking-row comparisons include cross-type domestic references; independent same-type calibration, coordinates and peer YAML checks pending.
+
+## sight-cl-arica-fuerza-del-sol — Arica Carnaval Andino con la Fuerza del Sol — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/arica-fuerza-del-sol.yaml)
+- Action: new
+- Scope: Public Andean carnival with international dance groups; municipality confirms 2026 occurrence. Distinct from permanent Arica heritage.
+- Representative coordinates: -18.48, -70.32; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://chile.travel/en/blog/things-to-do-in-arica-2/ ; https://www.muniarica.cl/noticias/publicacion/carnaval-andino-arica-con-la-fuerza-del-sol-2026-marca-un-exito-historico-y-proyecta-un-2027-aun-mas-grande
+- Core I/U/S/E/D: 9.3 / 9.1 / 9.2 / 9.3 / 9.0.
+- Categories: culture:9.4 photography:9.4 nightlife:9.1.
+- Overall: 92.00/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/laborde-malambo-festival](../../../countries/AR/sights/laborde-malambo-festival.yaml) | 9.1 / 9.4 / 9.4 / 9.2 / 9.1 | impact: 0.2; uniqueness: -0.3 vs peer |
+| [CL/morro-de-arica](../../../countries/CL/sights/morro-de-arica.yaml) | 7.9 / 7.6 / 8.3 / 7.9 / 6.6 | impact: 1.4; uniqueness: 1.5 vs peer |
+
+Ranking-row comparisons include cross-type domestic references; independent same-type calibration, coordinates and peer YAML checks pending.
+
+## sight-cl-vina-del-mar-festival — Viña del Mar International Song Festival — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/vina-del-mar-festival.yaml)
+- Action: new
+- Scope: Public music competition and concert programme at Quinta Vergara; historical 2026 edition documented, future lineup not assumed.
+- Representative coordinates: -33.027, -71.551; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://chile.travel/en/blog/chile-the-stage-of-major-international-events-2/ ; https://festivalvinadelmar.com/es/ediciones/edicion-2026
+- Core I/U/S/E/D: 9.2 / 8.8 / 9.3 / 9.4 / 8.9.
+- Categories: culture:9.4 nightlife:9.3 photography:9.1.
+- Overall: 91.20/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/san-isidro-lollapalooza](../../../countries/AR/sights/san-isidro-lollapalooza.yaml) | 9.3 / 8.8 / 9.1 / 9.5 / 9.1 | impact: -0.1; uniqueness: 0.0 vs peer |
+| [CL/museo-chileno-de-arte-precolombino](../../../countries/CL/sights/museo-chileno-de-arte-precolombino.yaml) | 8.2 / 8.8 / 9.2 / 8.6 / 8.0 | impact: 1.0; uniqueness: 0.0 vs peer |
+
+Ranking-row comparisons include cross-type domestic references; independent same-type calibration, coordinates and peer YAML checks pending.
+
+## sight-cl-niebla-valdivia-fortifications — Niebla Fort and Valdivia Defensive Heritage Museum — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/niebla-valdivia-fortifications.yaml)
+- Action: new
+- Scope: Niebla site museum and fort only; wider serial defensive complex remains partially mapped, no claim of inscription.
+- Representative coordinates: -39.875, -73.396; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.castillodeniebla.gob.cl/servicios/informacion-para-tu-visita ; https://www.registromuseoschile.cl/663/w3-article-50655.html
+- Core I/U/S/E/D: 8.6 / 8.7 / 9.0 / 8.5 / 8.5.
+- Categories: history:9.3 architecture:9.1 photography:9.0.
+- Overall: 86.80/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CL/sewell-mining-town](../../../countries/CL/sights/sewell-mining-town.yaml) | 8.2 / 9.2 / 9.2 / 7.9 / 7.9 | impact: 0.4; uniqueness: -0.5 vs peer |
+| [CL/humberstone-and-santa-laura-saltpeter-works](../../../countries/CL/sights/humberstone-and-santa-laura-saltpeter-works.yaml) | 8.4 / 9.1 / 9.3 / 8.3 / 8.5 | impact: 0.2; uniqueness: -0.4 vs peer |
+
+Ranking-row comparisons include cross-type domestic references; independent same-type calibration, coordinates and peer YAML checks pending.
+
+### Pass 318 scope decisions
+
+7 source-linked provisional additions, 6 90+, 14 ranking-row comparisons (5 international, 9 domestic). CL 73 ranked / 74 total, +7 since baseline 67. All seven inscribed UNESCO properties already represented at property level (https://whc.unesco.org/en/statesparties/CL); 19 tentative properties require detailed mapping. Niebla covers only part of the tentative Valdivia defensive complex. Tapati and Arica historical 2026 editions documented, La Tirana festival distinct from UNESCO-listed baile chino practice; no future dates assumed. Futaleufu guided rafting and Dientes trek separate from park records. Carretera Austral deferred pending route versus existing site overlap. Existing scores and one unassessed preserved. Chile OPEN; coordinates approximate, full Python validation, independent peer YAML checks, current conditions and international calibration pending.

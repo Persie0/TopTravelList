@@ -5629,3 +5629,15 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] AR — Mar del Plata Fishing Port and Sea Lion Coastal Heritage: 82.85/100 (desk-based provisional).
 
 12 provisional additions (8 source-linked, 4 desk-based), 2 90+, 24 ranking-row comparisons (12 international, 12 domestic). AR 201 ranked / 202 total, +137 since baseline 65, 54 new 90+ across eleven passes. Prior UNESCO 12 inscribed and 8 tentative represented; component mapping incomplete. Lollapalooza and sea-lion snorkeling researched, distinct from existing music and land-based wildlife entries. El Nogalar, Pizarro and Formosa reserve visitor trails verified against national park authority; Ansenuza official tourism activities still in planning and Miramar shoreline already represented. End of the World railway distinct transport experience; prison and maritime museums grouped. International jazz historical programme distinct from FEJA, no future edition claimed. Prior El Shincal, Tastil, La Salamanca, rotating theatre festival, Campos del Tuyu, Ansenuza and Isla de los Estados deferrals retained. Bounded priority queue closed after eleven passes; reopen for concrete significant omission, not exhaustive. Existing scores and one unassessed preserved. Coordinates approximate; permissions, conditions and future schedules unverified. Full Python validation, independent peer YAML checks and same-type international calibration pending.
+
+### Pass 318 — Chile initial priority screen
+
+- [x] CL — Tapati Rapa Nui Public Cultural Festival: 93.40/100 (source-linked provisional).
+- [x] CL — La Tirana Religious Pilgrimage and Public Dance Festival: 92.60/100 (source-linked provisional).
+- [x] CL — Futaleufú River Guided Whitewater Rafting: 91.65/100 (source-linked provisional).
+- [x] CL — Dientes de Navarino Multi-day Trek: 90.95/100 (source-linked provisional).
+- [x] CL — Arica Carnaval Andino con la Fuerza del Sol: 92.00/100 (source-linked provisional).
+- [x] CL — Viña del Mar International Song Festival: 91.20/100 (source-linked provisional).
+- [x] CL — Niebla Fort and Valdivia Defensive Heritage Museum: 86.80/100 (source-linked provisional).
+
+7 source-linked provisional additions, 6 90+, 14 ranking-row comparisons (5 international, 9 domestic). CL 73 ranked / 74 total, +7 since baseline 67. All seven inscribed UNESCO properties already represented at property level (https://whc.unesco.org/en/statesparties/CL); 19 tentative properties require detailed mapping. Niebla covers only part of the tentative Valdivia defensive complex. Tapati and Arica historical 2026 editions documented, La Tirana festival distinct from UNESCO-listed baile chino practice; no future dates assumed. Futaleufu guided rafting and Dientes trek separate from park records. Carretera Austral deferred pending route versus existing site overlap. Existing scores and one unassessed preserved. Chile OPEN; coordinates approximate, full Python validation, independent peer YAML checks, current conditions and international calibration pending.
