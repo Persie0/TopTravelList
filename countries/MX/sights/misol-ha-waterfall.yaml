@@ -1,0 +1,16 @@
+id: sight-mx-misol-ha-waterfall
+name: "Misol-Há Waterfall"
+location:
+  country_code: MX
+  latitude: 17.39095
+  longitude: -91.99869
+scores:
+  impact: 8.5
+  uniqueness: 8.0
+  significance: 7.5
+  experience: 8.5
+  depth: 7.4
+  categories:
+    nature: 8.8
+    photography: 9.0
+    adventure: 8.3

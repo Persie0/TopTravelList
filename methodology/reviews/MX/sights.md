@@ -5954,3 +5954,207 @@ Peer values from country ranking tables or same-batch assessments; complete sour
 - High-score challenge: No 90+ or 9.5+ field; no claim of world's only pink lagoon. No approved 10 requested.
 - Earlier decision: none.
 - Remaining verification: full source triangulation, precise coordinates, access where applicable, numerical peers and global Python checks.
+
+## sight-mx-montes-azules — Montes Azules Biosphere Reserve — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/montes-azules.yaml)
+- Action: new
+- Precise subject: Lacandon forest protected reserve itself; separate from river-focused Lacantún–Usumacinta record and from archaeological cities and Laguna Miramar; UNESCO representative point, not an entrance.
+- Location check: 16.66, -90.96; source-linked approximate representative point.
+- Evidence status: source-linked-unverified; opened and indexed evidence as specified, full independent verification incomplete; editorial ratings.
+- Sources consulted 2026-11-28: https://www.unesco.org/en/mab/montes-azules (opened: extensive humid tropical forest, national biodiversity concentrations, coordinates); https://descubreanp.conanp.gob.mx/en/conanp/ANP?suri=114 (indexed: protected forest and butterfly richness).
+- Worldwide peers (qualitative, not independently numerically refetched):
+  - Manú (PE): much broader Amazon-Andes biodiversity and elevation
+  - Corcovado (CR): stronger concentrated visitor wildlife encounters
+  - Taman Negara (MY): comparable large rainforest setting
+  - Calakmul (MX): distinct forest landscape with ancient city
+- Individual scores:
+  - impact: 9.2 — Extensive humid tropical forest creates substantial wilderness impact.
+  - uniqueness: 9.1 — Large remaining northern Neotropical rainforest is distinctive.
+  - significance: 9.5 — Internationally important biodiversity concentration and refuge justify high significance.
+  - experience: 8.7 — Permitted forest and river exploration offers reward without assuming every sector accessible.
+  - depth: 9.3 — Varied forest elevations and habitats sustain ecological breadth.
+- Categories: nature 9.5, wildlife 9.5, adventure 9.1, photography 9.1.
+- Overall: 91.70/100.
+- High-score challenge: 9.5 nature, wildlife and significance supported by UNESCO's documented national biodiversity concentration, not guaranteed sightings or inherited archaeological importance; no precise species totals used because UNESCO's figures differ within the page. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: full independent triangulation, current access and numerical peers, global Python checks.
+
+## sight-mx-el-triunfo-biosphere-reserve — El Triunfo Biosphere Reserve — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/el-triunfo-biosphere-reserve.yaml)
+- Action: new
+- Precise subject: Sierra Madre de Chiapas protected cloud forest and lower-elevation forest; UNESCO representative point. Specialist birdwatching, no guaranteed species observations.
+- Location check: 15.66, -92.85; source-linked approximate representative point.
+- Evidence status: source-linked-unverified; opened and indexed evidence as specified, full independent verification incomplete; editorial ratings.
+- Sources consulted 2026-11-28: https://www.unesco.org/en/mab/el-triunfo?hub=66369 (opened: cloud forest, ten vegetation types, coordinates and established birding); https://descubreanp.conanp.gob.mx/swb/conanp/ANP?suri=62 (indexed: horned guan and quetzal habitats); https://iucn.org/news/world-commission-protected-areas/201606/biosphere-reserve-el-triunfo-where-sacred-quetzals-roam-free%E2%80%A6 (indexed: 119177 ha protected reserve and threatened ecosystems).
+- Worldwide peers (qualitative, not independently numerically refetched):
+  - Monteverde (CR): more established visitor experience and analogous cloud forest
+  - Manú (PE): greater range of ecological zones
+  - Sierra de las Minas (GT): similar threatened montane forest
+  - Kinabalu (MY): greater exceptional altitudinal and plant diversity
+- Individual scores:
+  - impact: 9.1 — Mist-shrouded montane forest and steep ridges offer outstanding scenery.
+  - uniqueness: 9.3 — Rare cloud forest habitat and specialist birds distinguish the landscape.
+  - significance: 9.4 — Documented threatened ecosystems and endemic taxa support strong conservation significance.
+  - experience: 8.8 — Specialist birding and forest interpretation are rewarding but not universally accessible.
+  - depth: 9.1 — Multiple vegetation zones support substantial exploration.
+- Categories: nature 9.5, wildlife 9.5, photography 9.2, adventure 9.0.
+- Overall: 91.65/100.
+- High-score challenge: 9.5 nature and wildlife reflect exceptional cloud forest diversity and rare montane bird habitat supported by UNESCO, CONANP and IUCN; not an assurance of horned guan or quetzal sightings. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: full independent triangulation, current access and numerical peers, global Python checks.
+
+## sight-mx-selva-el-ocote — Selva El Ocote Biosphere Reserve — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/selva-el-ocote.yaml)
+- Action: new
+- Precise subject: Protected karst forest and ecological landscape; does not duplicate the separately ranked Arco del Tiempo or credit its specific arch experience. UNESCO representative point.
+- Location check: 16.98, -93.64; source-linked approximate representative point.
+- Evidence status: source-linked-unverified; opened and indexed evidence as specified, full independent verification incomplete; editorial ratings.
+- Sources consulted 2026-11-28: https://www.unesco.org/en/mab/selva-el-ocote (opened: forest extent, karst aquifers, fauna, coordinates and limited tourism development); https://descubreanp.conanp.gob.mx/en/conanp/ANP?suri=148 (indexed: limestone caves and hummingbirds); https://rev-mex-biodivers.mx/2019/11/01/comunidad-de-mamiferos-medianos/ (indexed: mammal community research and habitat disturbance).
+- Worldwide peers (qualitative, not independently numerically refetched):
+  - Gunung Mulu (MY): more exceptional concentrated karst cave visitor landscape
+  - Phong Nha–Kẻ Bàng (VN): greater dramatic cave and karst breadth
+  - Chiquibul (BZ): comparable tropical forest karst
+  - Montes Azules (MX): broader humid forest landscape
+- Individual scores:
+  - impact: 8.9 — Rugged karst and tropical forests give strong natural impact.
+  - uniqueness: 9.1 — Large forested karst aquifer and cave landscape offers distinctive combination.
+  - significance: 9.3 — Ecological and hydrological documentation supports high significance.
+  - experience: 8.5 — Permitted forest exploration is rewarding but tourism development limited.
+  - depth: 9.2 — Varied karst landforms and habitats provide substantial breadth.
+- Categories: nature 9.4, wildlife 9.2, adventure 9.1, photography 9.0.
+- Overall: 90.00/100.
+- High-score challenge: Near-threshold 90+ supported by documented combined karst, forest and hydrological value; no credit for separately ranked Arco del Tiempo, or presumed access to caves. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: full independent triangulation, current access and numerical peers, global Python checks.
+
+## sight-mx-lagunas-de-montebello — Lagunas de Montebello National Park — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/lagunas-de-montebello.yaml)
+- Action: new
+- Precise subject: Mexican national park lake ensemble and forest setting, not individual duplicated lakes or wider Guatemala landscape. UNESCO representative point; color and water quality vary.
+- Location check: 16.099, -91.7062; source-linked approximate representative point.
+- Evidence status: source-linked-unverified; opened and indexed evidence as specified, full independent verification incomplete; editorial ratings.
+- Sources consulted 2026-11-28: https://www.unesco.org/en/mab/lagunas-de-montebello (opened: 59 lakes of different colors in wetland, conservation and coordinates); https://www.visitchiapas.com/v2/es/blog/rutas-mundialistas-en-chiapas (indexed: lake excursions).
+- Worldwide peers (qualitative, not independently numerically refetched):
+  - Plitvice Lakes (HR): more exceptional waterfall-linked lake system
+  - Jiuzhaigou (CN): stronger high-mountain lake and waterfall spectacle
+  - Lagoons of Sete Cidades (PT): comparable colorful lakes with different volcanic setting
+  - Bacalar (MX): more distinctive single lagoon color gradient
+- Individual scores:
+  - impact: 9.0 — Numerous multicolored forest lakes create outstanding visual appeal.
+  - uniqueness: 8.8 — Colorful karst lake ensemble is distinctive but has peers.
+  - significance: 8.8 — Protected forest and wetland habitats support conservation value.
+  - experience: 9.0 — Lake viewing and permitted boat outings offer variety.
+  - depth: 9.0 — Numerous lakes and forests provide extended exploration.
+- Categories: nature 9.3, photography 9.3, relaxation 8.9, adventure 8.7.
+- Overall: 89.10/100.
+- High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: full independent triangulation, current access and numerical peers, global Python checks.
+
+## sight-mx-agua-azul-waterfalls — Agua Azul Waterfalls — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/agua-azul-waterfalls.yaml)
+- Action: new
+- Precise subject: Terraced cascades of the Xanil River, not other named Agua Azul settlements, color varies with conditions. Mapped waterfall point.
+- Location check: 17.25521, -92.11503; source-linked approximate representative point.
+- Evidence status: source-linked-unverified; opened and indexed evidence as specified, full independent verification incomplete; editorial ratings.
+- Sources consulted 2026-11-28: https://mapcarta.com/31600452 (opened: identity and coordinates); https://www.visitchiapas.com/en/blog/Conoce-la-Ruta-Maya-Primera-Parte (indexed: stepped cascades).
+- Worldwide peers (qualitative, not independently numerically refetched):
+  - Iguazú (AR/BR): far greater scale
+  - Kuang Si (LA): analogous turquoise terraced falls
+  - Plitvice (HR): greater lake and cascade network
+  - El Chiflón (MX): taller main fall and different profile
+- Individual scores:
+  - impact: 9.2 — Broad stepped cascades and colorful pools provide excellent impact.
+  - uniqueness: 8.8 — Turquoise terraced cascades have international analogues.
+  - significance: 8.3 — Natural protected landscape has substantial regional significance.
+  - experience: 9.0 — Waterfall trails and observation offer strong visitor reward.
+  - depth: 8.8 — Series of cascades and pools extends exploration.
+- Categories: nature 9.2, photography 9.4, adventure 8.7.
+- Overall: 88.50/100.
+- High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: full independent triangulation, current access and numerical peers, global Python checks.
+
+## sight-mx-el-chiflon-waterfalls — El Chiflón Waterfalls and Velo de Novia — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/el-chiflon-waterfalls.yaml)
+- Action: new
+- Precise subject: Cascade chain on San Vicente river, including Velo de Novia; visitor center coordinate. Avoid exact height because official tourism pages give conflicting values.
+- Location check: 16.18878, -92.27523; source-linked approximate representative point.
+- Evidence status: source-linked-unverified; opened and indexed evidence as specified, full independent verification incomplete; editorial ratings.
+- Sources consulted 2026-11-28: https://visitchiapas.com/v1/Centro-turistico-cascada-el-chiflon-velo-de-novia (indexed: waterfall chain and seasonal color); https://visitchiapas.com/v2/es/blog/Que-visitar-cerca-de-Cascadas-El-Chiflon (indexed: reported 120 m); https://visitchiapas.com/es/blog/12-formas-de-ser-feliz-en-Chiapas (indexed: conflicting 70 m); https://mapcarta.com/N11425809307 (opened: visitor center point).
+- Worldwide peers (qualitative, not independently numerically refetched):
+  - Krimml (AT): taller multi-stage system
+  - Tamul (MX): tall cascade and river canyon
+  - Kuang Si (LA): comparable colorful pools
+  - Iguazú (AR/BR): vastly broader waterfall spectacle
+- Individual scores:
+  - impact: 9.1 — Tall main cascade and striking pools make memorable scenery.
+  - uniqueness: 8.7 — Cascade chain is distinctive but has global peers.
+  - significance: 8.1 — Regional natural importance without extraordinary global heritage claim.
+  - experience: 9.0 — Trails and viewpoints offer strong varied encounter.
+  - depth: 8.7 — Multiple falls and forest route add exploration.
+- Categories: nature 9.2, photography 9.3, adventure 8.9.
+- Overall: 87.45/100.
+- High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: full independent triangulation, current access and numerical peers, global Python checks.
+
+## sight-mx-laguna-miramar — Laguna Miramar — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/laguna-miramar.yaml)
+- Action: new
+- Precise subject: Specific lake near San Quintín and forest approach, not entire Montes Azules reserve. Representative lake point from mapped named lake; water conditions and access not guaranteed.
+- Location check: 16.3935, -91.2881; source-linked approximate representative point.
+- Evidence status: source-linked-unverified; opened and indexed evidence as specified, full independent verification incomplete; editorial ratings.
+- Sources consulted 2026-11-28: https://www.visitchiapas.com/v1/Laguna-miramar (indexed: turquoise lake and forest access trail); https://mapcarta.com/es/Laguna_Miramar (opened: correct named lake near San Quintín).
+- Worldwide peers (qualitative, not independently numerically refetched):
+  - Lake Atitlán (GT): more dramatic mountain setting
+  - Bacalar (MX): greater distinctive color gradient
+  - Lake Bled (SI): more iconic cultural and alpine scenery
+  - Lake Yojoa (HN): comparable nature lake
+- Individual scores:
+  - impact: 8.7 — Remote forest lake creates striking natural setting.
+  - uniqueness: 8.6 — Relatively isolated tropical lake adds distinction.
+  - significance: 8.5 — Rainforest lake habitat supports regional ecological importance.
+  - experience: 8.6 — Forest approach and lake observation provide meaningful immersion.
+  - depth: 8.6 — Lake and trail afford varied exploration.
+- Categories: nature 9.1, photography 9.0, adventure 8.9, relaxation 8.7.
+- Overall: 86.10/100.
+- High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: full independent triangulation, current access and numerical peers, global Python checks.
+
+## sight-mx-misol-ha-waterfall — Misol-Há Waterfall — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/misol-ha-waterfall.yaml)
+- Action: new
+- Precise subject: Single forest waterfall and immediate pool, distinct from Agua Azul and Palenque ruins. Mapped waterfall point.
+- Location check: 17.39095, -91.99869; source-linked approximate representative point.
+- Evidence status: source-linked-unverified; opened and indexed evidence as specified, full independent verification incomplete; editorial ratings.
+- Sources consulted 2026-11-28: https://www.visitchiapas.com/v2/es/blog/rutas-mundialistas-en-chiapas (indexed: 30 m forest waterfall); https://mapcarta.com/N1529015422 (opened: waterfall coordinates).
+- Worldwide peers (qualitative, not independently numerically refetched):
+  - Seljalandsfoss (IS): distinctive behind-fall perspective and greater height
+  - Tegenungan (ID): comparable tropical cascade
+  - Big Rock Falls (BZ): comparable forest waterfall
+  - Tamul (MX): substantially larger cascade and canyon
+- Individual scores:
+  - impact: 8.5 — Single forest cascade and pool create appealing scenery.
+  - uniqueness: 8.0 — Tropical waterfall has many international counterparts.
+  - significance: 7.5 — Local natural importance supports modest significance.
+  - experience: 8.5 — Short waterfall visit provides rewarding nature experience.
+  - depth: 7.4 — Single cascade limits exploration depth.
+- Categories: nature 8.8, photography 9.0, adventure 8.3.
+- Overall: 80.65/100.
+- High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: full independent triangulation, current access and numerical peers, global Python checks.
+
+## Pass 424 scope screening — 2026-11-28
+
+- Broad Lacandon Jungle not duplicated as another record: Montes Azules and the existing Lacantún–Usumacinta river landscape have distinct scoped assessments; Laguna Miramar has a narrower lake-specific scope. Existing archaeological sites remain separate. El Ocote excludes the specific Arco del Tiempo encounter.

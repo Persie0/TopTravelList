@@ -1,0 +1,17 @@
+id: sight-mx-selva-el-ocote
+name: "Selva El Ocote Biosphere Reserve"
+location:
+  country_code: MX
+  latitude: 16.98
+  longitude: -93.64
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 8.5
+  depth: 9.2
+  categories:
+    nature: 9.4
+    wildlife: 9.2
+    adventure: 9.1
+    photography: 9.0

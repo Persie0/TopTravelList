@@ -1,0 +1,16 @@
+id: sight-mx-agua-azul-waterfalls
+name: "Agua Azul Waterfalls"
+location:
+  country_code: MX
+  latitude: 17.25521
+  longitude: -92.11503
+scores:
+  impact: 9.2
+  uniqueness: 8.8
+  significance: 8.3
+  experience: 9.0
+  depth: 8.8
+  categories:
+    nature: 9.2
+    photography: 9.4
+    adventure: 8.7

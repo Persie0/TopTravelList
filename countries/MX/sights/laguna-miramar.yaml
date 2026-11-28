@@ -1,0 +1,17 @@
+id: sight-mx-laguna-miramar
+name: "Laguna Miramar"
+location:
+  country_code: MX
+  latitude: 16.3935
+  longitude: -91.2881
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.6
+  depth: 8.6
+  categories:
+    nature: 9.1
+    photography: 9.0
+    adventure: 8.9
+    relaxation: 8.7

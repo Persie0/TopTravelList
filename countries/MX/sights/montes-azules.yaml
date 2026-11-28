@@ -1,0 +1,17 @@
+id: sight-mx-montes-azules
+name: "Montes Azules Biosphere Reserve"
+location:
+  country_code: MX
+  latitude: 16.66
+  longitude: -90.96
+scores:
+  impact: 9.2
+  uniqueness: 9.1
+  significance: 9.5
+  experience: 8.7
+  depth: 9.3
+  categories:
+    nature: 9.5
+    wildlife: 9.5
+    adventure: 9.1
+    photography: 9.1
