@@ -3102,3 +3102,207 @@ Eight natural attractions added, provisional source-linked editorial ratings, al
 - High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
 - Earlier decision: none.
 - Remaining verification: exact visitor access, current ecology and conditions, numeric peer comparisons and full diagnostics. No access or wildlife guarantees.
+
+# Pass 402 — 2026-11-28 — direct main continuation
+
+Eight cultural attractions added, five fact-checked and three provisional source-linked, all numerically complete. JS inventory, score formula, coordinate range, uniqueness, ranking and README checks only; full Python validation/benchmark scripts and Actions not run. Pilgrimage and standing church scopes separated, Chichicastenango festival excludes market and ordinary worship, Santiago private residence not pinned, UNESCO nomination not treated as inscription. No assumed private ritual participation.
+
+## sight-gt-esquipulas-black-christ-pilgrimage — Esquipulas Black Christ January Pilgrimage — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/esquipulas-black-christ-pilgrimage.yaml)
+- Action: new
+- Precise subject: Annual January pilgrimage and public religious festivities, not ordinary basilica architecture, separate cycling pilgrimage or the Panamanian counterpart.
+- Location check: Existing basilica representative point, not a pilgrimage route.
+- Evidence status: fact-checked
+- Sources inspected 2026-11-28: Government https://prensa.gob.gt/comunicado/romeria-de-esquipulas-peregrinacion-y-patrimonio-guatemalteco (opened: January 15, national protection since 2011, tradition dated to 1595, nomination pending in December 2026); academic study https://www.scielo.org.mx/scielo.php?pid=S1870-90362017000200394&script=sci_arttext (excerpt: regional pilgrimage and annual influx).
+- Worldwide peers (qualitative; current peer YAML not checked):
+  - Lourdes pilgrimage (FR): much larger international visitor infrastructure
+  - Guadalupe pilgrimage (MX): greater global reach
+  - Fátima pilgrimage (PT): more expansive international pilgrimage program
+  - Antigua Holy Week (GT): greater visual art and procession breadth.
+- Individual scores:
+  - impact: 9.0 — Crowds and collective devotion produce strong emotional impact
+  - uniqueness: 9.2 — Distinctive Black Christ pilgrimage and regional syncretic tradition
+  - significance: 9.3 — Centuries of cross-border religious importance, no UNESCO inscription assumed
+  - experience: 9.0 — Public pilgrimage observation and associated traditions offer meaningful engagement
+  - depth: 8.8 — Several days of pilgrim arrivals and religious activity support depth.
+- Categories: culture 9.4, history 9.3, photography 9.0.
+- Overall: 90.90/100.
+- High-score challenge: Documented distinctive public cultural practice, substantial historical continuity and meaningful visitor experience justify low 90s, below the largest international peer events for breadth or recognition. No heritage nomination bonus; no private ritual access or inherited standing-site merits. No 9.5+ field or approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise visitor access/venues, current peer YAML, full diagnostics. No future event or access guarantee.
+
+## sight-gt-santiago-atitlan-maximon — Santiago Atitlán Rilaj Mam (Maximón) Holy Week Traditions — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/santiago-atitlan-maximon.yaml)
+- Action: new
+- Precise subject: Public Holy Week processions centered on Rilaj Mam and respectfully permitted cultural encounters; excludes other towns and private ceremonies.
+- Location check: Existing Santiago city representative point, deliberately not a rotating private residence.
+- Evidence status: fact-checked
+- Sources inspected 2026-11-28: INGUAT https://visitguatemala.gt/en/blog/rilaj-mam-who-maximon/ (opened: Tz’utujil origins, annually rotating house, role of brotherhoods and respectful visits); National Geographic https://www.nationalgeographic.com/history/article/how-holy-week-unites-guatemala (excerpt: documented public procession of figure).
+- Worldwide peers (qualitative; current peer YAML not checked):
+  - Rabinal Achí (GT): more rare surviving scripted pre-Hispanic drama
+  - Oaxaca Day of the Dead (MX): broader public art and festival scale
+  - El Güegüense (NI): distinctive satirical dramatic tradition
+  - San Juan Nonualco festival (SV): comparable public Indigenous-Christian ritual.
+- Individual scores:
+  - impact: 9.0 — Public effigy procession creates distinctive cultural impact
+  - uniqueness: 9.4 — Rare local combination of ancestral guardian devotion and Catholic calendar
+  - significance: 9.2 — Long-lived Indigenous cultural transmission and religious identity
+  - experience: 8.9 — Public observation is rewarding, participation or photography only with consent
+  - depth: 8.8 — Multiple related ceremonies and living tradition add substantial depth.
+- Categories: culture 9.4, history 9.3, photography 9.1.
+- Overall: 91.05/100.
+- High-score challenge: Documented distinctive public cultural practice, substantial historical continuity and meaningful visitor experience justify low 90s, below the largest international peer events for breadth or recognition. No heritage nomination bonus; no private ritual access or inherited standing-site merits. No 9.5+ field or approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise visitor access/venues, current peer YAML, full diagnostics. No future event or access guarantee.
+
+## sight-gt-chichicastenango-santo-tomas-festival — Chichicastenango Santo Tomás Festival and Palo Volador — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/chichicastenango-santo-tomas-festival.yaml)
+- Action: new
+- Precise subject: Annual public December patronal festival, dances and Palo Volador as one event; excludes regular market and standing church merits.
+- Location check: Existing central market representative point; festivities use varying public spaces.
+- Evidence status: source-linked-unverified
+- Sources inspected 2026-11-28: Diario de Centro América https://dca.gob.gt/noticias-guatemala-diario-centro-america/danza-del-palo-volador/ (search excerpt: December 2025 performances and involvement of Indigenous municipality and 14 brotherhoods, full page blocked); https://livinginguatemala.com/events/santo-tomas-festival-chichicastenango/ (excerpt: municipal cultural calendar and public processions); government https://www.prensa.gob.gt/comunicado/impulsan-reconocimiento-del-baile-regional-19-de-diciembre-como-patrimonio-cultural-de (excerpt: March 2026 request for recognition, not assumed granted).
+- Worldwide peers (qualitative; current peer YAML not checked):
+  - Oruro Carnival (BO): much greater dance scale and breadth
+  - Papantla Voladores (MX): related but distinct ritual tradition
+  - Oaxaca Day of the Dead (MX): greater international reach
+  - Cobán Rab’in Ajaw (GT): wider national Indigenous representation.
+- Individual scores:
+  - impact: 9.1 — Traditional dance, airborne ritual and procession provide strong visual impact
+  - uniqueness: 9.2 — Distinctive combination of K’iche’ brotherhoods and patronal ceremony
+  - significance: 9.0 — Long-lived local religious and artistic tradition with national importance
+  - experience: 9.0 — Public festivities offer multiple rewarding observations, no unsafe participation credited
+  - depth: 8.8 — Multi-day dances and processions provide substantial breadth.
+- Categories: culture 9.4, photography 9.3, history 9.0.
+- Overall: 90.60/100.
+- High-score challenge: Documented distinctive public cultural practice, substantial historical continuity and meaningful visitor experience justify low 90s, below the largest international peer events for breadth or recognition. No heritage nomination bonus; no private ritual access or inherited standing-site merits. No 9.5+ field or approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise visitor access/venues, current peer YAML, full diagnostics. No future event or access guarantee.
+
+## sight-gt-pascual-abaj — Pascual Abaj Sacred Maya Site — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/pascual-abaj.yaml)
+- Action: new
+- Precise subject: Named living sacred hill and stone shrine; no access to private ceremonies, no automatic permission to photograph or participate.
+- Location check: Mapcarta https://mapcarta.com/es/N4936285628 (opened mapped worship site).
+- Evidence status: source-linked-unverified
+- Sources inspected 2026-11-28: INGUAT Chichicastenango tourist map https://inguat.gob.gt/es/descargas-inguat-guatemala/41-mapas.html?download=1167%3Amapa-turistico-de-chichicastenango-marzo-2026 (indexed excerpt: named ceremonial hill); University of North Texas archive https://digital.library.unt.edu/ark%3A/67531/metadc2360322/ (excerpt: historical photograph); https://en.wikipedia.org/wiki/Pascual_Abaj (excerpt: continued veneration).
+- Worldwide peers (qualitative; current peer YAML not checked):
+  - Chavín (PE): greater monumental ritual architecture
+  - Q’umarkaj (GT): broader archaeological sacred setting
+  - Lake Guatavita (CO): more imposing natural ceremonial landscape
+  - Chicabal (GT): broader volcanic and sacred landscape.
+- Individual scores:
+  - impact: 8.0 — Focused shrine and hill have meaningful atmosphere
+  - uniqueness: 9.0 — Surviving Indigenous sacred object with continuing worship is distinctive
+  - significance: 9.1 — Strong living K’iche’ religious significance
+  - experience: 8.0 — Respectful permitted observation only, without assumed ritual access
+  - depth: 7.8 — Concentrated shrine limits physical breadth.
+- Categories: culture 9.3, history 9.1.
+- Overall: 84.50/100.
+- High-score challenge: No 90+ overall. No 9.5+ field or approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise visitor access/venues, current peer YAML, full diagnostics. No future event or access guarantee.
+
+## sight-gt-chichicastenango-santo-tomas-church — Santo Tomás Church (Chichicastenango) — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/chichicastenango-santo-tomas-church.yaml)
+- Action: new
+- Precise subject: Standing church and ordinary public religious setting, not market or December festival.
+- Location check: Approximate market-adjacent church point from https://visitingcentralamerica.com/landmarks/chichicastenango-market/ and mapped church https://mapcarta.com/W216964578.
+- Evidence status: source-linked-unverified
+- Sources inspected 2026-11-28: INGUAT map https://inguat.gob.gt/es/descargas-inguat-guatemala/41-mapas.html?download=1167%3Amapa-turistico-de-chichicastenango-marzo-2026 (indexed excerpt); https://www.viajesguatamela.com/guia-guatemala/atraccion/iglesia-santo-tomas (excerpt: church and continuing K’iche’ rituals).
+- Worldwide peers (qualitative; current peer YAML not checked):
+  - Iglesia El Rosario (SV): more exceptional modern architecture
+  - Basilica of Esquipulas (GT): greater pilgrimage scale
+  - San Juan Chamula church (MX): comparable Indigenous-Christian ritual context
+  - Church of Santo Domingo (PE): greater monumental colonial and Inca architectural ensemble.
+- Individual scores:
+  - impact: 8.3 — Historic church and ceremonial steps have strong atmosphere
+  - uniqueness: 9.0 — Continuing Maya-Catholic ritual setting is distinctive
+  - significance: 9.0 — Important local religious continuity and colonial heritage
+  - experience: 8.4 — Respectful ordinary church encounter provides meaningful experience
+  - depth: 7.9 — Single church limits breadth.
+- Categories: architecture 8.6, culture 9.3, history 9.1.
+- Overall: 85.90/100.
+- High-score challenge: No 90+ overall. No 9.5+ field or approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise visitor access/venues, current peer YAML, full diagnostics. No future event or access guarantee.
+
+## sight-gt-san-juan-la-laguna-weaving — San Juan La Laguna Maya Weaving and Natural Dye Cooperatives — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/san-juan-la-laguna-weaving.yaml)
+- Action: new
+- Precise subject: Community textile cooperative demonstrations and offered workshops, not the entire town or unrelated coffee visits.
+- Location check: Existing town representative point for multiple cooperative venues.
+- Evidence status: fact-checked
+- Sources inspected 2026-11-28: Town tourism https://www.sanjuanlalaguna.com.gt/en/culture/handicraft (opened: women's associations, ancestral weaving and dye demonstrations); INGUAT https://visitguatemala.gt/en/blog/what-see-do-san-juan-la-laguna/ (excerpt: textile cooperatives and traditional techniques).
+- Worldwide peers (qualitative; current peer YAML not checked):
+  - Chinchero (PE): comparable Indigenous textile demonstrations
+  - Ock Pop Tok (LA): broader organized weaving interpretation
+  - Nishijin Textile Center (JP): different internationally significant weaving tradition
+  - Guatajiagua (SV): comparable traditional craft, distinct pottery technique.
+- Individual scores:
+  - impact: 8.5 — Colorful textiles and demonstrations make memorable craft encounter
+  - uniqueness: 9.0 — Natural dye and ancestral backstrap techniques in community setting are distinctive
+  - significance: 8.9 — Cultural transmission and cooperative knowledge have strong regional importance
+  - experience: 9.0 — Offered demonstrations and classes support active learning
+  - depth: 8.7 — Multiple production steps provide substantial depth.
+- Categories: culture 9.3, history 8.9, photography 8.8.
+- Overall: 88.00/100.
+- High-score challenge: No 90+ overall. No 9.5+ field or approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise visitor access/venues, current peer YAML, full diagnostics. No future event or access guarantee.
+
+## sight-gt-ixchel-indigenous-textile-museum — Ixchel Museum of Indigenous Textiles — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/ixchel-indigenous-textile-museum.yaml)
+- Action: new
+- Precise subject: Public museum exhibitions, not unrestricted research collections or all 7,800 objects simultaneously displayed.
+- Location check: Mapcarta https://mapcarta.com/W379997913 (opened building point).
+- Evidence status: fact-checked
+- Sources inspected 2026-11-28: Museum https://museoixchel.org/en/collection-and-conservation/ (opened: over 7,800 textiles from 181 communities, nineteenth to twenty-first century); https://museoixchel.org/en/expositions/ (excerpt: galleries and educational tours).
+- Worldwide peers (qualitative; current peer YAML not checked):
+  - Textile Museum (CA): wider global textile scope
+  - Museo Textil de Oaxaca (MX): comparable specialist Indigenous textile heritage
+  - Victoria and Albert Museum (GB): much larger international decorative arts breadth
+  - San Juan weaving cooperatives (GT): more hands-on craft encounter.
+- Individual scores:
+  - impact: 8.3 — Rich textiles provide strong visual appeal
+  - uniqueness: 9.1 — Concentrated documentation of many Indigenous communities is distinctive
+  - significance: 9.3 — Exceptional national textile preservation and cultural identity
+  - experience: 8.5 — Curated galleries and educational interpretation are rewarding
+  - depth: 9.0 — Broad documented collection supports interpretive depth, no inaccessible collection credit.
+- Categories: culture 9.4, history 9.3.
+- Overall: 88.00/100.
+- High-score challenge: No 90+ overall. No 9.5+ field or approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise visitor access/venues, current peer YAML, full diagnostics. No future event or access guarantee.
+
+## sight-gt-finca-la-azotea — Finca La Azotea Coffee Estate and Cultural Museums — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/finca-la-azotea.yaml)
+- Action: new
+- Precise subject: Coffee estate visitor tours and adjacent coffee and K’ojom museums as single cultural complex; excludes unrelated recreation and Antigua city.
+- Location check: Mapcarta https://mapcarta.com/36427756 (opened latitude); https://guatemala.worldplaces.me/review/204793473-finca-la-azotea-antigua-guatemala.html (coordinate excerpt; representative estate).
+- Evidence status: fact-checked
+- Sources inspected 2026-11-28: Operator https://laazotea.gt/que-hacer/ (opened: two museums and guided coffee tour); https://antiguaguatemalacityguide.com/finca-la-azotea/ (excerpt: working coffee estate and cultural center).
+- Worldwide peers (qualitative; current peer YAML not checked):
+  - Hacienda Venecia (CO): comparable coffee estate tour
+  - Doka Estate (CR): comparable plantation processing interpretation
+  - El Carmen Coffee Estate (SV): narrower coffee production scope
+  - Kona Coffee Living History Farm (US): different historic coffee heritage.
+- Individual scores:
+  - impact: 8.2 — Coffee estate and museum objects offer strong cultural interest
+  - uniqueness: 8.3 — Combined coffee and cultural museums distinguish the visitor complex
+  - significance: 8.4 — Regional coffee history and cultural interpretation support significance
+  - experience: 8.7 — Guided tours and museums provide engaging learning
+  - depth: 8.8 — Multiple museums and working estate support substantial breadth.
+- Categories: food 8.9, culture 8.9, history 8.6, photography 8.5.
+- Overall: 84.00/100.
+- High-score challenge: No 90+ overall. No 9.5+ field or approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise visitor access/venues, current peer YAML, full diagnostics. No future event or access guarantee.
