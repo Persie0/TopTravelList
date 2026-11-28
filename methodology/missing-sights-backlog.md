@@ -5775,3 +5775,20 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] CR — Juan Castro Blanco National Park Montane Forest and Water Landscapes: 84.70/100 (desk-based provisional).
 
 12 provisional additions (6 source-linked, 6 desk-based), 5 90+, 24 ranking-row comparisons (12 international, 12 domestic). CR 74 ranked / 74 total, +12 since baseline 62. Ostional, Boruca, Cartago pilgrimage, Limón carnival, La Selva and Sarchí researched. Ostional scope limited to mass nesting beach, not existing Guiones surf entry; Boruca attendance subject to community permission; Romería distinct event from existing basilica. Sarchí UNESCO designation applies to living tradition rather than factory building. Four existing inscribed World Heritage properties represented in named baseline; tentative/component screen pending. Costa Rica OPEN. Coordinates approximate; access and future schedules unverified. Existing ratings preserved. Full Python validation, independent peer YAML and same-type global calibration pending.
+
+### Pass 327 — Costa Rica marine wildlife, canopy and festivals
+
+- [x] CR — Catalina Islands Guided Scuba Diving and Oceanic Manta Encounters: 90.45/100 (source-linked provisional).
+- [x] CR — Monteverde Original Canopy Tour Guided Cloud Forest Ziplining: 90.35/100 (source-linked provisional).
+- [x] CR — San José Festival de la Luz Illuminated Public Parade: 90.00/100 (source-linked provisional).
+- [x] CR — San José Festival Internacional de las Artes Public Multidisciplinary Programme: 91.40/100 (source-linked provisional).
+- [x] CR — Palmares Fiestas Public Music and Traditional Celebration: 86.95/100 (source-linked provisional).
+- [x] CR — Isla Tortuga Boat Excursion and Beach Experience: 85.55/100 (source-linked provisional).
+- [x] CR — Curú Wildlife Refuge Coastal Forest and Wildlife Trails: 87.00/100 (source-linked provisional).
+- [x] CR — Turrialba Volcano National Park Authorized Volcanic Landscape Trails: 85.80/100 (source-linked provisional).
+- [x] CR — Diriá National Park Dry Forest and River Trails: 83.05/100 (source-linked provisional).
+- [x] CR — La Cangreja National Park Endemic Forest and Río Negro Trails: 85.15/100 (source-linked provisional).
+- [x] CR — Savegre River Guided Whitewater Rafting Corridor: 85.65/100 (source-linked provisional).
+- [x] CR — San José Museum of Costa Rican Art and Historic Terminal: 83.65/100 (desk-based provisional).
+
+12 provisional additions (11 source-linked, 1 desk-based), 4 90+, 24 ranking-row comparisons (12 international, 12 domestic). CR 86 ranked / 86 total, +24 since baseline 62; 9 new 90+ across two passes. UNESCO inventory verified: four inscribed properties represented and sole tentative entry Corcovado National Park and Isla del Caño already represented as two individual sights; do not add redundant umbrella (https://whc.unesco.org/en/statesparties/cr/). Exact serial component boundaries not independently audited. Catalina Islands diving distinct from Caño/Cocos; Bat Islands deferred for Guanacaste marine parent scope. Original Canopy operator's 1994 history distinguished from unverified global-first claim. FIA and Festival de la Luz public programmes distinct from venue architecture. Envision deferred for event continuity: organizer states no path to 2027 festival (https://www.envisionfestival.com/), not a penalty to historical intrinsic quality. Curú terrestrial trails distinct from Tortuga excursion. Costa Rica OPEN; existing scores preserved. Coordinates approximate; access and future schedules unverified. Full Python validation, independent peer YAML and same-type global calibration pending.

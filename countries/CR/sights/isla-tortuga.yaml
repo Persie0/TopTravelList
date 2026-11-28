@@ -1,0 +1,17 @@
+id: sight-cr-isla-tortuga
+name: "Isla Tortuga Boat Excursion and Beach Experience"
+location:
+  country_code: CR
+  latitude: 9.771
+  longitude: -84.898
+scores:
+  impact: 8.8
+  uniqueness: 8.5
+  significance: 8.0
+  experience: 9.0
+  depth: 8.4
+  categories:
+    beaches: 9.3
+    relaxation: 9.3
+    photography: 9.1
+    adventure: 9.0
