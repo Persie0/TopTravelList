@@ -1,0 +1,16 @@
+id: sight-cl-aldea-de-tulor
+name: "Aldea de Tulor Archaeological Settlement and Interpretation"
+location:
+  country_code: CL
+  latitude: -22.96
+  longitude: -68.26
+scores:
+  impact: 8.4
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.2
+  depth: 8.2
+  categories:
+    history: 9.3
+    culture: 9.1
+    photography: 8.9

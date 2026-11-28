@@ -5724,3 +5724,20 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] CL — Santiago National Museum of Fine Arts and Palace of Fine Arts: 85.40/100 (desk-based provisional).
 
 12 provisional additions (10 source-linked, 2 desk-based), 4 90+, 24 ranking-row comparisons (12 international, 12 domestic). CL 132 ranked / 132 total, +65 since baseline 67, 26 new 90+ across six passes. Andacollo public pilgrimage and baile chino heritage distinguished from UNESCO inscription scope; Valdivia film festival confirmed 33rd edition; Rapa Nui guided nearshore diving excludes ancient archaeology and whole marine reserve; Coquimbo Pampilla 2026 cancellation reversed, modified event inaugurated. Five national parks and one national reserve added. Llanos de Challe excludes overlapping regional bloom credit. Two permanent museums desk-based. Prior UNESCO coverage and deferrals retained. Chile OPEN. Coordinates approximate; current conditions and future schedules unverified. Full Python validation, independent peer YAML and same-type global calibration pending.
+
+### Pass 324 — Chile literary heritage, regional celebrations and Patagonian experiences
+
+- [x] CL — Isla Negra Pablo Neruda House Museum and Literary Heritage: 91.20/100 (source-linked provisional).
+- [x] CL — Noche Valdiviana Public River Parade and Cultural Celebration: 90.75/100 (source-linked provisional).
+- [x] CL — Curicó Grape Harvest Festival Public Wine and Cultural Programme: 90.55/100 (source-linked provisional).
+- [x] CL — Río Simpson National Reserve Forest Trails and Regional Fly-Fishing Experience: 87.45/100 (source-linked provisional).
+- [x] CL — Atacama Valle del Arcoíris and Yerbas Buenas Petroglyph Circuit: 87.65/100 (source-linked provisional).
+- [x] CL — Aldea de Tulor Archaeological Settlement and Interpretation: 85.95/100 (source-linked provisional).
+- [x] CL — Chacabuco Saltpeter Works Industrial and Memory Heritage: 86.10/100 (desk-based provisional).
+- [x] CL — Puyuhuapi Fjord Thermal Bathing Experience: 86.75/100 (source-linked provisional).
+- [x] CL — Puelo Termas del Sol Thermal Bathing and Mountain Landscape: 84.95/100 (source-linked provisional).
+- [x] CL — Punta Arenas Nao Victoria Maritime Replica Museum: 86.25/100 (source-linked provisional).
+- [x] CL — Puerto Williams Martín Gusinde Anthropological Museum: 85.80/100 (desk-based provisional).
+- [x] CL — Las Chinchillas National Reserve Endemic Fauna and Dryland Trails: 84.75/100 (desk-based provisional).
+
+12 provisional additions (9 source-linked, 3 desk-based), 3 90+, 24 ranking-row comparisons (12 international, 12 domestic). CL 144 ranked / 144 total, +77 since baseline 67, 29 new 90+ across seven passes. Isla Negra literary heritage, Noche Valdiviana and Curicó Vendimia researched. Simpson reserve and river fishing grouped; Rainbow Valley and Yerbas Buenas grouped; two thermal facilities distinct from adjacent parks. Kawésqar maritime-only access requires specific non-overlapping visitor route (https://www.conaf.cl/parque_nacionales/parque-nacional-kawesqar/); Aysén Isla Magdalena distinct from Magallanes Los Pingüinos but exact visitor scope deferred (https://www.conaf.cl/parque_nacionales/parque-nacional-isla-magdalena/); Salar del Huasco has no visitor infrastructure or trails per CONAF (https://www.conaf.cl/parque_nacionales/parque-nacional-salar-del-huasco/), defer pending route scope. Villarrica crater ascent deferred for parent overlap (https://chile.travel/en/attractions/villarrica-national-park/). Prior UNESCO coverage and deferrals retained. Chile OPEN. Coordinates approximate; current conditions and future schedules unverified. Full Python validation, independent peer YAML and same-type global calibration pending.
