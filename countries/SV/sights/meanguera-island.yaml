@@ -1,0 +1,17 @@
+id: sight-sv-meanguera-island
+name: "Meanguera Island Volcanic Landscape"
+location:
+  country_code: SV
+  latitude: 13.19
+  longitude: -87.72
+scores:
+  impact: 8.2
+  uniqueness: 8.0
+  significance: 7.4
+  experience: 8.4
+  depth: 8.0
+  categories:
+    nature: 8.7
+    photography: 8.7
+    relaxation: 8.5
+    adventure: 8.3

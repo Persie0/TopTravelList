@@ -1569,3 +1569,182 @@ Seven additions: two fact-checked cultural event assessments and five source-lin
 - High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
 - Earlier decision: none.
 - Remaining verification: precise visitor route/venue, current peer YAML and full diagnostics; search-only evidence remains provisional.
+
+# Pass 391 — 2026-11-28 — direct main continuation
+
+Seven additions: three fact-checked assessments and four provisional source-linked assessments, all numerically complete. Targeted JS inventory, formula, coordinate range, uniqueness, ranking and README checks only. Full Python validation/benchmark scripts and Actions not run. Archaeological physical damage distinct from access; no credit for removed objects. Marine and island scopes separated from parent areas.
+
+## sight-sv-igualtepeque-petroglyphs — Igualtepeque Archaeological Site and Petroglyphs — 2026-11-28
+
+- YAML: [source](../../../countries/SV/sights/igualtepeque-petroglyphs.yaml)
+- Action: new
+- Precise subject: Surviving archaeological landscape only; displaced carvings in MUNA excluded. Historical looting and uncertain access distinguished.
+- Location check: Mapcarta https://mapcarta.com/es/N5357606621 mapped attraction point.
+- Evidence status: fact-checked
+- Sources accessed 2026-11-28: Ministry of Culture https://www.cultura.gob.sv/charlan-sobre-deidades-identificadas-en-petrograbados-del-lago-de-guija/ (opened: 224 documented carvings in 2013, platforms and plaza, some carvings at MUNA); FUNDAR report text reproduced at https://studylib.es/doc/3545501/http---www.fundar.org.sv-referencias-igualtepeque.pdf (opened: looting damage and ownership uncertainty).
+- Worldwide peers (qualitative; current peer YAML not inspected):
+  - Valcamonica rock art (IT): far larger corpus and interpreted routes.
+  - Tanum rock carvings (SE): extensive protected heritage and established interpretation.
+  - Twyfelfontein rock engravings (NA): more globally renowned concentrated rock art landscape.
+  - Gruta del Espíritu Santo (SV): distinct local rock art setting with different imagery.
+- Individual scores:
+  - impact: 8.2 — Lakeside setting and carvings create strong impact, reduced by physical loss.
+  - uniqueness: 9.3 — Dense regional concentration and iconography are uncommon.
+  - significance: 9.3 — Important Mesoamerican religious and archaeological evidence.
+  - experience: 7.8 — Surviving remains support meaningful viewing, but no invented interpretation or infrastructure.
+  - depth: 8.4 — Multiple archaeological features add depth despite damage and displaced stones.
+- Categories: history 9.3, culture 9.1, photography 8.6.
+- Overall: 86.55/100.
+- High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise visitor route/venue, current peer YAML and full diagnostics; search-only evidence remains provisional. No access guarantees.
+
+## sight-sv-witzapan-nawat-language-day — Witzapan National Nawat Language Day Celebration — 2026-11-28
+
+- YAML: [source](../../../countries/SV/sights/witzapan-nawat-language-day.yaml)
+- Action: new
+- Precise subject: Public language-day cultural event, not school visits or general town tourism.
+- Location check: Approximate district representative point from https://mapcarta.com/es/36408690; central park exact pin unverified.
+- Evidence status: fact-checked
+- Sources accessed 2026-11-28: Ministry of Culture https://www.cultura.gob.sv/witzapan-conmemoro-el-dia-de-la-lengua-nahuat/ (opened: 2024 central park celebration with marimba and Nawat-speaking elders' choir); Ministry of Education https://www.mined.gob.sv/2020/02/21/celebran-el-dia-nacional-de-la-lengua-nahuat/ (search excerpt: 2020 public celebration). Future editions not guaranteed.
+- Worldwide peers (qualitative; current peer YAML not inspected):
+  - National Eisteddfod (GB): much broader Welsh-language arts program.
+  - Sámi National Day in Jokkmokk (SE): comparable Indigenous language and identity celebration, broader northern cultural context.
+  - Te Matatini (NZ): much larger Indigenous performing arts event.
+  - Cacaopera ceremonial dances (SV): similar cultural transmission, different public performance focus.
+- Individual scores:
+  - impact: 8.2 — Hearing living language and music offers a meaningful but modest-scale encounter.
+  - uniqueness: 9.2 — Rare surviving Indigenous language in its community context is distinctive.
+  - significance: 9.2 — Linguistic preservation has strong cultural importance.
+  - experience: 8.5 — Public performances offer engagement without intrusion into schools.
+  - depth: 8.2 — A focused event offers limited breadth compared with major multi-day festivals.
+- Categories: culture 9.4, history 9.1, photography 8.3.
+- Overall: 86.95/100.
+- High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise visitor route/venue, current peer YAML and full diagnostics; search-only evidence remains provisional. No access guarantees.
+
+## sight-sv-los-cobanos-whale-watching — Los Cóbanos Humpback Whale Watching — 2026-11-28
+
+- YAML: [source](../../../countries/SV/sights/los-cobanos-whale-watching.yaml)
+- Action: new
+- Precise subject: Seasonal offshore guided whale-watching excursion; excludes reef diving and beach visits.
+- Location check: Existing marine area point used as coastal departure representative.
+- Evidence status: fact-checked
+- Sources accessed 2026-11-28: Official tourism https://elsalvador.travel/esp/en/los-cobanos/ (opened: guided whale watching); El Salvador https://www.elsalvador.com/turismo/rutas-y-aventuras/ballenas-los-cobanos/1258870/2026/ (opened: 2026 operator excursions and seasonal humpbacks); environment ministry https://www.ambiente.gob.sv/practicas-para-avistamiento-responsable-de-cetaceos/ (search excerpt, page blocked).
+- Worldwide peers (qualitative; current peer YAML not inspected):
+  - Hervey Bay (AU): established globally exceptional humpback encounters.
+  - Húsavík (IS): greater established whale-tour variety.
+  - Samaná Bay (DO): renowned breeding-ground excursions.
+  - Bahía de Jiquilisco turtle conservation (SV): different species and conservation scope.
+- Individual scores:
+  - impact: 9.0 — Large cetaceans can create exceptional wildlife impact.
+  - uniqueness: 8.2 — Humpback tours occur in numerous destinations globally.
+  - significance: 8.4 — Migration and breeding habitat matter, without claiming globally unique aggregation.
+  - experience: 8.9 — Guided offshore encounter is rewarding when wildlife and weather cooperate.
+  - depth: 8.0 — Focused boat outing has limited breadth and variable encounters.
+- Categories: wildlife 9.3, nature 9.0, adventure 8.8, photography 9.1.
+- Overall: 85.65/100.
+- High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise visitor route/venue, current peer YAML and full diagnostics; search-only evidence remains provisional. No access guarantees.
+
+## sight-sv-la-montanona-forest — La Montañona Forest and Mountain Trails — 2026-11-28
+
+- YAML: [source](../../../countries/SV/sights/la-montanona-forest.yaml)
+- Action: new
+- Precise subject: Highland forest and historical trails, not all seven surrounding municipalities.
+- Location check: Mapped tourism point https://mapcarta.com/es/N7181756990 (opened).
+- Evidence status: source-linked-unverified
+- Sources accessed 2026-11-28: Water authority https://www.asa.gob.sv/el-bosque-detras-del-agua-de-cientos-de-familias-salvadorenas/ (search excerpt: aquifer protection and 43.2 km² reserve); https://www.elsalvador.com/turismo/rutas-y-aventuras/la-montanona-chalatenango-turismo/1262776/2026/ (search excerpt: protected forest); management plan text https://www.academia.edu/45490606/Plan_de_manejo_integral_del_%C3%A1rea_natural_La_Monta%C3%B1ona_Chalatenango_El_Salvador_2006_ (search excerpt historical trails).
+- Worldwide peers (qualitative; current peer YAML not inspected):
+  - Monteverde Cloud Forest (CR): greater internationally recognized biodiversity experience.
+  - Cusuco National Park (HN): stronger montane biodiversity and ruggedness.
+  - Cerro Chirripó trails (CR): stronger alpine-like scenery and trekking.
+  - Cerro Guazapa (SV): comparable nature/history combination.
+- Individual scores:
+  - impact: 8.3 — Pine and montane forest landscape is memorable.
+  - uniqueness: 8.3 — Combined water conservation and historical landscape differentiates local trails.
+  - significance: 8.5 — Regional ecological and conflict-history relevance.
+  - experience: 8.4 — Walking in cooler uplands provides rewarding exploration.
+  - depth: 8.5 — Multiple routes and interpretive themes offer good breadth.
+- Categories: nature 8.9, adventure 8.6, history 8.4, photography 8.7.
+- Overall: 83.75/100.
+- High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise visitor route/venue, current peer YAML and full diagnostics; search-only evidence remains provisional. No access guarantees.
+
+## sight-sv-quelepa-archaeological-site — Quelepa Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/SV/sights/quelepa-archaeological-site.yaml)
+- Action: new
+- Precise subject: Pre-Columbian archaeological remains near Quelepa; excludes artifacts now held elsewhere.
+- Location check: Coordinates from UTEC proceedings search excerpt https://www.utec.edu.sv/focesa/MEMORIA/Memoria%20FOCESA%20digital%202018.pdf (not full PDF reviewed).
+- Evidence status: source-linked-unverified
+- Sources accessed 2026-11-28: https://es.wikipedia.org/wiki/Quelepa_%28sitio_arqueol%C3%B3gico%29 (search excerpt: site identity and period); academic excavation reference https://antharky.ucalgary.ca/caadb/sites/antharky.ucalgary.ca.caadb/files/Andrews_1971_An_Unusual_Effigy_Flute_from_Quelepa.pdf (search excerpt: site location). Current visible features not comprehensively verified.
+- Worldwide peers (qualitative; current peer YAML not inspected):
+  - Copán (HN): substantially greater monumental and sculptural impact.
+  - Kaminaljuyú (GT): comparable fragmented archaeological scope and larger historical context.
+  - Tak'alik Ab'aj (GT): stronger monumental and interpreted heritage.
+  - Tazumal (SV): more developed visible visitor site.
+- Individual scores:
+  - impact: 7.7 — Archaeological remains have moderate visual impact.
+  - uniqueness: 8.7 — Eastern regional cultural history makes the site distinctive.
+  - significance: 9.0 — Important evidence for pre-Columbian regional interactions.
+  - experience: 7.4 — Visitor interpretation and surviving monument visibility uncertain, no invented amenities.
+  - depth: 8.0 — Multiple features and research context provide meaningful historical breadth.
+- Categories: history 9.2, culture 8.8, architecture 8.2.
+- Overall: 81.95/100.
+- High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise visitor route/venue, current peer YAML and full diagnostics; search-only evidence remains provisional. No access guarantees.
+
+## sight-sv-meanguera-island — Meanguera Island Volcanic Landscape — 2026-11-28
+
+- YAML: [source](../../../countries/SV/sights/meanguera-island.yaml)
+- Action: new
+- Precise subject: Island's own volcanic terrain and coast, not the entire Gulf cruise.
+- Location check: Smithsonian GVP search excerpt https://a.cf11.si.edu/volcano.cfm?vn=343816&vtab=Bulletin: 13.19,-87.72.
+- Evidence status: source-linked-unverified
+- Sources accessed 2026-11-28: https://experienceselsalvador.com/en/destinations/golfo-de-fonseca/highlights/isla-meanguera-del-golfo (search excerpt island identity); Smithsonian https://volcano.si.edu/gallery/ShowImage.cfm?photo=GVP-07407 (search excerpt: three small stratovolcanoes).
+- Worldwide peers (qualitative; current peer YAML not inspected):
+  - Ometepe (NI): more imposing twin volcanic summits and deeper cultural attractions.
+  - Isla El Tigre (HN): comparable volcanic island and regional seascape.
+  - Isla Taboga (PA): similar coastal village outing.
+  - Zacatillo (SV): smaller island scope and lower terrain relief.
+- Individual scores:
+  - impact: 8.2 — Volcanic coastal scenery creates strong regional appeal.
+  - uniqueness: 8.0 — Small volcanic islands are internationally common.
+  - significance: 7.4 — Geological interest is mainly regional.
+  - experience: 8.4 — Boat arrival and coastal exploration are rewarding.
+  - depth: 8.0 — Island-scale exploration offers modest breadth beyond a short beach stop.
+- Categories: nature 8.7, photography 8.7, relaxation 8.5, adventure 8.3.
+- Overall: 80.00/100.
+- High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise visitor route/venue, current peer YAML and full diagnostics; search-only evidence remains provisional. No access guarantees.
+
+## sight-sv-zacatillo-island — Zacatillo Island Coastal Landscape — 2026-11-28
+
+- YAML: [source](../../../countries/SV/sights/zacatillo-island.yaml)
+- Action: new
+- Precise subject: Island-specific coast and settlement encounter, excluding Gulf-wide scenery already rated.
+- Location check: Smithsonian https://volcano.si.edu/volcano.cfm?vn=343807 search excerpt coordinates.
+- Evidence status: source-linked-unverified
+- Sources accessed 2026-11-28: https://experienceselsalvador.com/en/destinations/golfo-de-fonseca/highlights/isla-zacatillo (search excerpt: boat access from La Unión); Smithsonian GVP same source as location (search excerpt: island scale and morphology).
+- Worldwide peers (qualitative; current peer YAML not inspected):
+  - Isla Taboga (PA): comparable small island excursion with more established heritage.
+  - Caye Caulker (BZ): stronger marine recreation and visitor depth.
+  - Isla El Tigre (HN): larger terrain and historic settlement scope.
+  - Meanguera (SV): larger volcanic landscape.
+- Individual scores:
+  - impact: 7.8 — Island scenery and boat approach are pleasant.
+  - uniqueness: 7.6 — Small coastal island landscape is globally reproducible.
+  - significance: 7.0 — Local island community and geology have mainly regional importance.
+  - experience: 8.2 — Relaxed coastal visits offer good recreational experience.
+  - depth: 7.7 — Limited island-scale exploration relative to larger volcanic islands.
+- Categories: nature 8.1, photography 8.3, relaxation 8.5, beaches 8.0.
+- Overall: 76.40/100.
+- High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise visitor route/venue, current peer YAML and full diagnostics; search-only evidence remains provisional. No access guarantees.
