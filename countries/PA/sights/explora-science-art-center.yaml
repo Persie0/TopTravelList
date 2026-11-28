@@ -1,0 +1,16 @@
+id: sight-pa-explora-science-art-center
+name: "Explora Science and Art Center"
+location:
+  country_code: PA
+  latitude: 9.048
+  longitude: -79.522
+scores:
+  impact: 7.7
+  uniqueness: 7.9
+  significance: 8.0
+  experience: 8.5
+  depth: 8.0
+  categories:
+    family: 9.1
+    culture: 8.4
+    nature: 8.0

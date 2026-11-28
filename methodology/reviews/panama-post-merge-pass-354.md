@@ -1,0 +1,13 @@
+# Panama post-merge screening — pass 354
+
+Continues pass 353 (7f25548ec532204de4ee1d78b789aa1938cdae67); 213 ranked baseline, five additions. Pass 332 remains unavailable; reconcile before merge. All new scores provisional editorial estimates. Coordinates are representative and four are approximate; no current admission or event guarantees.
+
+| Candidate | Overall | Evidence and scope |
+| --- | ---: | --- |
+| Chitré Carnival | 85.75 | Municipality describes Carnaval Orión, music and traditional celebrations around Parque Unión; separate event from Las Tablas and capital carnival. Approximate central plaza point. https://chitre.municipios.gob.pa/cultura/ ; https://www.atp.gob.pa/reactivacion-de-vuelos-diarios-directos-a-chitre-fortalece-el-destino-turistico/ |
+| Calobre–Chitra Thermal Springs | 79.40 | Municipal inventory identifies natural monument and separate Chitra and El Potrero spring areas. Combined regional record, not La Yeguada camping; representative Chitra district point, not a bathing location. Some springs too hot to enter. https://calobre.municipios.gob.pa/sitios/ ; https://out.pa/en/guides/hot-springs-panama ; https://www.geonames.org/search.html?country=PA&q=Veraguas&startRow=250 |
+| Explora Science and Art Center | 79.60 | Interactive science exhibits including watershed interpretation, distinct from Biomuseo; approximate Condado del Rey area, exact entrance unverified. https://www.explorapanama.org/ ; https://pancanal.com/canal-de-panama-relanza-exhibicion-en-museo-explora-2/ |
+| San Felipe Neri Oratory Church | 81.70 | Distinct colonial religious building that temporarily served cathedral functions after fires; no whole-district merit inherited. Approximate Casco Antiguo site. https://www.iglesiascascoantiguo.org/oratorio-san-felipe-neri/ ; https://www.wikidata.org/wiki/Q42885434 |
+| Panama Natural Sciences Museum | 79.20 | National collections covering geology, paleontology and fauna, distinct from Biomuseo's biodiversity narrative. Ministry inventory establishes institutional scope, not present admission or exhibit condition. Representative Calidonia point, entrance unverified. https://sicultura.gob.pa/espacios-culturales/museos-otros-espacios-exhibicion-interpretacion-patrimonial/museo-de-ciencias-naturales |
+
+No new 90+ ratings. Chitré compares with the capital carnival 88.00 and Las Tablas 91.70; Calobre thermal springs compared with El Valle 75.20 but larger regional scope; Explora and natural sciences museum distinct from Biomuseo; Neri below La Merced 83.40. All 218 weighted rows and unique slugs checked in JS. 0 type labels and 0 search links corrected. Full Python generator/schema validation and prior reconciliation outstanding. Existing YAML unchanged, no Actions manually dispatched.
