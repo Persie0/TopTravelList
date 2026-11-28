@@ -1,0 +1,17 @@
+id: sight-mx-culiacan-botanical-garden
+name: "Culiacán Botanical Garden and Contemporary Art Collection"
+location:
+  country_code: MX
+  latitude: 24.821
+  longitude: -107.385
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 9.1
+  experience: 9.2
+  depth: 9.2
+  categories:
+    nature: 9.3
+    culture: 9.4
+    photography: 9.4
+    relaxation: 9.2

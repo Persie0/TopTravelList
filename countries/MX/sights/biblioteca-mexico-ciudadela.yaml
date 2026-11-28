@@ -1,0 +1,16 @@
+id: sight-mx-biblioteca-mexico-ciudadela
+name: "Biblioteca de México and La Ciudadela Personal Libraries"
+location:
+  country_code: MX
+  latitude: 19.429
+  longitude: -99.149
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 9.0
+  depth: 9.4
+  categories:
+    culture: 9.4
+    history: 9.4
+    architecture: 9.2

@@ -1,0 +1,17 @@
+id: sight-mx-angel-independencia
+name: "Ángel de la Independencia Monument"
+location:
+  country_code: MX
+  latitude: 19.427
+  longitude: -99.168
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 9.6
+  experience: 8.4
+  depth: 8.2
+  categories:
+    history: 9.5
+    architecture: 9.2
+    photography: 9.2
+    culture: 9.1

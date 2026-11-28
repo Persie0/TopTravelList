@@ -1,0 +1,15 @@
+id: sight-mx-mercado-san-juan-pugibet
+name: "Mercado San Juan Pugibet Gourmet Food Market"
+location:
+  country_code: MX
+  latitude: 19.43
+  longitude: -99.144
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 9.2
+  depth: 8.8
+  categories:
+    food: 9.4
+    culture: 9.0

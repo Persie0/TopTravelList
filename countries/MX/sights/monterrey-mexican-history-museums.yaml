@@ -1,0 +1,16 @@
+id: sight-mx-monterrey-mexican-history-museums
+name: "Museum of Mexican History and Museo del Noreste (Monterrey)"
+location:
+  country_code: MX
+  latitude: 25.67
+  longitude: -100.306
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 9.3
+  experience: 9.1
+  depth: 9.4
+  categories:
+    history: 9.5
+    culture: 9.3
+    family: 9.1

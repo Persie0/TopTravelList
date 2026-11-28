@@ -1,0 +1,16 @@
+id: sight-mx-vallarta-botanical-garden
+name: "Vallarta Botanical Garden and Orchid Collections"
+location:
+  country_code: MX
+  latitude: 20.475
+  longitude: -105.289
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 9.2
+  depth: 9.3
+  categories:
+    nature: 9.6
+    photography: 9.3
+    relaxation: 9.2

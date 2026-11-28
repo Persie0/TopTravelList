@@ -1,0 +1,16 @@
+id: sight-mx-oaxaca-central-markets
+name: "Oaxaca Benito Juárez and 20 de Noviembre Markets"
+location:
+  country_code: MX
+  latitude: 17.058
+  longitude: -96.727
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.1
+  experience: 9.5
+  depth: 9.2
+  categories:
+    food: 9.7
+    culture: 9.5
+    photography: 9.1

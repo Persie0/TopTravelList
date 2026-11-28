@@ -13660,3 +13660,297 @@ All ten entries are source-linked editorial assessments using retrieved institut
 - Earlier decision: none.
 - Remaining verification: independent coordinate checks for approximate points, numerical peer comparisons and full Python validation; current admission and safety not verified.
 
+
+## sight-mx-oaxaca-ethnobiological-garden — Oaxaca Ethnobiological Garden — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/oaxaca-ethnobiological-garden.yaml)
+- Action: new (pass 455)
+- Precise subject: Distinct guided botanical collection behind Santo Domingo, more than 1000 plant species according to garden; separate from church and museum.
+- Location check: 17.066, -96.722; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://jardinoaxaca.mx/historia; https://www.oaxaca.gob.mx/administracion/jardin-etnobiologico-de-oaxaca-un-puente-vivo-entre-la-naturaleza-y-la-cultura/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Kew Gardens (GB): broader scientific collections
+  - Cosmovitral (MX): distinct stained glass
+  - Vallarta Botanical Garden (MX): different bioregion
+  - Kirstenbosch (ZA): greater landscape scale.
+- Individual scores: impact 9.2, uniqueness 9.4, significance 9.3, experience 9.0, depth 9.3.
+- Categories: nature 9.6, culture 9.4, photography 9.5.
+- Overall: 92.50/100.
+- High-score challenge: Documented distinctive collection, cultural landscape or visitor depth supports 90+; global peers constrain score. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; current admission and safety not verified.
+
+
+## sight-mx-culiacan-botanical-garden — Culiacán Botanical Garden and Contemporary Art Collection — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/culiacan-botanical-garden.yaml)
+- Action: new (pass 455)
+- Precise subject: Botanical garden with site-specific contemporary artworks including James Turrell's Encounter; distinct collection and experience.
+- Location check: 24.821, -107.385; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://botanicoculiacan.org/en/attractions; https://economia.culiacan.gob.mx/index.php/turismo?catid=32&id=743&view=article.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Inhotim (BR): much broader art landscape
+  - Cosmovitral (MX): distinctive enclosed art garden
+  - Oaxaca garden (MX): stronger ethnobiological focus
+  - Storm King (US): greater sculpture scale.
+- Individual scores: impact 9.1, uniqueness 9.4, significance 9.1, experience 9.2, depth 9.2.
+- Categories: nature 9.3, culture 9.4, photography 9.4, relaxation 9.2.
+- Overall: 92.00/100.
+- High-score challenge: Documented distinctive collection, cultural landscape or visitor depth supports 90+; global peers constrain score. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; current admission and safety not verified.
+
+
+## sight-mx-unam-espacio-escultorico — UNAM Espacio Escultórico and Volcanic Sculpture Landscape — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/unam-espacio-escultorico.yaml)
+- Action: new (pass 455)
+- Precise subject: 1979 collaborative geometric land art with 64 modular forms surrounding lava; outside core campus experience and distinct from library.
+- Location check: 19.313, -99.185; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.fundacionunam.org.mx/donde-paso/41-anos-del-espacio-escultorico-de-la-unam/; https://www.fundacionunam.org.mx/donde-paso/conoce-el-espacio-escultorico-de-la-unam/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Spiral Jetty (US): iconic land art
+  - Storm King (US): broader collection
+  - Torres de Satélite (MX): urban geometric sculpture
+  - Inhotim (BR): greater breadth.
+- Individual scores: impact 9.1, uniqueness 9.5, significance 9.2, experience 8.8, depth 8.7.
+- Categories: architecture 9.3, culture 9.4, photography 9.4, nature 9.0.
+- Overall: 91.35/100.
+- High-score challenge: Documented distinctive collection, cultural landscape or visitor depth supports 90+; global peers constrain score. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; current admission and safety not verified.
+
+
+## sight-mx-xochimilco-chinampa-experience — Xochimilco Chinampa Farming and Canal Heritage Experience — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/xochimilco-chinampa-experience.yaml)
+- Action: new (pass 455)
+- Precise subject: Specific consent-based farm and canal experience, distinct from the broad UNESCO combined Mexico City historic centre and Xochimilco listing; FAO agricultural heritage. Representative canal-zone point, not a specific operator.
+- Location check: 19.266, -99.073; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.fao.org/giahs/giahs-around-the-world/mexico-chinampas-agricultural-system/en; https://whc.unesco.org/en/list/412; https://mexicocity.cdmx.gob.mx/locations/xochimilco/?lang=en.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Ifugao rice terraces (PH): larger agricultural landscape
+  - Suzhou canals (CN): different urban water heritage
+  - Uruapan cuisine (MX): food focus
+  - Tequila agave landscape (MX): distinct agricultural heritage.
+- Individual scores: impact 9.1, uniqueness 9.5, significance 9.6, experience 9.1, depth 9.2.
+- Categories: culture 9.7, nature 9.3, history 9.5, food 9.1.
+- Overall: 93.10/100.
+- High-score challenge: Documented distinctive collection, cultural landscape or visitor depth supports 90+; global peers constrain score. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; current admission and safety not verified.
+
+
+## sight-mx-angel-independencia — Ángel de la Independencia Monument — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/angel-independencia.yaml)
+- Action: new (pass 455)
+- Precise subject: 1910 independence monument and national symbol; no guaranteed interior or ascent access.
+- Location check: 19.427, -99.168; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.gob.mx/cultura/prensa/la-columna-de-la-independencia-uno-de-los-monumentos-artisticos-mas-emblematicos-del-pais?idiom=es-MX; https://mexicocity.cdmx.gob.mx/venues/el-angel-independencia/?lang=en.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Monument to Revolution (MX): greater museum depth
+  - Arc de Triomphe (FR): larger visitor experience
+  - Victory Column Berlin (DE): similar commemorative form
+  - Independence Monument Kyiv (UA): different national context.
+- Individual scores: impact 9.0, uniqueness 8.9, significance 9.6, experience 8.4, depth 8.2.
+- Categories: history 9.5, architecture 9.2, photography 9.2, culture 9.1.
+- Overall: 89.25/100.
+- High-score challenge: Sub-90 reflects narrower visitor scope or global distinction. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; current admission and safety not verified.
+
+
+## sight-mx-vallarta-botanical-garden — Vallarta Botanical Garden and Orchid Collections — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/vallarta-botanical-garden.yaml)
+- Action: new (pass 455)
+- Precise subject: Scientific collections of orchids, magnolias, oaks, agaves, palms and cycads; operator reports protection of numerous threatened taxa.
+- Location check: 20.475, -105.289; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.vbgardens.org/living-plants-collection-science/; https://www.vbgardens.org/tickets/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Kew (GB): greater global breadth
+  - Singapore Botanic Gardens (SG): stronger orchid heritage
+  - Oaxaca (MX): distinct ethnobotany
+  - Culiacán (MX): different art focus.
+- Individual scores: impact 9.0, uniqueness 9.0, significance 9.2, experience 9.2, depth 9.3.
+- Categories: nature 9.6, photography 9.3, relaxation 9.2.
+- Overall: 91.00/100.
+- High-score challenge: Documented distinctive collection, cultural landscape or visitor depth supports 90+; global peers constrain score. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; current admission and safety not verified.
+
+
+## sight-mx-helia-bravo-hollis-garden — Helia Bravo Hollis Botanical Garden and Cactus Trails — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/helia-bravo-hollis-garden.yaml)
+- Action: new (pass 455)
+- Precise subject: Specific guided xerophytic plant and cactus landscape experience at Zapotitlán Salinas, nested within Tehuacán-Cuicatlán reserve; not duplicate whole reserve.
+- Location check: 18.33, -97.455; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.gob.mx/semarnat/articulos/jardin-botanico-helia-bravo-hollis?idiom=es; https://amjb.abaco2.org/web/jardines-botanicos/jardin-botanico-helia-bravo-hollis/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Desert Botanical Garden (US): cultivated desert collections
+  - Tehuacán-Cuicatlán (MX): wider reserve
+  - El Pinacate (MX): larger desert geology
+  - Oaxaca garden (MX): broader plant variety.
+- Individual scores: impact 9.0, uniqueness 9.2, significance 9.1, experience 8.9, depth 9.0.
+- Categories: nature 9.5, photography 9.3, culture 8.9.
+- Overall: 90.55/100.
+- High-score challenge: Documented distinctive collection, cultural landscape or visitor depth supports 90+; global peers constrain score. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; current admission and safety not verified.
+
+
+## sight-mx-oaxaca-central-markets — Oaxaca Benito Juárez and 20 de Noviembre Markets — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/oaxaca-central-markets.yaml)
+- Action: new (pass 455)
+- Precise subject: Adjacent markets grouped as a single food and craft experience including Pasillo del Humo; independent of Tlacolula market.
+- Location check: 17.058, -96.727; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.oaxaca.travel/index.php/es/mercados/mercado-20-de-noviembre-es; https://www.oaxaca.travel/index.php/es/mercados/mercado-benito-juarez-es.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - La Merced (MX): larger wholesale market
+  - Tlacolula (MX): stronger regional Sunday tradition
+  - Mercado San Juan (MX): different specialty food
+  - Tsukiji Outer Market (JP): different culinary heritage.
+- Individual scores: impact 9.0, uniqueness 9.2, significance 9.1, experience 9.5, depth 9.2.
+- Categories: food 9.7, culture 9.5, photography 9.1.
+- Overall: 91.65/100.
+- High-score challenge: Documented distinctive collection, cultural landscape or visitor depth supports 90+; global peers constrain score. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; current admission and safety not verified.
+
+
+## sight-mx-biblioteca-mexico-ciudadela — Biblioteca de México and La Ciudadela Personal Libraries — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/biblioteca-mexico-ciudadela.yaml)
+- Action: new (pass 455)
+- Precise subject: Historic Ciudadela library and personal collections of Mexican intellectuals; distinct from Biblioteca Vasconcelos.
+- Location check: 19.429, -99.149; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.bibliotecademexico.gob.mx/; https://www.gob.mx/cultura/acciones-y-programas/biblioteca-de-mexico.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Palafoxiana (MX): more historically exceptional collection
+  - Vasconcelos (MX): stronger contemporary architecture
+  - Trinity College Library (IE): greater global recognition
+  - Lerdo de Tejada (MX): distinctive murals.
+- Individual scores: impact 8.8, uniqueness 9.0, significance 9.3, experience 9.0, depth 9.4.
+- Categories: culture 9.4, history 9.4, architecture 9.2.
+- Overall: 90.40/100.
+- High-score challenge: Documented distinctive collection, cultural landscape or visitor depth supports 90+; global peers constrain score. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; current admission and safety not verified.
+
+
+## sight-mx-monterrey-santa-lucia-macroplaza — Monterrey Macroplaza and Paseo Santa Lucía Canal — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/monterrey-santa-lucia-macroplaza.yaml)
+- Action: new (pass 455)
+- Precise subject: Connected urban square and artificial canal promenade; excludes separately scored Fundidora and MARCO.
+- Location check: 25.669, -100.31; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.sectur.gob.mx/programas/gestion-de-destinos/productos-turisticos/frontera-norte/monterrey/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - San Antonio River Walk (US): more extensive historic river setting
+  - Chapultepec (MX): larger park
+  - Coyoacán (MX): stronger historic fabric
+  - Xochimilco (MX): more distinctive heritage canals.
+- Individual scores: impact 8.9, uniqueness 8.7, significance 8.8, experience 9.1, depth 9.0.
+- Categories: architecture 9.0, photography 9.1, relaxation 9.2.
+- Overall: 88.70/100.
+- High-score challenge: Sub-90 reflects narrower visitor scope or global distinction. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; current admission and safety not verified.
+
+
+## sight-mx-monterrey-mexican-history-museums — Museum of Mexican History and Museo del Noreste (Monterrey) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/monterrey-mexican-history-museums.yaml)
+- Action: new (pass 455)
+- Precise subject: Adjacent national and regional history museums grouped as a distinct museum visit.
+- Location check: 25.67, -100.306; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.3museos.com/sobre-3-museos/museo-de-historia-mexicana/; https://www.nl.gob.mx/es/3museos.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - National History Museum Chapultepec (MX): stronger historic setting
+  - National Anthropology Museum (MX): broader archaeological depth
+  - CECUT (MX): comparable regional museum
+  - Museo Arocena (MX): different art focus.
+- Individual scores: impact 8.8, uniqueness 8.8, significance 9.3, experience 9.1, depth 9.4.
+- Categories: history 9.5, culture 9.3, family 9.1.
+- Overall: 90.05/100.
+- High-score challenge: Documented distinctive collection, cultural landscape or visitor depth supports 90+; global peers constrain score. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; current admission and safety not verified.
+
+
+## sight-mx-mercado-jamaica — Mercado de Jamaica Flower Market — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/mercado-jamaica.yaml)
+- Action: new (pass 455)
+- Precise subject: Major wholesale and retail flower market with distinctive floral displays.
+- Location check: 19.409, -99.123; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://mexicocity.cdmx.gob.mx/venues/jamaica-market/?lang=en.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Bloemenmarkt (NL): more iconic tourist market
+  - Medellín flower festival (CO): different event
+  - La Merced (MX): broader trade
+  - Oaxaca markets (MX): stronger culinary focus.
+- Individual scores: impact 8.8, uniqueness 8.9, significance 8.5, experience 9.1, depth 8.6.
+- Categories: photography 9.4, culture 9.0, food 8.6.
+- Overall: 87.90/100.
+- High-score challenge: Sub-90 reflects narrower visitor scope or global distinction. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; current admission and safety not verified.
+
+
+## sight-mx-mercado-san-juan-pugibet — Mercado San Juan Pugibet Gourmet Food Market — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/mercado-san-juan-pugibet.yaml)
+- Action: new (pass 455)
+- Precise subject: Specialty gourmet food market; rank lawful culinary offerings only, not prohibited wildlife trade.
+- Location check: 19.43, -99.144; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://mexicocity.cdmx.gob.mx/venues/san-juan-market/?lang=en.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Oaxaca markets (MX): greater regional culinary breadth
+  - La Merced (MX): larger market
+  - Borough Market (GB): comparable specialty food
+  - Tsukiji Outer Market (JP): stronger seafood tradition.
+- Individual scores: impact 8.6, uniqueness 8.9, significance 8.7, experience 9.2, depth 8.8.
+- Categories: food 9.4, culture 9.0.
+- Overall: 88.05/100.
+- High-score challenge: Sub-90 reflects narrower visitor scope or global distinction. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; current admission and safety not verified.
+
+
+## sight-mx-modo-museum — Museo del Objeto del Objeto (MODO) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/modo-museum.yaml)
+- Action: new (pass 455)
+- Precise subject: Design and packaging museum holding more than 30,000 objects from 1810 onward; changing displays.
+- Location check: 19.419, -99.16; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://sic.cultura.gob.mx/ficha.php?table=museo&table_id=1469.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Design Museum (GB): broader design scope
+  - Franz Mayer (MX): greater historic decorative arts
+  - Vitra Design Museum (DE): greater international design significance
+  - Kaluz (MX): different collection focus.
+- Individual scores: impact 8.5, uniqueness 9.0, significance 8.8, experience 8.9, depth 9.0.
+- Categories: culture 9.2, history 9.1, photography 8.8.
+- Overall: 87.95/100.
+- High-score challenge: Sub-90 reflects narrower visitor scope or global distinction. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; current admission and safety not verified.
+
