@@ -1,0 +1,17 @@
+id: sight-sv-perquin-festival-invierno
+name: "Perquín Festival de Invierno"
+location:
+  country_code: SV
+  latitude: 13.959
+  longitude: -88.163
+scores:
+  impact: 8.4
+  uniqueness: 8.5
+  significance: 8.7
+  experience: 8.7
+  depth: 8.6
+  categories:
+    culture: 9.0
+    history: 8.8
+    food: 8.4
+    photography: 8.5

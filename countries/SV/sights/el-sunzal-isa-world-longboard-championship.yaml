@@ -1,0 +1,16 @@
+id: sight-sv-el-sunzal-isa-world-longboard-championship
+name: "El Sunzal ISA World Longboard Championship"
+location:
+  country_code: SV
+  latitude: 13.492
+  longitude: -89.39
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 9.3
+  experience: 8.8
+  depth: 8.2
+  categories:
+    adventure: 8.9
+    photography: 9.0
+    culture: 8.1

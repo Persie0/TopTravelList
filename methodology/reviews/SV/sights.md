@@ -1211,3 +1211,182 @@ Five new sights and one rescore. Three targeted fact-checked entries, three sour
 - High-score challenge: No 90+ overall or 9.5+ fields. No approved 10 requested.
 - Earlier decision: Prior entry in this file (historical rationale preserved).
 - Remaining verification: exact route/entrance where applicable, current peer YAML values and full Python diagnostics; provisional entries need full source inspection.
+
+# Pass 389 — 2026-11-28 — direct main continuation
+
+Seven additions, three fact-checked and four source-linked-unverified, zero incomplete. Targeted JS inventory, score formula, coordinates range, duplicate identifiers, ranking and README count checks only; no full Python diagnostics or Actions. Separate festival scopes from permanent attractions. Scores are editorial; temporary access not scored.
+
+## sight-sv-nahuizalco-canchules — Nahuizalco Día de los Canchules — 2026-11-28
+
+- YAML: [source](../../../countries/SV/sights/nahuizalco-canchules.yaml)
+- Action: new
+- Precise subject: Public November remembrance around the central streets; excludes ordinary night market and private homes without invitation.
+- Location check: Existing Nahuizalco market-area representative point; festival spread not mapped.
+- Evidence status: fact-checked
+- Sources accessed 2026-11-28: Ministry of Culture https://www.cultura.gob.sv/nahuizalco-honro-a-sus-difuntos-en-el-dia-de-los-canchules/ (opened: altars, food-sharing, harvest links, visitors and religious syncretism); La Prensa Gráfica https://www.laprensagrafica.com/cultura/canchules-en-nahuizalco-la-tradicion-que-une-a-las-familias-y-preserva-la-cultura-salvadorena-20261029-0062.html (opened: continuing street displays and 2026 programming).
+- Worldwide peers (qualitative; current peer YAML not inspected):
+  - Oaxaca Día de Muertos (MX): broader internationally recognized celebrations.
+  - Pátzcuaro Noche de Muertos (MX): larger lake-region ritual landscape and broader visitor options.
+  - Pchum Ben (KH): similarly meaningful ancestor remembrance, wider religious setting.
+  - Ahuachapán Farolitos (SV): comparable illuminated public ritual, different ancestor and harvest emphasis.
+- Individual scores:
+  - impact: 9.0 — Community altars and food-sharing produce strong emotional and visual impact.
+  - uniqueness: 9.4 — Locally specific Nawat-linked ritual and harvest syncretism are rare.
+  - significance: 9.0 — Strong intergenerational cultural significance without equating it to globally famous festivals.
+  - experience: 9.0 — Public displays and food exchange provide active engagement within cultural boundaries.
+  - depth: 8.6 — Several hours of ritual and displays, but limited to a concentrated annual event.
+- Categories: culture 9.4, food 8.9, photography 9.2, history 9.0.
+- Overall: 90.60/100.
+- High-score challenge: Distinct Indigenous public ritual with exceptional rarity and visitor engagement, below the broader international celebrations for scale and depth. No designation bonus. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact visitor access/route, peer YAML comparisons and full diagnostics; search-only evidence remains provisional.
+
+## sight-sv-tonacatepeque-calabiuza — Tonacatepeque Festival de la Calabiuza — 2026-11-28
+
+- YAML: [source](../../../countries/SV/sights/tonacatepeque-calabiuza.yaml)
+- Action: new
+- Precise subject: Public folklore festival including costumed parade, carts, performances and traditional sweets; not Halloween generally.
+- Location check: Approximate Tonacatepeque town-center point; parade route unverified.
+- Evidence status: fact-checked
+- Sources accessed 2026-11-28: La Prensa Gráfica https://www.laprensagrafica.com/cultura/la-calabiuza-la-historia-de-la-tradicion-que-nacio-en-tonacatepeque-y-mantiene-vivas-las-leyendas-salvadorenas-20261028-0008.html (opened: mythology, carts, food and performances); EFE via El Mundo https://diario.elmundo.sv/nacionales/festival-de-la-calabiuza-reune-personajes-mitologicos-en-tonacatepeque (opened: actual 2026 parade, local legends, current festival since 1992).
+- Worldwide peers (qualitative; current peer YAML not inspected):
+  - Oruro Carnival (BO): far greater scale and international heritage stature.
+  - Kukeri Surva festival (BG): wider mask traditions and spectacle.
+  - Oaxaca Día de Muertos (MX): broader ceremonial traditions and duration.
+  - Nejapa Bolas de Fuego (SV): more visually singular spectacle, Calabiuza has broader folklore narrative.
+- Individual scores:
+  - impact: 9.0 — Torch-lit costumes and folklore create a vivid encounter.
+  - uniqueness: 9.2 — Locally specific mythological characters distinguish it from generic costume events.
+  - significance: 8.7 — Significant transmission of national folklore, smaller international reach.
+  - experience: 9.1 — Parade and associated food and arts provide an engaging public experience.
+  - depth: 8.5 — Full-day program with a concentrated annual format rather than a multi-day heritage landscape.
+- Categories: culture 9.3, photography 9.3, food 8.4, nightlife 8.7.
+- Overall: 89.55/100.
+- High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact visitor access/route, peer YAML comparisons and full diagnostics; search-only evidence remains provisional.
+
+## sight-sv-el-sunzal-isa-world-longboard-championship — El Sunzal ISA World Longboard Championship — 2026-11-28
+
+- YAML: [source](../../../countries/SV/sights/el-sunzal-isa-world-longboard-championship.yaml)
+- Action: new
+- Precise subject: International championship spectator event, not ordinary beach visits or independent surfing.
+- Location check: Existing El Sunzal beach representative point.
+- Evidence status: fact-checked
+- Sources accessed 2026-11-28: ISA https://isasurf.org/record-breaking-edition-of-the-isa-world-longboard-championship-inaugurated-in-surf-city-el-salvador/ (opened: 129 athletes from 39 nations in 2024, prior edition 2023); https://isasurf.org/opening-ceremony-officially-kicks-off-the-2023-isa-world-longboard-championship-in-surf-city-el-salvador/ (search excerpt). 2026 announcement search excerpt https://isasurf.org/10-things-to-know-about-the-2026-surf-city-el-salvador-isa-world-longboard-championship/; direct page blocked, no future dates asserted.
+- Worldwide peers (qualitative; current peer YAML not inspected):
+  - Pipeline Masters (US): greater historic surf prestige and more dramatic wave.
+  - Bells Beach Rip Curl Pro (AU): long-established elite contest tradition.
+  - Biarritz longboard championship (FR): comparable discipline and coastal competition.
+  - Punta Roca Surf City Pro (SV): elite shortboard contest, distinct discipline and venue.
+- Individual scores:
+  - impact: 8.8 — International-level technique and competitive setting create strong spectator interest.
+  - uniqueness: 8.6 — Elite longboard events are unusual but occur in other countries.
+  - significance: 9.3 — World championship status and demonstrated international representation justify high significance.
+  - experience: 8.8 — Multiple heats reward surf spectators, though viewing depends on conditions.
+  - depth: 8.2 — Competition program offers sustained sporting interest without wider festival breadth.
+- Categories: adventure 8.9, photography 9.0, culture 8.1.
+- Overall: 87.90/100.
+- High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact visitor access/route, peer YAML comparisons and full diagnostics; search-only evidence remains provisional.
+
+## sight-sv-perquin-festival-invierno — Perquín Festival de Invierno — 2026-11-28
+
+- YAML: [source](../../../countries/SV/sights/perquin-festival-invierno.yaml)
+- Action: new
+- Precise subject: Annual peace and cultural festival only; excludes standing museum and El Mozote memorial as separate sites.
+- Location check: Existing Perquín museum-area representative point; festival venues vary.
+- Evidence status: source-linked-unverified
+- Sources accessed 2026-11-28: Visit Centroamérica https://www.visitcentroamerica.com/visitar/perquin/ (search excerpt: annual festival commemorates peace); Ruta de Paz https://rutadepaz.com/festival-de-invierno-de-perquin/ (search excerpt: performances and activities, origin 1992).
+- Worldwide peers (qualitative; current peer YAML not inspected):
+  - Edinburgh Festival Fringe (GB): far larger performing arts scope.
+  - Festival de la Paz in Gernika (ES): comparable peace-memory focus, differing format.
+  - Festival Internacional Cervantino (MX): much greater international artistic reach.
+  - San Miguel Carnival (SV): broader mass celebration, less focused on postwar memory.
+- Individual scores:
+  - impact: 8.4 — Music and collective remembrance give a memorable regional festival.
+  - uniqueness: 8.5 — Peace commemoration distinguishes it from generic town fiestas.
+  - significance: 8.7 — Postwar cultural identity is nationally important, moderate worldwide significance.
+  - experience: 8.7 — Varied public programming offers meaningful engagement.
+  - depth: 8.6 — Multiple activities and historical context support sustained exploration.
+- Categories: culture 9.0, history 8.8, food 8.4, photography 8.5.
+- Overall: 85.50/100.
+- High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact visitor access/route, peer YAML comparisons and full diagnostics; search-only evidence remains provisional.
+
+## sight-sv-rio-sapo — Río Sapo Forest River and Natural Pools — 2026-11-28
+
+- YAML: [source](../../../countries/SV/sights/rio-sapo.yaml)
+- Action: new
+- Precise subject: Recreational upper river and natural pools around Arambala; excludes the entire watershed and research station facilities.
+- Location check: Representative river field locality from biodiversity atlas search excerpt, not a trailhead.
+- Evidence status: source-linked-unverified
+- Sources accessed 2026-11-28: CORSATUR https://corsatur.gob.sv/preguntas-frecuentes-2/ (search excerpt: Ruta de Paz river destination); El Salvador https://www.elsalvador.com/turismo/rutas-y-aventuras/rios-el-salvador-morazan-sonsonate-turismo/1273699/2026/ (search excerpt: pools, vegetation and trails); biodiversity atlas https://www.academia.edu/117000078/Catalog_and_distribution_atlas_of_the_Scarabaeoidea_Insecta_Coleoptera_of_El_Salvador (search excerpt: field coordinates).
+- Worldwide peers (qualitative; current peer YAML not inspected):
+  - Semuc Champey (GT): much rarer limestone pool terraces and setting.
+  - Río Celeste (CR): more striking water coloration and geological interest.
+  - Kawasan Falls (PH): stronger waterfall and canyoning spectacle.
+  - Tamanique Waterfalls (SV): similar outdoor excursion, more waterfall-focused.
+- Individual scores:
+  - impact: 8.5 — Clear river pools in wooded terrain create memorable scenery.
+  - uniqueness: 8.1 — Forest river swimming is attractive but globally reproducible.
+  - significance: 7.6 — Regional ecological value without claiming exceptional global conservation status.
+  - experience: 8.7 — Swimming and walks make a rewarding nature outing in suitable conditions.
+  - depth: 8.2 — Multiple pools and forest routes offer more than a single viewpoint.
+- Categories: nature 8.8, adventure 8.6, relaxation 8.8, photography 8.6.
+- Overall: 82.20/100.
+- High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact visitor access/route, peer YAML comparisons and full diagnostics; search-only evidence remains provisional.
+
+## sight-sv-llano-del-muerto — Llano del Muerto Mountain Landscape — 2026-11-28
+
+- YAML: [source](../../../countries/SV/sights/llano-del-muerto.yaml)
+- Action: new
+- Precise subject: Highland meadow and pine landscape near Perquín, not separate commercial water parks or the whole Ruta de Paz.
+- Location check: Mapcarta https://mapcarta.com/es/19515140 (opened: locality coordinates, altitude and nearby locations).
+- Evidence status: source-linked-unverified
+- Sources accessed 2026-11-28: El Salvador Travel https://elsalvador.travel/esp/morazan/ (search excerpt: named natural attraction); TurismoSV https://turismo.sv/rios/sapo (search excerpt: pine forest, meadows and springs).
+- Worldwide peers (qualitative; current peer YAML not inspected):
+  - Alpe di Siusi (IT): far more spectacular alpine meadow landscape.
+  - Valle de Cocora (CO): globally distinctive wax palms and stronger scenic identity.
+  - Doi Inthanon uplands (TH): broader highland ecology and trails.
+  - Cerro Eramón (SV): stronger summit views, less meadow recreation.
+- Individual scores:
+  - impact: 8.0 — Pines and open highlands offer pleasant contrast to lowlands.
+  - uniqueness: 7.7 — Meadow and forest terrain is internationally common.
+  - significance: 7.1 — Landscape importance is largely local.
+  - experience: 8.3 — Relaxed walking and mountain recreation are rewarding.
+  - depth: 8.0 — Several landscape features support a modest outing.
+- Categories: nature 8.4, photography 8.5, relaxation 8.5, adventure 8.0.
+- Overall: 77.90/100.
+- High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact visitor access/route, peer YAML comparisons and full diagnostics; search-only evidence remains provisional.
+
+## sight-sv-apaneca-cafe-albania-maze — Apaneca Café Albania Maze and Adventure Park — 2026-11-28
+
+- YAML: [source](../../../countries/SV/sights/apaneca-cafe-albania-maze.yaml)
+- Action: new
+- Precise subject: Named adventure park centered on hedge maze and associated activities; excludes whole coffee region or independent estate tours.
+- Location check: Mapcarta https://mapcarta.com/W1131086397 (opened: maze location and operator).
+- Evidence status: source-linked-unverified
+- Sources accessed 2026-11-28: Official destination https://elsalvador.travel/esp/en/apaneca/ (search excerpt: named Finca Albania); operator https://grupoalbania.com/ (search excerpt: complex); Experiences El Salvador https://experienceselsalvador.com/en/destinations/apaneca (search excerpt: zip lines).
+- Worldwide peers (qualitative; current peer YAML not inspected):
+  - Hampton Court Maze (GB): stronger historic garden significance.
+  - Longleat Hedge Maze (GB): larger established maze experience.
+  - Dole Plantation Pineapple Garden Maze (US): similar commercial leisure attraction with distinct crop context.
+  - Walter Thilo Deininger Adventure Park (SV): broader natural hiking, fewer maze-specific features.
+- Individual scores:
+  - impact: 8.0 — Maze and highland setting make an entertaining visual experience.
+  - uniqueness: 7.9 — Hedge maze and adventure combination is distinctive locally, not rare globally.
+  - significance: 6.6 — Modern leisure site has limited world historical significance.
+  - experience: 8.8 — Interactive activities provide strong recreational value.
+  - depth: 7.8 — Several activities add depth beyond the maze, but not a full heritage landscape.
+- Categories: adventure 8.7, family 8.8, photography 8.5, food 7.9.
+- Overall: 77.95/100.
+- High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact visitor access/route, peer YAML comparisons and full diagnostics; search-only evidence remains provisional.
