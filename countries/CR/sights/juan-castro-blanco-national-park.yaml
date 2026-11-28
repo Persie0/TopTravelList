@@ -1,0 +1,16 @@
+id: sight-cr-juan-castro-blanco-national-park
+name: "Juan Castro Blanco National Park"
+location:
+  country_code: CR
+  latitude: 10.2779
+  longitude: -84.3332
+scores:
+  impact: 8.3
+  uniqueness: 8.4
+  significance: 8.7
+  experience: 8.2
+  depth: 8.3
+  categories:
+    nature: 9.1
+    wildlife: 8.9
+    adventure: 8.6
