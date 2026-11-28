@@ -1939,26 +1939,10 @@ Ranking-row comparisons are preliminary; independent peer YAML, coordinate verif
 
 Ranking-row comparisons are preliminary; independent peer YAML, coordinate verification and same-type global calibration pending.
 
-## sight-cr-hitoy-cerere-biological-reserve — Hitoy Cerere Biological Reserve Authorized Rainforest and River Trails — 2026-11-28
+## Hitoy Cerere — scope deferral — 2026-11-28
 
-- YAML: [source](../../../countries/CR/sights/hitoy-cerere-biological-reserve.yaml)
-- Action: new
-- Scope: Specific biological reserve, designated visitor routes only. Potential connection with Talamanca UNESCO buffer/adjacent landscape requires boundary verification; no shared parent credit. Desk-based.
-- Representative coordinates: 9.67, -83.03; approximate editorial point, independent verification pending.
-- Evidence status: **desk-based provisional**
-- Sources: General knowledge; individual source verification pending.
-- Core I/U/S/E/D: 8.6 / 8.7 / 8.8 / 8.2 / 8.6.
-- Categories: nature:9.3 wildlife:9.2 adventure:9.0.
-- Overall: 86.05/100.
-- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
-
-| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
-| --- | --- | --- |
-| [CR/barbilla-national-park](../../../countries/CR/sights/barbilla-national-park.yaml) | 8.0 / 8.4 / 8.8 / 7.7 / 8.0 | impact: 0.6; uniqueness: 0.3 vs peer |
-| [CL/alerce-andino-national-park](../../../countries/CL/sights/alerce-andino-national-park.yaml) | 8.8 / 8.9 / 9.1 / 8.7 / 8.8 | impact: -0.2; uniqueness: -0.2 vs peer |
-
-Ranking-row comparisons are preliminary; independent peer YAML, coordinate verification and same-type global calibration pending.
+The proposed standalone record was withdrawn after the follow-up component check. IUCN and UNEP-WCMC include Hitoy Cerere in the existing Talamanca-La Amistad property. A distinct established visitor scope needs reconciliation before adding it separately. Sources: https://world-heritage-datasheets.unep-wcmc.org/datasheet/output/site/talamanca-range-la-amistad-reserves-la-amistad-national-park/ ; https://portals.iucn.org/library/efiles/documents/PAG-007.pdf . No score assigned to the deferred record.
 
 ### Pass 328 scope decisions
 
-12 provisional additions (6 source-linked, 6 desk-based), 4 90+, 24 ranking-row comparisons (12 international, 12 domestic). CR 98 ranked / 98 total, +36 since baseline 62; 13 new 90+ across three passes. Pavones, Grand Gala Parade, Nicoya annexation and Chorotega pottery researched. August Grand Gala Parade distinct from October carnival; Chorotega pottery regional intangible designation, not UNESCO listing; workshops/ecomuseum grouped. Barva public masquerade and Tarcoles boat wildlife sourced. Hitoy Cerere boundary relationship with Talamanca legacy umbrella pending; no shared parent credit. Previous UNESCO 4 inscribed and 1 tentative represented, component boundaries pending. Prior Envision and Bat Islands deferrals retained. Costa Rica OPEN; existing scores preserved. Coordinates approximate; access and future schedules unverified. Full Python validation, independent peer YAML and same-type global calibration pending.
+11 retained provisional additions (6 source-linked, 5 desk-based), 4 90+, 22 retained ranking-row comparisons (11 international, 11 domestic). CR 97 ranked / 97 total, +35 since baseline 62; 13 new 90+ across three passes. Pavones, Grand Gala Parade, Nicoya annexation and Chorotega pottery researched. August Grand Gala Parade distinct from October carnival; Chorotega pottery regional intangible designation, not UNESCO listing; workshops/ecomuseum grouped. Barva public masquerade and Tarcoles boat wildlife sourced. Hitoy Cerere withdrawn after IUCN and UNEP-WCMC confirmation of its inclusion in the existing Talamanca-La Amistad property; distinct visitor scope deferred (https://world-heritage-datasheets.unep-wcmc.org/datasheet/output/site/talamanca-range-la-amistad-reserves-la-amistad-national-park/ ; https://portals.iucn.org/library/efiles/documents/PAG-007.pdf). Previous UNESCO 4 inscribed and 1 tentative represented; full component boundary audit pending. Prior Envision and Bat Islands deferrals retained. Costa Rica OPEN; existing baseline scores preserved. Coordinates approximate; access and future schedules unverified. Full Python validation, independent peer YAML and same-type global calibration pending.
