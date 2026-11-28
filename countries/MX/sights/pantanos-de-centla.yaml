@@ -1,0 +1,16 @@
+id: sight-mx-pantanos-de-centla
+name: "Pantanos de Centla Biosphere Reserve"
+location:
+  country_code: MX
+  latitude: 18.4
+  longitude: -92.55
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.5
+  experience: 8.9
+  depth: 9.3
+  categories:
+    nature: 9.4
+    wildlife: 9.4
+    photography: 9.0

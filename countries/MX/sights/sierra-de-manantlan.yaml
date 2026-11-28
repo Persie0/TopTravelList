@@ -1,0 +1,16 @@
+id: sight-mx-sierra-de-manantlan
+name: "Sierra de Manantlán Biosphere Reserve"
+location:
+  country_code: MX
+  latitude: 19.58
+  longitude: -104.15
+scores:
+  impact: 8.8
+  uniqueness: 9.2
+  significance: 9.5
+  experience: 8.5
+  depth: 9.1
+  categories:
+    nature: 9.4
+    wildlife: 9.2
+    photography: 8.9

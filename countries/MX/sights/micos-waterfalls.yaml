@@ -1,0 +1,16 @@
+id: sight-mx-micos-waterfalls
+name: "Cascadas de Micos"
+location:
+  country_code: MX
+  latitude: 22.11
+  longitude: -99.12
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 8.3
+  experience: 9.1
+  depth: 8.6
+  categories:
+    nature: 9.1
+    adventure: 9.2
+    photography: 9.0

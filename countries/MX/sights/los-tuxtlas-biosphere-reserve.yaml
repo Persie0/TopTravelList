@@ -1,0 +1,16 @@
+id: sight-mx-los-tuxtlas-biosphere-reserve
+name: "Los Tuxtlas Biosphere Reserve"
+location:
+  country_code: MX
+  latitude: 18.51
+  longitude: -95.15
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 9.0
+  depth: 9.3
+  categories:
+    nature: 9.4
+    wildlife: 9.3
+    photography: 9.1

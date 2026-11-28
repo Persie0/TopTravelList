@@ -8533,3 +8533,257 @@ Parent geopark and individual geosites assessed at their own scope. The Mexican 
 - Earlier decision: none.
 - Remaining verification: independent factual and coordinate checks, numerical peer comparisons and global Python validation; current permissions not verified.
 
+## Pass 436 — Wetlands, mountain forests and waterfalls
+
+Cumbres de Monterrey evaluated independently of the Matacanes canyon route. Puente de Dios and Cascadas de Tamasopo are distinct sites. Lower-scoring waterfall records are provisional editorial assessments supported by overview tourism sources. Representative coordinates are approximate, not independently verified.
+
+## sight-mx-los-tuxtlas-biosphere-reserve — Los Tuxtlas Biosphere Reserve — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/los-tuxtlas-biosphere-reserve.yaml)
+- Action: new
+- Precise subject: Forest-to-volcano and coastal ecosystem network, including lakes and trails; not entire Veracruz region.
+- Location check: 18.51, -95.15; approximate editorial representative point, independent coordinate verification outstanding.
+- Evidence status: source-linked-unverified; indexed conservation and institutional descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.unesco.org/en/mab/los-tuxtlas; https://descubreanp.conanp.gob.mx/es/conanp/ANP?suri=104; https://www.gob.mx/semarnat/es/articulos/reserva-de-la-biosfera-los-tuxtlas?idiom=es.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - El Triunfo (MX): more focused montane cloud forest
+  - Corcovado (CR): stronger concentrated wildlife encounters
+  - Daintree (AU): older tropical forest heritage
+  - Sierra de Manantlán (MX): distinctive wild maize conservation
+- Individual scores:
+  - impact: 9.2 — Volcanic peaks and tropical forest scenery.
+  - uniqueness: 9.2 — Unusual northern rainforest transition from coast to summits.
+  - significance: 9.4 — Internationally important biogeography and endemic species.
+  - experience: 9.0 — Multiple community ecotourism trails and water features.
+  - depth: 9.3 — Nine primary vegetation types and substantial landscape diversity.
+- Categories: nature 9.4, wildlife 9.3, photography 9.1.
+- Overall: 92.20/100.
+- High-score challenge: 90+ supported by documented biogeographic importance and varied visitor experiences; no guaranteed animal sightings. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate checks, numerical peer comparisons and global Python validation; current permissions not verified.
+
+## sight-mx-pantanos-de-centla — Pantanos de Centla Biosphere Reserve — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/pantanos-de-centla.yaml)
+- Action: new
+- Precise subject: Delta wetland and authorized river excursions, not entire Grijalva–Usumacinta catchment.
+- Location check: 18.4, -92.55; approximate editorial representative point, independent coordinate verification outstanding.
+- Evidence status: source-linked-unverified; indexed conservation and institutional descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.unesco.org/en/mab/pantanos-de-centla; https://descubreanp.conanp.gob.mx/es/conanp/ANP?suri=121; https://conanp.gob.mx/conanp/dominios/regiongolfo/pantanos.php.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Pantanal (BR): much larger and stronger wildlife viewing
+  - Everglades (US): more developed visitor infrastructure
+  - Iberá (AR): comparable wetland wildlife
+  - La Encrucijada (MX): more coastal mangrove emphasis
+- Individual scores:
+  - impact: 9.0 — Vast flooded landscapes and mangrove channels.
+  - uniqueness: 9.1 — Distinctive combination of river delta habitats.
+  - significance: 9.5 — International wetland significance and threatened fauna.
+  - experience: 8.9 — Authorized boat routes and interpretation center.
+  - depth: 9.3 — Multiple aquatic and terrestrial habitats.
+- Categories: nature 9.4, wildlife 9.4, photography 9.0.
+- Overall: 91.40/100.
+- High-score challenge: Significance 9.5 grounded in documented Ramsar importance, diverse delta habitats and protected threatened species; no assumption of high encounter probabilities. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate checks, numerical peer comparisons and global Python validation; current permissions not verified.
+
+## sight-mx-cumbres-de-monterrey — Cumbres de Monterrey National Park — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/cumbres-de-monterrey.yaml)
+- Action: new
+- Precise subject: Mountain landscape and general hiking network, including Chipinque and La Huasteca; excludes separately ranked Matacanes route as a scoring component.
+- Location check: 25.55, -100.49; approximate editorial representative point, independent coordinate verification outstanding.
+- Evidence status: source-linked-unverified; indexed conservation and institutional descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://descubreanp.conanp.gob.mx/swb/conanp/ANP?suri=48; https://sidof.segob.gob.mx/notas/docFuente/5676308.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Sierra de Guara (ES): comparable canyon landscapes
+  - Jebel Shams (OM): more arid canyon scenery
+  - Dolomites (IT): much larger alpine stature
+  - El Potrero Chico (MX): focused climbing destination
+- Individual scores:
+  - impact: 9.2 — Dramatic limestone ridges and gorges.
+  - uniqueness: 8.9 — Distinctive rugged mountains but international analogues.
+  - significance: 9.0 — Longstanding protected ecosystems.
+  - experience: 9.2 — Varied established hiking and outdoor routes.
+  - depth: 9.3 — Large network of mountain trails and valleys.
+- Categories: nature 9.3, adventure 9.3, photography 9.3.
+- Overall: 90.95/100.
+- High-score challenge: 90+ reflects broad mountain trail and landscape experience rather than inheriting the separately rated Matacanes route. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate checks, numerical peer comparisons and global Python validation; current permissions not verified.
+
+## sight-mx-la-encrucijada — La Encrucijada Biosphere Reserve — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/la-encrucijada.yaml)
+- Action: new
+- Precise subject: Pacific lagoon and mangrove systems, not unrelated turtle nesting sites.
+- Location check: 15.25, -92.85; approximate editorial representative point, independent coordinate verification outstanding.
+- Evidence status: source-linked-unverified; indexed conservation and institutional descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.unesco.org/en/mab/la-encrucijada; https://descubreanp.conanp.gob.mx/es/conanp/ANP?suri=84.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Sundarbans (BD/IN): far larger mangrove wilderness
+  - Tortuguero (CR): stronger turtle viewing
+  - Pantanos de Centla (MX): larger river-delta experience
+  - Sian Ka'an (MX): broader Caribbean reef and wetland scope
+- Individual scores:
+  - impact: 9.0 — Tall mangrove forests and lagoon scenery.
+  - uniqueness: 9.2 — Unusual scale of regional mangroves and coastal habitat mosaic.
+  - significance: 9.3 — Important protected coastal ecosystems.
+  - experience: 8.8 — Boat and wildlife experiences in designated areas.
+  - depth: 9.0 — Two lagoon systems and varied habitats.
+- Categories: nature 9.4, wildlife 9.3, photography 9.1.
+- Overall: 90.80/100.
+- High-score challenge: 90+ supported by CONANP documentation of exceptionally tall regional mangroves and UNESCO description of the two lagoon systems. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate checks, numerical peer comparisons and global Python validation; current permissions not verified.
+
+## sight-mx-sierra-de-manantlan — Sierra de Manantlán Biosphere Reserve — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/sierra-de-manantlan.yaml)
+- Action: new
+- Precise subject: Mountain reserve and its accessible forest landscapes; no assumption of visiting restricted research plots.
+- Location check: 19.58, -104.15; approximate editorial representative point, independent coordinate verification outstanding.
+- Evidence status: source-linked-unverified; indexed conservation and institutional descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://descubreanp.conanp.gob.mx/swb/conanp/ANP?suri=153; https://www.unesco.org/mab/50anniversary/en/sierra-manantlan; https://www.gob.mx/semarnat/es/articulos/reserva-de-la-biosfera-sierra-de-manantlan?idiom=es.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - El Triunfo (MX): stronger cloud forest experience
+  - Monteverde (CR): greater established wildlife interpretation
+  - Los Tuxtlas (MX): coastal-volcanic diversity
+  - Sierra Gorda (MX): broader cultural and canyon attractions
+- Individual scores:
+  - impact: 8.8 — Diverse mountain and forest terrain.
+  - uniqueness: 9.2 — Distinctive wild maize germplasm and ecosystems.
+  - significance: 9.5 — Exceptional conservation significance for crop genetic resources.
+  - experience: 8.5 — Qualified forest exploration and interpretation.
+  - depth: 9.1 — Varied elevational habitats and species.
+- Categories: nature 9.4, wildlife 9.2, photography 8.9.
+- Overall: 90.25/100.
+- High-score challenge: Significance 9.5 reflects wild teosinte germplasm protection and documented rich fauna, without giving scientific importance full credit as a visitor experience. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate checks, numerical peer comparisons and global Python validation; current permissions not verified.
+
+## sight-mx-las-nubes-waterfalls — Las Nubes Waterfalls and Santo Domingo River — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/las-nubes-waterfalls.yaml)
+- Action: new
+- Precise subject: Specific waterfalls and community ecotourism trails at Las Nubes, excluding the wider Lacandon forest.
+- Location check: 16.19, -91.35; approximate editorial representative point, independent coordinate verification outstanding.
+- Evidence status: source-linked-unverified; overview tourism sources consulted; editorial scores.
+- Sources consulted 2026-11-28: https://visitchiapas.com/v1/las-nubes?busqueda=2026; https://visitmexico.com/es/destino/2608/maravilla-tenejapa.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Agua Azul (MX): broader cascade system
+  - Kuang Si (LA): similar pools
+  - Semuc Champey (GT): more distinctive limestone bridge
+  - Iguazu (AR/BR): much larger spectacle
+- Individual scores:
+  - impact: 9.2 — Turquoise cascades in forested setting.
+  - uniqueness: 8.9 — Attractive cascade and river combination with peers.
+  - significance: 8.5 — Regional community natural heritage.
+  - experience: 9.0 — Bridge viewpoints and trails.
+  - depth: 8.7 — Multiple scenic river features.
+- Categories: nature 9.3, photography 9.3, adventure 9.0.
+- Overall: 89.05/100.
+- High-score challenge: Provisional sub-90 assessment, not a claim of reliable year-round water color. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate checks, numerical peer comparisons and global Python validation; current permissions not verified.
+
+## sight-mx-roberto-barrios-waterfalls — Roberto Barrios Waterfalls — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/roberto-barrios-waterfalls.yaml)
+- Action: new
+- Precise subject: Specific stepped cascades and pools near Palenque.
+- Location check: 17.34, -91.92; approximate editorial representative point, independent coordinate verification outstanding.
+- Evidence status: source-linked-unverified; overview tourism sources consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.visitchiapas.com/v2/es/blog/Conoce-Palenque-y-sus-Cascadas.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Agua Azul (MX): larger cascade landscape
+  - Kuang Si (LA): comparable pools
+  - Erawan (TH): more extensive tiers
+  - Tamasopo (MX): comparable recreational falls
+- Individual scores:
+  - impact: 9.0 — Attractive cascades and forest pools.
+  - uniqueness: 8.7 — Comparable tropical stepped waterfalls.
+  - significance: 8.3 — Regional natural site.
+  - experience: 9.0 — Swimming where permitted and viewpoints.
+  - depth: 8.5 — Several pools but focused site.
+- Categories: nature 9.2, photography 9.2, relaxation 8.9.
+- Overall: 87.35/100.
+- High-score challenge: Provisional sub-90 assessment; not credited with Palenque archaeological heritage. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate checks, numerical peer comparisons and global Python validation; current permissions not verified.
+
+## sight-mx-micos-waterfalls — Cascadas de Micos — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/micos-waterfalls.yaml)
+- Action: new
+- Precise subject: Micos river cascade sequence and authorized recreational routes.
+- Location check: 22.11, -99.12; approximate editorial representative point, independent coordinate verification outstanding.
+- Evidence status: source-linked-unverified; overview tourism sources consulted; editorial scores.
+- Sources consulted 2026-11-28: https://visitaciudadvalles.com/parajes.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Kawasan (PH): comparable canyoning
+  - Erawan (TH): broader forest waterfall trails
+  - Tamul (MX): more monumental individual fall
+  - Matacanes (MX): longer technical canyon route
+- Individual scores:
+  - impact: 8.9 — Scenic series of cascades.
+  - uniqueness: 8.7 — Comparable tropical canyon water experiences.
+  - significance: 8.3 — Regional natural importance.
+  - experience: 9.1 — Multiple guided aquatic activities under safe conditions.
+  - depth: 8.6 — Several falls and associated river scenery.
+- Categories: nature 9.1, adventure 9.2, photography 9.0.
+- Overall: 87.30/100.
+- High-score challenge: Provisional sub-90 assessment; no guarantee of safe jumps or river conditions. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate checks, numerical peer comparisons and global Python validation; current permissions not verified.
+
+## sight-mx-puente-de-dios-tamasopo — Puente de Dios Natural Arch and Pools (Tamasopo) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/puente-de-dios-tamasopo.yaml)
+- Action: new
+- Precise subject: Specific rock arch, grotto and river pools at Tamasopo; excludes similarly named sites elsewhere.
+- Location check: 21.925, -99.41; approximate editorial representative point, independent coordinate verification outstanding.
+- Evidence status: source-linked-unverified; overview tourism sources consulted; editorial scores.
+- Sources consulted 2026-11-28: https://visitmexico.com/es/itinerario/488/rutas-del-aficionado-2026-puente-de-dios-y-siete-cascaditas-de-tamasopo; https://visitaciudadvalles.com/parajes.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Semuc Champey (GT): larger natural bridge system
+  - Rio Secreto (MX): more extensive cave experience
+  - Cenote Ik Kil (MX): comparable focused water setting
+  - Tamasopo waterfalls (MX): separate cascade site
+- Individual scores:
+  - impact: 9.1 — Striking clear water and natural rock arch.
+  - uniqueness: 9.0 — Distinctive small-scale grotto setting.
+  - significance: 8.3 — Regional natural heritage.
+  - experience: 9.0 — Water-based exploration under authorized conditions.
+  - depth: 8.1 — Compact feature and pools.
+- Categories: nature 9.3, photography 9.3, adventure 8.9.
+- Overall: 88.00/100.
+- High-score challenge: Provisional sub-90 assessment; no credit for other Huasteca attractions. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate checks, numerical peer comparisons and global Python validation; current permissions not verified.
+
+## sight-mx-tamasopo-waterfalls — Cascadas de Tamasopo — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/tamasopo-waterfalls.yaml)
+- Action: new
+- Precise subject: Specific three stepped waterfalls and recreational pools, excluding Puente de Dios.
+- Location check: 21.94, -99.39; approximate editorial representative point, independent coordinate verification outstanding.
+- Evidence status: source-linked-unverified; overview tourism sources consulted; editorial scores.
+- Sources consulted 2026-11-28: https://visitaciudadvalles.com/parajes; https://visitmexico.com/es/itinerario/488/rutas-del-aficionado-2026-puente-de-dios-y-siete-cascaditas-de-tamasopo.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Roberto Barrios (MX): similar forest cascade experience
+  - Erawan (TH): more extensive tiers
+  - Kuang Si (LA): stronger visual impact
+  - Micos (MX): more adventure focused
+- Individual scores:
+  - impact: 8.8 — Scenic stepped waterfalls.
+  - uniqueness: 8.5 — Comparable freshwater cascades worldwide.
+  - significance: 8.2 — Regional nature attraction.
+  - experience: 9.0 — Swimming and relaxation when authorized.
+  - depth: 8.4 — Several complementary pools.
+- Categories: nature 9.0, photography 9.0, relaxation 9.0, family 8.8.
+- Overall: 85.95/100.
+- High-score challenge: Provisional sub-90 assessment; separate from Puente de Dios. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate checks, numerical peer comparisons and global Python validation; current permissions not verified.
+
