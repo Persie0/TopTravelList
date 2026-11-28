@@ -7022,3 +7022,10 @@ Peer links and dimensions matched to current ranking rows; individual YAML check
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration and current access.
+
+## sight-es-altamira-series — Cave of Altamira and Paleolithic Cave Art of Northern Spain — 2026-11-28 post-merge 93+ scope check
+
+- [YAML](../../../countries/ES/sights/altamira-series.yaml) · Action: source/scope check only · **source-linked-unverified**.
+- Evidence reviewed 2026-11-28: [UNESCO](https://whc.unesco.org/en/list/310/) confirms Altamira plus 17 additional decorated caves. Uniqueness 9.6, significance/history 9.7 and culture 9.6 reflect the Paleolithic art corpus, not just Altamira. Impact is artistic rather than architectural; experience/depth must distinguish original caves, restricted entrances, and replicas. No inference of universal public access.
+- Qualitative comparison leads (peer YAML ratings not independently checked): Chauvet (France): individual original cave; Lascaux (France): original/replica distinction; Cueva de las Manos (Argentina): rock art in different setting; Bhimbetka (India): broader rock-shelter complex.
+- Current I/U/S/E/D: 9.2 / 9.6 / 9.7 / 8.8 / 9.2; overall 93.40/100. All ratings retained provisionally; no coordinate or category changes. This limited review is not full international calibration or verification of current access.
