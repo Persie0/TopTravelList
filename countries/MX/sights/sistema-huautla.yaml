@@ -1,0 +1,16 @@
+id: sight-mx-sistema-huautla
+name: "Sistema Huautla Cave System"
+location:
+  country_code: MX
+  latitude: 18.1212
+  longitude: -96.8
+scores:
+  impact: 9.3
+  uniqueness: 9.6
+  significance: 9.5
+  experience: 8.1
+  depth: 9.5
+  categories:
+    nature: 9.5
+    adventure: 9.6
+    photography: 9.1

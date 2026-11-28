@@ -1,0 +1,15 @@
+id: sight-mx-naica-cave-of-crystals
+name: "Naica Cave of Crystals"
+location:
+  country_code: MX
+  latitude: 27.85082
+  longitude: -105.49637
+scores:
+  impact: 9.9
+  uniqueness: 9.9
+  significance: 9.7
+  experience: 7.8
+  depth: 8.0
+  categories:
+    nature: 9.9
+    photography: 9.8

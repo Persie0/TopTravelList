@@ -4829,3 +4829,153 @@ Peer values from country ranking tables or same-batch assessments; complete sour
 - High-score challenge: 9.7 wildlife and 9.5 significance reflect scientifically documented large feeding gatherings and conservation relevance, compared with Ningaloo and Donsol. No historical peak count assumed for a normal tour and no guaranteed encounters. No approved 10 requested.
 - Earlier decision: none.
 - Remaining verification: precise current access and geographic scope where applicable; numerical peer checks and worldwide Python validation.
+
+## sight-mx-naica-cave-of-crystals — Naica Cave of Crystals — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/naica-cave-of-crystals.yaml)
+- Action: new
+- Precise subject: Specific giant-crystal chamber in Naica mine, not adjacent Cave of Swords or entire mining complex. Extreme heat and humidity, industrial mine access and no ordinary tourist admission; no unrestricted visit implied. Intrinsic documented chamber quality assessed separately from access.
+- Location check: 27.85082, -105.49637; approximate representative point, not necessarily visitor entrance.
+- Evidence status: fact-checked; ratings remain editorial.
+- Sources consulted: https://www.livescience.com/planet-earth/geology/cave-of-crystals-the-deadly-cavern-in-mexico-dubbed-the-sistine-chapel-of-crystals (opened, 2026-11-28: coordinates, gypsum beams exceeding 11 m, chamber dimensions and severe environmental hazards); https://ojs.zrc-sazu.si/carsologica/article/view/25 (opened abstract, 2026-11-28: multidisciplinary Naica crystal dating and growth research); https://pubs.rsc.org/en/content/articlelanding/2014/cs/c3cs60320b (indexed abstract, full page blocked: giant gypsum growth and exceptional morphology).
+- Worldwide peers (qualitative, numerical peer YAML not individually refetched):
+  - Pulpí Geode (ES): smaller crystal-filled cavity with established visitor interpretation
+  - Eisriesenwelt (AT): spectacular ice rather than gypsum formations, much broader ordinary visitor route
+  - Son Doong (VN): vastly larger cave and greater expedition depth
+  - Sac Actun (MX): far greater network and archaeological breadth
+- Individual scores:
+  - impact: 9.9 — Enormous interlocking translucent mineral beams create extraordinarily rare visual scale.
+  - uniqueness: 9.9 — Natural gypsum crystals of this scale and concentration are exceptionally difficult to substitute.
+  - significance: 9.7 — Scientific studies of crystal growth and geological history support exceptional importance.
+  - experience: 7.8 — Intrinsic encounter with the chamber is extraordinary but physically limited by heat and humidity, even under specialist conditions.
+  - depth: 8.0 — A single remarkable chamber provides less breadth than multi-kilometre cave systems.
+- Categories: nature 9.9, photography 9.8.
+- Overall: 93.55/100.
+- High-score challenge: Impact, uniqueness and nature 9.9 reflect documented natural crystal scale compared with Pulpí; photography 9.8 reflects the exceptional crystal geometry; significance 9.7 reflects published mineralogical research. No approved 10 requested. No ordinary tourist access assumed.
+- Earlier decision: none.
+- Remaining verification: current access and representative coordinates where applicable; full worldwide Python validation and numerical peer checks.
+
+## sight-mx-sistema-huautla — Sistema Huautla Cave System — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/sistema-huautla.yaml)
+- Action: new
+- Precise subject: Extensive interconnected Mazateca limestone cave system; specialist scientific and technical exploration, not routine tourism or guaranteed access to any particular chamber. Representative published system location.
+- Location check: 18.1212, -96.8; approximate representative point, not necessarily visitor entrance.
+- Evidence status: fact-checked; ratings remain editorial.
+- Sources consulted: https://www.peshcaving.org/about-sistema-huautla (opened, 2026-11-28: expedition reports 1,560 m depth); https://www.mdpi.com/1424-2818/13/9/429 (opened, 2026-11-28: peer-reviewed interconnected cave passages, 1,560 m depth, specialized subterranean fauna and physical constraints); https://www.wondermondo.com/sistema-huautla/ (opened, 2026-11-28: representative coordinates and cave morphology).
+- Worldwide peers (qualitative, numerical peer YAML not individually refetched):
+  - Veryovkina Cave (GE): greater surveyed vertical extent
+  - Lamprechtsofen (AT): comparable exceptional vertical relief with distinct alpine context
+  - Mammoth Cave (US): substantially greater surveyed length and broader visitor access
+  - Sac Actun (MX): more extensive flooded passages and archaeological archives
+- Individual scores:
+  - impact: 9.3 — Large underground chambers and vertical terrain create exceptional specialist impact.
+  - uniqueness: 9.6 — One of the deepest known cave systems, with substantial interconnected passages.
+  - significance: 9.5 — Rare subterranean habitats and longstanding international research support significance.
+  - experience: 8.1 — Technical conditions constrain the intrinsic range of feasible experiences even apart from permits.
+  - depth: 9.5 — Large connected system and decades of exploration support exceptional depth.
+- Categories: nature 9.5, adventure 9.6, photography 9.1.
+- Overall: 92.55/100.
+- High-score challenge: Uniqueness 9.6, significance and depth 9.5, nature 9.5 and adventure 9.6 supported by expedition and peer-reviewed depth, complex morphology and subterranean biodiversity; compared with Veryovkina and Lamprechtsofen. No exact current worldwide rank or ordinary visitor route assumed.
+- Earlier decision: none.
+- Remaining verification: current access and representative coordinates where applicable; full worldwide Python validation and numerical peer checks.
+
+## sight-mx-paricutin-volcano — Parícutin Volcano and San Juan Parangaricutiro Lava Landscape — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/paricutin-volcano.yaml)
+- Action: new
+- Precise subject: Coherent 1943–1952 volcanic cone, lava field and surviving church remains; not a separate duplicate church or entire volcanic field.
+- Location check: 19.49306, -102.25139; approximate representative point, not necessarily visitor entrance.
+- Evidence status: source-linked-unverified; ratings remain editorial.
+- Sources consulted: https://iugs-geoheritage.org/geoheritage_sites/paricutin-volcano/ (opened, 2026-11-28: coordinates, geoheritage, scientifically documented birth and surviving church); https://www.si.edu/object/siris_sic_14843 (indexed Smithsonian archive: contemporary church photograph and destruction); https://volcanoes.sdsu.edu/Paricutin.html (indexed academic account: 1943–1952 cycle and buried village).
+- Worldwide peers (qualitative, numerical peer YAML not individually refetched):
+  - Vesuvius and Pompeii (IT): greater archaeological city preservation but different historical encounter
+  - Kilauea (US): broader active volcanism and visitor landscape
+  - Eldfell (IS): comparable documented modern eruption and settlement impact
+  - Cerro Negro (NI): comparable young cinder cone with narrower historical scope
+- Individual scores:
+  - impact: 9.3 — Striking cone and black lava surrounding church remnants give exceptional combined visual impact.
+  - uniqueness: 9.5 — Scientifically witnessed volcanic birth and surviving village remains create rare conjunction.
+  - significance: 9.6 — IUGS recognition and documentation of eruption from birth support major scientific and historical value.
+  - experience: 9.1 — Volcanic landscape and human history combine into rewarding exploration.
+  - depth: 8.9 — Cone, lava field and historic remains provide complementary contexts.
+- Categories: nature 9.3, history 9.5, photography 9.4, adventure 9.0.
+- Overall: 93.40/100.
+- High-score challenge: Uniqueness 9.5, significance 9.6 and history 9.5 reflect the exceptional documented volcanic birth and burial of settlements, without equating the ruins to Pompeii or claiming ongoing eruption.
+- Earlier decision: none.
+- Remaining verification: current access and representative coordinates where applicable; full worldwide Python validation and numerical peer checks.
+
+## sight-mx-pico-de-orizaba — Pico de Orizaba (Citlaltépetl) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/pico-de-orizaba.yaml)
+- Action: new
+- Precise subject: Mountain and associated high-altitude volcanic landscape, including summit mountaineering as a specialist experience; not a claim of safe or open routes. No exact elevation chosen due to source disagreement.
+- Location check: 19.03, -97.27; approximate representative point, not necessarily visitor entrance.
+- Evidence status: fact-checked; ratings remain editorial.
+- Sources consulted: https://volcano.si.edu/volcano.cfm?vn=341100 (opened, 2026-11-28: coordinates, Mexico highest peak and North America highest volcano, geological structure); https://descubreanp.conanp.gob.mx/en/conanp/ANP?suri=123 (opened, 2026-11-28: protected mountain and visitor attraction list including ascent).
+- Worldwide peers (qualitative, numerical peer YAML not individually refetched):
+  - Kilimanjaro (TZ): stronger globally iconic trekking and climatic zones
+  - Cotopaxi (EC): comparable high volcano and distinctive Andean cone
+  - Mount Rainier (US): broader established alpine recreation
+  - Mount Fuji (JP): much stronger global cultural symbolism
+- Individual scores:
+  - impact: 9.3 — High volcanic cone and dramatic relief create outstanding mountain scenery.
+  - uniqueness: 9.0 — Highest North American volcano is distinctive but has comparable high volcanic peaks worldwide.
+  - significance: 9.2 — National geographic prominence and volcanic geology support significance.
+  - experience: 9.0 — Qualified mountaineering and mountain scenery offer rewarding experiences.
+  - depth: 9.1 — Multiple elevational zones and substantial ascent provide depth.
+- Categories: nature 9.4, adventure 9.4, photography 9.3.
+- Overall: 91.40/100.
+- High-score challenge: 90+ total justified by high relief and continental volcanic prominence alongside comparable high volcanoes, not by national height rank alone. No 9.5+ fields.
+- Earlier decision: none.
+- Remaining verification: current access and representative coordinates where applicable; full worldwide Python validation and numerical peer checks.
+
+## sight-mx-sotano-de-las-golondrinas — Sótano de las Golondrinas (Cave of Swallows) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/sotano-de-las-golondrinas.yaml)
+- Action: new
+- Precise subject: Single open karst shaft and bird emergence/return viewed from rim; not entire Huasteca. No credit for unconfirmed public technical descent, no guaranteed bird spectacle.
+- Location check: 21.6, -99.0991; approximate representative point, not necessarily visitor entrance.
+- Evidence status: fact-checked; ratings remain editorial.
+- Sources consulted: https://segam.slp.gob.mx/areas-naturales-protegidas/sotano-de-las-golondrinas/ (opened, 2026-11-28: protected monument, location and native swift/parakeet fauna); https://www.wondermondo.com/sotano-de-las-golondrinas/ (opened, 2026-11-28: coordinates, 333–372 m entrance shaft, separate total cave depth and spiralling bird flights).
+- Worldwide peers (qualitative, numerical peer YAML not individually refetched):
+  - Xiaozhai Tiankeng (CN): substantially greater giant sinkhole scale
+  - Škocjan Caves (SI): larger accessible underground river landscape
+  - Deer Cave (MY): more extensive accessible cave with bat emergence
+  - Sótano del Barro (MX): deeper freefall shaft, different wildlife context
+- Individual scores:
+  - impact: 9.5 — Deep open abyss and spiralling birds produce exceptional visual spectacle.
+  - uniqueness: 9.3 — Combination of major vertical karst shaft and roosting birds is rare.
+  - significance: 9.0 — Protected geomorphology and fauna support outstanding significance.
+  - experience: 9.1 — Rim viewing and wildlife observation provide memorable experience.
+  - depth: 8.0 — Single feature and observation window limit independent breadth.
+- Categories: nature 9.5, wildlife 9.3, photography 9.4, adventure 9.0.
+- Overall: 91.40/100.
+- High-score challenge: Impact and nature 9.5 supported by several-hundred-metre shaft plus distinctive fauna; compared with Xiaozhai, Deer Cave and Sótano del Barro. No world-record or guaranteed descent claim.
+- Earlier decision: none.
+- Remaining verification: current access and representative coordinates where applicable; full worldwide Python validation and numerical peer checks.
+
+## sight-mx-tamul-waterfall — Tamul Waterfall and River Canyon — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/tamul-waterfall.yaml)
+- Action: new
+- Precise subject: Single major cascade and immediate river approach, not all Huasteca waterfalls. Water flow and access vary.
+- Location check: 21.80127, -99.18002; approximate representative point, not necessarily visitor entrance.
+- Evidence status: source-linked-unverified; ratings remain editorial.
+- Sources consulted: https://huastecapotosina.org/en/guia/tamul-waterfall (opened, 2026-11-28: reported 105 m cascade and boat approach); https://mapcarta.com/N2794816185 (opened, 2026-11-28: coordinates).
+- Worldwide peers (qualitative, numerical peer YAML not individually refetched):
+  - Iguazú (AR/BR): much greater cascade system and global impact
+  - Ban Gioc (VN): broader terraced waterfall spectacle
+  - Krimml (AT): greater multistage height and trail depth
+  - Big Rock Falls (BZ): smaller forest cascade and pool
+- Individual scores:
+  - impact: 9.0 — Tall cascade over turquoise canyon river creates excellent impact.
+  - uniqueness: 8.6 — Waterfall and river approach are distinctive but have global peers.
+  - significance: 7.9 — Regional natural importance without established exceptional scientific significance.
+  - experience: 9.0 — Boat and river scenery support a varied visit.
+  - depth: 8.4 — Cascade and canyon approach give breadth but remain a single outing.
+- Categories: nature 9.1, photography 9.2, adventure 8.9.
+- Overall: 86.20/100.
+- High-score challenge: No 90+ total or 9.5+ field.
+- Earlier decision: none.
+- Remaining verification: current access and representative coordinates where applicable; full worldwide Python validation and numerical peer checks.

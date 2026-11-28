@@ -1,0 +1,17 @@
+id: sight-mx-paricutin-volcano
+name: "Parícutin Volcano and San Juan Parangaricutiro Lava Landscape"
+location:
+  country_code: MX
+  latitude: 19.49306
+  longitude: -102.25139
+scores:
+  impact: 9.3
+  uniqueness: 9.5
+  significance: 9.6
+  experience: 9.1
+  depth: 8.9
+  categories:
+    nature: 9.3
+    history: 9.5
+    photography: 9.4
+    adventure: 9.0

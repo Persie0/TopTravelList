@@ -1,0 +1,16 @@
+id: sight-mx-tamul-waterfall
+name: "Tamul Waterfall and River Canyon"
+location:
+  country_code: MX
+  latitude: 21.80127
+  longitude: -99.18002
+scores:
+  impact: 9.0
+  uniqueness: 8.6
+  significance: 7.9
+  experience: 9.0
+  depth: 8.4
+  categories:
+    nature: 9.1
+    photography: 9.2
+    adventure: 8.9
