@@ -1,0 +1,16 @@
+id: sight-bz-travellers-rum-heritage-centre
+name: "Travellers Liquors Heritage Centre"
+location:
+  country_code: BZ
+  latitude: 17.51107
+  longitude: -88.21432
+scores:
+  impact: 6.9
+  uniqueness: 7.4
+  significance: 7.6
+  experience: 7.7
+  depth: 7.0
+  categories:
+    history: 8.1
+    culture: 8.0
+    food: 7.9

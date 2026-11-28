@@ -1,0 +1,16 @@
+id: sight-bz-runaway-creek-nature-reserve
+name: "Runaway Creek Nature Reserve"
+location:
+  country_code: BZ
+  latitude: 17.366667
+  longitude: -88.583333
+scores:
+  impact: 8.1
+  uniqueness: 8.4
+  significance: 8.8
+  experience: 7.7
+  depth: 8.3
+  categories:
+    nature: 8.9
+    wildlife: 9.0
+    photography: 8.5

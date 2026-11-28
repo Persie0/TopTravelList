@@ -1,0 +1,16 @@
+id: sight-bz-placencia-lobsterfest
+name: "Placencia Lobsterfest"
+location:
+  country_code: BZ
+  latitude: 16.521
+  longitude: -88.365
+scores:
+  impact: 7.9
+  uniqueness: 8.0
+  significance: 7.6
+  experience: 8.8
+  depth: 8.0
+  categories:
+    food: 9.0
+    culture: 8.5
+    nightlife: 8.3

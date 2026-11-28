@@ -1,0 +1,16 @@
+id: sight-bz-caye-caulker-seahorse-habitat
+name: "Caye Caulker Seahorse Habitat Viewing"
+location:
+  country_code: BZ
+  latitude: 17.74539
+  longitude: -88.0255
+scores:
+  impact: 7.2
+  uniqueness: 7.8
+  significance: 7.0
+  experience: 7.8
+  depth: 6.3
+  categories:
+    wildlife: 8.3
+    nature: 7.9
+    photography: 8.0

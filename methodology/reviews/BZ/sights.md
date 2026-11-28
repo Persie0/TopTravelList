@@ -2798,3 +2798,228 @@ Nine additions, one researched fact-checked high-score decision and eight provis
 - High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
 - Earlier decision: none.
 - Remaining verification: complete independent source triangulation, precise location and access where applicable, global Python checks.
+
+## sight-bz-la-ruta-maya-river-challenge — La Ruta Maya Belize River Challenge — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/la-ruta-maya-river-challenge.yaml)
+- Action: new
+- Precise subject: Annual four-day canoe race and riverside festivities, not an ordinary river cruise; representative starting bridge. Finish and route details may change.
+- Location check: 17.156828, -89.068307; approximate representative point.
+- Evidence status: source-linked-unverified; indexed descriptions and selected opened pages, not complete independent fact-check.
+- Sources consulted 2026-11-28 (indexed excerpts or opened pages): https://larutamaya.bz/about-the-race/; https://larutamaya.bz/the-race/project-overview/; https://www.travelbelize.org/blog/la-ruta-maya-belize-river-challenge/; https://www.breakingbelizenews.com/2026/03/06/ruta-maya-belize-river-challenge-2026-launches-with-58-teams-in-8-categories-as-belize-watches/; https://bridgemeister.com/bridge.php?bid=1634.
+- Worldwide peers (qualitative, not independently refetched):
+  - Dusi Canoe Marathon (ZA): comparable multiday river competition
+  - International Sella Descent (ES): greater international festive canoe profile
+  - Yukon River Quest (CA): greater wilderness endurance scale
+  - Belize City Carnival (BZ): comparable national social celebration, different activity
+- Individual scores:
+  - impact: 8.7 — River competition and cheering communities create memorable spectacle.
+  - uniqueness: 8.8 — Cross-country paddling event rooted in river history is distinctive.
+  - significance: 8.5 — Environmental awareness and national tradition give cultural significance.
+  - experience: 9.0 — Participation and watching stages provide rewarding engagement.
+  - depth: 8.8 — Multiple days and river settlements give substantial breadth.
+- Categories: adventure 9.2, culture 8.8, photography 8.6, nature 8.5.
+- Overall: 87.40/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete source triangulation, precise geographic location and access, worldwide Python checks.
+
+## sight-bz-columbia-river-forest-reserve — Columbia River Forest Reserve — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/columbia-river-forest-reserve.yaml)
+- Action: new
+- Precise subject: Extensive southern Maya Mountain forest landscape, excluding adjacent Bladen and other reserves. No established ordinary public trail network assumed; mapped representative point.
+- Location check: 16.39105, -89.05775; approximate representative point.
+- Evidence status: source-linked-unverified; indexed descriptions and selected opened pages, not complete independent fact-check.
+- Sources consulted 2026-11-28 (indexed excerpts or opened pages): https://www.travelbelize.org/attraction/columbia-forest-reserve/; https://www.keybiodiversityareas.org/en/site/factsheet/20761; https://mapcarta.com/29736480.
+- Worldwide peers (qualitative, not independently refetched):
+  - Manú (PE): much larger Amazonian-to-Andean biodiversity landscape
+  - Corcovado (CR): more established wildlife visitor experience
+  - Sierra de las Minas (GT): wider elevational diversity
+  - Bladen (BZ): comparable strict tropical forest conservation
+- Individual scores:
+  - impact: 8.7 — Large rugged rainforest landscape offers immersion.
+  - uniqueness: 8.8 — Extensive relatively continuous tropical forest is regionally distinctive.
+  - significance: 9.1 — Maya Mountain habitat connectivity supports strong conservation significance.
+  - experience: 7.9 — Intrinsic wilderness experience has merit without crediting unsupported visitor infrastructure.
+  - depth: 8.9 — Extensive varied terrain offers substantial ecological exploration.
+- Categories: nature 9.3, wildlife 9.2, adventure 8.6.
+- Overall: 87.05/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete source triangulation, precise geographic location and access, worldwide Python checks.
+
+## sight-bz-runaway-creek-nature-reserve — Runaway Creek Nature Reserve — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/runaway-creek-nature-reserve.yaml)
+- Action: new
+- Precise subject: Private limestone-karst forest conservation and research landscape; no guarantee of ordinary public access or wildlife sightings. Approximate reserve coordinates from published tapir study.
+- Location check: 17.366667, -88.583333; approximate representative point.
+- Evidence status: source-linked-unverified; indexed descriptions and selected opened pages, not complete independent fact-check.
+- Sources consulted 2026-11-28 (indexed excerpts or opened pages): https://runawaycreekbelize.org/about/; https://runawaycreekbelize.org/wildlife/birds/; https://therya.mastozoologiamexicana.com/index.php/THERYA/article/download/969/html_439?inline=1.
+- Worldwide peers (qualitative, not independently refetched):
+  - Gunung Mulu (MY): much greater karst spectacle
+  - Corcovado (CR): larger established wildlife wilderness
+  - Los Tarrales (GT): more established guided birding
+  - Tapir Mountain (BZ): comparable limestone forest
+- Individual scores:
+  - impact: 8.1 — Karst hills and forest provide natural immersion.
+  - uniqueness: 8.4 — Private research-focused forest and wildlife context add distinction.
+  - significance: 8.8 — Conservation and published wildlife studies support significance.
+  - experience: 7.7 — Nature observation has intrinsic value without assuming public tours.
+  - depth: 8.3 — Several habitats support meaningful ecological learning.
+- Categories: nature 8.9, wildlife 9.0, photography 8.5.
+- Overall: 82.75/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete source triangulation, precise geographic location and access, worldwide Python checks.
+
+## sight-bz-living-maya-experience-big-falls — Living Maya Experience in Big Falls — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/living-maya-experience-big-falls.yaml)
+- Action: new
+- Precise subject: Family-hosted Maya culture, traditional home life, hands-on activities and meals in Big Falls village; not a waterfall, archaeological site, or all village experiences. Coordinate from local directory.
+- Location check: 16.25606, -88.88506; approximate representative point.
+- Evidence status: source-linked-unverified; indexed descriptions and selected opened pages, not complete independent fact-check.
+- Sources consulted 2026-11-28 (indexed excerpts or opened pages): https://livingmayaexperience.com/tours/; https://livingmayaexperience.com/about/; https://www.lonelyplanet.com/points-of-interest/living-maya-experience/1529779; https://belize.worldplaces.me/landmarks-in-punta-gorda/21245871-the-living-maya-experience.html.
+- Worldwide peers (qualitative, not independently refetched):
+  - Taquile Island weaving (PE): wider community cultural landscape
+  - Teotitlán del Valle workshops (MX): stronger specialist textile emphasis
+  - San Juan La Laguna artisan workshops (GT): broader artisan network
+  - San Antonio Women's Cooperative (BZ): similar but distinct local tradition
+- Individual scores:
+  - impact: 7.9 — Personal family-hosted learning is memorable.
+  - uniqueness: 8.5 — Traditional home-based cultural exchange has distinctive local character.
+  - significance: 8.5 — Living Maya knowledge transmission has substantial importance.
+  - experience: 8.9 — Cooking and practical activities create meaningful engagement.
+  - depth: 8.3 — Several aspects of daily life sustain cultural discovery.
+- Categories: culture 9.2, food 8.9, history 8.5.
+- Overall: 83.60/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete source triangulation, precise geographic location and access, worldwide Python checks.
+
+## sight-bz-placencia-lobsterfest — Placencia Lobsterfest — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/placencia-lobsterfest.yaml)
+- Action: new
+- Precise subject: Recurring beach-community food festival, not Placencia Beach itself or another town's lobster event; representative beach-village point from existing inventory, not a confirmed festival entrance.
+- Location check: 16.521, -88.365; approximate representative point.
+- Evidence status: source-linked-unverified; indexed descriptions and selected opened pages, not complete independent fact-check.
+- Sources consulted 2026-11-28 (indexed excerpts or opened pages): https://www.placencia.com/events/placencia-lobsterfest/; https://www.travelbelize.org/blog/from-sea-to-celebration-lobster-season-in-belize/.
+- Worldwide peers (qualitative, not independently refetched):
+  - Maine Lobster Festival (US): larger globally recognized lobster event
+  - Galway International Oyster Festival (IE): more internationally established seafood celebration
+  - O Grove Seafood Festival (ES): broader seafood variety
+  - Punta Gorda Chocolate Festival (BZ): comparable local food heritage
+- Individual scores:
+  - impact: 7.9 — Beach festivities and communal dining create lively impressions.
+  - uniqueness: 8.0 — Fishing-community cuisine adds character to a familiar festival type.
+  - significance: 7.6 — Local livelihood and food traditions have regional importance.
+  - experience: 8.8 — Varied lobster dishes and live entertainment provide engagement.
+  - depth: 8.0 — Food and fishing-related festivities offer several activities.
+- Categories: food 9.0, culture 8.5, nightlife 8.3.
+- Overall: 80.10/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete source triangulation, precise geographic location and access, worldwide Python checks.
+
+## sight-bz-san-pedro-lobsterfest — San Pedro Lobster Fest — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/san-pedro-lobsterfest.yaml)
+- Action: new
+- Precise subject: San Pedro's own restaurant-based lobster festival and related festivities, distinct from Placencia's beach event; town central park is representative only, not guaranteed event venue.
+- Location check: 17.91944, -87.96166; approximate representative point.
+- Evidence status: source-linked-unverified; indexed descriptions and selected opened pages, not complete independent fact-check.
+- Sources consulted 2026-11-28 (indexed excerpts or opened pages): https://www.travelbelize.org/blog/from-sea-to-celebration-lobster-season-in-belize/; https://mapcarta.com/W223253765.
+- Worldwide peers (qualitative, not independently refetched):
+  - Maine Lobster Festival (US): stronger international festival identity
+  - Galway Oyster Festival (IE): different established seafood tradition
+  - O Grove Seafood Festival (ES): broader gastronomic scope
+  - Placencia Lobsterfest (BZ): separate beach-centred festival
+- Individual scores:
+  - impact: 7.8 — Island celebration and seafood experiences create strong atmosphere.
+  - uniqueness: 7.9 — Restaurant-hopping format adds local character but has substitutes.
+  - significance: 7.5 — Fishing-season traditions support local cultural significance.
+  - experience: 8.7 — Tastings and events provide engaging gastronomic exploration.
+  - depth: 8.2 — Distributed participating venues provide breadth.
+- Categories: food 9.0, nightlife 8.5, culture 8.4.
+- Overall: 79.40/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete source triangulation, precise geographic location and access, worldwide Python checks.
+
+## sight-bz-green-iguana-conservation-project — Green Iguana Conservation Project — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/green-iguana-conservation-project.yaml)
+- Action: new
+- Precise subject: San Ignacio's dedicated green iguana conservation and education project, not the resort or Belize Zoo; no promise of animal handling.
+- Location check: 17.15362, -89.06838; approximate representative point.
+- Evidence status: source-linked-unverified; indexed descriptions and selected opened pages, not complete independent fact-check.
+- Sources consulted 2026-11-28 (indexed excerpts or opened pages): https://www.travelbelize.org/attraction/green-iguana-conservation-project/; https://www.sanignaciobelize.com/belize-iguana-project/; https://mapcarta.com/N4530731093.
+- Worldwide peers (qualitative, not independently refetched):
+  - Charles Darwin Research Station (EC): much greater conservation significance
+  - Tortugranja Isla Mujeres (MX): analogous focused reptile conservation historically
+  - Sepilok Orangutan Rehabilitation Centre (MY): broader iconic rehabilitation experience
+  - Belize Zoo (BZ): wider native fauna
+- Individual scores:
+  - impact: 7.4 — Close observation and educational interpretation offer memorable encounters.
+  - uniqueness: 7.8 — Single-species conservation centres have many international counterparts.
+  - significance: 8.0 — Local conservation and education support significance.
+  - experience: 8.5 — Guided learning is engaging for families.
+  - depth: 7.4 — Focused species remit limits breadth.
+- Categories: wildlife 8.8, family 8.5, nature 8.1.
+- Overall: 77.85/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete source triangulation, precise geographic location and access, worldwide Python checks.
+
+## sight-bz-caye-caulker-seahorse-habitat — Caye Caulker Seahorse Habitat Viewing — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/caye-caulker-seahorse-habitat.yaml)
+- Action: new
+- Precise subject: Small near-shore seahorse observation area by Iguana Reef Inn; informal habitat, not legally designated marine reserve, feeding experience, or hotel. Sightings not guaranteed.
+- Location check: 17.74539, -88.0255; approximate representative point.
+- Evidence status: source-linked-unverified; indexed descriptions and selected opened pages, not complete independent fact-check.
+- Sources consulted 2026-11-28 (indexed excerpts or opened pages): https://www.fodors.com/world/mexico-and-central-america/belize/the-cayes-and-atolls/places/caye-caulker/hotels?keywords=upscale; https://sallysees.com/things-to-do-in-caye-caulker/; https://mapcarta.com/N6983350585.
+- Worldwide peers (qualitative, not independently refetched):
+  - Lembeh Strait (ID): far greater marine macro diversity
+  - Dauin (PH): more extensive macro diving
+  - Studland Bay seahorse habitat (GB): analogous small-scale habitat interest
+  - Mexico Rocks (BZ): broader reef wildlife viewing
+- Individual scores:
+  - impact: 7.2 — Small charismatic marine creatures offer intimate interest.
+  - uniqueness: 7.8 — Accessible seahorse habitat is distinctive but not globally unique.
+  - significance: 7.0 — No major independent conservation designation is established.
+  - experience: 7.8 — Shallow-water observation is appealing when animals are present.
+  - depth: 6.3 — Very small area and narrow subject limit exploration.
+- Categories: wildlife 8.3, nature 7.9, photography 8.0.
+- Overall: 73.10/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete source triangulation, precise geographic location and access, worldwide Python checks.
+
+## sight-bz-travellers-rum-heritage-centre — Travellers Liquors Heritage Centre — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/travellers-rum-heritage-centre.yaml)
+- Action: new
+- Precise subject: Distillery heritage exhibition and production history, not retail or the whole Belize City tour. Representative directory point; current tour arrangements not verified.
+- Location check: 17.51107, -88.21432; approximate representative point.
+- Evidence status: source-linked-unverified; indexed descriptions and selected opened pages, not complete independent fact-check.
+- Sources consulted 2026-11-28 (indexed excerpts or opened pages): https://www.travelbelize.org/blog/best-things-do-belize-citybest-things-to-do-in-belize-city/; https://www.onebarrelrum.com/contact-us; https://belize.worldplaces.me/review/91663929-traveller-s-liquors-heritage-center.html.
+- Worldwide peers (qualitative, not independently refetched):
+  - Havana Club Museum of Rum (CU): broader internationally known rum history
+  - Mount Gay Visitor Centre (BB): older global rum heritage
+  - Appleton Estate (JM): larger established estate experience
+  - Museum of Belize (BZ): broader national history
+- Individual scores:
+  - impact: 6.9 — Historic production interpretation offers modest visual impact.
+  - uniqueness: 7.4 — Belize-specific distilling heritage adds distinctiveness.
+  - significance: 7.6 — Local industrial history supports regional significance.
+  - experience: 7.7 — Exhibits and guided interpretation can engage visitors.
+  - depth: 7.0 — Single producer's history limits scope.
+- Categories: history 8.1, culture 8.0, food 7.9.
+- Overall: 72.95/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete source triangulation, precise geographic location and access, worldwide Python checks.
