@@ -1,0 +1,16 @@
+id: sight-mx-guadalupe-canyon-hot-springs
+name: "Guadalupe Canyon Hot Springs"
+location:
+  country_code: MX
+  latitude: 32.1584
+  longitude: -115.770333
+scores:
+  impact: 8.2
+  uniqueness: 8.2
+  significance: 7.5
+  experience: 8.7
+  depth: 7.7
+  categories:
+    nature: 8.7
+    relaxation: 9.0
+    photography: 8.5

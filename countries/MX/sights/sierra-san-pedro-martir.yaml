@@ -1,0 +1,17 @@
+id: sight-mx-sierra-san-pedro-martir
+name: "Sierra de San Pedro Mártir National Park"
+location:
+  country_code: MX
+  latitude: 30.934
+  longitude: -115.4413
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.8
+  depth: 9.0
+  categories:
+    nature: 9.4
+    wildlife: 9.3
+    photography: 9.2
+    adventure: 9.1

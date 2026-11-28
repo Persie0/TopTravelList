@@ -6158,3 +6158,232 @@ Peer values from country ranking tables or same-batch assessments; complete sour
 ## Pass 424 scope screening — 2026-11-28
 
 - Broad Lacandon Jungle not duplicated as another record: Montes Azules and the existing Lacantún–Usumacinta river landscape have distinct scoped assessments; Laguna Miramar has a narrower lake-specific scope. Existing archaeological sites remain separate. El Ocote excludes the specific Arco del Tiempo encounter.
+
+## sight-mx-sierra-san-pedro-martir — Sierra de San Pedro Mártir National Park — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/sierra-san-pedro-martir.yaml)
+- Action: new
+- Precise subject: Protected high mountain conifer forest, panoramic landscape and condor conservation; astronomical heritage is complementary, not unrestricted telescope access or guaranteed wildlife. Separate from specialist Picacho summit ascent.
+- Location check: 30.934, -115.4413; source-linked approximate representative point.
+- Evidence status: source-linked-unverified; opened and indexed material as indicated, ratings editorial; full independent fact-check incomplete.
+- Sources consulted 2026-11-28: https://descubreanp.conanp.gob.mx/swb/conanp/ANP?suri=157 (opened: trails, condor habitat, mountain panorama, observatory); https://www.astrossp.unam.mx/en/users/useful-information-for-visiting-astronomers (opened: actual astronomy facility within conifer forest); https://mapcarta.com/Sierra_de_San_Pedro_Martir_National_Park (opened: mapped park point).
+- Worldwide peers (qualitative, numerical peer scores not refetched):
+  - Great Basin National Park (US): comparable high desert mountain and night skies
+  - Sierra Nevada (ES): greater high-elevation range and alpine ecology
+  - Mount Kinabalu (MY): substantially greater tropical biodiversity
+  - Sierra Gorda (MX): broader variety of vegetation
+- Individual scores:
+  - impact: 9.1 — High forested ridges above arid peninsula create outstanding contrast.
+  - uniqueness: 9.0 — Combination of isolated conifer forest, condor habitat and astronomical setting is unusual.
+  - significance: 9.2 — Condor recovery habitat and nationally important scientific landscape justify high significance.
+  - experience: 8.8 — Trails and viewpoints support rewarding exploration, without assuming observatory admission.
+  - depth: 9.0 — Multiple mountain habitats and viewpoints support sustained visits.
+- Categories: nature 9.4, wildlife 9.3, photography 9.2, adventure 9.1.
+- Overall: 90.40/100.
+- High-score challenge: 90+ candidate checked against official conservation and astronomy sources; the narrowly outstanding total reflects combined landscape and conservation merits, not guaranteed condor sightings or telescope use. No 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: full triangulation, precise location and access where applicable, worldwide Python checks and numerical peer checks.
+
+## sight-mx-sierra-la-laguna — Sierra La Laguna Biosphere Reserve — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/sierra-la-laguna.yaml)
+- Action: new
+- Precise subject: Protected southern Baja mountain forest and canyons, not Cabo beaches or neighboring marine reserves. Mapped representative point; core zone routes regulated.
+- Location check: 23.5936, -109.9686; source-linked approximate representative point.
+- Evidence status: source-linked-unverified; opened and indexed material as indicated, ratings editorial; full independent fact-check incomplete.
+- Sources consulted 2026-11-28: https://descubreanp.conanp.gob.mx/en/conanp/ANP?suri=162 (opened: pine-oak forest, trails, water catchment); https://www.keybiodiversityareas.org/en/site/factsheet/10090/site (indexed: regional biodiversity); https://mapcarta.com/Sierra_la_Laguna_Biosphere_Reserve (opened: reserve coordinate).
+- Worldwide peers (qualitative, numerical peer scores not refetched):
+  - Great Basin (US): similar dryland mountain contrast
+  - Sierra de las Minas (GT): greater moist forest and elevational diversity
+  - Sierra Nevada (ES): greater alpine scale
+  - Sierra Gorda (MX): greater vegetation diversity
+- Individual scores:
+  - impact: 8.9 — Mountain forests above desert and coastal plains offer impressive contrast.
+  - uniqueness: 8.9 — Isolated southern peninsular forest ecosystem is distinctive.
+  - significance: 9.2 — Endemic species and watershed function give high ecological significance.
+  - experience: 8.7 — Authorized hiking and birding provide meaningful exploration.
+  - depth: 9.0 — Canyon and forest habitats support breadth.
+- Categories: nature 9.3, wildlife 9.2, adventure 9.0, photography 9.0.
+- Overall: 89.40/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: full triangulation, precise location and access where applicable, worldwide Python checks and numerical peer checks.
+
+## sight-mx-medanos-de-samalayuca — Médanos de Samalayuca Dunes — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/medanos-de-samalayuca.yaml)
+- Action: new
+- Precise subject: Protected dune field and immediate desert landscape, not the entire Chihuahuan Desert. Point at mapped dune visitor site; no unrestricted motorized activity assumed.
+- Location check: 31.34287, -106.41951; source-linked approximate representative point.
+- Evidence status: source-linked-unverified; opened and indexed material as indicated, ratings editorial; full independent fact-check incomplete.
+- Sources consulted 2026-11-28: https://descubreanp.conanp.gob.mx/swb/conanp/ANP?suri=110 (opened: protected dune landscape, 63,000+ ha protected area, trails); https://mapcarta.com/N7799230085 (opened: dune location).
+- Worldwide peers (qualitative, numerical peer scores not refetched):
+  - Sossusvlei (NA): greater iconic dune relief
+  - White Sands (US): more distinctive gypsum dunes
+  - Erg Chebbi (MA): comparable sand-sea experience
+  - El Pinacate (MX): greater volcanic and dune landscape diversity
+- Individual scores:
+  - impact: 8.9 — Expansive pale dunes yield strong desert scenery.
+  - uniqueness: 8.6 — Large dune field is distinctive but international peers exist.
+  - significance: 8.5 — Protected Chihuahuan desert ecosystems support significance.
+  - experience: 8.8 — Dune observation and permitted walking offer rewarding experiences.
+  - depth: 8.5 — Dunes, slopes and cactus habitats add breadth.
+- Categories: nature 9.0, photography 9.2, adventure 8.9.
+- Overall: 86.90/100.
+- High-score challenge: No 90+ overall or 9.5+ field; no claim that entire protected area is pure dune coverage. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: full triangulation, precise location and access where applicable, worldwide Python checks and numerical peer checks.
+
+## sight-mx-mapimi-biosphere-reserve — Mapimí Biosphere Reserve — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/mapimi-biosphere-reserve.yaml)
+- Action: new
+- Precise subject: Chihuahuan Desert reserve and endemic tortoise habitat, not Ojuela mine or claims of supernatural phenomena in the Zone of Silence. UNESCO representative point.
+- Location check: 26.6, -103.73; source-linked approximate representative point.
+- Evidence status: source-linked-unverified; opened and indexed material as indicated, ratings editorial; full independent fact-check incomplete.
+- Sources consulted 2026-11-28: https://www.unesco.org/en/mab/mapimi (opened: basin landscape, endemic Bolson tortoise and conservation research, coordinates).
+- Worldwide peers (qualitative, numerical peer scores not refetched):
+  - Big Bend (US): more dramatic canyon and mountain landscapes
+  - Kgalagadi (ZA/BW): much greater large-animal encounters
+  - Saguaro (US): more iconic cactus landscape
+  - Cuatrociénegas (MX): more distinctive aquatic habitats
+- Individual scores:
+  - impact: 8.2 — Open desert basin offers a strong but understated landscape.
+  - uniqueness: 8.6 — Endemic dryland ecology distinguishes the reserve.
+  - significance: 9.2 — Longstanding biosphere conservation and Bolson tortoise habitat justify high significance.
+  - experience: 8.1 — Nature observation is meaningful but no extensive visitor facilities assumed.
+  - depth: 8.8 — Desert scrub and grassland habitats support ecological exploration.
+- Categories: nature 9.0, wildlife 9.2, photography 8.6.
+- Overall: 85.45/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: full triangulation, precise location and access where applicable, worldwide Python checks and numerical peer checks.
+
+## sight-mx-picacho-del-diablo — Picacho del Diablo Mountain — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/picacho-del-diablo.yaml)
+- Action: new
+- Precise subject: Specific highest summit of Baja California peninsula and specialist ascent, narrower than the national park; no current route safety or access guarantee.
+- Location check: 30.99268, -115.37506; source-linked approximate representative point.
+- Evidence status: source-linked-unverified; opened and indexed material as indicated, ratings editorial; full independent fact-check incomplete.
+- Sources consulted 2026-11-28: https://mapcarta.com/35961604 (opened: summit coordinates and elevation); https://descubreanp.conanp.gob.mx/swb/conanp/ANP?suri=157 (opened: peak views and park context).
+- Worldwide peers (qualitative, numerical peer scores not refetched):
+  - Mount Whitney (US): higher and more iconic mountain
+  - Ben Nevis (GB): similar regional highest summit, different climate
+  - Mount Olympus (GR): stronger mythology and cultural significance
+  - Pico de Orizaba (MX): much greater volcanic elevation
+- Individual scores:
+  - impact: 8.8 — Rugged summit and relief create striking mountain views.
+  - uniqueness: 8.5 — Peninsular high point is distinctive but other mountain ascents substitute.
+  - significance: 8.4 — Regional geographic importance supports significance.
+  - experience: 8.5 — Specialist ascent offers a meaningful challenge.
+  - depth: 8.4 — Single summit and associated terrain provide moderate depth.
+- Categories: adventure 9.1, nature 8.9, photography 9.0.
+- Overall: 85.60/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: full triangulation, precise location and access where applicable, worldwide Python checks and numerical peer checks.
+
+## sight-mx-la-rumorosa-scenic-road — La Rumorosa Scenic Highway and Rock Formations — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/la-rumorosa-scenic-road.yaml)
+- Action: new
+- Precise subject: Scenic road section and granite escarpment, not entire Sierra de Juárez or ordinary transport. Representative mapped viewpoint, not a route instruction.
+- Location check: 32.57842, -116.03158; source-linked approximate representative point.
+- Evidence status: source-linked-unverified; opened and indexed material as indicated, ratings editorial; full independent fact-check incomplete.
+- Sources consulted 2026-11-28: https://www.bajacalifornia.travel/en/editorial/la-rumorosa-a-unique-road (indexed: winding road and rocks); https://visitmexico.com/en/destino/18255/esla-rumorosaenla-rumorosa (indexed: mountain and desert panorama); https://mapcarta.com/N6069238966 (opened: viewpoint coordinate).
+- Worldwide peers (qualitative, numerical peer scores not refetched):
+  - Trollstigen (NO): more dramatic alpine road panorama
+  - Transfăgărășan (RO): greater high-mountain route
+  - Chapman's Peak Drive (ZA): more dramatic coastal contrast
+  - El Chepe (MX): much greater multi-region scenic journey
+- Individual scores:
+  - impact: 8.8 — Granite boulders and winding road make strong scenery.
+  - uniqueness: 8.4 — Rocky desert escarpment gives local distinction.
+  - significance: 7.6 — Regional landscape and engineering context support significance.
+  - experience: 8.5 — Viewpoints and scenic driving offer rewarding experience.
+  - depth: 8.0 — Short road section has modest depth.
+- Categories: photography 9.1, nature 8.7, adventure 8.3.
+- Overall: 83.35/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: full triangulation, precise location and access where applicable, worldwide Python checks and numerical peer checks.
+
+## sight-mx-guadalupe-canyon-hot-springs — Guadalupe Canyon Hot Springs — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/guadalupe-canyon-hot-springs.yaml)
+- Action: new
+- Precise subject: Geothermal oasis and canyon setting in northern Baja California, not Valle de Guadalupe wine region or other namesakes. Coordinates from hot springs listing; access and facility operation unverified.
+- Location check: 32.1584, -115.770333; source-linked approximate representative point.
+- Evidence status: source-linked-unverified; opened and indexed material as indicated, ratings editorial; full independent fact-check incomplete.
+- Sources consulted 2026-11-28: https://en.wikipedia.org/wiki/Guadalupe_Canyon_Hot_Springs (indexed: geothermal springs, coordinates); https://mapcarta.com/20305804 (opened: wider canyon identity).
+- Worldwide peers (qualitative, numerical peer scores not refetched):
+  - Pamukkale (TR): far greater travertine and archaeological spectacle
+  - Ma'in Hot Springs (JO): similar arid canyon geothermal setting
+  - Termas Geométricas (CL): stronger designed thermal experience
+  - Hierve el Agua (MX): different petrified falls and landscape
+- Individual scores:
+  - impact: 8.2 — Palm oasis and rocky canyon provide strong scenic contrast.
+  - uniqueness: 8.2 — Geothermal springs in arid terrain are distinctive but substitutable.
+  - significance: 7.5 — Regional geology supports modest significance.
+  - experience: 8.7 — Thermal bathing and scenery provide rewarding relaxation where permitted.
+  - depth: 7.7 — Compact springs area limits exploration.
+- Categories: nature 8.7, relaxation 9.0, photography 8.5.
+- Overall: 80.85/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: full triangulation, precise location and access where applicable, worldwide Python checks and numerical peer checks.
+
+## sight-mx-catavina-rock-paintings — Cataviña Rock Paintings Cave — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/catavina-rock-paintings.yaml)
+- Action: new
+- Precise subject: Specific small painted rock shelter, not surrounding boulder desert already covered by Valle de los Cirios. No unsupported exact painting age asserted.
+- Location check: 29.7519738, -114.742871; source-linked approximate representative point.
+- Evidence status: source-linked-unverified; opened and indexed material as indicated, ratings editorial; full independent fact-check incomplete.
+- Sources consulted 2026-11-28: https://www.bajacalifornia.travel/en/actividades/rock-paintings-in-catavina (indexed: site identity); https://showcaves.com/english/mx/caves/Catavina.html (opened: talus cave and coordinates).
+- Worldwide peers (qualitative, numerical peer scores not refetched):
+  - Altamira (ES): far greater artistic significance
+  - Tassili n'Ajjer (DZ): vastly broader rock-art landscape
+  - Burrup Peninsula (AU): greater concentration of rock art
+  - Sierra de San Francisco (MX): greater mural scale and breadth
+- Individual scores:
+  - impact: 7.8 — Intimate painted shelter has meaningful artistic impact.
+  - uniqueness: 8.5 — Preserved desert rock paintings provide distinct cultural evidence.
+  - significance: 8.6 — Indigenous rock-art heritage supports historical significance.
+  - experience: 7.6 — Small shelter offers concentrated interpretation.
+  - depth: 7.2 — Single shelter limits breadth.
+- Categories: history 8.9, culture 8.8, photography 8.1.
+- Overall: 80.45/100.
+- High-score challenge: No 90+ overall or 9.5+ field; precise dating and conservation access require verification. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: full triangulation, precise location and access where applicable, worldwide Python checks and numerical peer checks.
+
+## sight-mx-dunas-de-bilbao — Dunas de Bilbao — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/dunas-de-bilbao.yaml)
+- Action: new
+- Precise subject: Specific Coahuila sand dunes within Villa de Bilbao landscape, not entire desert. Mapped dune point; permitted activities only.
+- Location check: 25.42854, -102.89038; source-linked approximate representative point.
+- Evidence status: source-linked-unverified; opened and indexed material as indicated, ratings editorial; full independent fact-check incomplete.
+- Sources consulted 2026-11-28: https://sma.gob.mx/anp-villa-de-bilbao/ (indexed: state protected area and dune attraction); https://mapcarta.com/39605590 (opened: coordinates).
+- Worldwide peers (qualitative, numerical peer scores not refetched):
+  - White Sands (US): greater scale and distinctive mineralogy
+  - Erg Chebbi (MA): more extensive dune scenery
+  - Dune du Pilat (FR): more striking coastal relief
+  - Samalayuca (MX): greater dune landscape breadth
+- Individual scores:
+  - impact: 7.9 — Sand relief creates appealing visual contrast.
+  - uniqueness: 7.6 — Small dune fields have global substitutes.
+  - significance: 7.3 — Regional protected landscape supports significance.
+  - experience: 8.1 — Walking and permitted recreation offer rewarding short outing.
+  - depth: 7.4 — Limited dune extent constrains breadth.
+- Categories: nature 8.1, photography 8.6, adventure 8.2.
+- Overall: 76.85/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: full triangulation, precise location and access where applicable, worldwide Python checks and numerical peer checks.
+
+## Pass 425 scope screening — 2026-11-28
+
+- Cataviña boulder desert is encompassed by existing Valle de los Cirios landscape; no new broad landscape duplicate. Cataviña rock shelter is a separate cultural subject. Picacho del Diablo is limited to the summit and specialist ascent, independently rated from the surrounding national park.

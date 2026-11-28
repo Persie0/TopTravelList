@@ -1,0 +1,16 @@
+id: sight-mx-medanos-de-samalayuca
+name: "Médanos de Samalayuca Dunes"
+location:
+  country_code: MX
+  latitude: 31.34287
+  longitude: -106.41951
+scores:
+  impact: 8.9
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.8
+  depth: 8.5
+  categories:
+    nature: 9.0
+    photography: 9.2
+    adventure: 8.9

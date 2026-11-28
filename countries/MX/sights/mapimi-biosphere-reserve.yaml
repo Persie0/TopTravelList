@@ -1,0 +1,16 @@
+id: sight-mx-mapimi-biosphere-reserve
+name: "Mapimí Biosphere Reserve"
+location:
+  country_code: MX
+  latitude: 26.6
+  longitude: -103.73
+scores:
+  impact: 8.2
+  uniqueness: 8.6
+  significance: 9.2
+  experience: 8.1
+  depth: 8.8
+  categories:
+    nature: 9.0
+    wildlife: 9.2
+    photography: 8.6
