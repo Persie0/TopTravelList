@@ -2490,3 +2490,207 @@ Eight new cave, waterfall and canyon attractions: one fact-checked and seven pro
 - High-score challenge: No 90+ overall. No 9.5+ fields or approved 10 requested.
 - Earlier decision: none.
 - Remaining verification: exact entrance, current permitted routes, water conditions, additional numeric peer comparisons and full diagnostics. No access guarantee.
+
+# Pass 399 — 2026-11-28 — direct main continuation
+
+Eight natural attractions added, one fact-checked and seven provisional source-linked, all numerically complete. JS inventory, formula, coordinate range, uniqueness, ranking and README checks only; full Python validation/benchmark scripts and Actions not run. Laguna Brava includes its immediate Yolnabaj cenotes; Nentón Candelaria cenotes are separate from both Yolnabaj and the Alta Verapaz cave system. Chichoj historical pollution considered, recovery not assumed. Ixpaco observation only. No temporary closure penalty.
+
+## sight-gt-laguna-brava-yolnabaj — Laguna Brava (Yolnabaj) Karst Lake — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/laguna-brava-yolnabaj.yaml)
+- Action: new
+- Precise subject: Lake, its shore and immediately associated Yolnabaj cenotes and viewpoints; excludes separate Candelaria cenotes and regional road itinerary.
+- Location check: https://mapcarta.com/19520898 (opened lake polygon representative).
+- Evidence status: fact-checked
+- Sources inspected 2026-11-28: https://visitguatemala.gt/en/blog/laguna-brava-guide-visit/ (opened: karst scenery, boat trips, authorized water recreation, hiking and adjacent cenotes); coordinate source above confirms lake identity.
+- Worldwide peers (qualitative; peer YAML not checked):
+  - Lake Atitlán (GT): more extensive volcanic setting and cultural depth
+  - Lake Bohinj (SI): comparable wooded mountain lake with broader trail network
+  - Plitvice Lakes (HR): far more unusual cascade system
+  - Lake Coatepeque (SV): comparable scenic enclosed lake, different geology.
+- Individual scores:
+  - impact: 9.1 — Cliffs, clear water and forested hills provide strong scenery.
+  - uniqueness: 8.7 — Karst lake with adjacent cenotes is distinctive but not globally exceptional.
+  - significance: 8.3 — Regional ecological and hydrological importance without global superlatives.
+  - experience: 8.9 — Boating, walks and authorized water recreation offer variety.
+  - depth: 8.7 — Multiple viewpoints and near-lake trails add sustained exploration.
+- Categories: nature 9.2, photography 9.3, adventure 8.9, relaxation 9.0.
+- Overall: 87.70/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact entrances, current ecological/visitor conditions, numeric peer comparisons and full diagnostics. No access guarantee.
+
+## sight-gt-cenotes-de-candelaria-nenton — Cenotes de Candelaria (Nentón) — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/cenotes-de-candelaria-nenton.yaml)
+- Action: new
+- Precise subject: Named sinkhole pools in Huehuetenango, not Alta Verapaz Candelaria Caves or Yolnabaj lakeside cenotes.
+- Location check: https://mapcarta.com/W447080123 (opened small cenote representative).
+- Evidence status: source-linked-unverified
+- Sources inspected 2026-11-28: https://visitguatemala.gt/en/blog/laguna-brava-guide-visit/ (opened: separate attraction); https://www.showcaves.com/english/gt/karst/Candelaria.html (search excerpt: named karst feature).
+- Worldwide peers (qualitative; peer YAML not checked):
+  - Ik Kil (MX): comparable cenote, stronger iconic single chamber
+  - Dos Ojos (MX): greater underwater cave scope
+  - Hoyo El Cimarrón (GT): greater dry sinkhole drama
+  - Hun Nal Ye (GT): greater cultural context.
+- Individual scores:
+  - impact: 8.9 — Turquoise water against steep limestone provides striking contrast.
+  - uniqueness: 8.8 — Paired karst pools are unusual regionally, comparable globally.
+  - significance: 8.0 — Local geological and ecological importance.
+  - experience: 8.6 — Focused views and lawful recreation where permitted offer good experience.
+  - depth: 8.0 — Several pools add breadth but remain concentrated.
+- Categories: nature 9.1, photography 9.2, adventure 8.6.
+- Overall: 85.60/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact entrances, current ecological/visitor conditions, numeric peer comparisons and full diagnostics. No access guarantee.
+
+## sight-gt-laguna-magdalena — Laguna Magdalena Highland Lake and Waterfall — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/laguna-magdalena.yaml)
+- Action: new
+- Precise subject: Named highland lake, its associated waterfall and approach; excludes wider Cuchumatanes.
+- Location check: https://mapcarta.com/es/N5404610327 (opened nearby viewpoint representative).
+- Evidence status: source-linked-unverified
+- Sources inspected 2026-11-28: https://visitguatemala.gt/blog/laguna-magdalena-guia-visita/ (excerpt: highland landscape); https://www.guatemala.com/guias/pasatiempos/lagunas-de-huehuetenango (excerpt: cloud forest walking).
+- Worldwide peers (qualitative; peer YAML not checked):
+  - Lake Bohinj (SI): broader Alpine trail landscape
+  - Lake Bled (SI): more iconic cultural setting
+  - Laguna Brava (GT): greater lake scenery and karst features
+  - Laguna Chicabal (GT): stronger living sacred significance.
+- Individual scores:
+  - impact: 8.6 — Highland forest, water and cascades give atmospheric scenery.
+  - uniqueness: 8.3 — Cloud-forest lake and waterfall combination is attractive but comparable.
+  - significance: 7.6 — Mainly regional ecological importance.
+  - experience: 8.6 — Walking and natural viewing reward visitors.
+  - depth: 8.4 — Several landscape features create a meaningful outing.
+- Categories: nature 8.9, photography 9.0, adventure 8.7, relaxation 8.6.
+- Overall: 83.05/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact entrances, current ecological/visitor conditions, numeric peer comparisons and full diagnostics. No access guarantee.
+
+## sight-gt-laguna-de-ayarza — Laguna de Ayarza Volcanic Lake — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/laguna-de-ayarza.yaml)
+- Action: new
+- Precise subject: Volcanic lake and shoreline landscape, no wider regional circuit.
+- Location check: https://www.geonames.org/3599617/laguna-de-ayarza.html and https://www.geonames.org/advanced-search.html?continentCode=&country=GT&fclass=H&q= (coordinate excerpt).
+- Evidence status: source-linked-unverified
+- Sources inspected 2026-11-28: https://visitguatemala.gt/en/blog/ayarza-lagoon-guide-visit/ (excerpt: volcanic landscape and tourism).
+- Worldwide peers (qualitative; peer YAML not checked):
+  - Lake Coatepeque (SV): comparable volcanic lake
+  - Lake Toba (ID): much greater geological scale and cultural breadth
+  - Lagoa das Sete Cidades (PT): stronger dramatic twin-lake panorama
+  - Lake Atitlán (GT): more extensive scenery and culture.
+- Individual scores:
+  - impact: 8.7 — Steep volcanic surroundings and open water make a strong vista.
+  - uniqueness: 8.4 — Volcanic lakes are internationally common but locally striking.
+  - significance: 7.9 — Regional volcanic geological importance.
+  - experience: 8.6 — Lakeside recreation and viewing are rewarding where lawful.
+  - depth: 8.3 — Multiple shores and viewpoints offer moderate breadth.
+- Categories: nature 8.9, photography 9.1, relaxation 8.9, adventure 8.4.
+- Overall: 84.10/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact entrances, current ecological/visitor conditions, numeric peer comparisons and full diagnostics. No access guarantee.
+
+## sight-gt-fuentes-georginas — Fuentes Georginas Highland Hot Springs — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/fuentes-georginas.yaml)
+- Action: new
+- Precise subject: Named thermal pools and immediate forest setting; excludes lodging and Santa María volcano.
+- Location check: https://mapcarta.com/es/19537066 (opened mapped bathing complex).
+- Evidence status: source-linked-unverified
+- Sources inspected 2026-11-28: https://visitguatemala.gt/en/blog/fuentes-georginas-guide/ (excerpt: established thermal recreation in highlands); https://www.guatevalley.com/que-visitar/fuentes-georginas-zunil-quetzaltenango (excerpt: forest context).
+- Worldwide peers (qualitative; peer YAML not checked):
+  - Tabacón (CR): more extensive thermal river garden
+  - Saturnia (IT): greater natural cascade spectacle
+  - Beppu (JP): broader geothermal and cultural heritage
+  - Santa Teresa (SV): comparable thermal bathing.
+- Individual scores:
+  - impact: 8.4 — Steaming pools in a mountain forest provide memorable atmosphere.
+  - uniqueness: 8.1 — Forest hot springs are distinctive locally but common globally.
+  - significance: 7.5 — Local geothermal and recreation significance.
+  - experience: 8.9 — Thermal bathing is a high-quality focused relaxation experience.
+  - depth: 7.9 — Several pools add moderate depth.
+- Categories: relaxation 9.2, nature 8.7, photography 8.7.
+- Overall: 81.70/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact entrances, current ecological/visitor conditions, numeric peer comparisons and full diagnostics. No access guarantee.
+
+## sight-gt-laguna-chichoj — Laguna Chichoj Lakeside Landscape — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/laguna-chichoj.yaml)
+- Action: new
+- Precise subject: Existing lakeside landscape only; excludes hypothetical restoration and swimming claims.
+- Location check: https://www.geonames.org/advanced-search.html?continentCode=&country=GT&fclass=H&q= (coordinate excerpt); https://mapcarta.com/19542968 (identity excerpt).
+- Evidence status: source-linked-unverified
+- Sources inspected 2026-11-28: https://guatemala.gob.gt/laguna-chichoj-marn/ and https://guatemala.gob.gt/ejercito-de-guatemala-apoya-limpieza-de-laguna-chichoj-en-alta-verapaz/ (government excerpts: pollution, plant proliferation and cleanup); present recovery extent unknown.
+- Worldwide peers (qualitative; peer YAML not checked):
+  - Lake Lachuá (GT): more pristine scenic and conservation experience
+  - Laguna de Apastepeque (SV): stronger recreational scope
+  - Laguna de Olomega (SV): more substantial wetland ecology
+  - Lake Xochimilco (MX): much deeper cultural canal landscape despite ecological pressures.
+- Individual scores:
+  - impact: 6.8 — Lake setting retains scenery but historical plant cover and pollution reduce confidence.
+  - uniqueness: 7.0 — Small town-adjacent lake is globally reproducible.
+  - significance: 7.2 — Regional wetland and restoration significance without assuming recovery.
+  - experience: 6.7 — Shore viewing only, no water-contact activity credited.
+  - depth: 6.8 — Focused lake setting with limited documented attractions.
+- Categories: nature 7.1, photography 7.0, relaxation 6.8.
+- Overall: 69.15/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact entrances, current ecological/visitor conditions, numeric peer comparisons and full diagnostics. No access guarantee.
+
+## sight-gt-laguna-maxbal — Laguna Maxbal Forest Lake — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/laguna-maxbal.yaml)
+- Action: new
+- Precise subject: Named forest lake, excluding other Barillas destinations; no unverified boating or camping.
+- Location check: https://mapcarta.com/19530908 (opened mapped lake point).
+- Evidence status: source-linked-unverified
+- Sources inspected 2026-11-28: https://www.guatemala.com/guias/pasatiempos/lagunas-de-huehuetenango and https://www.santacruzbarillas.com/2023/01/laguna-maxbal.html (excerpts: locality and lake identity).
+- Worldwide peers (qualitative; peer YAML not checked):
+  - Lake Lachuá (GT): greater distinctive protected karst landscape
+  - Laguna Brava (GT): stronger cliffs and recreation variety
+  - Lake Bohinj (SI): broader mountain landscape
+  - Laguna Verde Apaneca (SV): comparable forest lake excursion.
+- Individual scores:
+  - impact: 8.2 — Wooded lake provides strong tranquil scenery.
+  - uniqueness: 8.0 — Remote forest lake is attractive but globally reproducible.
+  - significance: 7.4 — Mainly regional natural importance.
+  - experience: 8.0 — Focused scenery and walking with no invented visitor facilities.
+  - depth: 7.8 — Lake and nearby forest provide modest depth.
+- Categories: nature 8.7, photography 8.7, relaxation 8.5.
+- Overall: 79.20/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact entrances, current ecological/visitor conditions, numeric peer comparisons and full diagnostics. No access guarantee.
+
+## sight-gt-laguna-ixpaco — Laguna Ixpaco Sulfurous Volcanic Lake — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/laguna-ixpaco.yaml)
+- Action: new
+- Precise subject: Sulfurous geothermal lake viewed from safe lawful areas; excludes bathing and wider Tecuamburro ascent.
+- Location check: https://www.geonames.org/search.html?country=GT&q=&startRow=3300 (coordinate excerpt).
+- Evidence status: source-linked-unverified
+- Sources inspected 2026-11-28: https://www.prensalibre.com/economia/estos-son-los-lugares-de-guatemala-no-tradicionales-en-los-que-puede-hacer-turismo-en-estas-vacaciones-de-medio-ano/ (excerpt: sulfur and high water temperature, no bathing); https://entrecultura.tv/la-enigmatica-y-azufrada-laguna-de-ixpaco/ (excerpt: volcanic origin and milky appearance).
+- Worldwide peers (qualitative; peer YAML not checked):
+  - Kawah Ijen (ID): much larger and more exceptional acidic crater lake
+  - Wai-O-Tapu (NZ): wider geothermal variety
+  - Laguna Alegría (SV): similar sulfurous crater landscape
+  - Lake Rotomahana (NZ): broader geothermal lake system.
+- Individual scores:
+  - impact: 8.2 — Unusual milky water and geothermal features provide strong visual impact.
+  - uniqueness: 8.8 — Sulfurous volcanic lake is relatively uncommon.
+  - significance: 7.9 — Regional geothermal significance without rare global claims.
+  - experience: 7.4 — Focused safe observation only; no bathing credit.
+  - depth: 7.3 — Small concentrated landform limits depth.
+- Categories: nature 8.8, photography 8.8.
+- Overall: 80.80/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact entrances, current ecological/visitor conditions, numeric peer comparisons and full diagnostics. No access guarantee.

@@ -1,0 +1,17 @@
+id: sight-gt-laguna-de-ayarza
+name: "Laguna de Ayarza Volcanic Lake"
+location:
+  country_code: GT
+  latitude: 14.4186111
+  longitude: -90.1258333
+scores:
+  impact: 8.7
+  uniqueness: 8.4
+  significance: 7.9
+  experience: 8.6
+  depth: 8.3
+  categories:
+    nature: 8.9
+    photography: 9.1
+    relaxation: 8.9
+    adventure: 8.4
