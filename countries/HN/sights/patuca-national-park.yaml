@@ -1,0 +1,16 @@
+id: sight-hn-patuca-national-park
+name: "Patuca National Park Rainforest Landscape"
+location:
+  country_code: HN
+  latitude: 14.75
+  longitude: -85.1
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 7.9
+  depth: 8.5
+  categories:
+    nature: 9.2
+    wildlife: 9.1
+    adventure: 8.8

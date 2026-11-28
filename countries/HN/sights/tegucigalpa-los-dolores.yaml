@@ -1,0 +1,16 @@
+id: sight-hn-tegucigalpa-los-dolores
+name: "Tegucigalpa Los Dolores Church and Plaza"
+location:
+  country_code: HN
+  latitude: 14.108
+  longitude: -87.207
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 8.5
+  experience: 8.0
+  depth: 7.5
+  categories:
+    architecture: 8.7
+    history: 8.7
+    photography: 8.4
