@@ -1,0 +1,16 @@
+id: sight-cr-chira-island-community-tour
+name: "Chira Island Community Fishing and Mangrove Experience"
+location:
+  country_code: CR
+  latitude: 10.092755
+  longitude: -85.152798
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.5
+  depth: 8.4
+  categories:
+    culture: 9.0
+    nature: 8.9
+    food: 8.8

@@ -1,0 +1,16 @@
+id: sight-cr-junquillal-bay-wildlife-refuge
+name: "Bahía Junquillal Wildlife Refuge Coastal Trails and Beach"
+location:
+  country_code: CR
+  latitude: 10.9643858
+  longitude: -85.6841994
+scores:
+  impact: 8.2
+  uniqueness: 8.2
+  significance: 8.3
+  experience: 8.4
+  depth: 7.9
+  categories:
+    nature: 8.9
+    beaches: 8.8
+    wildlife: 8.7
