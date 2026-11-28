@@ -1,0 +1,16 @@
+id: sight-pa-punta-chame-kitesurfing
+name: "Punta Chame Kitesurfing"
+location:
+  country_code: PA
+  latitude: 8.65
+  longitude: -79.72
+scores:
+  impact: 8.4
+  uniqueness: 8.5
+  significance: 7.6
+  experience: 9.0
+  depth: 8.1
+  categories:
+    adventure: 9.3
+    beaches: 8.8
+    photography: 8.5
