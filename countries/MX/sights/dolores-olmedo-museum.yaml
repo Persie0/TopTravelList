@@ -1,0 +1,17 @@
+id: sight-mx-dolores-olmedo-museum
+name: "Dolores Olmedo Museum and La Noria Estate"
+location:
+  country_code: MX
+  latitude: 19.264
+  longitude: -99.123
+scores:
+  impact: 9.2
+  uniqueness: 9.5
+  significance: 9.5
+  experience: 9.1
+  depth: 9.3
+  categories:
+    culture: 9.7
+    history: 9.3
+    architecture: 9.0
+    photography: 9.1

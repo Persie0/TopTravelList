@@ -1,0 +1,16 @@
+id: sight-mx-museo-nacional-acuarela
+name: "Alfredo Guati Rojo National Watercolour Museum"
+location:
+  country_code: MX
+  latitude: 19.35
+  longitude: -99.167
+scores:
+  impact: 8.3
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 8.7
+  depth: 8.6
+  categories:
+    culture: 9.2
+    history: 8.8
+    relaxation: 8.7

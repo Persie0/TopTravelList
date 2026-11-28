@@ -1,0 +1,16 @@
+id: sight-mx-museo-ciudad-mexico
+name: "Museum of Mexico City and Palace of the Counts of Calimaya"
+location:
+  country_code: MX
+  latitude: 19.429
+  longitude: -99.132
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 9.1
+  experience: 8.9
+  depth: 8.8
+  categories:
+    architecture: 9.2
+    history: 9.3
+    culture: 9.1

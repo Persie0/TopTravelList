@@ -1,0 +1,16 @@
+id: sight-mx-marco-monterrey
+name: "Museum of Contemporary Art of Monterrey (MARCO)"
+location:
+  country_code: MX
+  latitude: 25.665
+  longitude: -100.31
+scores:
+  impact: 9.0
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 9.1
+  depth: 9.0
+  categories:
+    culture: 9.3
+    architecture: 9.3
+    photography: 9.0

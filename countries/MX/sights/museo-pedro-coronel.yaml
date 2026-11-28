@@ -1,0 +1,16 @@
+id: sight-mx-museo-pedro-coronel
+name: "Pedro Coronel Museum and Historic Library (Zacatecas)"
+location:
+  country_code: MX
+  latitude: 22.775
+  longitude: -102.573
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 9.1
+  depth: 9.3
+  categories:
+    culture: 9.5
+    history: 9.3
+    architecture: 9.0

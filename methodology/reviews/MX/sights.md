@@ -11896,3 +11896,297 @@ All ten entries are source-linked editorial assessments using retrieved institut
 - Earlier decision: none.
 - Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation. Current admission not independently verified.
 
+
+## sight-mx-museo-antropologia-xalapa — Museum of Anthropology of Xalapa (MAX) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/museo-antropologia-xalapa.yaml)
+- Action: new (pass 449)
+- Precise subject: Seven of the 17 known colossal Olmec heads, alongside major archaeological collections from Veracruz.
+- Location check: 19.546, -96.927; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.uv.mx/max/curadurias/olmeca/; https://sapp.uv.mx/catalogomax/es-MX/Home/HistoriaColeccion.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - National Museum of Anthropology (MX): wider national scope
+  - Museo Larco (PE): exceptional regional collection
+  - La Venta Park Museum (MX): outdoor Olmec sculpture
+  - British Museum (GB): much broader global scope.
+- Individual scores: impact 9.4, uniqueness 9.6, significance 9.7, experience 9.2, depth 9.6.
+- Categories: history 9.7, culture 9.6, architecture 9.1, photography 9.3.
+- Overall: 95.00/100.
+- High-score challenge: Documented collection significance, distinctive art or architecture and visitor depth support 90+; scores constrained by global peers. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation. Current admission not independently verified.
+
+
+## sight-mx-dolores-olmedo-museum — Dolores Olmedo Museum and La Noria Estate — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/dolores-olmedo-museum.yaml)
+- Action: new (pass 449)
+- Precise subject: Major Rivera and Kahlo collections, pre-Columbian and folk art, in the original La Noria estate; reopened in May 2026.
+- Location check: 19.264, -99.123; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://museodoloresolmedo.org.mx/las-colecciones/; https://museodoloresolmedo.org.mx/el-museo; https://www.jornada.com.mx/2026/05/29/cultura/a03n1cul.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Frida Kahlo Museum (MX): stronger biographical setting
+  - Anahuacalli (MX): distinctive Rivera architecture
+  - Musée Picasso (FR): comparable artist-focused museum
+  - Van Gogh Museum (NL): greater global single-artist stature.
+- Individual scores: impact 9.2, uniqueness 9.5, significance 9.5, experience 9.1, depth 9.3.
+- Categories: culture 9.7, history 9.3, architecture 9.0, photography 9.1.
+- Overall: 93.30/100.
+- High-score challenge: Documented collection significance, distinctive art or architecture and visitor depth support 90+; scores constrained by global peers. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation. Current admission not independently verified.
+
+
+## sight-mx-musa-guadalajara — MUSA Museum of the Arts and Orozco Murals (Guadalajara) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/musa-guadalajara.yaml)
+- Action: new (pass 449)
+- Precise subject: Two monumental 1937 Orozco murals within Paraninfo Enrique Díaz de León and museum exhibitions; grouped because the murals are central to the museum.
+- Location check: 20.674, -103.358; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.musaudg.mx/murales-orozco; https://www.musaudg.mx/visita.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Hospicio Cabañas (MX): larger Orozco cycle
+  - National Palace (MX): Rivera murals
+  - San Ildefonso (MX): broader mural ensemble
+  - Sistine Chapel (VA): much stronger global anchor.
+- Individual scores: impact 9.2, uniqueness 9.2, significance 9.4, experience 9.0, depth 8.9.
+- Categories: culture 9.5, architecture 9.3, history 9.2, photography 9.2.
+- Overall: 91.80/100.
+- High-score challenge: Documented collection significance, distinctive art or architecture and visitor depth support 90+; scores constrained by global peers. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation. Current admission not independently verified.
+
+
+## sight-mx-museo-pedro-coronel — Pedro Coronel Museum and Historic Library (Zacatecas) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/museo-pedro-coronel.yaml)
+- Action: new (pass 449)
+- Precise subject: Fifteen permanent exhibition rooms with international art including Picasso, Dalí, Miró and Goya, and a historic library with more than 20,000 volumes.
+- Location check: 22.775, -102.573; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://sic.cultura.gob.mx/ficha.php?estado_id=32&table=museo&table_id=636.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Rafael Coronel Museum (MX): distinctive mask collection
+  - Franz Mayer (MX): broader decorative arts
+  - Museo Soumaya (MX): larger collection
+  - Amparo Museum (MX): major Mexican art.
+- Individual scores: impact 9.0, uniqueness 9.1, significance 9.2, experience 9.1, depth 9.3.
+- Categories: culture 9.5, history 9.3, architecture 9.0.
+- Overall: 91.10/100.
+- High-score challenge: Documented collection significance, distinctive art or architecture and visitor depth support 90+; scores constrained by global peers. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation. Current admission not independently verified.
+
+
+## sight-mx-museo-manuel-felguerez — Manuel Felguérez Museum of Abstract Art (Zacatecas) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/museo-manuel-felguerez.yaml)
+- Action: new (pass 449)
+- Precise subject: Major Mexican abstract art collection in a former seminary and prison; includes permanent Osaka 1970 murals and over 100 works by Felguérez.
+- Location check: 22.779, -102.572; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://sic.cultura.gob.mx/ficha.php?disciplina=&table=museo&table_id=146; https://www.zacatecas.gob.mx/en-visita-guiada-especial-exploran-murales-de-osaka-en-el-museo-manuel-felguerez/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - MUAC (MX): broader contemporary programming
+  - Tamayo (MX): international modern collection
+  - Tate Modern (GB): much larger global scope
+  - Pedro Coronel Museum (MX): contrasting historic collection.
+- Individual scores: impact 8.9, uniqueness 9.3, significance 9.3, experience 9.0, depth 9.2.
+- Categories: culture 9.5, history 9.1, architecture 8.9.
+- Overall: 91.25/100.
+- High-score challenge: Documented collection significance, distinctive art or architecture and visitor depth support 90+; scores constrained by global peers. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation. Current admission not independently verified.
+
+
+## sight-mx-museo-arte-queretaro — Querétaro Museum of Art and San Agustín Baroque Cloister — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/museo-arte-queretaro.yaml)
+- Action: new (pass 449)
+- Precise subject: Highly ornate eighteenth-century New Spanish Baroque cloister housing art exhibitions; distinct interior experience within historic centre.
+- Location check: 20.591, -100.393; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://queretaro.travel/fichas/museo-de-arte-de-queretaro-2/; https://queretaro.gob.mx/fr/web/cultura/espacio-maqro.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Santo Domingo Oaxaca (MX): greater monumental ensemble
+  - Convento de San Esteban (ES): comparable carved cloister
+  - Franz Mayer (MX): stronger decorative arts
+  - Amparo (MX): broader collections.
+- Individual scores: impact 9.3, uniqueness 9.2, significance 9.0, experience 9.0, depth 8.9.
+- Categories: architecture 9.6, culture 9.2, photography 9.4, history 9.1.
+- Overall: 91.30/100.
+- High-score challenge: Documented collection significance, distinctive art or architecture and visitor depth support 90+; scores constrained by global peers. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation. Current admission not independently verified.
+
+
+## sight-mx-museo-maya-cancun — Maya Museum of Cancún and San Miguelito Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/museo-maya-cancun.yaml)
+- Action: new (pass 449)
+- Precise subject: Important Maya archaeological collection and adjacent excavated settlement, accessed through a single museum complex.
+- Location check: 21.077, -86.776; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.inah.gob.mx/museos/museo-maya-de-cancun; https://lugares.inah.gob.mx/es/node/4284.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Gran Museo del Mundo Maya (MX): broader Maya narrative
+  - National Museum of Anthropology (MX): greater collection depth
+  - Tulum (MX): more monumental coastal archaeology
+  - Chetumal Maya Museum (MX): more interpretive focus.
+- Individual scores: impact 8.9, uniqueness 9.0, significance 9.2, experience 9.2, depth 9.1.
+- Categories: history 9.4, culture 9.3, architecture 9.0, family 9.0.
+- Overall: 90.50/100.
+- High-score challenge: Documented collection significance, distinctive art or architecture and visitor depth support 90+; scores constrained by global peers. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation. Current admission not independently verified.
+
+
+## sight-mx-museo-kaluz — Kaluz Museum and Historic Palace (Mexico City) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/museo-kaluz.yaml)
+- Action: new (pass 449)
+- Precise subject: Collection of approximately 8,000 works, objects and documents, including José María Velasco holdings and Spanish exile art; not all items displayed.
+- Location check: 19.437, -99.148; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://museokaluz.org/coleccion/; https://museokaluz.org/coleccion/arte-mexicano/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - MUNAL (MX): more nationally comprehensive collection
+  - Franz Mayer (MX): distinctive decorative arts
+  - Museo de San Carlos (MX): European painting
+  - Museo Amparo (MX): wider historical scope.
+- Individual scores: impact 8.9, uniqueness 8.9, significance 9.0, experience 9.1, depth 9.3.
+- Categories: culture 9.4, history 9.1, architecture 9.1.
+- Overall: 89.90/100.
+- High-score challenge: Sub-90 reflects narrower collection distinction or visitor depth relative to global peers. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation. Current admission not independently verified.
+
+
+## sight-mx-marco-monterrey — Museum of Contemporary Art of Monterrey (MARCO) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/marco-monterrey.yaml)
+- Action: new (pass 449)
+- Precise subject: Major contemporary art institution with international exhibitions and permanent collection, housed in a distinctive museum building.
+- Location check: 25.665, -100.31; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.marco.org.mx/; https://www.marco.org.mx/exposiciones/formas-de-estar/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - MUAC (MX): research-led contemporary programme
+  - Tamayo (MX): international art
+  - Guggenheim Bilbao (ES): more iconic architecture
+  - MUSA (MX): permanent mural heritage.
+- Individual scores: impact 9.0, uniqueness 8.7, significance 8.9, experience 9.1, depth 9.0.
+- Categories: culture 9.3, architecture 9.3, photography 9.0.
+- Overall: 89.20/100.
+- High-score challenge: Sub-90 reflects narrower collection distinction or visitor depth relative to global peers. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation. Current admission not independently verified.
+
+
+## sight-mx-museo-arocena — Arocena Museum and Historic House (Torreón) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/museo-arocena.yaml)
+- Action: new (pass 449)
+- Precise subject: Colonial and European art, regional history and connected historic house, grouped as a single museum institution.
+- Location check: 25.537, -103.464; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://museoarocena.com/permanentes/; https://sic.cultura.gob.mx/ficha.php?table=museo&table_id=189.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Franz Mayer (MX): more specialized decorative arts
+  - Amparo (MX): broader Mexican collections
+  - Pedro Coronel (MX): more internationally recognizable artists
+  - Museo Kaluz (MX): stronger Mexican painting focus.
+- Individual scores: impact 8.7, uniqueness 8.8, significance 9.0, experience 9.1, depth 9.2.
+- Categories: culture 9.3, history 9.2, architecture 9.0.
+- Overall: 88.95/100.
+- High-score challenge: Sub-90 reflects narrower collection distinction or visitor depth relative to global peers. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation. Current admission not independently verified.
+
+
+## sight-mx-cecut-tijuana — Tijuana Cultural Center (CECUT) and Museum of the Californias — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/cecut-tijuana.yaml)
+- Action: new (pass 449)
+- Precise subject: Integrated cultural complex with regional museum, theatre, IMAX dome and El Cubo exhibition building.
+- Location check: 32.53, -117.024; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://sic.gob.mx/ficha.php?disciplina=&table=centro_cultural&table_id=360; https://sic.cultura.gob.mx/ficha.php?table=museo&table_id=598.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Centro Cultural La Moneda (CL): comparable multidisciplinary complex
+  - Barbican (GB): much broader programming
+  - MARCO (MX): stronger art focus
+  - Fundidora (MX): larger heritage landscape.
+- Individual scores: impact 8.8, uniqueness 8.7, significance 8.9, experience 9.2, depth 9.1.
+- Categories: culture 9.2, architecture 9.1, family 9.2, history 9.0.
+- Overall: 88.85/100.
+- High-score challenge: Sub-90 reflects narrower collection distinction or visitor depth relative to global peers. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation. Current admission not independently verified.
+
+
+## sight-mx-museo-ciudad-mexico — Museum of Mexico City and Palace of the Counts of Calimaya — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/museo-ciudad-mexico.yaml)
+- Action: new (pass 449)
+- Precise subject: Historic palace housing urban heritage exhibits and the restored studio of Joaquín Clausell.
+- Location check: 19.429, -99.132; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.cultura.cdmx.gob.mx/recintos/mcm; https://sic.cultura.gob.mx/ficha.php?table=museo&table_id=797.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Museum of London (GB): broader urban archaeology
+  - National Palace (MX): greater national historical significance
+  - Palacio Postal (MX): more monumental interiors
+  - Museo Kaluz (MX): stronger painting collection.
+- Individual scores: impact 8.8, uniqueness 8.7, significance 9.1, experience 8.9, depth 8.8.
+- Categories: architecture 9.2, history 9.3, culture 9.1.
+- Overall: 88.50/100.
+- High-score challenge: Sub-90 reflects narrower collection distinction or visitor depth relative to global peers. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation. Current admission not independently verified.
+
+
+## sight-mx-museo-cultura-maya-chetumal — Museum of Maya Culture (Chetumal) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/museo-cultura-maya-chetumal.yaml)
+- Action: new (pass 449)
+- Precise subject: Regional Maya culture interpretation and museum displays in Chetumal.
+- Location check: 18.504, -88.297; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://ica.qroo.gob.mx/museo-de-la-cultura-maya/; https://sic.gob.mx/ficha.php?table=museo&table_id=106.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Maya Museum Cancún (MX): archaeological collection and ruins
+  - Gran Museo del Mundo Maya (MX): larger institutional scope
+  - National Museum of Anthropology (MX): greater national significance
+  - Museo Amparo (MX): broader historical collections.
+- Individual scores: impact 8.6, uniqueness 8.7, significance 8.9, experience 9.0, depth 9.0.
+- Categories: culture 9.2, history 9.2, family 9.1.
+- Overall: 87.85/100.
+- High-score challenge: Sub-90 reflects narrower collection distinction or visitor depth relative to global peers. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation. Current admission not independently verified.
+
+
+## sight-mx-museo-nacional-acuarela — Alfredo Guati Rojo National Watercolour Museum — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/museo-nacional-acuarela.yaml)
+- Action: new (pass 449)
+- Precise subject: Specialist watercolour museum with Mexican and international art and educational mission.
+- Location check: 19.35, -99.167; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.acuarela.org.mx/; https://sic.cultura.gob.mx/ficha.php?disciplina=&table=museo&table_id=789.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - National Museum of San Carlos (MX): broader historic painting
+  - Kaluz (MX): more substantial collection
+  - Museo Tamayo (MX): greater international profile
+  - specialist art museums worldwide: similar focused scope.
+- Individual scores: impact 8.3, uniqueness 9.0, significance 8.8, experience 8.7, depth 8.6.
+- Categories: culture 9.2, history 8.8, relaxation 8.7.
+- Overall: 86.65/100.
+- High-score challenge: Sub-90 reflects narrower collection distinction or visitor depth relative to global peers. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation. Current admission not independently verified.
+

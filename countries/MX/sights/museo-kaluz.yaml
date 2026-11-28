@@ -1,0 +1,16 @@
+id: sight-mx-museo-kaluz
+name: "Kaluz Museum and Historic Palace (Mexico City)"
+location:
+  country_code: MX
+  latitude: 19.437
+  longitude: -99.148
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 9.1
+  depth: 9.3
+  categories:
+    culture: 9.4
+    history: 9.1
+    architecture: 9.1

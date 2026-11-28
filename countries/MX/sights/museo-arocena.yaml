@@ -1,0 +1,16 @@
+id: sight-mx-museo-arocena
+name: "Arocena Museum and Historic House (Torreón)"
+location:
+  country_code: MX
+  latitude: 25.537
+  longitude: -103.464
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 9.1
+  depth: 9.2
+  categories:
+    culture: 9.3
+    history: 9.2
+    architecture: 9.0
