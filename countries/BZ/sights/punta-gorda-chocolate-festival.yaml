@@ -1,0 +1,16 @@
+id: sight-bz-punta-gorda-chocolate-festival
+name: "Punta Gorda Chocolate Festival of Belize"
+location:
+  country_code: BZ
+  latitude: 16.098
+  longitude: -88.809
+scores:
+  impact: 8.1
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 8.8
+  depth: 8.5
+  categories:
+    food: 9.2
+    culture: 9.0
+    history: 8.8

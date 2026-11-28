@@ -1257,3 +1257,207 @@
 - Source inspected 2026-11-28: [UNESCO property description](https://whc.unesco.org/en/list/764/). UNESCO identifies seven protected components in the Northern Hemisphere's largest barrier reef system, including atolls, mangroves and threatened marine species. The ecological variety supports high significance, uniqueness, nature 9.6 and wildlife 9.5 hypotheses; scenic impact and experience depend on actual underwater and coastal encounters, not guaranteed sightings. Depth reflects variety of component habitats, not the entire Belize reef indiscriminately. Great Blue Hole and Glover's Reef are separately listed in the repository; distinguish the UNESCO seven-component property from the whole national reef.
 - Worldwide qualitative comparison leads (not independently re-scored): Great Barrier Reef (Australia): larger reef system; Tubbataha Reefs (Philippines): more concentrated offshore reef experience; Aldabra (Seychelles): exceptional atoll ecology but different habitat emphasis; Great Blue Hole (Belize): narrower geological dive site.
 - Current I/U/S/E/D: 9.5 / 9.6 / 9.7 / 9.5 / 9.3; overall 95.45/100. No numerical change, no new perfect 10, no new category or access-dependent adjustment. Previous reviews remain preserved. This is a targeted check, not certification of every high field or of the current total; coordinate and category audits remain open except where explicitly checked above.
+
+# Pass 407 — 2026-11-28 — direct main continuation
+
+Eight Belize additions, five fact-checked and three provisional source-linked editorial ratings. All numerically complete. JS inventory, weighted formula, coordinate range, uniqueness, ranking and README checks only; full Python validation/benchmark scripts and Actions not run. Gladden Spit historical whale shark congregation not treated as present because IUCN and recent operator reports contradict older descriptions; no temporary closure penalty. Distinct Turneffe fishing experience is not the parent marine reserve score, no conservation bonus or guaranteed catch. Gales Point cultural experience excludes private household access.
+
+## sight-bz-dangriga-garifuna-settlement-day — Dangriga Garifuna Settlement Day and Yurumein — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/dangriga-garifuna-settlement-day.yaml)
+- Action: new
+- Precise subject: Annual public November 19 reenactment, processions and cultural festivities in Dangriga, not every national celebration or private ritual; town representative point.
+- Location check: 16.9697, -88.23313; approximate representative point, not verified entrance.
+- Evidence status: fact-checked; not comprehensive field verification.
+- Sources consulted 2026-11-28: https://www.travelbelize.org/event/garifuna-settlement-day/ (opened: canoe landing, drumming, dancing, procession and food); https://www.greaterbelize.com/belize-celebrates-garifuna-settlement-day-and-its-cultural-heritage/ (indexed 2026 observance); https://academic.oup.com/book/11389/chapter-abstract/160049415 (indexed ethnographic account); https://ich.unesco.org/en/state/belize-BZ?cp=BZ&info=periodic-reporting&topic=en-state (indexed: multinational inscription of language, dance and music, not a separate festival inscription); https://www.geodatos.net/en/coordinates/belize/dangriga (town coordinates).
+- Worldwide peers (qualitative; numerical GT peers from previous audits, not refetched):
+  - Livingston Garífuna Day (GT, 90.50): closely related regional practice, Dangriga has strong documented national celebration scope
+  - El Güegüense (NI): distinct historic dramatic tradition
+  - Guelaguetza (MX): larger multi-community dance spectacle
+  - Puno Candelaria (PE): much greater festival scale.
+- Individual scores:
+  - impact: 9.1 — Landing reenactment and public music create strong cultural spectacle
+  - uniqueness: 9.3 — Distinctive reenactment of Garifuna migration and living traditions
+  - significance: 9.3 — Historic cultural continuity and national recognition strengthen significance
+  - experience: 9.1 — Public procession, music and food support rewarding observation
+  - depth: 8.8 — Multiple public activities across the day offer substantial breadth.
+- Categories: culture 9.4, history 9.3, photography 9.1, food 8.8.
+- Overall: 91.60/100.
+- High-score challenge: Documented unusual specialist or cultural scope supports low 90s; relative peer comparisons above constrain the rating. No promised catches, private participation or parent site score inheritance. No 9.5+ field or approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact visitor locations, additional numerical peer comparisons and full diagnostics.
+
+## sight-bz-turneffe-flats-flyfishing — Turneffe Atoll Flats Grand Slam Flyfishing — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/turneffe-flats-flyfishing.yaml)
+- Action: new
+- Precise subject: Distinct licensed guided catch-and-release flats fishing experience, not general reserve diving, wildlife conservation or lodging. Reserve representative coordinate, not exact fishing spot.
+- Location check: 17.34, -87.86; approximate representative point, not verified entrance.
+- Evidence status: fact-checked; not comprehensive field verification.
+- Sources consulted 2026-11-28: https://visitturneffe.org/discover/the-best-flyfishing-in-belize-at-turneffe-atoll/ (opened: three target species, varied flats, established guides and mandatory release); https://www.turneffeatoll.org/catch-release-legislation (indexed: rare Grand Slam opportunity); https://www.oneoutdoors.org/guides/belize-fishing-trips/ (indexed specialist context, comparative catch claims not used); https://assets.worldwildlife.org/www-prd/documents/61f582pm6i_Submission_3_FINAL_CEO_ER.Prodoc_Belize_RBB_WWF_GEF8_Copy.pdf (indexed coordinate table only).
+- Worldwide peers (qualitative; numerical GT peers from previous audits, not refetched):
+  - Ascension Bay flats (MX): comparable three-species specialist fishing
+  - Jardines de la Reina (CU): broader remote marine ecosystem
+  - Iztapa sailfish (GT, 90.70): distinctive offshore fishery rather than shallow flats
+  - Christmas Island flats (KI): more remote bonefish-focused destination.
+- Individual scores:
+  - impact: 9.0 — Shallow tropical flats and gamefish encounters provide high specialist impact
+  - uniqueness: 9.3 — Uncommon chance to pursue three highly prized species in one day
+  - significance: 8.7 — Established international fishery significance, no conservation bonus for fishing
+  - experience: 9.3 — Varied flats habitats and guided full-day fishing support exceptional specialist experience
+  - depth: 8.8 — Multiple species and distinct habitat techniques support depth.
+- Categories: adventure 9.4, nature 8.7.
+- Overall: 90.40/100.
+- High-score challenge: Documented unusual specialist or cultural scope supports low 90s; relative peer comparisons above constrain the rating. No promised catches, private participation or parent site score inheritance. No 9.5+ field or approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact visitor locations, additional numerical peer comparisons and full diagnostics.
+
+## sight-bz-gales-point-christmas-bram-sambai — Gales Point Christmas Bram and Sambai — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/gales-point-christmas-bram-sambai.yaml)
+- Action: new
+- Precise subject: Publicly accessible community-led Christmas and Boxing Day music and dance, not private homes or guaranteed participation; town reference point.
+- Location check: 17.171, -88.335; approximate representative point, not verified entrance.
+- Evidence status: fact-checked; not comprehensive field verification.
+- Sources consulted 2026-11-28: https://www.travelbelize.org/blog/belize-krismos-bram-and-sambai-inscribed-by-unesco-as-intangible-cultural-heritage-of-humanity/ (opened: annual house-to-house processions, African-rooted rhythms, bonfire dance and community transmission); https://ich.unesco.org/en/state/belize-BZ (indexed: 2025 inscription); https://ich.unesco.org/en/decisions/20.COM/7.B.7 (indexed decision); https://openadmindata.org/bz/districts/stann-creek-bz05/ (village coordinate table; approximate).
+- Worldwide peers (qualitative; numerical GT peers from previous audits, not refetched):
+  - Junkanoo (BS): much larger organized public procession
+  - Livingston Garífuna Day (GT): related regional Afro-descendant heritage but distinct practices
+  - Gnaoua Festival (MA): larger international performance festival
+  - Rabinal Achí (GT): rare Indigenous dramatic tradition, distinct ceremonial form.
+- Individual scores:
+  - impact: 8.7 — Drumming, dancing and community procession create strong atmosphere
+  - uniqueness: 9.4 — Distinctive Maroon Kriol tradition combining two linked practices is unusually rare
+  - significance: 9.4 — UNESCO-inscribed living heritage and community transmission support high significance
+  - experience: 8.5 — Respectful public viewing is meaningful but private household participation not assumed
+  - depth: 8.8 — Two days of related performance and cultural interpretation offer substantial breadth.
+- Categories: culture 9.4, history 9.3.
+- Overall: 89.95/100.
+- High-score challenge: No 90+ overall. No 9.5+ field or approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact visitor locations, additional numerical peer comparisons and full diagnostics.
+
+## sight-bz-gladden-spit-silk-cayes — Gladden Spit and Silk Cayes Marine Reserve — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/gladden-spit-silk-cayes.yaml)
+- Action: new
+- Precise subject: Reserve-specific reef and caye excursions and fish spawning ecology; excludes guaranteed whale shark encounters, whole barrier reef, other named reserves.
+- Location check: 16.45223, -88.040375; approximate representative point, not verified entrance.
+- Evidence status: fact-checked; not comprehensive field verification.
+- Sources consulted 2026-11-28: https://fisheries.gov.bz/gsscmr/ (opened: multi-species spawning and reserve purposes; historical whale shark account); https://staging-www.iucnredlist.org/es/species/19488/126673248/pdf (indexed: cessation of predictable aggregation and rare visits); https://splashbelize.com/scuba-diving-sites/whale-sharks-at-gladden-spit/ (indexed operator reports: no sightings in 2024 and one in 2025); https://library.oarcloud.noaa.gov/noaa_documents.lib/CoRIS/Gladden-Spit-and-Silk-Cayes-Mgmt-Plan_2011-16.pdf (indexed coordinate excerpt 16°27′08.04″N 88°02′25.35″W, converted).
+- Worldwide peers (qualitative; numerical GT peers from previous audits, not refetched):
+  - Ningaloo Reef (AU): stronger established whale shark encounter
+  - Isla Holbox (MX): more reliable seasonal whale shark encounter
+  - Glover's Reef (BZ): broader atoll landscape
+  - Apo Island (PH): comparable reef conservation and diving experience.
+- Individual scores:
+  - impact: 8.8 — Reef and sand cayes provide strong marine scenery
+  - uniqueness: 9.0 — Significant spawning aggregation site is unusual but former shark spectacle not credited
+  - significance: 9.3 — Important multi-species fish reproductive habitat supports high significance
+  - experience: 8.6 — Ordinary authorized marine excursions are rewarding without shark guarantee
+  - depth: 8.8 — Reef habitats and multiple cayes provide substantial exploration breadth.
+- Categories: nature 9.2, wildlife 9.1, adventure 9.0, photography 8.9.
+- Overall: 89.20/100.
+- High-score challenge: No 90+ overall. No 9.5+ field or approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact visitor locations, additional numerical peer comparisons and full diagnostics.
+
+## sight-bz-swallow-caye-manatee — Swallow Caye Wildlife Sanctuary Manatee Observation — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/swallow-caye-manatee.yaml)
+- Action: new
+- Precise subject: Regulated boat observation of wild manatees at sanctuary; no swimming with, touching or feeding animals, sightings not guaranteed.
+- Location check: 17.5, -88.12; approximate representative point, not verified entrance.
+- Evidence status: fact-checked; not comprehensive field verification.
+- Sources consulted 2026-11-28: https://www.travelbelize.org/attraction/swallow-caye/ (opened: protected habitat, restricted propulsion and boat observation); https://assets.worldwildlife.org/www-prd/documents/61f582pm6i_Submission_3_FINAL_CEO_ER.Prodoc_Belize_RBB_WWF_GEF8_Copy.pdf (indexed reserve coordinate).
+- Worldwide peers (qualitative; numerical GT peers from previous audits, not refetched):
+  - Crystal River (US): greater established manatee viewing scale
+  - Bocas del Polochic (GT): broader delta biodiversity
+  - Sian Ka’an (MX): broader marine and wetland landscape
+  - Gales Point (BZ): different lagoon/community setting.
+- Individual scores:
+  - impact: 8.6 — Wild manatee observation offers strong wildlife impact
+  - uniqueness: 8.8 — Focused protected manatee habitat distinguishes site
+  - significance: 9.0 — Threatened species conservation supports significance
+  - experience: 8.7 — Regulated boat observation provides rewarding encounter without guarantee
+  - depth: 8.2 — Single main wildlife focus limits breadth.
+- Categories: wildlife 9.3, nature 9.0, photography 8.8.
+- Overall: 87.05/100.
+- High-score challenge: No 90+ overall. No 9.5+ field or approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact visitor locations, additional numerical peer comparisons and full diagnostics.
+
+## sight-bz-gales-point-wildlife-sanctuary — Gales Point Wildlife Sanctuary and Lagoon — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/gales-point-wildlife-sanctuary.yaml)
+- Action: new
+- Precise subject: Named protected lagoon ecosystem and lawful wildlife viewing, separate from Christmas tradition; no turtle handling or guaranteed sightings.
+- Location check: 17.2155, -88.34; approximate representative point, not verified entrance.
+- Evidence status: source-linked-unverified; not comprehensive field verification.
+- Sources consulted 2026-11-28: https://www.travelbelize.org/blog/gales-point-unsuspecting-conservation-hotspot-belize/ (indexed: manatees, turtles and community conservation); https://files.worldwildlife.org/wwfcmsprod/files/Publication/file/61f582pm6i_Submission_3_FINAL_CEO_ER.Prodoc_Belize_RBB_WWF_GEF8_Copy.pdf (indexed reserve coordinate).
+- Worldwide peers (qualitative; numerical GT peers from previous audits, not refetched):
+  - Bocas del Polochic (GT): broader freshwater delta
+  - Tortuguero (CR): more developed wildlife routes
+  - Sian Ka’an (MX): greater ecosystem diversity
+  - Swallow Caye (BZ): more focused documented manatee viewing.
+- Individual scores:
+  - impact: 8.5 — Quiet lagoon and wildlife provide strong scenery
+  - uniqueness: 8.7 — Distinct coastal lagoon community conservation setting
+  - significance: 8.9 — Manatee and turtle habitat support ecological significance
+  - experience: 8.4 — Lawful wildlife observation offers meaningful visit but route details unverified
+  - depth: 8.7 — Multiple habitats add depth.
+- Categories: nature 9.1, wildlife 9.2, photography 8.7.
+- Overall: 86.35/100.
+- High-score challenge: No 90+ overall. No 9.5+ field or approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact visitor locations, additional numerical peer comparisons and full diagnostics.
+
+## sight-bz-belize-city-carnival — Belize City Carnival Road March and J'ouvert — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/belize-city-carnival.yaml)
+- Action: new
+- Precise subject: Combined public September road march and J'ouvert as one carnival event, not other national celebrations; approximate city reference point.
+- Location check: 17.5046, -88.1962; approximate representative point, not verified entrance.
+- Evidence status: source-linked-unverified; not comprehensive field verification.
+- Sources consulted 2026-11-28: https://www.travelbelize.org/event/carnival-road-march-jouvert/ (indexed: street party and afternoon parade); https://www.travelbelize.org/blog/the-ultimate-guide-to-participating-in-belizes-carnival/ (indexed: 50-year tradition, bands and costume competition).
+- Worldwide peers (qualitative; numerical GT peers from previous audits, not refetched):
+  - Port of Spain Carnival (TT): much larger international celebration
+  - Junkanoo (BS): more distinctive costume tradition
+  - Crop Over (BB): broader festival program
+  - Dangriga Settlement Day (BZ): stronger historic ethnic heritage.
+- Individual scores:
+  - impact: 8.8 — Colorful bands and public procession provide strong impact
+  - uniqueness: 8.5 — Carnival format is internationally widespread
+  - significance: 8.5 — National cultural celebration with decades of tradition
+  - experience: 9.0 — Multiple public performances provide rewarding viewing
+  - depth: 8.5 — Two linked events create substantial breadth.
+- Categories: culture 9.1, nightlife 8.8, photography 9.0.
+- Overall: 86.65/100.
+- High-score challenge: No 90+ overall. No 9.5+ field or approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact visitor locations, additional numerical peer comparisons and full diagnostics.
+
+## sight-bz-punta-gorda-chocolate-festival — Punta Gorda Chocolate Festival of Belize — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/punta-gorda-chocolate-festival.yaml)
+- Action: new
+- Precise subject: Annual public cacao and chocolate festival, not all Toledo cacao farms; approximate Punta Gorda town point.
+- Location check: 16.098, -88.809; approximate representative point, not verified entrance.
+- Evidence status: source-linked-unverified; not comprehensive field verification.
+- Sources consulted 2026-11-28: https://www.travelbelize.org/event/chocolate-festival-of-belize/ (indexed: annual May event); https://www.travelbelize.org/blog/taste-the-legacy-of-cacao-in-belize/ (indexed historical cacao context).
+- Worldwide peers (qualitative; numerical GT peers from previous audits, not refetched):
+  - Eurochocolate Perugia (IT): much greater confectionery event scale
+  - Salon du Chocolat Paris (FR): broader international industry showcase
+  - ChocoMuseo workshops (PE): comparable cacao interpretation, different format
+  - San Juan La Laguna weaving (GT): different focused living craft heritage.
+- Individual scores:
+  - impact: 8.1 — Chocolate displays and food offer strong specialist appeal
+  - uniqueness: 8.7 — Maya cacao heritage distinguishes festival from generic chocolate fairs
+  - significance: 8.6 — Regional agricultural and culinary history supports significance
+  - experience: 8.8 — Tastings and public demonstrations offer engaging experience
+  - depth: 8.5 — Multiple products and cultural activities support breadth.
+- Categories: food 9.2, culture 9.0, history 8.8.
+- Overall: 84.95/100.
+- High-score challenge: No 90+ overall. No 9.5+ field or approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact visitor locations, additional numerical peer comparisons and full diagnostics.
