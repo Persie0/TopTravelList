@@ -1224,3 +1224,9 @@
 | [iwokrama rainforest (GY)](../../../countries/GY/sights/iwokrama-rainforest.yaml) | 8.9 / 8.8 / 9.2 / 8.7 / 9.0 | 89.15 | Multi-route rainforest interpretation. |
 | [cuyabeno wildlife reserve (EC)](../../../countries/EC/sights/cuyabeno-wildlife-reserve.yaml) | 8.9 / 8.9 / 9.0 / 8.9 / 8.8 | 89.10 | Guided forest and river wildlife circuits. |
 
+## sight-cr-area-de-conservacion-guanacaste-unesco-property — Area de Conservación Guanacaste (UNESCO property) — 2026-11-28 post-merge 93+ scope check
+
+- [YAML](../../../countries/CR/sights/area-de-conservacion-guanacaste-unesco-property.yaml) · Action: source/scope check only · **source-linked-unverified**.
+- Evidence reviewed 2026-11-28: [UNESCO](https://whc.unesco.org/en/list/928/) confirms important dry forest and terrestrial-to-marine habitats; [ACG Santa Rosa sector](https://www.acguanacaste.ac.cr/turismo/sector-santa-rosa) provides a specific tourism sector reference. Significance 9.6, nature/wildlife 9.5 reflect habitat importance, while visual impact/uniqueness depend on ecological contrasts and experience/depth on actual sectors. Do not credit the entire province or guarantee wildlife sightings.
+- Qualitative comparison leads (peer YAML ratings not independently checked): Sian Ka'an (Mexico): different coastal wetland mosaic; Talamanca (Costa Rica/Panama): mountain forests; Corcovado (Costa Rica): narrower rainforest; Kakadu (Australia): diverse tropical habitats with different cultural context.
+- Current I/U/S/E/D: 9.3 / 9.4 / 9.6 / 9.2 / 9.3; overall 93.70/100. All ratings retained provisionally; no coordinate or category changes. This limited review is not full international calibration or verification of current access.
