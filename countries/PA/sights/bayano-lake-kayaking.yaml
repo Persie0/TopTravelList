@@ -1,0 +1,16 @@
+id: sight-pa-bayano-lake-kayaking
+name: "Bayano Lake Kayaking and Island Exploration"
+location:
+  country_code: PA
+  latitude: 9.170694
+  longitude: -78.796167
+scores:
+  impact: 8.3
+  uniqueness: 8.0
+  significance: 7.6
+  experience: 8.7
+  depth: 8.0
+  categories:
+    nature: 8.7
+    adventure: 8.9
+    photography: 8.6
