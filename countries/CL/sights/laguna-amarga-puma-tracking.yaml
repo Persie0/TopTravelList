@@ -1,0 +1,16 @@
+id: sight-cl-laguna-amarga-puma-tracking
+name: "Estancia Laguna Amarga Guided Puma Watching"
+location:
+  country_code: CL
+  latitude: -50.98
+  longitude: -72.73
+scores:
+  impact: 9.4
+  uniqueness: 9.4
+  significance: 9.0
+  experience: 9.1
+  depth: 9.0
+  categories:
+    wildlife: 9.4
+    photography: 9.4
+    nature: 9.2

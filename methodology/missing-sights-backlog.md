@@ -5641,3 +5641,18 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] CL — Niebla Fort and Valdivia Defensive Heritage Museum: 86.80/100 (source-linked provisional).
 
 7 source-linked provisional additions, 6 90+, 14 ranking-row comparisons (5 international, 9 domestic). CL 73 ranked / 74 total, +7 since baseline 67. All seven inscribed UNESCO properties already represented at property level (https://whc.unesco.org/en/statesparties/CL); 19 tentative properties require detailed mapping. Niebla covers only part of the tentative Valdivia defensive complex. Tapati and Arica historical 2026 editions documented, La Tirana festival distinct from UNESCO-listed baile chino practice; no future dates assumed. Futaleufu guided rafting and Dientes trek separate from park records. Carretera Austral deferred pending route versus existing site overlap. Existing scores and one unassessed preserved. Chile OPEN; coordinates approximate, full Python validation, independent peer YAML checks, current conditions and international calibration pending.
+
+### Pass 319 — Chile wildlife, wilderness and heritage
+
+- [x] CL — Estancia Laguna Amarga Guided Puma Watching: 92.35/100 (source-linked provisional).
+- [x] CL — Francisco Coloane Marine Park Guided Whale Watching: 91.50/100 (source-linked provisional).
+- [x] CL — Bahía Inútil King Penguin Nature Reserve Guided Viewing: 91.05/100 (source-linked provisional).
+- [x] CL — Ojos del Salado Volcano Chilean Mountaineering Route: 92.00/100 (source-linked provisional).
+- [x] CL — Alberto de Agostini National Park Maritime Glacier Landscapes: 90.80/100 (source-linked provisional).
+- [x] CL — Pali Aike National Park Volcanic Trails and Archaeological Cave: 88.30/100 (source-linked provisional).
+- [x] CL — Alerce Andino National Park Ancient Forest Trails: 88.70/100 (source-linked provisional).
+- [x] CL — Lota Chiflón del Diablo Mining Heritage Tour: 89.25/100 (source-linked provisional).
+- [x] CL — Iquique Baquedano Historic Street Architectural Heritage: 85.80/100 (source-linked provisional).
+- [x] CL — Iquique Cerro Dragón Dune Sandboarding and Paragliding: 87.75/100 (source-linked provisional).
+
+10 source-linked provisional additions, 5 90+, 20 ranking-row comparisons (4 international, 16 domestic). CL 83 ranked / 84 total, +17 since baseline 67. All 7 inscribed properties represented at property scope; 19 tentative properties listed by UNESCO (https://whc.unesco.org/en/statesparties/CL). Direct existing or new entries: Juan Fernandez, Torres del Paine/Bernardo O'Higgins, Baquedano, La Moneda, Pintados; Monte Verde legacy unassessed. Partial: San Pedro landscape, Valdivia complex (Niebla), Fell/Pali Aike caves (Pali Aike), Lota (Chiflon mine), Pisco landscape (Elqui Valley). Eight other tentative properties need mapping; boundaries not independently checked. ALMA official public programme suspended (https://www.almaobservatory.org/en/visits/), October special visits not routine; deferred despite tourism listing. Pumas restricted to private estancia outside national park; king penguins guided only, no guaranteed sightings. Ojos del Salado Chilean expedition scope; binational legacy mapping pending. Pali Aike trails and cave grouped, Lota mine one of four tentative serial components. Elqui distilleries not separately added pending parent food scope; Carretera Austral remains deferred. Existing scores and one unassessed preserved. Chile OPEN; coordinates approximate, full Python validation, independent peer YAML checks, current conditions and global calibration pending.

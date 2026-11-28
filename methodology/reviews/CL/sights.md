@@ -1488,3 +1488,210 @@ Ranking-row comparisons include cross-type domestic references; independent same
 ### Pass 318 scope decisions
 
 7 source-linked provisional additions, 6 90+, 14 ranking-row comparisons (5 international, 9 domestic). CL 73 ranked / 74 total, +7 since baseline 67. All seven inscribed UNESCO properties already represented at property level (https://whc.unesco.org/en/statesparties/CL); 19 tentative properties require detailed mapping. Niebla covers only part of the tentative Valdivia defensive complex. Tapati and Arica historical 2026 editions documented, La Tirana festival distinct from UNESCO-listed baile chino practice; no future dates assumed. Futaleufu guided rafting and Dientes trek separate from park records. Carretera Austral deferred pending route versus existing site overlap. Existing scores and one unassessed preserved. Chile OPEN; coordinates approximate, full Python validation, independent peer YAML checks, current conditions and international calibration pending.
+
+
+### Pass 319 — Chile wildlife, wilderness and heritage
+
+## sight-cl-laguna-amarga-puma-tracking — Estancia Laguna Amarga Guided Puma Watching — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/laguna-amarga-puma-tracking.yaml)
+- Action: new
+- Scope: Guided observation on the private estancia outside park boundaries only. Sightings not guaranteed; conservation protocols apply.
+- Representative coordinates: -50.98, -72.73; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://chile.travel/en/blog/puma-watching-in-chile-why-we-are-the-hollywood-for-this-big-cat/ ; https://farsouthexp.com/portfolio/patagonia-puma-tracking-tours/
+- Core I/U/S/E/D: 9.4 / 9.4 / 9.0 / 9.1 / 9.0.
+- Categories: wildlife:9.4 photography:9.4 nature:9.2.
+- Overall: 92.35/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/puerto-madryn-sea-lion-snorkeling](../../../countries/AR/sights/puerto-madryn-sea-lion-snorkeling.yaml) | 9.2 / 9.4 / 8.9 / 9.3 / 8.7 | impact: 0.2; uniqueness: 0.0 vs peer |
+| [CL/torres-del-paine-national-park](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | 9.9 / 9.7 / 9.3 / 9.4 / 9.6 | impact: -0.5; uniqueness: -0.3 vs peer |
+
+Ranking-row comparisons include cross-type domestic references; independent same-type calibration, coordinates and peer YAML checks pending.
+
+## sight-cl-francisco-coloane-whale-watching — Francisco Coloane Marine Park Guided Whale Watching — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/francisco-coloane-whale-watching.yaml)
+- Action: new
+- Scope: Boat-based seasonal cetacean viewing in the marine park; distinct from land-based penguin sites and glacial cruises. No sightings guaranteed.
+- Representative coordinates: -53.88, -72.32; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://chile.travel/en/attractions/francisco-coloane-marine-park/ ; https://chile.travel/en/blog/five-places-to-watch-whales-and-penguins-in-the-south-of-chile/
+- Core I/U/S/E/D: 9.4 / 9.2 / 9.0 / 9.0 / 8.8.
+- Categories: wildlife:9.4 nature:9.3 photography:9.4.
+- Overall: 91.50/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/el-doradillo-whales](../../../countries/AR/sights/el-doradillo-whales.yaml) | 9.3 / 9.3 / 9.0 / 9.0 / 8.6 | impact: 0.1; uniqueness: -0.1 vs peer |
+| [CL/humboldt-penguin-national-reserve](../../../countries/CL/sights/humboldt-penguin-national-reserve.yaml) | 8.5 / 8.7 / 8.6 / 8.5 / 7.5 | impact: 0.9; uniqueness: 0.5 vs peer |
+
+Ranking-row comparisons include cross-type domestic references; independent same-type calibration, coordinates and peer YAML checks pending.
+
+## sight-cl-bahia-inutil-king-penguins — Bahía Inútil King Penguin Nature Reserve Guided Viewing — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/bahia-inutil-king-penguins.yaml)
+- Action: new
+- Scope: Ranger-guided viewing from permitted positions at Tierra del Fuego breeding colony; not other penguin species or unrestricted access.
+- Representative coordinates: -53.45, -69.32; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.pinguinorey.com/en/visit-king-penguins/ ; https://chile.travel/en/attractions/king-penguin-natural-reserve/
+- Core I/U/S/E/D: 9.1 / 9.4 / 9.2 / 8.9 / 8.5.
+- Categories: wildlife:9.4 photography:9.3 nature:9.2.
+- Overall: 91.05/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/puerto-madryn-sea-lion-snorkeling](../../../countries/AR/sights/puerto-madryn-sea-lion-snorkeling.yaml) | 9.2 / 9.4 / 8.9 / 9.3 / 8.7 | impact: -0.1; uniqueness: 0.0 vs peer |
+| [CL/los-pinguinos-natural-monument-magdalena-island](../../../countries/CL/sights/los-pinguinos-natural-monument-magdalena-island.yaml) | 8.6 / 8.7 / 8.5 / 8.7 / 7.3 | impact: 0.5; uniqueness: 0.7 vs peer |
+
+Ranking-row comparisons include cross-type domestic references; independent same-type calibration, coordinates and peer YAML checks pending.
+
+## sight-cl-ojos-del-salado — Ojos del Salado Volcano Chilean Mountaineering Route — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/ojos-del-salado.yaml)
+- Action: new
+- Scope: Chilean approach and high-altitude expedition experience to the binational volcano; no summit success, access or fitness assumption. Argentina ranking checked for exact name, not complete route mapping.
+- Representative coordinates: -27.11, -68.55; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://chile.travel/en/attractions/ojos-del-salado-volcano/
+- Core I/U/S/E/D: 9.4 / 9.5 / 9.1 / 8.5 / 9.1.
+- Categories: adventure:9.4 nature:9.3 photography:9.4.
+- Overall: 92.00/100.
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: Ojos del Salado uniqueness 9.5 reflects exceptional elevation and highest active volcano status according to Chile Travel; independent comparison with other high-altitude volcanoes pending.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CL/dientes-de-navarino](../../../countries/CL/sights/dientes-de-navarino.yaml) | 9.3 / 9.3 / 8.6 / 9.0 / 9.1 | impact: 0.1; uniqueness: 0.2 vs peer |
+| [CL/osorno-volcano-authorized-visitor-area](../../../countries/CL/sights/osorno-volcano-authorized-visitor-area.yaml) | 9.1 / 8.7 / 7.9 / 8.5 / 7.9 | impact: 0.3; uniqueness: 0.8 vs peer |
+
+Ranking-row comparisons include cross-type domestic references; independent same-type calibration, coordinates and peer YAML checks pending.
+
+## sight-cl-alberto-de-agostini-national-park — Alberto de Agostini National Park Maritime Glacier Landscapes — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/alberto-de-agostini-national-park.yaml)
+- Action: new
+- Scope: Designated maritime glacier scenery, excluding Cape Horn landings and Francisco Coloane whale watching. No independent interior expedition assumed.
+- Representative coordinates: -54.6, -70.3; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.conaf.cl/parque_nacionales/parque-nacional-alberto-de-agostini/ ; https://chile.travel/en/destinations/tierra-del-fuego/
+- Core I/U/S/E/D: 9.4 / 9.2 / 8.9 / 8.6 / 8.9.
+- Categories: nature:9.4 photography:9.4 adventure:9.1.
+- Overall: 90.80/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CL/laguna-san-rafael-national-park](../../../countries/CL/sights/laguna-san-rafael-national-park.yaml) | 9.4 / 9.2 / 9.1 / 8.2 / 8.6 | impact: 0.0; uniqueness: 0.0 vs peer |
+| [CL/bernardo-o-higgins-national-park](../../../countries/CL/sights/bernardo-o-higgins-national-park.yaml) | 9.4 / 9.2 / 9.2 / 7.8 / 8.5 | impact: 0.0; uniqueness: 0.0 vs peer |
+
+Ranking-row comparisons include cross-type domestic references; independent same-type calibration, coordinates and peer YAML checks pending.
+
+## sight-cl-pali-aike-national-park — Pali Aike National Park Volcanic Trails and Archaeological Cave — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/pali-aike-national-park.yaml)
+- Action: new
+- Scope: Public CONAF trails and Pali Aike cave grouped; Fell Cave not included, tentative serial property partially represented.
+- Representative coordinates: -52.1, -69.7; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.conaf.cl/parque_nacionales/parque-nacional-pali-aike/ ; https://whc.unesco.org/en/statesparties/CL
+- Core I/U/S/E/D: 8.8 / 9.0 / 9.0 / 8.6 / 8.5.
+- Categories: nature:9.2 history:9.0 photography:9.3.
+- Overall: 88.30/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CL/mylodon-cave-natural-monument](../../../countries/CL/sights/mylodon-cave-natural-monument.yaml) | 7.9 / 8.1 / 8.4 / 8.0 / 7.0 | impact: 0.9; uniqueness: 0.9 vs peer |
+| [CL/conguillio-national-park](../../../countries/CL/sights/conguillio-national-park.yaml) | 9.1 / 9.1 / 8.9 / 8.8 / 8.7 | impact: -0.3; uniqueness: -0.1 vs peer |
+
+Ranking-row comparisons include cross-type domestic references; independent same-type calibration, coordinates and peer YAML checks pending.
+
+## sight-cl-alerce-andino-national-park — Alerce Andino National Park Ancient Forest Trails — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/alerce-andino-national-park.yaml)
+- Action: new
+- Scope: Temperate rainforest and ancient alerce trees on designated trails. Separate from Pumalin and Argentine Los Alerces.
+- Representative coordinates: -41.57, -72.58; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://chile.travel/en/attractions/alerce-andino-national-park/
+- Core I/U/S/E/D: 8.8 / 8.9 / 9.1 / 8.7 / 8.8.
+- Categories: nature:9.3 photography:9.2 wildlife:9.0.
+- Overall: 88.70/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/los-alerces-national-park](../../../countries/AR/sights/los-alerces-national-park.yaml) | 9.1 / 8.9 / 9.4 / 8.8 / 8.8 | impact: -0.3; uniqueness: 0.0 vs peer |
+| [CL/pumalin-douglas-tompkins-national-park](../../../countries/CL/sights/pumalin-douglas-tompkins-national-park.yaml) | 9.1 / 8.9 / 9.2 / 8.6 / 8.9 | impact: -0.3; uniqueness: 0.0 vs peer |
+
+Ranking-row comparisons include cross-type domestic references; independent same-type calibration, coordinates and peer YAML checks pending.
+
+## sight-cl-lota-chiflon-del-diablo — Lota Chiflón del Diablo Mining Heritage Tour — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/lota-chiflon-del-diablo.yaml)
+- Action: new
+- Scope: Public coal mine heritage interpretation and guided underground route; only one of four proposed serial property components. No assumption of present underground access.
+- Representative coordinates: -37.092, -73.16; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://chile.travel/en/attractions/chiflon-del-diablo-mine/ ; https://whc.unesco.org/en/tentativelists/6498
+- Core I/U/S/E/D: 8.8 / 9.1 / 9.2 / 8.8 / 8.5.
+- Categories: history:9.4 culture:9.2 architecture:9.0.
+- Overall: 89.25/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CL/sewell-mining-town](../../../countries/CL/sights/sewell-mining-town.yaml) | 8.2 / 9.2 / 9.2 / 7.9 / 7.9 | impact: 0.6; uniqueness: -0.1 vs peer |
+| [CL/humberstone-and-santa-laura-saltpeter-works](../../../countries/CL/sights/humberstone-and-santa-laura-saltpeter-works.yaml) | 8.4 / 9.1 / 9.3 / 8.3 / 8.5 | impact: 0.4; uniqueness: 0.0 vs peer |
+
+Ranking-row comparisons include cross-type domestic references; independent same-type calibration, coordinates and peer YAML checks pending.
+
+## sight-cl-iquique-baquedano — Iquique Baquedano Historic Street Architectural Heritage — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/iquique-baquedano.yaml)
+- Action: new
+- Scope: Historic boulevard architecture and public streetscape; separate from the saltpeter works outside the city.
+- Representative coordinates: -20.218, -70.151; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://chile.travel/en/itineraries/recorre-iquique-y-las-antiguas-salitreras-en-el-desierto/ ; https://whc.unesco.org/en/statesparties/CL
+- Core I/U/S/E/D: 8.4 / 8.6 / 8.9 / 8.6 / 8.4.
+- Categories: architecture:9.2 history:9.1 photography:9.0.
+- Overall: 85.80/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CL/historic-quarter-of-the-seaport-city-of-valparaiso](../../../countries/CL/sights/historic-quarter-of-the-seaport-city-of-valparaiso.yaml) | 9.0 / 9.0 / 9.3 / 8.4 / 8.8 | impact: -0.6; uniqueness: -0.4 vs peer |
+| [CL/humberstone-and-santa-laura-saltpeter-works](../../../countries/CL/sights/humberstone-and-santa-laura-saltpeter-works.yaml) | 8.4 / 9.1 / 9.3 / 8.3 / 8.5 | impact: 0.0; uniqueness: -0.5 vs peer |
+
+Ranking-row comparisons include cross-type domestic references; independent same-type calibration, coordinates and peer YAML checks pending.
+
+## sight-cl-iquique-cerro-dragon — Iquique Cerro Dragón Dune Sandboarding and Paragliding — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/iquique-cerro-dragon.yaml)
+- Action: new
+- Scope: Grouped urban dune landscape and established recreation; no guarantee of flights or unregulated dune access.
+- Representative coordinates: -20.25, -70.12; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://chile.travel/atractivos/cerro-dragon/ ; https://chile.travel/actividades/aventura-y-deporte/experiencias-en-el-aire/
+- Core I/U/S/E/D: 8.9 / 9.0 / 8.3 / 9.1 / 8.3.
+- Categories: adventure:9.3 photography:9.2 nature:8.9.
+- Overall: 87.75/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CL/valle-de-la-luna](../../../countries/CL/sights/valle-de-la-luna.yaml) | 9.2 / 9.0 / 8.0 / 8.9 / 8.2 | impact: -0.3; uniqueness: 0.0 vs peer |
+| [CL/futaleufu-rafting](../../../countries/CL/sights/futaleufu-rafting.yaml) | 9.4 / 9.2 / 8.8 / 9.3 / 8.9 | impact: -0.5; uniqueness: -0.2 vs peer |
+
+Ranking-row comparisons include cross-type domestic references; independent same-type calibration, coordinates and peer YAML checks pending.
+
+### Pass 319 scope decisions
+
+10 source-linked provisional additions, 5 90+, 20 ranking-row comparisons (4 international, 16 domestic). CL 83 ranked / 84 total, +17 since baseline 67. All 7 inscribed properties represented at property scope; 19 tentative properties listed by UNESCO (https://whc.unesco.org/en/statesparties/CL). Direct existing or new entries: Juan Fernandez, Torres del Paine/Bernardo O'Higgins, Baquedano, La Moneda, Pintados; Monte Verde legacy unassessed. Partial: San Pedro landscape, Valdivia complex (Niebla), Fell/Pali Aike caves (Pali Aike), Lota (Chiflon mine), Pisco landscape (Elqui Valley). Eight other tentative properties need mapping; boundaries not independently checked. ALMA official public programme suspended (https://www.almaobservatory.org/en/visits/), October special visits not routine; deferred despite tourism listing. Pumas restricted to private estancia outside national park; king penguins guided only, no guaranteed sightings. Ojos del Salado Chilean expedition scope; binational legacy mapping pending. Pali Aike trails and cave grouped, Lota mine one of four tentative serial components. Elqui distilleries not separately added pending parent food scope; Carretera Austral remains deferred. Existing scores and one unassessed preserved. Chile OPEN; coordinates approximate, full Python validation, independent peer YAML checks, current conditions and global calibration pending.
